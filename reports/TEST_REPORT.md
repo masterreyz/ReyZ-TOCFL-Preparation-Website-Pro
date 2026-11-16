@@ -30,3 +30,12 @@ Audio playback was tested with 6 real MP3s copied by `sync-media`. The other 1,8
 - The per-question bank importer on the full folder (tested on one sample item).
 - A live deployed URL (no deployment was made; see README §6).
 - Screen-reader walkthrough (semantic structure, labels and focus states were implemented but not tested with assistive technology).
+
+## Live deployment check — https://masterreyz.github.io/ReyZ-TOCFL-Preparation-Website-Pro/ (2026-11-16)
+
+Run in a real browser (Claude desktop browser pane, Windows) against the public URL after the GitHub Pages deployment of commit 4ecbe27:
+- All 21 sampled routes render (home, study levels/books/lessons/page reader, all 4 bands, test intro, search, about, settings, history, mistakes, bookmarks). Deep links survive reload because of hash routing.
+- Content served: 30 tests / 1,450 questions; 90 sampled question crops → HTTP 200; page images for all 12 books → 200; search index 1,426 entries.
+- Full Band B Reading S2 attempt in exam mode, answered with the official key → **100 % (50/50)**. Listening attempt → graded 1/50 as expected, review shows 50 transcripts + 50 speech players. In-progress answers saved to localStorage.
+- Original audio correctly detected as absent (probe 404) → speech-synthesis players shown, no broken audio players.
+- This test machine's browser exposes only English system voices (Microsoft David/Mark/Zira), so speech could not be heard here; the player and Settings correctly show the "no Mandarin voice" guidance. Speech output itself was verified with a recording mock (scripts/e2e_pages.py, 28/28) — real playback requires a Mandarin voice (Chrome/Edge online voices, or an OS voice pack).

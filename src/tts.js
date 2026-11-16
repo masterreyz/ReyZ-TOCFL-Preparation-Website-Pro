@@ -89,7 +89,7 @@ export function SpeakButton(text, label = 'Dengarkan') {
     onclick: () => speakChunks(toChunks(text)).catch(() => alert(NO_VOICE)) }, '🔊');
 }
 
-export const NO_VOICE = 'Browser ini tidak memiliki suara Mandarin. Gunakan Chrome atau Edge terbaru, atau pasang paket bahasa "Chinese (Taiwan)" di pengaturan sistem, lalu muat ulang halaman.';
+export const NO_VOICE = 'Browser/perangkat ini belum memiliki suara Mandarin. Cara termudah: buka situs ini di Google Chrome atau Microsoft Edge (suara Mandarin online sudah tersedia). Atau pasang suara di sistem — Windows: Settings → Time & language → Speech → Add voices → "Chinese (Traditional, Taiwan)"; Android: Pengaturan → Text-to-speech → Google → bahasa Mandarin; iPhone/Mac: sudah tersedia. Lalu muat ulang halaman.';
 
 /**
  * Player for synthesized speech. segments: [{ label, text, pause }] — each segment becomes one or more chunks.
