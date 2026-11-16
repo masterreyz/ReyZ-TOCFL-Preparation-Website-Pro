@@ -181,7 +181,8 @@ export async function testRun({ test: id }, query) {
     const perQ = !listening || mode !== 'practice' ? null
       : useOrig ? (byFile && q.audio?.length ? AudioPlayer(trackObjs(test, q.audio), { title: `Audio soal ${q.n}`, playAll: true, compact: true }) : null)
         : TtsPlayer(ttsSegments(test, q), { title: `Soal ${q.n}`, compact: true, hideText: true });
-    qPane.replaceChildren(
+    qPane.replaceChildren(...[
+
       h('div', { class: 'q-head' }, h('h2', {}, `Soal ${q.n}`), part ? h('span', { class: 'muted' }, `${part.title} ${part.subtitle ? '· ' + part.subtitle : ''}`) : null),
       perQ,
       questionBody(test, q, { selected: prog.answers[q.n], onSelect: (L) => { prog.answers[q.n] = L; save(); renderNav(); } }),
@@ -189,7 +190,7 @@ export async function testRun({ test: id }, query) {
         h('button', { class: 'btn', type: 'button', disabled: cur === 0 || null, onclick: () => go(cur - 1) }, '← ' + t('prev')),
         prog.answers[q.n] ? h('button', { class: 'btn ghost', type: 'button', onclick: () => { delete prog.answers[q.n]; save(); renderQ(); renderNav(); } }, 'Hapus jawaban') : null,
         cur < test.questions.length - 1 ? h('button', { class: 'btn primary', type: 'button', onclick: () => go(cur + 1) }, t('next') + ' →')
-          : h('button', { class: 'btn primary', type: 'button', onclick: submit }, t('submit'))));
+          : h('button', { class: 'btn primary', type: 'button', onclick: submit }, t('submit')))].filter(Boolean));
   }
   function submit(force) {
     const unanswered = test.questions.filter((q) => !prog.answers[q.n]).map((q) => q.n);
