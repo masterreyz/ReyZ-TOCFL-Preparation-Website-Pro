@@ -1,0 +1,27 @@
+[
+ {
+  "test": "a-l1",
+  "kind": "answer_key_label_mismatch",
+  "detail": "answer key prints question number 44 at the position of question 34; used position (answer B)"
+ },
+ {
+  "test": "a-l2",
+  "kind": "answer_key_label_mismatch",
+  "detail": "answer key prints question number 44 at the position of question 34; used position (answer A)"
+ },
+ {
+  "test": "a-l3",
+  "kind": "answer_key_label_mismatch",
+  "detail": "answer key prints question number 44 at the position of question 34; used position (answer B)"
+ },
+ {
+  "test": "a-l4",
+  "kind": "answer_key_label_mismatch",
+  "detail": "answer key prints question number 4 at the position of question 34; used position (answer B)"
+ },
+ {
+  "test": "b-l5",
+  "kind": "parts_from_script",
+  "detail": "booklet part headers not detected; parts taken from listening script headings"
+ }
+]

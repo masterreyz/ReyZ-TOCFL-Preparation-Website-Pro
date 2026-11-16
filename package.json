@@ -1,0 +1,19 @@
+{
+  "name": "reyz-tocfl-preparation-website",
+  "private": true,
+  "version": "1.0.0",
+  "description": "ReyZ TOCFL Preparation Website — created by Reynard Agahari",
+  "type": "module",
+  "scripts": {
+    "sync-media": "node scripts/sync-media.mjs",
+    "build-index": "node scripts/build-search.mjs",
+    "validate": "node scripts/validate-content.mjs",
+    "dev": "npm run build-index && vite",
+    "build": "npm run build-index && npm run validate && vite build",
+    "preview": "vite preview",
+    "test": "node scripts/validate-content.mjs && node scripts/test-grading.mjs"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}
