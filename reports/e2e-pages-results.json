@@ -1,0 +1,142 @@
+[
+ {
+  "test": "home loads",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "intro explains TTS",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "no original-audio player shown",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "Q1 spoken from official script",
+  "ok": true,
+  "detail": "他們在哪裡？A， 銀行B， 教室C， 郵局"
+ },
+ {
+  "test": "uses zh-TW voice",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "script text hidden during test",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "review replays question via TTS",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "exam mode reads whole test in order",
+  "ok": true,
+  "detail": "['第1題', '最近老是下雨，我都不能去外面運動。', '下雨天，就去運動中心裡面運動啊！']"
+ },
+ {
+  "test": "question crop image loads",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "dialogue line speak button",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "vocab speak button",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "book page image loads",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "page lesson explains missing audio",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "voice picker lists zh voices only",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "route #/study",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "route #/study/c2",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "route #/book/b1-wo",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "route #/exercise",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "route #/exercise/c",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "route #/search?q=茶",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "route #/about",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "route #/history",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "route #/mistakes",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "route #/bookmarks",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "route #/page/c1-te/40",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "deep link survives reload",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "no failed requests (except audio probe)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "no JS errors",
+  "ok": true,
+  "detail": ""
+ }
+]

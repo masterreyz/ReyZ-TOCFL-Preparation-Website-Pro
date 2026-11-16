@@ -1,7 +1,11 @@
 import { h, getJson, mediaUrl } from '../util.js';
 import { t } from '../i18n.js';
 import { store } from '../store.js';
-import { AudioPlayer } from '../audio.js';
+import { AudioPlayer, originalAudio } from '../audio.js';
+import { TtsPlayer, SpeakButton } from '../tts.js';
+
+let ORIG = false; // set per view from originalAudio()
+const NO_ORIG_NOTE = 'Rekaman audio asli tidak tersedia di versi online ini. Suara sintetis Mandarin (TTS) tersedia untuk pelajaran yang sudah dimigrasi menjadi teks.';
 import { progressBar } from './home.js';
 
 const bookIdOf = (lessonId) => lessonId.split('-l')[0];
@@ -47,6 +51,7 @@ export async function levelView({ level }) {
 
 export async function bookView({ book }) {
   const b = await getJson(`content/study/${book}.json`);
+  ORIG = await originalAudio();
   const lvId = b.level;
   const range = (r, label) => r ? h('li', {}, h('a', { href: `#/page/${b.id}/${r.start}` }, label), h('span', { class: 'muted' }, ` · hlm. PDF ${r.start}–${r.end}`)) : null;
   return h('div', { class: 'wrap narrow' },
@@ -57,11 +62,12 @@ export async function bookView({ book }) {
       h('ul', { class: 'toc' }, range(b.frontMatter, 'Bagian depan (kata pengantar, pendahuluan, daftar isi)'),
         ...b.lessons.map((l) => h('li', {}, h('a', { href: `#/lesson/${l.id}` }, `Pelajaran ${l.n}${l.titleOcr ? ' · ' + l.titleOcr : ''}`), h('span', { class: 'muted' }, ` · hlm. ${l.start}–${l.end} · ${l.tracks.length} audio`))),
         range(b.backMatter, 'Bagian belakang (lampiran, indeks)'))),
-    b.otherTracks?.length ? h('section', { class: 'card' }, h('h2', { class: 'h3' }, 'Audio lain'), AudioPlayer(b.otherTracks.map((x) => ({ src: x.src, label: x.label || x.file })), { title: 'Audio umum' })) : null);
+    ORIG && b.otherTracks?.length ? h('section', { class: 'card' }, h('h2', { class: 'h3' }, 'Audio lain'), AudioPlayer(b.otherTracks.map((x) => ({ src: x.src, label: x.label || x.file })), { title: 'Audio umum' })) : null);
 }
 
 export async function lessonView({ lesson }) {
   const book = await getJson(`content/study/${bookIdOf(lesson)}.json`);
+  ORIG = await originalAudio();
   const i = book.lessons.findIndex((l) => l.id === lesson);
   const l = book.lessons[i];
   if (!l) throw new Error('Pelajaran tidak ditemukan');
@@ -83,7 +89,7 @@ export async function lessonView({ lesson }) {
     prev ? h('a', { class: 'btn', href: `#/lesson/${prev.id}` }, `← Pelajaran ${prev.n}`) : h('span', {}),
     h('a', { class: 'btn ghost', href: `#/book/${book.id}` }, 'Daftar isi'),
     next ? h('a', { class: 'btn', href: `#/lesson/${next.id}` }, `Pelajaran ${next.n} →`) : h('span', {}));
-  const allAudio = l.tracks.length ? h('details', { class: 'card' }, h('summary', {}, `Semua audio pelajaran ini (${l.tracks.length})`),
+  const allAudio = ORIG && l.tracks.length ? h('details', { class: 'card' }, h('summary', {}, `Semua audio pelajaran ini (${l.tracks.length})`),
     AudioPlayer(l.tracks.map((x) => ({ src: x.src, label: x.label })), { title: `Audio Pelajaran ${l.n}` })) : null;
   const body = migrated ? renderMigrated(migrated, l, book) : renderPages(book, l);
   return h('div', { class: 'wrap reading' },
@@ -100,11 +106,12 @@ function renderPages(book, l) {
   for (let p = l.start; p <= l.end; p++) pages.push(p);
   return h('div', {},
     h('p', { class: 'note' }, l.titleOcr ? '' : 'Judul pelajaran ini belum terverifikasi. ',
-      'Pelajaran ini belum dimigrasi menjadi teks web; sementara ditampilkan sebagai halaman asli buku. Audio ditempatkan di halaman tempat nomor treknya tercetak.'),
+      'Pelajaran ini belum dimigrasi menjadi teks web; sementara ditampilkan sebagai halaman asli buku. ',
+      ORIG ? 'Audio ditempatkan di halaman tempat nomor treknya tercetak.' : NO_ORIG_NOTE),
     ...pages.map((p) => {
       const tr = l.tracks.filter((x) => x.page === p);
       return h('figure', { class: 'page', id: `p${p}` },
-        tr.length ? h('div', { class: 'page-audio' }, ...tr.map((x) => AudioPlayer([{ src: x.src, label: `Trek ${x.label}` }], { compact: true }))) : null,
+        ORIG && tr.length ? h('div', { class: 'page-audio' }, ...tr.map((x) => AudioPlayer([{ src: x.src, label: `Trek ${x.label}` }], { compact: true }))) : null,
         h('img', { src: mediaUrl(`study/${book.id}/p${String(p).padStart(3, '0')}.webp`), alt: `${book.level.toUpperCase()} ${book.label}, halaman PDF ${p}`, loading: 'lazy', width: 1100, height: 1480 }),
         h('figcaption', { class: 'muted small' }, `Halaman PDF ${p}`));
     }));
@@ -116,7 +123,9 @@ function renderMigrated(m, l, book) {
   const pyToggle = h('label', { class: 'small' }, h('input', { type: 'checkbox', checked: showPy || null, onchange: (e) => { store.setPref('showPinyin', e.target.checked); document.querySelectorAll('.py').forEach((x) => (x.hidden = !e.target.checked)); } }), ' Tampilkan pinyin');
   const blocks = m.blocks.map((b) => {
     const tr = b.track ? trackFor(l, b.track) : null;
-    const player = tr ? AudioPlayer([{ src: tr.src, label: `Trek ${tr.label}` }], { compact: true }) : null;
+    const ttsText = b.type === 'dialogue' ? b.lines.map((x) => x.zh).join('\n') : b.type === 'vocab' ? b.items.map((x) => x.zh.replace(/（.*?）/g, '')).join('\n') : b.type === 'text' ? (b.paras || []).filter((p) => p.lang !== 'en').map((p) => p.text).join('\n') : '';
+    const player = ORIG && tr ? AudioPlayer([{ src: tr.src, label: `Trek ${tr.label}` }], { compact: true })
+      : (!ORIG && ttsText ? TtsPlayer([{ text: ttsText, pause: b.type === 'vocab' ? 700 : 500 }], { title: b.type === 'vocab' ? 'Baca semua kosakata' : 'Baca dialog', compact: true }) : null);
     const src = b.source ? h('p', { class: 'src muted small' }, `Sumber: ${book.label}, hlm. PDF ${b.source.pages.join(', ')}`) : null;
     switch (b.type) {
       case 'heading': return h(b.level === 3 ? 'h3' : 'h2', { class: 'block-h', id: b.id }, b.zh ? h('span', { lang: 'zh-Hant' }, b.zh + ' ') : null, b.en || '');
@@ -124,13 +133,13 @@ function renderMigrated(m, l, book) {
         b.title ? h('h3', {}, b.title) : null, player,
         h('div', { class: 'dlg' }, ...b.lines.map((ln) => h('div', { class: 'dlg-line' },
           h('span', { class: 'spk', lang: 'zh-Hant' }, ln.spk ? ln.spk : ''),
-          h('div', {}, h('p', { class: 'zh', lang: 'zh-Hant' }, ln.zh), h('p', { class: 'py', lang: 'zh-Latn-pinyin', hidden: !showPy || null }, ln.py))))),
+          h('div', {}, h('p', { class: 'zh', lang: 'zh-Hant' }, ln.zh, ' ', SpeakButton(ln.zh)), h('p', { class: 'py', lang: 'zh-Latn-pinyin', hidden: !showPy || null }, ln.py))))),
         b.translation ? h('details', { class: 'trans' }, h('summary', {}, 'Terjemahan bahasa Inggris (dari buku)'),
           h('dl', {}, ...b.translation.flatMap((x) => [h('dt', {}, x.spk), h('dd', { lang: 'en' }, x.en)]))) : null, src);
       case 'vocab': return h('section', { class: 'block', id: b.id }, b.title ? h('h3', {}, b.title) : null, player,
         h('div', { class: 'table-wrap' }, h('table', { class: 'table vocab' },
           h('thead', {}, h('tr', {}, h('th', { scope: 'col' }, 'No.'), h('th', { scope: 'col' }, '詞'), h('th', { scope: 'col', class: 'py-col' }, 'Pinyin'), h('th', { scope: 'col' }, 'Kelas kata'), h('th', { scope: 'col' }, 'Arti (Inggris)'))),
-          h('tbody', {}, ...b.items.map((v) => h('tr', {}, h('td', {}, v.n ?? ''), h('td', { class: 'zh', lang: 'zh-Hant' }, v.zh), h('td', { class: 'py-col', lang: 'zh-Latn-pinyin' }, v.py), h('td', {}, v.pos || ''), h('td', { lang: 'en' }, v.en))))) ), src);
+          h('tbody', {}, ...b.items.map((v) => h('tr', {}, h('td', {}, v.n ?? ''), h('td', { class: 'zh', lang: 'zh-Hant' }, v.zh, ' ', SpeakButton(v.zh.replace(/（.*?）/g, ''))), h('td', { class: 'py-col', lang: 'zh-Latn-pinyin' }, v.py), h('td', {}, v.pos || ''), h('td', { lang: 'en' }, v.en))))) ), src);
       case 'text': return h('section', { class: 'block', id: b.id }, b.title ? h('h3', {}, b.title) : null, player,
         ...(b.paras || []).map((p) => h('p', { class: p.lang === 'en' ? '' : 'zh', lang: p.lang === 'en' ? 'en' : 'zh-Hant' }, p.text)), src);
       case 'note': return h('aside', { class: 'note', id: b.id }, b.text);
@@ -145,6 +154,7 @@ function renderMigrated(m, l, book) {
 
 export async function pageView({ book, page }) {
   const b = await getJson(`content/study/${book}.json`);
+  ORIG = await originalAudio();
   const p = Math.max(1, Math.min(b.pages, Number(page) || 1));
   store.update((s) => { s.pagesSeen[book] = p; });
   const l = b.lessons.find((x) => p >= x.start && p <= x.end);
@@ -155,7 +165,7 @@ export async function pageView({ book, page }) {
     h('h1', { class: 'h2' }, `${b.level.toUpperCase()} ${b.label} — halaman PDF ${p} dari ${b.pages}`),
     l ? h('p', {}, h('a', { href: `#/lesson/${l.id}` }, `Bagian dari Pelajaran ${l.n}`)) : null,
     h('div', { class: 'lesson-nav' }, p > 1 ? go(p - 1) : h('span', {}), p < b.pages ? go(p + 1) : h('span', {})),
-    tr.length ? h('div', { class: 'page-audio' }, ...tr.map((x) => AudioPlayer([{ src: x.src, label: `Trek ${x.label}` }], { compact: true }))) : null,
+    ORIG && tr.length ? h('div', { class: 'page-audio' }, ...tr.map((x) => AudioPlayer([{ src: x.src, label: `Trek ${x.label}` }], { compact: true }))) : null,
     h('figure', { class: 'page' }, h('img', { src: mediaUrl(`study/${book}/p${String(p).padStart(3, '0')}.webp`), alt: `Halaman PDF ${p}` })),
     h('div', { class: 'lesson-nav' }, p > 1 ? go(p - 1) : h('span', {}), p < b.pages ? go(p + 1) : h('span', {})));
 }

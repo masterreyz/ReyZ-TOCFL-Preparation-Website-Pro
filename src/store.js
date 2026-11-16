@@ -2,7 +2,7 @@
 const KEY = 'reyz-tocfl-v1';
 const empty = () => ({
   version: 1,
-  prefs: { theme: 'auto', fontScale: 1, showPinyin: true },
+  prefs: { theme: 'auto', fontScale: 1, showPinyin: true, ttsVoice: null, ttsRate: 0.9 },
   lessons: {},        // lessonId -> { completed: bool, lastVisited: ts }
   lastLesson: null,   // { id, title, href, ts }
   bookmarks: {},      // key -> { type, title, href, ts }

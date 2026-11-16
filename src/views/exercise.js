@@ -2,11 +2,30 @@ import { h, getJson, mediaUrl, escBr, fmtDate, fmtTime, pct, uid } from '../util
 import { t, BAND_LABEL, BAND_DESC } from '../i18n.js';
 import { store } from '../store.js';
 import { grade } from '../grading.js';
-import { AudioPlayer, stopAll } from '../audio.js';
+import { AudioPlayer, stopAll, originalAudio } from '../audio.js';
+import { TtsPlayer } from '../tts.js';
 import { progressBar, scoreClass } from './home.js';
 
 const loadTest = (id) => getJson(`content/exercise/${id}.json`);
 const SKILL = { listening: 'Listening', reading: 'Reading' };
+
+// Speech-synthesis segments for one question, built from the official listening script.
+function ttsSegments(test, q, { withIntro = true, number = false } = {}) {
+  const segs = [];
+  if (withIntro && q.transcriptIntro) segs.push({ label: 'Teks', text: q.transcriptIntro, pause: 900 });
+  if (number) segs.push({ label: `Soal ${q.n}`, text: `第${q.n}題`, pause: 400 });
+  if (q.transcript) segs.push({ label: `Soal ${q.n}`, text: q.transcript, pause: 1500 });
+  return segs;
+}
+function fullTestSegments(test) {
+  let lastIntro = null;
+  return test.questions.flatMap((q) => {
+    const withIntro = !!q.transcriptIntro && q.transcriptIntro !== lastIntro;
+    lastIntro = q.transcriptIntro || lastIntro;
+    return ttsSegments(test, q, { withIntro, number: true });
+  });
+}
+const TTS_NOTE = 'Rekaman audio asli tidak tersedia di versi online ini. Soal listening dibacakan dengan suara sintetis Mandarin (TTS) dari naskah dengar resmi; pengucapan, kecepatan, dan intonasinya dapat berbeda dari rekaman ujian asli.';
 
 export async function exerciseHome() {
   const tests = await getJson('content/exercise/index.json');
@@ -43,9 +62,10 @@ export async function testIntro({ test: id }) {
   const prog = store.getProgress(id);
   const atts = store.attemptsFor(id).sort((a, b) => b.submittedAt - a.submittedAt);
   const timer = h('input', { type: 'number', min: 0, max: 180, step: 5, value: 0, id: 'timer', class: 'num' });
-  const audioNote = test.skill === 'listening' ? (test.audio?.kind === 'by-filename'
+  const useOrig = await originalAudio();
+  const audioNote = test.skill !== 'listening' ? null : !useOrig ? TTS_NOTE : (test.audio?.kind === 'by-filename'
     ? 'Audio per soal tersedia: pemetaan trek ↔ soal mengikuti penamaan file resmi (mis. "1-07.mp3" = soal 7).'
-    : 'File audio tes ini hanya bernomor urut (001, 002, …), sehingga pemetaan per soal belum diverifikasi. Gunakan pemutar audio tes lengkap (putar berurutan).') : null;
+    : 'File audio tes ini hanya bernomor urut (001, 002, …), sehingga pemetaan per soal belum diverifikasi. Gunakan pemutar audio tes lengkap (putar berurutan).');
   return h('div', { class: 'wrap narrow' },
     h('nav', { class: 'crumbs' }, h('a', { href: '#/exercise' }, 'TOCFL Exercise'), ' / ', h('a', { href: `#/exercise/${test.band}` }, BAND_LABEL[test.band]), ` / ${test.title}`),
     h('h1', {}, test.title),
@@ -133,9 +153,12 @@ export async function testRun({ test: id }, query) {
   const timerEl = h('span', { class: 'timer', role: 'timer' });
 
   // whole-test audio (exam mode, or tests whose tracks are only numbered sequentially)
+  const useOrig = listening && await originalAudio();
   let fullAudio = null;
-  if (listening && test.audio) {
+  if (listening && useOrig && test.audio) {
     fullAudio = AudioPlayer(test.audio.trackList, { title: 'Audio tes lengkap', exam: mode === 'exam', playAll: true });
+  } else if (listening) {
+    fullAudio = TtsPlayer(fullTestSegments(test), { title: 'Seluruh tes', exam: mode === 'exam', hideText: true });
   }
 
   function renderNav() {
@@ -155,8 +178,9 @@ export async function testRun({ test: id }, query) {
   function renderQ() {
     const q = test.questions[cur];
     const part = test.parts[q.part];
-    const perQ = listening && byFile && mode === 'practice' && q.audio?.length
-      ? AudioPlayer(trackObjs(test, q.audio), { title: `Audio soal ${q.n}`, playAll: true, compact: true }) : null;
+    const perQ = !listening || mode !== 'practice' ? null
+      : useOrig ? (byFile && q.audio?.length ? AudioPlayer(trackObjs(test, q.audio), { title: `Audio soal ${q.n}`, playAll: true, compact: true }) : null)
+        : TtsPlayer(ttsSegments(test, q), { title: `Soal ${q.n}`, compact: true, hideText: true });
     qPane.replaceChildren(
       h('div', { class: 'q-head' }, h('h2', {}, `Soal ${q.n}`), part ? h('span', { class: 'muted' }, `${part.title} ${part.subtitle ? '· ' + part.subtitle : ''}`) : null),
       perQ,
@@ -199,8 +223,9 @@ export async function testRun({ test: id }, query) {
   renderQ(); renderNav();
   const audioBox = fullAudio ? h('section', { class: 'card audio-box' },
     h('h2', { class: 'h3' }, mode === 'exam' ? 'Audio tes' : 'Audio tes lengkap'),
-    mode === 'exam' ? h('p', { class: 'small muted' }, 'Tekan putar untuk memulai. Audio berjalan berurutan seperti ujian; selesai diputar tidak otomatis mengumpulkan jawaban.')
-      : h('p', { class: 'small muted' }, byFile ? 'Audio per soal ada di atas setiap soal. Pemutar ini memutar seluruh rekaman tes secara berurutan.' : 'Pemetaan audio per soal belum diverifikasi untuk tes ini; putar rekaman tes secara berurutan.'),
+    !useOrig ? h('p', { class: 'small muted' }, TTS_NOTE + (mode === 'exam' ? ' Tekan putar untuk membacakan seluruh tes secara berurutan.' : ' Suara per soal ada di atas setiap soal.')) : null,
+    useOrig && mode === 'exam' ? h('p', { class: 'small muted' }, 'Tekan putar untuk memulai. Audio berjalan berurutan seperti ujian; selesai diputar tidak otomatis mengumpulkan jawaban.') : null,
+    useOrig && mode !== 'exam' ? h('p', { class: 'small muted' }, byFile ? 'Audio per soal ada di atas setiap soal. Pemutar ini memutar seluruh rekaman tes secara berurutan.' : 'Pemetaan audio per soal belum diverifikasi untuk tes ini; putar rekaman tes secara berurutan.') : null,
     fullAudio) : null;
   return h('div', { class: 'wrap test-layout' },
     h('div', { class: 'test-top' },
@@ -216,6 +241,7 @@ export async function resultView({ attempt: aid }, query) {
   const a = store.attempt(aid);
   if (!a) return h('div', { class: 'wrap' }, h('h1', {}, 'Hasil tidak ditemukan'), h('p', {}, 'Percobaan ini tidak ada di browser ini.'));
   const test = await loadTest(a.testId);
+  const useOrig = test.skill === 'listening' && await originalAudio();
   const filter = query.get('f') || 'all';
   const shown = a.results.filter((r) => filter === 'all' || (filter === 'wrong' ? r.status === 'incorrect' || r.status === 'unanswered' : r.status === filter));
   const s = a.score;
@@ -223,8 +249,9 @@ export async function resultView({ attempt: aid }, query) {
     const q = test.questions.find((x) => x.n === r.n);
     const statusTxt = { correct: '✓ ' + t('correct'), incorrect: '✗ ' + t('incorrect'), unanswered: '– ' + t('unanswered'), ungradable: '? ' + t('ungradable') }[r.status];
     const leadQ = q.transcriptLead && q.transcriptLead !== q.n ? test.questions.find((x) => x.n === q.transcriptLead) : null;
-    const audio = test.skill === 'listening' && test.audio?.kind === 'by-filename' && q.audio?.length
-      ? AudioPlayer(trackObjs(test, q.audio), { title: `Audio soal ${q.n}`, playAll: true, compact: true }) : null;
+    const audio = test.skill !== 'listening' ? null
+      : useOrig ? (test.audio?.kind === 'by-filename' && q.audio?.length ? AudioPlayer(trackObjs(test, q.audio), { title: `Audio soal ${q.n}`, playAll: true, compact: true }) : null)
+        : TtsPlayer(ttsSegments(test, q), { title: `Soal ${q.n}`, compact: true });
     const bmKey = `q:${test.id}:${q.n}`;
     return h('article', { class: `card review ${r.status}`, id: `r${q.n}` },
       h('div', { class: 'q-head' }, h('h3', {}, `Soal ${q.n}`), h('span', { class: `status ${r.status}` }, statusTxt),

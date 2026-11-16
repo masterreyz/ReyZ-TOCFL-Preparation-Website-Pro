@@ -75,17 +75,20 @@ git push -u origin main
 
 **Uploading the repository does not publish a website.** Publishing is a separate step (§6).
 
-## 6. Deploy the website (read first)
+## 6. Deploy the website (GitHub Pages)
 
-**Permissions.** The textbooks and audio (NTNU Mandarin Training Center / Linking Publishing) and the mock tests (SC-TOP) are copyrighted third-party materials. Branding identifies the site's creator only. Before making a public site that contains them, confirm you have permission to redistribute them. Without permission, keep the site local (`npm run dev` / `npm run preview`) or restrict access.
+Live site: **https://masterreyz.github.io/ReyZ-TOCFL-Preparation-Website-Pro/**
 
-**Hosting constraints (checked 2026-11-16).** GitHub Pages: published site ≤ 1 GB, deployment timeout 10 minutes, soft bandwidth limit 100 GB/month. The audio (~3 GB) therefore cannot be served from GitHub Pages. Git LFS does not solve this: LFS only changes how the repository stores large files, and the published site would still exceed the 1 GB limit. Recommended setup:
+- `.github/workflows/deploy.yml` runs `npm ci`, `npm test` and `npm run build`, then publishes `dist/` on every push to `main`. In *Settings → Pages*, **Source** must be **GitHub Actions**; if it is set to "Deploy from a branch", GitHub serves the raw source and the site will not load.
+- The site uses hash routing (`#/…`) and relative asset paths (`base: './'`), so it works under the `/ReyZ-TOCFL-Preparation-Website-Pro/` subpath and deep links survive a refresh. The published size is ≈171 MB, below the 1 GB Pages limit.
 
-1. **App, content, page images and crops** go on GitHub Pages: in the repo go to *Settings → Pages → Source: GitHub Actions*, then run the **Deploy to GitHub Pages** workflow manually (*Actions* tab). It is manual on purpose, so nothing goes public until you decide.
-2. **Audio** goes on object storage with public read access and CORS allowing your Pages origin (e.g. Cloudflare R2, Backblaze B2, or any S3-compatible bucket). Upload `public/media/audio/` keeping the same folder structure.
-3. In the deployed `config.js`, set `audioBase: 'https://<your-bucket-url>/audio/'` (no rebuild needed; it is a plain file in `dist/`).
+**Audio on the online site.** The original recordings (~3 GB) exceed the GitHub Pages size limit and are not deployed. `public/config.js` (`originalAudio: 'auto'`) checks whether they are reachable:
+- **Found** (local use after `npm run sync-media`, or recordings hosted elsewhere with `audioBase` pointing to them): the original recordings play.
+- **Not found** (GitHub Pages): **Mandarin speech synthesis** through the browser's Web Speech API. It reads the official listening scripts (per question in practice mode, the whole test in order in exam mode, and in the review) and the text of migrated lessons (whole dialogue or vocabulary list, plus a 🔊 button per line and per word). It prefers Taiwan Mandarin voices. Voice quality depends on the device: Edge ("Microsoft … Natural, Taiwan") and Chrome ("Google 國語（臺灣）") are best, and iOS, macOS and Android include built-in voices. Users can choose a voice in *Pengaturan*.
+- No API key or server is involved. A cloud TTS API such as Google Cloud TTS would require a secret key in public client code and is billed per character, so it was not used.
+- Limitation: synthesized speech is not the official recording. Lessons that are still page images have no text to synthesize, so they have no audio online until migrated.
 
-The site uses hash routing (`#/…`) and relative asset paths (`base: './'`), so it works under `https://<user>.github.io/<repo>/` and survives page refreshes on any route.
+**Permissions.** The textbooks (NTNU MTC / Linking Publishing) and mock tests (SC-TOP) are copyrighted third-party materials; the repository and site are public by the owner's decision.
 
 ## 7. Project layout
 

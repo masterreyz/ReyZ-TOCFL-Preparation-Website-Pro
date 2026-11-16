@@ -198,3 +198,8 @@ input[type=file] { position: absolute; width: 1px; height: 1px; opacity: 0; }
 body::after { content: "ReyZ TOCFL · Reynard Agahari"; position: fixed; right: .6rem; bottom: .4rem; font-size: .7rem; color: var(--muted); opacity: .35; pointer-events: none; z-index: 1; }
 @media print { .site-header, .site-footer, body::after { display: none; } }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+.tts-mini { border: 1px solid var(--line); background: var(--surface); border-radius: 8px; min-width: 32px; min-height: 32px; cursor: pointer; font-size: .9rem; vertical-align: middle; }
+.tts-mini:hover { border-color: var(--brand); }
+.tts-now { font-size: 1rem; margin-top: .3rem; min-height: 0; }
+.tts-now:empty { display: none; }
+.audio-player.tts { background: var(--brand-soft); }

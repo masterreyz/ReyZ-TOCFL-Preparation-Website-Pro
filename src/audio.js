@@ -78,3 +78,15 @@ export function AudioPlayer(tracks, opts = {}) {
   el.player = { audio, load, play, pause: () => audio.pause() };
   return el;
 }
+
+// Whether the original recordings are reachable (see public/config.js).
+let probe = null;
+export function originalAudio() {
+  if (probe) return probe;
+  const cfg = window.REYZ_CONFIG || {};
+  if (cfg.originalAudio === true || cfg.originalAudio === false) return (probe = Promise.resolve(cfg.originalAudio));
+  probe = fetch(audioUrl(cfg.audioProbe || 'ex/a-l1/t003-1-01.mp3'), { method: 'HEAD', cache: 'no-store' })
+    .then((r) => r.ok && !/text\/html/.test(r.headers.get('content-type') || ''))
+    .catch(() => false);
+  return probe;
+}
