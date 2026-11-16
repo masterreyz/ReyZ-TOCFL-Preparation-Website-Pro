@@ -1,0 +1,116 @@
+{
+ "id": "a1-te-l01",
+ "title": "歡迎你來臺灣！ Welcome to Taiwan!",
+ "status": "partial",
+ "statusDetail": "Dialog I & II beserta terjemahannya, Kosakata I & II (hlm. PDF 29–33). Kolom zhuyin pada daftar kosakata belum disertakan; tata bahasa, latihan, dan budaya (hlm. PDF 34–49) masih berupa halaman asli",
+ "transcribedBy": "Transkripsi manual dari gambar halaman, 2026-11-16",
+ "blocks": [
+  {"type": "heading", "id": "h-d1", "zh": "對話一", "en": "Dialogue I"},
+  {"type": "dialogue", "id": "d1", "track": "01-01", "source": {"pages": [29, 30]},
+   "lines": [
+    {"spk": "明華", "zh": "請問你是陳月美小姐嗎？", "py": "Qǐngwèn nǐ shì Chén Yuèměi xiǎojiě ma?"},
+    {"spk": "月美", "zh": "是的。謝謝你來接我們。", "py": "Shìde. Xièxie nǐ lái jiē wǒmen."},
+    {"spk": "明華", "zh": "不客氣。我是李明華。", "py": "Búkèqì. Wǒ shì Lǐ Mínghuá."},
+    {"spk": "月美", "zh": "這是王先生。", "py": "Zhè shì Wáng Xiānshēng."},
+    {"spk": "開文", "zh": "你好。我姓王，叫開文。", "py": "Nǐ hǎo. Wǒ xìng Wáng, jiào Kāiwén."},
+    {"spk": "明華", "zh": "你們好。歡迎你們來臺灣。", "py": "Nǐmen hǎo. Huānyíng nǐmen lái Táiwān."}
+   ],
+   "translation": [
+    {"spk": "Minghua", "en": "Excuse me, are you Miss Chen Yuemei?"},
+    {"spk": "Yuemei", "en": "Yes. Thank you for coming to pick us up."},
+    {"spk": "Minghua", "en": "You're welcome. My name is Minghua Li."},
+    {"spk": "Yuemei", "en": "This is Mr. Wang."},
+    {"spk": "Kaiwen", "en": "Hi, my surname is Wang. My first name is Kaiwen."},
+    {"spk": "Minghua", "en": "How are you? Welcome to Taiwan."}
+   ]},
+  {"type": "heading", "id": "h-v1", "zh": "生詞一", "en": "Vocabulary I"},
+  {"type": "vocab", "id": "v1-people", "title": "People in the dialogue", "track": "01-02", "source": {"pages": [30]},
+   "items": [
+    {"n": 1, "zh": "陳月美", "py": "Chén Yuèměi", "pos": "", "en": "a woman from Vietnam"},
+    {"n": 2, "zh": "李明華", "py": "Lǐ Mínghuá", "pos": "", "en": "a man from Taiwan"},
+    {"n": 3, "zh": "王開文", "py": "Wáng Kāiwén", "pos": "", "en": "a man from the US"}
+   ]},
+  {"type": "vocab", "id": "v1-vocab", "title": "Vocabulary", "source": {"pages": [30]},
+   "items": [
+    {"n": 4, "zh": "你", "py": "nǐ", "pos": "N", "en": "you"},
+    {"n": 5, "zh": "來", "py": "lái", "pos": "V", "en": "to come"},
+    {"n": 6, "zh": "是", "py": "shì", "pos": "Vst", "en": "to be"},
+    {"n": 7, "zh": "小姐", "py": "xiǎojiě", "pos": "N", "en": "Miss, Ms."},
+    {"n": 8, "zh": "嗎", "py": "ma", "pos": "Ptc", "en": "sentence final particle"},
+    {"n": 9, "zh": "接", "py": "jiē", "pos": "V", "en": "to pick sb up"},
+    {"n": 10, "zh": "我們", "py": "wǒmen", "pos": "N", "en": "we, us"},
+    {"n": 11, "zh": "我", "py": "wǒ", "pos": "N", "en": "I, me"},
+    {"n": 12, "zh": "這", "py": "zhè / zhèi", "pos": "Det", "en": "this"},
+    {"n": 13, "zh": "先生", "py": "xiānshēng", "pos": "N", "en": "Mr."},
+    {"n": 14, "zh": "好", "py": "hǎo", "pos": "Vs", "en": "fine, well"},
+    {"n": 15, "zh": "姓", "py": "xìng", "pos": "Vst", "en": "to be surnamed"},
+    {"n": 16, "zh": "叫", "py": "jiào", "pos": "Vst", "en": "to be called, i.e., to have the first name xx"},
+    {"n": 17, "zh": "你們", "py": "nǐmen", "pos": "N", "en": "you (plural)"}
+   ]},
+  {"type": "vocab", "id": "v1-names", "title": "Names", "source": {"pages": [31]},
+   "items": [
+    {"n": 18, "zh": "臺灣（＝台灣）", "py": "Táiwān", "pos": "", "en": "Taiwan"}
+   ]},
+  {"type": "vocab", "id": "v1-phrases", "title": "Phrases", "source": {"pages": [31]},
+   "items": [
+    {"n": 19, "zh": "歡迎", "py": "huānyíng", "pos": "", "en": "welcome"},
+    {"n": 20, "zh": "請問", "py": "qǐngwèn", "pos": "", "en": "May I ask you… / Excuse me,…"},
+    {"n": 21, "zh": "是的", "py": "shìde", "pos": "", "en": "yes"},
+    {"n": 22, "zh": "謝謝", "py": "xièxie", "pos": "", "en": "Thank you."},
+    {"n": 23, "zh": "不客氣", "py": "búkèqì", "pos": "", "en": "You're welcome."},
+    {"n": 24, "zh": "你好", "py": "nǐ hǎo", "pos": "", "en": "How are you? / Hello."}
+   ]},
+  {"type": "heading", "id": "h-d2", "zh": "對話二", "en": "Dialogue II"},
+  {"type": "dialogue", "id": "d2", "track": "01-03", "source": {"pages": [31, 32]},
+   "lines": [
+    {"spk": "明華", "zh": "請喝茶。", "py": "Qǐng hē chá."},
+    {"spk": "開文", "zh": "謝謝。很好喝。請問這是什麼茶？", "py": "Xièxie. Hěn hǎohē. Qǐngwèn zhè shì shénme chá?"},
+    {"spk": "明華", "zh": "這是烏龍茶。臺灣人喜歡喝茶。", "py": "Zhè shì Wūlóng chá. Táiwān rén xǐhuān hē chá."},
+    {"spk": "", "zh": "開文，你們日本人呢？", "py": "Kāiwén, nǐmen Rìběn rén ne?"},
+    {"spk": "月美", "zh": "他不是日本人。", "py": "Tā bú shì Rìběn rén."},
+    {"spk": "明華", "zh": "對不起，你是哪國人？", "py": "Duìbùqǐ, nǐ shì nǎ guó rén?"},
+    {"spk": "開文", "zh": "我是美國人。", "py": "Wǒ shì Měiguó rén."},
+    {"spk": "明華", "zh": "開文，你要不要喝咖啡？", "py": "Kāiwén, nǐ yào bú yào hē kāfēi?"},
+    {"spk": "開文", "zh": "謝謝！我不喝咖啡，我喜歡喝茶。", "py": "Xièxie! Wǒ bù hē kāfēi, wǒ xǐhuān hē chá."}
+   ],
+   "translation": [
+    {"spk": "Minghua", "en": "Please have some tea."},
+    {"spk": "Kaiwen", "en": "Thank you. This tastes good. May I ask what kind of tea this is?"},
+    {"spk": "Minghua", "en": "This is Oolong tea. Taiwanese like to drink tea. Kaiwen, how about you Japanese people?"},
+    {"spk": "Yuemei", "en": "He is not Japanese."},
+    {"spk": "Minghua", "en": "I am sorry. Which country are you from?"},
+    {"spk": "Kaiwen", "en": "I am American."},
+    {"spk": "Minghua", "en": "Kaiwen, would you like to drink coffee?"},
+    {"spk": "Kaiwen", "en": "Thank you. I don't drink coffee. I like to drink tea."}
+   ]},
+  {"type": "heading", "id": "h-v2", "zh": "生詞二", "en": "Vocabulary II"},
+  {"type": "vocab", "id": "v2-vocab", "title": "Vocabulary", "track": "01-04", "source": {"pages": [33]},
+   "items": [
+    {"n": 1, "zh": "請", "py": "qǐng", "pos": "V", "en": "please"},
+    {"n": 2, "zh": "喝", "py": "hē", "pos": "V", "en": "to drink"},
+    {"n": 3, "zh": "茶", "py": "chá", "pos": "N", "en": "tea"},
+    {"n": 4, "zh": "很", "py": "hěn", "pos": "Adv", "en": "very"},
+    {"n": 5, "zh": "好喝", "py": "hǎohē", "pos": "Vs", "en": "(lit. good to drink) to taste good"},
+    {"n": 6, "zh": "什麼", "py": "shénme", "pos": "N", "en": "what"},
+    {"n": 7, "zh": "人", "py": "rén", "pos": "N", "en": "person, people"},
+    {"n": 8, "zh": "喜歡", "py": "xǐhuān", "pos": "Vst", "en": "to like"},
+    {"n": 9, "zh": "呢", "py": "ne", "pos": "Ptc", "en": "sentence final particle"},
+    {"n": 10, "zh": "他", "py": "tā", "pos": "N", "en": "he, him"},
+    {"n": 11, "zh": "不", "py": "bù", "pos": "Adv", "en": "not"},
+    {"n": 12, "zh": "哪", "py": "nǎ / něi", "pos": "Det", "en": "which"},
+    {"n": 13, "zh": "要", "py": "yào", "pos": "Vaux", "en": "to want to"},
+    {"n": 14, "zh": "咖啡", "py": "kāfēi", "pos": "N", "en": "coffee"}
+   ]},
+  {"type": "vocab", "id": "v2-names", "title": "Names", "source": {"pages": [33]},
+   "items": [
+    {"n": 15, "zh": "烏龍茶", "py": "Wūlóng chá", "pos": "", "en": "Oolong tea"},
+    {"n": 16, "zh": "日本", "py": "Rìběn", "pos": "", "en": "Japan"},
+    {"n": 17, "zh": "美國", "py": "Měiguó", "pos": "", "en": "America"}
+   ]},
+  {"type": "vocab", "id": "v2-phrases", "title": "Phrases", "source": {"pages": [33]},
+   "items": [
+    {"n": 18, "zh": "對不起", "py": "duìbùqǐ", "pos": "", "en": "I'm sorry."},
+    {"n": 19, "zh": "哪國", "py": "nǎ guó / něi guó", "pos": "", "en": "Which country?"}
+   ]}
+ ]
+}

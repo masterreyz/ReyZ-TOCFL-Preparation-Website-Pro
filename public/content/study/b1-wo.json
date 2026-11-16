@@ -1,0 +1,398 @@
+{
+ "id": "b1-wo",
+ "level": "b1",
+ "kind": "workbook",
+ "label": "Workbook 作業本",
+ "pages": 98,
+ "source": {
+  "folder": "3. 第三本 (B1)",
+  "file": "TOCFL B1 Workbook.pdf",
+  "audioDir": "3. 第三本 (B1)/TOCFL B1 Workbook Audio"
+ },
+ "frontMatter": {
+  "start": 1,
+  "end": 2
+ },
+ "backMatter": null,
+ "lessons": [
+  {
+   "n": 1,
+   "start": 3,
+   "end": 10,
+   "headerPage": null,
+   "detection": {
+    "override": 3
+   },
+   "titleOcr": "開學了",
+   "titleVerified": true,
+   "id": "b1-wo-l01",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "01-1.mp3",
+     "lesson": 1,
+     "label": "01-01",
+     "page": 3,
+     "src": "study/b1-wo/01-1.mp3"
+    },
+    {
+     "file": "01-2.mp3",
+     "lesson": 1,
+     "label": "01-02",
+     "page": 3,
+     "src": "study/b1-wo/01-2.mp3"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 11,
+   "end": 18,
+   "headerPage": null,
+   "detection": {
+    "header": null,
+    "opener": null,
+    "audioMarker": 11
+   },
+   "titleOcr": "八折起",
+   "titleVerified": true,
+   "id": "b1-wo-l02",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "02-1.mp3",
+     "lesson": 2,
+     "label": "02-01",
+     "page": 11,
+     "src": "study/b1-wo/02-1.mp3"
+    },
+    {
+     "file": "02-2.mp3",
+     "lesson": 2,
+     "label": "02-02",
+     "page": 11,
+     "src": "study/b1-wo/02-2.mp3"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 19,
+   "end": 26,
+   "headerPage": 21,
+   "detection": {
+    "header": 21,
+    "opener": null,
+    "audioMarker": 19
+   },
+   "titleOcr": "外套帶了沒有？",
+   "titleVerified": true,
+   "id": "b1-wo-l03",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "03-1.mp3",
+     "lesson": 3,
+     "label": "03-01",
+     "page": 19,
+     "src": "study/b1-wo/03-1.mp3"
+    },
+    {
+     "file": "03-2.mp3",
+     "lesson": 3,
+     "label": "03-02",
+     "page": 20,
+     "src": "study/b1-wo/03-2.mp3"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 27,
+   "end": 36,
+   "headerPage": 29,
+   "detection": {
+    "header": 29,
+    "opener": null,
+    "audioMarker": 27
+   },
+   "titleOcr": "我愛台灣的人情味",
+   "titleVerified": true,
+   "id": "b1-wo-l04",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "04-1.mp3",
+     "lesson": 4,
+     "label": "04-01",
+     "page": 27,
+     "src": "study/b1-wo/04-1.mp3"
+    },
+    {
+     "file": "04-2.mp3",
+     "lesson": 4,
+     "label": "04-02",
+     "page": 27,
+     "src": "study/b1-wo/04-2.mp3"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 37,
+   "end": 42,
+   "headerPage": 37,
+   "detection": {
+    "header": 37,
+    "opener": null,
+    "audioMarker": null
+   },
+   "titleOcr": "現在流行什麼？",
+   "titleVerified": true,
+   "id": "b1-wo-l05",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "05-1.mp3",
+     "lesson": 5,
+     "label": "05-01",
+     "page": null,
+     "src": "study/b1-wo/05-1.mp3"
+    },
+    {
+     "file": "05-2.mp3",
+     "lesson": 5,
+     "label": "05-02",
+     "page": null,
+     "src": "study/b1-wo/05-2.mp3"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 43,
+   "end": 52,
+   "headerPage": 45,
+   "detection": {
+    "header": 45,
+    "opener": null,
+    "audioMarker": 43
+   },
+   "titleOcr": "到鄉下住一晚！",
+   "titleVerified": true,
+   "id": "b1-wo-l06",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "06-1.mp3",
+     "lesson": 6,
+     "label": "06-01",
+     "page": 43,
+     "src": "study/b1-wo/06-1.mp3"
+    },
+    {
+     "file": "06-2.mp3",
+     "lesson": 6,
+     "label": "06-02",
+     "page": null,
+     "src": "study/b1-wo/06-2.mp3"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 53,
+   "end": 60,
+   "headerPage": 53,
+   "detection": {
+    "header": 53,
+    "opener": null,
+    "audioMarker": null
+   },
+   "titleOcr": "我最親的家「人」",
+   "titleVerified": true,
+   "id": "b1-wo-l07",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "07-1.mp3",
+     "lesson": 7,
+     "label": "07-01",
+     "page": null,
+     "src": "study/b1-wo/07-1.mp3"
+    },
+    {
+     "file": "07-2.mp3",
+     "lesson": 7,
+     "label": "07-02",
+     "page": null,
+     "src": "study/b1-wo/07-2.mp3"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 61,
+   "end": 66,
+   "headerPage": 61,
+   "detection": {
+    "header": 61,
+    "opener": null,
+    "audioMarker": null
+   },
+   "titleOcr": "我想做自己",
+   "titleVerified": true,
+   "id": "b1-wo-l08",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "08-1.mp3",
+     "lesson": 8,
+     "label": "08-01",
+     "page": null,
+     "src": "study/b1-wo/08-1.mp3"
+    },
+    {
+     "file": "08-2.mp3",
+     "lesson": 8,
+     "label": "08-02",
+     "page": null,
+     "src": "study/b1-wo/08-2.mp3"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "start": 67,
+   "end": 74,
+   "headerPage": 71,
+   "detection": {
+    "header": 71,
+    "opener": null,
+    "audioMarker": 67
+   },
+   "titleOcr": "網購時代",
+   "titleVerified": true,
+   "id": "b1-wo-l09",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "09-1.mp3",
+     "lesson": 9,
+     "label": "09-01",
+     "page": 67,
+     "src": "study/b1-wo/09-1.mp3"
+    },
+    {
+     "file": "09-2.mp3",
+     "lesson": 9,
+     "label": "09-02",
+     "page": 67,
+     "src": "study/b1-wo/09-2.mp3"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "start": 75,
+   "end": 82,
+   "headerPage": 77,
+   "detection": {
+    "header": 77,
+    "opener": null,
+    "audioMarker": 75
+   },
+   "titleOcr": "我住院了",
+   "titleVerified": true,
+   "id": "b1-wo-l10",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "10-1.mp3",
+     "lesson": 10,
+     "label": "10-01",
+     "page": 75,
+     "src": "study/b1-wo/10-1.mp3"
+    },
+    {
+     "file": "10-2.mp3",
+     "lesson": 10,
+     "label": "10-02",
+     "page": 75,
+     "src": "study/b1-wo/10-2.mp3"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "start": 83,
+   "end": 90,
+   "headerPage": null,
+   "detection": {
+    "header": null,
+    "opener": null,
+    "audioMarker": 83
+   },
+   "titleOcr": "台灣故事",
+   "titleVerified": true,
+   "id": "b1-wo-l11",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "11-1.mp3",
+     "lesson": 11,
+     "label": "11-01",
+     "page": 83,
+     "src": "study/b1-wo/11-1.mp3"
+    },
+    {
+     "file": "11-2.mp3",
+     "lesson": 11,
+     "label": "11-02",
+     "page": 83,
+     "src": "study/b1-wo/11-2.mp3"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "start": 91,
+   "end": 98,
+   "headerPage": null,
+   "detection": {
+    "header": null,
+    "opener": null,
+    "audioMarker": 91
+   },
+   "titleOcr": "我要去投票",
+   "titleVerified": true,
+   "id": "b1-wo-l12",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "12-1.mp3",
+     "lesson": 12,
+     "label": "12-01",
+     "page": 91,
+     "src": "study/b1-wo/12-1.mp3"
+    },
+    {
+     "file": "12-2.mp3",
+     "lesson": 12,
+     "label": "12-02",
+     "page": 91,
+     "src": "study/b1-wo/12-2.mp3"
+    }
+   ]
+  }
+ ],
+ "otherTracks": [
+  {
+   "file": "00.mp3",
+   "lesson": null,
+   "label": "00",
+   "src": "study/b1-wo/00.mp3"
+  }
+ ],
+ "audioFiles": 25
+}

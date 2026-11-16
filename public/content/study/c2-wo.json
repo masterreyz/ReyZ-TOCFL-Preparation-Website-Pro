@@ -1,0 +1,185 @@
+{
+ "id": "c2-wo",
+ "level": "c2",
+ "kind": "workbook",
+ "label": "Workbook 作業本",
+ "pages": 42,
+ "source": {
+  "folder": "6. 第六本 (C2)",
+  "file": "TOCFL C2 Workbook.pdf",
+  "audioDir": null
+ },
+ "frontMatter": {
+  "start": 1,
+  "end": 4
+ },
+ "backMatter": null,
+ "lessons": [
+  {
+   "n": 1,
+   "start": 5,
+   "end": 8,
+   "headerPage": 5,
+   "detection": {
+    "header": 5,
+    "opener": null,
+    "audioMarker": null,
+    "override": 5
+   },
+   "titleOcr": "職校教育",
+   "titleVerified": true,
+   "id": "c2-wo-l01",
+   "migrated": false,
+   "tracks": []
+  },
+  {
+   "n": 2,
+   "start": 9,
+   "end": 12,
+   "headerPage": null,
+   "detection": {
+    "override": 9
+   },
+   "titleOcr": "科技與生活",
+   "titleVerified": true,
+   "id": "c2-wo-l02",
+   "migrated": false,
+   "tracks": []
+  },
+  {
+   "n": 3,
+   "start": 13,
+   "end": 16,
+   "headerPage": 13,
+   "detection": {
+    "header": 13,
+    "opener": null,
+    "audioMarker": null,
+    "override": 13
+   },
+   "titleOcr": "舞蹈藝術",
+   "titleVerified": true,
+   "id": "c2-wo-l03",
+   "migrated": false,
+   "tracks": []
+  },
+  {
+   "n": 4,
+   "start": 17,
+   "end": 20,
+   "headerPage": 17,
+   "detection": {
+    "header": 17,
+    "opener": null,
+    "audioMarker": null,
+    "override": 17
+   },
+   "titleOcr": "做人心法",
+   "titleVerified": true,
+   "id": "c2-wo-l04",
+   "migrated": false,
+   "tracks": []
+  },
+  {
+   "n": 5,
+   "start": 21,
+   "end": 24,
+   "headerPage": 21,
+   "detection": {
+    "header": 21,
+    "opener": null,
+    "audioMarker": null,
+    "override": 21
+   },
+   "titleOcr": "國際語言",
+   "titleVerified": true,
+   "id": "c2-wo-l05",
+   "migrated": false,
+   "tracks": []
+  },
+  {
+   "n": 6,
+   "start": 25,
+   "end": 28,
+   "headerPage": null,
+   "detection": {
+    "override": 25
+   },
+   "titleOcr": "貓熊角色",
+   "titleVerified": true,
+   "id": "c2-wo-l06",
+   "migrated": false,
+   "tracks": []
+  },
+  {
+   "n": 7,
+   "start": 29,
+   "end": 32,
+   "headerPage": 29,
+   "detection": {
+    "header": 29,
+    "opener": null,
+    "audioMarker": null,
+    "override": 29
+   },
+   "titleOcr": "感情世界",
+   "titleVerified": true,
+   "id": "c2-wo-l07",
+   "migrated": false,
+   "tracks": []
+  },
+  {
+   "n": 8,
+   "start": 33,
+   "end": 36,
+   "headerPage": 33,
+   "detection": {
+    "header": 33,
+    "opener": null,
+    "audioMarker": null,
+    "override": 33
+   },
+   "titleOcr": "奧運黑洞",
+   "titleVerified": true,
+   "id": "c2-wo-l08",
+   "migrated": false,
+   "tracks": []
+  },
+  {
+   "n": 9,
+   "start": 37,
+   "end": 40,
+   "headerPage": 37,
+   "detection": {
+    "header": 37,
+    "opener": null,
+    "audioMarker": null,
+    "override": 37
+   },
+   "titleOcr": "鄉關何處",
+   "titleVerified": true,
+   "id": "c2-wo-l09",
+   "migrated": false,
+   "tracks": []
+  },
+  {
+   "n": 10,
+   "start": 41,
+   "end": 42,
+   "headerPage": 41,
+   "detection": {
+    "header": 41,
+    "opener": null,
+    "audioMarker": null,
+    "override": 41
+   },
+   "titleOcr": "智慧與能力",
+   "titleVerified": true,
+   "id": "c2-wo-l10",
+   "migrated": false,
+   "tracks": []
+  }
+ ],
+ "otherTracks": [],
+ "audioFiles": 0
+}

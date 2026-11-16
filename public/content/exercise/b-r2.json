@@ -1,0 +1,1591 @@
+{
+ "id": "b-r2",
+ "band": "b",
+ "skill": "reading",
+ "series": 2,
+ "title": "Band B Reading · Series 2",
+ "source": {
+  "folder": "3. TOCFL Band B/Reading",
+  "booklet": "2. TOCFL Reading Band B.pdf",
+  "answer": "2. TOCFL Reading Answer Band B.pdf",
+  "script": null
+ },
+ "timeMinutes": null,
+ "parts": [
+  {
+   "title": "一、選詞填空",
+   "subtitle": "",
+   "instructions": "說明：在這一部分，每一段短文有幾個空格，每個空格有四個選\n項，請選出正確的答案完成短文。",
+   "instructionsEn": "",
+   "page": 3,
+   "from": 1,
+   "to": 15,
+   "grouped": true
+  },
+  {
+   "title": "二、閱讀理解",
+   "subtitle": "",
+   "instructions": "說明：在這一部分，請閱讀材料或短文，並根據內容回答幾個問\n題。",
+   "instructionsEn": "",
+   "page": 7,
+   "from": 16,
+   "to": 50,
+   "grouped": true
+  }
+ ],
+ "questions": [
+  {
+   "n": 1,
+   "page": 4,
+   "stem": "",
+   "context": "（一）\n我剛來這裡工作的時候，我的老闆幫我在這個大都市裡租了一間小房間。他對這個地點非常滿意，附近交通不但 1 ，也有多家商店和超市，買什麼都方便。不過我覺得大都市的生活 2 太小，休息的時候還是覺得有壓力，住在這裡一點也 3 輕鬆。聽說這座城市西邊的郊區有不少便宜的大房子，那裡 4 交通不方便， 4 有很多自然風景，我希望 5 工作穩定以後，再搬到那兒住。",
+   "options": [
+    {
+     "label": "A",
+     "text": "流行"
+    },
+    {
+     "label": "B",
+     "text": "熱鬧"
+    },
+    {
+     "label": "C",
+     "text": "發達"
+    },
+    {
+     "label": "D",
+     "text": "順利"
+    }
+   ],
+   "crop": "q1.webp",
+   "showCrop": false,
+   "cropGap": 27,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 2,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "位置"
+    },
+    {
+     "label": "B",
+     "text": "地方"
+    },
+    {
+     "label": "C",
+     "text": "背景"
+    },
+    {
+     "label": "D",
+     "text": "空間"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 3,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "不"
+    },
+    {
+     "label": "B",
+     "text": "很"
+    },
+    {
+     "label": "C",
+     "text": "倒"
+    },
+    {
+     "label": "D",
+     "text": "夠"
+    }
+   ],
+   "crop": "q3.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 4,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "不論…都…"
+    },
+    {
+     "label": "B",
+     "text": "雖然…但是…"
+    },
+    {
+     "label": "C",
+     "text": "除非…否則…"
+    },
+    {
+     "label": "D",
+     "text": "假如…那麼…"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 5,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "對"
+    },
+    {
+     "label": "B",
+     "text": "為"
+    },
+    {
+     "label": "C",
+     "text": "照"
+    },
+    {
+     "label": "D",
+     "text": "等"
+    }
+   ],
+   "crop": "q5.webp",
+   "showCrop": false,
+   "cropGap": 197,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 6,
+   "page": 5,
+   "stem": "",
+   "context": "（二）\n小君養的烏龜生病了，必須住院一個月，醫藥費加上住院費一共得付八萬元。這 6 費用小君必須好幾個月不吃、不喝、不花錢，\n7 付得了，但她最後還是請醫生想辦法治烏龜的病。醫生被她的愛心所 8 ，決定只收她四萬元。現在，小君總算 9 ，要照顧好動物，除了牠們平常食物的費用， 10 得準備牠們臨時可能需要看病的錢，這真的不是一件容易的事。",
+   "options": [
+    {
+     "label": "A",
+     "text": "頓"
+    },
+    {
+     "label": "B",
+     "text": "組"
+    },
+    {
+     "label": "C",
+     "text": "場"
+    },
+    {
+     "label": "D",
+     "text": "筆"
+    }
+   ],
+   "crop": "q6.webp",
+   "showCrop": false,
+   "cropGap": 28,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g6"
+  },
+  {
+   "n": 7,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "才"
+    },
+    {
+     "label": "B",
+     "text": "又"
+    },
+    {
+     "label": "C",
+     "text": "仍"
+    },
+    {
+     "label": "D",
+     "text": "更"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g6"
+  },
+  {
+   "n": 8,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "滿足"
+    },
+    {
+     "label": "B",
+     "text": "感動"
+    },
+    {
+     "label": "C",
+     "text": "刺激"
+    },
+    {
+     "label": "D",
+     "text": "鼓勵"
+    }
+   ],
+   "crop": "q8.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g6"
+  },
+  {
+   "n": 9,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "明白"
+    },
+    {
+     "label": "B",
+     "text": "在乎"
+    },
+    {
+     "label": "C",
+     "text": "渴望"
+    },
+    {
+     "label": "D",
+     "text": "犧牲"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g6"
+  },
+  {
+   "n": 10,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "既"
+    },
+    {
+     "label": "B",
+     "text": "僅"
+    },
+    {
+     "label": "C",
+     "text": "卻"
+    },
+    {
+     "label": "D",
+     "text": "還"
+    }
+   ],
+   "crop": "q10.webp",
+   "showCrop": false,
+   "cropGap": 197,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g6"
+  },
+  {
+   "n": 11,
+   "page": 6,
+   "stem": "",
+   "context": "（三）\n每年春分這一天，日、夜時間一樣長，世界 11 地都能照到陽光，有「平等」之意，因此，聯合國將這天定為「世界地球日」，\n12 平等的理想。事實上，每年的地球日本來日期都不 13 ，直到 1970 年，美國一名大學生在該年的地球日──4 月 22 日發起環境保護活動， 14 全美二千多萬人的響應與支持。 15 該次活動非常成功，此後的地球日就定在 4 月 22 日，主題也轉而趨向環保。",
+   "options": [
+    {
+     "label": "A",
+     "text": "外"
+    },
+    {
+     "label": "B",
+     "text": "當"
+    },
+    {
+     "label": "C",
+     "text": "各"
+    },
+    {
+     "label": "D",
+     "text": "本"
+    }
+   ],
+   "crop": "q11.webp",
+   "showCrop": false,
+   "cropGap": 27,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": "g11"
+  },
+  {
+   "n": 12,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "陳列"
+    },
+    {
+     "label": "B",
+     "text": "應付"
+    },
+    {
+     "label": "C",
+     "text": "宣傳"
+    },
+    {
+     "label": "D",
+     "text": "奮鬥"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": "g11"
+  },
+  {
+   "n": 13,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "例外"
+    },
+    {
+     "label": "B",
+     "text": "固定"
+    },
+    {
+     "label": "C",
+     "text": "典型"
+    },
+    {
+     "label": "D",
+     "text": "平衡"
+    }
+   ],
+   "crop": "q13.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g11"
+  },
+  {
+   "n": 14,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "獲得"
+    },
+    {
+     "label": "B",
+     "text": "包括"
+    },
+    {
+     "label": "C",
+     "text": "呈現"
+    },
+    {
+     "label": "D",
+     "text": "面臨"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g11"
+  },
+  {
+   "n": 15,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "一旦"
+    },
+    {
+     "label": "B",
+     "text": "與其"
+    },
+    {
+     "label": "C",
+     "text": "即使"
+    },
+    {
+     "label": "D",
+     "text": "由於"
+    }
+   ],
+   "crop": "q15.webp",
+   "showCrop": false,
+   "cropGap": 201,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g11"
+  },
+  {
+   "n": 16,
+   "page": 8,
+   "stem": "這個捐血中心的傳單上說了什麼？",
+   "context": "（一）",
+   "options": [
+    {
+     "label": "A",
+     "text": "服務別人就是幫助別人"
+    },
+    {
+     "label": "B",
+     "text": "捐血地點將透過電話通知"
+    },
+    {
+     "label": "C",
+     "text": "捐血中心需要各種血型的血"
+    },
+    {
+     "label": "D",
+     "text": "目前哪一種血型的血明顯不夠"
+    }
+   ],
+   "crop": "q16.webp",
+   "showCrop": true,
+   "cropGap": 319,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g16"
+  },
+  {
+   "n": 17,
+   "page": 9,
+   "stem": "根據這張廣告單，下面哪一個是對的？",
+   "context": "（二）",
+   "options": [
+    {
+     "label": "A",
+     "text": "店家接受電話訂餐"
+    },
+    {
+     "label": "B",
+     "text": "點特定火鍋料就送現金"
+    },
+    {
+     "label": "C",
+     "text": "二月前消費就送小禮物"
+    },
+    {
+     "label": "D",
+     "text": "消費一百元以上才能得到鑰匙圈"
+    }
+   ],
+   "crop": "q17.webp",
+   "showCrop": true,
+   "cropGap": 317,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g17"
+  },
+  {
+   "n": 18,
+   "page": 10,
+   "stem": "這段話提到文玉的什麼事？",
+   "context": "（三）\n每晚約七點半，我會拿著家中的垃圾走到十字路口的超級市場前等垃圾車，和附近的鄰居一邊等一邊聊天。那些六十幾歲的老鄰居，都是看著我長大的。最近，他們常問：「文玉，有沒有男朋友？」、「工作怎麼樣？」不過，因為他們總是忘記自己問過，所以基本上，我每天都在回答同樣的問題。",
+   "options": [
+    {
+     "label": "A",
+     "text": "她經常忘記回答鄰居的問題"
+    },
+    {
+     "label": "B",
+     "text": "她等垃圾車的地方就在家門口"
+    },
+    {
+     "label": "C",
+     "text": "她和鄰居每天聊天的內容都一樣"
+    },
+    {
+     "label": "D",
+     "text": "她不願意回答跟交友或工作有關的事"
+    }
+   ],
+   "crop": "q18.webp",
+   "showCrop": false,
+   "cropGap": 96,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 19,
+   "page": 10,
+   "stem": "這個研究說了什麼？",
+   "context": "（四）\n一項研究發現，女人比男人更容易感覺到「疼痛」，也就是說，在相同的情況下，女人對痛的感覺比男人高出 20%。研究還發現，聽音樂可有效降低疼痛感。換句話說，因牙齒痛去看牙時，可以聽音樂或玩一些帶有音樂的遊戲。好聽的、有趣的音樂不但能讓你覺得沒那麼痛，也能幫助你別太注意旁邊機器的聲音。",
+   "options": [
+    {
+     "label": "A",
+     "text": "女人在音樂方面的興趣與表現比男人高得多"
+    },
+    {
+     "label": "B",
+     "text": "聽音樂的時候，人們比較不容易感覺到疼痛"
+    },
+    {
+     "label": "C",
+     "text": "看病時播放音樂，有助於降低醫院內的噪音"
+    },
+    {
+     "label": "D",
+     "text": "男人比女人更怕痛，牙痛時常不願去看牙醫"
+    }
+   ],
+   "crop": "q19.webp",
+   "showCrop": false,
+   "cropGap": 137,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g19"
+  },
+  {
+   "n": 20,
+   "page": 11,
+   "stem": "根據這段介紹，可以知道什麼事？",
+   "context": "（五）\n一位二十歲的大學生，花了一年的時間，製造出了一台煮咖啡的機器。這台咖啡機能讓人只用「嘴」就煮出咖啡！如果你是這台咖啡機的主人，想喝咖啡的時候，只需要在離它三公尺以內的地方說：「煮一杯熱咖啡！」。大概五分鐘以後，你就能夠喝到一杯熱熱的咖啡。",
+   "options": [
+    {
+     "label": "A",
+     "text": "咖啡機是透過聲音來控制的"
+    },
+    {
+     "label": "B",
+     "text": "咖啡的品質不能只用嘴來判斷"
+    },
+    {
+     "label": "C",
+     "text": "第一個發明咖啡機的是個年輕人"
+    },
+    {
+     "label": "D",
+     "text": "用這台咖啡機煮咖啡，多遠都聞得到"
+    }
+   ],
+   "crop": "q20.webp",
+   "showCrop": false,
+   "cropGap": 96,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g20"
+  },
+  {
+   "n": 21,
+   "page": 11,
+   "stem": "關於這篇文章，下面哪一個是正確的？",
+   "context": "（六）\n西洋情人節這一天，情人之間會互相贈送禮物，主要是希望能向對方表達自己濃濃的愛。送給情人的禮物有很多選擇，其中，除了常見的鮮花，巧克力也是很受歡迎的禮物。有些人覺得巧克力太甜，容易讓人變胖。事實上，每天吃一點巧克力對健康很有幫助，尤其是顏色深、味道苦的巧克力，越黑越苦越健康。",
+   "options": [
+    {
+     "label": "A",
+     "text": "深色巧克力不比淺色的健康"
+    },
+    {
+     "label": "B",
+     "text": "現代人早已不流行買花、送花"
+    },
+    {
+     "label": "C",
+     "text": "吃巧克力不是對身體沒有好處"
+    },
+    {
+     "label": "D",
+     "text": "情人節送禮物才能證明彼此的愛"
+    }
+   ],
+   "crop": "q21.webp",
+   "showCrop": false,
+   "cropGap": 157,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 22,
+   "page": 12,
+   "stem": "這篇文章談到關於使用 CD 存檔的哪一件事？",
+   "context": "（七）\n一般人都以為用 CD 儲存資料，就能永久保存珍貴的相片或影片，這恐怕是錯誤觀念。日本最新研究發現，CD 也有壽命，如果 CD長期被放在潮濕的地方或陽光下，時間久了，檔案損壞的風險一定較高。因此，要想保存珍貴影像，最好還是定期在不同地方多儲存幾份。",
+   "options": [
+    {
+     "label": "A",
+     "text": "是最能保障檔案品質的方式"
+    },
+    {
+     "label": "B",
+     "text": "所儲存的內容都有保存期限"
+    },
+    {
+     "label": "C",
+     "text": "其壽命比一般人想像的還長"
+    },
+    {
+     "label": "D",
+     "text": "存檔程序複雜是唯一的缺點"
+    }
+   ],
+   "crop": "q22.webp",
+   "showCrop": false,
+   "cropGap": 105,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g22"
+  },
+  {
+   "n": 23,
+   "page": 12,
+   "stem": "根據這段話，下面哪一項是對的？",
+   "context": "（八）\n在中國，多數人長久以來都認為紙是東漢時期的蔡倫發明的，如今這個觀點被推翻了。根據考古學家的最新發現，在蔡倫之前，中國人早已知道如何造紙，只是造紙的品質較差罷了。儘管蔡倫不是發明紙的人，但他卻改進了造紙的材料和技術。大家為了紀念他的貢獻，便把這種改良過的紙叫做「蔡侯紙」。",
+   "options": [
+    {
+     "label": "A",
+     "text": "考古學家不贊同蔡倫擅長造紙"
+    },
+    {
+     "label": "B",
+     "text": "「蔡侯紙」是中國人最早發明的紙"
+    },
+    {
+     "label": "C",
+     "text": "很多人最近才知道東漢以前沒有紙"
+    },
+    {
+     "label": "D",
+     "text": "蔡倫的主要成就在於改進造紙的品質"
+    }
+   ],
+   "crop": "q23.webp",
+   "showCrop": false,
+   "cropGap": 148,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g23"
+  },
+  {
+   "n": 24,
+   "page": 13,
+   "stem": "小芳為什麼寫這封信？",
+   "context": "（九）",
+   "options": [
+    {
+     "label": "A",
+     "text": "打算送電影票給朋友"
+    },
+    {
+     "label": "B",
+     "text": "想找人一起買電影票"
+    },
+    {
+     "label": "C",
+     "text": "要幫家人出售電影票"
+    },
+    {
+     "label": "D",
+     "text": "請人陪弟弟去看電影"
+    }
+   ],
+   "crop": "q24.webp",
+   "showCrop": true,
+   "cropGap": 375,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g24"
+  },
+  {
+   "n": 25,
+   "page": 13,
+   "stem": "從這封信可以知道什麼事？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "現在買電影票可以打折"
+    },
+    {
+     "label": "B",
+     "text": "電影開演的時間已經確定"
+    },
+    {
+     "label": "C",
+     "text": "小芳的弟弟也會收到小芳的信"
+    },
+    {
+     "label": "D",
+     "text": "買票的人可以自己選擇想看的電影"
+    }
+   ],
+   "crop": "q25.webp",
+   "showCrop": true,
+   "cropGap": 112,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g24"
+  },
+  {
+   "n": 26,
+   "page": 14,
+   "stem": "關於這個活動，下面何者正確？",
+   "context": "（十）",
+   "options": [
+    {
+     "label": "A",
+     "text": "可提供面對面交友的機會"
+    },
+    {
+     "label": "B",
+     "text": "只要參加就能得到明信片"
+    },
+    {
+     "label": "C",
+     "text": "有三個人可以拿到錢和禮物"
+    },
+    {
+     "label": "D",
+     "text": "鼓勵大家拍一些和家鄉有關的影片"
+    }
+   ],
+   "crop": "q26.webp",
+   "showCrop": true,
+   "cropGap": 380,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 27,
+   "page": 14,
+   "stem": "想參加的人應該要注意什麼事？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "自己必須是秋水鄉的人"
+    },
+    {
+     "label": "B",
+     "text": "5 月 30 日以後才能報名"
+    },
+    {
+     "label": "C",
+     "text": "有問題就寫信給李小姐"
+    },
+    {
+     "label": "D",
+     "text": "作品要親自送到鄉公所"
+    }
+   ],
+   "crop": "q27.webp",
+   "showCrop": true,
+   "cropGap": 107,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 28,
+   "page": 15,
+   "stem": "這張通知主要是為了說明什麼事？",
+   "context": "（十一）",
+   "options": [
+    {
+     "label": "A",
+     "text": "運動會只對校內師生開放"
+    },
+    {
+     "label": "B",
+     "text": "搭車前往運動會會場的辦法"
+    },
+    {
+     "label": "C",
+     "text": "未來運動會都改在新校區舉辦"
+    },
+    {
+     "label": "D",
+     "text": "今年運動會將同時在兩個校區舉行"
+    }
+   ],
+   "crop": "q28.webp",
+   "showCrop": true,
+   "cropGap": 382,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g28"
+  },
+  {
+   "n": 29,
+   "page": 15,
+   "stem": "有關新校區的地理位置，下列何者正確？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "位於大中路以南"
+    },
+    {
+     "label": "B",
+     "text": "在新店火車站旁邊"
+    },
+    {
+     "label": "C",
+     "text": "距離舊校區只要十分鐘"
+    },
+    {
+     "label": "D",
+     "text": "離它最近的公車站是大中站"
+    }
+   ],
+   "crop": "q29.webp",
+   "showCrop": true,
+   "cropGap": 107,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g28"
+  },
+  {
+   "n": 30,
+   "page": 16,
+   "stem": "張小姐剛從全能大學國際貿易系畢業，她還應具備什麼條件，較 有機會到巨輝鋼鐵工作？",
+   "context": "（十二）",
+   "options": [
+    {
+     "label": "A",
+     "text": "可配合公司電話面試"
+    },
+    {
+     "label": "B",
+     "text": "願意外派到國外分公司"
+    },
+    {
+     "label": "C",
+     "text": "能提出電腦相關能力證明"
+    },
+    {
+     "label": "D",
+     "text": "曾從事鋼鐵產業方面的工作"
+    }
+   ],
+   "crop": "q30.webp",
+   "showCrop": true,
+   "cropGap": 236,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g30"
+  },
+  {
+   "n": 31,
+   "page": 16,
+   "stem": "永昌科技公司的工作最適合下面哪一種人？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "計畫半工半讀"
+    },
+    {
+     "label": "B",
+     "text": "毫無工作經驗"
+    },
+    {
+     "label": "C",
+     "text": "有夜間工作傾向"
+    },
+    {
+     "label": "D",
+     "text": "受過一定職業訓練"
+    }
+   ],
+   "crop": "q31.webp",
+   "showCrop": true,
+   "cropGap": 232,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g30"
+  },
+  {
+   "n": 32,
+   "page": 17,
+   "stem": "關於這個旅遊活動，下面哪一項正確？",
+   "context": "（十三）",
+   "options": [
+    {
+     "label": "A",
+     "text": "學生要自己另外付保險費"
+    },
+    {
+     "label": "B",
+     "text": "這是一個當日來回的行程"
+    },
+    {
+     "label": "C",
+     "text": "所有參加旅遊的人都免費"
+    },
+    {
+     "label": "D",
+     "text": "學生的家人想參加得另外付費"
+    }
+   ],
+   "crop": "q32.webp",
+   "showCrop": true,
+   "cropGap": 445,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g32"
+  },
+  {
+   "n": 33,
+   "page": 17,
+   "stem": "薏如是華語中心的學生，她想報名這個活動，她要注意什麼事？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "12 月 15 日是報名的最後一天"
+    },
+    {
+     "label": "B",
+     "text": "不去的話應該找同學代替自己參加"
+    },
+    {
+     "label": "C",
+     "text": "臨時不能去，要有收據才能領回保證金"
+    },
+    {
+     "label": "D",
+     "text": "出發前一星期取消報名的人，不能拿回保證金"
+    }
+   ],
+   "crop": "q33.webp",
+   "showCrop": false,
+   "cropGap": 44,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g32"
+  },
+  {
+   "n": 34,
+   "page": 18,
+   "stem": "這篇文章指出這位青年怎麼樣？",
+   "context": "（十四）\n英國一位十九歲的青年得到一種很奇怪的病，他只能記得最近兩天內的事情，兩天以前的事他都想不起來，連上個禮拜自己的生日晚會都不記得。家人和朋友替他拍了許多照片，可是他看了照片，還是完全不記得過去發生的事情。雖然這個病不影響他的健康，卻影響了他的交友情形，他的女朋友就因為他總是忘記自己說過的話、做過的事，所以和他分開了。",
+   "options": [
+    {
+     "label": "A",
+     "text": "看照片才能讓他想起一些事"
+    },
+    {
+     "label": "B",
+     "text": "他擔心女友有天會忘了自己"
+    },
+    {
+     "label": "C",
+     "text": "他以為他參加了一個生日會"
+    },
+    {
+     "label": "D",
+     "text": "他的病使他的生活受到影響"
+    }
+   ],
+   "crop": "q34.webp",
+   "showCrop": false,
+   "cropGap": 24,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g34"
+  },
+  {
+   "n": 35,
+   "page": 18,
+   "stem": "這位青年發生了什麼事？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "他無法遵守自己的承諾"
+    },
+    {
+     "label": "B",
+     "text": "他把重要的照片弄丟了"
+    },
+    {
+     "label": "C",
+     "text": "他的健康狀況越來越差"
+    },
+    {
+     "label": "D",
+     "text": "他只記得一週以前的事"
+    }
+   ],
+   "crop": "q35.webp",
+   "showCrop": false,
+   "cropGap": 336,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g34"
+  },
+  {
+   "n": 36,
+   "page": 19,
+   "stem": "文章中的年輕人怎麼樣？",
+   "context": "（十五）\n有些人喜歡去一種特別的餐廳，這種餐廳讓人付一筆錢，就有吃不完的食物，想吃多少，就吃多少。去這種餐廳的人，常常覺得要吃得很飽才合算。不過，這樣的飲食方式是否正常，值得我們深思。台中市有一位年輕人，每兩、三天就到這樣的餐廳吃飯。有一天，他突然覺得身體很不舒服，到醫院檢查後，醫生發現他的身體有一堆毛病，比老人還差，必須馬上住院治療。所以說，這種餐廳一年當中偶爾去一次還可以，天天吃，就等著向醫生「報到」了。",
+   "options": [
+    {
+     "label": "A",
+     "text": "拿了點藥就出院了"
+    },
+    {
+     "label": "B",
+     "text": "很在意用餐的環境"
+    },
+    {
+     "label": "C",
+     "text": "有病沒病都去醫院"
+    },
+    {
+     "label": "D",
+     "text": "是某間餐廳的熟客"
+    }
+   ],
+   "crop": "q36.webp",
+   "showCrop": false,
+   "cropGap": 24,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g36"
+  },
+  {
+   "n": 37,
+   "page": 19,
+   "stem": "下列何者符合作者對去那類餐廳吃飯的看法？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "便宜的東西沒好貨"
+    },
+    {
+     "label": "B",
+     "text": "簡直是花錢買罪受"
+    },
+    {
+     "label": "C",
+     "text": "食物才是最天然的藥"
+    },
+    {
+     "label": "D",
+     "text": "寧可吃多，也不吃虧"
+    }
+   ],
+   "crop": "q37.webp",
+   "showCrop": false,
+   "cropGap": 316,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g36"
+  },
+  {
+   "n": 38,
+   "page": 20,
+   "stem": "關於管理中心大樓的裝修工程，下面哪一項正確？",
+   "context": "（十六）",
+   "options": [
+    {
+     "label": "A",
+     "text": "工程問題由總務處負責回答"
+    },
+    {
+     "label": "B",
+     "text": "中心員工不能進入施工區域"
+    },
+    {
+     "label": "C",
+     "text": "預計從 2010 年年底開始施工"
+    },
+    {
+     "label": "D",
+     "text": "大樓部分區域得事先申請才能進入"
+    }
+   ],
+   "crop": "q38.webp",
+   "showCrop": true,
+   "cropGap": 373,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g38"
+  },
+  {
+   "n": 39,
+   "page": 20,
+   "stem": "2011 年一整年，王福每週五會到這個中心上電腦課，他應該注意 下面哪一件事？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "可憑上課證乘接駁車至新大樓"
+    },
+    {
+     "label": "B",
+     "text": "將會有三個月的時間暫停上課"
+    },
+    {
+     "label": "C",
+     "text": "至三月份應留意教室變更通知"
+    },
+    {
+     "label": "D",
+     "text": "課程查詢可以撥電話給張主任"
+    }
+   ],
+   "crop": "q39.webp",
+   "showCrop": true,
+   "cropGap": 96,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g38"
+  },
+  {
+   "n": 40,
+   "page": 21,
+   "stem": "小時候的遭遇使羅老闆對人生產生了什麼想法？",
+   "context": "（十七）\n以經營運動器材為主的喬山健康科技公司，如今已成為亞洲第一大、世界第五大的運動器材公司。能有如此發展，全靠創辦人羅老闆的堅持。孩童時期，羅老闆因為家裡窮，無論是寒冷的冬天或炎熱的夏天，都只能光著腳到學校讀書。儘管對自己的出身沒有選擇權，但他認為，人生的道路本來就是這樣，必須克服環境阻礙，一步一步往前走。上天給他這樣的環境，讓他了解窮人沒有難過的權利，不應把消極、逃避的想法放在心上。而這股強大的意志力，後來便成為羅老闆經營企業的動力，也讓喬山這家公司三十年來穩定地成長、茁壯。",
+   "options": [
+    {
+     "label": "A",
+     "text": "人要堅強才能生存"
+    },
+    {
+     "label": "B",
+     "text": "命運是由上天安排的"
+    },
+    {
+     "label": "C",
+     "text": "窮人很難擺脫消極的想法"
+    },
+    {
+     "label": "D",
+     "text": "對於無法選擇環境感到挫折"
+    }
+   ],
+   "crop": "q40.webp",
+   "showCrop": false,
+   "cropGap": 24,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g40"
+  },
+  {
+   "n": 41,
+   "page": 21,
+   "stem": "本文主要在談論羅老闆的哪一件事？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "成立喬山公司的細節與經過"
+    },
+    {
+     "label": "B",
+     "text": "不向命運低頭的精神和態度"
+    },
+    {
+     "label": "C",
+     "text": "將運動器材作為產品的理由"
+    },
+    {
+     "label": "D",
+     "text": "目前在社會上的地位及影響力"
+    }
+   ],
+   "crop": "q41.webp",
+   "showCrop": false,
+   "cropGap": 296,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g40"
+  },
+  {
+   "n": 42,
+   "page": 22,
+   "stem": "這項以兩名嬰兒為對象的實驗是怎麼進行的？",
+   "context": "（十八）\n西元七世紀，古埃及一位國王為證明埃及語是世上最古老的語言，於是派官兵與護士將兩名剛出生不久的嬰兒，帶往國內一處無人居住的祕密地點，他規定全體人員除了提供嬰兒飲食以外，不准與嬰兒有任何語言交流。國王認為，孩子所發出的第一個聲音一定是人類最古老的語言，而他也希望這個聲音屬於埃及語。然而事與願違，兩年後孩子們最先發出的音與埃及語毫無關係，令國王失望極了。這就是人類歷史上最早記載的心理學實驗，雖然實驗失敗了，卻證明了人類早在一千多年前，便開始為研究神秘的心理現象而努力著。",
+   "options": [
+    {
+     "label": "A",
+     "text": "由國王親自照顧他們"
+    },
+    {
+     "label": "B",
+     "text": "派官兵帶他們離開埃及"
+    },
+    {
+     "label": "C",
+     "text": "禁止所有人對他們說任何話"
+    },
+    {
+     "label": "D",
+     "text": "命令專人教他們學習古老的語言"
+    }
+   ],
+   "crop": "q42.webp",
+   "showCrop": false,
+   "cropGap": 24,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g42"
+  },
+  {
+   "n": 43,
+   "page": 22,
+   "stem": "關於本文中提到的心理學實驗，下面哪一項正確？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "是第一個有正式記錄的心理學實驗"
+    },
+    {
+     "label": "B",
+     "text": "其結果和設計者事先想像的差不多"
+    },
+    {
+     "label": "C",
+     "text": "實驗目的是為擴大埃及的統治範圍"
+    },
+    {
+     "label": "D",
+     "text": "意外發現嬰兒說出第一個字是可以控制的"
+    }
+   ],
+   "crop": "q43.webp",
+   "showCrop": false,
+   "cropGap": 296,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g42"
+  },
+  {
+   "n": 44,
+   "page": 23,
+   "stem": "這個研究主要在說什麼？",
+   "context": "（十九）\n研究顯示，有 93%的青少年不管去哪裡都帶著手機，沒人打電話來的時候，他們會緊張、擔心。青少年離不開手機的原因是──他們希望有人陪，所以他們在等人的時候，會一直使用手機，讓人覺得他們很忙、朋友很多。有些父母認為孩子帶手機上學比較安全，所以許多孩子也帶著手機到學校。但是大部分的老師都希望學生不要帶很貴的手機到學校，因為容易弄丟或被弄壞。也有老師認為，父母要多了解孩子使用手機的情形，同時教他們在使用手機時，對時間和金錢應有正確的想法。",
+   "options": [
+    {
+     "label": "A",
+     "text": "青少年使用手機的心理及影響"
+    },
+    {
+     "label": "B",
+     "text": "青少年利用手機來學習的優點"
+    },
+    {
+     "label": "C",
+     "text": "現代青少年必須使用手機的原因"
+    },
+    {
+     "label": "D",
+     "text": "父母不允許孩子使用手機的理由"
+    }
+   ],
+   "crop": "q44.webp",
+   "showCrop": false,
+   "cropGap": 24,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g44"
+  },
+  {
+   "n": 45,
+   "page": 23,
+   "stem": "這篇文章提到，青少年在等人的時候，一直使用手機的原因是什 麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "想掌握對方的動向"
+    },
+    {
+     "label": "B",
+     "text": "擔心對方忘了約會"
+    },
+    {
+     "label": "C",
+     "text": "怕被人認為沒有朋友"
+    },
+    {
+     "label": "D",
+     "text": "一次要處理的事太多"
+    }
+   ],
+   "crop": "q45.webp",
+   "showCrop": false,
+   "cropGap": 18,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g44"
+  },
+  {
+   "n": 46,
+   "page": 23,
+   "stem": "文章中的老師對青少年使用手機的意見是什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "人手一支，有總比沒有好"
+    },
+    {
+     "label": "B",
+     "text": "多考慮價錢、需求再購買"
+    },
+    {
+     "label": "C",
+     "text": "尊重個人意願不必過分干涉"
+    },
+    {
+     "label": "D",
+     "text": "學校的責任大於家長的責任"
+    }
+   ],
+   "crop": "q46.webp",
+   "showCrop": false,
+   "cropGap": 158,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g44"
+  },
+  {
+   "n": 47,
+   "page": 25,
+   "stem": "第二段主要在談什麼事？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "作者以自身經驗說明帽子的功能"
+    },
+    {
+     "label": "B",
+     "text": "作者建議戴帽者能多注意服裝儀容"
+    },
+    {
+     "label": "C",
+     "text": "作者推測戴帽者的心態與戴帽後的效應"
+    },
+    {
+     "label": "D",
+     "text": "作者從他人觀點來說明戴帽子的不便之處"
+    }
+   ],
+   "crop": "q47.webp",
+   "showCrop": false,
+   "cropGap": 18,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g44"
+  },
+  {
+   "n": 48,
+   "page": 25,
+   "stem": "作者用「此地無銀三百兩」來形容人的哪一種行為？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "不懂得拒絕外人的好意"
+    },
+    {
+     "label": "B",
+     "text": "考慮太多無關緊要的事"
+    },
+    {
+     "label": "C",
+     "text": "總以為神不知、鬼不覺"
+    },
+    {
+     "label": "D",
+     "text": "常注意小事、忽略大事"
+    }
+   ],
+   "crop": "q48.webp",
+   "showCrop": false,
+   "cropGap": 18,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g44"
+  },
+  {
+   "n": 49,
+   "page": 25,
+   "stem": "本文第三段作者說了什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "戴上帽子更會讓他感到不安"
+    },
+    {
+     "label": "B",
+     "text": "他想通過戴帽子引起別人重視"
+    },
+    {
+     "label": "C",
+     "text": "他從來就不知道戴上帽子很醒目"
+    },
+    {
+     "label": "D",
+     "text": "他缺乏自信時，也總是戴帽再出門"
+    }
+   ],
+   "crop": "q49.webp",
+   "showCrop": false,
+   "cropGap": 18,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g44"
+  },
+  {
+   "n": 50,
+   "page": 25,
+   "stem": "寫這篇文章的人應從事什麼職業？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "新聞記者"
+    },
+    {
+     "label": "B",
+     "text": "服飾店員"
+    },
+    {
+     "label": "C",
+     "text": "眼科醫師"
+    },
+    {
+     "label": "D",
+     "text": "心理治療師"
+    }
+   ],
+   "crop": "q50.webp",
+   "showCrop": false,
+   "cropGap": 267,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g44"
+  }
+ ],
+ "audio": null,
+ "fullScript": null,
+ "optionCount": 4
+}

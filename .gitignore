@@ -1,0 +1,8 @@
+node_modules/
+dist/
+public/media/audio/
+reports/screens/
+reports/media-sync-report.json
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,716 @@
+{
+ "id": "novice-r1",
+ "band": "novice",
+ "skill": "reading",
+ "series": 1,
+ "title": "Novice Reading · Series 1",
+ "source": {
+  "folder": "1. TOCFL Band Novice/Reading",
+  "booklet": "1. TOCFL Reading Band Novice.pdf",
+  "answer": "1. TOCFL Reading Answer Band Novice.pdf",
+  "script": null
+ },
+ "timeMinutes": null,
+ "parts": [
+  {
+   "title": "第一部分",
+   "subtitle": "Part One",
+   "instructions": "說明：在這個部分，每題有一個簡短的文字訊息和(A)(B)(C)三張圖片。請根據文\n字訊息，選出正確的圖片。(B), and (C). Please pick the picture that matches each text the best.",
+   "instructionsEn": "Directions: In this part of the test, each test item will have the text and three pictures marked (A),",
+   "page": 3,
+   "from": 1,
+   "to": 15,
+   "grouped": false
+  },
+  {
+   "title": "第二部分",
+   "subtitle": "Part Two",
+   "instructions": "說明：在這個部分，每題有一張圖片和(A)(B)(C)三個句子。請根據圖片，選出正\n確的答案。",
+   "instructionsEn": "Directions: In this part of the test, each test item has a picture and three sentences marked (A), (B), and (C). Please pick the answer that matches each picture the best.",
+   "page": 8,
+   "from": 16,
+   "to": 25,
+   "grouped": false
+  }
+ ],
+ "questions": [
+  {
+   "n": 1,
+   "page": 4,
+   "stem": "妹妹的書 妹妹的書",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q1.webp",
+   "showCrop": true,
+   "cropGap": 103,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 2,
+   "page": 4,
+   "stem": "五百二十八元 五百二十八元",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q2.webp",
+   "showCrop": true,
+   "cropGap": 116,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 3,
+   "page": 4,
+   "stem": "他在開車 他在開車",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q3.webp",
+   "showCrop": true,
+   "cropGap": 122,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 4,
+   "page": 4,
+   "stem": "九點四十分 九點四十分",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q4.webp",
+   "showCrop": true,
+   "cropGap": 147,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 5,
+   "page": 5,
+   "stem": "他們在看電影 他們在看電影",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q5.webp",
+   "showCrop": true,
+   "cropGap": 116,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 6,
+   "page": 5,
+   "stem": "這是他的名子 這是他的名 字\nㄗ˙",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q6.webp",
+   "showCrop": true,
+   "cropGap": 115,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 7,
+   "page": 5,
+   "stem": "他在練習寫字 她在練習寫字",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q7.webp",
+   "showCrop": true,
+   "cropGap": 115,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 8,
+   "page": 5,
+   "stem": "我戴了衣服 我帶了衣 服ㄈㄨ\n˙",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q8.webp",
+   "showCrop": true,
+   "cropGap": 141,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 9,
+   "page": 6,
+   "stem": "漂亮的房子 漂亮的房子",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q9.webp",
+   "showCrop": true,
+   "cropGap": 116,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 10,
+   "page": 6,
+   "stem": "他覺得很熱 她覺得很熱",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q10.webp",
+   "showCrop": true,
+   "cropGap": 115,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 11,
+   "page": 6,
+   "stem": "他在餐廳吃東西 他在餐廳吃東西",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q11.webp",
+   "showCrop": true,
+   "cropGap": 115,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 12,
+   "page": 6,
+   "stem": "這裡有一些蘋果 這裡有一些蘋果",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q12.webp",
+   "showCrop": true,
+   "cropGap": 141,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 13,
+   "page": 7,
+   "stem": "爸爸想買手機 爸爸想買手機",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q13.webp",
+   "showCrop": true,
+   "cropGap": 116,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 14,
+   "page": 7,
+   "stem": "她和朋友一起運動 她和朋友一起運動",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q14.webp",
+   "showCrop": true,
+   "cropGap": 119,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 15,
+   "page": 7,
+   "stem": "我一個星期上兩次英文課 我一個星期上兩次英文課",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q15.webp",
+   "showCrop": true,
+   "cropGap": 324,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 16,
+   "page": 9,
+   "stem": "這個東西六百零五元",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "這個東西六百零五元。這個東西六百五十元"
+    },
+    {
+     "label": "B",
+     "text": "這個東西六百五十元。這個東西八百五十元"
+    },
+    {
+     "label": "C",
+     "text": "這個東西八百五十元。"
+    }
+   ],
+   "crop": "q16.webp",
+   "showCrop": true,
+   "cropGap": 194,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 17,
+   "page": 9,
+   "stem": "他在洗東西",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "他在洗東西。她在找東西"
+    },
+    {
+     "label": "B",
+     "text": "他在找東西。她在買東西"
+    },
+    {
+     "label": "C",
+     "text": "他在買東西。"
+    }
+   ],
+   "crop": "q17.webp",
+   "showCrop": true,
+   "cropGap": 194,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 18,
+   "page": 10,
+   "stem": "她覺得考試很難",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "她覺得考試很難。他覺得考試很有趣"
+    },
+    {
+     "label": "B",
+     "text": "她覺得考試很有趣。他覺得考試很容易"
+    },
+    {
+     "label": "C",
+     "text": "她覺得考試很容易。"
+    }
+   ],
+   "crop": "q18.webp",
+   "showCrop": true,
+   "cropGap": 194,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 19,
+   "page": 10,
+   "stem": "這裡不可以看書",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "這裡不可以看書。這裡不可以說話"
+    },
+    {
+     "label": "B",
+     "text": "這裡不可以說話。這裡不可以喝東西"
+    },
+    {
+     "label": "C",
+     "text": "這裡不可以喝東西。"
+    }
+   ],
+   "crop": "q19.webp",
+   "showCrop": true,
+   "cropGap": 194,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 20,
+   "page": 11,
+   "stem": "爸爸沒穿鞋子",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "爸爸沒穿鞋子。嬤媽沒穿鞋子"
+    },
+    {
+     "label": "B",
+     "text": "媽媽沒穿鞋子。弟弟沒穿鞋子"
+    },
+    {
+     "label": "C",
+     "text": "弟弟沒穿鞋子。"
+    }
+   ],
+   "crop": "q20.webp",
+   "showCrop": true,
+   "cropGap": 194,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 21,
+   "page": 11,
+   "stem": "這個人下午吃飯",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "這個人下午吃飯。這個人早上打電話"
+    },
+    {
+     "label": "B",
+     "text": "這個人早上打電話。這個人中午在學習"
+    },
+    {
+     "label": "C",
+     "text": "這個人中午在學習。"
+    }
+   ],
+   "crop": "q21.webp",
+   "showCrop": true,
+   "cropGap": 194,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 22,
+   "page": 12,
+   "stem": "學生給老師一張票",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "學生給老師一張票。老師在聽學生唱歌"
+    },
+    {
+     "label": "B",
+     "text": "老師在聽學生唱歌。學生在問老師問題"
+    },
+    {
+     "label": "C",
+     "text": "學生在問老師問題。"
+    }
+   ],
+   "crop": "q22.webp",
+   "showCrop": true,
+   "cropGap": 194,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 23,
+   "page": 12,
+   "stem": "醫院在餐廳和圖書館的中間",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "醫院在餐廳和圖書館的中間。圖書館在餐廳和醫院的中間"
+    },
+    {
+     "label": "B",
+     "text": "圖書館在餐廳和醫院的中間。餐廳在圖書館合醫院的中間"
+    },
+    {
+     "label": "C",
+     "text": "餐廳在圖書館和醫院的中間。"
+    }
+   ],
+   "crop": "q23.webp",
+   "showCrop": true,
+   "cropGap": 194,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 24,
+   "page": 13,
+   "stem": "他們都一樣大",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "他們都一樣大。他們都是學生"
+    },
+    {
+     "label": "B",
+     "text": "他們都是學生。他們都會應雯"
+    },
+    {
+     "label": "C",
+     "text": "他們都會英文。"
+    }
+   ],
+   "crop": "q24.webp",
+   "showCrop": true,
+   "cropGap": 194,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 25,
+   "page": 13,
+   "stem": "酒比茶便宜",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "酒比茶便宜。咖啡比酒便宜"
+    },
+    {
+     "label": "B",
+     "text": "咖啡比酒便宜。茶比咖啡便宜"
+    },
+    {
+     "label": "C",
+     "text": "茶比咖啡便宜。"
+    }
+   ],
+   "crop": "q25.webp",
+   "showCrop": true,
+   "cropGap": 194,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": null
+  }
+ ],
+ "audio": null,
+ "fullScript": null,
+ "optionCount": 3
+}

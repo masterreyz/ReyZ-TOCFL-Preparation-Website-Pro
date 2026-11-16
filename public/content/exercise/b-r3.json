@@ -1,0 +1,1591 @@
+{
+ "id": "b-r3",
+ "band": "b",
+ "skill": "reading",
+ "series": 3,
+ "title": "Band B Reading · Series 3",
+ "source": {
+  "folder": "3. TOCFL Band B/Reading",
+  "booklet": "3. TOCFL Reading Band B.pdf",
+  "answer": "3. TOCFL Reading Answer Band B.pdf",
+  "script": null
+ },
+ "timeMinutes": null,
+ "parts": [
+  {
+   "title": "一、選詞填空",
+   "subtitle": "",
+   "instructions": "說明：在這一部分，每一段短文有幾個空格，每個空格有四個選\n項，請選出正確的答案完成短文。",
+   "instructionsEn": "",
+   "page": 3,
+   "from": 1,
+   "to": 18,
+   "grouped": true
+  },
+  {
+   "title": "二、閱讀理解",
+   "subtitle": "",
+   "instructions": "說明：在這一部分，請閱讀材料或短文，並根據內容回答幾個問\n題。",
+   "instructionsEn": "",
+   "page": 7,
+   "from": 19,
+   "to": 50,
+   "grouped": true
+  }
+ ],
+ "questions": [
+  {
+   "n": 1,
+   "page": 4,
+   "stem": "",
+   "context": "（一）\n昨天我在整理書桌的時候，發現了一本很久沒 1 到的書。那本書是幾年 2 我父親送給我的。我打開那本書，裡面有一 3 卡片，那是父親給我的。卡片裡他 4 ：「爸爸想送你最特別的十八歲生日禮物，看了好幾家店以後， 5 你買了這本書。希望這本書能\n6 你明白一些道理。」看完卡片，我又把書讀了一遍。",
+   "options": [
+    {
+     "label": "A",
+     "text": "開"
+    },
+    {
+     "label": "B",
+     "text": "查"
+    },
+    {
+     "label": "C",
+     "text": "看"
+    },
+    {
+     "label": "D",
+     "text": "遇"
+    }
+   ],
+   "crop": "q1.webp",
+   "showCrop": false,
+   "cropGap": 36,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 2,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "中"
+    },
+    {
+     "label": "B",
+     "text": "上"
+    },
+    {
+     "label": "C",
+     "text": "前"
+    },
+    {
+     "label": "D",
+     "text": "後"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 3,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "頁"
+    },
+    {
+     "label": "B",
+     "text": "張"
+    },
+    {
+     "label": "C",
+     "text": "份"
+    },
+    {
+     "label": "D",
+     "text": "片"
+    }
+   ],
+   "crop": "q3.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 4,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "寫著"
+    },
+    {
+     "label": "B",
+     "text": "說過"
+    },
+    {
+     "label": "C",
+     "text": "讀著"
+    },
+    {
+     "label": "D",
+     "text": "念過"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 5,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "對"
+    },
+    {
+     "label": "B",
+     "text": "要"
+    },
+    {
+     "label": "C",
+     "text": "給"
+    },
+    {
+     "label": "D",
+     "text": "向"
+    }
+   ],
+   "crop": "q5.webp",
+   "showCrop": false,
+   "cropGap": 220,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 6,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "讓"
+    },
+    {
+     "label": "B",
+     "text": "把"
+    },
+    {
+     "label": "C",
+     "text": "被"
+    },
+    {
+     "label": "D",
+     "text": "為"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 220,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 7,
+   "page": 5,
+   "stem": "",
+   "context": "（二）\n李明的車子壞了，所以他最近 7 開車上班。李明的家 8 公司很遠，要是沒有車子的話，是很不 9 的。這個星期，李明每天早上得先坐公共汽車， 10 坐電車，才能到公司。 11 三、四天，李明覺得可以接受，但是久了他就覺得麻煩，才 12 汽車公司借他一台車，讓他能夠開車上、下班，汽車公司也答應了。",
+   "options": [
+    {
+     "label": "A",
+     "text": "最好"
+    },
+    {
+     "label": "B",
+     "text": "不能"
+    },
+    {
+     "label": "C",
+     "text": "還是"
+    },
+    {
+     "label": "D",
+     "text": "沒空"
+    }
+   ],
+   "crop": "q7.webp",
+   "showCrop": false,
+   "cropGap": 37,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g7"
+  },
+  {
+   "n": 8,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "從"
+    },
+    {
+     "label": "B",
+     "text": "比"
+    },
+    {
+     "label": "C",
+     "text": "離"
+    },
+    {
+     "label": "D",
+     "text": "往"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": "g7"
+  },
+  {
+   "n": 9,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "滿意"
+    },
+    {
+     "label": "B",
+     "text": "容易"
+    },
+    {
+     "label": "C",
+     "text": "放心"
+    },
+    {
+     "label": "D",
+     "text": "方便"
+    }
+   ],
+   "crop": "q9.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g7"
+  },
+  {
+   "n": 10,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "然後"
+    },
+    {
+     "label": "B",
+     "text": "後來"
+    },
+    {
+     "label": "C",
+     "text": "以後"
+    },
+    {
+     "label": "D",
+     "text": "結果"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g7"
+  },
+  {
+   "n": 11,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "第"
+    },
+    {
+     "label": "B",
+     "text": "頭"
+    },
+    {
+     "label": "C",
+     "text": "先"
+    },
+    {
+     "label": "D",
+     "text": "早"
+    }
+   ],
+   "crop": "q11.webp",
+   "showCrop": false,
+   "cropGap": 227,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g7"
+  },
+  {
+   "n": 12,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "計畫"
+    },
+    {
+     "label": "B",
+     "text": "忘記"
+    },
+    {
+     "label": "C",
+     "text": "安排"
+    },
+    {
+     "label": "D",
+     "text": "要求"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 227,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g7"
+  },
+  {
+   "n": 13,
+   "page": 6,
+   "stem": "",
+   "context": "（三）\n我家附近有一家書店。這家書店的客人不多， 13 書很多。書店老闆人很好，對客人總是很 14 。去那裡不一定要買書，也\n15 只是看看書。在那裡看書， 16 看多久都行，沒有人會來吵你。記得有一次，書店剛開門，我 17 進去看書，不知道看了多久，\n18 頭往外一看，才發現天都已經黑了。",
+   "options": [
+    {
+     "label": "A",
+     "text": "卻"
+    },
+    {
+     "label": "B",
+     "text": "又"
+    },
+    {
+     "label": "C",
+     "text": "但是"
+    },
+    {
+     "label": "D",
+     "text": "不但"
+    }
+   ],
+   "crop": "q13.webp",
+   "showCrop": false,
+   "cropGap": 27,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": "g13"
+  },
+  {
+   "n": 14,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "客氣"
+    },
+    {
+     "label": "B",
+     "text": "自由"
+    },
+    {
+     "label": "C",
+     "text": "感謝"
+    },
+    {
+     "label": "D",
+     "text": "高興"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g13"
+  },
+  {
+   "n": 15,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "會"
+    },
+    {
+     "label": "B",
+     "text": "可以"
+    },
+    {
+     "label": "C",
+     "text": "不必"
+    },
+    {
+     "label": "D",
+     "text": "不該"
+    }
+   ],
+   "crop": "q15.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g13"
+  },
+  {
+   "n": 16,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "要是"
+    },
+    {
+     "label": "B",
+     "text": "所以"
+    },
+    {
+     "label": "C",
+     "text": "可能"
+    },
+    {
+     "label": "D",
+     "text": "不管"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g13"
+  },
+  {
+   "n": 17,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "還"
+    },
+    {
+     "label": "B",
+     "text": "才"
+    },
+    {
+     "label": "C",
+     "text": "再"
+    },
+    {
+     "label": "D",
+     "text": "就"
+    }
+   ],
+   "crop": "q17.webp",
+   "showCrop": false,
+   "cropGap": 236,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g13"
+  },
+  {
+   "n": 18,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "抬"
+    },
+    {
+     "label": "B",
+     "text": "抽"
+    },
+    {
+     "label": "C",
+     "text": "扔"
+    },
+    {
+     "label": "D",
+     "text": "提"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 236,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g13"
+  },
+  {
+   "n": 19,
+   "page": 9,
+   "stem": "安安要從台北坐火車去台中，他和朋友約十點三十分在台中站見 面，他應該坐幾點的火車，才不會太早到或遲到？",
+   "context": "（一）",
+   "options": [
+    {
+     "label": "A",
+     "text": "早上六點四分"
+    },
+    {
+     "label": "B",
+     "text": "早上七點五十五分"
+    },
+    {
+     "label": "C",
+     "text": "早上八點三十七分"
+    },
+    {
+     "label": "D",
+     "text": "早上十點三十一分"
+    }
+   ],
+   "crop": "q19.webp",
+   "showCrop": true,
+   "cropGap": 332,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g19"
+  },
+  {
+   "n": 20,
+   "page": 10,
+   "stem": "根據廣告內容，下面哪一個不對？",
+   "context": "（二）",
+   "options": [
+    {
+     "label": "A",
+     "text": "要和別人共用浴室"
+    },
+    {
+     "label": "B",
+     "text": "套房附近交通方便"
+    },
+    {
+     "label": "C",
+     "text": "房間裡沒有洗衣機"
+    },
+    {
+     "label": "D",
+     "text": "8000 元不包括水、電費"
+    }
+   ],
+   "crop": "q20.webp",
+   "showCrop": true,
+   "cropGap": 408,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g20"
+  },
+  {
+   "n": 21,
+   "page": 10,
+   "stem": "這間套房的房東能接受下面哪個房客？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "陳先生夫婦"
+    },
+    {
+     "label": "B",
+     "text": "未婚的林小姐"
+    },
+    {
+     "label": "C",
+     "text": "吳小姐和她的女兒"
+    },
+    {
+     "label": "D",
+     "text": "李先生和他的女朋友"
+    }
+   ],
+   "crop": "q21.webp",
+   "showCrop": true,
+   "cropGap": 92,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g20"
+  },
+  {
+   "n": 22,
+   "page": 11,
+   "stem": "要怎麼開始使用這部機器？",
+   "context": "（三）",
+   "options": [
+    {
+     "label": "A",
+     "text": "先按「開始」"
+    },
+    {
+     "label": "B",
+     "text": "先按號碼「1」"
+    },
+    {
+     "label": "C",
+     "text": "先按著「0」兩秒"
+    },
+    {
+     "label": "D",
+     "text": "先輸入數字「157」"
+    }
+   ],
+   "crop": "q22.webp",
+   "showCrop": true,
+   "cropGap": 334,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g22"
+  },
+  {
+   "n": 23,
+   "page": 11,
+   "stem": "使用這部機器的時候要注意什麼事？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "最多只能借五天"
+    },
+    {
+     "label": "B",
+     "text": "別把機器掛在身上"
+    },
+    {
+     "label": "C",
+     "text": "不能讓帅稚園的孩子用"
+    },
+    {
+     "label": "D",
+     "text": "假日借用時間到下午五點"
+    }
+   ],
+   "crop": "q23.webp",
+   "showCrop": true,
+   "cropGap": 166,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g22"
+  },
+  {
+   "n": 24,
+   "page": 12,
+   "stem": "根據這個調查結果，下面哪一項是錯的？",
+   "context": "（四）",
+   "options": [
+    {
+     "label": "A",
+     "text": "賺多少錢是選擇工作時最重要的因素"
+    },
+    {
+     "label": "B",
+     "text": "重視工作是否讓人心情愉快的人占五分之一"
+    },
+    {
+     "label": "C",
+     "text": "在工作上是否受到尊敬是最不被重視的條件之一"
+    },
+    {
+     "label": "D",
+     "text": "認為工作性質最好跟自己的專業有關的人不到五分之一"
+    }
+   ],
+   "crop": "q24.webp",
+   "showCrop": true,
+   "cropGap": 268,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g24"
+  },
+  {
+   "n": 25,
+   "page": 12,
+   "stem": "根據這個調查結果，下面哪一項因素被最多年輕人視為理想工作 的條件？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "收入是否合理"
+    },
+    {
+     "label": "B",
+     "text": "自己的能力是否被肯定"
+    },
+    {
+     "label": "C",
+     "text": "自己所學是否與工作內容有關"
+    },
+    {
+     "label": "D",
+     "text": "是否可以同時扮演好職員和父母的角色"
+    }
+   ],
+   "crop": "q25.webp",
+   "showCrop": true,
+   "cropGap": 212,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g24"
+  },
+  {
+   "n": 26,
+   "page": 13,
+   "stem": "關於這家報社的報紙，下面哪一個是對的？",
+   "context": "（五）",
+   "options": [
+    {
+     "label": "A",
+     "text": "春節期間不出版"
+    },
+    {
+     "label": "B",
+     "text": "帄時售價一份 10 元"
+    },
+    {
+     "label": "C",
+     "text": "帄時每份數量有三大張"
+    },
+    {
+     "label": "D",
+     "text": "春節時在指定商店才買得到"
+    }
+   ],
+   "crop": "q26.webp",
+   "showCrop": true,
+   "cropGap": 368,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 27,
+   "page": 13,
+   "stem": "這家報社在春節期間打算做什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "免費贈送報紙"
+    },
+    {
+     "label": "B",
+     "text": "暫時停止送報五天"
+    },
+    {
+     "label": "C",
+     "text": "補送報紙給已經訂報紙的人"
+    },
+    {
+     "label": "D",
+     "text": "到便利商店買報紙就能得到兌換券"
+    }
+   ],
+   "crop": "q27.webp",
+   "showCrop": true,
+   "cropGap": 132,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 28,
+   "page": 15,
+   "stem": "文章中提到的實驗是怎麼進行的？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "用儀器讓嬰兒說話"
+    },
+    {
+     "label": "B",
+     "text": "每天讓嬰兒聽同樣的音樂"
+    },
+    {
+     "label": "C",
+     "text": "讓懷孕的母親每天反覆聽單字"
+    },
+    {
+     "label": "D",
+     "text": "嬰兒出生後，每天播放一個單字"
+    }
+   ],
+   "crop": "q28.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 29,
+   "page": 15,
+   "stem": "根據文章，下面哪一項是對的？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "越早學習語言，記憶力越好"
+    },
+    {
+     "label": "B",
+     "text": "母親看連續劇，嬰兒比較聰明"
+    },
+    {
+     "label": "C",
+     "text": "這項研究結果跟以前的互相矛盾"
+    },
+    {
+     "label": "D",
+     "text": "語言專家寇兒對研究結果感到驚訝"
+    }
+   ],
+   "crop": "q29.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 30,
+   "page": 15,
+   "stem": "這篇短文屬於以下哪一類的研究？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "人類的早期教育"
+    },
+    {
+     "label": "B",
+     "text": "聽力障礙的症狀"
+    },
+    {
+     "label": "C",
+     "text": "音樂對人的影響"
+    },
+    {
+     "label": "D",
+     "text": "懷孕期間的變化"
+    }
+   ],
+   "crop": "q30.webp",
+   "showCrop": false,
+   "cropGap": 394,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 31,
+   "page": 17,
+   "stem": "這篇短文主要想傳達什麼思想？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "看電影和聽故事都不必太認真"
+    },
+    {
+     "label": "B",
+     "text": "人們應該完全像小孩一樣活著"
+    },
+    {
+     "label": "C",
+     "text": "成長過程中要保持單純不容易"
+    },
+    {
+     "label": "D",
+     "text": "既然長大就應該提早面對現實"
+    }
+   ],
+   "crop": "q31.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 32,
+   "page": 17,
+   "stem": "請問下面哪一段文字最符合第二段中所說的「主題」？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "睡前聽故事"
+    },
+    {
+     "label": "B",
+     "text": "孝順父母親"
+    },
+    {
+     "label": "C",
+     "text": "失去的童心"
+    },
+    {
+     "label": "D",
+     "text": "哲學的智慧"
+    }
+   ],
+   "crop": "q32.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 33,
+   "page": 17,
+   "stem": "根據短文，為什麼小兒子後來和父親的關係不好？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "他一直都誤會父親"
+    },
+    {
+     "label": "B",
+     "text": "他覺得父親不關心他"
+    },
+    {
+     "label": "C",
+     "text": "他父親很少再和他講故事"
+    },
+    {
+     "label": "D",
+     "text": "他父親是個不切實際的人"
+    }
+   ],
+   "crop": "q33.webp",
+   "showCrop": false,
+   "cropGap": 394,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 34,
+   "page": 19,
+   "stem": "這則「問與答」主要討論什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "預防近視的正確觀念"
+    },
+    {
+     "label": "B",
+     "text": "睡眠與視力之間的關係"
+    },
+    {
+     "label": "C",
+     "text": "減輕眼睛不舒服的方法"
+    },
+    {
+     "label": "D",
+     "text": "改善眼睛疲勞的小技巧"
+    }
+   ],
+   "crop": "q34.webp",
+   "showCrop": false,
+   "cropGap": 18,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 35,
+   "page": 19,
+   "stem": "針對陳先生的問題來源，任醫師認為下面哪種情況是原因之一？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "視力開始退化"
+    },
+    {
+     "label": "B",
+     "text": "眼睛的淚水過多"
+    },
+    {
+     "label": "C",
+     "text": "沒有充足的睡眠"
+    },
+    {
+     "label": "D",
+     "text": "生活環境中有人抽菸"
+    }
+   ],
+   "crop": "q35.webp",
+   "showCrop": false,
+   "cropGap": 18,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 36,
+   "page": 19,
+   "stem": "關於任醫師的建議，下列哪一項正確？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "太晚治療容易傳染他人"
+    },
+    {
+     "label": "B",
+     "text": "眼睛一有血絲應立刻就醫"
+    },
+    {
+     "label": "C",
+     "text": "每次冷敷眼睛至少五分鐘"
+    },
+    {
+     "label": "D",
+     "text": "觀察症狀的變化以一週為原則"
+    }
+   ],
+   "crop": "q36.webp",
+   "showCrop": false,
+   "cropGap": 398,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 37,
+   "page": 21,
+   "stem": "作者覺得美式早餐的特色是什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "量多"
+    },
+    {
+     "label": "B",
+     "text": "味道佳"
+    },
+    {
+     "label": "C",
+     "text": "作法精緻"
+    },
+    {
+     "label": "D",
+     "text": "環境優雅"
+    }
+   ],
+   "crop": "q37.webp",
+   "showCrop": false,
+   "cropGap": 18,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 38,
+   "page": 21,
+   "stem": "作者認為義大利式連鎖咖啡店的早餐缺少了什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "豐富的配料"
+    },
+    {
+     "label": "B",
+     "text": "漂亮的裝飾"
+    },
+    {
+     "label": "C",
+     "text": "熱鬧的感覺"
+    },
+    {
+     "label": "D",
+     "text": "廣闊的用餐環境"
+    }
+   ],
+   "crop": "q38.webp",
+   "showCrop": false,
+   "cropGap": 18,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 39,
+   "page": 21,
+   "stem": "這篇文章的作者主要想說明什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "飲食文化的轉變"
+    },
+    {
+     "label": "B",
+     "text": "選擇早餐的標準"
+    },
+    {
+     "label": "C",
+     "text": "現付人的飲食習慣"
+    },
+    {
+     "label": "D",
+     "text": "早餐店成功的秘訣"
+    }
+   ],
+   "crop": "q39.webp",
+   "showCrop": false,
+   "cropGap": 398,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 40,
+   "page": 23,
+   "stem": "小張買了一枚戒指，希望他的太太能在明年的結婚週年紀念日當 天收到，他應該注意什麼事？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "不可將戒指寄到國外"
+    },
+    {
+     "label": "B",
+     "text": "不可連同其他物品寄送"
+    },
+    {
+     "label": "C",
+     "text": "戒指的價格不可高於一萬"
+    },
+    {
+     "label": "D",
+     "text": "一旦決定寄達時間則不可更改"
+    }
+   ],
+   "crop": "q40.webp",
+   "showCrop": false,
+   "cropGap": 18,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 41,
+   "page": 23,
+   "stem": "明美打算透過這項服務在年底送朋友一個特別的禮物，下列哪一 項符合郵寄規定？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "當季鮮美的水果"
+    },
+    {
+     "label": "B",
+     "text": "名貴的進口刀具"
+    },
+    {
+     "label": "C",
+     "text": "清晨現撈的海產"
+    },
+    {
+     "label": "D",
+     "text": "湖邊撿到的石頭"
+    }
+   ],
+   "crop": "q41.webp",
+   "showCrop": false,
+   "cropGap": 18,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 42,
+   "page": 23,
+   "stem": "榮恩想在指定時間寄送現金及物品給客戶，下列哪一項正確？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "若兩者併寄，總價值不得高於五千元"
+    },
+    {
+     "label": "B",
+     "text": "若兩者併寄，現金金額以一萬元為限"
+    },
+    {
+     "label": "C",
+     "text": "若單寄物件，物品價值頇高於一萬元"
+    },
+    {
+     "label": "D",
+     "text": "若單寄現金，金額頇介於一萬至五萬元"
+    }
+   ],
+   "crop": "q42.webp",
+   "showCrop": false,
+   "cropGap": 358,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 43,
+   "page": 25,
+   "stem": "作者認為這部電影吸引人的地方是什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "主要演員驚人的演技"
+    },
+    {
+     "label": "B",
+     "text": "導演盧貝松十分有名氣"
+    },
+    {
+     "label": "C",
+     "text": "片中的真實人物正率領人民打仗"
+    },
+    {
+     "label": "D",
+     "text": "故事主角為了維護和帄而失去生命"
+    }
+   ],
+   "crop": "q43.webp",
+   "showCrop": false,
+   "cropGap": 18,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 44,
+   "page": 25,
+   "stem": "關於演員楊紫瓊，下面哪一個是對的？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "她的身材本來有點胖"
+    },
+    {
+     "label": "B",
+     "text": "她要求參與這部電影"
+    },
+    {
+     "label": "C",
+     "text": "她本來就會說緬甸話"
+    },
+    {
+     "label": "D",
+     "text": "導演花四年才找到她"
+    }
+   ],
+   "crop": "q44.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 45,
+   "page": 25,
+   "stem": "根據本文，在拍電影期間，楊紫瓊做了什麼事？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "當緬甸的軍人"
+    },
+    {
+     "label": "B",
+     "text": "讓體重快速上升"
+    },
+    {
+     "label": "C",
+     "text": "和翁山蘇姬見面"
+    },
+    {
+     "label": "D",
+     "text": "在緬甸發表中文演講"
+    }
+   ],
+   "crop": "q45.webp",
+   "showCrop": false,
+   "cropGap": 18,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 46,
+   "page": 25,
+   "stem": "第二段主要在說什麼事？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "楊紫瓊是演員兼任導演"
+    },
+    {
+     "label": "B",
+     "text": "翁山蘇姬的生帄與事蹟"
+    },
+    {
+     "label": "C",
+     "text": "楊紫瓊爭取飾演翁山蘇姬的原因"
+    },
+    {
+     "label": "D",
+     "text": "楊紫瓊為演出翁山蘇姬所下的功夫"
+    }
+   ],
+   "crop": "q46.webp",
+   "showCrop": false,
+   "cropGap": 277,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 47,
+   "page": 27,
+   "stem": "關於國王想推廣馬鈴薯的原因，沒提到下面哪一項？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "能當作主要的食物"
+    },
+    {
+     "label": "B",
+     "text": "味道和麵包非常搭配"
+    },
+    {
+     "label": "C",
+     "text": "不必花太多力氣照顧"
+    },
+    {
+     "label": "D",
+     "text": "希望讓人民少用麵粉"
+    }
+   ],
+   "crop": "q47.webp",
+   "showCrop": false,
+   "cropGap": 18,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 48,
+   "page": 27,
+   "stem": "第二段中的「市場反應」指的是什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "一般人吃不起馬鈴薯"
+    },
+    {
+     "label": "B",
+     "text": "沒有人願意賣馬鈴薯"
+    },
+    {
+     "label": "C",
+     "text": "農民認為馬鈴薯不容易種"
+    },
+    {
+     "label": "D",
+     "text": "人民認為馬鈴薯無法取付麵包"
+    }
+   ],
+   "crop": "q48.webp",
+   "showCrop": false,
+   "cropGap": 18,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 49,
+   "page": 27,
+   "stem": "國王能推廣成功，主要是對人民使用了哪種策略？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "強調吃馬鈴薯的好處"
+    },
+    {
+     "label": "B",
+     "text": "強迫他們不得不接受命仙"
+    },
+    {
+     "label": "C",
+     "text": "引起人民對馬鈴薯的好奇心"
+    },
+    {
+     "label": "D",
+     "text": "強調小麥不足如何影響生活"
+    }
+   ],
+   "crop": "q49.webp",
+   "showCrop": false,
+   "cropGap": 18,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 50,
+   "page": 27,
+   "stem": "這個故事主要在說明什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "馬鈴薯開始流行的原因"
+    },
+    {
+     "label": "B",
+     "text": "人民改變飲食習慣的目的"
+    },
+    {
+     "label": "C",
+     "text": "馬鈴薯對歐洲人民有什麼好處"
+    },
+    {
+     "label": "D",
+     "text": "國王對食物的愛好如何影響人民"
+    }
+   ],
+   "crop": "q50.webp",
+   "showCrop": false,
+   "cropGap": 280,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  }
+ ],
+ "audio": null,
+ "fullScript": null,
+ "optionCount": 4
+}

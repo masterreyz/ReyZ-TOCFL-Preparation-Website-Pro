@@ -1,0 +1,1986 @@
+{
+ "id": "a-l5",
+ "band": "a",
+ "skill": "listening",
+ "series": 5,
+ "title": "Band A Listening · Series 5",
+ "source": {
+  "folder": "2. TOCFL Band A/Listening/Listening Test Series 5",
+  "booklet": "ls_mock5_test_BandA_en_t.pdf",
+  "answer": "ls_mock5_test_BandA_answer.pdf",
+  "script": "ls_mock5_test_BandA_listen.pdf"
+ },
+ "timeMinutes": null,
+ "parts": [
+  {
+   "title": "第一部分",
+   "subtitle": "Part One",
+   "instructions": "說明：在這個部分，每題有一張圖片，你會先聽到一個問題，接著再聽到\n(A)(B)(C)三個選項，請根據圖片提示從(A)(B)(C)中選出正確的答\n案。每題念兩次，第一次念完以後先停五秒，再念第二次。第二次\n念完以後停五秒，就繼續下一題。",
+   "instructionsEn": "Directions: In this part of the test, each test item comes with a picture. You will hear a question and three possible answers (A), (B), and (C) read aloud. Please use the picture to choose the most appropriate answer to each statement. Each test item will be read twice, and there will be a 5-second pause after the question is read for the first time. After the second reading, you will have five seconds to mark your answer before a new test item begins.",
+   "page": 3,
+   "from": 1,
+   "to": 10,
+   "grouped": false
+  },
+  {
+   "title": "第二部分",
+   "subtitle": "Part Two",
+   "instructions": "說明：在這個部分，每題有(A)(B)(C)三張圖片，你會聽到一問一答的對話，\n請根據對話的內容，選出合適的圖片。每題念兩次，第一次念完以\n後先停五秒，再念第二次。第二次念完以後停五秒，就繼續下一題。",
+   "instructionsEn": "Directions: In this part of the test, each test item includes three pictures (A), (B), and (C). You will hear a dialogue read between two speakers. After each dialogue, please choose the picture that best describes the dialogue. Each dialogue will be read twice with a 5-second pause in between readings. After the second reading, you will have five seconds to mark your answer before a new test item begins.",
+   "page": 7,
+   "from": 11,
+   "to": 28,
+   "grouped": false
+  },
+  {
+   "title": "第三部分",
+   "subtitle": "Part Three",
+   "instructions": "說明：在這個部分，每題有(A)(B)(C)三張圖片，你會聽到一段兩個人的對\n話，一共有四句話，對話結束後有一個問題，請根據問題選出合適\n的圖片。每題念兩次，第一次念完以後先停五秒，再念第二次。第\n二次念完以後停五秒，就繼續下一題。",
+   "instructionsEn": "Directions: In this part of the test, each test item has three pictures (A), (B), and (C). You will hear a dialogue between two speakers, with four sentences altogether. After each dialogue, someone will ask a question about the dialogue. Please choose the picture that best answers this question. Each dialogue will be read twice, with a 5-second pause in between each reading. After the second reading, you will have five seconds to mark your answer before a new test item begins.",
+   "page": 13,
+   "from": 29,
+   "to": 40,
+   "grouped": false
+  },
+  {
+   "title": "第四部分",
+   "subtitle": "Part Four",
+   "instructions": "說明：在這個部分，你會聽到兩個人的對話，對話結束後有一個問題，每\n個問題都有(A)(B)(C)(D)四個選項，這四個選項的內容也會出現在\n題本上。請根據問題選出合適的答案。每題只念一遍，選項念完以\n後停五秒，就繼續下一題。",
+   "instructionsEn": "Directions: In this part of the test, you will hear a dialogue between two speakers. After each dialogue, you will be asked a question. Each test item has four possible answers (A), (B), (C) and (D) listed on your answer sheet. For each question, please choose the best possible answer. Each test item will only be read once. You will have five seconds to mark your answer before a new test item begins.",
+   "page": 17,
+   "from": 41,
+   "to": 50,
+   "grouped": false
+  }
+ ],
+ "questions": [
+  {
+   "n": 1,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [],
+   "crop": "q1.webp",
+   "showCrop": true,
+   "cropGap": 120,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "提問圖片裡有幾個學生？\n(A) 三個\n(B) 四個\n(C) 七個",
+   "part": 0,
+   "spokenOptions": true,
+   "group": null,
+   "audio": [
+    2
+   ]
+  },
+  {
+   "n": 2,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [],
+   "crop": "q2.webp",
+   "showCrop": true,
+   "cropGap": 120,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "提問這個人在做什麼運動？\n(A) 他在打籃球\n(B) 他在打網球\n(C) 他在打棒球",
+   "part": 0,
+   "spokenOptions": true,
+   "group": null,
+   "audio": [
+    3
+   ]
+  },
+  {
+   "n": 3,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [],
+   "crop": "q3.webp",
+   "showCrop": true,
+   "cropGap": 120,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "提問請問小美喜歡做什麼？\n(A) 她喜歡打掃\n(B) 她喜歡做菜\n(C) 她喜歡洗衣服",
+   "part": 0,
+   "spokenOptions": true,
+   "group": null,
+   "audio": [
+    4
+   ]
+  },
+  {
+   "n": 4,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [],
+   "crop": "q4.webp",
+   "showCrop": true,
+   "cropGap": 120,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "提問弟弟今天怎麼沒去上課？\n(A) 他腳痛\n(B) 他頭痛\n(C) 他肚子痛",
+   "part": 0,
+   "spokenOptions": true,
+   "group": null,
+   "audio": [
+    5
+   ]
+  },
+  {
+   "n": 5,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [],
+   "crop": "q5.webp",
+   "showCrop": true,
+   "cropGap": 129,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "提問小明給美美什麼？\n(A) 水果\n(B) 蛋糕\n(C) 餃子",
+   "part": 0,
+   "spokenOptions": true,
+   "group": null,
+   "audio": [
+    6
+   ]
+  },
+  {
+   "n": 6,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [],
+   "crop": "q6.webp",
+   "showCrop": true,
+   "cropGap": 120,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "提問這位先生現在在做什麼？\n(A) 他在教室上網\n(B) 他在辦公室工作\n(C) 他在辦公室上網",
+   "part": 0,
+   "spokenOptions": true,
+   "group": null,
+   "audio": [
+    7
+   ]
+  },
+  {
+   "n": 7,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [],
+   "crop": "q7.webp",
+   "showCrop": true,
+   "cropGap": 122,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "提問小女孩在做什麼？\n(A) 她在寄信\n(B) 她在寫信\n(C) 她在打電話",
+   "part": 0,
+   "spokenOptions": true,
+   "group": null,
+   "audio": [
+    8
+   ]
+  },
+  {
+   "n": 8,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [],
+   "crop": "q8.webp",
+   "showCrop": true,
+   "cropGap": 120,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "提問圖片裡有什麼？\n(A) 一枝鉛筆和兩本字典\n(B) 一本字典和兩支毛筆\n(C) 一本雜誌和兩本課本",
+   "part": 0,
+   "spokenOptions": true,
+   "group": null,
+   "audio": [
+    9
+   ]
+  },
+  {
+   "n": 9,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [],
+   "crop": "q9.webp",
+   "showCrop": true,
+   "cropGap": 116,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "提問他們在做什麼？\n(A) 他們一邊看電視，一邊吃東西\n(B) 他們一邊吃東西，一邊和狗玩\n(C) 他們一邊和狗玩，一邊看電視",
+   "part": 0,
+   "spokenOptions": true,
+   "group": null,
+   "audio": [
+    10
+   ]
+  },
+  {
+   "n": 10,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [],
+   "crop": "q10.webp",
+   "showCrop": true,
+   "cropGap": 131,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "提問這裡有哪些動物？\n(A) 這裡都是馬\n(B) 這裡有馬也有牛\n(C) 這裡只有牛沒有馬",
+   "part": 0,
+   "spokenOptions": true,
+   "group": null,
+   "audio": [
+    11
+   ]
+  },
+  {
+   "n": 11,
+   "page": 8,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q11.webp",
+   "showCrop": true,
+   "cropGap": 95,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "男剛剛那個年輕人在飯店裡吃了什麼食物？\n女他吃了一碗麵。",
+   "part": 1,
+   "group": null,
+   "audio": [
+    13
+   ]
+  },
+  {
+   "n": 12,
+   "page": 8,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q12.webp",
+   "showCrop": true,
+   "cropGap": 95,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "女你要不要去博物館？\n男好啊！",
+   "part": 1,
+   "group": null,
+   "audio": [
+    14
+   ]
+  },
+  {
+   "n": 13,
+   "page": 8,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q13.webp",
+   "showCrop": true,
+   "cropGap": 95,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "男這是您的巧克力蛋糕，請問還需要什麼嗎？\n女請再給我一個湯匙，我們要一起吃。",
+   "part": 1,
+   "group": null,
+   "audio": [
+    15
+   ]
+  },
+  {
+   "n": 14,
+   "page": 8,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q14.webp",
+   "showCrop": true,
+   "cropGap": 95,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "女我昨天打電話給你，你怎麼沒接電話？\n男我的手機壞了。",
+   "part": 1,
+   "group": null,
+   "audio": [
+    16
+   ]
+  },
+  {
+   "n": 15,
+   "page": 8,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q15.webp",
+   "showCrop": true,
+   "cropGap": 159,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "男哪一個是妳的妹妹？\n女那個短頭髮，戴眼鏡的是我妹妹。",
+   "part": 1,
+   "group": null,
+   "audio": [
+    17
+   ]
+  },
+  {
+   "n": 16,
+   "page": 9,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q16.webp",
+   "showCrop": true,
+   "cropGap": 95,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "女這家店為什麼這麼多人在排隊？\n男因為這裡的衣服很便宜，很多人來這裡買衣服。",
+   "part": 1,
+   "group": null,
+   "audio": [
+    18
+   ]
+  },
+  {
+   "n": 17,
+   "page": 9,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q17.webp",
+   "showCrop": true,
+   "cropGap": 95,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "男聽說這家店的牛排和漢堡很好吃，妳要試一試嗎？\n女我不能吃肉，請幫我點一份青菜。",
+   "part": 1,
+   "group": null,
+   "audio": [
+    19
+   ]
+  },
+  {
+   "n": 18,
+   "page": 9,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q18.webp",
+   "showCrop": true,
+   "cropGap": 95,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "男媽媽，我找了客廳和房間，怎麼都沒看見我新買的小說？\n女你昨天放在浴室裡了。",
+   "part": 1,
+   "group": null,
+   "audio": [
+    20
+   ]
+  },
+  {
+   "n": 19,
+   "page": 9,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q19.webp",
+   "showCrop": true,
+   "cropGap": 95,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "女我上次送你的畫你放在哪裡了？\n男我把它掛在冰箱後面的牆上了。",
+   "part": 1,
+   "group": null,
+   "audio": [
+    21
+   ]
+  },
+  {
+   "n": 20,
+   "page": 9,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q20.webp",
+   "showCrop": true,
+   "cropGap": 159,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "男聽說小美要表演，是鋼琴表演嗎？\n女她以前表演過鋼琴，但是這次是吉他表演。",
+   "part": 1,
+   "group": null,
+   "audio": [
+    22
+   ]
+  },
+  {
+   "n": 21,
+   "page": 10,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q21.webp",
+   "showCrop": true,
+   "cropGap": 95,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "女已經晚上九點了，辦公室裡怎麼還有人？\n男是蘇經理和小蔡，他們兩個還在開會。",
+   "part": 1,
+   "group": null,
+   "audio": [
+    23
+   ]
+  },
+  {
+   "n": 22,
+   "page": 10,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q22.webp",
+   "showCrop": true,
+   "cropGap": 95,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "男他們兩個人都很生氣，不知道他們在說什麼？\n女他們一討論小孩的事情，就會不太開心。",
+   "part": 1,
+   "group": null,
+   "audio": [
+    24
+   ]
+  },
+  {
+   "n": 23,
+   "page": 10,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q23.webp",
+   "showCrop": true,
+   "cropGap": 95,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "女為什麼他今天沒來上班？\n男因為他在家裡準備明天的報告。",
+   "part": 1,
+   "group": null,
+   "audio": [
+    25
+   ]
+  },
+  {
+   "n": 24,
+   "page": 10,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q24.webp",
+   "showCrop": true,
+   "cropGap": 95,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "女你們在山上新租的房子怎麼樣？\n男房子很不錯。樓下房間有一個大窗戶。",
+   "part": 1,
+   "group": null,
+   "audio": [
+    26
+   ]
+  },
+  {
+   "n": 25,
+   "page": 10,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q25.webp",
+   "showCrop": true,
+   "cropGap": 159,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "男美美，我的那件短袖襯衫呢？\n女我剛洗好，現在還沒乾喔！",
+   "part": 1,
+   "group": null,
+   "audio": [
+    27
+   ]
+  },
+  {
+   "n": 26,
+   "page": 11,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q26.webp",
+   "showCrop": true,
+   "cropGap": 95,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "男聽說小明家附近的風景很漂亮，是嗎？\n女是啊！但是那裡冬天的溫度很低，你去找他要穿暖一點。",
+   "part": 1,
+   "group": null,
+   "audio": [
+    28
+   ]
+  },
+  {
+   "n": 27,
+   "page": 11,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q27.webp",
+   "showCrop": true,
+   "cropGap": 95,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "女你覺得認識臺灣最好的方法是什麼？\n男看書、看電視介紹都不錯，但是最好的方法就是你自己去旅行。",
+   "part": 1,
+   "group": null,
+   "audio": [
+    29
+   ]
+  },
+  {
+   "n": 28,
+   "page": 11,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q28.webp",
+   "showCrop": true,
+   "cropGap": 422,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "男小美，你的新家怎麼樣？\n女別說了，我搬到公寓去，結果樓上的小孩經常往下丟垃圾，環境非常髒。",
+   "part": 1,
+   "group": null,
+   "audio": [
+    30
+   ]
+  },
+  {
+   "n": 29,
+   "page": 14,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q29.webp",
+   "showCrop": true,
+   "cropGap": 95,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "男我們等一下三點在書店門口前見面嗎？\n女我覺得有一點晚，我們可以早半個小時嗎？\n男好啊，那一樣在書店門口前見嗎？\n女對，書店門口見！\n男請問他們幾點見面？",
+   "part": 2,
+   "group": null,
+   "audio": [
+    32
+   ]
+  },
+  {
+   "n": 30,
+   "page": 14,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q30.webp",
+   "showCrop": true,
+   "cropGap": 95,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "男請問妳要找什麼書？\n女我正在找介紹日本風景的旅遊書。\n男妳看到上面號碼了嗎？如果妳要找日本的書，那在中間 2 號。\n女謝謝。\n男請問介紹日本風景的書放在哪裡？",
+   "part": 2,
+   "group": null,
+   "audio": [
+    33
+   ]
+  },
+  {
+   "n": 31,
+   "page": 14,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q31.webp",
+   "showCrop": true,
+   "cropGap": 108,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "男來這家店的人真多。\n女是啊！這家冰淇淋店有很多種味道的冰淇淋。\n男我想吃巧克力和牛奶口味的，我們進去吃吧！\n女好，我請客。\n男請問他們等一下要做什麼？",
+   "part": 2,
+   "group": null,
+   "audio": [
+    34
+   ]
+  },
+  {
+   "n": 32,
+   "page": 14,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q32.webp",
+   "showCrop": true,
+   "cropGap": 95,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "男照片裡這些人是妳的家人嗎？你們在哪裡拍的？\n女是啊，這是我的爸爸媽媽。這張照片是在船上拍的。\n男這個戴帽子的人是誰？\n女這是我爺爺。他已經七十歲了。\n男請問他們說的是哪一張照片？",
+   "part": 2,
+   "group": null,
+   "audio": [
+    35
+   ]
+  },
+  {
+   "n": 33,
+   "page": 14,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q33.webp",
+   "showCrop": true,
+   "cropGap": 147,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "男要不要喝點兒啤酒？\n女不行，我等一下要開車。\n男那，喝點兒汽水吧？\n女我還是喝茶好了。\n男請問這位小姐決定喝什麼？",
+   "part": 2,
+   "group": null,
+   "audio": [
+    36
+   ]
+  },
+  {
+   "n": 34,
+   "page": 15,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q34.webp",
+   "showCrop": true,
+   "cropGap": 108,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "男妳的房間這麼亂，為什麼不整理？\n女我本來上星期日要整理房間，但是我的經理要我去公司。\n男那妳今天看了一個下午的書，為什麼不打掃？\n女好啦！我明天會整理。\n男請問這位小姐明天打算做什麼？",
+   "part": 2,
+   "group": null,
+   "audio": [
+    37
+   ]
+  },
+  {
+   "n": 35,
+   "page": 15,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q35.webp",
+   "showCrop": true,
+   "cropGap": 95,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "男這裡的天氣怎麼樣？\n女冬天太冷，夏天太熱。\n男那麼春天呢？\n女常常下雨。\n男請問這裡的春天常常怎麼樣？",
+   "part": 2,
+   "group": null,
+   "audio": [
+    38
+   ]
+  },
+  {
+   "n": 36,
+   "page": 15,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q36.webp",
+   "showCrop": true,
+   "cropGap": 95,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "男我想找王先生。\n女請問您和他約好了嗎？\n男沒有。是他要我來找他的。\n女您先留下您的電話，我會請王先生打電話給您。\n男請問這位小姐要這位先生做什麼？",
+   "part": 2,
+   "group": null,
+   "audio": [
+    39
+   ]
+  },
+  {
+   "n": 37,
+   "page": 15,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q37.webp",
+   "showCrop": true,
+   "cropGap": 95,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "男小春的生日快到了，我們一起送他禮物，怎麼樣？\n女好啊！他喜歡畫畫，我們可以送他畫畫用的筆。\n男嗯，還可以送他放筆的袋子。\n女好啊，今天下課以後我們一起去買禮物吧。\n男請問他們決定送什麼？",
+   "part": 2,
+   "group": null,
+   "audio": [
+    40
+   ]
+  },
+  {
+   "n": 38,
+   "page": 15,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q38.webp",
+   "showCrop": true,
+   "cropGap": 147,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "男妳看電視新聞了嗎？有一個很可怕的消息。\n女什麼可怕的消息？\n男妳快點開電視，我剛剛才看到的。\n女我上網看過新聞了，可是沒看到什麼可怕的消息。\n男請問這位先生從哪裡知道可怕的消息？",
+   "part": 2,
+   "group": null,
+   "audio": [
+    41
+   ]
+  },
+  {
+   "n": 39,
+   "page": 16,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q39.webp",
+   "showCrop": true,
+   "cropGap": 95,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "男妳想吃什麼?\n女聽說這裡的北京烤鴨很好吃。\n男我們點一隻烤鴨，一碗酸辣湯，怎麼樣？\n女再點一個糖醋魚吧！\n男請問他們應該在什麼地方？",
+   "part": 2,
+   "group": null,
+   "audio": [
+    42
+   ]
+  },
+  {
+   "n": 40,
+   "page": 16,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q40.webp",
+   "showCrop": true,
+   "cropGap": 536,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "男已經很晚了，妳怎麼還在這裡？\n女經理說明天要和他一起討論，我今天一定要準備好。\n男我不放心妳一個人回家，還是等會兒我開車送妳回去。\n女謝謝你！但是我今天晚上打算睡在公司裡。\n男請問這位小姐今天晚上打算做什麼？",
+   "part": 2,
+   "group": null,
+   "audio": [
+    43
+   ]
+  },
+  {
+   "n": 41,
+   "page": 18,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "因為他想睡覺"
+    },
+    {
+     "label": "B",
+     "text": "因為他想運動"
+    },
+    {
+     "label": "C",
+     "text": "因為他不想上班"
+    },
+    {
+     "label": "D",
+     "text": "因為他起不了床"
+    }
+   ],
+   "crop": "q41.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "男我昨天運動了一整天。\n女你看你，累到說不了話了？\n男喔，不是因為運動，是因為我早上五點就起床了，所以想睡覺。\n女你這樣沒辦法上班，我幫你請假，你快回去睡吧！\n男請問這位小姐為什麼要幫這位先生請假？",
+   "part": 3,
+   "group": null,
+   "audio": [
+    45
+   ]
+  },
+  {
+   "n": 42,
+   "page": 18,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "她旅行時不小心掉了東西"
+    },
+    {
+     "label": "B",
+     "text": "她旅行時有些想去的地方沒去"
+    },
+    {
+     "label": "C",
+     "text": "她覺得旅行時最麻煩的是交通"
+    },
+    {
+     "label": "D",
+     "text": "她覺得旅行最重要的是風景漂亮"
+    }
+   ],
+   "crop": "q42.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "男妳上個禮拜的旅行怎麼樣？\n女還不錯。交通方便、風景漂亮，我想去的地方都去了。\n男那真是個開心的旅行。\n女嗯，雖然每件事都不錯，但是我回國的時候，把錢包掉在旅館了。\n男關於這位小姐，下面哪一個是對的？",
+   "part": 3,
+   "group": null,
+   "audio": [
+    46
+   ]
+  },
+  {
+   "n": 43,
+   "page": 18,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "她怕考得不好"
+    },
+    {
+     "label": "B",
+     "text": "她的成績不好"
+    },
+    {
+     "label": "C",
+     "text": "她沒參加考試"
+    },
+    {
+     "label": "D",
+     "text": "她怕題目寫不完"
+    }
+   ],
+   "crop": "q43.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "男妳怎麼了？好像不太開心的樣子。\n女我沒事，我每次考試的時候就會這樣。\n男可是昨天不是已經考完了嗎？\n女是啊，可是我很擔心沒考好。\n男這位小姐為什麼不開心？",
+   "part": 3,
+   "group": null,
+   "audio": [
+    47
+   ]
+  },
+  {
+   "n": 44,
+   "page": 18,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "想請他搬家"
+    },
+    {
+     "label": "B",
+     "text": "想請他吃飯"
+    },
+    {
+     "label": "C",
+     "text": "介紹女朋友給他"
+    },
+    {
+     "label": "D",
+     "text": "請他注意聲音的大小"
+    }
+   ],
+   "crop": "q44.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "D",
+   "gradable": true,
+   "transcript": "女王先生嗎？您好，我是住在您家樓下的陳太太。\n男請問有什麼事嗎？\n女我總是聽到您走路的聲音，有時還聽到您與女朋友大聲地講話。我找您好\n幾次了，可是您都不在家。\n男啊！不好意思，不好意思，我會注意的。\n女陳太太為什麼找王先生？",
+   "part": 3,
+   "group": null,
+   "audio": [
+    48
+   ]
+  },
+  {
+   "n": 45,
+   "page": 18,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "她習慣在不同的時間睡覺"
+    },
+    {
+     "label": "B",
+     "text": "她每天都是這個時間起床"
+    },
+    {
+     "label": "C",
+     "text": "她認為睡覺對健康有影響"
+    },
+    {
+     "label": "D",
+     "text": "她不覺得自己很晚才睡覺"
+    }
+   ],
+   "crop": "q45.webp",
+   "showCrop": false,
+   "cropGap": 147,
+   "answer": "D",
+   "gradable": true,
+   "transcript": "男妳昨天怎麼那麼晚才睡？\n女我昨天十二點多睡的，我不覺得晚啊！\n男都半夜了，還不晚？這麼晚才睡覺對身體很不好。\n女還好吧？我一直都是這個時間睡覺，也沒生什麼病。\n女請問這位小姐的意思是什麼？",
+   "part": 3,
+   "group": null,
+   "audio": [
+    49
+   ]
+  },
+  {
+   "n": 46,
+   "page": 19,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "他剛從海邊回來"
+    },
+    {
+     "label": "B",
+     "text": "他喜歡夏天去海邊玩"
+    },
+    {
+     "label": "C",
+     "text": "他給這位小姐買了褲子"
+    },
+    {
+     "label": "D",
+     "text": "他約了這位小姐明天去運動"
+    }
+   ],
+   "crop": "q46.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "D",
+   "gradable": true,
+   "transcript": "男夏天到了，我們明天去海邊吧！\n女好啊！你覺得我應該穿短裙好呢？還是短褲好呢？\n男我覺得妳應該穿短褲，因為我們要在沙灘上打球。\n女好啊，明天見。\n女請問這位先生說了什麼？",
+   "part": 3,
+   "group": null,
+   "audio": [
+    50
+   ]
+  },
+  {
+   "n": 47,
+   "page": 19,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "她不想請這位先生吃蛋糕"
+    },
+    {
+     "label": "B",
+     "text": "她想幫這位先生慶祝生日"
+    },
+    {
+     "label": "C",
+     "text": "她要朋友來參加舞會就好"
+    },
+    {
+     "label": "D",
+     "text": "她想要大家一起唱生日歌"
+    }
+   ],
+   "crop": "q47.webp",
+   "showCrop": false,
+   "cropGap": 18,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "男為了妳的生日，我想請妳吃蛋糕。\n女你人來我就很開心了，蛋糕，我來準備就好了。\n男這是為了感謝妳請我參加明天的生日舞會，或是妳有更想要的禮物嗎？\n女你太客氣了。吃蛋糕和收禮物都不是最重要的事。\n女請問這位小姐的意思是什麼？",
+   "part": 3,
+   "group": null,
+   "audio": [
+    51
+   ]
+  },
+  {
+   "n": 48,
+   "page": 19,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "她想拿商店送的東西"
+    },
+    {
+     "label": "B",
+     "text": "她最近很想花錢買東西"
+    },
+    {
+     "label": "C",
+     "text": "她想要這位先生送她禮物"
+    },
+    {
+     "label": "D",
+     "text": "她想和這位先生一起去逛街"
+    }
+   ],
+   "crop": "q48.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "男我要去逛百貨公司，要一起嗎？\n女我最近花了太多錢了，還是不要吧。\n男最近百貨公司有活動，很多商品不但很便宜，還會給很多試用的東西。\n女喔，有不用花錢的啊！那我們快走吧！\n女為什麼這位小姐想去百貨公司？",
+   "part": 3,
+   "group": null,
+   "audio": [
+    52
+   ]
+  },
+  {
+   "n": 49,
+   "page": 19,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "這位先生今天想留在家裡"
+    },
+    {
+     "label": "B",
+     "text": "這位小姐怕自己太晚回家"
+    },
+    {
+     "label": "C",
+     "text": "他們兩人今天都想看棒球比賽"
+    },
+    {
+     "label": "D",
+     "text": "他們已經買完衣服回家休息了"
+    }
+   ],
+   "crop": "q49.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "男今天天氣好熱，我們在家吹冷氣多好，還是不要去買衣服了。\n女不行，你昨天答應我今天要出門買衣服。\n男可是妳沒發現衣服已經很多了嗎？\n女我覺得，你只是怕太晚回家，沒辦法看棒球比賽！\n女請問下面哪一個是對的？",
+   "part": 3,
+   "group": null,
+   "audio": [
+    53
+   ]
+  },
+  {
+   "n": 50,
+   "page": 19,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "她要把錢還給客人"
+    },
+    {
+     "label": "B",
+     "text": "東西賣出去就不能換了"
+    },
+    {
+     "label": "C",
+     "text": "她沒有東西可以換給客人"
+    },
+    {
+     "label": "D",
+     "text": "沒有發票，就不能換東西"
+    }
+   ],
+   "crop": "q50.webp",
+   "showCrop": false,
+   "cropGap": 147,
+   "answer": "D",
+   "gradable": true,
+   "transcript": "男小姐，這是昨天跟你們買的牛奶，味道有點奇怪，我想換一瓶新的。\n女請問您帶了發票嗎？\n男喔，我沒帶來。\n女我們要看到發票，才能換東西，不好意思。\n女這位小姐的意思是什麼？",
+   "part": 3,
+   "group": null,
+   "audio": [
+    54
+   ]
+  }
+ ],
+ "audio": {
+  "dir": "2. TOCFL Band A/Listening/Listening Test Series 5/mock5_BandA_mp3_en",
+  "kind": "by-filename",
+  "tracks": [
+   "0-1.mp3",
+   "1-00000-英文-p.mp3.mp3",
+   "1-01.mp3",
+   "1-02.mp3",
+   "1-03.mp3",
+   "1-04.mp3",
+   "1-05.mp3",
+   "1-06.mp3",
+   "1-07.mp3",
+   "1-08.mp3",
+   "1-09.mp3",
+   "1-10.mp3",
+   "2-00000-英文-p.mp3.mp3",
+   "2-11.mp3",
+   "2-12.mp3",
+   "2-13.mp3",
+   "2-14.mp3",
+   "2-15.mp3",
+   "2-16.mp3",
+   "2-17.mp3",
+   "2-18.mp3",
+   "2-19.mp3",
+   "2-20.mp3",
+   "2-21.mp3",
+   "2-22.mp3",
+   "2-23.mp3",
+   "2-24.mp3",
+   "2-25.mp3",
+   "2-26.mp3",
+   "2-27.mp3",
+   "2-28.mp3",
+   "3-00000-英文-p.mp3.mp3",
+   "3-29.mp3",
+   "3-30.mp3",
+   "3-31.mp3",
+   "3-32.mp3",
+   "3-33.mp3",
+   "3-34.mp3",
+   "3-35.mp3",
+   "3-36.mp3",
+   "3-37.mp3",
+   "3-38.mp3",
+   "3-39.mp3",
+   "3-40.mp3",
+   "4-00000-英文-p.mp3.mp3",
+   "4-41.mp3",
+   "4-42.mp3",
+   "4-43.mp3",
+   "4-44.mp3",
+   "4-45.mp3",
+   "4-46.mp3",
+   "4-47.mp3",
+   "4-48.mp3",
+   "4-49.mp3",
+   "4-50.mp3",
+   "5-00000-英文-p.mp3.mp3"
+  ],
+  "trackList": [
+   {
+    "src": "ex/a-l5/t001-0-1.mp3",
+    "file": "0-1.mp3",
+    "label": "Petunjuk / jeda",
+    "kind": "instructions",
+    "q": null
+   },
+   {
+    "src": "ex/a-l5/t002-1-00000-_-p_mp3.mp3",
+    "file": "1-00000-英文-p.mp3.mp3",
+    "label": "Petunjuk Bagian 1",
+    "kind": "instructions",
+    "q": null
+   },
+   {
+    "src": "ex/a-l5/t003-1-01.mp3",
+    "file": "1-01.mp3",
+    "label": "Soal 1",
+    "kind": "question",
+    "q": 1
+   },
+   {
+    "src": "ex/a-l5/t004-1-02.mp3",
+    "file": "1-02.mp3",
+    "label": "Soal 2",
+    "kind": "question",
+    "q": 2
+   },
+   {
+    "src": "ex/a-l5/t005-1-03.mp3",
+    "file": "1-03.mp3",
+    "label": "Soal 3",
+    "kind": "question",
+    "q": 3
+   },
+   {
+    "src": "ex/a-l5/t006-1-04.mp3",
+    "file": "1-04.mp3",
+    "label": "Soal 4",
+    "kind": "question",
+    "q": 4
+   },
+   {
+    "src": "ex/a-l5/t007-1-05.mp3",
+    "file": "1-05.mp3",
+    "label": "Soal 5",
+    "kind": "question",
+    "q": 5
+   },
+   {
+    "src": "ex/a-l5/t008-1-06.mp3",
+    "file": "1-06.mp3",
+    "label": "Soal 6",
+    "kind": "question",
+    "q": 6
+   },
+   {
+    "src": "ex/a-l5/t009-1-07.mp3",
+    "file": "1-07.mp3",
+    "label": "Soal 7",
+    "kind": "question",
+    "q": 7
+   },
+   {
+    "src": "ex/a-l5/t010-1-08.mp3",
+    "file": "1-08.mp3",
+    "label": "Soal 8",
+    "kind": "question",
+    "q": 8
+   },
+   {
+    "src": "ex/a-l5/t011-1-09.mp3",
+    "file": "1-09.mp3",
+    "label": "Soal 9",
+    "kind": "question",
+    "q": 9
+   },
+   {
+    "src": "ex/a-l5/t012-1-10.mp3",
+    "file": "1-10.mp3",
+    "label": "Soal 10",
+    "kind": "question",
+    "q": 10
+   },
+   {
+    "src": "ex/a-l5/t013-2-00000-_-p_mp3.mp3",
+    "file": "2-00000-英文-p.mp3.mp3",
+    "label": "Petunjuk Bagian 2",
+    "kind": "instructions",
+    "q": null
+   },
+   {
+    "src": "ex/a-l5/t014-2-11.mp3",
+    "file": "2-11.mp3",
+    "label": "Soal 11",
+    "kind": "question",
+    "q": 11
+   },
+   {
+    "src": "ex/a-l5/t015-2-12.mp3",
+    "file": "2-12.mp3",
+    "label": "Soal 12",
+    "kind": "question",
+    "q": 12
+   },
+   {
+    "src": "ex/a-l5/t016-2-13.mp3",
+    "file": "2-13.mp3",
+    "label": "Soal 13",
+    "kind": "question",
+    "q": 13
+   },
+   {
+    "src": "ex/a-l5/t017-2-14.mp3",
+    "file": "2-14.mp3",
+    "label": "Soal 14",
+    "kind": "question",
+    "q": 14
+   },
+   {
+    "src": "ex/a-l5/t018-2-15.mp3",
+    "file": "2-15.mp3",
+    "label": "Soal 15",
+    "kind": "question",
+    "q": 15
+   },
+   {
+    "src": "ex/a-l5/t019-2-16.mp3",
+    "file": "2-16.mp3",
+    "label": "Soal 16",
+    "kind": "question",
+    "q": 16
+   },
+   {
+    "src": "ex/a-l5/t020-2-17.mp3",
+    "file": "2-17.mp3",
+    "label": "Soal 17",
+    "kind": "question",
+    "q": 17
+   },
+   {
+    "src": "ex/a-l5/t021-2-18.mp3",
+    "file": "2-18.mp3",
+    "label": "Soal 18",
+    "kind": "question",
+    "q": 18
+   },
+   {
+    "src": "ex/a-l5/t022-2-19.mp3",
+    "file": "2-19.mp3",
+    "label": "Soal 19",
+    "kind": "question",
+    "q": 19
+   },
+   {
+    "src": "ex/a-l5/t023-2-20.mp3",
+    "file": "2-20.mp3",
+    "label": "Soal 20",
+    "kind": "question",
+    "q": 20
+   },
+   {
+    "src": "ex/a-l5/t024-2-21.mp3",
+    "file": "2-21.mp3",
+    "label": "Soal 21",
+    "kind": "question",
+    "q": 21
+   },
+   {
+    "src": "ex/a-l5/t025-2-22.mp3",
+    "file": "2-22.mp3",
+    "label": "Soal 22",
+    "kind": "question",
+    "q": 22
+   },
+   {
+    "src": "ex/a-l5/t026-2-23.mp3",
+    "file": "2-23.mp3",
+    "label": "Soal 23",
+    "kind": "question",
+    "q": 23
+   },
+   {
+    "src": "ex/a-l5/t027-2-24.mp3",
+    "file": "2-24.mp3",
+    "label": "Soal 24",
+    "kind": "question",
+    "q": 24
+   },
+   {
+    "src": "ex/a-l5/t028-2-25.mp3",
+    "file": "2-25.mp3",
+    "label": "Soal 25",
+    "kind": "question",
+    "q": 25
+   },
+   {
+    "src": "ex/a-l5/t029-2-26.mp3",
+    "file": "2-26.mp3",
+    "label": "Soal 26",
+    "kind": "question",
+    "q": 26
+   },
+   {
+    "src": "ex/a-l5/t030-2-27.mp3",
+    "file": "2-27.mp3",
+    "label": "Soal 27",
+    "kind": "question",
+    "q": 27
+   },
+   {
+    "src": "ex/a-l5/t031-2-28.mp3",
+    "file": "2-28.mp3",
+    "label": "Soal 28",
+    "kind": "question",
+    "q": 28
+   },
+   {
+    "src": "ex/a-l5/t032-3-00000-_-p_mp3.mp3",
+    "file": "3-00000-英文-p.mp3.mp3",
+    "label": "Petunjuk / jeda",
+    "kind": "instructions",
+    "q": null
+   },
+   {
+    "src": "ex/a-l5/t033-3-29.mp3",
+    "file": "3-29.mp3",
+    "label": "Soal 29",
+    "kind": "question",
+    "q": 29
+   },
+   {
+    "src": "ex/a-l5/t034-3-30.mp3",
+    "file": "3-30.mp3",
+    "label": "Soal 30",
+    "kind": "question",
+    "q": 30
+   },
+   {
+    "src": "ex/a-l5/t035-3-31.mp3",
+    "file": "3-31.mp3",
+    "label": "Soal 31",
+    "kind": "question",
+    "q": 31
+   },
+   {
+    "src": "ex/a-l5/t036-3-32.mp3",
+    "file": "3-32.mp3",
+    "label": "Soal 32",
+    "kind": "question",
+    "q": 32
+   },
+   {
+    "src": "ex/a-l5/t037-3-33.mp3",
+    "file": "3-33.mp3",
+    "label": "Soal 33",
+    "kind": "question",
+    "q": 33
+   },
+   {
+    "src": "ex/a-l5/t038-3-34.mp3",
+    "file": "3-34.mp3",
+    "label": "Soal 34",
+    "kind": "question",
+    "q": 34
+   },
+   {
+    "src": "ex/a-l5/t039-3-35.mp3",
+    "file": "3-35.mp3",
+    "label": "Soal 35",
+    "kind": "question",
+    "q": 35
+   },
+   {
+    "src": "ex/a-l5/t040-3-36.mp3",
+    "file": "3-36.mp3",
+    "label": "Soal 36",
+    "kind": "question",
+    "q": 36
+   },
+   {
+    "src": "ex/a-l5/t041-3-37.mp3",
+    "file": "3-37.mp3",
+    "label": "Soal 37",
+    "kind": "question",
+    "q": 37
+   },
+   {
+    "src": "ex/a-l5/t042-3-38.mp3",
+    "file": "3-38.mp3",
+    "label": "Soal 38",
+    "kind": "question",
+    "q": 38
+   },
+   {
+    "src": "ex/a-l5/t043-3-39.mp3",
+    "file": "3-39.mp3",
+    "label": "Soal 39",
+    "kind": "question",
+    "q": 39
+   },
+   {
+    "src": "ex/a-l5/t044-3-40.mp3",
+    "file": "3-40.mp3",
+    "label": "Soal 40",
+    "kind": "question",
+    "q": 40
+   },
+   {
+    "src": "ex/a-l5/t045-4-00000-_-p_mp3.mp3",
+    "file": "4-00000-英文-p.mp3.mp3",
+    "label": "Petunjuk Bagian 4",
+    "kind": "instructions",
+    "q": null
+   },
+   {
+    "src": "ex/a-l5/t046-4-41.mp3",
+    "file": "4-41.mp3",
+    "label": "Soal 41",
+    "kind": "question",
+    "q": 41
+   },
+   {
+    "src": "ex/a-l5/t047-4-42.mp3",
+    "file": "4-42.mp3",
+    "label": "Soal 42",
+    "kind": "question",
+    "q": 42
+   },
+   {
+    "src": "ex/a-l5/t048-4-43.mp3",
+    "file": "4-43.mp3",
+    "label": "Soal 43",
+    "kind": "question",
+    "q": 43
+   },
+   {
+    "src": "ex/a-l5/t049-4-44.mp3",
+    "file": "4-44.mp3",
+    "label": "Soal 44",
+    "kind": "question",
+    "q": 44
+   },
+   {
+    "src": "ex/a-l5/t050-4-45.mp3",
+    "file": "4-45.mp3",
+    "label": "Soal 45",
+    "kind": "question",
+    "q": 45
+   },
+   {
+    "src": "ex/a-l5/t051-4-46.mp3",
+    "file": "4-46.mp3",
+    "label": "Soal 46",
+    "kind": "question",
+    "q": 46
+   },
+   {
+    "src": "ex/a-l5/t052-4-47.mp3",
+    "file": "4-47.mp3",
+    "label": "Soal 47",
+    "kind": "question",
+    "q": 47
+   },
+   {
+    "src": "ex/a-l5/t053-4-48.mp3",
+    "file": "4-48.mp3",
+    "label": "Soal 48",
+    "kind": "question",
+    "q": 48
+   },
+   {
+    "src": "ex/a-l5/t054-4-49.mp3",
+    "file": "4-49.mp3",
+    "label": "Soal 49",
+    "kind": "question",
+    "q": 49
+   },
+   {
+    "src": "ex/a-l5/t055-4-50.mp3",
+    "file": "4-50.mp3",
+    "label": "Soal 50",
+    "kind": "question",
+    "q": 50
+   },
+   {
+    "src": "ex/a-l5/t056-5-00000-_-p_mp3.mp3",
+    "file": "5-00000-英文-p.mp3.mp3",
+    "label": "Petunjuk / jeda",
+    "kind": "instructions",
+    "q": null
+   }
+  ]
+ },
+ "fullScript": "入門基礎級模擬試題聽力測驗腳本\nScript of Listening Test\n第一部分 看圖回答\n1.\n\n2.\n\n3.\n\n4.\n\n5.\n\n6.\n\n提問\n\n圖片裡有幾個學生？\n\n(A)\n\n三個\n\n(B)\n\n四個\n\n(C)\n\n七個\n\n提問\n\n這個人在做什麼運動？\n\n(A)\n\n他在打籃球\n\n(B)\n\n他在打網球\n\n(C)\n\n他在打棒球\n\n提問\n\n請問小美喜歡做什麼？\n\n(A)\n\n她喜歡打掃\n\n(B)\n\n她喜歡做菜\n\n(C)\n\n她喜歡洗衣服\n\n提問\n\n弟弟今天怎麼沒去上課？\n\n(A)\n\n他腳痛\n\n(B)\n\n他頭痛\n\n(C)\n\n他肚子痛\n\n提問\n\n小明給美美什麼？\n\n(A)\n\n水果\n\n(B)\n\n蛋糕\n\n(C)\n\n餃子\n\n提問\n\n這位先生現在在做什麼？\n\n(A)\n\n他在教室上網\n\n(B)\n\n他在辦公室工作\n\n(C)\n\n他在辦公室上網\n\n7.\n\n8.\n\n9.\n\n10.\n\n提問\n\n小女孩在做什麼？\n\n(A)\n\n她在寄信\n\n(B)\n\n她在寫信\n\n(C)\n\n她在打電話\n\n提問\n\n圖片裡有什麼？\n\n(A)\n\n一枝鉛筆和兩本字典\n\n(B)\n\n一本字典和兩支毛筆\n\n(C)\n\n一本雜誌和兩本課本\n\n提問\n\n他們在做什麼？\n\n(A)\n\n他們一邊看電視，一邊吃東西\n\n(B)\n\n他們一邊吃東西，一邊和狗玩\n\n(C)\n\n他們一邊和狗玩，一邊看電視\n\n提問\n\n這裡有哪些動物？\n\n(A)\n\n這裡都是馬\n\n(B)\n\n這裡有馬也有牛\n\n(C)\n\n這裡只有牛沒有馬\n\n第二部分 問答理解\n11.\n男\n\n剛剛那個年輕人在飯店裡吃了什麼食物？\n\n女\n\n他吃了一碗麵。\n\n12.\n女\n\n你要不要去博物館？\n\n男\n\n好啊！\n\n13.\n男\n\n這是您的巧克力蛋糕，請問還需要什麼嗎？\n\n女\n\n請再給我一個湯匙，我們要一起吃。\n\n14.\n女\n\n我昨天打電話給你，你怎麼沒接電話？\n\n男\n\n我的手機壞了。\n\n15.\n男\n\n哪一個是妳的妹妹？\n\n女\n\n那個短頭髮，戴眼鏡的是我妹妹。\n\n16.\n女\n\n這家店為什麼這麼多人在排隊？\n\n男\n\n因為這裡的衣服很便宜，很多人來這裡買衣服。\n\n17.\n男\n\n聽說這家店的牛排和漢堡很好吃，妳要試一試嗎？\n\n女\n\n我不能吃肉，請幫我點一份青菜。\n\n18.\n男\n\n媽媽，我找了客廳和房間，怎麼都沒看見我新買的小說？\n\n女\n\n你昨天放在浴室裡了。\n\n19.\n女\n\n我上次送你的畫你放在哪裡了？\n\n男\n\n我把它掛在冰箱後面的牆上了。\n\n20.\n男\n\n聽說小美要表演，是鋼琴表演嗎？\n\n女\n\n她以前表演過鋼琴，但是這次是吉他表演。\n\n21.\n女\n\n已經晚上九點了，辦公室裡怎麼還有人？\n\n男\n\n是蘇經理和小蔡，他們兩個還在開會。\n\n22.\n男\n\n他們兩個人都很生氣，不知道他們在說什麼？\n\n女\n\n他們一討論小孩的事情，就會不太開心。\n\n23.\n女\n\n為什麼他今天沒來上班？\n\n男\n\n因為他在家裡準備明天的報告。\n\n24.\n女\n\n你們在山上新租的房子怎麼樣？\n\n男\n\n房子很不錯。樓下房間有一個大窗戶。\n\n25.\n男\n\n美美，我的那件短袖襯衫呢？\n\n女\n\n我剛洗好，現在還沒乾喔！\n\n26.\n男\n\n聽說小明家附近的風景很漂亮，是嗎？\n\n女\n\n是啊！但是那裡冬天的溫度很低，你去找他要穿暖一點。\n\n27.\n女\n\n你覺得認識臺灣最好的方法是什麼？\n\n男\n\n看書、看電視介紹都不錯，但是最好的方法就是你自己去旅行。\n\n28.\n男\n\n小美，你的新家怎麼樣？\n\n女\n\n別說了，我搬到公寓去，結果樓上的小孩經常往下丟垃圾，環境非常髒。\n\n第三部分 對話理解\n29.\n男\n\n我們等一下三點在書店門口前見面嗎？\n\n女\n\n我覺得有一點晚，我們可以早半個小時嗎？\n\n男\n\n好啊，那一樣在書店門口前見嗎？\n\n女\n\n對，書店門口見！\n\n男\n\n請問他們幾點見面？\n\n30.\n男\n\n請問妳要找什麼書？\n\n女\n\n我正在找介紹日本風景的旅遊書。\n\n男\n\n妳看到上面號碼了嗎？如果妳要找日本的書，那在中間 2 號。\n\n女\n\n謝謝。\n\n男\n\n請問介紹日本風景的書放在哪裡？\n\n31.\n男\n\n來這家店的人真多。\n\n女\n\n是啊！這家冰淇淋店有很多種味道的冰淇淋。\n\n男\n\n我想吃巧克力和牛奶口味的，我們進去吃吧！\n\n女\n\n好，我請客。\n\n男\n\n請問他們等一下要做什麼？\n\n32.\n男\n\n照片裡這些人是妳的家人嗎？你們在哪裡拍的？\n\n女\n\n是啊，這是我的爸爸媽媽。這張照片是在船上拍的。\n\n男\n\n這個戴帽子的人是誰？\n\n女\n\n這是我爺爺。他已經七十歲了。\n\n男\n\n請問他們說的是哪一張照片？\n\n33.\n男\n\n要不要喝點兒啤酒？\n\n女\n\n不行，我等一下要開車。\n\n男\n\n那，喝點兒汽水吧？\n\n女\n\n我還是喝茶好了。\n\n男\n\n請問這位小姐決定喝什麼？\n\n34.\n男\n\n妳的房間這麼亂，為什麼不整理？\n\n女\n\n我本來上星期日要整理房間，但是我的經理要我去公司。\n\n男\n\n那妳今天看了一個下午的書，為什麼不打掃？\n\n女\n\n好啦！我明天會整理。\n\n男\n\n請問這位小姐明天打算做什麼？\n\n35.\n男\n\n這裡的天氣怎麼樣？\n\n女\n\n冬天太冷，夏天太熱。\n\n男\n\n那麼春天呢？\n\n女\n\n常常下雨。\n\n男\n\n請問這裡的春天常常怎麼樣？\n\n36.\n男\n\n我想找王先生。\n\n女\n\n請問您和他約好了嗎？\n\n男\n\n沒有。是他要我來找他的。\n\n女\n\n您先留下您的電話，我會請王先生打電話給您。\n\n男\n\n請問這位小姐要這位先生做什麼？\n\n37.\n男\n\n小春的生日快到了，我們一起送他禮物，怎麼樣？\n\n女\n\n好啊！他喜歡畫畫，我們可以送他畫畫用的筆。\n\n男\n\n嗯，還可以送他放筆的袋子。\n\n女\n\n好啊，今天下課以後我們一起去買禮物吧。\n\n男\n\n請問他們決定送什麼？\n\n38.\n男\n\n妳看電視新聞了嗎？有一個很可怕的消息。\n\n女\n\n什麼可怕的消息？\n\n男\n\n妳快點開電視，我剛剛才看到的。\n\n女\n\n我上網看過新聞了，可是沒看到什麼可怕的消息。\n\n男\n\n請問這位先生從哪裡知道可怕的消息？\n\n39.\n男\n\n妳想吃什麼?\n\n女\n\n聽說這裡的北京烤鴨很好吃。\n\n男\n\n我們點一隻烤鴨，一碗酸辣湯，怎麼樣？\n\n女\n\n再點一個糖醋魚吧！\n\n男\n\n請問他們應該在什麼地方？\n\n40.\n男\n\n已經很晚了，妳怎麼還在這裡？\n\n女\n\n經理說明天要和他一起討論，我今天一定要準備好。\n\n男\n\n我不放心妳一個人回家，還是等會兒我開車送妳回去。\n\n女\n\n謝謝你！但是我今天晚上打算睡在公司裡。\n\n男\n\n請問這位小姐今天晚上打算做什麼？\n\n第四部分 對話\n41.\n男\n\n我昨天運動了一整天。\n\n女\n\n你看你，累到說不了話了？\n\n男\n\n喔，不是因為運動，是因為我早上五點就起床了，所以想睡覺。\n\n女\n\n你這樣沒辦法上班，我幫你請假，你快回去睡吧！\n\n男\n\n請問這位小姐為什麼要幫這位先生請假？\n\n42.\n男\n\n妳上個禮拜的旅行怎麼樣？\n\n女\n\n還不錯。交通方便、風景漂亮，我想去的地方都去了。\n\n男\n\n那真是個開心的旅行。\n\n女\n\n嗯，雖然每件事都不錯，但是我回國的時候，把錢包掉在旅館了。\n\n男\n\n關於這位小姐，下面哪一個是對的？\n\n43.\n男\n\n妳怎麼了？好像不太開心的樣子。\n\n女\n\n我沒事，我每次考試的時候就會這樣。\n\n男\n\n可是昨天不是已經考完了嗎？\n\n女\n\n是啊，可是我很擔心沒考好。\n\n男\n\n這位小姐為什麼不開心？\n\n44.\n女\n\n王先生嗎？您好，我是住在您家樓下的陳太太。\n\n男\n\n請問有什麼事嗎？\n\n女\n男\n\n我總是聽到您走路的聲音，有時還聽到您與女朋友大聲地講話。我找您好\n幾次了，可是您都不在家。\n啊！不好意思，不好意思，我會注意的。\n\n女\n\n陳太太為什麼找王先生？\n\n45.\n男\n\n妳昨天怎麼那麼晚才睡？\n\n女\n\n我昨天十二點多睡的，我不覺得晚啊！\n\n男\n\n都半夜了，還不晚？這麼晚才睡覺對身體很不好。\n\n女\n\n還好吧？我一直都是這個時間睡覺，也沒生什麼病。\n\n女\n\n請問這位小姐的意思是什麼？\n\n46.\n男\n\n夏天到了，我們明天去海邊吧！\n\n女\n\n好啊！你覺得我應該穿短裙好呢？還是短褲好呢？\n\n男\n\n我覺得妳應該穿短褲，因為我們要在沙灘上打球。\n\n女\n\n好啊，明天見。\n\n女\n\n請問這位先生說了什麼？\n\n47.\n男\n\n為了妳的生日，我想請妳吃蛋糕。\n\n女\n\n你人來我就很開心了，蛋糕，我來準備就好了。\n\n男\n\n這是為了感謝妳請我參加明天的生日舞會，或是妳有更想要的禮物嗎？\n\n女\n\n你太客氣了。吃蛋糕和收禮物都不是最重要的事。\n\n女\n\n請問這位小姐的意思是什麼？\n\n48.\n男\n\n我要去逛百貨公司，要一起嗎？\n\n女\n\n我最近花了太多錢了，還是不要吧。\n\n男\n\n最近百貨公司有活動，很多商品不但很便宜，還會給很多試用的東西。\n\n女\n\n喔，有不用花錢的啊！那我們快走吧！\n\n女\n\n為什麼這位小姐想去百貨公司？\n\n49.\n男\n\n今天天氣好熱，我們在家吹冷氣多好，還是不要去買衣服了。\n\n女\n\n不行，你昨天答應我今天要出門買衣服。\n\n男\n\n可是妳沒發現衣服已經很多了嗎？\n\n女\n\n我覺得，你只是怕太晚回家，沒辦法看棒球比賽！\n\n女\n\n請問下面哪一個是對的？\n\n50.\n男\n\n小姐，這是昨天跟你們買的牛奶，味道有點奇怪，我想換一瓶新的。\n\n女\n\n請問您帶了發票嗎？\n\n男\n\n喔，我沒帶來。\n\n女\n\n我們要看到發票，才能換東西，不好意思。\n\n女\n\n這位小姐的意思是什麼？",
+ "optionCount": 3
+}

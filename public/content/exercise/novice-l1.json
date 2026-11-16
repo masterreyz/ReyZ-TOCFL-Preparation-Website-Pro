@@ -1,0 +1,818 @@
+{
+ "id": "novice-l1",
+ "band": "novice",
+ "skill": "listening",
+ "series": 1,
+ "title": "Novice Listening · Series 1",
+ "source": {
+  "folder": "1. TOCFL Band Novice/Listening/Listening Test Series 1",
+  "booklet": "ls_mock_test_Novice_en_201811_t.pdf",
+  "answer": "mock_test_Novice_answer.pdf",
+  "script": "ls_mock_test_Novice_listen.pdf"
+ },
+ "timeMinutes": null,
+ "parts": [
+  {
+   "title": "第一部分",
+   "subtitle": "Part One",
+   "instructions": "說明：在這個部分，每題有(A)(B)(C)三張圖片，你會聽到一句話。請根據說話內\n容，選出正確的圖片。每題念兩次，第一次念完以後，先停五秒，再念第\n二次。第二次念完以後停十秒，就繼續下一題。",
+   "instructionsEn": "Directions: In this part of the test, each test item includes three pictures (A), (B), and (C). You will hear a sentence. After each sentence, please choose the picture that best describes the sentence. Each sentence will be read twice with a 5-second pause between readings. After the second reading, you will have ten seconds to mark your answer before the next question begins.",
+   "page": 3,
+   "from": 1,
+   "to": 10,
+   "grouped": false
+  },
+  {
+   "title": "第二部分",
+   "subtitle": "Part Two",
+   "instructions": "說明：在這個部分，每題有一張圖片，你會聽到(A)(B)(C)三個句子。請根據圖片，\n選出正確的答案。每題念兩次，第一次念完以後，先停五秒，再念第二次。\n第二次念完以後停十秒，就繼續下一題。(B), and (C). After listening to these three sentences, please choose the correct answer that best",
+   "instructionsEn": "Directions: In this part of the test, each question includes a picture. You will hear three sentences (A), describes the picture. Each sentence will be read twice with a 5-second pause between readings. After the second reading, you will have ten seconds to mark your answer before the next question begins.",
+   "page": 7,
+   "from": 11,
+   "to": 20,
+   "grouped": false
+  },
+  {
+   "title": "第三部分",
+   "subtitle": "Part Three",
+   "instructions": "說明：在這個部分，每題有一個問題，你會聽到一段一問一答的對話，然後聽到\n問題和(A)(B)(C)三個選項。請根據對話，回答問題。每題念兩次，第一次\n念完以後，先停五秒，再念第二次。第二次念完以後停十秒，就繼續下一\n題。",
+   "instructionsEn": "Directions: In this part of the test, each test item includes a question. You will hear a dialogue between two people. There will be a question with three possible answers (A), (B), and (C). After each dialogue, please choose the correct answer. Each sentence will be read twice with a 5-second pause between readings. After the second reading, you will have ten seconds to mark your answer before the next question begins.",
+   "page": 11,
+   "from": 21,
+   "to": 25,
+   "grouped": false
+  }
+ ],
+ "questions": [
+  {
+   "n": 1,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q1.webp",
+   "showCrop": true,
+   "cropGap": 145,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "我要喝茶。",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 2,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q2.webp",
+   "showCrop": true,
+   "cropGap": 146,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "這是我的書。",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 3,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q3.webp",
+   "showCrop": true,
+   "cropGap": 145,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "他早上八點起床。",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 4,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q4.webp",
+   "showCrop": true,
+   "cropGap": 196,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "我只買了褲子。",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 5,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q5.webp",
+   "showCrop": true,
+   "cropGap": 161,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "這裡有三杯水。",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 6,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q6.webp",
+   "showCrop": true,
+   "cropGap": 144,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "我的生日是七月十一號。",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 7,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q7.webp",
+   "showCrop": true,
+   "cropGap": 152,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "他在穿鞋子。",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 8,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q8.webp",
+   "showCrop": true,
+   "cropGap": 175,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "那裡有狗。",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 9,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q9.webp",
+   "showCrop": true,
+   "cropGap": 144,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "他開車去學校。",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 10,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q10.webp",
+   "showCrop": true,
+   "cropGap": 526,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "王太太在醫院工作。",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 11,
+   "page": 8,
+   "stem": "",
+   "context": "",
+   "options": [],
+   "crop": "q11.webp",
+   "showCrop": true,
+   "cropGap": 152,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "(A) 公司的電話號碼是 8651-0426。\n(B) 公司的電話號碼是 8671-0426。\n(C) 公司的電話號碼是 8691-0426。",
+   "part": 1,
+   "spokenOptions": true,
+   "group": null
+  },
+  {
+   "n": 12,
+   "page": 8,
+   "stem": "",
+   "context": "",
+   "options": [],
+   "crop": "q12.webp",
+   "showCrop": true,
+   "cropGap": 151,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "(A) 十一月九號是星期五。\n(B) 十一月十號是星期五。\n(C) 十一月十一號是星期五。",
+   "part": 1,
+   "spokenOptions": true,
+   "group": null
+  },
+  {
+   "n": 13,
+   "page": 8,
+   "stem": "",
+   "context": "",
+   "options": [],
+   "crop": "q13.webp",
+   "showCrop": true,
+   "cropGap": 152,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "(A) 他在吃東西。\n(B) 他在找東西。\n(C) 他在洗東西。",
+   "part": 1,
+   "spokenOptions": true,
+   "group": null
+  },
+  {
+   "n": 14,
+   "page": 8,
+   "stem": "",
+   "context": "",
+   "options": [],
+   "crop": "q14.webp",
+   "showCrop": true,
+   "cropGap": 192,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "(A) 我下午去餐廳。\n(B) 我下午去市場。\n(C) 我下午去圖書館。",
+   "part": 1,
+   "spokenOptions": true,
+   "group": null
+  },
+  {
+   "n": 15,
+   "page": 9,
+   "stem": "",
+   "context": "",
+   "options": [],
+   "crop": "q15.webp",
+   "showCrop": true,
+   "cropGap": 152,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "(A) 他拿著票。\n(B) 他拿著魚。\n(C) 他拿著藥。",
+   "part": 1,
+   "spokenOptions": true,
+   "group": null
+  },
+  {
+   "n": 16,
+   "page": 9,
+   "stem": "",
+   "context": "",
+   "options": [],
+   "crop": "q16.webp",
+   "showCrop": true,
+   "cropGap": 151,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "(A) 這是電腦。\n(B) 這是電視。\n(C) 這是手機。",
+   "part": 1,
+   "spokenOptions": true,
+   "group": null
+  },
+  {
+   "n": 17,
+   "page": 9,
+   "stem": "",
+   "context": "",
+   "options": [],
+   "crop": "q17.webp",
+   "showCrop": true,
+   "cropGap": 152,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "(A) 房子旁邊有樹。\n(B) 房子旁邊有海。\n(C) 房子旁邊有山。",
+   "part": 1,
+   "spokenOptions": true,
+   "group": null
+  },
+  {
+   "n": 18,
+   "page": 9,
+   "stem": "",
+   "context": "",
+   "options": [],
+   "crop": "q18.webp",
+   "showCrop": true,
+   "cropGap": 192,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "(A) 他覺得他寫得不好。\n(B) 他覺得他畫得不好。\n(C) 他覺得他唱得不好。",
+   "part": 1,
+   "spokenOptions": true,
+   "group": null
+  },
+  {
+   "n": 19,
+   "page": 10,
+   "stem": "",
+   "context": "",
+   "options": [],
+   "crop": "q19.webp",
+   "showCrop": true,
+   "cropGap": 152,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "(A) 這裡不可以說話。\n(B) 這裡不可以喝酒。\n(C) 這裡不可以睡覺。",
+   "part": 1,
+   "spokenOptions": true,
+   "group": null
+  },
+  {
+   "n": 20,
+   "page": 10,
+   "stem": "",
+   "context": "",
+   "options": [],
+   "crop": "q20.webp",
+   "showCrop": true,
+   "cropGap": 533,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "(A) 李小姐給男孩子信。\n(B) 李小姐給男孩子花。\n(C) 李小姐給男孩子筆。",
+   "part": 1,
+   "spokenOptions": true,
+   "group": null
+  },
+  {
+   "n": 21,
+   "page": 12,
+   "stem": "美美今年要去哪裡玩 美美今年要去哪裡玩？",
+   "context": "",
+   "options": [],
+   "crop": "q21.webp",
+   "showCrop": true,
+   "cropGap": 66,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "男美美，你今年去日本玩嗎？",
+   "part": 2,
+   "spokenOptions": true,
+   "group": null
+  },
+  {
+   "n": 22,
+   "page": 12,
+   "stem": "明天他們要一起做神麼 明天他們要一起做什麼？",
+   "context": "美美今年要去哪裡玩？",
+   "options": [],
+   "crop": "q22.webp",
+   "showCrop": true,
+   "cropGap": 72,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "男小美，明天我們一起去運動吧？",
+   "transcriptIntro": "女不，我今年去台灣玩。\n提問美美今年去哪裡玩？\n(A) 日本\n(B) 台灣\n(C) 美國",
+   "transcriptLead": 22,
+   "part": 2,
+   "spokenOptions": true,
+   "group": null
+  },
+  {
+   "n": 23,
+   "page": 12,
+   "stem": "大明在做神麼 大明在做什麼？",
+   "context": "明天他們要一起做什麼？",
+   "options": [],
+   "crop": "q23.webp",
+   "showCrop": true,
+   "cropGap": 72,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "女大明，你在做什麼？",
+   "transcriptIntro": "女好啊，我很喜歡運動。\n提問明天他們要一起做什麼？\n(A) 運動\n(B) 學習\n(C) 吃飯",
+   "transcriptLead": 23,
+   "part": 2,
+   "spokenOptions": true,
+   "group": null
+  },
+  {
+   "n": 24,
+   "page": 12,
+   "stem": "林太太的兒子今年幾歲 林太太的兒子今年幾歲？",
+   "context": "大明在做什麼？",
+   "options": [],
+   "crop": "q24.webp",
+   "showCrop": true,
+   "cropGap": 72,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "男林太太，你兒子今年十四歲嗎？",
+   "transcriptIntro": "男我在找我的書。\n提問大明在做什麼？\n(A) 找書\n(B) 買書\n(C) 看書",
+   "transcriptLead": 24,
+   "part": 2,
+   "spokenOptions": true,
+   "group": null
+  },
+  {
+   "n": 25,
+   "page": 12,
+   "stem": "小張星期天要做神麼 小張星期天要做什麼？",
+   "context": "林太太的兒子今年幾歲？",
+   "options": [],
+   "crop": "q25.webp",
+   "showCrop": true,
+   "cropGap": 226,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "女小張，星期天跟我們去看電影吧？",
+   "transcriptIntro": "女不，他今年十七歲了。\n提問林太太的兒子今年幾歲？\n(A) 十一歲\n(B) 十四歲\n(C) 十七歲",
+   "transcriptLead": 25,
+   "part": 2,
+   "spokenOptions": true,
+   "group": null
+  }
+ ],
+ "audio": {
+  "dir": "1. TOCFL Band Novice/Listening/Listening Test Series 1/mock_Novice_mp3_en",
+  "kind": "sequence",
+  "tracks": [
+   "001.mp3",
+   "002.mp3",
+   "003.mp3",
+   "004.mp3",
+   "005.mp3",
+   "006.mp3",
+   "007.mp3",
+   "008.mp3",
+   "009.mp3",
+   "010.mp3",
+   "011.mp3",
+   "012.mp3",
+   "013.mp3",
+   "014.mp3",
+   "015.mp3",
+   "016.mp3",
+   "017.mp3",
+   "018.mp3",
+   "019.mp3",
+   "020.mp3",
+   "021.mp3",
+   "022.mp3",
+   "023.mp3",
+   "024.mp3",
+   "025.mp3",
+   "026.mp3",
+   "027.mp3",
+   "028.mp3",
+   "029.mp3"
+  ],
+  "trackList": [
+   {
+    "src": "ex/novice-l1/t001-001.mp3",
+    "file": "001.mp3",
+    "label": "Trek 1 (001.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t002-002.mp3",
+    "file": "002.mp3",
+    "label": "Trek 2 (002.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t003-003.mp3",
+    "file": "003.mp3",
+    "label": "Trek 3 (003.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t004-004.mp3",
+    "file": "004.mp3",
+    "label": "Trek 4 (004.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t005-005.mp3",
+    "file": "005.mp3",
+    "label": "Trek 5 (005.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t006-006.mp3",
+    "file": "006.mp3",
+    "label": "Trek 6 (006.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t007-007.mp3",
+    "file": "007.mp3",
+    "label": "Trek 7 (007.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t008-008.mp3",
+    "file": "008.mp3",
+    "label": "Trek 8 (008.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t009-009.mp3",
+    "file": "009.mp3",
+    "label": "Trek 9 (009.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t010-010.mp3",
+    "file": "010.mp3",
+    "label": "Trek 10 (010.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t011-011.mp3",
+    "file": "011.mp3",
+    "label": "Trek 11 (011.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t012-012.mp3",
+    "file": "012.mp3",
+    "label": "Trek 12 (012.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t013-013.mp3",
+    "file": "013.mp3",
+    "label": "Trek 13 (013.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t014-014.mp3",
+    "file": "014.mp3",
+    "label": "Trek 14 (014.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t015-015.mp3",
+    "file": "015.mp3",
+    "label": "Trek 15 (015.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t016-016.mp3",
+    "file": "016.mp3",
+    "label": "Trek 16 (016.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t017-017.mp3",
+    "file": "017.mp3",
+    "label": "Trek 17 (017.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t018-018.mp3",
+    "file": "018.mp3",
+    "label": "Trek 18 (018.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t019-019.mp3",
+    "file": "019.mp3",
+    "label": "Trek 19 (019.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t020-020.mp3",
+    "file": "020.mp3",
+    "label": "Trek 20 (020.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t021-021.mp3",
+    "file": "021.mp3",
+    "label": "Trek 21 (021.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t022-022.mp3",
+    "file": "022.mp3",
+    "label": "Trek 22 (022.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t023-023.mp3",
+    "file": "023.mp3",
+    "label": "Trek 23 (023.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t024-024.mp3",
+    "file": "024.mp3",
+    "label": "Trek 24 (024.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t025-025.mp3",
+    "file": "025.mp3",
+    "label": "Trek 25 (025.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t026-026.mp3",
+    "file": "026.mp3",
+    "label": "Trek 26 (026.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t027-027.mp3",
+    "file": "027.mp3",
+    "label": "Trek 27 (027.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t028-028.mp3",
+    "file": "028.mp3",
+    "label": "Trek 28 (028.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/novice-l1/t029-029.mp3",
+    "file": "029.mp3",
+    "label": "Trek 29 (029.mp3)",
+    "kind": "other",
+    "q": null
+   }
+  ]
+ },
+ "fullScript": "準備級模擬試題聽力測驗腳本\nScript of Listening Test\n第一部分\n\n1\n\n我要喝茶。\n\n2\n\n這是我的書。\n\n3\n\n他早上八點起床。\n\n4\n\n我只買了褲子。\n\n5\n\n這裡有三杯水。\n\n6\n\n我的生日是七月十一號。\n\n7\n\n他在穿鞋子。\n\n8\n\n那裡有狗。\n\n9\n\n他開車去學校。\n\n10\n\n王太太在醫院工作。\n\n第二部分\n11\n\n(A) 公司的電話號碼是 8651-0426。\n(B) 公司的電話號碼是 8671-0426。\n(C) 公司的電話號碼是 8691-0426。\n\n12\n\n(A) 十一月九號是星期五。\n(B) 十一月十號是星期五。\n(C) 十一月十一號是星期五。\n\n13\n\n(A) 他在吃東西。\n(B) 他在找東西。\n(C) 他在洗東西。\n\n14\n\n(A) 我下午去餐廳。\n(B) 我下午去市場。\n(C) 我下午去圖書館。\n\n15\n\n(A) 他拿著票。\n(B) 他拿著魚。\n(C) 他拿著藥。\n\n16\n\n(A) 這是電腦。\n(B) 這是電視。\n(C) 這是手機。\n\n17\n\n(A) 房子旁邊有樹。\n(B) 房子旁邊有海。\n(C) 房子旁邊有山。\n\n18\n\n(A) 他覺得他寫得不好。\n(B) 他覺得他畫得不好。\n(C) 他覺得他唱得不好。\n\n19\n\n(A) 這裡不可以說話。\n(B) 這裡不可以喝酒。\n(C) 這裡不可以睡覺。\n\n20\n\n(A) 李小姐給男孩子信。\n(B) 李小姐給男孩子花。\n(C) 李小姐給男孩子筆。\n\n第三部分\n21\n\n22\n\n男\n女\n提問\n(A)\n(B)\n(C)\n\n美美，你今年去日本玩嗎？\n不，我今年去台灣玩。\n美美今年去哪裡玩？\n日本\n台灣\n美國\n\n男\n女\n\n小美，明天我們一起去運動吧？\n好啊，我很喜歡運動。\n\n提問\n\n明天他們要一起做什麼？\n運動\n學習\n吃飯\n\n(A)\n(B)\n(C)\n23\n\n女\n男\n提問\n(A)\n(B)\n(C)\n\n24\n\n25\n\n男\n女\n提問\n\n大明，你在做什麼？\n我在找我的書。\n大明在做什麼？\n找書\n買書\n看書\n\n(A)\n(B)\n(C)\n\n林太太，你兒子今年十四歲嗎？\n不，他今年十七歲了。\n林太太的兒子今年幾歲？\n十一歲\n十四歲\n十七歲\n\n女\n男\n\n小張，星期天跟我們去看電影吧？\n我不能去，我星期天要參加考試。\n\n提問\n\n小張星期天要做什麼？\n唱歌\n看電影\n參加考試\n\n(A)\n(B)\n(C)",
+ "optionCount": 3
+}

@@ -1,0 +1,1591 @@
+{
+ "id": "c-r4",
+ "band": "c",
+ "skill": "reading",
+ "series": 4,
+ "title": "Band C Reading · Series 4",
+ "source": {
+  "folder": "4. TOCFL Band C/Reading",
+  "booklet": "4. TOCFL Reading Band C.pdf",
+  "answer": "4. TOCFL Reading Answer Band C.pdf",
+  "script": null
+ },
+ "timeMinutes": null,
+ "parts": [
+  {
+   "title": "一、選詞填空",
+   "subtitle": "",
+   "instructions": "說明：在這一部分，每一段短文有幾個空格，每個空格有四個選\n項，請選出正確的答案完成短文。",
+   "instructionsEn": "",
+   "page": 3,
+   "from": 1,
+   "to": 18,
+   "grouped": true
+  },
+  {
+   "title": "二、閱讀理解",
+   "subtitle": "",
+   "instructions": "說明：在這一部分，請閱讀短文，並根據內容回答幾個問題。",
+   "instructionsEn": "",
+   "page": 7,
+   "from": 19,
+   "to": 50,
+   "grouped": true
+  }
+ ],
+ "questions": [
+  {
+   "n": 1,
+   "page": 4,
+   "stem": "",
+   "context": "（一）\n在北美的城市街頭，經常可見販賣小吃的餐車。這些餐車小吃\n1 平價 1 美味，深受一般民眾喜愛，生意也 2 。隨著餐車飲食日益風行，政府單位決定加強管理。一項新的規定指出，\n3 業者清楚標示每種小吃的熱量及營養成分， 3 將無法取得營業許可。 4 這項規定立意良好，不少民眾卻認為政府 5 。他們認為，不好的餐車自然會被市場 6 ，政府沒有必要干預。有人說，要是因為新規定而吃不到美食，那損失可就大了。",
+   "options": [
+    {
+     "label": "A",
+     "text": "一…就…"
+    },
+    {
+     "label": "B",
+     "text": "既…又…"
+    },
+    {
+     "label": "C",
+     "text": "若…就…"
+    },
+    {
+     "label": "D",
+     "text": "再…也…"
+    }
+   ],
+   "crop": "q1.webp",
+   "showCrop": false,
+   "cropGap": 28,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 2,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "揮金如土"
+    },
+    {
+     "label": "B",
+     "text": "一落千丈"
+    },
+    {
+     "label": "C",
+     "text": "不翼而飛"
+    },
+    {
+     "label": "D",
+     "text": "蒸蒸日上"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 3,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "無論…都…"
+    },
+    {
+     "label": "B",
+     "text": "不僅…還…"
+    },
+    {
+     "label": "C",
+     "text": "除非…否則…"
+    },
+    {
+     "label": "D",
+     "text": "雖然…但是…"
+    }
+   ],
+   "crop": "q3.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 4,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "儘管"
+    },
+    {
+     "label": "B",
+     "text": "由於"
+    },
+    {
+     "label": "C",
+     "text": "既然"
+    },
+    {
+     "label": "D",
+     "text": "除非"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 5,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "無能為力"
+    },
+    {
+     "label": "B",
+     "text": "多管閒事"
+    },
+    {
+     "label": "C",
+     "text": "隨機應變"
+    },
+    {
+     "label": "D",
+     "text": "改過自新"
+    }
+   ],
+   "crop": "q5.webp",
+   "showCrop": false,
+   "cropGap": 196,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 6,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "壓迫"
+    },
+    {
+     "label": "B",
+     "text": "包圍"
+    },
+    {
+     "label": "C",
+     "text": "淪陷"
+    },
+    {
+     "label": "D",
+     "text": "淘汰"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 196,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 7,
+   "page": 5,
+   "stem": "",
+   "context": "（二）\n亞非文明起源於大河，歷史上 7 此為「大河文明」。因為這些地方氣候溫和，適合 8 生長，為人們創造良好的生存條件，農耕是大河文明基本的經濟 9 。古代居民很早 10 在這些地區勞動、生息繁衍，由於 11 豐饒，人民生活富庶，大河 12 成為人類文明的發源地，古埃及、古巴比倫、古印度和古代中國皆屬之。",
+   "options": [
+    {
+     "label": "A",
+     "text": "創"
+    },
+    {
+     "label": "B",
+     "text": "辯"
+    },
+    {
+     "label": "C",
+     "text": "廢"
+    },
+    {
+     "label": "D",
+     "text": "稱"
+    }
+   ],
+   "crop": "q7.webp",
+   "showCrop": false,
+   "cropGap": 37,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g7"
+  },
+  {
+   "n": 8,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "病菌"
+    },
+    {
+     "label": "B",
+     "text": "作物"
+    },
+    {
+     "label": "C",
+     "text": "天敵"
+    },
+    {
+     "label": "D",
+     "text": "品種"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g7"
+  },
+  {
+   "n": 9,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "型態"
+    },
+    {
+     "label": "B",
+     "text": "性情"
+    },
+    {
+     "label": "C",
+     "text": "取樣"
+    },
+    {
+     "label": "D",
+     "text": "格式"
+    }
+   ],
+   "crop": "q9.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g7"
+  },
+  {
+   "n": 10,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "好"
+    },
+    {
+     "label": "B",
+     "text": "便"
+    },
+    {
+     "label": "C",
+     "text": "將"
+    },
+    {
+     "label": "D",
+     "text": "老"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g7"
+  },
+  {
+   "n": 11,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "財團"
+    },
+    {
+     "label": "B",
+     "text": "物產"
+    },
+    {
+     "label": "C",
+     "text": "報酬"
+    },
+    {
+     "label": "D",
+     "text": "待遇"
+    }
+   ],
+   "crop": "q11.webp",
+   "showCrop": false,
+   "cropGap": 227,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g7"
+  },
+  {
+   "n": 12,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "流域"
+    },
+    {
+     "label": "B",
+     "text": "邊界"
+    },
+    {
+     "label": "C",
+     "text": "場面"
+    },
+    {
+     "label": "D",
+     "text": "地表"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 227,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g7"
+  },
+  {
+   "n": 13,
+   "page": 6,
+   "stem": "",
+   "context": "（三）\n細妹仔仰頭看了今天耀眼的陽光，一聲嘆息，挨著細妹仔呼吸時的那口氣， 13 進了她的心裡。她一向跟晴天合不來，晴天， 14 著她慘了、要 15 了。因為太過晴朗的天空，會讓她阿母想拿出棉被過陽光。而每 16 細妹仔想幫她阿母忙時，不是碰壞家裡花瓶、就是不小心讓棉被掉進水缸， 17 勞動的代價就是被她阿母關進後院的小黑屋裡。等細妹仔終於能從小黑屋出來時，天氣通常已經由晴\n18 陰了，眼看快要下雨，阿母需要人手收棉被，才又想起了她。",
+   "options": [
+    {
+     "label": "A",
+     "text": "鑽"
+    },
+    {
+     "label": "B",
+     "text": "按"
+    },
+    {
+     "label": "C",
+     "text": "促"
+    },
+    {
+     "label": "D",
+     "text": "剝"
+    }
+   ],
+   "crop": "q13.webp",
+   "showCrop": false,
+   "cropGap": 27,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g13"
+  },
+  {
+   "n": 14,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "迎合"
+    },
+    {
+     "label": "B",
+     "text": "懊惱"
+    },
+    {
+     "label": "C",
+     "text": "憧憬"
+    },
+    {
+     "label": "D",
+     "text": "意味"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g13"
+  },
+  {
+   "n": 15,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "混淆"
+    },
+    {
+     "label": "B",
+     "text": "倒楣"
+    },
+    {
+     "label": "C",
+     "text": "恍惚"
+    },
+    {
+     "label": "D",
+     "text": "放蕩"
+    }
+   ],
+   "crop": "q15.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g13"
+  },
+  {
+   "n": 16,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "回"
+    },
+    {
+     "label": "B",
+     "text": "步"
+    },
+    {
+     "label": "C",
+     "text": "道"
+    },
+    {
+     "label": "D",
+     "text": "列"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g13"
+  },
+  {
+   "n": 17,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "雖說"
+    },
+    {
+     "label": "B",
+     "text": "倘若"
+    },
+    {
+     "label": "C",
+     "text": "縱使"
+    },
+    {
+     "label": "D",
+     "text": "以致"
+    }
+   ],
+   "crop": "q17.webp",
+   "showCrop": false,
+   "cropGap": 196,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g13"
+  },
+  {
+   "n": 18,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "向"
+    },
+    {
+     "label": "B",
+     "text": "成"
+    },
+    {
+     "label": "C",
+     "text": "轉"
+    },
+    {
+     "label": "D",
+     "text": "化"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 196,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": "g13"
+  },
+  {
+   "n": 19,
+   "page": 8,
+   "stem": "期貨交易初期，期貨商的經營狀況如何？",
+   "context": "（一）\n自 1994 年開放國外盤期貨交易以來，期貨商一直處於虧損累累的經營狀況，直到 1998 年開放國內市場之後，投資人開始認識期貨商品，部分期貨商終於開始獲利。去年股市走大空頭，證券商減薪、裁員不斷，股市走勢波動震盪加劇讓期貨市場麻雀變鳳凰，市場成交量較 1994年高出近三十倍，一掃過去無人聞問的陰霾。",
+   "options": [
+    {
+     "label": "A",
+     "text": "賠很多錢"
+    },
+    {
+     "label": "B",
+     "text": "不賠不賺"
+    },
+    {
+     "label": "C",
+     "text": "業績大幅成長"
+    },
+    {
+     "label": "D",
+     "text": "業績呈穩定成長"
+    }
+   ],
+   "crop": "q19.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g19"
+  },
+  {
+   "n": 20,
+   "page": 8,
+   "stem": "根據這篇報導，去年期貨的表現如何？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "無人投資"
+    },
+    {
+     "label": "B",
+     "text": "大幅成長"
+    },
+    {
+     "label": "C",
+     "text": "大起大落"
+    },
+    {
+     "label": "D",
+     "text": "跌落谷底"
+    }
+   ],
+   "crop": "q20.webp",
+   "showCrop": false,
+   "cropGap": 365,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g19"
+  },
+  {
+   "n": 21,
+   "page": 9,
+   "stem": "本文的主旨是什麼？",
+   "context": "（二）\n某知名品牌推出環保購物袋，一上市竟然引發搶購熱潮，輿論提出不少的批評與省思，主要都是在攻擊國人崇尚名牌的虛榮心。事實上，民眾對名牌的狂熱豈止是環保袋而已？「名牌」在我們生活中已經無孔不入，舉凡帶有「名」字的事物──名醫、名校、名店……必定會引起瘋狂競爭心理，誰都想搶先一步，因此長久以來大排長龍、整夜等候的奇觀，早已是一種見怪不怪的全民運動，即使是環保袋，仍然脫離不了「標籤主義」的作祟。",
+   "options": [
+    {
+     "label": "A",
+     "text": "到處都買得到名牌商品"
+    },
+    {
+     "label": "B",
+     "text": "全民一起響應環保運動"
+    },
+    {
+     "label": "C",
+     "text": "要享用名牌就得耐心排隊購買"
+    },
+    {
+     "label": "D",
+     "text": "民眾多崇拜具知名度的人事物"
+    }
+   ],
+   "crop": "q21.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 22,
+   "page": 9,
+   "stem": "根據本文，以下哪一項正確？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "提倡環保的同時，也要兼顧時尚流行"
+    },
+    {
+     "label": "B",
+     "text": "環保意識的高漲帶動了環保袋的流行"
+    },
+    {
+     "label": "C",
+     "text": "排隊購買名牌商品是一種很普遍的現象"
+    },
+    {
+     "label": "D",
+     "text": "名牌商品掛上了環保標籤才會引起搶購"
+    }
+   ],
+   "crop": "q22.webp",
+   "showCrop": false,
+   "cropGap": 325,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 23,
+   "page": 11,
+   "stem": "在這則說明中，提到什麼時候要換引擎機油？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "每次騎乘機車時"
+    },
+    {
+     "label": "B",
+     "text": "更換指示器燈亮時"
+    },
+    {
+     "label": "C",
+     "text": "騎乘至固定里程數時"
+    },
+    {
+     "label": "D",
+     "text": "加油指示標線達下限時"
+    }
+   ],
+   "crop": "q23.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 24,
+   "page": 11,
+   "stem": "關於檢查引擎機油量，下列哪一項符合說明？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "車身必須平穩且靜止不動"
+    },
+    {
+     "label": "B",
+     "text": "機油加油蓋以順時針方向旋出"
+    },
+    {
+     "label": "C",
+     "text": "等引擎完全冷卻後，才可檢查"
+    },
+    {
+     "label": "D",
+     "text": "檢查時，機油加油蓋必須確實鎖緊"
+    }
+   ],
+   "crop": "q24.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 25,
+   "page": 11,
+   "stem": "根據說明，下面哪一個東西在檢查時要注意損壞的狀況？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "量油尺"
+    },
+    {
+     "label": "B",
+     "text": "加油蓋"
+    },
+    {
+     "label": "C",
+     "text": "護油圈"
+    },
+    {
+     "label": "D",
+     "text": "主支架"
+    }
+   ],
+   "crop": "q25.webp",
+   "showCrop": false,
+   "cropGap": 394,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 26,
+   "page": 13,
+   "stem": "「花間一壺酒，獨酌無相親」表達出李白的心情怎麼樣？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "漠然"
+    },
+    {
+     "label": "B",
+     "text": "舒暢"
+    },
+    {
+     "label": "C",
+     "text": "孤寂"
+    },
+    {
+     "label": "D",
+     "text": "哀痛"
+    }
+   ],
+   "crop": "q26.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 27,
+   "page": 13,
+   "stem": "根據本文第二段描述，讓李白手舞足蹈的原因是什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "因為他自在的個性"
+    },
+    {
+     "label": "B",
+     "text": "因為他和月亮的約定"
+    },
+    {
+     "label": "C",
+     "text": "因為他醉後就想跳舞"
+    },
+    {
+     "label": "D",
+     "text": "因為他想看影子的流動"
+    }
+   ],
+   "crop": "q27.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 28,
+   "page": 13,
+   "stem": "本文第三段提到，「詩裡行間的風景」，作者指的是什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "李白對自然的讚嘆"
+    },
+    {
+     "label": "B",
+     "text": "李白對官場的感慨"
+    },
+    {
+     "label": "C",
+     "text": "李白對人生的領悟"
+    },
+    {
+     "label": "D",
+     "text": "李白對詩詞的看法"
+    }
+   ],
+   "crop": "q28.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 29,
+   "page": 13,
+   "stem": "根據文本，作者咀嚼於舌尖的「況味」，是一種什麼味道？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "甘味"
+    },
+    {
+     "label": "B",
+     "text": "鮮味"
+    },
+    {
+     "label": "C",
+     "text": "辛味"
+    },
+    {
+     "label": "D",
+     "text": "苦味"
+    }
+   ],
+   "crop": "q29.webp",
+   "showCrop": false,
+   "cropGap": 274,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 30,
+   "page": 15,
+   "stem": "根據本文，關於「超大質量黑洞」描述，下列何者正確？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "在宿主星系遊蕩"
+    },
+    {
+     "label": "B",
+     "text": "只存在於已經死亡的星系裡"
+    },
+    {
+     "label": "C",
+     "text": "天文學家預測僅存在銀河系中"
+    },
+    {
+     "label": "D",
+     "text": "天文學家無法證實其存在星系邊緣"
+    }
+   ],
+   "crop": "q30.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 31,
+   "page": 15,
+   "stem": "天文學家為什麼提到「星系合併」？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "主要說明黑洞的位置"
+    },
+    {
+     "label": "B",
+     "text": "解釋超大黑洞發生的時間"
+    },
+    {
+     "label": "C",
+     "text": "強調太陽系仍在膨脹壯大中"
+    },
+    {
+     "label": "D",
+     "text": "從合併過程說明宇宙氣體的重要性"
+    }
+   ],
+   "crop": "q31.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 32,
+   "page": 15,
+   "stem": "關於超大質量黑洞，《天體物理學雜誌快報》預測了什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "黑洞影響太陽星系的時間"
+    },
+    {
+     "label": "B",
+     "text": "超大質量黑洞運行的軌跡"
+    },
+    {
+     "label": "C",
+     "text": "數個超大質量黑洞的存在"
+    },
+    {
+     "label": "D",
+     "text": "「恆星暈」形成的可能因素"
+    }
+   ],
+   "crop": "q32.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 33,
+   "page": 15,
+   "stem": "根據本文，研究員認為間接推斷其他星系黑洞存在的限制是什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "超大質量黑洞無法靠近「恆星暈」"
+    },
+    {
+     "label": "B",
+     "text": "觀測工具無法觀測那麼遠的距離"
+    },
+    {
+     "label": "C",
+     "text": "無法證明銀河系邊緣存在著黑洞"
+    },
+    {
+     "label": "D",
+     "text": "宇宙時間無垠，而人類時間有限"
+    }
+   ],
+   "crop": "q33.webp",
+   "showCrop": false,
+   "cropGap": 274,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 34,
+   "page": 17,
+   "stem": "根據第一段，關於美沙酮，哪一個是對的？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "毒性跟海洛因一樣高"
+    },
+    {
+     "label": "B",
+     "text": "會讓使用者感到極度痛苦"
+    },
+    {
+     "label": "C",
+     "text": "能暫時克制吸毒者的毒癮"
+    },
+    {
+     "label": "D",
+     "text": "完全戒除毒癮的人才能使用"
+    }
+   ],
+   "crop": "q34.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 35,
+   "page": 17,
+   "stem": "根據第二段，為什麼台灣沒有立刻使用美沙酮？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "使用美沙酮也會讓人上癮"
+    },
+    {
+     "label": "B",
+     "text": "有毒癮的人無法接受美沙酮"
+    },
+    {
+     "label": "C",
+     "text": "使用美沙酮需搭配許多藥品"
+    },
+    {
+     "label": "D",
+     "text": "當時只有 5%的病患需要治療"
+    }
+   ],
+   "crop": "q35.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 36,
+   "page": 17,
+   "stem": "第三段指出下面哪件事？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "使用美沙酮會導致毒品氾濫"
+    },
+    {
+     "label": "B",
+     "text": "使用美沙酮能減少毒品犯罪事件"
+    },
+    {
+     "label": "C",
+     "text": "吸毒者經常販賣美沙酮來取得毒品"
+    },
+    {
+     "label": "D",
+     "text": "吸毒者經常同時使用海洛因及美沙酮"
+    }
+   ],
+   "crop": "q36.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 37,
+   "page": 17,
+   "stem": "第三段為什麼提到愛滋病？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "指出美沙酮可治療愛滋"
+    },
+    {
+     "label": "B",
+     "text": "指出使用美沙酮的風險很高"
+    },
+    {
+     "label": "C",
+     "text": "指出美沙酮不適合愛滋患者"
+    },
+    {
+     "label": "D",
+     "text": "指出美沙酮能防止愛滋傳播"
+    }
+   ],
+   "crop": "q37.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 38,
+   "page": 17,
+   "stem": "使用美沙酮的社會怎麼看待吸毒或毒品？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "吸毒者無藥可救"
+    },
+    {
+     "label": "B",
+     "text": "吸毒是一種疾病"
+    },
+    {
+     "label": "C",
+     "text": "應提高吸毒者的刑期"
+    },
+    {
+     "label": "D",
+     "text": "應放鬆對毒品的管制"
+    }
+   ],
+   "crop": "q38.webp",
+   "showCrop": false,
+   "cropGap": 154,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 39,
+   "page": 19,
+   "stem": "關於文章中的主角，下面哪一個是對的？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "她找好救兵準備上戰場"
+    },
+    {
+     "label": "B",
+     "text": "她跟著一大隊人馬求援"
+    },
+    {
+     "label": "C",
+     "text": "她的武功已是出神入化"
+    },
+    {
+     "label": "D",
+     "text": "她的狀態現是生死未卜"
+    }
+   ],
+   "crop": "q39.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 40,
+   "page": 19,
+   "stem": "文章中的主角與攻擊她的人，以前是什麼關係？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "舊識"
+    },
+    {
+     "label": "B",
+     "text": "親家"
+    },
+    {
+     "label": "C",
+     "text": "陌路"
+    },
+    {
+     "label": "D",
+     "text": "對頭"
+    }
+   ],
+   "crop": "q40.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 41,
+   "page": 19,
+   "stem": "文章第三段提及主角有些惱怒，她在惱怒什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "她覺得自己的能力不如男子"
+    },
+    {
+     "label": "B",
+     "text": "她害怕自己無法完成此趟任務"
+    },
+    {
+     "label": "C",
+     "text": "她覺得長途跋涉的旅程太過疲憊"
+    },
+    {
+     "label": "D",
+     "text": "她覺得自己不該被一些聲響嚇到"
+    }
+   ],
+   "crop": "q41.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 42,
+   "page": 19,
+   "stem": "文中，心「提到了嗓子眼兒，堵得呼吸都倍顯艱難」，是怎樣的情 緒？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "氣憤"
+    },
+    {
+     "label": "B",
+     "text": "尷尬"
+    },
+    {
+     "label": "C",
+     "text": "緊張"
+    },
+    {
+     "label": "D",
+     "text": "鬱鬱"
+    }
+   ],
+   "crop": "q42.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 43,
+   "page": 19,
+   "stem": "文章最後一段提及，主角和敵人對戰的情況怎麼樣？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "她落於下風"
+    },
+    {
+     "label": "B",
+     "text": "她最終反敗為勝"
+    },
+    {
+     "label": "C",
+     "text": "她將對方手到擒來"
+    },
+    {
+     "label": "C",
+     "text": "她與對方勢均力敵"
+    }
+   ],
+   "crop": "q43.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 44,
+   "page": 19,
+   "stem": "下面哪一個句子可以用來描述攻擊的人？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "相貌玉樹臨風"
+    },
+    {
+     "label": "B",
+     "text": "出手趕盡殺絕"
+    },
+    {
+     "label": "C",
+     "text": "招式拖泥帶水"
+    },
+    {
+     "label": "D",
+     "text": "神色恍恍惚惚"
+    }
+   ],
+   "crop": "q44.webp",
+   "showCrop": false,
+   "cropGap": 14,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 45,
+   "page": 21,
+   "stem": "根據文章，「官山海」的稅賦來源為何？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "百工作坊"
+    },
+    {
+     "label": "B",
+     "text": "富商大賈"
+    },
+    {
+     "label": "C",
+     "text": "農林漁牧"
+    },
+    {
+     "label": "D",
+     "text": "屬國歲貢"
+    }
+   ],
+   "crop": "q45.webp",
+   "showCrop": false,
+   "cropGap": 18,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 46,
+   "page": 21,
+   "stem": "導致食鹽販售官、私兩分的起因為何？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "百姓對食鹽需求日增"
+    },
+    {
+     "label": "B",
+     "text": "朝廷想獨攬食鹽收益"
+    },
+    {
+     "label": "C",
+     "text": "朝廷疏忽，外流製鹽技術"
+    },
+    {
+     "label": "D",
+     "text": "收成不利，百姓鋌而走險"
+    }
+   ],
+   "crop": "q46.webp",
+   "showCrop": false,
+   "cropGap": 18,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 47,
+   "page": 21,
+   "stem": "作者認為，朝廷與販售私鹽者之間的關係為何？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "私相授受"
+    },
+    {
+     "label": "B",
+     "text": "鷸蚌相爭"
+    },
+    {
+     "label": "C",
+     "text": "勢如水火"
+    },
+    {
+     "label": "D",
+     "text": "旗鼓相當"
+    }
+   ],
+   "crop": "q47.webp",
+   "showCrop": false,
+   "cropGap": 18,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 48,
+   "page": 21,
+   "stem": "本文提及有關「黃巢之亂」的什麼事？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "黃巢最終的下場"
+    },
+    {
+     "label": "B",
+     "text": "朝廷剿匪的過程"
+    },
+    {
+     "label": "C",
+     "text": "黃巢發家致富的過程"
+    },
+    {
+     "label": "D",
+     "text": "百姓被民亂波及的程度"
+    }
+   ],
+   "crop": "q48.webp",
+   "showCrop": false,
+   "cropGap": 18,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 49,
+   "page": 21,
+   "stem": "若要將「後世並未以此戒鑑」一句插入文中，下列哪個位置最恰當？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "I"
+    },
+    {
+     "label": "B",
+     "text": "II"
+    },
+    {
+     "label": "C",
+     "text": "III"
+    },
+    {
+     "label": "D",
+     "text": "IV"
+    }
+   ],
+   "crop": "q49.webp",
+   "showCrop": false,
+   "cropGap": 18,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 50,
+   "page": 21,
+   "stem": "本文引了四句話，作者用哪一句話來評論「普天之下，莫非王土」 的思維？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "靠山吃山，靠海吃海"
+    },
+    {
+     "label": "B",
+     "text": "與民爭利，惟敗已矣"
+    },
+    {
+     "label": "C",
+     "text": "天下賦利，鹽利居半"
+    },
+    {
+     "label": "D",
+     "text": "以古為鏡，可知興替"
+    }
+   ],
+   "crop": "q50.webp",
+   "showCrop": false,
+   "cropGap": 24,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  }
+ ],
+ "audio": null,
+ "fullScript": null,
+ "optionCount": 4
+}

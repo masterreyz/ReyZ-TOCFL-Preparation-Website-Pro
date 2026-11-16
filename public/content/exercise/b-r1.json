@@ -1,0 +1,1591 @@
+{
+ "id": "b-r1",
+ "band": "b",
+ "skill": "reading",
+ "series": 1,
+ "title": "Band B Reading · Series 1",
+ "source": {
+  "folder": "3. TOCFL Band B/Reading",
+  "booklet": "1. TOCFL Reading Band B.pdf",
+  "answer": "1. TOCFL Reading Answer Band B.pdf",
+  "script": null
+ },
+ "timeMinutes": null,
+ "parts": [
+  {
+   "title": "一、選詞填空",
+   "subtitle": "",
+   "instructions": "說明：在這一部分，每一段短文有幾個空格，每個空格有四個選\n項，請選出正確的答案完成短文。",
+   "instructionsEn": "",
+   "page": 3,
+   "from": 1,
+   "to": 15,
+   "grouped": true
+  },
+  {
+   "title": "二、閱讀理解",
+   "subtitle": "",
+   "instructions": "說明：在這一部分，請閱讀材料或短文，並根據內容回答幾個問\n題。",
+   "instructionsEn": "",
+   "page": 7,
+   "from": 16,
+   "to": 50,
+   "grouped": true
+  }
+ ],
+ "questions": [
+  {
+   "n": 1,
+   "page": 4,
+   "stem": "",
+   "context": "（一）\n昨晚張太太的肚子很痛，感覺小孩快要生出來了，所以她 1 送進了醫院。張先生也 2 張太太到醫院去，他又高興又緊張，因為他就要 3 爸爸了。五個小時以後，小孩生出來了，是一個可愛的小女生。張先生和張太太 4 這個孩子想了一個名字，叫「張美樂」，\n5 她將來「美麗」又「快樂」。",
+   "options": [
+    {
+     "label": "A",
+     "text": "把"
+    },
+    {
+     "label": "B",
+     "text": "能"
+    },
+    {
+     "label": "C",
+     "text": "被"
+    },
+    {
+     "label": "D",
+     "text": "會"
+    }
+   ],
+   "crop": "q1.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 2,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "幫"
+    },
+    {
+     "label": "B",
+     "text": "害"
+    },
+    {
+     "label": "C",
+     "text": "陪"
+    },
+    {
+     "label": "D",
+     "text": "請"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 3,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "當"
+    },
+    {
+     "label": "B",
+     "text": "成"
+    },
+    {
+     "label": "C",
+     "text": "裝"
+    },
+    {
+     "label": "D",
+     "text": "弄"
+    }
+   ],
+   "crop": "q3.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 4,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "教"
+    },
+    {
+     "label": "B",
+     "text": "為"
+    },
+    {
+     "label": "C",
+     "text": "讓"
+    },
+    {
+     "label": "D",
+     "text": "養"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 5,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "覺得"
+    },
+    {
+     "label": "B",
+     "text": "要求"
+    },
+    {
+     "label": "C",
+     "text": "決定"
+    },
+    {
+     "label": "D",
+     "text": "希望"
+    }
+   ],
+   "crop": "q5.webp",
+   "showCrop": false,
+   "cropGap": 231,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 6,
+   "page": 5,
+   "stem": "",
+   "context": "（二）\n小陳和小李是大學 6 的好朋友，大學畢業以後，他們已經\n7 年沒見面了。有一次小陳 8 想起和小李一起讀書的事，他很想知道小李現在過得怎麼樣，所以他找出小李以前寄給他的信，\n9 著信上的地址去找小李。可是小李的鄰居說小李一家人早就搬家了，小陳很難過，因為他 10 以後都見不到小李了。",
+   "options": [
+    {
+     "label": "A",
+     "text": "時代"
+    },
+    {
+     "label": "B",
+     "text": "時間"
+    },
+    {
+     "label": "C",
+     "text": "年級"
+    },
+    {
+     "label": "D",
+     "text": "年紀"
+    }
+   ],
+   "crop": "q6.webp",
+   "showCrop": false,
+   "cropGap": 27,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g6"
+  },
+  {
+   "n": 7,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "多久"
+    },
+    {
+     "label": "B",
+     "text": "好幾"
+    },
+    {
+     "label": "C",
+     "text": "很長"
+    },
+    {
+     "label": "D",
+     "text": "很久"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g6"
+  },
+  {
+   "n": 8,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "忽然"
+    },
+    {
+     "label": "B",
+     "text": "總是"
+    },
+    {
+     "label": "C",
+     "text": "隨時"
+    },
+    {
+     "label": "D",
+     "text": "從來"
+    }
+   ],
+   "crop": "q8.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g6"
+  },
+  {
+   "n": 9,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "跟"
+    },
+    {
+     "label": "B",
+     "text": "接"
+    },
+    {
+     "label": "C",
+     "text": "寫"
+    },
+    {
+     "label": "D",
+     "text": "照"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g6"
+  },
+  {
+   "n": 10,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "能夠"
+    },
+    {
+     "label": "B",
+     "text": "只有"
+    },
+    {
+     "label": "C",
+     "text": "可能"
+    },
+    {
+     "label": "D",
+     "text": "要是"
+    }
+   ],
+   "crop": "q10.webp",
+   "showCrop": false,
+   "cropGap": 229,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": "g6"
+  },
+  {
+   "n": 11,
+   "page": 6,
+   "stem": "",
+   "context": "（三）\n王小姐喜歡跳舞，她認為讓身體隨著音樂擺動不是一件困難的事，所以 11 是老人還是小孩， 11 可以將跳舞當作規律的運動。王小姐平時的工作壓力很大，她利用跳舞， 12 自己的壓力，忘掉工作上的不愉快。 13 三年的跳舞運動，她的身體更加健康，她還參加舞蹈比賽， 14 冠軍。她熱愛跳舞， 15 工作再怎麼忙，她還是會到舞蹈教室報到。",
+   "options": [
+    {
+     "label": "A",
+     "text": "不論…都…"
+    },
+    {
+     "label": "B",
+     "text": "不但…也…"
+    },
+    {
+     "label": "C",
+     "text": "雖然…但是…"
+    },
+    {
+     "label": "D",
+     "text": "由於…因此…"
+    }
+   ],
+   "crop": "q11.webp",
+   "showCrop": false,
+   "cropGap": 28,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g11"
+  },
+  {
+   "n": 12,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "防止"
+    },
+    {
+     "label": "B",
+     "text": "縮短"
+    },
+    {
+     "label": "C",
+     "text": "減輕"
+    },
+    {
+     "label": "D",
+     "text": "缺少"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": "g11"
+  },
+  {
+   "n": 13,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "根據"
+    },
+    {
+     "label": "B",
+     "text": "經過"
+    },
+    {
+     "label": "C",
+     "text": "按照"
+    },
+    {
+     "label": "D",
+     "text": "至於"
+    }
+   ],
+   "crop": "q13.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g11"
+  },
+  {
+   "n": 14,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "得到"
+    },
+    {
+     "label": "B",
+     "text": "受到"
+    },
+    {
+     "label": "C",
+     "text": "接到"
+    },
+    {
+     "label": "D",
+     "text": "收到"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g11"
+  },
+  {
+   "n": 15,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "否則"
+    },
+    {
+     "label": "B",
+     "text": "另外"
+    },
+    {
+     "label": "C",
+     "text": "免得"
+    },
+    {
+     "label": "D",
+     "text": "就算"
+    }
+   ],
+   "crop": "q15.webp",
+   "showCrop": false,
+   "cropGap": 209,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g11"
+  },
+  {
+   "n": 16,
+   "page": 8,
+   "stem": "下面哪一個是對的？",
+   "context": "（一）\n上星期小明第一次到韓國旅遊。他在那兒玩了五天四夜，其中一天，他去了韓國最高的山，那時候，山上下起了雪，他覺得這樣的風景真美。大部分的時間，他坐電車到幾個大城市去參觀有名的地方，也吃了不少味道特別的韓國菜。小明覺得韓國很好玩，他打算學習韓國的語言，以後有機會的話，他想到韓國讀書。",
+   "options": [
+    {
+     "label": "A",
+     "text": "小明已經去過韓國兩次了"
+    },
+    {
+     "label": "B",
+     "text": "小明想學習怎麼做韓國菜"
+    },
+    {
+     "label": "C",
+     "text": "小明覺得韓國不怎麼好玩"
+    },
+    {
+     "label": "D",
+     "text": "小明在韓國住了四個晚上"
+    }
+   ],
+   "crop": "q16.webp",
+   "showCrop": false,
+   "cropGap": 106,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g16"
+  },
+  {
+   "n": 17,
+   "page": 8,
+   "stem": "在這段短文裡，母親面對孩子的不安時，態度怎麼樣？",
+   "context": "（二）\n孩子，這是你改搭校車回家的第一天。媽媽沒忘記你早上出門前，不停地告訴我搭校車是件很恐怖的事，那語氣裡充滿了面對不確定的不安，更讓媽媽覺得不忍心。然而我只是笑著看你，聽你把所有預期中可怕的後果全部說完，然後篤定地告訴你：「這是你人生的另一個開始，你要學著去面對你自己的人生！」",
+   "options": [
+    {
+     "label": "A",
+     "text": "既害怕又不忍心"
+    },
+    {
+     "label": "B",
+     "text": "不知道該怎麼辦"
+    },
+    {
+     "label": "C",
+     "text": "覺得孩子很可憐"
+    },
+    {
+     "label": "D",
+     "text": "鼓勵孩子自己解決"
+    }
+   ],
+   "crop": "q17.webp",
+   "showCrop": false,
+   "cropGap": 126,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g17"
+  },
+  {
+   "n": 18,
+   "page": 9,
+   "stem": "「旅館主人」講的是什麼故事？",
+   "context": "（三）\n今天下午小英在圖書館看了一部電影，這部電影叫做「旅館主人」，講的是一個人怎麼成功的故事。電影中的人本來是一個只有小學畢業、沒有工作、身上只剩一百塊錢的人，後來卻變成一家旅館的老闆。旅館的生意非常好，所以他變得很有錢。這原來是一本小說的故事，因為這本小說寫得很棒，就被拍成電影了。小英覺得這部電影拍得很好，也聽說小說寫得不錯，之後想看看小說和電影的故事內容是不是一樣的。",
+   "options": [
+    {
+     "label": "A",
+     "text": "一個旅館老闆變成沒有工作的人"
+    },
+    {
+     "label": "B",
+     "text": "一個只有小學畢業的人，變成旅館老闆"
+    },
+    {
+     "label": "C",
+     "text": "一個沒有工作的人，變成旅館的服務生"
+    },
+    {
+     "label": "D",
+     "text": "一個本來很有錢，後來身上只剩一百塊錢的人"
+    }
+   ],
+   "crop": "q18.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 19,
+   "page": 9,
+   "stem": "下面哪一個是錯的？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "小英還沒看過「旅館主人」的小說"
+    },
+    {
+     "label": "B",
+     "text": "「旅館主人」是小英在圖書館看的電影"
+    },
+    {
+     "label": "C",
+     "text": "小英認為「旅館主人」這部電影拍得不錯"
+    },
+    {
+     "label": "D",
+     "text": "小英覺得「旅館主人」的小說和電影沒什麼不同"
+    }
+   ],
+   "crop": "q19.webp",
+   "showCrop": false,
+   "cropGap": 325,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 20,
+   "page": 10,
+   "stem": "這段文章主要在說什麼？",
+   "context": "（四）\n在我的國家，每年都有颱風，颱風有的大，有的小。如果來的是大颱風，對我們的生活就有嚴重的影響。今年八月有個大颱風，下大雨、吹大風，火車沒辦法開，飛機停飛，所有人不上班、不上課，大部分的人不敢出去，只能在家看颱風的新聞。好不容易等到颱風離開，很多屋子卻都進水了，許多樹、房子被吹倒了，連橋也被大水沖壞了。聽說這個週末又有一個颱風要來，真希望它是個小颱風。",
+   "options": [
+    {
+     "label": "A",
+     "text": "颱風季節都是在八月"
+    },
+    {
+     "label": "B",
+     "text": "大颱風對人們生活的影響"
+    },
+    {
+     "label": "C",
+     "text": "如果颱風來，要準備的東西"
+    },
+    {
+     "label": "D",
+     "text": "如果小颱風來，會發生的事情"
+    }
+   ],
+   "crop": "q20.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g20"
+  },
+  {
+   "n": 21,
+   "page": 10,
+   "stem": "下面哪一個是錯的？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "今年八月的颱風雨下得很大"
+    },
+    {
+     "label": "B",
+     "text": "大颱風來的時候，火車停開"
+    },
+    {
+     "label": "C",
+     "text": "因為這個大颱風，許多房子倒了"
+    },
+    {
+     "label": "D",
+     "text": "雖然大颱風來，還是要繼續上班"
+    }
+   ],
+   "crop": "q21.webp",
+   "showCrop": false,
+   "cropGap": 345,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g20"
+  },
+  {
+   "n": 22,
+   "page": 11,
+   "stem": "這篇文章主要在說什麼？",
+   "context": "（五）\n大部分的商品廣告不會告訴你事實。相對地，他們想要為你創造出一個形象，例如快樂的家庭、令人興奮的愛情、美麗的身材等。廣告會針對不同的年齡層、不同的對象，設計出不同的廣告內容，例如電腦廣告呈現的是事業成功的人，慢跑鞋廣告呈現的是強壯而健康的運動員。「形象」通常比任何和產品有關的資訊還要重要，例如啤酒廣告絕不會呈現出酒醉駕駛發生車禍的情形，相反地，廣告中呈現的是人們歡樂的景象。因此廣告希望傳遞給我們的訊息是：試試我們的產品，你就能擁有你想要的形象。",
+   "options": [
+    {
+     "label": "A",
+     "text": "廣告說的都是事實"
+    },
+    {
+     "label": "B",
+     "text": "拍廣告的費用很高"
+    },
+    {
+     "label": "C",
+     "text": "廣告能創造美好形象"
+    },
+    {
+     "label": "D",
+     "text": "每個商品都需要廣告"
+    }
+   ],
+   "crop": "q22.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g22"
+  },
+  {
+   "n": 23,
+   "page": 11,
+   "stem": "根據這篇文章，下面哪一個是對的？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "產品資訊比形象更重要"
+    },
+    {
+     "label": "B",
+     "text": "廣告內容沒有年紀的分別"
+    },
+    {
+     "label": "C",
+     "text": "廣告會針對特定對象設計內容"
+    },
+    {
+     "label": "D",
+     "text": "廣告把一切使用後的結果告訴你"
+    }
+   ],
+   "crop": "q23.webp",
+   "showCrop": false,
+   "cropGap": 313,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g22"
+  },
+  {
+   "n": 24,
+   "page": 12,
+   "stem": "關於這四個廣告，下面哪一個是對的？",
+   "context": "（六）",
+   "options": [
+    {
+     "label": "A",
+     "text": "這四個廣告都是賣電腦的"
+    },
+    {
+     "label": "B",
+     "text": "小陳賣的電腦用了一年了"
+    },
+    {
+     "label": "C",
+     "text": "李小姐的電腦要賣 9500 元"
+    },
+    {
+     "label": "D",
+     "text": "早上九點可以打電話給小陳"
+    }
+   ],
+   "crop": "q24.webp",
+   "showCrop": true,
+   "cropGap": 420,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g24"
+  },
+  {
+   "n": 25,
+   "page": 12,
+   "stem": "如果你想要買新電腦，應該找誰？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "小陳"
+    },
+    {
+     "label": "B",
+     "text": "李小姐"
+    },
+    {
+     "label": "C",
+     "text": "王先生"
+    },
+    {
+     "label": "D",
+     "text": "林先生"
+    }
+   ],
+   "crop": "q25.webp",
+   "showCrop": true,
+   "cropGap": 79,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g24"
+  },
+  {
+   "n": 26,
+   "page": 13,
+   "stem": "這封信說了小美的什麼事？",
+   "context": "（七）",
+   "options": [
+    {
+     "label": "A",
+     "text": "她決定出國念書"
+    },
+    {
+     "label": "B",
+     "text": "她來美國已經兩年了"
+    },
+    {
+     "label": "C",
+     "text": "她男朋友找到了新工作"
+    },
+    {
+     "label": "D",
+     "text": "下週五晚上，她的學校有活動"
+    }
+   ],
+   "crop": "q26.webp",
+   "showCrop": true,
+   "cropGap": 478,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 27,
+   "page": 13,
+   "stem": "關於這封信，下面哪一個不對？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "小美本來打算出國念書"
+    },
+    {
+     "label": "B",
+     "text": "明真希望小美參加學校晚會"
+    },
+    {
+     "label": "C",
+     "text": "明真先收到了一封小美寄來的信"
+    },
+    {
+     "label": "D",
+     "text": "小美想知道大忠的工作做得好不好"
+    }
+   ],
+   "crop": "q27.webp",
+   "showCrop": false,
+   "cropGap": 15,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 28,
+   "page": 14,
+   "stem": "這是心美的記事本，下面哪一個不對？",
+   "context": "（八）",
+   "options": [
+    {
+     "label": "A",
+     "text": "心美星期四有會議"
+    },
+    {
+     "label": "B",
+     "text": "心美週末要看電影"
+    },
+    {
+     "label": "C",
+     "text": "心美星期二上數學課"
+    },
+    {
+     "label": "D",
+     "text": "心美打算送禮物給小英"
+    }
+   ],
+   "crop": "q28.webp",
+   "showCrop": true,
+   "cropGap": 466,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g28"
+  },
+  {
+   "n": 29,
+   "page": 14,
+   "stem": "心美哪幾天要上班？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "星期日和星期一"
+    },
+    {
+     "label": "B",
+     "text": "星期一和星期二"
+    },
+    {
+     "label": "C",
+     "text": "星期四和星期五"
+    },
+    {
+     "label": "D",
+     "text": "星期五和星期一"
+    }
+   ],
+   "crop": "q29.webp",
+   "showCrop": false,
+   "cropGap": 28,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g28"
+  },
+  {
+   "n": 30,
+   "page": 15,
+   "stem": "這個自助加油機要怎麼使用？",
+   "context": "（九）",
+   "options": [
+    {
+     "label": "A",
+     "text": "拿到發票以後再付錢"
+    },
+    {
+     "label": "B",
+     "text": "加完油以後，才能拿回信用卡"
+    },
+    {
+     "label": "C",
+     "text": "當機器有問題的時候，按「F1」"
+    },
+    {
+     "label": "D",
+     "text": "油槍放入油箱後，再按「開始」"
+    }
+   ],
+   "crop": "q30.webp",
+   "showCrop": true,
+   "cropGap": 458,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g30"
+  },
+  {
+   "n": 31,
+   "page": 15,
+   "stem": "客人使用這個機器的時候，可以做哪件事？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "坐在車裡讓人服務"
+    },
+    {
+     "label": "B",
+     "text": "找服務員解決問題"
+    },
+    {
+     "label": "C",
+     "text": "讓 15 歲的學生使用"
+    },
+    {
+     "label": "D",
+     "text": "一邊打手機，一邊加油"
+    }
+   ],
+   "crop": "q31.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g30"
+  },
+  {
+   "n": 32,
+   "page": 16,
+   "stem": "關於這個產品，下面哪一個是對的？",
+   "context": "（十）",
+   "options": [
+    {
+     "label": "A",
+     "text": "是在台北市製造的"
+    },
+    {
+     "label": "B",
+     "text": "打開後不必放進冰箱"
+    },
+    {
+     "label": "C",
+     "text": "不能放在陽光照得到的地方"
+    },
+    {
+     "label": "D",
+     "text": "放到 2010 年 1 月 1 日就過期了"
+    }
+   ],
+   "crop": "q32.webp",
+   "showCrop": true,
+   "cropGap": 321,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g32"
+  },
+  {
+   "n": 33,
+   "page": 16,
+   "stem": "根據說明，如果覺得這個產品吃起來味道怪怪的，該怎麼做？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "寫信給這家公司"
+    },
+    {
+     "label": "B",
+     "text": "打電話給這家公司"
+    },
+    {
+     "label": "C",
+     "text": "把產品寄給這家公司"
+    },
+    {
+     "label": "D",
+     "text": "請這家公司來收這個產品"
+    }
+   ],
+   "crop": "q33.webp",
+   "showCrop": true,
+   "cropGap": 161,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g32"
+  },
+  {
+   "n": 34,
+   "page": 17,
+   "stem": "下面哪一個是對的？",
+   "context": "（十一）",
+   "options": [
+    {
+     "label": "A",
+     "text": "大衛想要一個空房間"
+    },
+    {
+     "label": "B",
+     "text": "這家飯店只有兩個空房間"
+    },
+    {
+     "label": "C",
+     "text": "這家飯店還不知道大衛的決定"
+    },
+    {
+     "label": "D",
+     "text": "兩個空房間一個晚上要 3200 元"
+    }
+   ],
+   "crop": "q34.webp",
+   "showCrop": true,
+   "cropGap": 441,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g34"
+  },
+  {
+   "n": 35,
+   "page": 17,
+   "stem": "如果大衛想要住這家飯店，他可以在什麼時候打電話給飯店？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "12/21 早上八點"
+    },
+    {
+     "label": "B",
+     "text": "12/21 晚上十點"
+    },
+    {
+     "label": "C",
+     "text": "12/22 早上七點"
+    },
+    {
+     "label": "D",
+     "text": "12/22 晚上九點"
+    }
+   ],
+   "crop": "q35.webp",
+   "showCrop": true,
+   "cropGap": 58,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g34"
+  },
+  {
+   "n": 36,
+   "page": 18,
+   "stem": "下面哪一種作品符合這個報社的需要？",
+   "context": "（十二）\n你有什麼有趣的經歷可以告訴大家，和大家\n分享的？請寫成三百字長度的故事寄來本報\n社。必須是未經發表過的真實故事，內容必須是\n溫馨的、勵志的或是與各地風土人情有關的。來\n稿請附上真實姓名、地址、電話（或傳真號碼）。\n故事一經本社採用登出，每篇稿酬三千元，版權\n歸本社所有，若不獲採用，恕不退還。",
+   "options": [
+    {
+     "label": "A",
+     "text": "長篇小說"
+    },
+    {
+     "label": "B",
+     "text": "本地名人介紹"
+    },
+    {
+     "label": "C",
+     "text": "歷史電影的劇本"
+    },
+    {
+     "label": "D",
+     "text": "自己設計的笑話"
+    }
+   ],
+   "crop": "q36.webp",
+   "showCrop": false,
+   "cropGap": 69,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g36"
+  },
+  {
+   "n": 37,
+   "page": 18,
+   "stem": "根據這段說明，下面哪一個正確？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "故事可以自編"
+    },
+    {
+     "label": "B",
+     "text": "故事愈長，稿酬愈多"
+    },
+    {
+     "label": "C",
+     "text": "如果被採用，版權不是作者的"
+    },
+    {
+     "label": "D",
+     "text": "如果沒被採用，就會退還給作者"
+    }
+   ],
+   "crop": "q37.webp",
+   "showCrop": false,
+   "cropGap": 190,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g36"
+  },
+  {
+   "n": 38,
+   "page": 19,
+   "stem": "這段文章主要在說什麼？",
+   "context": "（十三）\n信用卡雖然很方便，但是不小心的話，一下子就會花掉很多錢，所以現在還不了錢的人越來越多。像是奇美，她用信用卡買了太多東西，結果沒辦法還錢，所以必須同時做三份工作，把賺來的錢全部還給銀行。會出現這樣的問題，主要是因為使用信用卡的人常常沒什麼錢卻買很多東西，而且還會不清楚自己花了多少錢；另一個原因是，現在的銀行對使用者的要求越來越低，連沒有工作的學生也能申請信用卡，對還錢的方式一開始也說得不清楚。結果這張給人方便的卡片也給人們帶來了很大的麻煩。",
+   "options": [
+    {
+     "label": "A",
+     "text": "什麼人可以使用信用卡"
+    },
+    {
+     "label": "B",
+     "text": "怎麼使用信用卡買東西"
+    },
+    {
+     "label": "C",
+     "text": "使用信用卡後怎麼還錢"
+    },
+    {
+     "label": "D",
+     "text": "使用信用卡後發生的問題"
+    }
+   ],
+   "crop": "q38.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g38"
+  },
+  {
+   "n": 39,
+   "page": 19,
+   "stem": "奇美為什麼要做三份工作？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "她還想買更多東西"
+    },
+    {
+     "label": "B",
+     "text": "她要買很貴的東西"
+    },
+    {
+     "label": "C",
+     "text": "她必須還錢給銀行"
+    },
+    {
+     "label": "D",
+     "text": "她想多放點錢在銀行"
+    }
+   ],
+   "crop": "q39.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g38"
+  },
+  {
+   "n": 40,
+   "page": 19,
+   "stem": "還不了信用卡費用的原因有很多，下面哪一個不是這段文章提到 的原因？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "有些人有太多張信用卡"
+    },
+    {
+     "label": "B",
+     "text": "銀行沒有把還錢方式說清楚"
+    },
+    {
+     "label": "C",
+     "text": "有些人沒注意自己花了很多錢"
+    },
+    {
+     "label": "D",
+     "text": "有些人買了太多東西，錢卻不夠"
+    }
+   ],
+   "crop": "q40.webp",
+   "showCrop": false,
+   "cropGap": 165,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g38"
+  },
+  {
+   "n": 41,
+   "page": 20,
+   "stem": "為什麼柯林斯夫婦不換房間？",
+   "context": "（十四）\n柯林斯夫婦是美國人，有一次他們去中國旅遊，住在一間老舊的旅館。到達旅館的時候，服務人員對他們說：「我必須告訴你們，你們要住進去的那個房間裡有喜歡說英文的中國鬼。」雖然柯林斯夫婦覺得很可怕，但是因為旅館的所有房間都被訂了，想要換旅館也太晚了，於是，他們仍然住進了那個房間。\n睡到半夜的時候，柯林斯先生聽到奇怪的聲音。他把在睡夢中的太太搖醒，對她說：「那個中國鬼出現了。既然妳的中文比我好，妳去請他離開好不好？」他太太回答：「好吧！」柯林斯太太便起床看看那個中國鬼在哪裡。幾分鐘之後，她回到丈夫身邊說：「那個中國鬼不喜歡跟我講中文，倒是比較想跟你練習英文，他要你去跟他說話。」",
+   "options": [
+    {
+     "label": "A",
+     "text": "旅館沒有空房了"
+    },
+    {
+     "label": "B",
+     "text": "他們覺得換房間麻煩"
+    },
+    {
+     "label": "C",
+     "text": "他們想知道鬼的樣子"
+    },
+    {
+     "label": "D",
+     "text": "原本的房間非常舒服"
+    }
+   ],
+   "crop": "q41.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g41"
+  },
+  {
+   "n": 42,
+   "page": 20,
+   "stem": "為什麼柯林斯先生把太太叫醒？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "鬼來找他說話"
+    },
+    {
+     "label": "B",
+     "text": "他覺得鬼來了"
+    },
+    {
+     "label": "C",
+     "text": "服務生來找他們"
+    },
+    {
+     "label": "D",
+     "text": "他想和太太聊天"
+    }
+   ],
+   "crop": "q42.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g41"
+  },
+  {
+   "n": 43,
+   "page": 20,
+   "stem": "下面哪一個是錯的？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "鬼想和柯林斯太太說英文"
+    },
+    {
+     "label": "B",
+     "text": "柯林斯先生感覺到鬼的存在"
+    },
+    {
+     "label": "C",
+     "text": "柯林斯夫婦住進有鬼的房間"
+    },
+    {
+     "label": "D",
+     "text": "服務員告訴柯林斯夫婦房間裡有鬼"
+    }
+   ],
+   "crop": "q43.webp",
+   "showCrop": false,
+   "cropGap": 105,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g41"
+  },
+  {
+   "n": 44,
+   "page": 21,
+   "stem": "這篇文章主要在說什麼？",
+   "context": "（十五）\n許多專家都研究夢，他們相信如果我們了解自己的夢，就能了解自我。夢充滿了有趣的資訊，但是我們必須正視我們所做的夢。簡單地說，夢讓我們想起白天所錯過的事物，有時候我們太忙而記不得許多在工作上或生活中所發生的事，做夢時，我們就會用不同的方式記憶這些事。比方說，人們夢見在重要的約會遲到，這可能是在提醒你某個約會即將到來，而你卻忘了記下來。另外，有些人夢見牙齒掉了，這可能是因為他們開始感覺自己年紀越來越老。\n就深層的一面來說，夢可以告訴我們自己對於人與人之間關係的真正看法。舉個例子來說，一位年輕婦女相信她的婚姻是幸福的，但是晚上卻夢到自己殺了丈夫。這個夢顯示，她得和丈夫溝通了，她必須要把對丈夫的不滿及憤怒告訴他。現實生活中，她的先生堅持要她待在家裡而不讓她去找工作，這件事的確讓這位婦女心裡不舒服，所以她才做了可怕的夢。",
+   "options": [
+    {
+     "label": "A",
+     "text": "夢的分類方式"
+    },
+    {
+     "label": "B",
+     "text": "做夢表示人睡不好"
+    },
+    {
+     "label": "C",
+     "text": "影響做夢的大腦器官"
+    },
+    {
+     "label": "D",
+     "text": "夢可以幫助人們了解自己"
+    }
+   ],
+   "crop": "q44.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g44"
+  },
+  {
+   "n": 45,
+   "page": 21,
+   "stem": "根據第一段，如果一個人夢到自己約會遲到了，可能表示什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "他沒有任何約會"
+    },
+    {
+     "label": "B",
+     "text": "他錯過了一次約會"
+    },
+    {
+     "label": "C",
+     "text": "他不想去這個約會"
+    },
+    {
+     "label": "D",
+     "text": "他忘記有個約會快到了"
+    }
+   ],
+   "crop": "q45.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g44"
+  },
+  {
+   "n": 46,
+   "page": 21,
+   "stem": "第二段提到一位婦女所做的夢，作者認為這個夢有什麼意義？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "她生丈夫的氣"
+    },
+    {
+     "label": "B",
+     "text": "她的丈夫死了"
+    },
+    {
+     "label": "C",
+     "text": "她想和丈夫離婚"
+    },
+    {
+     "label": "D",
+     "text": "她和丈夫過得很快樂"
+    }
+   ],
+   "crop": "q46.webp",
+   "showCrop": false,
+   "cropGap": 64,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g44"
+  },
+  {
+   "n": 47,
+   "page": 23,
+   "stem": "這篇文章主要說明哪件事？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "如何消除煩惱"
+    },
+    {
+     "label": "B",
+     "text": "人有哪些煩惱"
+    },
+    {
+     "label": "C",
+     "text": "煩惱對健康的影響"
+    },
+    {
+     "label": "D",
+     "text": "容易產生煩惱的原因"
+    }
+   ],
+   "crop": "q47.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g44"
+  },
+  {
+   "n": 48,
+   "page": 23,
+   "stem": "作者認為煩惱是如何引起的？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "與壞朋友來往"
+    },
+    {
+     "label": "B",
+     "text": "太在乎每件事"
+    },
+    {
+     "label": "C",
+     "text": "受小時候的環境影響"
+    },
+    {
+     "label": "D",
+     "text": "社會競爭的壓力太大"
+    }
+   ],
+   "crop": "q48.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g44"
+  },
+  {
+   "n": 49,
+   "page": 23,
+   "stem": "關於消除煩惱的方法，哪一項不是這篇文章提到的？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "找朋友一起喝酒"
+    },
+    {
+     "label": "B",
+     "text": "丟掉灰心的想法"
+    },
+    {
+     "label": "C",
+     "text": "參加戶外的活動"
+    },
+    {
+     "label": "D",
+     "text": "保持生活的規律"
+    }
+   ],
+   "crop": "q49.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g44"
+  },
+  {
+   "n": 50,
+   "page": 23,
+   "stem": "作者最後說了什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "幫助別人等於幫助自己"
+    },
+    {
+     "label": "B",
+     "text": "隨時都要做好預防災害的準備"
+    },
+    {
+     "label": "C",
+     "text": "人們無法預先知道將發生什麼事"
+    },
+    {
+     "label": "D",
+     "text": "無論發生任何事情都有方法解決"
+    }
+   ],
+   "crop": "q50.webp",
+   "showCrop": false,
+   "cropGap": 274,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g44"
+  }
+ ],
+ "audio": null,
+ "fullScript": null,
+ "optionCount": 4
+}

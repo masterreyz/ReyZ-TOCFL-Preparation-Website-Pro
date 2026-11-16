@@ -1,0 +1,703 @@
+{
+ "id": "a2-wo",
+ "level": "a2",
+ "kind": "workbook",
+ "label": "Workbook 作業本",
+ "pages": 128,
+ "source": {
+  "folder": "2. 第二本 (A2)",
+  "file": "TOCFL A2 Workbook.pdf",
+  "audioDir": "2. 第二本 (A2)/TOCFL A2 Workbook Audio"
+ },
+ "frontMatter": {
+  "start": 1,
+  "end": 6
+ },
+ "backMatter": null,
+ "lessons": [
+  {
+   "n": 1,
+   "start": 7,
+   "end": 10,
+   "headerPage": 7,
+   "detection": {
+    "header": 7,
+    "opener": null,
+    "audioMarker": null
+   },
+   "titleOcr": "請問，到師大怎麼走？",
+   "titleVerified": true,
+   "id": "a2-wo-l01",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "01-1.mp3",
+     "lesson": 1,
+     "label": "01-01",
+     "page": null,
+     "src": "study/a2-wo/01-1.mp3"
+    },
+    {
+     "file": "01-2.mp3",
+     "lesson": 1,
+     "label": "01-02",
+     "page": null,
+     "src": "study/a2-wo/01-2.mp3"
+    },
+    {
+     "file": "01-3.mp3",
+     "lesson": 1,
+     "label": "01-03",
+     "page": null,
+     "src": "study/a2-wo/01-3.mp3"
+    },
+    {
+     "file": "01-4.mp3",
+     "lesson": 1,
+     "label": "01-04",
+     "page": null,
+     "src": "study/a2-wo/01-4.mp3"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 11,
+   "end": 20,
+   "headerPage": null,
+   "detection": {
+    "header": null,
+    "opener": null,
+    "audioMarker": 11
+   },
+   "titleOcr": "還是坐捷運吧！",
+   "titleVerified": true,
+   "id": "a2-wo-l02",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "02-1.mp3",
+     "lesson": 2,
+     "label": "02-01",
+     "page": 11,
+     "src": "study/a2-wo/02-1.mp3"
+    },
+    {
+     "file": "02-2.mp3",
+     "lesson": 2,
+     "label": "02-02",
+     "page": 11,
+     "src": "study/a2-wo/02-2.mp3"
+    },
+    {
+     "file": "02-3.mp3",
+     "lesson": 2,
+     "label": "02-03",
+     "page": 12,
+     "src": "study/a2-wo/02-3.mp3"
+    },
+    {
+     "file": "02-4.mp3",
+     "lesson": 2,
+     "label": "02-04",
+     "page": 12,
+     "src": "study/a2-wo/02-4.mp3"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 21,
+   "end": 28,
+   "headerPage": 23,
+   "detection": {
+    "header": 23,
+    "opener": null,
+    "audioMarker": 21
+   },
+   "titleOcr": "你的中文進步了！",
+   "titleVerified": true,
+   "id": "a2-wo-l03",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "03-1.mp3",
+     "lesson": 3,
+     "label": "03-01",
+     "page": 21,
+     "src": "study/a2-wo/03-1.mp3"
+    },
+    {
+     "file": "03-2.mp3",
+     "lesson": 3,
+     "label": "03-02",
+     "page": 21,
+     "src": "study/a2-wo/03-2.mp3"
+    },
+    {
+     "file": "03-3.mp3",
+     "lesson": 3,
+     "label": "03-03",
+     "page": 22,
+     "src": "study/a2-wo/03-3.mp3"
+    },
+    {
+     "file": "03-4.mp3",
+     "lesson": 3,
+     "label": "03-04",
+     "page": 22,
+     "src": "study/a2-wo/03-4.mp3"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 29,
+   "end": 36,
+   "headerPage": 31,
+   "detection": {
+    "header": 31,
+    "opener": null,
+    "audioMarker": 29
+   },
+   "titleOcr": "我打工，我教法文",
+   "titleVerified": true,
+   "id": "a2-wo-l04",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "04-1.mp3",
+     "lesson": 4,
+     "label": "04-01",
+     "page": 29,
+     "src": "study/a2-wo/04-1.mp3"
+    },
+    {
+     "file": "04-2.mp3",
+     "lesson": 4,
+     "label": "04-02",
+     "page": 29,
+     "src": "study/a2-wo/04-2.mp3"
+    },
+    {
+     "file": "04-3.mp3",
+     "lesson": 4,
+     "label": "04-03",
+     "page": 30,
+     "src": "study/a2-wo/04-3.mp3"
+    },
+    {
+     "file": "04-4.mp3",
+     "lesson": 4,
+     "label": "04-04",
+     "page": 30,
+     "src": "study/a2-wo/04-4.mp3"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 37,
+   "end": 44,
+   "headerPage": 39,
+   "detection": {
+    "header": 39,
+    "opener": null,
+    "audioMarker": 37
+   },
+   "titleOcr": "吃喜酒",
+   "titleVerified": true,
+   "id": "a2-wo-l05",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "05-1.mp3",
+     "lesson": 5,
+     "label": "05-01",
+     "page": 37,
+     "src": "study/a2-wo/05-1.mp3"
+    },
+    {
+     "file": "05-2.mp3",
+     "lesson": 5,
+     "label": "05-02",
+     "page": 37,
+     "src": "study/a2-wo/05-2.mp3"
+    },
+    {
+     "file": "05-3.mp3",
+     "lesson": 5,
+     "label": "05-03",
+     "page": null,
+     "src": "study/a2-wo/05-3.mp3"
+    },
+    {
+     "file": "05-4.mp3",
+     "lesson": 5,
+     "label": "05-04",
+     "page": 38,
+     "src": "study/a2-wo/05-4.mp3"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 45,
+   "end": 52,
+   "headerPage": 47,
+   "detection": {
+    "header": 47,
+    "opener": null,
+    "audioMarker": 45
+   },
+   "titleOcr": "我打算搬到學校附近",
+   "titleVerified": true,
+   "id": "a2-wo-l06",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "06-1.mp3",
+     "lesson": 6,
+     "label": "06-01",
+     "page": 45,
+     "src": "study/a2-wo/06-1.mp3"
+    },
+    {
+     "file": "06-2.mp3",
+     "lesson": 6,
+     "label": "06-02",
+     "page": 45,
+     "src": "study/a2-wo/06-2.mp3"
+    },
+    {
+     "file": "06-3.mp3",
+     "lesson": 6,
+     "label": "06-03",
+     "page": 46,
+     "src": "study/a2-wo/06-3.mp3"
+    },
+    {
+     "file": "06-4.mp3",
+     "lesson": 6,
+     "label": "06-04",
+     "page": 46,
+     "src": "study/a2-wo/06-4.mp3"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 53,
+   "end": 60,
+   "headerPage": 55,
+   "detection": {
+    "header": 55,
+    "opener": null,
+    "audioMarker": 53
+   },
+   "titleOcr": "垃圾車來了！",
+   "titleVerified": true,
+   "id": "a2-wo-l07",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "07-1.mp3",
+     "lesson": 7,
+     "label": "07-01",
+     "page": 53,
+     "src": "study/a2-wo/07-1.mp3"
+    },
+    {
+     "file": "07-2.mp3",
+     "lesson": 7,
+     "label": "07-02",
+     "page": 53,
+     "src": "study/a2-wo/07-2.mp3"
+    },
+    {
+     "file": "07-3.mp3",
+     "lesson": 7,
+     "label": "07-03",
+     "page": 54,
+     "src": "study/a2-wo/07-3.mp3"
+    },
+    {
+     "file": "07-4.mp3",
+     "lesson": 7,
+     "label": "07-04",
+     "page": 54,
+     "src": "study/a2-wo/07-4.mp3"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 61,
+   "end": 68,
+   "headerPage": 67,
+   "detection": {
+    "header": 67,
+    "opener": null,
+    "audioMarker": 61
+   },
+   "titleOcr": "學功夫",
+   "titleVerified": true,
+   "id": "a2-wo-l08",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "08-1.mp3",
+     "lesson": 8,
+     "label": "08-01",
+     "page": 61,
+     "src": "study/a2-wo/08-1.mp3"
+    },
+    {
+     "file": "08-2.mp3",
+     "lesson": 8,
+     "label": "08-02",
+     "page": 61,
+     "src": "study/a2-wo/08-2.mp3"
+    },
+    {
+     "file": "08-3.mp3",
+     "lesson": 8,
+     "label": "08-03",
+     "page": null,
+     "src": "study/a2-wo/08-3.mp3"
+    },
+    {
+     "file": "08-4.mp3",
+     "lesson": 8,
+     "label": "08-04",
+     "page": 62,
+     "src": "study/a2-wo/08-4.mp3"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "start": 69,
+   "end": 76,
+   "headerPage": 73,
+   "detection": {
+    "header": 73,
+    "opener": null,
+    "audioMarker": 69
+   },
+   "titleOcr": "那個城市好漂亮",
+   "titleVerified": true,
+   "id": "a2-wo-l09",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "09-1.mp3",
+     "lesson": 9,
+     "label": "09-01",
+     "page": 69,
+     "src": "study/a2-wo/09-1.mp3"
+    },
+    {
+     "file": "09-2.mp3",
+     "lesson": 9,
+     "label": "09-02",
+     "page": 69,
+     "src": "study/a2-wo/09-2.mp3"
+    },
+    {
+     "file": "09-3.mp3",
+     "lesson": 9,
+     "label": "09-03",
+     "page": 70,
+     "src": "study/a2-wo/09-3.mp3"
+    },
+    {
+     "file": "09-4.mp3",
+     "lesson": 9,
+     "label": "09-04",
+     "page": 70,
+     "src": "study/a2-wo/09-4.mp3"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "start": 77,
+   "end": 84,
+   "headerPage": 79,
+   "detection": {
+    "header": 79,
+    "opener": null,
+    "audioMarker": 77
+   },
+   "titleOcr": "歡迎到我家來包餃子",
+   "titleVerified": true,
+   "id": "a2-wo-l10",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "10-1.mp3",
+     "lesson": 10,
+     "label": "10-01",
+     "page": 77,
+     "src": "study/a2-wo/10-1.mp3"
+    },
+    {
+     "file": "10-2.mp3",
+     "lesson": 10,
+     "label": "10-02",
+     "page": 77,
+     "src": "study/a2-wo/10-2.mp3"
+    },
+    {
+     "file": "10-3.mp3",
+     "lesson": 10,
+     "label": "10-03",
+     "page": 78,
+     "src": "study/a2-wo/10-3.mp3"
+    },
+    {
+     "file": "10-4.mp3",
+     "lesson": 10,
+     "label": "10-04",
+     "page": 78,
+     "src": "study/a2-wo/10-4.mp3"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "start": 85,
+   "end": 92,
+   "headerPage": 87,
+   "detection": {
+    "header": 87,
+    "opener": null,
+    "audioMarker": 85
+   },
+   "titleOcr": "台灣好玩的地方真多",
+   "titleVerified": true,
+   "id": "a2-wo-l11",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "11-1.mp3",
+     "lesson": 11,
+     "label": "11-01",
+     "page": 85,
+     "src": "study/a2-wo/11-1.mp3"
+    },
+    {
+     "file": "11-2.mp3",
+     "lesson": 11,
+     "label": "11-02",
+     "page": 85,
+     "src": "study/a2-wo/11-2.mp3"
+    },
+    {
+     "file": "11-3.mp3",
+     "lesson": 11,
+     "label": "11-03",
+     "page": 86,
+     "src": "study/a2-wo/11-3.mp3"
+    },
+    {
+     "file": "11-4.mp3",
+     "lesson": 11,
+     "label": "11-04",
+     "page": 86,
+     "src": "study/a2-wo/11-4.mp3"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "start": 93,
+   "end": 102,
+   "headerPage": 95,
+   "detection": {
+    "header": 95,
+    "opener": null,
+    "audioMarker": 93
+   },
+   "titleOcr": "怎麼吃才健康？",
+   "titleVerified": true,
+   "id": "a2-wo-l12",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "12-1.mp3",
+     "lesson": 12,
+     "label": "12-01",
+     "page": 93,
+     "src": "study/a2-wo/12-1.mp3"
+    },
+    {
+     "file": "12-2.mp3",
+     "lesson": 12,
+     "label": "12-02",
+     "page": 93,
+     "src": "study/a2-wo/12-2.mp3"
+    },
+    {
+     "file": "12-3.mp3",
+     "lesson": 12,
+     "label": "12-03",
+     "page": 94,
+     "src": "study/a2-wo/12-3.mp3"
+    },
+    {
+     "file": "12-4.mp3",
+     "lesson": 12,
+     "label": "12-04",
+     "page": 94,
+     "src": "study/a2-wo/12-4.mp3"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "start": 103,
+   "end": 110,
+   "headerPage": 105,
+   "detection": {
+    "header": 105,
+    "opener": null,
+    "audioMarker": 103
+   },
+   "titleOcr": "我的手機掉了",
+   "titleVerified": true,
+   "id": "a2-wo-l13",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "13-1.mp3",
+     "lesson": 13,
+     "label": "13-01",
+     "page": 103,
+     "src": "study/a2-wo/13-1.mp3"
+    },
+    {
+     "file": "13-2.mp3",
+     "lesson": 13,
+     "label": "13-02",
+     "page": 103,
+     "src": "study/a2-wo/13-2.mp3"
+    },
+    {
+     "file": "13-3.mp3",
+     "lesson": 13,
+     "label": "13-03",
+     "page": 104,
+     "src": "study/a2-wo/13-3.mp3"
+    },
+    {
+     "file": "13-4.mp3",
+     "lesson": 13,
+     "label": "13-04",
+     "page": 104,
+     "src": "study/a2-wo/13-4.mp3"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "start": 111,
+   "end": 120,
+   "headerPage": 113,
+   "detection": {
+    "header": 113,
+    "opener": null,
+    "audioMarker": 111
+   },
+   "titleOcr": "我要開始工作了",
+   "titleVerified": true,
+   "id": "a2-wo-l14",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "14-1.mp3",
+     "lesson": 14,
+     "label": "14-01",
+     "page": 111,
+     "src": "study/a2-wo/14-1.mp3"
+    },
+    {
+     "file": "14-2.mp3",
+     "lesson": 14,
+     "label": "14-02",
+     "page": 111,
+     "src": "study/a2-wo/14-2.mp3"
+    },
+    {
+     "file": "14-3.mp3",
+     "lesson": 14,
+     "label": "14-03",
+     "page": 112,
+     "src": "study/a2-wo/14-3.mp3"
+    },
+    {
+     "file": "14-4.mp3",
+     "lesson": 14,
+     "label": "14-04",
+     "page": 113,
+     "src": "study/a2-wo/14-4.mp3"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "start": 121,
+   "end": 128,
+   "headerPage": 123,
+   "detection": {
+    "header": 123,
+    "opener": null,
+    "audioMarker": 121
+   },
+   "titleOcr": "過春節",
+   "titleVerified": true,
+   "id": "a2-wo-l15",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "15-1.mp3",
+     "lesson": 15,
+     "label": "15-01",
+     "page": 121,
+     "src": "study/a2-wo/15-1.mp3"
+    },
+    {
+     "file": "15-2.mp3",
+     "lesson": 15,
+     "label": "15-02",
+     "page": 121,
+     "src": "study/a2-wo/15-2.mp3"
+    },
+    {
+     "file": "15-3.mp3",
+     "lesson": 15,
+     "label": "15-03",
+     "page": 122,
+     "src": "study/a2-wo/15-3.mp3"
+    },
+    {
+     "file": "15-4.mp3",
+     "lesson": 15,
+     "label": "15-04",
+     "page": 122,
+     "src": "study/a2-wo/15-4.mp3"
+    }
+   ]
+  }
+ ],
+ "otherTracks": [
+  {
+   "file": "00.mp3",
+   "lesson": null,
+   "label": "00",
+   "src": "study/a2-wo/00.mp3"
+  }
+ ],
+ "audioFiles": 61
+}

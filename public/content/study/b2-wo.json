@@ -1,0 +1,400 @@
+{
+ "id": "b2-wo",
+ "level": "b2",
+ "kind": "workbook",
+ "label": "Workbook 作業本",
+ "pages": 87,
+ "source": {
+  "folder": "4. 第四本 (B2)",
+  "file": "TOCFL B2 Workbook.pdf",
+  "audioDir": "4. 第四本 (B2)/TOCFL B2 Workbook Audio"
+ },
+ "frontMatter": {
+  "start": 1,
+  "end": 4
+ },
+ "backMatter": null,
+ "lessons": [
+  {
+   "n": 1,
+   "start": 5,
+   "end": 10,
+   "headerPage": 5,
+   "detection": {
+    "header": 5,
+    "opener": null,
+    "audioMarker": null
+   },
+   "titleOcr": "十七歲還是二十五歲？",
+   "titleVerified": true,
+   "id": "b2-wo-l01",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "01-1.mp3",
+     "lesson": 1,
+     "label": "01-01",
+     "page": null,
+     "src": "study/b2-wo/01-1.mp3"
+    },
+    {
+     "file": "01-2.mp3",
+     "lesson": 1,
+     "label": "01-02",
+     "page": null,
+     "src": "study/b2-wo/01-2.mp3"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 11,
+   "end": 18,
+   "headerPage": 13,
+   "detection": {
+    "header": 13,
+    "opener": null,
+    "audioMarker": 11
+   },
+   "titleOcr": "眼睛、耳朵的饗宴",
+   "titleVerified": true,
+   "id": "b2-wo-l02",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "02-1.mp3",
+     "lesson": 2,
+     "label": "02-01",
+     "page": 11,
+     "src": "study/b2-wo/02-1.mp3"
+    },
+    {
+     "file": "02-2.mp3",
+     "lesson": 2,
+     "label": "02-02",
+     "page": 11,
+     "src": "study/b2-wo/02-2.mp3"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 19,
+   "end": 24,
+   "headerPage": 21,
+   "detection": {
+    "header": 21,
+    "opener": null,
+    "audioMarker": 19
+   },
+   "titleOcr": "雲端科技",
+   "titleVerified": true,
+   "id": "b2-wo-l03",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "03-1.mp3",
+     "lesson": 3,
+     "label": "03-01",
+     "page": 19,
+     "src": "study/b2-wo/03-1.mp3"
+    },
+    {
+     "file": "03-2.mp3",
+     "lesson": 3,
+     "label": "03-02",
+     "page": 19,
+     "src": "study/b2-wo/03-2.mp3"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 25,
+   "end": 30,
+   "headerPage": 27,
+   "detection": {
+    "header": 27,
+    "opener": null,
+    "audioMarker": 25
+   },
+   "titleOcr": "床該擺哪裡？",
+   "titleVerified": true,
+   "id": "b2-wo-l04",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "04-1.mp3",
+     "lesson": 4,
+     "label": "04-01",
+     "page": 25,
+     "src": "study/b2-wo/04-1.mp3"
+    },
+    {
+     "file": "04-2.mp3",
+     "lesson": 4,
+     "label": "04-02",
+     "page": 25,
+     "src": "study/b2-wo/04-2.mp3"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 31,
+   "end": 38,
+   "headerPage": 33,
+   "detection": {
+    "header": 33,
+    "opener": null,
+    "audioMarker": 31
+   },
+   "titleOcr": "有夢最美",
+   "titleVerified": true,
+   "id": "b2-wo-l05",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "05-1.mp3",
+     "lesson": 5,
+     "label": "05-01",
+     "page": 31,
+     "src": "study/b2-wo/05-1.mp3"
+    },
+    {
+     "file": "05-2.mp3",
+     "lesson": 5,
+     "label": "05-02",
+     "page": 31,
+     "src": "study/b2-wo/05-2.mp3"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 39,
+   "end": 44,
+   "headerPage": 41,
+   "detection": {
+    "header": 41,
+    "opener": null,
+    "audioMarker": 39
+   },
+   "titleOcr": "天搖地動",
+   "titleVerified": true,
+   "id": "b2-wo-l06",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "06-1.mp3",
+     "lesson": 6,
+     "label": "06-01",
+     "page": 39,
+     "src": "study/b2-wo/06-1.mp3"
+    },
+    {
+     "file": "06-2.mp3",
+     "lesson": 6,
+     "label": "06-02",
+     "page": 39,
+     "src": "study/b2-wo/06-2.mp3"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 45,
+   "end": 50,
+   "headerPage": 47,
+   "detection": {
+    "header": 47,
+    "opener": null,
+    "audioMarker": 45
+   },
+   "titleOcr": "大學生的事",
+   "titleVerified": true,
+   "id": "b2-wo-l07",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "07-1.mp3",
+     "lesson": 7,
+     "label": "07-01",
+     "page": 45,
+     "src": "study/b2-wo/07-1.mp3"
+    },
+    {
+     "file": "07-2.mp3",
+     "lesson": 7,
+     "label": "07-02",
+     "page": 45,
+     "src": "study/b2-wo/07-2.mp3"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 51,
+   "end": 56,
+   "headerPage": 53,
+   "detection": {
+    "header": 53,
+    "opener": null,
+    "audioMarker": 51
+   },
+   "titleOcr": "他們的選擇",
+   "titleVerified": true,
+   "id": "b2-wo-l08",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "08-1.mp3",
+     "lesson": 8,
+     "label": "08-01",
+     "page": 51,
+     "src": "study/b2-wo/08-1.mp3"
+    },
+    {
+     "file": "08-2.mp3",
+     "lesson": 8,
+     "label": "08-02",
+     "page": 51,
+     "src": "study/b2-wo/08-2.mp3"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "start": 57,
+   "end": 62,
+   "headerPage": 59,
+   "detection": {
+    "header": 59,
+    "opener": null,
+    "audioMarker": 57
+   },
+   "titleOcr": "再談台灣故事",
+   "titleVerified": true,
+   "id": "b2-wo-l09",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "09-1.mp3",
+     "lesson": 9,
+     "label": "09-01",
+     "page": 57,
+     "src": "study/b2-wo/09-1.mp3"
+    },
+    {
+     "file": "09-2.mp3",
+     "lesson": 9,
+     "label": "09-02",
+     "page": 57,
+     "src": "study/b2-wo/09-2.mp3"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "start": 63,
+   "end": 70,
+   "headerPage": 65,
+   "detection": {
+    "header": 65,
+    "opener": null,
+    "audioMarker": 63
+   },
+   "titleOcr": "應徵",
+   "titleVerified": true,
+   "id": "b2-wo-l10",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "10-1.mp3",
+     "lesson": 10,
+     "label": "10-01",
+     "page": 63,
+     "src": "study/b2-wo/10-1.mp3"
+    },
+    {
+     "file": "10-2.mp3",
+     "lesson": 10,
+     "label": "10-02",
+     "page": 63,
+     "src": "study/b2-wo/10-2.mp3"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "start": 71,
+   "end": 80,
+   "headerPage": 73,
+   "detection": {
+    "header": 73,
+    "opener": null,
+    "audioMarker": 71
+   },
+   "titleOcr": "文化、種族的大熔爐",
+   "titleVerified": true,
+   "id": "b2-wo-l11",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "11-1.mp3",
+     "lesson": 11,
+     "label": "11-01",
+     "page": 71,
+     "src": "study/b2-wo/11-1.mp3"
+    },
+    {
+     "file": "11-2.mp3",
+     "lesson": 11,
+     "label": "11-02",
+     "page": 71,
+     "src": "study/b2-wo/11-2.mp3"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "start": 81,
+   "end": 87,
+   "headerPage": 81,
+   "detection": {
+    "header": 81,
+    "opener": null,
+    "audioMarker": null
+   },
+   "titleOcr": "期待美好的未來",
+   "titleVerified": true,
+   "id": "b2-wo-l12",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "12-1.mp3",
+     "lesson": 12,
+     "label": "12-01",
+     "page": null,
+     "src": "study/b2-wo/12-1.mp3"
+    },
+    {
+     "file": "12-2.mp3",
+     "lesson": 12,
+     "label": "12-02",
+     "page": null,
+     "src": "study/b2-wo/12-2.mp3"
+    }
+   ]
+  }
+ ],
+ "otherTracks": [
+  {
+   "file": "00.mp3",
+   "lesson": null,
+   "label": "00",
+   "src": "study/b2-wo/00.mp3"
+  }
+ ],
+ "audioFiles": 25
+}

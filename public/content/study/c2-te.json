@@ -1,0 +1,726 @@
+{
+ "id": "c2-te",
+ "level": "c2",
+ "kind": "textbook",
+ "label": "Textbook 課本",
+ "pages": 326,
+ "source": {
+  "folder": "6. 第六本 (C2)",
+  "file": "TOCFL C2 Textbook.pdf",
+  "audioDir": "6. 第六本 (C2)/TOCFL C2 Textbook Audio"
+ },
+ "frontMatter": {
+  "start": 1,
+  "end": 23
+ },
+ "backMatter": {
+  "start": 276,
+  "end": 326
+ },
+ "lessons": [
+  {
+   "n": 1,
+   "start": 24,
+   "end": 51,
+   "headerPage": 30,
+   "detection": {
+    "header": 30,
+    "opener": null,
+    "audioMarker": 24
+   },
+   "titleOcr": "職校教育",
+   "titleVerified": true,
+   "id": "c2-te-l01",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "01-01.mp3",
+     "lesson": 1,
+     "label": "01-01",
+     "page": 24,
+     "src": "study/c2-te/01-01.mp3"
+    },
+    {
+     "file": "01-02.mp3",
+     "lesson": 1,
+     "label": "01-02",
+     "page": null,
+     "src": "study/c2-te/01-02.mp3"
+    },
+    {
+     "file": "01-04.mp3",
+     "lesson": 1,
+     "label": "01-04",
+     "page": null,
+     "src": "study/c2-te/01-04.mp3"
+    },
+    {
+     "file": "01-05.mp3",
+     "lesson": 1,
+     "label": "01-05",
+     "page": null,
+     "src": "study/c2-te/01-05.mp3"
+    },
+    {
+     "file": "01-06.mp3",
+     "lesson": 1,
+     "label": "01-06",
+     "page": null,
+     "src": "study/c2-te/01-06.mp3"
+    },
+    {
+     "file": "01-07.mp3",
+     "lesson": 1,
+     "label": "01-07",
+     "page": null,
+     "src": "study/c2-te/01-07.mp3"
+    },
+    {
+     "file": "01-08.mp3",
+     "lesson": 1,
+     "label": "01-08",
+     "page": null,
+     "src": "study/c2-te/01-08.mp3"
+    },
+    {
+     "file": "01-09.mp3",
+     "lesson": 1,
+     "label": "01-09",
+     "page": null,
+     "src": "study/c2-te/01-09.mp3"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 52,
+   "end": 71,
+   "headerPage": 64,
+   "detection": {
+    "header": 64,
+    "opener": null,
+    "audioMarker": 52
+   },
+   "titleOcr": "科技與生活",
+   "titleVerified": true,
+   "id": "c2-te-l02",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "02-01.mp3",
+     "lesson": 2,
+     "label": "02-01",
+     "page": 52,
+     "src": "study/c2-te/02-01.mp3"
+    },
+    {
+     "file": "02-02.mp3",
+     "lesson": 2,
+     "label": "02-02",
+     "page": null,
+     "src": "study/c2-te/02-02.mp3"
+    },
+    {
+     "file": "02-03.mp3",
+     "lesson": 2,
+     "label": "02-03",
+     "page": null,
+     "src": "study/c2-te/02-03.mp3"
+    },
+    {
+     "file": "02-04.mp3",
+     "lesson": 2,
+     "label": "02-04",
+     "page": null,
+     "src": "study/c2-te/02-04.mp3"
+    },
+    {
+     "file": "02-05.mp3",
+     "lesson": 2,
+     "label": "02-05",
+     "page": null,
+     "src": "study/c2-te/02-05.mp3"
+    },
+    {
+     "file": "02-06.mp3",
+     "lesson": 2,
+     "label": "02-06",
+     "page": null,
+     "src": "study/c2-te/02-06.mp3"
+    },
+    {
+     "file": "02-07.mp3",
+     "lesson": 2,
+     "label": "02-07",
+     "page": null,
+     "src": "study/c2-te/02-07.mp3"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 72,
+   "end": 105,
+   "headerPage": 80,
+   "detection": {
+    "header": 80,
+    "opener": null,
+    "audioMarker": 72
+   },
+   "titleOcr": "舞蹈藝術",
+   "titleVerified": true,
+   "id": "c2-te-l03",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "03-01.mp3",
+     "lesson": 3,
+     "label": "03-01",
+     "page": 72,
+     "src": "study/c2-te/03-01.mp3"
+    },
+    {
+     "file": "03-02.mp3",
+     "lesson": 3,
+     "label": "03-02",
+     "page": null,
+     "src": "study/c2-te/03-02.mp3"
+    },
+    {
+     "file": "03-03.mp3",
+     "lesson": 3,
+     "label": "03-03",
+     "page": null,
+     "src": "study/c2-te/03-03.mp3"
+    },
+    {
+     "file": "03-04.mp3",
+     "lesson": 3,
+     "label": "03-04",
+     "page": null,
+     "src": "study/c2-te/03-04.mp3"
+    },
+    {
+     "file": "03-05.mp3",
+     "lesson": 3,
+     "label": "03-05",
+     "page": null,
+     "src": "study/c2-te/03-05.mp3"
+    },
+    {
+     "file": "03-06.mp3",
+     "lesson": 3,
+     "label": "03-06",
+     "page": null,
+     "src": "study/c2-te/03-06.mp3"
+    },
+    {
+     "file": "03-07.mp3",
+     "lesson": 3,
+     "label": "03-07",
+     "page": null,
+     "src": "study/c2-te/03-07.mp3"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 106,
+   "end": 123,
+   "headerPage": 106,
+   "detection": {
+    "header": 106,
+    "opener": null,
+    "audioMarker": null
+   },
+   "titleOcr": "做人心法",
+   "titleVerified": true,
+   "id": "c2-te-l04",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "04-01.mp3",
+     "lesson": 4,
+     "label": "04-01",
+     "page": null,
+     "src": "study/c2-te/04-01.mp3"
+    },
+    {
+     "file": "04-02.mp3",
+     "lesson": 4,
+     "label": "04-02",
+     "page": null,
+     "src": "study/c2-te/04-02.mp3"
+    },
+    {
+     "file": "04-03.mp3",
+     "lesson": 4,
+     "label": "04-03",
+     "page": null,
+     "src": "study/c2-te/04-03.mp3"
+    },
+    {
+     "file": "04-04.mp3",
+     "lesson": 4,
+     "label": "04-04",
+     "page": null,
+     "src": "study/c2-te/04-04.mp3"
+    },
+    {
+     "file": "04-05.mp3",
+     "lesson": 4,
+     "label": "04-05",
+     "page": null,
+     "src": "study/c2-te/04-05.mp3"
+    },
+    {
+     "file": "04-06.mp3",
+     "lesson": 4,
+     "label": "04-06",
+     "page": null,
+     "src": "study/c2-te/04-06.mp3"
+    },
+    {
+     "file": "04-07.mp3",
+     "lesson": 4,
+     "label": "04-07",
+     "page": null,
+     "src": "study/c2-te/04-07.mp3"
+    },
+    {
+     "file": "04-08.mp3",
+     "lesson": 4,
+     "label": "04-08",
+     "page": null,
+     "src": "study/c2-te/04-08.mp3"
+    },
+    {
+     "file": "04-09.mp3",
+     "lesson": 4,
+     "label": "04-09",
+     "page": null,
+     "src": "study/c2-te/04-09.mp3"
+    },
+    {
+     "file": "04-10.mp3",
+     "lesson": 4,
+     "label": "04-10",
+     "page": null,
+     "src": "study/c2-te/04-10.mp3"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 124,
+   "end": 145,
+   "headerPage": 130,
+   "detection": {
+    "header": 130,
+    "opener": null,
+    "audioMarker": 124
+   },
+   "titleOcr": "國際語言",
+   "titleVerified": true,
+   "id": "c2-te-l05",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "05-01.mp3",
+     "lesson": 5,
+     "label": "05-01",
+     "page": 124,
+     "src": "study/c2-te/05-01.mp3"
+    },
+    {
+     "file": "05-02.mp3",
+     "lesson": 5,
+     "label": "05-02",
+     "page": null,
+     "src": "study/c2-te/05-02.mp3"
+    },
+    {
+     "file": "05-03.mp3",
+     "lesson": 5,
+     "label": "05-03",
+     "page": null,
+     "src": "study/c2-te/05-03.mp3"
+    },
+    {
+     "file": "05-04.mp3",
+     "lesson": 5,
+     "label": "05-04",
+     "page": null,
+     "src": "study/c2-te/05-04.mp3"
+    },
+    {
+     "file": "05-05.mp3",
+     "lesson": 5,
+     "label": "05-05",
+     "page": null,
+     "src": "study/c2-te/05-05.mp3"
+    },
+    {
+     "file": "05-06.mp3",
+     "lesson": 5,
+     "label": "05-06",
+     "page": 136,
+     "src": "study/c2-te/05-06.mp3"
+    },
+    {
+     "file": "05-07.mp3",
+     "lesson": 5,
+     "label": "05-07",
+     "page": null,
+     "src": "study/c2-te/05-07.mp3"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 146,
+   "end": 169,
+   "headerPage": 152,
+   "detection": {
+    "header": 152,
+    "opener": null,
+    "audioMarker": 146
+   },
+   "titleOcr": "貓熊角色",
+   "titleVerified": true,
+   "id": "c2-te-l06",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "06-01.mp3",
+     "lesson": 6,
+     "label": "06-01",
+     "page": 146,
+     "src": "study/c2-te/06-01.mp3"
+    },
+    {
+     "file": "06-02.mp3",
+     "lesson": 6,
+     "label": "06-02",
+     "page": null,
+     "src": "study/c2-te/06-02.mp3"
+    },
+    {
+     "file": "06-03.mp3",
+     "lesson": 6,
+     "label": "06-03",
+     "page": null,
+     "src": "study/c2-te/06-03.mp3"
+    },
+    {
+     "file": "06-04.mp3",
+     "lesson": 6,
+     "label": "06-04",
+     "page": null,
+     "src": "study/c2-te/06-04.mp3"
+    },
+    {
+     "file": "06-05.mp3",
+     "lesson": 6,
+     "label": "06-05",
+     "page": null,
+     "src": "study/c2-te/06-05.mp3"
+    },
+    {
+     "file": "06-06.mp3",
+     "lesson": 6,
+     "label": "06-06",
+     "page": null,
+     "src": "study/c2-te/06-06.mp3"
+    },
+    {
+     "file": "06-07.mp3",
+     "lesson": 6,
+     "label": "06-07",
+     "page": null,
+     "src": "study/c2-te/06-07.mp3"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 170,
+   "end": 193,
+   "headerPage": 178,
+   "detection": {
+    "header": 178,
+    "opener": null,
+    "audioMarker": 170
+   },
+   "titleOcr": "感情世界",
+   "titleVerified": true,
+   "id": "c2-te-l07",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "07-01.mp3",
+     "lesson": 7,
+     "label": "07-01",
+     "page": 170,
+     "src": "study/c2-te/07-01.mp3"
+    },
+    {
+     "file": "07-02.mp3",
+     "lesson": 7,
+     "label": "07-02",
+     "page": null,
+     "src": "study/c2-te/07-02.mp3"
+    },
+    {
+     "file": "07-03.mp3",
+     "lesson": 7,
+     "label": "07-03",
+     "page": null,
+     "src": "study/c2-te/07-03.mp3"
+    },
+    {
+     "file": "07-04.mp3",
+     "lesson": 7,
+     "label": "07-04",
+     "page": null,
+     "src": "study/c2-te/07-04.mp3"
+    },
+    {
+     "file": "07-05.mp3",
+     "lesson": 7,
+     "label": "07-05",
+     "page": null,
+     "src": "study/c2-te/07-05.mp3"
+    },
+    {
+     "file": "07-06.mp3",
+     "lesson": 7,
+     "label": "07-06",
+     "page": 182,
+     "src": "study/c2-te/07-06.mp3"
+    },
+    {
+     "file": "07-07.mp3",
+     "lesson": 7,
+     "label": "07-07",
+     "page": null,
+     "src": "study/c2-te/07-07.mp3"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 194,
+   "end": 223,
+   "headerPage": 200,
+   "detection": {
+    "header": 200,
+    "opener": null,
+    "audioMarker": 194
+   },
+   "titleOcr": "奧運黑洞",
+   "titleVerified": true,
+   "id": "c2-te-l08",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "08-01.mp3",
+     "lesson": 8,
+     "label": "08-01",
+     "page": 194,
+     "src": "study/c2-te/08-01.mp3"
+    },
+    {
+     "file": "08-02.mp3",
+     "lesson": 8,
+     "label": "08-02",
+     "page": null,
+     "src": "study/c2-te/08-02.mp3"
+    },
+    {
+     "file": "08-03.mp3",
+     "lesson": 8,
+     "label": "08-03",
+     "page": null,
+     "src": "study/c2-te/08-03.mp3"
+    },
+    {
+     "file": "08-04.mp3",
+     "lesson": 8,
+     "label": "08-04",
+     "page": null,
+     "src": "study/c2-te/08-04.mp3"
+    },
+    {
+     "file": "08-05.mp3",
+     "lesson": 8,
+     "label": "08-05",
+     "page": null,
+     "src": "study/c2-te/08-05.mp3"
+    },
+    {
+     "file": "08-06.mp3",
+     "lesson": 8,
+     "label": "08-06",
+     "page": null,
+     "src": "study/c2-te/08-06.mp3"
+    },
+    {
+     "file": "08-07.mp3",
+     "lesson": 8,
+     "label": "08-07",
+     "page": null,
+     "src": "study/c2-te/08-07.mp3"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "start": 224,
+   "end": 243,
+   "headerPage": 228,
+   "detection": {
+    "header": 228,
+    "opener": null,
+    "audioMarker": 224
+   },
+   "titleOcr": "鄉關何處",
+   "titleVerified": true,
+   "id": "c2-te-l09",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "09-01.mp3",
+     "lesson": 9,
+     "label": "09-01",
+     "page": 224,
+     "src": "study/c2-te/09-01.mp3"
+    },
+    {
+     "file": "09-02.mp3",
+     "lesson": 9,
+     "label": "09-02",
+     "page": null,
+     "src": "study/c2-te/09-02.mp3"
+    },
+    {
+     "file": "09-03.mp3",
+     "lesson": 9,
+     "label": "09-03",
+     "page": null,
+     "src": "study/c2-te/09-03.mp3"
+    },
+    {
+     "file": "09-04.mp3",
+     "lesson": 9,
+     "label": "09-04",
+     "page": null,
+     "src": "study/c2-te/09-04.mp3"
+    },
+    {
+     "file": "09-05.mp3",
+     "lesson": 9,
+     "label": "09-05",
+     "page": null,
+     "src": "study/c2-te/09-05.mp3"
+    },
+    {
+     "file": "09-06.mp3",
+     "lesson": 9,
+     "label": "09-06",
+     "page": 234,
+     "src": "study/c2-te/09-06.mp3"
+    },
+    {
+     "file": "09-07.mp3",
+     "lesson": 9,
+     "label": "09-07",
+     "page": null,
+     "src": "study/c2-te/09-07.mp3"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "start": 244,
+   "end": 275,
+   "headerPage": 268,
+   "detection": {
+    "header": 268,
+    "opener": null,
+    "audioMarker": 244
+   },
+   "titleOcr": "智慧與能力",
+   "titleVerified": true,
+   "id": "c2-te-l10",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "10-01.mp3",
+     "lesson": 10,
+     "label": "10-01",
+     "page": 244,
+     "src": "study/c2-te/10-01.mp3"
+    },
+    {
+     "file": "10-02.mp3",
+     "lesson": 10,
+     "label": "10-02",
+     "page": null,
+     "src": "study/c2-te/10-02.mp3"
+    },
+    {
+     "file": "10-03.mp3",
+     "lesson": 10,
+     "label": "10-03",
+     "page": 246,
+     "src": "study/c2-te/10-03.mp3"
+    },
+    {
+     "file": "10-04.mp3",
+     "lesson": 10,
+     "label": "10-04",
+     "page": null,
+     "src": "study/c2-te/10-04.mp3"
+    },
+    {
+     "file": "10-05.mp3",
+     "lesson": 10,
+     "label": "10-05",
+     "page": null,
+     "src": "study/c2-te/10-05.mp3"
+    },
+    {
+     "file": "10-06.mp3",
+     "lesson": 10,
+     "label": "10-06",
+     "page": null,
+     "src": "study/c2-te/10-06.mp3"
+    },
+    {
+     "file": "10-07.mp3",
+     "lesson": 10,
+     "label": "10-07",
+     "page": null,
+     "src": "study/c2-te/10-07.mp3"
+    },
+    {
+     "file": "10-08.mp3",
+     "lesson": 10,
+     "label": "10-08",
+     "page": null,
+     "src": "study/c2-te/10-08.mp3"
+    }
+   ]
+  }
+ ],
+ "otherTracks": [
+  {
+   "file": "00.mp3",
+   "lesson": null,
+   "label": "00",
+   "src": "study/c2-te/00.mp3"
+  }
+ ],
+ "audioFiles": 76
+}

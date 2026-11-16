@@ -1,0 +1,1591 @@
+{
+ "id": "b-r5",
+ "band": "b",
+ "skill": "reading",
+ "series": 5,
+ "title": "Band B Reading · Series 5",
+ "source": {
+  "folder": "3. TOCFL Band B/Reading",
+  "booklet": "5. TOCFL Reading Band B.pdf",
+  "answer": "5. TOCFL Reading Answer Band B.pdf",
+  "script": null
+ },
+ "timeMinutes": null,
+ "parts": [
+  {
+   "title": "一、選詞填空",
+   "subtitle": "",
+   "instructions": "說明：在這一部分，每一段短文有幾個空格，每個空格有四個選\n項，請選出正確的答案完成短文。",
+   "instructionsEn": "",
+   "page": 3,
+   "from": 1,
+   "to": 18,
+   "grouped": true
+  },
+  {
+   "title": "二、閱讀理解",
+   "subtitle": "",
+   "instructions": "說明：在這一部分，請閱讀材料或短文，並根據內容回答幾個問\n題。",
+   "instructionsEn": "",
+   "page": 7,
+   "from": 19,
+   "to": 50,
+   "grouped": true
+  }
+ ],
+ "questions": [
+  {
+   "n": 1,
+   "page": 4,
+   "stem": "",
+   "context": "（一）\n我來臺灣兩年了，很喜歡這裡的生活， 1 是購物這方面。以地點來說， 2 百貨公司和便利商店以外，還能到夜市購買各種商品。要是不想出門，上網買東西也很方便。臺灣的網路科技很 3 ，網路商店效率高，上午九點訂購， 4 晚上就能收到東西。各式各樣的購物管道， 5 了人們更多選擇，不論性別與年紀，都能在臺灣找到符合自己 6 的購物方式，是不是很吸引人呢？",
+   "options": [
+    {
+     "label": "A",
+     "text": "尤其"
+    },
+    {
+     "label": "B",
+     "text": "畢竟"
+    },
+    {
+     "label": "C",
+     "text": "不斷"
+    },
+    {
+     "label": "D",
+     "text": "針對"
+    }
+   ],
+   "crop": "q1.webp",
+   "showCrop": false,
+   "cropGap": 30,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 2,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "比如"
+    },
+    {
+     "label": "B",
+     "text": "至於"
+    },
+    {
+     "label": "C",
+     "text": "自從"
+    },
+    {
+     "label": "D",
+     "text": "除了"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 3,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "主動"
+    },
+    {
+     "label": "B",
+     "text": "幸福"
+    },
+    {
+     "label": "C",
+     "text": "發達"
+    },
+    {
+     "label": "D",
+     "text": "樂觀"
+    }
+   ],
+   "crop": "q3.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 4,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "當中"
+    },
+    {
+     "label": "B",
+     "text": "當天"
+    },
+    {
+     "label": "C",
+     "text": "當初"
+    },
+    {
+     "label": "D",
+     "text": "當時"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 5,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "開放"
+    },
+    {
+     "label": "B",
+     "text": "採用"
+    },
+    {
+     "label": "C",
+     "text": "安排"
+    },
+    {
+     "label": "D",
+     "text": "提供"
+    }
+   ],
+   "crop": "q5.webp",
+   "showCrop": false,
+   "cropGap": 196,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 6,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "功能"
+    },
+    {
+     "label": "B",
+     "text": "信用"
+    },
+    {
+     "label": "C",
+     "text": "品質"
+    },
+    {
+     "label": "D",
+     "text": "需求"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 196,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 7,
+   "page": 5,
+   "stem": "",
+   "context": "（二）\n隨著科技進步， 7 只有五分鐘，人們也能利用網路進行社交活動。有網路公司 8 現代人的社交現況，設計了新的交友系統。此系統 9 能幫助使用者挑選具有共同興趣的對象，還能找到附近想聊天的人；使用者也可以使用錄音、錄影和網路電話功能 10 文字訊息，體會面對面談話的真實感受。現在只要申請成為該公司的付費 11 ，你就能隨時隨地與人交流，不受時間地點 12 ，更有效率地認識新朋友。",
+   "options": [
+    {
+     "label": "A",
+     "text": "由於"
+    },
+    {
+     "label": "B",
+     "text": "就算"
+    },
+    {
+     "label": "C",
+     "text": "不過"
+    },
+    {
+     "label": "D",
+     "text": "反而"
+    }
+   ],
+   "crop": "q7.webp",
+   "showCrop": false,
+   "cropGap": 30,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g7"
+  },
+  {
+   "n": 8,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "引用"
+    },
+    {
+     "label": "B",
+     "text": "參考"
+    },
+    {
+     "label": "C",
+     "text": "評論"
+    },
+    {
+     "label": "D",
+     "text": "推出"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g7"
+  },
+  {
+   "n": 9,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "以及"
+    },
+    {
+     "label": "B",
+     "text": "加上"
+    },
+    {
+     "label": "C",
+     "text": "不僅"
+    },
+    {
+     "label": "D",
+     "text": "或者"
+    }
+   ],
+   "crop": "q9.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": "g7"
+  },
+  {
+   "n": 10,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "記錄"
+    },
+    {
+     "label": "B",
+     "text": "發表"
+    },
+    {
+     "label": "C",
+     "text": "帶領"
+    },
+    {
+     "label": "D",
+     "text": "代替"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g7"
+  },
+  {
+   "n": 11,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "官員"
+    },
+    {
+     "label": "B",
+     "text": "隊員"
+    },
+    {
+     "label": "C",
+     "text": "會員"
+    },
+    {
+     "label": "D",
+     "text": "職員"
+    }
+   ],
+   "crop": "q11.webp",
+   "showCrop": false,
+   "cropGap": 178,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": "g7"
+  },
+  {
+   "n": 12,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "限制"
+    },
+    {
+     "label": "B",
+     "text": "反對"
+    },
+    {
+     "label": "C",
+     "text": "犯規"
+    },
+    {
+     "label": "D",
+     "text": "傷害"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 178,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g7"
+  },
+  {
+   "n": 13,
+   "page": 6,
+   "stem": "",
+   "context": "（三）\n爸爸去世後什麼也沒留下， 13 我和哥哥卻覺得十分富有。在我的印象裡，他把賺來的 14 ，全部投入我和哥哥的教育中。他在我們面前從不說苦，當我們遇到困難，他總鼓勵我們要正面 15 挑戰，並教導我們建立正確的價值觀。爸爸留下這些看不見的財產，既數不清，也不必爭搶，夠我們用 16 。聽說有人為了爭奪長輩遺留的財產，最後 17 兄弟都做不成。我很慶幸我和哥哥能 18 如此珍貴的無形資產，讓我們活出心靈富裕的人生。",
+   "options": [
+    {
+     "label": "A",
+     "text": "並且"
+    },
+    {
+     "label": "B",
+     "text": "還是"
+    },
+    {
+     "label": "C",
+     "text": "然而"
+    },
+    {
+     "label": "D",
+     "text": "因此"
+    }
+   ],
+   "crop": "q13.webp",
+   "showCrop": false,
+   "cropGap": 32,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": "g13"
+  },
+  {
+   "n": 14,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "福利"
+    },
+    {
+     "label": "B",
+     "text": "薪水"
+    },
+    {
+     "label": "C",
+     "text": "補助"
+    },
+    {
+     "label": "D",
+     "text": "保障"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g13"
+  },
+  {
+   "n": 15,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "光臨"
+    },
+    {
+     "label": "B",
+     "text": "防守"
+    },
+    {
+     "label": "C",
+     "text": "保衛"
+    },
+    {
+     "label": "D",
+     "text": "迎接"
+    }
+   ],
+   "crop": "q15.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g13"
+  },
+  {
+   "n": 16,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "一會兒"
+    },
+    {
+     "label": "B",
+     "text": "一口氣"
+    },
+    {
+     "label": "C",
+     "text": "一回事"
+    },
+    {
+     "label": "D",
+     "text": "一輩子"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g13"
+  },
+  {
+   "n": 17,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "連"
+    },
+    {
+     "label": "B",
+     "text": "光"
+    },
+    {
+     "label": "C",
+     "text": "同"
+    },
+    {
+     "label": "D",
+     "text": "從"
+    }
+   ],
+   "crop": "q17.webp",
+   "showCrop": false,
+   "cropGap": 176,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g13"
+  },
+  {
+   "n": 18,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "受到"
+    },
+    {
+     "label": "B",
+     "text": "碰見"
+    },
+    {
+     "label": "C",
+     "text": "獲得"
+    },
+    {
+     "label": "D",
+     "text": "報答"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 176,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": "g13"
+  },
+  {
+   "n": 19,
+   "page": 8,
+   "stem": "關於旅行這件事，作者的想法是什麼？",
+   "context": "（一）\n方便的交通讓旅行更容易了，到哪兒都不是問題。旅行能讓身體好好放鬆，也許還能認識新朋友。可是，有些人一到旅行地點就是拿出手機照相，把拍的照片放網站上，告訴大家自己去過哪裡，都忘了好好看看這些風景。",
+   "options": [
+    {
+     "label": "A",
+     "text": "旅遊時應該多交新朋友"
+    },
+    {
+     "label": "B",
+     "text": "最好選擇交通方便的地方"
+    },
+    {
+     "label": "C",
+     "text": "享受風景比拍照來得重要"
+    },
+    {
+     "label": "D",
+     "text": "要把發生的事都記下來告訴大家"
+    }
+   ],
+   "crop": "q19.webp",
+   "showCrop": false,
+   "cropGap": 138,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g19"
+  },
+  {
+   "n": 20,
+   "page": 8,
+   "stem": "作者在這段話提到了自己的哪件事？",
+   "context": "（二）\n每到星期五，我總會去咖啡廳喝上一杯咖啡。咖啡廳內坐著來自四面八方的人，像是等待外帶的上班族、安靜閱讀書報的學生，或是與三五好友一起聊天的老人家。而我，通常選擇靠近窗戶的角落坐下來，在喝咖啡的同時，也觀察窗外人們的一舉一動，這是我最享受的休閒時光。",
+   "options": [
+    {
+     "label": "A",
+     "text": "平日喜愛在咖啡廳用餐"
+    },
+    {
+     "label": "B",
+     "text": "為恢復體力經常喝咖啡"
+    },
+    {
+     "label": "C",
+     "text": "在咖啡廳有特定的座位喜好"
+    },
+    {
+     "label": "D",
+     "text": "每週固定和朋友在咖啡廳聚餐"
+    }
+   ],
+   "crop": "q20.webp",
+   "showCrop": false,
+   "cropGap": 109,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g20"
+  },
+  {
+   "n": 21,
+   "page": 9,
+   "stem": "這家超級市場取消蔬果包裝的目的是什麼？",
+   "context": "（三）",
+   "options": [
+    {
+     "label": "A",
+     "text": "維持蔬果的新鮮度"
+    },
+    {
+     "label": "B",
+     "text": "方便客人自助選購"
+    },
+    {
+     "label": "C",
+     "text": "降低蔬果包裝的成本"
+    },
+    {
+     "label": "D",
+     "text": "減少蔬果包裝產生的垃圾"
+    }
+   ],
+   "crop": "q21.webp",
+   "showCrop": true,
+   "cropGap": 410,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 22,
+   "page": 9,
+   "stem": "在這家店裡買水果要怎麼做？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "請店員協助挑選新鮮水果"
+    },
+    {
+     "label": "B",
+     "text": "選擇自己需要的盒裝水果"
+    },
+    {
+     "label": "C",
+     "text": "將選好的水果交給店員計算價錢"
+    },
+    {
+     "label": "D",
+     "text": "確認籃子已貼上價錢貼紙再結帳"
+    }
+   ],
+   "crop": "q22.webp",
+   "showCrop": true,
+   "cropGap": 67,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 23,
+   "page": 10,
+   "stem": "小美為什麼要找人一起搭計程車？",
+   "context": "（四）",
+   "options": [
+    {
+     "label": "A",
+     "text": "可減少坐計程車的費用"
+    },
+    {
+     "label": "B",
+     "text": "她希望認識其他新朋友"
+    },
+    {
+     "label": "C",
+     "text": "多一些人坐車比較不無聊"
+    },
+    {
+     "label": "D",
+     "text": "最少要四個人才能搭計程車"
+    }
+   ],
+   "crop": "q23.webp",
+   "showCrop": true,
+   "cropGap": 356,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g23"
+  },
+  {
+   "n": 24,
+   "page": 10,
+   "stem": "有四組想去蘋果園的人給小美回了信，哪一組較符合小美的 條件？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "預計 8 月 15 日參觀的夫妻"
+    },
+    {
+     "label": "B",
+     "text": "計畫 8 月 16 日出發的母女"
+    },
+    {
+     "label": "C",
+     "text": "希望 8 月 17 日入園的兩位男大學生"
+    },
+    {
+     "label": "D",
+     "text": "決定 8 月 27 日動身的三名女高中生"
+    }
+   ],
+   "crop": "q24.webp",
+   "showCrop": true,
+   "cropGap": 100,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g23"
+  },
+  {
+   "n": 25,
+   "page": 11,
+   "stem": "根據這則廣告，做什麼有助於大腦健康？",
+   "context": "（五）",
+   "options": [
+    {
+     "label": "A",
+     "text": "和朋友玩桌上遊戲"
+    },
+    {
+     "label": "B",
+     "text": "盡量補充保健食品"
+    },
+    {
+     "label": "C",
+     "text": "避免使用電子產品"
+    },
+    {
+     "label": "D",
+     "text": "複習已知的舊知識"
+    }
+   ],
+   "crop": "q25.webp",
+   "showCrop": true,
+   "cropGap": 410,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g25"
+  },
+  {
+   "n": 26,
+   "page": 11,
+   "stem": "針對廣告中提到的課程，這則廣告公布了哪項資訊？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "申請步驟"
+    },
+    {
+     "label": "B",
+     "text": "報名資格"
+    },
+    {
+     "label": "C",
+     "text": "活動人數"
+    },
+    {
+     "label": "D",
+     "text": "截止日期"
+    }
+   ],
+   "crop": "q26.webp",
+   "showCrop": true,
+   "cropGap": 69,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g25"
+  },
+  {
+   "n": 27,
+   "page": 12,
+   "stem": "這篇文章主要在討論什麼？",
+   "context": "（六）\n一份有關成人學習時段偏好的調查顯示，多數成年人認為，夜晚是最適合學習的時間，贊同比例占 40%至 60%；其次是上午時段，多受不靠勞力工作的人所喜愛，如在學青年和退休人士。另外，在一週之中，週末被認為最不適合學習，原因在於成年人大多希望利用週末從事家庭休閒活動。\n成人教育課程的時間規劃正可由此得到啟發，比起過去一直被廣泛討論與強調的學習技巧，如果轉為綜合考察成年學習者的學習慣例，進行課程的安排與調整，肯定能達到更好的學習效果。",
+   "options": [
+    {
+     "label": "A",
+     "text": "選對方法學習不如選對時間"
+    },
+    {
+     "label": "B",
+     "text": "學習能力的高低與年齡沒關係"
+    },
+    {
+     "label": "C",
+     "text": "工作性質的差異對學習態度的影響"
+    },
+    {
+     "label": "D",
+     "text": "人的注意力只有到晚上才會較為集中"
+    }
+   ],
+   "crop": "q27.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g27"
+  },
+  {
+   "n": 28,
+   "page": 12,
+   "stem": "下面哪一項做法符合本文作者的建議？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "要求教學者多變換教學方式"
+    },
+    {
+     "label": "B",
+     "text": "鼓勵學習者多參加課外活動"
+    },
+    {
+     "label": "C",
+     "text": "規劃課程表時，應分職業排課"
+    },
+    {
+     "label": "D",
+     "text": "避開部分時段，提高學習意願"
+    }
+   ],
+   "crop": "q28.webp",
+   "showCrop": false,
+   "cropGap": 265,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g27"
+  },
+  {
+   "n": 29,
+   "page": 13,
+   "stem": "「血鑽石」名稱的由來和什麼有關係？",
+   "context": "（七）\n部分國家多年來因為宗教、種族和政治等因素，內部戰爭不斷。各方為能購買軍事武器，非法取得與販賣鑽石以賺取大量金錢，導致各方因為爭搶鑽石來源，又發動無數次的大小戰爭，造成數十萬人死亡，鮮血染紅了土地，這些閃閃發光的「鑽石」，又被稱為「血鑽石」。\n正因為有人願意買鑽石，以此滿足自己，就有人會為了挖鑽石而付出生命。為了一個浪漫的理由，卻間接助長了戰爭。當我們知道「血鑽石」背後的歷史後，怎麼還能不論代價，把它戴在身上呢？",
+   "options": [
+    {
+     "label": "A",
+     "text": "包裝手法"
+    },
+    {
+     "label": "B",
+     "text": "原始外觀"
+    },
+    {
+     "label": "C",
+     "text": "取得途徑"
+    },
+    {
+     "label": "D",
+     "text": "加工方式"
+    }
+   ],
+   "crop": "q29.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g29"
+  },
+  {
+   "n": 30,
+   "page": 13,
+   "stem": "作者最後提醒讀者什麼事？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "應該拒絕購買血鑽石"
+    },
+    {
+     "label": "B",
+     "text": "戰爭的嚴重性超出想像"
+    },
+    {
+     "label": "C",
+     "text": "鑽石能製造的浪漫有限"
+    },
+    {
+     "label": "D",
+     "text": "需重視血鑽石的高經濟價值"
+    }
+   ],
+   "crop": "q30.webp",
+   "showCrop": false,
+   "cropGap": 290,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g29"
+  },
+  {
+   "n": 31,
+   "page": 14,
+   "stem": "根據這張表，三個國家的社會住宅共同點是什麼？",
+   "context": "（八）",
+   "options": [
+    {
+     "label": "A",
+     "text": "沒有租屋使用的期限"
+    },
+    {
+     "label": "B",
+     "text": "由中央政府負責規劃"
+    },
+    {
+     "label": "C",
+     "text": "依家庭收入按比例付租金"
+    },
+    {
+     "label": "D",
+     "text": "戶數佔整體住宅量不到百分之十"
+    }
+   ],
+   "crop": "q31.webp",
+   "showCrop": true,
+   "cropGap": 338,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g31"
+  },
+  {
+   "n": 32,
+   "page": 14,
+   "stem": "從這張表可以得到什麼訊息？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "此表的製作時間"
+    },
+    {
+     "label": "B",
+     "text": "提供資料的單位"
+    },
+    {
+     "label": "C",
+     "text": "申請人的職業限制"
+    },
+    {
+     "label": "D",
+     "text": "社會住宅的居住人數"
+    }
+   ],
+   "crop": "q32.webp",
+   "showCrop": true,
+   "cropGap": 141,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g31"
+  },
+  {
+   "n": 33,
+   "page": 15,
+   "stem": "作者最後希望讀者怎麼做？",
+   "context": "（九）\n有三個正在學畫的年輕人，打算把自己的作品以一千元賣出，他們的顧客都說了相同的話：「您的畫恐怕還沒有一千元的價值吧？」其中一人聽了以後，仔細看了看自己的畫，最後不但以兩千元賣掉畫，還更加努力成為著名的畫家。另一人聽了以後只是把畫撕了，從此不畫了，他努力學習攝影而成為有名的攝影大師。第三人以為自己的畫真的不夠好，就降價以五百元賣出。最後他為了生活，只能在路邊賣些沒有價值的便宜畫作。\n批評有正面的鼓勵效果，可以讓人繼續努力往前走，或是指引你走向另一條成功的路；但它有時候是毒藥，會誤了別人一生。其實人的一生會遇到無數的批評，但自己的人生自己決定，在面對批評時反省與思考，就有機會使毒藥成為解藥。",
+   "options": [
+    {
+     "label": "A",
+     "text": "盡量對年輕人多說好話"
+    },
+    {
+     "label": "B",
+     "text": "勿學買畫的顧客亂殺價"
+    },
+    {
+     "label": "C",
+     "text": "要試著學習講價的技巧"
+    },
+    {
+     "label": "D",
+     "text": "想好自己要過哪種生活"
+    }
+   ],
+   "crop": "q33.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g33"
+  },
+  {
+   "n": 34,
+   "page": 15,
+   "stem": "作者的寫作方式是什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "先說故事，再說道理"
+    },
+    {
+     "label": "B",
+     "text": "先下定義，再說明想法"
+    },
+    {
+     "label": "C",
+     "text": "先說狀況，再陳述意見"
+    },
+    {
+     "label": "D",
+     "text": "先說道理，再用感情說服"
+    }
+   ],
+   "crop": "q34.webp",
+   "showCrop": false,
+   "cropGap": 207,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g33"
+  },
+  {
+   "n": 35,
+   "page": 17,
+   "stem": "這篇文章主要探討哪件事？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "推銷語言的影響力"
+    },
+    {
+     "label": "B",
+     "text": "健康飲料有何好處"
+    },
+    {
+     "label": "C",
+     "text": "如何設計商品包裝"
+    },
+    {
+     "label": "D",
+     "text": "消費者心態的變化"
+    }
+   ],
+   "crop": "q35.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g33"
+  },
+  {
+   "n": 36,
+   "page": 17,
+   "stem": "關於「熱狗水」 ，下面哪一個是對的？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "利用低價吸引消費者"
+    },
+    {
+     "label": "B",
+     "text": "成分其實不包含熱狗"
+    },
+    {
+     "label": "C",
+     "text": "能夠有效改善身體健康"
+    },
+    {
+     "label": "D",
+     "text": "是一個行為實驗的工具"
+    }
+   ],
+   "crop": "q36.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g33"
+  },
+  {
+   "n": 37,
+   "page": 17,
+   "stem": "作者覺得買「熱狗水」的人怎麼樣？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "恐怕一錯再錯"
+    },
+    {
+     "label": "B",
+     "text": "被冤枉為騙子"
+    },
+    {
+     "label": "C",
+     "text": "購物十分謹慎"
+    },
+    {
+     "label": "D",
+     "text": "不易相信別人"
+    }
+   ],
+   "crop": "q37.webp",
+   "showCrop": false,
+   "cropGap": 383,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g33"
+  },
+  {
+   "n": 38,
+   "page": 19,
+   "stem": "有關這家租車公司的服務，下面哪一個是正確的？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "當天租車得付手續費"
+    },
+    {
+     "label": "B",
+     "text": "租車費只有假日才打折"
+    },
+    {
+     "label": "C",
+     "text": "提前訂車要先付全部租金"
+    },
+    {
+     "label": "D",
+     "text": "訂車完成後可隨時去拿車"
+    }
+   ],
+   "crop": "q38.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g33"
+  },
+  {
+   "n": 39,
+   "page": 19,
+   "stem": "根據這份說明，想在這家公司租車的消費者，要注意什麼事？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "訂車的時候服務員會先檢查身分證"
+    },
+    {
+     "label": "B",
+     "text": "當天臨時取消租車無法拿回租車費"
+    },
+    {
+     "label": "C",
+     "text": "最晚要在約定日期的晚上十點前還車"
+    },
+    {
+     "label": "D",
+     "text": "只要超過還車時間就得多付一天租金"
+    }
+   ],
+   "crop": "q39.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g33"
+  },
+  {
+   "n": 40,
+   "page": 19,
+   "stem": "王先生計畫下個月帶家人出門玩幾天，如果他想得到這家租車公 司的優惠，可以怎麼做？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "從星期五開始連續租車三天"
+    },
+    {
+     "label": "B",
+     "text": "一個月前打電話到門市租車"
+    },
+    {
+     "label": "C",
+     "text": "每天開車不能超過四百公里"
+    },
+    {
+     "label": "D",
+     "text": "到門市用現金付完所有費用"
+    }
+   ],
+   "crop": "q40.webp",
+   "showCrop": false,
+   "cropGap": 363,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g33"
+  },
+  {
+   "n": 41,
+   "page": 20,
+   "stem": "作者認為有些人害怕一個人吃飯的原因是什麼？",
+   "context": "（十二）\n在某些社會文化中，由於「一個人吃飯」通常與被孤立、沒朋友、不懂社交等負面印象聯繫在一起，所以一個人走進餐廳就成了許多人害怕的事。但，獨自吃飯真是一件那麼糟糕的事嗎？\n事實上，一個人並不意味著寂寞，與此相反，更可以將注意力放在享受餐盤上的美食。當然，與他人分享、交流時能帶給人們滿足與快樂，而當你已經在人際相處上付出了許多時間後，更應該為自己保留一些獨處的空間；當你因為獨自吃飯而害怕被貼上「人際障礙」的標籤時，也許根本沒有人注意到你，或是覺得你性格古怪。\n忙碌的生活常常讓我們忽略與自己獨處的重要性，哪怕是一頓飯、一部電影的時間，都是面對自己的好機會。久而久之，你將發現，那些異樣眼光只是一種自我限制，而能一個人吃飯，竟然是那麼寶貴。",
+   "options": [
+    {
+     "label": "A",
+     "text": "不敢違反社交規定"
+    },
+    {
+     "label": "B",
+     "text": "太在意別人的想法"
+    },
+    {
+     "label": "C",
+     "text": "不能分享最新的消息"
+    },
+    {
+     "label": "D",
+     "text": "擔心錯過朋友的邀請"
+    }
+   ],
+   "crop": "q41.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g41"
+  },
+  {
+   "n": 42,
+   "page": 20,
+   "stem": "關於「害怕一個人吃飯」 ，下面哪句話可以用來說明作者的觀點？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "無疑是自己嚇自己"
+    },
+    {
+     "label": "B",
+     "text": "反而更不顧別人感受"
+    },
+    {
+     "label": "C",
+     "text": "負面評價自有他的道理"
+    },
+    {
+     "label": "D",
+     "text": "每個人都得面對生活的寂寞"
+    }
+   ],
+   "crop": "q42.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g41"
+  },
+  {
+   "n": 43,
+   "page": 20,
+   "stem": "根據本文，作者認為「一個人」的優點是什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "不必擔心事情被中途打斷"
+    },
+    {
+     "label": "B",
+     "text": "能消除人與人之間的防備"
+    },
+    {
+     "label": "C",
+     "text": "對所做的事情能更加投入"
+    },
+    {
+     "label": "D",
+     "text": "能建立起獨立自主的形象"
+    }
+   ],
+   "crop": "q43.webp",
+   "showCrop": false,
+   "cropGap": 69,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g41"
+  },
+  {
+   "n": 44,
+   "page": 21,
+   "stem": "作者覺得使用傳統名片的缺點是什麼？",
+   "context": "（十三）\n在商業活動中，與他人見面交流時，第一步常是交換名片。只是拿到這麼多名片，一方面容易遺失，一方面經過長時間，名片都可以堆成小山了，不只查找不便，也浪費很多空間。\n好在電子時代來臨，現在很多人已經選擇使用電子名片。初次見面的時候，雙方可以打開彼此手機裡的電子名片程式，利用自動輸入功能交換彼此的資料。除了可以快速輸入與查找資料外，還能連結手機裡的電話、電子郵件與地圖。和傳統名片不同的是，它能隨時更新資料和照片，不需要換名片，減少了製作名片的材料和成本。只可惜，目前在一些網路不發達的區域，無法隨意使用電子名片，而且要讓不同的名片程式能夠相互交換資料是有困難的。如果要讓電子名片更普遍，仍然需要政府協助建設網路，以及民間企業的配合才行。",
+   "options": [
+    {
+     "label": "A",
+     "text": "交換時常浪費不少時間"
+    },
+    {
+     "label": "B",
+     "text": "其材質容易弄髒不耐用"
+    },
+    {
+     "label": "C",
+     "text": "收到太多名片很難找資料"
+    },
+    {
+     "label": "D",
+     "text": "年輕人很少使用傳統名片"
+    }
+   ],
+   "crop": "q44.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g44"
+  },
+  {
+   "n": 45,
+   "page": 21,
+   "stem": "文中提到電子名片不能完全取代傳統名片的原因為何？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "學習操作的步驟較複雜"
+    },
+    {
+     "label": "B",
+     "text": "部分地區的網路設備差"
+    },
+    {
+     "label": "C",
+     "text": "事先輸入資料很花時間"
+    },
+    {
+     "label": "D",
+     "text": "傳統名片較有個人特色"
+    }
+   ],
+   "crop": "q45.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g44"
+  },
+  {
+   "n": 46,
+   "page": 21,
+   "stem": "針對發展電子名片一事，作者最後給政府什麼建議？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "應主動設計統一的使用工具"
+    },
+    {
+     "label": "B",
+     "text": "需交由企業投資建設大量網路"
+    },
+    {
+     "label": "C",
+     "text": "全面調查使用現況，再決定是否需普及"
+    },
+    {
+     "label": "D",
+     "text": "設法結合多方資源，制定相關政策與措施"
+    }
+   ],
+   "crop": "q46.webp",
+   "showCrop": false,
+   "cropGap": 89,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g44"
+  },
+  {
+   "n": 47,
+   "page": 23,
+   "stem": "下面哪一項是這家公司開出的徵求條件？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "能隨時以英語信件與客戶往來"
+    },
+    {
+     "label": "B",
+     "text": "在客戶說話時馬上翻譯成中文"
+    },
+    {
+     "label": "C",
+     "text": "工作表現能讓總經理印象深刻"
+    },
+    {
+     "label": "D",
+     "text": "個性實在做事負責不欺騙上司"
+    }
+   ],
+   "crop": "q47.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g44"
+  },
+  {
+   "n": 48,
+   "page": 23,
+   "stem": "總經理面試時為什麼說文奇救了他女兒？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "他希望文奇能輕鬆一點"
+    },
+    {
+     "label": "B",
+     "text": "他得確認文奇真正的身分"
+    },
+    {
+     "label": "C",
+     "text": "他想觀察文奇當時的反應"
+    },
+    {
+     "label": "D",
+     "text": "他要表揚文奇幫助他女兒"
+    }
+   ],
+   "crop": "q48.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g44"
+  },
+  {
+   "n": 49,
+   "page": 23,
+   "stem": "文奇被總經理錄用最主要的原因是什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "總經理認錯人了"
+    },
+    {
+     "label": "B",
+     "text": "他是一個誠實的人"
+    },
+    {
+     "label": "C",
+     "text": "他救了總經理的女兒"
+    },
+    {
+     "label": "D",
+     "text": "他通過了公司的筆試"
+    }
+   ],
+   "crop": "q49.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g44"
+  },
+  {
+   "n": 50,
+   "page": 23,
+   "stem": "我們可以從這篇文章中知道文奇哪件事？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "他是一個女兒的父親"
+    },
+    {
+     "label": "B",
+     "text": "游泳是他拿手的運動"
+    },
+    {
+     "label": "C",
+     "text": "只有他一人被該公司錄取"
+    },
+    {
+     "label": "D",
+     "text": "他能輕鬆用英語與人談話"
+    }
+   ],
+   "crop": "q50.webp",
+   "showCrop": false,
+   "cropGap": 263,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g44"
+  }
+ ],
+ "audio": null,
+ "fullScript": null,
+ "optionCount": 4
+}

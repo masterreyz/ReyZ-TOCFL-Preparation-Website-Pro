@@ -1,0 +1,259 @@
+{
+ "id": "c1-wo",
+ "level": "c1",
+ "kind": "workbook",
+ "label": "Workbook 作業本",
+ "pages": 55,
+ "source": {
+  "folder": "5. 第五本 (C1)",
+  "file": "TOCFL C1 Workbook.pdf",
+  "audioDir": "5. 第五本 (C1)/TOCFL C1 Workbook Audio"
+ },
+ "frontMatter": {
+  "start": 1,
+  "end": 2
+ },
+ "backMatter": null,
+ "lessons": [
+  {
+   "n": 1,
+   "start": 3,
+   "end": 6,
+   "headerPage": null,
+   "detection": {
+    "override": 3
+   },
+   "titleOcr": "言論自由的界線",
+   "titleVerified": true,
+   "id": "c1-wo-l01",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "01.mp3",
+     "lesson": 1,
+     "label": "01",
+     "src": "study/c1-wo/01.mp3"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 7,
+   "end": 10,
+   "headerPage": null,
+   "detection": {
+    "override": 7
+   },
+   "titleOcr": "關於基改食品，我有話要說",
+   "titleVerified": true,
+   "id": "c1-wo-l02",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "02.mp3",
+     "lesson": 2,
+     "label": "02",
+     "src": "study/c1-wo/02.mp3"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 11,
+   "end": 14,
+   "headerPage": 13,
+   "detection": {
+    "header": 13,
+    "opener": null,
+    "audioMarker": 11,
+    "override": 11
+   },
+   "titleOcr": "整型好不好",
+   "titleVerified": true,
+   "id": "c1-wo-l03",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "03.mp3",
+     "lesson": 3,
+     "label": "03",
+     "src": "study/c1-wo/03.mp3"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 15,
+   "end": 18,
+   "headerPage": 17,
+   "detection": {
+    "header": 17,
+    "opener": null,
+    "audioMarker": null,
+    "override": 15
+   },
+   "titleOcr": "傳統與現代",
+   "titleVerified": true,
+   "id": "c1-wo-l04",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "04.mp3",
+     "lesson": 4,
+     "label": "04",
+     "src": "study/c1-wo/04.mp3"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 19,
+   "end": 22,
+   "headerPage": null,
+   "detection": {
+    "header": null,
+    "opener": null,
+    "audioMarker": 19,
+    "override": 19
+   },
+   "titleOcr": "代理孕母，帶來幸福？",
+   "titleVerified": true,
+   "id": "c1-wo-l05",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "05.mp3",
+     "lesson": 5,
+     "label": "05",
+     "src": "study/c1-wo/05.mp3"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 23,
+   "end": 26,
+   "headerPage": 25,
+   "detection": {
+    "header": 25,
+    "opener": null,
+    "audioMarker": 23,
+    "override": 23
+   },
+   "titleOcr": "死刑的存廢",
+   "titleVerified": true,
+   "id": "c1-wo-l06",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "06.mp3",
+     "lesson": 6,
+     "label": "06",
+     "src": "study/c1-wo/06.mp3"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 27,
+   "end": 30,
+   "headerPage": 29,
+   "detection": {
+    "header": 29,
+    "opener": null,
+    "audioMarker": 27,
+    "override": 27
+   },
+   "titleOcr": "增富人稅＝減窮人苦？",
+   "titleVerified": true,
+   "id": "c1-wo-l07",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "07.mp3",
+     "lesson": 7,
+     "label": "07",
+     "src": "study/c1-wo/07.mp3"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 31,
+   "end": 34,
+   "headerPage": null,
+   "detection": {
+    "override": 31
+   },
+   "titleOcr": "左右為難的難民問題",
+   "titleVerified": true,
+   "id": "c1-wo-l08",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "08.mp3",
+     "lesson": 8,
+     "label": "08",
+     "src": "study/c1-wo/08.mp3"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "start": 35,
+   "end": 38,
+   "headerPage": 37,
+   "detection": {
+    "header": 37,
+    "opener": null,
+    "audioMarker": null,
+    "override": 35
+   },
+   "titleOcr": "有核到底可不可？",
+   "titleVerified": true,
+   "id": "c1-wo-l09",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "09.mp3",
+     "lesson": 9,
+     "label": "09",
+     "src": "study/c1-wo/09.mp3"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "start": 39,
+   "end": 55,
+   "headerPage": 41,
+   "detection": {
+    "header": 41,
+    "opener": null,
+    "audioMarker": 39,
+    "override": 39
+   },
+   "titleOcr": "同性婚姻合法化",
+   "titleVerified": true,
+   "id": "c1-wo-l10",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "10.mp3",
+     "lesson": 10,
+     "label": "10",
+     "src": "study/c1-wo/10.mp3"
+    }
+   ]
+  }
+ ],
+ "otherTracks": [
+  {
+   "file": "00.mp3",
+   "lesson": null,
+   "label": "00",
+   "src": "study/c1-wo/00.mp3"
+  }
+ ],
+ "audioFiles": 11
+}

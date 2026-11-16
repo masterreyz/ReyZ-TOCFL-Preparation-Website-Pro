@@ -1,0 +1,2448 @@
+{
+ "id": "b-l2",
+ "band": "b",
+ "skill": "listening",
+ "series": 2,
+ "title": "Band B Listening · Series 2",
+ "source": {
+  "folder": "3. TOCFL Band B/Listening/Listening Test Series 2",
+  "booklet": "ls_mock2_test_BandB_t.pdf",
+  "answer": "ls_mock2_test_BandB_answer.pdf",
+  "script": "ls_mock2_test_BandB_listen.pdf"
+ },
+ "timeMinutes": null,
+ "parts": [
+  {
+   "title": "一、對話",
+   "subtitle": "",
+   "instructions": "說明：在這個部分，你會聽到幾段兩個人的對話，每段對話結束\n後，會問幾個問題。每個問題都有(A)(B)(C)(D)四個選項，\n這四個選項的內容也會出現在題本上。",
+   "instructionsEn": "",
+   "page": 3,
+   "from": 1,
+   "to": 30,
+   "grouped": false
+  },
+  {
+   "title": "二、段落",
+   "subtitle": "",
+   "instructions": "說明：在這個部分，你會聽到幾段話。每段話結束後，會問幾個\n問題。每個問題都有(A)(B)(C)(D)四個選項，這四個選項的\n內容也會出現在題本上。",
+   "instructionsEn": "",
+   "page": 13,
+   "from": 31,
+   "to": 50,
+   "grouped": true
+  }
+ ],
+ "questions": [
+  {
+   "n": 1,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "白天都是晴天"
+    },
+    {
+     "label": "B",
+     "text": "沒有什麼變化"
+    },
+    {
+     "label": "C",
+     "text": "下午天氣會改變"
+    },
+    {
+     "label": "D",
+     "text": "從早到晚一直下雨"
+    }
+   ],
+   "crop": "q1.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "男：現在天氣真好，吃完午餐一起出去走走吧！\n女：下午可能下大雨，還是待在家吧。\n男：今天天氣怎麼樣？",
+   "part": 0,
+   "group": null,
+   "audio": [
+    2
+   ]
+  },
+  {
+   "n": 2,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "很生動"
+    },
+    {
+     "label": "B",
+     "text": "很豐富"
+    },
+    {
+     "label": "C",
+     "text": "很有趣"
+    },
+    {
+     "label": "D",
+     "text": "很難懂"
+    }
+   ],
+   "crop": "q2.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "D",
+   "gradable": true,
+   "transcript": "男：這本書你看完了吧，覺得怎麼樣？\n女：我真想問問寫書的人，到底想寫什麼，我怎麼看都看不懂！\n男：這位小姐覺得這本書怎麼樣？",
+   "part": 0,
+   "group": null,
+   "audio": [
+    3
+   ]
+  },
+  {
+   "n": 3,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "她會陪美美去醫院"
+    },
+    {
+     "label": "B",
+     "text": "她不知道美美生病了"
+    },
+    {
+     "label": "C",
+     "text": "美美剛剛去過醫院了"
+    },
+    {
+     "label": "D",
+     "text": "美美已經感冒一段時間了"
+    }
+   ],
+   "crop": "q3.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "男：美美今天早上和我說她頭疼得不得了。\n女：她有點兒發燒，不知道是不是感冒了？我等會兒帶她去看病。\n男：這位小姐的意思是什麼？",
+   "part": 0,
+   "group": null,
+   "audio": [
+    4
+   ]
+  },
+  {
+   "n": 4,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "小張今天請假了"
+    },
+    {
+     "label": "B",
+     "text": "她也不知道原因"
+    },
+    {
+     "label": "C",
+     "text": "她剛剛打給小張了"
+    },
+    {
+     "label": "D",
+     "text": "小張應該打電話給她"
+    }
+   ],
+   "crop": "q4.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "男：小張怎麼還沒來上班？\n女：我打個電話問問他吧！\n男：這位小姐的意思是什麼？",
+   "part": 0,
+   "group": null,
+   "audio": [
+    5
+   ]
+  },
+  {
+   "n": 5,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "先吃飯，再吃藥"
+    },
+    {
+     "label": "B",
+     "text": "吃飯前，先吃藥"
+    },
+    {
+     "label": "C",
+     "text": "沒吃藥，不可以吃飯"
+    },
+    {
+     "label": "D",
+     "text": "沒吃飯，也可以吃藥"
+    }
+   ],
+   "crop": "q5.webp",
+   "showCrop": false,
+   "cropGap": 141,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "男：啊，該吃藥了。\n女：不行，你飯都還沒吃呢。醫生不是要你吃完飯以後三十分鐘，再吃嗎？\n男：這位小姐的意思是什麼？",
+   "part": 0,
+   "group": null,
+   "audio": [
+    6
+   ]
+  },
+  {
+   "n": 6,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "衣服大小剛好"
+    },
+    {
+     "label": "B",
+     "text": "她有些不滿意"
+    },
+    {
+     "label": "C",
+     "text": "價錢有一點貴"
+    },
+    {
+     "label": "D",
+     "text": "設計不夠特別"
+    }
+   ],
+   "crop": "q6.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "男：這件衣服又便宜又特別。\n女：要是再大一點就更好了！\n男：這位小姐的意思是什麼？",
+   "part": 0,
+   "group": null,
+   "audio": [
+    7
+   ]
+  },
+  {
+   "n": 7,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "她現在就要決定"
+    },
+    {
+     "label": "B",
+     "text": "她等一下就會決定"
+    },
+    {
+     "label": "C",
+     "text": "她有空的時候再決定"
+    },
+    {
+     "label": "D",
+     "text": "她要這位先生自己決定"
+    }
+   ],
+   "crop": "q7.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "男：你決定新桌子的顏色了嗎？我想等一下就去買。\n女：這件事沒那麼急，等我不忙的時候再說吧。\n男：這位小姐什麼時候做決定？",
+   "part": 0,
+   "group": null,
+   "audio": [
+    8
+   ]
+  },
+  {
+   "n": 8,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "媽媽很容易生氣"
+    },
+    {
+     "label": "B",
+     "text": "他們讓媽媽生氣了"
+    },
+    {
+     "label": "C",
+     "text": "沒人了解媽媽生氣的原因"
+    },
+    {
+     "label": "D",
+     "text": "她不想知道媽媽為什麼生氣"
+    }
+   ],
+   "crop": "q8.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "男：媽媽為什麼這麼生氣？\n女：誰知道！問她什麼話都不說。\n男：這位小姐的意思是什麼？",
+   "part": 0,
+   "group": null,
+   "audio": [
+    9
+   ]
+  },
+  {
+   "n": 9,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "張小姐出國了"
+    },
+    {
+     "label": "B",
+     "text": "張小姐剛從美國回來"
+    },
+    {
+     "label": "C",
+     "text": "沒人知道張小姐去哪兒"
+    },
+    {
+     "label": "D",
+     "text": "沒人清楚張小姐這個人"
+    }
+   ],
+   "crop": "q9.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "男：張小姐呢？我好幾天沒看見她了。\n女：難道你不知道她到美國去了？\n男：這段對話的意思是什麼？",
+   "part": 0,
+   "group": null,
+   "audio": [
+    10
+   ]
+  },
+  {
+   "n": 10,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "夫妻倆自己出門"
+    },
+    {
+     "label": "B",
+     "text": "帶著家人看電影"
+    },
+    {
+     "label": "C",
+     "text": "帶孩子到餐廳吃飯"
+    },
+    {
+     "label": "D",
+     "text": "打電話約媽媽一同慶祝"
+    }
+   ],
+   "crop": "q10.webp",
+   "showCrop": false,
+   "cropGap": 141,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "男：週末是我們結婚滿四年的紀念日，我們就帶小寶到第一次約會的餐廳吧！\n女：這樣多沒意思啊！不如明天給媽媽打個電話，拜託她照顧小寶一天，我們倆\n外出吃飯、看電影，放鬆一下。\n男：這位太太希望怎麼慶祝？",
+   "part": 0,
+   "group": null,
+   "audio": [
+    11
+   ]
+  },
+  {
+   "n": 11,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "家裡已經沒牛奶了"
+    },
+    {
+     "label": "B",
+     "text": "她要買青菜和水果"
+    },
+    {
+     "label": "C",
+     "text": "今天牛奶比較便宜"
+    },
+    {
+     "label": "D",
+     "text": "今天買青菜就送水果"
+    }
+   ],
+   "crop": "q11.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "男：咦，你怎麼全買牛奶啊？家裡不是還有？\n女：嗯，今天牛奶很便宜，買三瓶送兩瓶。\n男：那青菜水果呢？我們不是說好要買些青菜水果的…\n女：啊，我忘了。\n男：這位小姐為什麼去買東西？",
+   "part": 0,
+   "group": null,
+   "audio": [
+    12
+   ]
+  },
+  {
+   "n": 12,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "請客只是一件小事"
+    },
+    {
+     "label": "B",
+     "text": "她有空就幫忙搬家"
+    },
+    {
+     "label": "C",
+     "text": "她星期六不方便搬家"
+    },
+    {
+     "label": "D",
+     "text": "這位先生不必請她吃飯"
+    }
+   ],
+   "crop": "q12.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "D",
+   "gradable": true,
+   "transcript": "男：這星期六我想請你吃飯，你有空嗎？\n女：嗯，星期六不太方便，您不用麻煩了。\n男：不行！我一定得請你吃飯，謝謝你幫我搬家。\n女：您真是太客氣了，那只是小事一件。\n男：這位小姐的意思是什麼?",
+   "part": 0,
+   "group": null,
+   "audio": [
+    13
+   ]
+  },
+  {
+   "n": 13,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "她得寫完功課才能看電影"
+    },
+    {
+     "label": "B",
+     "text": "她想看電影，可是功課更重要"
+    },
+    {
+     "label": "C",
+     "text": "她答應和這位先生一起看電影"
+    },
+    {
+     "label": "D",
+     "text": "除了功課，最重要的事就是看電影"
+    }
+   ],
+   "crop": "q13.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "男：小美，這個禮拜天你有空嗎？\n女：我得在家寫功課。有什麼事嗎？\n男：那天是我的生日，我想約你一起去看電影。\n女：當然沒問題啊！你的生日比任何事都重要。\n男：這位小姐的意思是什麼？",
+   "part": 0,
+   "group": null,
+   "audio": [
+    14
+   ]
+  },
+  {
+   "n": 14,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "餐廳"
+    },
+    {
+     "label": "B",
+     "text": "郵局"
+    },
+    {
+     "label": "C",
+     "text": "旅館"
+    },
+    {
+     "label": "D",
+     "text": "飛機上"
+    }
+   ],
+   "crop": "q14.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "男：你在看什麼啊？\n女：喔，是一位客人寄來的信，他說非常感謝我們對他的照顧。\n男：這麼客氣，信裡還說些什麼呢？\n女：他說我們的服務很好，住在這裡，感覺就像是住在自己的家裡。\n男：這位小姐在哪裡工作？",
+   "part": 0,
+   "group": null,
+   "audio": [
+    15
+   ]
+  },
+  {
+   "n": 15,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "她要小林陪她喝飲料"
+    },
+    {
+     "label": "B",
+     "text": "她要小林喝一點飲料"
+    },
+    {
+     "label": "C",
+     "text": "她不好意思讓小林請客"
+    },
+    {
+     "label": "D",
+     "text": "她點跟小林一樣的飲料"
+    }
+   ],
+   "crop": "q15.webp",
+   "showCrop": false,
+   "cropGap": 141,
+   "answer": "D",
+   "gradable": true,
+   "transcript": "男：小雪，我在這兒！\n女：啊！小林，不好意思，我來晚了！\n男：沒關係，坐吧，想喝什麼？我請你。\n女：謝謝你！就來一杯和你一樣的吧！。\n男：這位小姐的意思是什麼?",
+   "part": 0,
+   "group": null,
+   "audio": [
+    16
+   ]
+  },
+  {
+   "n": 16,
+   "page": 7,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "杯子和碗她都想買"
+    },
+    {
+     "label": "B",
+     "text": "喜歡什麼就買什麼"
+    },
+    {
+     "label": "C",
+     "text": "她同意這位男生說的話"
+    },
+    {
+     "label": "D",
+     "text": "杯子和碗只能選擇一個"
+    }
+   ],
+   "crop": "q16.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "男：你覺得這個碗怎麼樣，很漂亮吧。\n女：還可以，你看看旁邊這個杯子，怎麼樣？\n男：我還是比較喜歡這個碗。\n女：那麼我們就各買各的吧！\n男：這位小姐的意思是什麼？",
+   "part": 0,
+   "group": null,
+   "audio": [
+    17
+   ]
+  },
+  {
+   "n": 17,
+   "page": 7,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "她也要搭火車到東部"
+    },
+    {
+     "label": "B",
+     "text": "這位先生可以搭她的車"
+    },
+    {
+     "label": "C",
+     "text": "她想載這位先生一起到東部去"
+    },
+    {
+     "label": "D",
+     "text": "她想告訴這位先生怎麼去車站"
+    }
+   ],
+   "crop": "q17.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "男：我這個週末想到東部走走。\n女：怎麼去？搭火車還是開車呢？\n男：我打算搭火車。不過，我才剛搬來這裡，連火車站在哪都不知道。\n女：這樣吧，我明天上午正好有事要到車站附近，我載你去。\n男：這位小姐的意思是什麼?",
+   "part": 0,
+   "group": null,
+   "audio": [
+    18
+   ]
+  },
+  {
+   "n": 18,
+   "page": 7,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "她目前不需要鍋子"
+    },
+    {
+     "label": "B",
+     "text": "她最近正好缺了鍋子"
+    },
+    {
+     "label": "C",
+     "text": "她喜歡自己買的鍋子"
+    },
+    {
+     "label": "D",
+     "text": "她正想送鍋子給這位先生"
+    }
+   ],
+   "crop": "q18.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "男：你家裡缺不缺鍋子？\n女：怎麼了？要送我啊？\n男：我女朋友走了以後，沒人做飯給我吃，家裡那些鍋子，用不著了。\n女：謝謝你的好意。我家裡什麼都缺，就是不缺鍋子。\n男：這位小姐的意思是什麼?",
+   "part": 0,
+   "group": null,
+   "audio": [
+    19
+   ]
+  },
+  {
+   "n": 19,
+   "page": 7,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "他還沒找到工作"
+    },
+    {
+     "label": "B",
+     "text": "他下星期要參加面試"
+    },
+    {
+     "label": "C",
+     "text": "他只和玲玲說找工作的事"
+    },
+    {
+     "label": "D",
+     "text": "他將和玲玲在同一家公司上班"
+    }
+   ],
+   "crop": "q19.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "D",
+   "gradable": true,
+   "transcript": "男：玲玲，恭喜我吧！從下星期一開始，我們就是同事了。\n女：你什麼時候到我們公司參加面試的，我怎麼不知道？\n男：我誰也沒說，就怕說了卻沒錄取，那可就難看了。\n女：你真是愛面子，歡迎你加入我們的行列。\n男：這位先生怎麼了?",
+   "part": 0,
+   "group": null,
+   "audio": [
+    20
+   ]
+  },
+  {
+   "n": 20,
+   "page": 7,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "她準備充分後才購物"
+    },
+    {
+     "label": "B",
+     "text": "她最近得到了一筆獎金"
+    },
+    {
+     "label": "C",
+     "text": "她錯過了這次的折扣活動"
+    },
+    {
+     "label": "D",
+     "text": "她答應順便幫朋友買東西"
+    }
+   ],
+   "crop": "q20.webp",
+   "showCrop": false,
+   "cropGap": 141,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "男：看你手上提著這麼多東西，連開門都需要人幫忙，你中大獎嗎？\n女：沒這回事。今天百貨公司打折，我去搶便宜，省了不少呢！\n男：就算是這樣，東西也多得太誇張了，是不是有朋友請你幫忙買？\n女：這些都是我的，我可是做足了功課才買的。要是錯過這次，那才叫損失。\n男：從這段話，我們知道這位小姐什麼事？",
+   "part": 0,
+   "group": null,
+   "audio": [
+    21
+   ]
+  },
+  {
+   "n": 21,
+   "page": 8,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "參加慢跑"
+    },
+    {
+     "label": "B",
+     "text": "找人幫忙"
+    },
+    {
+     "label": "C",
+     "text": "製作海報"
+    },
+    {
+     "label": "D",
+     "text": "幫人報名"
+    }
+   ],
+   "crop": "q21.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "小雪忘了哪件事？",
+   "transcriptIntro": "下面是同事之間的對話，請聽完對話後，回答兩個問題。\n男：小雪，宣傳單、海報做好了嗎？\n女：什麼活動？\n男：慢跑活動啊！你看看白板，我還在上頭標記這件事很重要！\n女：糟糕！老闆，對不起，我真忘了。\n男：你究竟記得哪件事啊！這件事來不及處理好的話，你就不用來了。\n女：我馬上找老王、小陳來支援。",
+   "transcriptLead": 21,
+   "part": 0,
+   "group": null,
+   "audio": [
+    22,
+    23
+   ]
+  },
+  {
+   "n": 22,
+   "page": 8,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "要小雪立刻辭職"
+    },
+    {
+     "label": "B",
+     "text": "要小雪趕快補救"
+    },
+    {
+     "label": "C",
+     "text": "要小雪別再宣傳活動"
+    },
+    {
+     "label": "D",
+     "text": "要小雪記住重要的事"
+    }
+   ],
+   "crop": "q22.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "最後，這位老闆的意思是什麼？",
+   "transcriptIntro": "下面是同事之間的對話，請聽完對話後，回答兩個問題。\n男：小雪，宣傳單、海報做好了嗎？\n女：什麼活動？\n男：慢跑活動啊！你看看白板，我還在上頭標記這件事很重要！\n女：糟糕！老闆，對不起，我真忘了。\n男：你究竟記得哪件事啊！這件事來不及處理好的話，你就不用來了。\n女：我馬上找老王、小陳來支援。",
+   "transcriptLead": 21,
+   "part": 0,
+   "group": null,
+   "audio": [
+    22,
+    24
+   ]
+  },
+  {
+   "n": 23,
+   "page": 8,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "他的健康出了問題"
+    },
+    {
+     "label": "B",
+     "text": "買不到進口食品了"
+    },
+    {
+     "label": "C",
+     "text": "肉類產品的供應持續缺乏"
+    },
+    {
+     "label": "D",
+     "text": "越來越多的食物出了狀況"
+    }
+   ],
+   "crop": "q23.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "D",
+   "gradable": true,
+   "transcript": "這位先生為什麼覺得煩？",
+   "transcriptIntro": "下面是兩位朋友的對話，請聽完對話後，回答兩個問題。\n男：真煩！最近什麼都不能吃，連奶粉都有問題。\n女：我只聽說牛肉、雞肉有問題，怎麼連奶粉也出問題了？\n男：你還不知道啊！昨晚新聞說有幾家國內知名廠商的奶粉，在加工過程中偷偷\n加入了會傷害人體健康的化學品。\n女：這也太誇張了吧！奶粉不是從鮮奶直接加工來的嗎？為什麼還要加化學品\n呢？\n男：據說可以降低製作成本，所以就有不良廠商這麼做。\n女：那我得趕緊看看剛買的嬰兒奶粉是不是有問題的商家製造的。",
+   "transcriptLead": 23,
+   "part": 0,
+   "group": null,
+   "audio": [
+    25,
+    26
+   ]
+  },
+  {
+   "n": 24,
+   "page": 8,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "買大廠製的奶粉比較有保障"
+    },
+    {
+     "label": "B",
+     "text": "商店聯合調高嬰兒奶粉的售價"
+    },
+    {
+     "label": "C",
+     "text": "買奶粉時要留意問題廠商有哪些"
+    },
+    {
+     "label": "D",
+     "text": "嬰兒奶粉缺貨的情況越來越嚴重"
+    }
+   ],
+   "crop": "q24.webp",
+   "showCrop": false,
+   "cropGap": 261,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "從對話中可以知道什麼事？",
+   "transcriptIntro": "下面是兩位朋友的對話，請聽完對話後，回答兩個問題。\n男：真煩！最近什麼都不能吃，連奶粉都有問題。\n女：我只聽說牛肉、雞肉有問題，怎麼連奶粉也出問題了？\n男：你還不知道啊！昨晚新聞說有幾家國內知名廠商的奶粉，在加工過程中偷偷\n加入了會傷害人體健康的化學品。\n女：這也太誇張了吧！奶粉不是從鮮奶直接加工來的嗎？為什麼還要加化學品\n呢？\n男：據說可以降低製作成本，所以就有不良廠商這麼做。\n女：那我得趕緊看看剛買的嬰兒奶粉是不是有問題的商家製造的。",
+   "transcriptLead": 23,
+   "part": 0,
+   "group": null,
+   "audio": [
+    25,
+    27
+   ]
+  },
+  {
+   "n": 25,
+   "page": 9,
+   "stem": "根據對話，阿光怎麼了？",
+   "context": "下面是一段朋友的對話，請聽完對話後，回答三個問題：",
+   "options": [
+    {
+     "label": "A",
+     "text": "要幫忙賺錢養家"
+    },
+    {
+     "label": "B",
+     "text": "不能做想做的事情"
+    },
+    {
+     "label": "C",
+     "text": "成績太差，讓母親生氣"
+    },
+    {
+     "label": "D",
+     "text": "找不到教他做蛋糕的人"
+    }
+   ],
+   "crop": "q25.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "optionsPage": 10,
+   "cropOptions": "q25o.webp",
+   "answer": "B",
+   "gradable": true,
+   "transcript": "根據對話，阿光怎麼了？",
+   "transcriptIntro": "下面是一段朋友的對話，請聽完對話後，回答三個問題：",
+   "transcriptLead": 25,
+   "part": 0,
+   "group": null,
+   "audio": [
+    28,
+    29
+   ]
+  },
+  {
+   "n": 26,
+   "page": 9,
+   "stem": "根據對話，阿光母親的態度怎麼樣？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "非常同意"
+    },
+    {
+     "label": "B",
+     "text": "無法接受"
+    },
+    {
+     "label": "C",
+     "text": "無可奈何"
+    },
+    {
+     "label": "D",
+     "text": "非常好奇"
+    }
+   ],
+   "crop": "q26.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "optionsPage": 10,
+   "cropOptions": "q26o.webp",
+   "answer": "B",
+   "gradable": true,
+   "transcript": "根據對話，阿光母親的態度怎麼樣？",
+   "transcriptIntro": "下面是一段朋友的對話，請聽完對話後，回答三個問題：",
+   "transcriptLead": 25,
+   "part": 0,
+   "group": null,
+   "audio": [
+    28,
+    30
+   ]
+  },
+  {
+   "n": 27,
+   "page": 9,
+   "stem": "小美對阿光說的事有什麼看法？ 現在請聽對話。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "認為根本不是問題"
+    },
+    {
+     "label": "B",
+     "text": "阿光的情況她常遇到"
+    },
+    {
+     "label": "C",
+     "text": "阿光應該專心在學業上"
+    },
+    {
+     "label": "D",
+     "text": "阿光應該再和他媽媽談談"
+    }
+   ],
+   "crop": "q27.webp",
+   "showCrop": false,
+   "cropGap": 541,
+   "optionsPage": 10,
+   "cropOptions": "q27o.webp",
+   "answer": "D",
+   "gradable": true,
+   "transcript": "小美對阿光說的事有什麼看法？",
+   "transcriptIntro": "下面是一段朋友的對話，請聽完對話後，回答三個問題：",
+   "transcriptLead": 25,
+   "part": 0,
+   "group": null,
+   "audio": [
+    28,
+    31
+   ]
+  },
+  {
+   "n": 28,
+   "page": 11,
+   "stem": "他們在討論哪方面的事？",
+   "context": "下面是艾維和一位女同事的對話，請聽完對話後，回答三個問題：",
+   "options": [
+    {
+     "label": "A",
+     "text": "拒絕紅包的做法"
+    },
+    {
+     "label": "B",
+     "text": "要送同事哪些禮物"
+    },
+    {
+     "label": "C",
+     "text": "如何回應同事們的祝福"
+    },
+    {
+     "label": "D",
+     "text": "母親生產時要準備的物品"
+    }
+   ],
+   "crop": "q28.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "optionsPage": 12,
+   "cropOptions": "q28o.webp",
+   "answer": "C",
+   "gradable": true,
+   "transcript": "他們在討論哪方面的事？",
+   "transcriptIntro": "下面是艾維和一位女同事的對話，請聽完對話後，回答三個問題：",
+   "transcriptLead": 28,
+   "part": 0,
+   "group": null,
+   "audio": [
+    32,
+    33
+   ]
+  },
+  {
+   "n": 29,
+   "page": 11,
+   "stem": "根據對話，為什麼新生兒的父母要請客和送禮？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "因為想當面感謝大家的祝賀"
+    },
+    {
+     "label": "B",
+     "text": "因為想請大家幫忙給新生兒取名字"
+    },
+    {
+     "label": "C",
+     "text": "因為想讓所有的親友都來為小孩祝福"
+    },
+    {
+     "label": "D",
+     "text": "因為可以為關心這件事的人帶來好運"
+    }
+   ],
+   "crop": "q29.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "optionsPage": 12,
+   "cropOptions": "q29o.webp",
+   "answer": "A",
+   "gradable": true,
+   "transcript": "根據對話，為什麼新生兒的父母要請客和送禮？",
+   "transcriptIntro": "下面是艾維和一位女同事的對話，請聽完對話後，回答三個問題：",
+   "transcriptLead": 28,
+   "part": 0,
+   "group": null,
+   "audio": [
+    32,
+    34
+   ]
+  },
+  {
+   "n": 30,
+   "page": 11,
+   "stem": "最後，艾維對這位小姐說的話有什麼看法？ 現在請聽對話。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "他覺得不好意思"
+    },
+    {
+     "label": "B",
+     "text": "他認為十分麻煩"
+    },
+    {
+     "label": "C",
+     "text": "他會參考對方的意見"
+    },
+    {
+     "label": "D",
+     "text": "他很感謝這位小姐的關心"
+    }
+   ],
+   "crop": "q30.webp",
+   "showCrop": false,
+   "cropGap": 541,
+   "optionsPage": 12,
+   "cropOptions": "q30o.webp",
+   "answer": "B",
+   "gradable": true,
+   "transcript": "最後，艾維對這位小姐說的話有什麼看法？",
+   "transcriptIntro": "下面是艾維和一位女同事的對話，請聽完對話後，回答三個問題：",
+   "transcriptLead": 28,
+   "part": 0,
+   "group": null,
+   "audio": [
+    32,
+    35
+   ]
+  },
+  {
+   "n": 31,
+   "page": 14,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "河"
+    },
+    {
+     "label": "B",
+     "text": "海灘"
+    },
+    {
+     "label": "C",
+     "text": "植物園"
+    },
+    {
+     "label": "D",
+     "text": "運動中心"
+    }
+   ],
+   "crop": "q31.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "從這段話可以知道，說話的人住家附近有什麼？",
+   "transcriptIntro": "請聽這一段話，然後回答下面的兩個問題。\n我家附近靠河邊的地方，原本是一片空地，那裡有非常多的樹木、花草，還\n有很多人在那裡散步、騎腳踏車。有段時間，大家聽說這片空地要賣給建設公司，\n變成辦公大樓。不過，在大家的爭取下，這片空地現在成了公園，讓住在這附近\n的人有地方運動，這真是一件讓人開心的事。",
+   "transcriptLead": 31,
+   "part": 1,
+   "group": null,
+   "audio": [
+    37,
+    38
+   ]
+  },
+  {
+   "n": 32,
+   "page": 14,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "他買下了辦公大樓"
+    },
+    {
+     "label": "B",
+     "text": "建設公司買下空地"
+    },
+    {
+     "label": "C",
+     "text": "大家有活動的地方"
+    },
+    {
+     "label": "D",
+     "text": "他在公園種了很多樹"
+    }
+   ],
+   "crop": "q32.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "說話的人因為哪一件事覺得很開心？",
+   "transcriptIntro": "請聽這一段話，然後回答下面的兩個問題。\n我家附近靠河邊的地方，原本是一片空地，那裡有非常多的樹木、花草，還\n有很多人在那裡散步、騎腳踏車。有段時間，大家聽說這片空地要賣給建設公司，\n變成辦公大樓。不過，在大家的爭取下，這片空地現在成了公園，讓住在這附近\n的人有地方運動，這真是一件讓人開心的事。",
+   "transcriptLead": 31,
+   "part": 1,
+   "group": null,
+   "audio": [
+    37,
+    39
+   ]
+  },
+  {
+   "n": 33,
+   "page": 14,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "沒有人照顧"
+    },
+    {
+     "label": "B",
+     "text": "交了壞朋友"
+    },
+    {
+     "label": "C",
+     "text": "沒辦法常回家"
+    },
+    {
+     "label": "D",
+     "text": "不敢開口說外國話"
+    }
+   ],
+   "crop": "q33.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "D",
+   "gradable": true,
+   "transcript": "說話的人認為孩子到國外念書會遇到什麼問題？",
+   "transcriptIntro": "請聽這段話，然後回答下面的兩個問題。\n很多人想把小孩送到國外學習外國語，認為學習語言就應該到當地學習，但\n是這樣就一定能把語言學好嗎？很多孩子到了當地，連話都不敢說，也交不到當\n地的朋友，到最後還是只和自己國家的人走在一起，這樣出國不出國有什麼不\n同！",
+   "transcriptLead": 33,
+   "part": 1,
+   "group": null,
+   "audio": [
+    40,
+    41
+   ]
+  },
+  {
+   "n": 34,
+   "page": 14,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "應該常和家人聯絡"
+    },
+    {
+     "label": "B",
+     "text": "是學習語言的好方法"
+    },
+    {
+     "label": "C",
+     "text": "不一定能達到學習目的"
+    },
+    {
+     "label": "D",
+     "text": "年紀越小，越難適應環境"
+    }
+   ],
+   "crop": "q34.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "說話的人認為出國讀書怎麼樣？",
+   "transcriptIntro": "請聽這段話，然後回答下面的兩個問題。\n很多人想把小孩送到國外學習外國語，認為學習語言就應該到當地學習，但\n是這樣就一定能把語言學好嗎？很多孩子到了當地，連話都不敢說，也交不到當\n地的朋友，到最後還是只和自己國家的人走在一起，這樣出國不出國有什麼不\n同！",
+   "transcriptLead": 33,
+   "part": 1,
+   "group": null,
+   "audio": [
+    40,
+    42
+   ]
+  },
+  {
+   "n": 35,
+   "page": 14,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "怎麼聯絡"
+    },
+    {
+     "label": "B",
+     "text": "想花多少錢"
+    },
+    {
+     "label": "C",
+     "text": "想訂什麼東西"
+    },
+    {
+     "label": "D",
+     "text": "需要多少商品"
+    }
+   ],
+   "crop": "q35.webp",
+   "showCrop": false,
+   "cropGap": 141,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "小美希望打電話來的人，告訴她什麼事？",
+   "transcriptIntro": "請聽這一段電話錄音，然後回答下面的兩個問題。\n您好，我是小美，這幾天我有事出去，大概下週回來，不管您是要買花、請\n我幫您種花，還是想來店裡喝一杯花茶，請先留下聯絡方式，我會再和您確認。",
+   "transcriptLead": 35,
+   "part": 1,
+   "group": null,
+   "audio": [
+    43,
+    44
+   ]
+  },
+  {
+   "n": 36,
+   "page": 15,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "煮飯的廚師"
+    },
+    {
+     "label": "B",
+     "text": "送貨的司機"
+    },
+    {
+     "label": "C",
+     "text": "花店的老闆"
+    },
+    {
+     "label": "D",
+     "text": "餐廳服務生"
+    }
+   ],
+   "crop": "q36.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "小美的工作是什麼？",
+   "transcriptIntro": "請聽這一段電話錄音，然後回答下面的兩個問題。\n您好，我是小美，這幾天我有事出去，大概下週回來，不管您是要買花、請\n我幫您種花，還是想來店裡喝一杯花茶，請先留下聯絡方式，我會再和您確認。",
+   "transcriptLead": 35,
+   "part": 1,
+   "group": null,
+   "audio": [
+    43,
+    45
+   ]
+  },
+  {
+   "n": 37,
+   "page": 15,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "她在電腦公司上班"
+    },
+    {
+     "label": "B",
+     "text": "她總是陪小孩聊天"
+    },
+    {
+     "label": "C",
+     "text": "她只在假日時煮飯"
+    },
+    {
+     "label": "D",
+     "text": "她常忘了小孩生日"
+    }
+   ],
+   "crop": "q37.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "關於這位媽媽的敘述，下面哪一個是對的？",
+   "transcriptIntro": "請聽這一段話，然後回答下面的兩個問題。\n我媽媽很忙，她是電腦公司的老闆，所以每天都有做不完的工作。不過，她\n從來不會忘記幫我們準備飯菜，冰箱裡總是有水果和點心，生日的時候一定有禮\n物。只是，平常她總在公司工作到很晚，放了假在家裡，她還是在工作，我和她\n聊天的機會不太多，真希望她不要這麼忙，能多陪我就好了！",
+   "transcriptLead": 37,
+   "part": 1,
+   "group": null,
+   "audio": [
+    46,
+    47
+   ]
+  },
+  {
+   "n": 38,
+   "page": 15,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "生日禮物"
+    },
+    {
+     "label": "B",
+     "text": "休息的時間"
+    },
+    {
+     "label": "C",
+     "text": "媽媽煮的菜"
+    },
+    {
+     "label": "D",
+     "text": "母親的關心"
+    }
+   ],
+   "crop": "q38.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "D",
+   "gradable": true,
+   "transcript": "說話的人想要什麼？",
+   "transcriptIntro": "請聽這一段話，然後回答下面的兩個問題。\n我媽媽很忙，她是電腦公司的老闆，所以每天都有做不完的工作。不過，她\n從來不會忘記幫我們準備飯菜，冰箱裡總是有水果和點心，生日的時候一定有禮\n物。只是，平常她總在公司工作到很晚，放了假在家裡，她還是在工作，我和她\n聊天的機會不太多，真希望她不要這麼忙，能多陪我就好了！",
+   "transcriptLead": 37,
+   "part": 1,
+   "group": null,
+   "audio": [
+    46,
+    48
+   ]
+  },
+  {
+   "n": 39,
+   "page": 15,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "介紹公司的環境"
+    },
+    {
+     "label": "B",
+     "text": "介紹李小姐給主任"
+    },
+    {
+     "label": "C",
+     "text": "向老闆介紹新員工"
+    },
+    {
+     "label": "D",
+     "text": "面試想來工作的人"
+    }
+   ],
+   "crop": "q39.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "這段話主要在說什麼？",
+   "transcriptIntro": "請聽這一段話，然後回答下面的兩個問題。\n李小姐，你好。我姓陳，是這間辦公室的主任。歡迎來我們公司工作！我們\n辦公室就這麼大，一進來，右手邊有一間小廚房，可以煮咖啡喝，還有冰箱可以\n使用，廚房的旁邊是洗手間。我的位子在窗戶旁邊，你如果有事可以隨時來找我。",
+   "transcriptLead": 39,
+   "part": 1,
+   "group": null,
+   "audio": [
+    49,
+    50
+   ]
+  },
+  {
+   "n": 40,
+   "page": 15,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "櫃子"
+    },
+    {
+     "label": "B",
+     "text": "咖啡機"
+    },
+    {
+     "label": "C",
+     "text": "傳真機"
+    },
+    {
+     "label": "D",
+     "text": "會議室"
+    }
+   ],
+   "crop": "q40.webp",
+   "showCrop": false,
+   "cropGap": 141,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "陳主任提到了辦公室裡有什麼？",
+   "transcriptIntro": "請聽這一段話，然後回答下面的兩個問題。\n李小姐，你好。我姓陳，是這間辦公室的主任。歡迎來我們公司工作！我們\n辦公室就這麼大，一進來，右手邊有一間小廚房，可以煮咖啡喝，還有冰箱可以\n使用，廚房的旁邊是洗手間。我的位子在窗戶旁邊，你如果有事可以隨時來找我。",
+   "transcriptLead": 39,
+   "part": 1,
+   "group": null,
+   "audio": [
+    49,
+    51
+   ]
+  },
+  {
+   "n": 41,
+   "page": 16,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "訂票人的姓名"
+    },
+    {
+     "label": "B",
+     "text": "訂票人的聯絡電話"
+    },
+    {
+     "label": "C",
+     "text": "訂票人想坐幾點的車"
+    },
+    {
+     "label": "D",
+     "text": "訂票人想搭車的日期"
+    }
+   ],
+   "crop": "q41.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "D",
+   "gradable": true,
+   "transcript": "用這套系統訂票，要提供哪些資料？",
+   "transcriptIntro": "請聽這一段電腦購票系統的語音指示，然後回答下面的兩個問題。\n您好，歡迎使用語音購票系統\n請注意，本系統只接受信用卡購票\n請輸入乘車日期，如 7 月 4 號，請輸入 0704\n請輸入訂票車次，如 1097 車次，請按 1097＃\n請選擇訂票張數。一張請按 1\n請注意，一人最多訂四張\n螢幕顯示您的訂票資訊…確定請按 1，取消請按 2\n請輸入信用卡卡號…\n購票完成，請拿票，謝謝。",
+   "transcriptLead": 41,
+   "part": 1,
+   "group": null,
+   "audio": [
+    52,
+    53
+   ]
+  },
+  {
+   "n": 42,
+   "page": 16,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "拿票的地點"
+    },
+    {
+     "label": "B",
+     "text": "付錢的方式"
+    },
+    {
+     "label": "C",
+     "text": "最少要訂幾張票"
+    },
+    {
+     "label": "D",
+     "text": "最晚必須拿票的時間"
+    }
+   ],
+   "crop": "q42.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "用這套系統訂車票，要注意什麼事？",
+   "transcriptIntro": "請聽這一段電腦購票系統的語音指示，然後回答下面的兩個問題。\n您好，歡迎使用語音購票系統\n請注意，本系統只接受信用卡購票\n請輸入乘車日期，如 7 月 4 號，請輸入 0704\n請輸入訂票車次，如 1097 車次，請按 1097＃\n請選擇訂票張數。一張請按 1\n請注意，一人最多訂四張\n螢幕顯示您的訂票資訊…確定請按 1，取消請按 2\n請輸入信用卡卡號…\n購票完成，請拿票，謝謝。",
+   "transcriptLead": 41,
+   "part": 1,
+   "group": null,
+   "audio": [
+    52,
+    54
+   ]
+  },
+  {
+   "n": 43,
+   "page": 16,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "要孩子去買菜"
+    },
+    {
+     "label": "B",
+     "text": "要孩子快去休息"
+    },
+    {
+     "label": "C",
+     "text": "要孩子整理客廳"
+    },
+    {
+     "label": "D",
+     "text": "要孩子幫客人開門"
+    }
+   ],
+   "crop": "q43.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "媽媽為什麼打電話回家？",
+   "transcriptIntro": "請聽這一段話，然後回答下面的兩個問題。\n早上家裡的電話響個不停，一直沒人接，我只好起床接電話，原來是媽媽打\n來的。因為今天有客人到家裡來，所以她一早就出門買菜了。她問我客人來了沒\n有？要我把客廳整理乾淨，我告訴她，客人來了我會招待，請她不要擔心。",
+   "transcriptLead": 43,
+   "part": 1,
+   "group": null,
+   "audio": [
+    55,
+    56
+   ]
+  },
+  {
+   "n": 44,
+   "page": 16,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "客人已經到了"
+    },
+    {
+     "label": "B",
+     "text": "客廳整理好了"
+    },
+    {
+     "label": "C",
+     "text": "他準備出門接客人"
+    },
+    {
+     "label": "D",
+     "text": "他會好好地招待客人"
+    }
+   ],
+   "crop": "q44.webp",
+   "showCrop": false,
+   "cropGap": 261,
+   "answer": "D",
+   "gradable": true,
+   "transcript": "說話的人告訴媽媽什麼?",
+   "transcriptIntro": "請聽這一段話，然後回答下面的兩個問題。\n早上家裡的電話響個不停，一直沒人接，我只好起床接電話，原來是媽媽打\n來的。因為今天有客人到家裡來，所以她一早就出門買菜了。她問我客人來了沒\n有？要我把客廳整理乾淨，我告訴她，客人來了我會招待，請她不要擔心。",
+   "transcriptLead": 43,
+   "part": 1,
+   "group": null,
+   "audio": [
+    55,
+    57
+   ]
+  },
+  {
+   "n": 45,
+   "page": 17,
+   "stem": "根據報導，政府推動這項新政策主要是為了什麼？",
+   "context": "請聽一則和公共政策有關的報導，然後回答下面三個問題：",
+   "options": [
+    {
+     "label": "A",
+     "text": "強調戶外旅遊的優點"
+    },
+    {
+     "label": "B",
+     "text": "改善交通業者的收入"
+    },
+    {
+     "label": "C",
+     "text": "降低民眾的消費負擔"
+    },
+    {
+     "label": "D",
+     "text": "減少觀光景點的污染"
+    }
+   ],
+   "crop": "q45.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "optionsPage": 18,
+   "cropOptions": "q45o.webp",
+   "answer": "D",
+   "gradable": true,
+   "transcript": "根據報導，政府推動這項新政策主要是為了什麼？",
+   "transcriptIntro": "請聽一則和公共政策有關的報導，然後回答下面三個問題：",
+   "transcriptLead": 45,
+   "part": 1,
+   "group": "g45",
+   "audio": [
+    58,
+    59
+   ]
+  },
+  {
+   "n": 46,
+   "page": 17,
+   "stem": "報導中提到民眾對這項新政策的反應怎麼樣？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "移動不如想像中方便"
+    },
+    {
+     "label": "B",
+     "text": "應該加強交通的便利性"
+    },
+    {
+     "label": "C",
+     "text": "願意配合的人越來越多"
+    },
+    {
+     "label": "D",
+     "text": "取得優惠的條件太嚴格"
+    }
+   ],
+   "crop": "q46.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "optionsPage": 18,
+   "cropOptions": "q46o.webp",
+   "answer": "C",
+   "gradable": true,
+   "transcript": "報導中提到民眾對這項新政策的反應怎麼樣？",
+   "transcriptIntro": "請聽一則和公共政策有關的報導，然後回答下面三個問題：",
+   "transcriptLead": 45,
+   "part": 1,
+   "group": "g45",
+   "audio": [
+    58,
+    60
+   ]
+  },
+  {
+   "n": 47,
+   "page": 17,
+   "stem": "下面哪件事符合這項新政策的概念？ 現在請聽報導。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "騎自行車旅行"
+    },
+    {
+     "label": "B",
+     "text": "將垃圾分類處理"
+    },
+    {
+     "label": "C",
+     "text": "自己帶食物旅遊"
+    },
+    {
+     "label": "D",
+     "text": "使用餐廳提供的餐具"
+    }
+   ],
+   "crop": "q47.webp",
+   "showCrop": false,
+   "cropGap": 541,
+   "optionsPage": 18,
+   "cropOptions": "q47o.webp",
+   "answer": "A",
+   "gradable": true,
+   "transcript": "下面哪件事符合這項新政策的概念？",
+   "transcriptIntro": "請聽一則和公共政策有關的報導，然後回答下面三個問題：",
+   "transcriptLead": 45,
+   "part": 1,
+   "group": "g45",
+   "audio": [
+    58,
+    61
+   ]
+  },
+  {
+   "n": 48,
+   "page": 19,
+   "stem": "《大英百科全書》銷售量下滑的主要原因是什麼？",
+   "context": "請聽一則有關《大英百科全書》的報導，然後回答下面三個問題：",
+   "options": [
+    {
+     "label": "A",
+     "text": "定價越來越貴"
+    },
+    {
+     "label": "B",
+     "text": "和同性質書籍競爭"
+    },
+    {
+     "label": "C",
+     "text": "書本內容不符潮流"
+    },
+    {
+     "label": "D",
+     "text": "電子產品日漸普及"
+    }
+   ],
+   "crop": "q48.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "optionsPage": 20,
+   "cropOptions": "q48o.webp",
+   "answer": "D",
+   "gradable": true,
+   "transcript": "《大英百科全書》銷售量下滑的主要原因是什麼？",
+   "transcriptIntro": "請聽一則有關《大英百科全書》的報導，然後回答下面三個問題：",
+   "transcriptLead": 48,
+   "part": 1,
+   "group": "g48",
+   "audio": [
+    62,
+    63
+   ]
+  },
+  {
+   "n": 49,
+   "page": 19,
+   "stem": "《大英百科全書》的轉機是什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "重新製作印刷"
+    },
+    {
+     "label": "B",
+     "text": "設立線上資料庫"
+    },
+    {
+     "label": "C",
+     "text": "消費者對知識的需求增加"
+    },
+    {
+     "label": "D",
+     "text": "與其他百科全書公司合作"
+    }
+   ],
+   "crop": "q49.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "optionsPage": 20,
+   "cropOptions": "q49o.webp",
+   "answer": "B",
+   "gradable": true,
+   "transcript": "《大英百科全書》的轉機是什麼？",
+   "transcriptIntro": "請聽一則有關《大英百科全書》的報導，然後回答下面三個問題：",
+   "transcriptLead": 48,
+   "part": 1,
+   "group": "g48",
+   "audio": [
+    62,
+    64
+   ]
+  },
+  {
+   "n": 50,
+   "page": 19,
+   "stem": "報導最後用豪華轎車來說明什麼？ 現在請聽報導。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "說明擁有百科全書所象徵的地位"
+    },
+    {
+     "label": "B",
+     "text": "表示豪華轎車是財富地位的象徵"
+    },
+    {
+     "label": "C",
+     "text": "指出百科全書跟豪華轎車一樣貴"
+    },
+    {
+     "label": "D",
+     "text": "探討消費者選擇這兩項商品的順序"
+    }
+   ],
+   "crop": "q50.webp",
+   "showCrop": false,
+   "cropGap": 541,
+   "optionsPage": 20,
+   "cropOptions": "q50o.webp",
+   "answer": "A",
+   "gradable": true,
+   "transcript": "報導最後用豪華轎車來說明什麼？",
+   "transcriptIntro": "請聽一則有關《大英百科全書》的報導，然後回答下面三個問題：",
+   "transcriptLead": 48,
+   "part": 1,
+   "group": "g48",
+   "audio": [
+    62,
+    65
+   ]
+  }
+ ],
+ "audio": {
+  "dir": "3. TOCFL Band B/Listening/Listening Test Series 2/mock2_BandB_mp3",
+  "kind": "by-filename",
+  "tracks": [
+   "0-1.mp3",
+   "1-00000.mp3",
+   "1-01.mp3",
+   "1-02.mp3",
+   "1-03.mp3",
+   "1-04.mp3",
+   "1-05.mp3",
+   "1-06.mp3",
+   "1-07.mp3",
+   "1-08.mp3",
+   "1-09.mp3",
+   "1-10.mp3",
+   "1-11.mp3",
+   "1-12.mp3",
+   "1-13.mp3",
+   "1-14.mp3",
+   "1-15.mp3",
+   "1-16.mp3",
+   "1-17.mp3",
+   "1-18.mp3",
+   "1-19.mp3",
+   "1-20.mp3",
+   "1-21-0.mp3",
+   "1-21-1.mp3",
+   "1-22.mp3",
+   "1-23-0.mp3",
+   "1-23-1.mp3",
+   "1-24.mp3",
+   "1-25-0.mp3",
+   "1-25-1.mp3",
+   "1-26.mp3",
+   "1-27.mp3",
+   "1-28-0.mp3",
+   "1-28-1.mp3",
+   "1-29.mp3",
+   "1-30.mp3",
+   "2-00000.mp3",
+   "2-31-0.mp3",
+   "2-31-1.mp3",
+   "2-32.mp3",
+   "2-33-0.mp3",
+   "2-33-1.mp3",
+   "2-34.mp3",
+   "2-35-0.mp3",
+   "2-35-1.mp3",
+   "2-36.mp3",
+   "2-37-0.mp3",
+   "2-37-1.mp3",
+   "2-38.mp3",
+   "2-39-0.mp3",
+   "2-39-1.mp3",
+   "2-40.mp3",
+   "2-41-0.mp3",
+   "2-41-1.mp3",
+   "2-42.mp3",
+   "2-43-0.mp3",
+   "2-43-1.mp3",
+   "2-44.mp3",
+   "2-45-0.mp3",
+   "2-45-1.mp3",
+   "2-46.mp3",
+   "2-47.mp3",
+   "2-48-0.mp3",
+   "2-48-1.mp3",
+   "2-49.mp3",
+   "2-50.mp3",
+   "3-00000.mp3"
+  ],
+  "trackList": [
+   {
+    "src": "ex/b-l2/t001-0-1.mp3",
+    "file": "0-1.mp3",
+    "label": "Petunjuk / jeda",
+    "kind": "instructions",
+    "q": null
+   },
+   {
+    "src": "ex/b-l2/t002-1-00000.mp3",
+    "file": "1-00000.mp3",
+    "label": "Petunjuk Bagian 1",
+    "kind": "instructions",
+    "q": null
+   },
+   {
+    "src": "ex/b-l2/t003-1-01.mp3",
+    "file": "1-01.mp3",
+    "label": "Soal 1",
+    "kind": "question",
+    "q": 1
+   },
+   {
+    "src": "ex/b-l2/t004-1-02.mp3",
+    "file": "1-02.mp3",
+    "label": "Soal 2",
+    "kind": "question",
+    "q": 2
+   },
+   {
+    "src": "ex/b-l2/t005-1-03.mp3",
+    "file": "1-03.mp3",
+    "label": "Soal 3",
+    "kind": "question",
+    "q": 3
+   },
+   {
+    "src": "ex/b-l2/t006-1-04.mp3",
+    "file": "1-04.mp3",
+    "label": "Soal 4",
+    "kind": "question",
+    "q": 4
+   },
+   {
+    "src": "ex/b-l2/t007-1-05.mp3",
+    "file": "1-05.mp3",
+    "label": "Soal 5",
+    "kind": "question",
+    "q": 5
+   },
+   {
+    "src": "ex/b-l2/t008-1-06.mp3",
+    "file": "1-06.mp3",
+    "label": "Soal 6",
+    "kind": "question",
+    "q": 6
+   },
+   {
+    "src": "ex/b-l2/t009-1-07.mp3",
+    "file": "1-07.mp3",
+    "label": "Soal 7",
+    "kind": "question",
+    "q": 7
+   },
+   {
+    "src": "ex/b-l2/t010-1-08.mp3",
+    "file": "1-08.mp3",
+    "label": "Soal 8",
+    "kind": "question",
+    "q": 8
+   },
+   {
+    "src": "ex/b-l2/t011-1-09.mp3",
+    "file": "1-09.mp3",
+    "label": "Soal 9",
+    "kind": "question",
+    "q": 9
+   },
+   {
+    "src": "ex/b-l2/t012-1-10.mp3",
+    "file": "1-10.mp3",
+    "label": "Soal 10",
+    "kind": "question",
+    "q": 10
+   },
+   {
+    "src": "ex/b-l2/t013-1-11.mp3",
+    "file": "1-11.mp3",
+    "label": "Soal 11",
+    "kind": "question",
+    "q": 11
+   },
+   {
+    "src": "ex/b-l2/t014-1-12.mp3",
+    "file": "1-12.mp3",
+    "label": "Soal 12",
+    "kind": "question",
+    "q": 12
+   },
+   {
+    "src": "ex/b-l2/t015-1-13.mp3",
+    "file": "1-13.mp3",
+    "label": "Soal 13",
+    "kind": "question",
+    "q": 13
+   },
+   {
+    "src": "ex/b-l2/t016-1-14.mp3",
+    "file": "1-14.mp3",
+    "label": "Soal 14",
+    "kind": "question",
+    "q": 14
+   },
+   {
+    "src": "ex/b-l2/t017-1-15.mp3",
+    "file": "1-15.mp3",
+    "label": "Soal 15",
+    "kind": "question",
+    "q": 15
+   },
+   {
+    "src": "ex/b-l2/t018-1-16.mp3",
+    "file": "1-16.mp3",
+    "label": "Soal 16",
+    "kind": "question",
+    "q": 16
+   },
+   {
+    "src": "ex/b-l2/t019-1-17.mp3",
+    "file": "1-17.mp3",
+    "label": "Soal 17",
+    "kind": "question",
+    "q": 17
+   },
+   {
+    "src": "ex/b-l2/t020-1-18.mp3",
+    "file": "1-18.mp3",
+    "label": "Soal 18",
+    "kind": "question",
+    "q": 18
+   },
+   {
+    "src": "ex/b-l2/t021-1-19.mp3",
+    "file": "1-19.mp3",
+    "label": "Soal 19",
+    "kind": "question",
+    "q": 19
+   },
+   {
+    "src": "ex/b-l2/t022-1-20.mp3",
+    "file": "1-20.mp3",
+    "label": "Soal 20",
+    "kind": "question",
+    "q": 20
+   },
+   {
+    "src": "ex/b-l2/t023-1-21-0.mp3",
+    "file": "1-21-0.mp3",
+    "label": "Soal 21 — percakapan/teks",
+    "kind": "dialogue",
+    "q": 21
+   },
+   {
+    "src": "ex/b-l2/t024-1-21-1.mp3",
+    "file": "1-21-1.mp3",
+    "label": "Soal 21",
+    "kind": "question",
+    "q": 21
+   },
+   {
+    "src": "ex/b-l2/t025-1-22.mp3",
+    "file": "1-22.mp3",
+    "label": "Soal 22",
+    "kind": "question",
+    "q": 22
+   },
+   {
+    "src": "ex/b-l2/t026-1-23-0.mp3",
+    "file": "1-23-0.mp3",
+    "label": "Soal 23 — percakapan/teks",
+    "kind": "dialogue",
+    "q": 23
+   },
+   {
+    "src": "ex/b-l2/t027-1-23-1.mp3",
+    "file": "1-23-1.mp3",
+    "label": "Soal 23",
+    "kind": "question",
+    "q": 23
+   },
+   {
+    "src": "ex/b-l2/t028-1-24.mp3",
+    "file": "1-24.mp3",
+    "label": "Soal 24",
+    "kind": "question",
+    "q": 24
+   },
+   {
+    "src": "ex/b-l2/t029-1-25-0.mp3",
+    "file": "1-25-0.mp3",
+    "label": "Soal 25 — percakapan/teks",
+    "kind": "dialogue",
+    "q": 25
+   },
+   {
+    "src": "ex/b-l2/t030-1-25-1.mp3",
+    "file": "1-25-1.mp3",
+    "label": "Soal 25",
+    "kind": "question",
+    "q": 25
+   },
+   {
+    "src": "ex/b-l2/t031-1-26.mp3",
+    "file": "1-26.mp3",
+    "label": "Soal 26",
+    "kind": "question",
+    "q": 26
+   },
+   {
+    "src": "ex/b-l2/t032-1-27.mp3",
+    "file": "1-27.mp3",
+    "label": "Soal 27",
+    "kind": "question",
+    "q": 27
+   },
+   {
+    "src": "ex/b-l2/t033-1-28-0.mp3",
+    "file": "1-28-0.mp3",
+    "label": "Soal 28 — percakapan/teks",
+    "kind": "dialogue",
+    "q": 28
+   },
+   {
+    "src": "ex/b-l2/t034-1-28-1.mp3",
+    "file": "1-28-1.mp3",
+    "label": "Soal 28",
+    "kind": "question",
+    "q": 28
+   },
+   {
+    "src": "ex/b-l2/t035-1-29.mp3",
+    "file": "1-29.mp3",
+    "label": "Soal 29",
+    "kind": "question",
+    "q": 29
+   },
+   {
+    "src": "ex/b-l2/t036-1-30.mp3",
+    "file": "1-30.mp3",
+    "label": "Soal 30",
+    "kind": "question",
+    "q": 30
+   },
+   {
+    "src": "ex/b-l2/t037-2-00000.mp3",
+    "file": "2-00000.mp3",
+    "label": "Petunjuk Bagian 2",
+    "kind": "instructions",
+    "q": null
+   },
+   {
+    "src": "ex/b-l2/t038-2-31-0.mp3",
+    "file": "2-31-0.mp3",
+    "label": "Soal 31 — percakapan/teks",
+    "kind": "dialogue",
+    "q": 31
+   },
+   {
+    "src": "ex/b-l2/t039-2-31-1.mp3",
+    "file": "2-31-1.mp3",
+    "label": "Soal 31",
+    "kind": "question",
+    "q": 31
+   },
+   {
+    "src": "ex/b-l2/t040-2-32.mp3",
+    "file": "2-32.mp3",
+    "label": "Soal 32",
+    "kind": "question",
+    "q": 32
+   },
+   {
+    "src": "ex/b-l2/t041-2-33-0.mp3",
+    "file": "2-33-0.mp3",
+    "label": "Soal 33 — percakapan/teks",
+    "kind": "dialogue",
+    "q": 33
+   },
+   {
+    "src": "ex/b-l2/t042-2-33-1.mp3",
+    "file": "2-33-1.mp3",
+    "label": "Soal 33",
+    "kind": "question",
+    "q": 33
+   },
+   {
+    "src": "ex/b-l2/t043-2-34.mp3",
+    "file": "2-34.mp3",
+    "label": "Soal 34",
+    "kind": "question",
+    "q": 34
+   },
+   {
+    "src": "ex/b-l2/t044-2-35-0.mp3",
+    "file": "2-35-0.mp3",
+    "label": "Soal 35 — percakapan/teks",
+    "kind": "dialogue",
+    "q": 35
+   },
+   {
+    "src": "ex/b-l2/t045-2-35-1.mp3",
+    "file": "2-35-1.mp3",
+    "label": "Soal 35",
+    "kind": "question",
+    "q": 35
+   },
+   {
+    "src": "ex/b-l2/t046-2-36.mp3",
+    "file": "2-36.mp3",
+    "label": "Soal 36",
+    "kind": "question",
+    "q": 36
+   },
+   {
+    "src": "ex/b-l2/t047-2-37-0.mp3",
+    "file": "2-37-0.mp3",
+    "label": "Soal 37 — percakapan/teks",
+    "kind": "dialogue",
+    "q": 37
+   },
+   {
+    "src": "ex/b-l2/t048-2-37-1.mp3",
+    "file": "2-37-1.mp3",
+    "label": "Soal 37",
+    "kind": "question",
+    "q": 37
+   },
+   {
+    "src": "ex/b-l2/t049-2-38.mp3",
+    "file": "2-38.mp3",
+    "label": "Soal 38",
+    "kind": "question",
+    "q": 38
+   },
+   {
+    "src": "ex/b-l2/t050-2-39-0.mp3",
+    "file": "2-39-0.mp3",
+    "label": "Soal 39 — percakapan/teks",
+    "kind": "dialogue",
+    "q": 39
+   },
+   {
+    "src": "ex/b-l2/t051-2-39-1.mp3",
+    "file": "2-39-1.mp3",
+    "label": "Soal 39",
+    "kind": "question",
+    "q": 39
+   },
+   {
+    "src": "ex/b-l2/t052-2-40.mp3",
+    "file": "2-40.mp3",
+    "label": "Soal 40",
+    "kind": "question",
+    "q": 40
+   },
+   {
+    "src": "ex/b-l2/t053-2-41-0.mp3",
+    "file": "2-41-0.mp3",
+    "label": "Soal 41 — percakapan/teks",
+    "kind": "dialogue",
+    "q": 41
+   },
+   {
+    "src": "ex/b-l2/t054-2-41-1.mp3",
+    "file": "2-41-1.mp3",
+    "label": "Soal 41",
+    "kind": "question",
+    "q": 41
+   },
+   {
+    "src": "ex/b-l2/t055-2-42.mp3",
+    "file": "2-42.mp3",
+    "label": "Soal 42",
+    "kind": "question",
+    "q": 42
+   },
+   {
+    "src": "ex/b-l2/t056-2-43-0.mp3",
+    "file": "2-43-0.mp3",
+    "label": "Soal 43 — percakapan/teks",
+    "kind": "dialogue",
+    "q": 43
+   },
+   {
+    "src": "ex/b-l2/t057-2-43-1.mp3",
+    "file": "2-43-1.mp3",
+    "label": "Soal 43",
+    "kind": "question",
+    "q": 43
+   },
+   {
+    "src": "ex/b-l2/t058-2-44.mp3",
+    "file": "2-44.mp3",
+    "label": "Soal 44",
+    "kind": "question",
+    "q": 44
+   },
+   {
+    "src": "ex/b-l2/t059-2-45-0.mp3",
+    "file": "2-45-0.mp3",
+    "label": "Soal 45 — percakapan/teks",
+    "kind": "dialogue",
+    "q": 45
+   },
+   {
+    "src": "ex/b-l2/t060-2-45-1.mp3",
+    "file": "2-45-1.mp3",
+    "label": "Soal 45",
+    "kind": "question",
+    "q": 45
+   },
+   {
+    "src": "ex/b-l2/t061-2-46.mp3",
+    "file": "2-46.mp3",
+    "label": "Soal 46",
+    "kind": "question",
+    "q": 46
+   },
+   {
+    "src": "ex/b-l2/t062-2-47.mp3",
+    "file": "2-47.mp3",
+    "label": "Soal 47",
+    "kind": "question",
+    "q": 47
+   },
+   {
+    "src": "ex/b-l2/t063-2-48-0.mp3",
+    "file": "2-48-0.mp3",
+    "label": "Soal 48 — percakapan/teks",
+    "kind": "dialogue",
+    "q": 48
+   },
+   {
+    "src": "ex/b-l2/t064-2-48-1.mp3",
+    "file": "2-48-1.mp3",
+    "label": "Soal 48",
+    "kind": "question",
+    "q": 48
+   },
+   {
+    "src": "ex/b-l2/t065-2-49.mp3",
+    "file": "2-49.mp3",
+    "label": "Soal 49",
+    "kind": "question",
+    "q": 49
+   },
+   {
+    "src": "ex/b-l2/t066-2-50.mp3",
+    "file": "2-50.mp3",
+    "label": "Soal 50",
+    "kind": "question",
+    "q": 50
+   },
+   {
+    "src": "ex/b-l2/t067-3-00000.mp3",
+    "file": "3-00000.mp3",
+    "label": "Petunjuk / jeda",
+    "kind": "instructions",
+    "q": null
+   }
+  ]
+ },
+ "fullScript": "進階高階級聽力測驗模擬試題_聽力文本\n第一部分 對話\n\n1.\n男：現在天氣真好，吃完午餐一起出去走走吧！\n女：下午可能下大雨，還是待在家吧。\n男：今天天氣怎麼樣？\n2.\n男：這本書你看完了吧，覺得怎麼樣？\n女：我真想問問寫書的人，到底想寫什麼，我怎麼看都看不懂！\n男：這位小姐覺得這本書怎麼樣？\n3.\n男：美美今天早上和我說她頭疼得不得了。\n女：她有點兒發燒，不知道是不是感冒了？我等會兒帶她去看病。\n男：這位小姐的意思是什麼？\n4.\n男：小張怎麼還沒來上班？\n女：我打個電話問問他吧！\n男：這位小姐的意思是什麼？\n5.\n男：啊，該吃藥了。\n女：不行，你飯都還沒吃呢。醫生不是要你吃完飯以後三十分鐘，再吃嗎？\n男：這位小姐的意思是什麼？\n6.\n男：這件衣服又便宜又特別。\n女：要是再大一點就更好了！\n男：這位小姐的意思是什麼？\n\n7.\n男：你決定新桌子的顏色了嗎？我想等一下就去買。\n女：這件事沒那麼急，等我不忙的時候再說吧。\n男：這位小姐什麼時候做決定？\n8.\n男：媽媽為什麼這麼生氣？\n女：誰知道！問她什麼話都不說。\n男：這位小姐的意思是什麼？\n9.\n男：張小姐呢？我好幾天沒看見她了。\n女：難道你不知道她到美國去了？\n男：這段對話的意思是什麼？\n10.\n男：週末是我們結婚滿四年的紀念日，我們就帶小寶到第一次約會的餐廳吧！\n女：這樣多沒意思啊！不如明天給媽媽打個電話，拜託她照顧小寶一天，我們倆\n外出吃飯、看電影，放鬆一下。\n男：這位太太希望怎麼慶祝？\n11.\n男：咦，你怎麼全買牛奶啊？家裡不是還有？\n女：嗯，今天牛奶很便宜，買三瓶送兩瓶。\n男：那青菜水果呢？我們不是說好要買些青菜水果的…\n女：啊，我忘了。\n男：這位小姐為什麼去買東西？\n12.\n男：這星期六我想請你吃飯，你有空嗎？\n女：嗯，星期六不太方便，您不用麻煩了。\n男：不行！我一定得請你吃飯，謝謝你幫我搬家。\n女：您真是太客氣了，那只是小事一件。\n男：這位小姐的意思是什麼?\n\n13.\n男：小美，這個禮拜天你有空嗎？\n女：我得在家寫功課。有什麼事嗎？\n男：那天是我的生日，我想約你一起去看電影。\n女：當然沒問題啊！你的生日比任何事都重要。\n男：這位小姐的意思是什麼？\n14.\n男：你在看什麼啊？\n女：喔，是一位客人寄來的信，他說非常感謝我們對他的照顧。\n男：這麼客氣，信裡還說些什麼呢？\n女：他說我們的服務很好，住在這裡，感覺就像是住在自己的家裡。\n男：這位小姐在哪裡工作？\n15.\n男：小雪，我在這兒！\n女：啊！小林，不好意思，我來晚了！\n男：沒關係，坐吧，想喝什麼？我請你。\n女：謝謝你！就來一杯和你一樣的吧！。\n男：這位小姐的意思是什麼?\n16.\n男：你覺得這個碗怎麼樣，很漂亮吧。\n女：還可以，你看看旁邊這個杯子，怎麼樣？\n男：我還是比較喜歡這個碗。\n女：那麼我們就各買各的吧！\n男：這位小姐的意思是什麼？\n17.\n男：我這個週末想到東部走走。\n女：怎麼去？搭火車還是開車呢？\n男：我打算搭火車。不過，我才剛搬來這裡，連火車站在哪都不知道。\n女：這樣吧，我明天上午正好有事要到車站附近，我載你去。\n男：這位小姐的意思是什麼?\n\n18.\n男：你家裡缺不缺鍋子？\n女：怎麼了？要送我啊？\n男：我女朋友走了以後，沒人做飯給我吃，家裡那些鍋子，用不著了。\n女：謝謝你的好意。我家裡什麼都缺，就是不缺鍋子。\n男：這位小姐的意思是什麼?\n19.\n男：玲玲，恭喜我吧！從下星期一開始，我們就是同事了。\n女：你什麼時候到我們公司參加面試的，我怎麼不知道？\n男：我誰也沒說，就怕說了卻沒錄取，那可就難看了。\n女：你真是愛面子，歡迎你加入我們的行列。\n男：這位先生怎麼了?\n20.\n男：看你手上提著這麼多東西，連開門都需要人幫忙，你中大獎嗎？\n女：沒這回事。今天百貨公司打折，我去搶便宜，省了不少呢！\n男：就算是這樣，東西也多得太誇張了，是不是有朋友請你幫忙買？\n女：這些都是我的，我可是做足了功課才買的。要是錯過這次，那才叫損失。\n男：從這段話，我們知道這位小姐什麼事？\n下面是同事之間的對話，請聽完對話後，回答兩個問題。\n男：小雪，宣傳單、海報做好了嗎？\n女：什麼活動？\n男：慢跑活動啊！你看看白板，我還在上頭標記這件事很重要！\n女：糟糕！老闆，對不起，我真忘了。\n男：你究竟記得哪件事啊！這件事來不及處理好的話，你就不用來了。\n女：我馬上找老王、小陳來支援。\n21. 小雪忘了哪件事？\n22. 最後，這位老闆的意思是什麼？\n\n下面是兩位朋友的對話，請聽完對話後，回答兩個問題。\n男：真煩！最近什麼都不能吃，連奶粉都有問題。\n女：我只聽說牛肉、雞肉有問題，怎麼連奶粉也出問題了？\n男：你還不知道啊！昨晚新聞說有幾家國內知名廠商的奶粉，在加工過程中偷偷\n加入了會傷害人體健康的化學品。\n女：這也太誇張了吧！奶粉不是從鮮奶直接加工來的嗎？為什麼還要加化學品\n呢？\n男：據說可以降低製作成本，所以就有不良廠商這麼做。\n女：那我得趕緊看看剛買的嬰兒奶粉是不是有問題的商家製造的。\n23. 這位先生為什麼覺得煩？\n24. 從對話中可以知道什麼事？\n下面是一段朋友的對話，請聽完對話後，回答三個問題：\n25. 根據對話，阿光怎麼了？\n26. 根據對話，阿光母親的態度怎麼樣？\n27. 小美對阿光說的事有什麼看法？\n現在請聽對話。\n男：小美，我昨天和我媽說我想學做蛋糕，結果她聽完後竟然連話也不和我說。\n女：為什麼？\n男：我媽媽對我的學業成績要求很高，她認為念書才是最重要的，根本不准我去\n做其他事。\n女：阿光，你的功課很好，每學期都拿獎學金，讀書對你來說應該不是問題。如\n果你可以讓伯母覺得，就算你撥出一點時間來學做蛋糕，也不會影響你的課\n業成績，這樣的話，伯母可能會妥協，你試試再和伯母溝通吧！\n\n下面是艾維和一位女同事的對話，請聽完對話後，回答三個問題：\n28. 他們在討論哪方面的事？\n29. 根據對話，為什麼新生兒的父母要請客和送禮？\n30. 最後，艾維對這位小姐說的話有什麼看法？\n現在請聽對話。\n女：艾維，你在做什麼啊？這麼專心。\n男：我太太就快生了，最近收了很多紅包，讓我覺得很不好意思。所以我就用這\n些錢買了寶寶用的東西，正準備寫成單子給大家看。\n女：這樣啊！同事們給紅包應該不是想看這個禮物單子，他們只是希望給你們祝\n福而已。這禮物單子可以免了，不過滿月酒啊、滿月禮之類的可不能少喔。\n男：你指的是請大家吃飯、喝酒嗎？這倒沒問題。\n女：事情可沒這麼簡單。對華人來說，在小孩出生後滿一個月的那一天，小孩的\n爸媽會邀請親朋好友一起吃飯，慶祝媽媽安全生產，也會讓小孩和大家見面，\n除了親自感謝大家的關心，還會準備一份滿月禮送給親朋好友。\n男：天啊！又吃飯又送禮，可不可以只分享禮物單子啊？\n第二部分 段落\n請聽這一段話，然後回答下面的兩個問題。\n我家附近靠河邊的地方，原本是一片空地，那裡有非常多的樹木、花草，還\n有很多人在那裡散步、騎腳踏車。有段時間，大家聽說這片空地要賣給建設公司，\n變成辦公大樓。不過，在大家的爭取下，這片空地現在成了公園，讓住在這附近\n的人有地方運動，這真是一件讓人開心的事。\n31. 從這段話可以知道，說話的人住家附近有什麼？\n32. 說話的人因為哪一件事覺得很開心？\n\n請聽這段話，然後回答下面的兩個問題。\n很多人想把小孩送到國外學習外國語，認為學習語言就應該到當地學習，但\n是這樣就一定能把語言學好嗎？很多孩子到了當地，連話都不敢說，也交不到當\n地的朋友，到最後還是只和自己國家的人走在一起，這樣出國不出國有什麼不\n同！\n33. 說話的人認為孩子到國外念書會遇到什麼問題？\n34. 說話的人認為出國讀書怎麼樣？\n請聽這一段電話錄音，然後回答下面的兩個問題。\n您好，我是小美，這幾天我有事出去，大概下週回來，不管您是要買花、請\n我幫您種花，還是想來店裡喝一杯花茶，請先留下聯絡方式，我會再和您確認。\n35. 小美希望打電話來的人，告訴她什麼事？\n36. 小美的工作是什麼？\n請聽這一段話，然後回答下面的兩個問題。\n我媽媽很忙，她是電腦公司的老闆，所以每天都有做不完的工作。不過，她\n從來不會忘記幫我們準備飯菜，冰箱裡總是有水果和點心，生日的時候一定有禮\n物。只是，平常她總在公司工作到很晚，放了假在家裡，她還是在工作，我和她\n聊天的機會不太多，真希望她不要這麼忙，能多陪我就好了！\n37. 關於這位媽媽的敘述，下面哪一個是對的？\n38. 說話的人想要什麼？\n請聽這一段話，然後回答下面的兩個問題。\n李小姐，你好。我姓陳，是這間辦公室的主任。歡迎來我們公司工作！我們\n辦公室就這麼大，一進來，右手邊有一間小廚房，可以煮咖啡喝，還有冰箱可以\n使用，廚房的旁邊是洗手間。我的位子在窗戶旁邊，你如果有事可以隨時來找我。\n39. 這段話主要在說什麼？\n40. 陳主任提到了辦公室裡有什麼？\n\n請聽這一段電腦購票系統的語音指示，然後回答下面的兩個問題。\n您好，歡迎使用語音購票系統\n請注意，本系統只接受信用卡購票\n請輸入乘車日期，如 7 月 4 號，請輸入 0704\n請輸入訂票車次，如 1097 車次，請按 1097＃\n請選擇訂票張數。一張請按 1\n請注意，一人最多訂四張\n螢幕顯示您的訂票資訊…確定請按 1，取消請按 2\n請輸入信用卡卡號…\n購票完成，請拿票，謝謝。\n41. 用這套系統訂票，要提供哪些資料？\n42. 用這套系統訂車票，要注意什麼事？\n請聽這一段話，然後回答下面的兩個問題。\n早上家裡的電話響個不停，一直沒人接，我只好起床接電話，原來是媽媽打\n來的。因為今天有客人到家裡來，所以她一早就出門買菜了。她問我客人來了沒\n有？要我把客廳整理乾淨，我告訴她，客人來了我會招待，請她不要擔心。\n43. 媽媽為什麼打電話回家？\n44. 說話的人告訴媽媽什麼?\n\n請聽一則和公共政策有關的報導，然後回答下面三個問題：\n45. 根據報導，政府推動這項新政策主要是為了什麼？\n46. 報導中提到民眾對這項新政策的反應怎麼樣？\n47. 下面哪件事符合這項新政策的概念？\n現在請聽報導。\n近年來，民眾越來越重視休閒生活，許多人都利用週末假期到戶外活動。但\n是，快速增加的旅遊人潮不僅在旅遊景點造成了交通問題，也給當地帶來了廢氣\n和噪音。因此，政府不久前開始積極推動「低碳旅遊」。實際的作法像是搭乘巴\n士或火車到達較遠的景點，再利用腳踏車或步行的方式，完成短距離的移動。\n低碳旅遊的觀念已經逐漸被民眾接受，最近更擴大到其他方面。除了交通，\n也包括了旅行時自己準備餐具，住旅館時不使用旅館提供的一次性用品，或是只\n食用當地、當季的飲食，以及不把垃圾留在旅遊地等等。目前許多旅遊業者正共\n同推動低碳旅遊，只要消費者符合低碳旅遊的條件，旅遊業者就提供他們折扣。\n請聽一則有關《大英百科全書》的報導，然後回答下面三個問題：\n48. 《大英百科全書》銷售量下滑的主要原因是什麼？\n49. 《大英百科全書》的轉機是什麼？\n50. 報導最後用豪華轎車來說明什麼？\n現在請聽報導。\n《大英百科全書》在 1768 年出版，雖然價格昂貴，仍維持極高的市場佔有\n率。但是隨著時代的轉變和科技的創新，改變了這部百科全書的命運，銷售金額\n不但下滑了一半，甚至，一度被埋沒在資訊革命的潮流裡，直到 1996 年瑞士商\n人買下之後，才出現轉機，成為以線上資料庫為主的公司。\n《大英百科全書》所面臨的銷售問題，還有另一深層的意義，以前，擁有一\n套百科全書就好像擁有一部豪華轎車一樣，是財富與地位的象徵，但現在隨著獲\n得知識的方法改變，人們也不再以擁有一套百科全書來作為展示自我的方式了。",
+ "optionCount": 4
+}

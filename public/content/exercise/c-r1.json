@@ -1,0 +1,1591 @@
+{
+ "id": "c-r1",
+ "band": "c",
+ "skill": "reading",
+ "series": 1,
+ "title": "Band C Reading · Series 1",
+ "source": {
+  "folder": "4. TOCFL Band C/Reading",
+  "booklet": "1. TOCFL Reading Band C.pdf",
+  "answer": "1. TOCFL Reading Answer Band C.pdf",
+  "script": null
+ },
+ "timeMinutes": null,
+ "parts": [
+  {
+   "title": "一、選詞填空",
+   "subtitle": "",
+   "instructions": "說明：在這一部分，每一段短文有幾個空格，每個空格有四個選\n項，請選出正確的答案完成短文。",
+   "instructionsEn": "",
+   "page": 3,
+   "from": 1,
+   "to": 15,
+   "grouped": true
+  },
+  {
+   "title": "二、閱讀理解",
+   "subtitle": "",
+   "instructions": "說明：在這一部分，請閱讀材料或短文，並根據內容回答幾個問\n題。",
+   "instructionsEn": "",
+   "page": 7,
+   "from": 16,
+   "to": 50,
+   "grouped": true
+  }
+ ],
+ "questions": [
+  {
+   "n": 1,
+   "page": 4,
+   "stem": "",
+   "context": "（一）\n從 15 世紀開始，歐洲便出現了手抄報紙，報導有關政治、戰爭、市場、船期等消息， 1 它突破了傳統私人信件的形式，但傳播的範圍還很小， 2 要等到印刷技術進步，報紙才 3 大量發行。報紙之所以普及，也跟近代商業的發展 4 關係。經濟快速地成長，使得不同地區、不同國家間的關係更為密切，人們需要互相了解，資訊需要快速傳播，人們對報紙的依賴也就 5 加深，報業因此蓬勃發展。",
+   "options": [
+    {
+     "label": "A",
+     "text": "由於"
+    },
+    {
+     "label": "B",
+     "text": "儘管"
+    },
+    {
+     "label": "C",
+     "text": "既然"
+    },
+    {
+     "label": "D",
+     "text": "然而"
+    }
+   ],
+   "crop": "q1.webp",
+   "showCrop": false,
+   "cropGap": 28,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 2,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "一向"
+    },
+    {
+     "label": "B",
+     "text": "一時"
+    },
+    {
+     "label": "C",
+     "text": "一旦"
+    },
+    {
+     "label": "D",
+     "text": "一直"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 3,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "得以"
+    },
+    {
+     "label": "B",
+     "text": "加以"
+    },
+    {
+     "label": "C",
+     "text": "予以"
+    },
+    {
+     "label": "D",
+     "text": "足以"
+    }
+   ],
+   "crop": "q3.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 4,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "免不了"
+    },
+    {
+     "label": "B",
+     "text": "脫不了"
+    },
+    {
+     "label": "C",
+     "text": "去不了"
+    },
+    {
+     "label": "D",
+     "text": "起不了"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 5,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "極其"
+    },
+    {
+     "label": "B",
+     "text": "相當"
+    },
+    {
+     "label": "C",
+     "text": "日益"
+    },
+    {
+     "label": "D",
+     "text": "隨後"
+    }
+   ],
+   "crop": "q5.webp",
+   "showCrop": false,
+   "cropGap": 174,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 6,
+   "page": 5,
+   "stem": "",
+   "context": "（二）\n目前許多中小學都鼓勵學生利用電腦進行學習，但是成人的電腦讓小孩用， 6 會有各種顧慮，不是擔心重要檔案被小孩刪掉，就是怕小孩亂逛網站造成電腦中毒。當然，對父母來說，中毒事小，\n7 小孩逛到色情或賭博網站，那就更糟糕了。正因為兒童使用電腦的比例逐年增加，有廠商看好這 8 趨勢，推出專為兒童設計的電腦， 9 內建各種學習軟體， 9 可讓父母監控小孩上網的情形，一上市便廣受好評，創造出亮眼的 10 ，廠商也因此大撈一筆。",
+   "options": [
+    {
+     "label": "A",
+     "text": "居然"
+    },
+    {
+     "label": "B",
+     "text": "未必"
+    },
+    {
+     "label": "C",
+     "text": "難免"
+    },
+    {
+     "label": "D",
+     "text": "哪怕"
+    }
+   ],
+   "crop": "q6.webp",
+   "showCrop": false,
+   "cropGap": 30,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": "g6"
+  },
+  {
+   "n": 7,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "恐怕"
+    },
+    {
+     "label": "B",
+     "text": "萬一"
+    },
+    {
+     "label": "C",
+     "text": "甚至"
+    },
+    {
+     "label": "D",
+     "text": "而且"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g6"
+  },
+  {
+   "n": 8,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "股"
+    },
+    {
+     "label": "B",
+     "text": "款"
+    },
+    {
+     "label": "C",
+     "text": "片"
+    },
+    {
+     "label": "D",
+     "text": "串"
+    }
+   ],
+   "crop": "q8.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g6"
+  },
+  {
+   "n": 9,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "雖然…但…"
+    },
+    {
+     "label": "B",
+     "text": "除非…才…"
+    },
+    {
+     "label": "C",
+     "text": "不論…也…"
+    },
+    {
+     "label": "D",
+     "text": "不僅…還…"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g6"
+  },
+  {
+   "n": 10,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "客戶"
+    },
+    {
+     "label": "B",
+     "text": "銷售"
+    },
+    {
+     "label": "C",
+     "text": "業績"
+    },
+    {
+     "label": "D",
+     "text": "景氣"
+    }
+   ],
+   "crop": "q10.webp",
+   "showCrop": false,
+   "cropGap": 172,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": "g6"
+  },
+  {
+   "n": 11,
+   "page": 6,
+   "stem": "",
+   "context": "（三）\n每每回顧生命歷程，總發現某些當年所 11 的意外、經歷的曲折，後來好像都轉為一種能量和養分。若 12 這些意外與曲折，我似乎就不會在人生的路上，與難得的人、事相遇；而這些人、那些事在時間漸漸 13 一切後，只留下了由歡笑與淚水交織而成的一股暖意。曾經的悔恨和不滿彷彿都已 14 。我經常拿這些人與事向朋友分享，他們鼓勵我將之化為文字， 15 自己帶著回憶走進棺材，\n15 集結成冊，當我有一天什麼都不記得時，至少還有人幫我記得這些人、那些事。",
+   "options": [
+    {
+     "label": "A",
+     "text": "盲從"
+    },
+    {
+     "label": "B",
+     "text": "遵循"
+    },
+    {
+     "label": "C",
+     "text": "叫好"
+    },
+    {
+     "label": "D",
+     "text": "遭遇"
+    }
+   ],
+   "crop": "q11.webp",
+   "showCrop": false,
+   "cropGap": 44,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g11"
+  },
+  {
+   "n": 12,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "未"
+    },
+    {
+     "label": "B",
+     "text": "甭"
+    },
+    {
+     "label": "C",
+     "text": "勿"
+    },
+    {
+     "label": "D",
+     "text": "非"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g11"
+  },
+  {
+   "n": 13,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "沖淡"
+    },
+    {
+     "label": "B",
+     "text": "裁減"
+    },
+    {
+     "label": "C",
+     "text": "消耗"
+    },
+    {
+     "label": "D",
+     "text": "剝削"
+    }
+   ],
+   "crop": "q13.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g11"
+  },
+  {
+   "n": 14,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "香消玉殞"
+    },
+    {
+     "label": "B",
+     "text": "雲消霧散"
+    },
+    {
+     "label": "C",
+     "text": "捲土重來"
+    },
+    {
+     "label": "D",
+     "text": "魂飛魄散"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g11"
+  },
+  {
+   "n": 15,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "為了…因此…"
+    },
+    {
+     "label": "B",
+     "text": "就算…也能…"
+    },
+    {
+     "label": "C",
+     "text": "總得…進而…"
+    },
+    {
+     "label": "D",
+     "text": "與其…不如…"
+    }
+   ],
+   "crop": "q15.webp",
+   "showCrop": false,
+   "cropGap": 136,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g11"
+  },
+  {
+   "n": 16,
+   "page": 8,
+   "stem": "根據本文，男人不願意看醫師的原因是什麼？",
+   "context": "（一）\n在台灣，男人平均比女人少活約 5 歲。不過，男人並沒有因此更加注意健康；就算生病了，也總是以「我很忙」、「沒時間」為藉口，不願到醫院就診。專家指出，這是因為男性經常以「東西勉強可用就不必修理」的心態來面對健康問題，即使身體有小病痛也刻意忽略，害怕一去看醫師就會發現許多毛病，或者就此必須終生吃藥度日。\n壽命長短男女有別，這其中包含了許多如遺傳或體質方面等先天因素。但許多專家認為，與其說這種差距與男性基因有關，倒不如說與男人對健康的態度有關。",
+   "options": [
+    {
+     "label": "A",
+     "text": "沒有時間"
+    },
+    {
+     "label": "B",
+     "text": "身體一直都很健康"
+    },
+    {
+     "label": "C",
+     "text": "怕檢查出不少毛病"
+    },
+    {
+     "label": "D",
+     "text": "認為醫生只能發現小毛病"
+    }
+   ],
+   "crop": "q16.webp",
+   "showCrop": false,
+   "cropGap": 30,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g16"
+  },
+  {
+   "n": 17,
+   "page": 8,
+   "stem": "專家認為男人比女人短命主要是因為什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "不重視健康"
+    },
+    {
+     "label": "B",
+     "text": "與基因有關"
+    },
+    {
+     "label": "C",
+     "text": "工作壓力大"
+    },
+    {
+     "label": "D",
+     "text": "抵抗力較弱"
+    }
+   ],
+   "crop": "q17.webp",
+   "showCrop": false,
+   "cropGap": 258,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g16"
+  },
+  {
+   "n": 18,
+   "page": 9,
+   "stem": "作者用蜂鳥來比喻哪一種人？",
+   "context": "（二）\n有一種鳥叫蜂鳥，是鳥類中最小的鳥，只有拇指大小。這種鳥嘴型細長，專吃花蜜和花上的小昆蟲，產於南美洲，整日盤旋於仙人掌等幾種花間，也許營養太單調，總也吃不大、飛不高。而有些人讀書做學問的方式，和蜂鳥很相似。這些人愛讀書，卻不大會讀書，往往成為書的奴僕，他們埋進書堆，一心只讀自己的書，任天塌下來也不管。這些人埋頭苦讀，精神可嘉，本無可厚非，然而令人擔心的是鑽進象牙塔出不來。讀書就像吃飯，不可偏食，印刷的書籍要讀，人生這本大書更得讀。",
+   "options": [
+    {
+     "label": "A",
+     "text": "不讀書的人"
+    },
+    {
+     "label": "B",
+     "text": "只知讀書的人"
+    },
+    {
+     "label": "C",
+     "text": "書讀得少的人"
+    },
+    {
+     "label": "D",
+     "text": "假裝讀書的人"
+    }
+   ],
+   "crop": "q18.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 19,
+   "page": 9,
+   "stem": "作者說，像蜂鳥的人有什麼問題？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "不夠專精"
+    },
+    {
+     "label": "B",
+     "text": "不夠認真"
+    },
+    {
+     "label": "C",
+     "text": "不關心世事"
+    },
+    {
+     "label": "D",
+     "text": "不在乎品德"
+    }
+   ],
+   "crop": "q19.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 20,
+   "page": 9,
+   "stem": "作者對於讀書有什麼看法？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "人生不必讀很多書"
+    },
+    {
+     "label": "B",
+     "text": "吃飯比讀書更為重要"
+    },
+    {
+     "label": "C",
+     "text": "讀書不應受到世事干擾"
+    },
+    {
+     "label": "D",
+     "text": "吸收知識不應該只限於書本"
+    }
+   ],
+   "crop": "q20.webp",
+   "showCrop": false,
+   "cropGap": 160,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 21,
+   "page": 11,
+   "stem": "作者建議消費者在購買衛生紙時，考量哪個因素？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "原料"
+    },
+    {
+     "label": "B",
+     "text": "價格"
+    },
+    {
+     "label": "C",
+     "text": "質感"
+    },
+    {
+     "label": "D",
+     "text": "廠牌"
+    }
+   ],
+   "crop": "q21.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 22,
+   "page": 11,
+   "stem": "本文第二段第三行所提到的「迷思」 ，指的是什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "使用衛生紙對人體有害"
+    },
+    {
+     "label": "B",
+     "text": "使用衛生紙不會破壞環境"
+    },
+    {
+     "label": "C",
+     "text": "用回收材料製作的衛生紙不好用"
+    },
+    {
+     "label": "D",
+     "text": "來自歐洲或拉丁美洲的產品比較好"
+    }
+   ],
+   "crop": "q22.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 23,
+   "page": 11,
+   "stem": "本文主要在說什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "建議人們停止使用衛生紙"
+    },
+    {
+     "label": "B",
+     "text": "主張回收使用後的衛生紙"
+    },
+    {
+     "label": "C",
+     "text": "如何改善衛生紙的柔軟度"
+    },
+    {
+     "label": "D",
+     "text": "指出什麼才是環保的衛生紙"
+    }
+   ],
+   "crop": "q23.webp",
+   "showCrop": false,
+   "cropGap": 385,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 24,
+   "page": 13,
+   "stem": "第一段提到下面哪一件事？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "體型大有助於草食動物覓食"
+    },
+    {
+     "label": "B",
+     "text": "草食動物絕大多數是大型動物"
+    },
+    {
+     "label": "C",
+     "text": "幼小的大象或犀牛最容易受攻擊"
+    },
+    {
+     "label": "D",
+     "text": "獅子、土狼等也會攻擊大型動物"
+    }
+   ],
+   "crop": "q24.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 25,
+   "page": 13,
+   "stem": "第一段為什麼提到羚羊？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "因為牠是大型動物的主食"
+    },
+    {
+     "label": "B",
+     "text": "說明小型動物容易被追殺"
+    },
+    {
+     "label": "C",
+     "text": "強調大型動物行動比較不方便"
+    },
+    {
+     "label": "D",
+     "text": "指出大型動物多半是草食性動物"
+    }
+   ],
+   "crop": "q25.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 26,
+   "page": 13,
+   "stem": "根據第二段，體型巨大對動物有什麼影響？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "增加新陳代謝"
+    },
+    {
+     "label": "B",
+     "text": "快速消耗能量"
+    },
+    {
+     "label": "C",
+     "text": "具有保溫功能"
+    },
+    {
+     "label": "D",
+     "text": "必須攝取和身體等重的食物"
+    }
+   ],
+   "crop": "q26.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 27,
+   "page": 13,
+   "stem": "最後一段從哪兩個角度來比較大型動物和小型動物？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "數量及靈活度"
+    },
+    {
+     "label": "B",
+     "text": "出生率及死亡率"
+    },
+    {
+     "label": "C",
+     "text": "飲食和居住習慣"
+    },
+    {
+     "label": "D",
+     "text": "獵食及逃生技巧"
+    }
+   ],
+   "crop": "q27.webp",
+   "showCrop": false,
+   "cropGap": 265,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 28,
+   "page": 15,
+   "stem": "第一段主要在說什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "如何尋找企業夥伴"
+    },
+    {
+     "label": "B",
+     "text": "什麼產品較有市場"
+    },
+    {
+     "label": "C",
+     "text": "為何要維持公司獨立"
+    },
+    {
+     "label": "D",
+     "text": "怎樣研發產品最適當"
+    }
+   ],
+   "crop": "q28.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 29,
+   "page": 15,
+   "stem": "在什麼情況下，公司較適合開發複雜度低的產品？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "經濟不景氣時"
+    },
+    {
+     "label": "B",
+     "text": "找到合作對象時"
+    },
+    {
+     "label": "C",
+     "text": "能自行解決問題時"
+    },
+    {
+     "label": "D",
+     "text": "公司內部意見不合時"
+    }
+   ],
+   "crop": "q29.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 30,
+   "page": 15,
+   "stem": "依作者的看法，當公司決定和其他企業合作開發個人電腦時，將 產生哪種現象？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "不易產生歧見"
+    },
+    {
+     "label": "B",
+     "text": "能提高創造力"
+    },
+    {
+     "label": "C",
+     "text": "容易導致市場萎縮"
+    },
+    {
+     "label": "D",
+     "text": "顯示公司面臨困境"
+    }
+   ],
+   "crop": "q30.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 31,
+   "page": 15,
+   "stem": "根據本文，一家公司決定獨立開發產品的好處，不包括下面哪一 項？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "可以增加效率"
+    },
+    {
+     "label": "B",
+     "text": "可以避免意見不合"
+    },
+    {
+     "label": "C",
+     "text": "可以快速掌握市場狀況"
+    },
+    {
+     "label": "D",
+     "text": "適合開發較複雜的產品"
+    }
+   ],
+   "crop": "q31.webp",
+   "showCrop": false,
+   "cropGap": 225,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 32,
+   "page": 17,
+   "stem": "根據第一段，作者認為騎單車的安全性在哪裡？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "速度上有限制"
+    },
+    {
+     "label": "B",
+     "text": "可以訓練平衡感"
+    },
+    {
+     "label": "C",
+     "text": "剎車後能馬上停止"
+    },
+    {
+     "label": "D",
+     "text": "可以短時間內加速"
+    }
+   ],
+   "crop": "q32.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 33,
+   "page": 17,
+   "stem": "第二段主要在說什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "騎車騎得慢不一定安全"
+    },
+    {
+     "label": "B",
+     "text": "單車的設計不利於高速行駛"
+    },
+    {
+     "label": "C",
+     "text": "騎單車的危險性沒有汽機車高"
+    },
+    {
+     "label": "D",
+     "text": "沒有安全裝備是意外發生的主因"
+    }
+   ],
+   "crop": "q33.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 34,
+   "page": 17,
+   "stem": "在第三段，作者指出目前的單車市場有什麼問題？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "休閒性的單車不夠安全"
+    },
+    {
+     "label": "B",
+     "text": "民眾騎休閒性單車來比賽"
+    },
+    {
+     "label": "C",
+     "text": "民眾偏好買競速型的單車"
+    },
+    {
+     "label": "D",
+     "text": "只有休閒性的單車有市場"
+    }
+   ],
+   "crop": "q34.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 35,
+   "page": 17,
+   "stem": "如果要將「這種以比賽競速為目的的單車，設計上其實與安全原 則背道而馳。」這段話放入第三段，哪個位置最合適？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "I"
+    },
+    {
+     "label": "B",
+     "text": "II"
+    },
+    {
+     "label": "C",
+     "text": "III"
+    },
+    {
+     "label": "D",
+     "text": "IV"
+    }
+   ],
+   "crop": "q35.webp",
+   "showCrop": false,
+   "cropGap": 245,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 36,
+   "page": 19,
+   "stem": "作者在第一段中的「那」，指的是什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "真實、長久的快樂"
+    },
+    {
+     "label": "B",
+     "text": "心中感到滿足的狀態"
+    },
+    {
+     "label": "C",
+     "text": "追求物質的生活目標"
+    },
+    {
+     "label": "D",
+     "text": "《祝你今年快樂》這本書"
+    }
+   ],
+   "crop": "q36.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 37,
+   "page": 19,
+   "stem": "為什麼鮑教授提到了追兔子的狗？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "強調沒有勇氣就得不到快樂"
+    },
+    {
+     "label": "B",
+     "text": "指出快樂來自於追求的過程"
+    },
+    {
+     "label": "C",
+     "text": "說明一般人分不清快樂與喜悅"
+    },
+    {
+     "label": "D",
+     "text": "透露多數現代人的生活漫無目標"
+    }
+   ],
+   "crop": "q37.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 38,
+   "page": 19,
+   "stem": "鮑教授利用飛行員的例子來說明哪件事？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "快樂是有意識的選擇"
+    },
+    {
+     "label": "B",
+     "text": "快樂不應該分程度大小"
+    },
+    {
+     "label": "C",
+     "text": "快樂的來源有半數取決於行動"
+    },
+    {
+     "label": "D",
+     "text": "快樂所產生的力量是很強大的"
+    }
+   ],
+   "crop": "q38.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 39,
+   "page": 19,
+   "stem": "作者讀完《祝你今年快樂》以後有什麼心得？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "不應該將快樂當作一種獎賞"
+    },
+    {
+     "label": "B",
+     "text": "得先承認自己不快樂的緣由"
+    },
+    {
+     "label": "C",
+     "text": "別把尋找快樂經常掛在嘴邊"
+    },
+    {
+     "label": "D",
+     "text": "練習微笑對自己起不了作用"
+    }
+   ],
+   "crop": "q39.webp",
+   "showCrop": false,
+   "cropGap": 265,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 40,
+   "page": 21,
+   "stem": "根據第一段，虛擬水這個概念主要在說明什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "被消耗的水可以再度回收利用"
+    },
+    {
+     "label": "B",
+     "text": "一般產品的製造過程也需要水"
+    },
+    {
+     "label": "C",
+     "text": "人們實際使用的水比想像中少"
+    },
+    {
+     "label": "D",
+     "text": "利用科技尋找水資源的替代品"
+    }
+   ],
+   "crop": "q40.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 41,
+   "page": 21,
+   "stem": "根據第二段，氣候潮濕的國家如何運用水資源？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "販售農產品"
+    },
+    {
+     "label": "B",
+     "text": "大量外銷飲用水"
+    },
+    {
+     "label": "C",
+     "text": "進口大量的農作物"
+    },
+    {
+     "label": "D",
+     "text": "建立完善的灌溉系統"
+    }
+   ],
+   "crop": "q41.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 42,
+   "page": 21,
+   "stem": "根據第二段，關於虛擬水的交易模式，下面哪一個是對的？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "販賣能開發水資源的科技"
+    },
+    {
+     "label": "B",
+     "text": "以農產品為媒介進行交易"
+    },
+    {
+     "label": "C",
+     "text": "主要透過電腦網路進行交易"
+    },
+    {
+     "label": "D",
+     "text": "不需藉由其他商品進行交易"
+    }
+   ],
+   "crop": "q42.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 43,
+   "page": 21,
+   "stem": "根據第三段，埃及為什麼使用進口糧食？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "當地無法生產小麥"
+    },
+    {
+     "label": "B",
+     "text": "節省境內的用水量"
+    },
+    {
+     "label": "C",
+     "text": "受傳統飲食習慣影響"
+    },
+    {
+     "label": "D",
+     "text": "有足夠的水資源來進行交換"
+    }
+   ],
+   "crop": "q43.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 44,
+   "page": 21,
+   "stem": "最後一段主要在說明什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "如何改進糧食的生產過程"
+    },
+    {
+     "label": "B",
+     "text": "生產糧食有助於節省水資源"
+    },
+    {
+     "label": "C",
+     "text": "浪費食物也就是浪費水資源"
+    },
+    {
+     "label": "D",
+     "text": "水資源不足導致世界糧食缺乏"
+    }
+   ],
+   "crop": "q44.webp",
+   "showCrop": false,
+   "cropGap": 145,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g18"
+  },
+  {
+   "n": 45,
+   "page": 22,
+   "stem": "如果要在第一段的空格中插入一段話，下列何者最適合？",
+   "context": "（九）\n我的朋友老張買了份終身壽險、附加手術醫療保險，希望在有生之年若患病、遭逢意外時，能獲得醫療補助或理賠。然而，前年老張因白內障而動手術，事後向保險公司申請保險金，卻被擋在門外。\n保險專員表示，手術醫療被保險人在接受手術治療後，必須住在醫院始能獲得保險金，而張先生治療白內障屬於當天完成的手術，無法提供任何補助。老張對此當然忿忿不平，他認為，以往白內障手術的確得住院，不過現今醫學發達，手術完後即可離開，根本不必住院、浪費醫療資源！\n老張於是向保險事業發展中心提出申訴，希望透過合法途徑獲得理賠。保險事業發展中心認為，老張確實沒住院，也無需住院，手術實際狀況不符條款約定要件而未獲給付，依約保險公司並無推諉塞責的情況，老張在這場抗爭中其實站不住腳。老張不服申訴結果，故透過網路散播不利於保險公司的評論。爾後，保險公司針對老張的這些言論提出惡意誹謗的控訴。\n如此一來一往，造成兩敗俱傷。我認為保險公司堅守合約條款，對，也不對。也許在「理」方面確實站得住腳，然而，站在「情」方面未免有失人情味、過於冷血。保險公司應該將眼光放遠，網開一面，與當事人溝通協調，最好能主動提供些微補助，如能不拘泥於明文規定，我相信定能提升自身形象，也能使人受惠、創造雙贏。",
+   "options": [
+    {
+     "label": "A",
+     "text": "有些人不願意買保險，他們認為自己健康無虞。"
+    },
+    {
+     "label": "B",
+     "text": "不過，保險公司事後總有一些推託之詞，拒絕理賠。"
+    },
+    {
+     "label": "C",
+     "text": "這些保險條款在制定時，難免會有一些不可避免的缺失。"
+    },
+    {
+     "label": "D",
+     "text": "保險人的想法其實大同小異，都希望買份保障、買份心安。"
+    }
+   ],
+   "crop": "q45.webp",
+   "showCrop": false,
+   "cropGap": 70,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g45"
+  },
+  {
+   "n": 46,
+   "page": 23,
+   "stem": "根據第二段，老張的立場是什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "院方不應省略關鍵的醫療過程"
+    },
+    {
+     "label": "B",
+     "text": "院方得如實告知病患住院費用"
+    },
+    {
+     "label": "C",
+     "text": "保險公司不應只考量病患住院與否"
+    },
+    {
+     "label": "D",
+     "text": "保險公司須依住院的天數提供補助"
+    }
+   ],
+   "crop": "q46.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g45"
+  },
+  {
+   "n": 47,
+   "page": 23,
+   "stem": "第三段的「老張在這場抗爭中其實站不住腳」是什麼意思？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "老張失去了對抗此事的勇氣"
+    },
+    {
+     "label": "B",
+     "text": "老張對此事早有萬全的準備"
+    },
+    {
+     "label": "C",
+     "text": "老張沒有足夠的理由說服他人"
+    },
+    {
+     "label": "D",
+     "text": "老張推卸了自己應負擔的責任"
+    }
+   ],
+   "crop": "q47.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g45"
+  },
+  {
+   "n": 48,
+   "page": 23,
+   "stem": "保險公司的立場是什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "始終認為保險人浪費醫療資源"
+    },
+    {
+     "label": "B",
+     "text": "始終堅持依循保險合約的內容"
+    },
+    {
+     "label": "C",
+     "text": "後來願意理賠部分條款的金額"
+    },
+    {
+     "label": "D",
+     "text": "後來同意保險合約確實不通人情"
+    }
+   ],
+   "crop": "q48.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g45"
+  },
+  {
+   "n": 49,
+   "page": 23,
+   "stem": "根據最後一段，作者認為保險公司怎麼樣？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "太不留情面"
+    },
+    {
+     "label": "B",
+     "text": "不應避不見面"
+    },
+    {
+     "label": "C",
+     "text": "應提供全額理賠"
+    },
+    {
+     "label": "D",
+     "text": "做法不合情、理"
+    }
+   ],
+   "crop": "q49.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g45"
+  },
+  {
+   "n": 50,
+   "page": 23,
+   "stem": "下列哪一個最適合做為本文標題？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "白紙黑字外的彈性空間"
+    },
+    {
+     "label": "B",
+     "text": "小蝦米吃大鯨魚的成功案例"
+    },
+    {
+     "label": "C",
+     "text": "上樑不正、下樑歪的實際案例"
+    },
+    {
+     "label": "D",
+     "text": "第三者居中協調才能獲得雙贏"
+    }
+   ],
+   "crop": "q50.webp",
+   "showCrop": false,
+   "cropGap": 145,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g45"
+  }
+ ],
+ "audio": null,
+ "fullScript": null,
+ "optionCount": 4
+}

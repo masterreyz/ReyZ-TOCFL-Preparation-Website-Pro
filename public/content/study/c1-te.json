@@ -1,0 +1,797 @@
+{
+ "id": "c1-te",
+ "level": "c1",
+ "kind": "textbook",
+ "label": "Textbook 課本",
+ "pages": 299,
+ "source": {
+  "folder": "5. 第五本 (C1)",
+  "file": "TOCFL C1 Textbook.pdf",
+  "audioDir": "5. 第五本 (C1)/TOCFL C1 Textbook Audio"
+ },
+ "frontMatter": {
+  "start": 1,
+  "end": 32
+ },
+ "backMatter": {
+  "start": 257,
+  "end": 299
+ },
+ "lessons": [
+  {
+   "n": 1,
+   "start": 33,
+   "end": 56,
+   "headerPage": 33,
+   "detection": {
+    "header": 33,
+    "opener": null,
+    "audioMarker": null
+   },
+   "titleOcr": "言論自由的界線",
+   "titleVerified": true,
+   "id": "c1-te-l01",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "01-01.mp3",
+     "lesson": 1,
+     "label": "01-01",
+     "page": null,
+     "src": "study/c1-te/01-01.mp3"
+    },
+    {
+     "file": "01-02.mp3",
+     "lesson": 1,
+     "label": "01-02",
+     "page": null,
+     "src": "study/c1-te/01-02.mp3"
+    },
+    {
+     "file": "01-03.mp3",
+     "lesson": 1,
+     "label": "01-03",
+     "page": null,
+     "src": "study/c1-te/01-03.mp3"
+    },
+    {
+     "file": "01-04.mp3",
+     "lesson": 1,
+     "label": "01-04",
+     "page": null,
+     "src": "study/c1-te/01-04.mp3"
+    },
+    {
+     "file": "01-05.mp3",
+     "lesson": 1,
+     "label": "01-05",
+     "page": null,
+     "src": "study/c1-te/01-05.mp3"
+    },
+    {
+     "file": "01-06.mp3",
+     "lesson": 1,
+     "label": "01-06",
+     "page": null,
+     "src": "study/c1-te/01-06.mp3"
+    },
+    {
+     "file": "01-07.mp3",
+     "lesson": 1,
+     "label": "01-07",
+     "page": null,
+     "src": "study/c1-te/01-07.mp3"
+    },
+    {
+     "file": "01-08.mp3",
+     "lesson": 1,
+     "label": "01-08",
+     "page": null,
+     "src": "study/c1-te/01-08.mp3"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 57,
+   "end": 80,
+   "headerPage": 57,
+   "detection": {
+    "header": 57,
+    "opener": null,
+    "audioMarker": null
+   },
+   "titleOcr": "關於基改食品，我有話要說",
+   "titleVerified": true,
+   "id": "c1-te-l02",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "02-01.mp3",
+     "lesson": 2,
+     "label": "02-01",
+     "page": null,
+     "src": "study/c1-te/02-01.mp3"
+    },
+    {
+     "file": "02-02.mp3",
+     "lesson": 2,
+     "label": "02-02",
+     "page": null,
+     "src": "study/c1-te/02-02.mp3"
+    },
+    {
+     "file": "02-03.mp3",
+     "lesson": 2,
+     "label": "02-03",
+     "page": null,
+     "src": "study/c1-te/02-03.mp3"
+    },
+    {
+     "file": "02-04.mp3",
+     "lesson": 2,
+     "label": "02-04",
+     "page": 63,
+     "src": "study/c1-te/02-04.mp3"
+    },
+    {
+     "file": "02-05.mp3",
+     "lesson": 2,
+     "label": "02-05",
+     "page": null,
+     "src": "study/c1-te/02-05.mp3"
+    },
+    {
+     "file": "02-06.mp3",
+     "lesson": 2,
+     "label": "02-06",
+     "page": null,
+     "src": "study/c1-te/02-06.mp3"
+    },
+    {
+     "file": "02-07.mp3",
+     "lesson": 2,
+     "label": "02-07",
+     "page": null,
+     "src": "study/c1-te/02-07.mp3"
+    },
+    {
+     "file": "02-08.mp3",
+     "lesson": 2,
+     "label": "02-08",
+     "page": null,
+     "src": "study/c1-te/02-08.mp3"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 81,
+   "end": 102,
+   "headerPage": 81,
+   "detection": {
+    "header": 81,
+    "opener": 104,
+    "audioMarker": null
+   },
+   "titleOcr": "整型好不好",
+   "titleVerified": true,
+   "id": "c1-te-l03",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "03-01.mp3",
+     "lesson": 3,
+     "label": "03-01",
+     "page": null,
+     "src": "study/c1-te/03-01.mp3"
+    },
+    {
+     "file": "03-02.mp3",
+     "lesson": 3,
+     "label": "03-02",
+     "page": null,
+     "src": "study/c1-te/03-02.mp3"
+    },
+    {
+     "file": "03-03.mp3",
+     "lesson": 3,
+     "label": "03-03",
+     "page": null,
+     "src": "study/c1-te/03-03.mp3"
+    },
+    {
+     "file": "03-04.mp3",
+     "lesson": 3,
+     "label": "03-04",
+     "page": null,
+     "src": "study/c1-te/03-04.mp3"
+    },
+    {
+     "file": "03-05.mp3",
+     "lesson": 3,
+     "label": "03-05",
+     "page": 85,
+     "src": "study/c1-te/03-05.mp3"
+    },
+    {
+     "file": "03-06.mp3",
+     "lesson": 3,
+     "label": "03-06",
+     "page": null,
+     "src": "study/c1-te/03-06.mp3"
+    },
+    {
+     "file": "03-07.mp3",
+     "lesson": 3,
+     "label": "03-07",
+     "page": null,
+     "src": "study/c1-te/03-07.mp3"
+    },
+    {
+     "file": "03-08.mp3",
+     "lesson": 3,
+     "label": "03-08",
+     "page": null,
+     "src": "study/c1-te/03-08.mp3"
+    },
+    {
+     "file": "03-09.mp3",
+     "lesson": 3,
+     "label": "03-09",
+     "page": 93,
+     "src": "study/c1-te/03-09.mp3"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 103,
+   "end": 124,
+   "headerPage": 103,
+   "detection": {
+    "header": 103,
+    "opener": null,
+    "audioMarker": null
+   },
+   "titleOcr": "傳統與現代",
+   "titleVerified": true,
+   "id": "c1-te-l04",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "04-01.mp3",
+     "lesson": 4,
+     "label": "04-01",
+     "page": null,
+     "src": "study/c1-te/04-01.mp3"
+    },
+    {
+     "file": "04-02.mp3",
+     "lesson": 4,
+     "label": "04-02",
+     "page": null,
+     "src": "study/c1-te/04-02.mp3"
+    },
+    {
+     "file": "04-03.mp3",
+     "lesson": 4,
+     "label": "04-03",
+     "page": null,
+     "src": "study/c1-te/04-03.mp3"
+    },
+    {
+     "file": "04-04.mp3",
+     "lesson": 4,
+     "label": "04-04",
+     "page": null,
+     "src": "study/c1-te/04-04.mp3"
+    },
+    {
+     "file": "04-05.mp3",
+     "lesson": 4,
+     "label": "04-05",
+     "page": 107,
+     "src": "study/c1-te/04-05.mp3"
+    },
+    {
+     "file": "04-06.mp3",
+     "lesson": 4,
+     "label": "04-06",
+     "page": null,
+     "src": "study/c1-te/04-06.mp3"
+    },
+    {
+     "file": "04-07.mp3",
+     "lesson": 4,
+     "label": "04-07",
+     "page": null,
+     "src": "study/c1-te/04-07.mp3"
+    },
+    {
+     "file": "04-08.mp3",
+     "lesson": 4,
+     "label": "04-08",
+     "page": null,
+     "src": "study/c1-te/04-08.mp3"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 125,
+   "end": 152,
+   "headerPage": 125,
+   "detection": {
+    "header": 125,
+    "opener": null,
+    "audioMarker": null
+   },
+   "titleOcr": "代理孕母，帶來幸福？",
+   "titleVerified": true,
+   "id": "c1-te-l05",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "05-01.mp3",
+     "lesson": 5,
+     "label": "05-01",
+     "page": null,
+     "src": "study/c1-te/05-01.mp3"
+    },
+    {
+     "file": "05-02.mp3",
+     "lesson": 5,
+     "label": "05-02",
+     "page": null,
+     "src": "study/c1-te/05-02.mp3"
+    },
+    {
+     "file": "05-03.mp3",
+     "lesson": 5,
+     "label": "05-03",
+     "page": null,
+     "src": "study/c1-te/05-03.mp3"
+    },
+    {
+     "file": "05-04.mp3",
+     "lesson": 5,
+     "label": "05-04",
+     "page": null,
+     "src": "study/c1-te/05-04.mp3"
+    },
+    {
+     "file": "05-05.mp3",
+     "lesson": 5,
+     "label": "05-05",
+     "page": 129,
+     "src": "study/c1-te/05-05.mp3"
+    },
+    {
+     "file": "05-06.mp3",
+     "lesson": 5,
+     "label": "05-06",
+     "page": null,
+     "src": "study/c1-te/05-06.mp3"
+    },
+    {
+     "file": "05-07.mp3",
+     "lesson": 5,
+     "label": "05-07",
+     "page": null,
+     "src": "study/c1-te/05-07.mp3"
+    },
+    {
+     "file": "05-08.mp3",
+     "lesson": 5,
+     "label": "05-08",
+     "page": null,
+     "src": "study/c1-te/05-08.mp3"
+    },
+    {
+     "file": "05-09.mp3",
+     "lesson": 5,
+     "label": "05-09",
+     "page": 141,
+     "src": "study/c1-te/05-09.mp3"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 153,
+   "end": 172,
+   "headerPage": 153,
+   "detection": {
+    "header": 153,
+    "opener": null,
+    "audioMarker": null
+   },
+   "titleOcr": "死刑的存廢",
+   "titleVerified": true,
+   "id": "c1-te-l06",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "06-01.mp3",
+     "lesson": 6,
+     "label": "06-01",
+     "page": null,
+     "src": "study/c1-te/06-01.mp3"
+    },
+    {
+     "file": "06-02.mp3",
+     "lesson": 6,
+     "label": "06-02",
+     "page": null,
+     "src": "study/c1-te/06-02.mp3"
+    },
+    {
+     "file": "06-03.mp3",
+     "lesson": 6,
+     "label": "06-03",
+     "page": null,
+     "src": "study/c1-te/06-03.mp3"
+    },
+    {
+     "file": "06-04.mp3",
+     "lesson": 6,
+     "label": "06-04",
+     "page": null,
+     "src": "study/c1-te/06-04.mp3"
+    },
+    {
+     "file": "06-05.mp3",
+     "lesson": 6,
+     "label": "06-05",
+     "page": 157,
+     "src": "study/c1-te/06-05.mp3"
+    },
+    {
+     "file": "06-06.mp3",
+     "lesson": 6,
+     "label": "06-06",
+     "page": null,
+     "src": "study/c1-te/06-06.mp3"
+    },
+    {
+     "file": "06-07.mp3",
+     "lesson": 6,
+     "label": "06-07",
+     "page": 159,
+     "src": "study/c1-te/06-07.mp3"
+    },
+    {
+     "file": "06-08.mp3",
+     "lesson": 6,
+     "label": "06-08",
+     "page": null,
+     "src": "study/c1-te/06-08.mp3"
+    },
+    {
+     "file": "06-09.mp3",
+     "lesson": 6,
+     "label": "06-09",
+     "page": 164,
+     "src": "study/c1-te/06-09.mp3"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 173,
+   "end": 192,
+   "headerPage": 173,
+   "detection": {
+    "header": 173,
+    "opener": null,
+    "audioMarker": null
+   },
+   "titleOcr": "增富人稅＝減窮人苦？",
+   "titleVerified": true,
+   "id": "c1-te-l07",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "07-01.mp3",
+     "lesson": 7,
+     "label": "07-01",
+     "page": null,
+     "src": "study/c1-te/07-01.mp3"
+    },
+    {
+     "file": "07-02.mp3",
+     "lesson": 7,
+     "label": "07-02",
+     "page": null,
+     "src": "study/c1-te/07-02.mp3"
+    },
+    {
+     "file": "07-03.mp3",
+     "lesson": 7,
+     "label": "07-03",
+     "page": null,
+     "src": "study/c1-te/07-03.mp3"
+    },
+    {
+     "file": "07-04.mp3",
+     "lesson": 7,
+     "label": "07-04",
+     "page": null,
+     "src": "study/c1-te/07-04.mp3"
+    },
+    {
+     "file": "07-05.mp3",
+     "lesson": 7,
+     "label": "07-05",
+     "page": 178,
+     "src": "study/c1-te/07-05.mp3"
+    },
+    {
+     "file": "07-06.mp3",
+     "lesson": 7,
+     "label": "07-06",
+     "page": null,
+     "src": "study/c1-te/07-06.mp3"
+    },
+    {
+     "file": "07-07.mp3",
+     "lesson": 7,
+     "label": "07-07",
+     "page": null,
+     "src": "study/c1-te/07-07.mp3"
+    },
+    {
+     "file": "07-08.mp3",
+     "lesson": 7,
+     "label": "07-08",
+     "page": null,
+     "src": "study/c1-te/07-08.mp3"
+    },
+    {
+     "file": "07-09.mp3",
+     "lesson": 7,
+     "label": "07-09",
+     "page": null,
+     "src": "study/c1-te/07-09.mp3"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 193,
+   "end": 218,
+   "headerPage": 193,
+   "detection": {
+    "header": 193,
+    "opener": null,
+    "audioMarker": null
+   },
+   "titleOcr": "左右為難的難民問題",
+   "titleVerified": true,
+   "id": "c1-te-l08",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "08-01.mp3",
+     "lesson": 8,
+     "label": "08-01",
+     "page": null,
+     "src": "study/c1-te/08-01.mp3"
+    },
+    {
+     "file": "08-02.mp3",
+     "lesson": 8,
+     "label": "08-02",
+     "page": null,
+     "src": "study/c1-te/08-02.mp3"
+    },
+    {
+     "file": "08-03.mp3",
+     "lesson": 8,
+     "label": "08-03",
+     "page": null,
+     "src": "study/c1-te/08-03.mp3"
+    },
+    {
+     "file": "08-04.mp3",
+     "lesson": 8,
+     "label": "08-04",
+     "page": null,
+     "src": "study/c1-te/08-04.mp3"
+    },
+    {
+     "file": "08-05.mp3",
+     "lesson": 8,
+     "label": "08-05",
+     "page": 197,
+     "src": "study/c1-te/08-05.mp3"
+    },
+    {
+     "file": "08-06.mp3",
+     "lesson": 8,
+     "label": "08-06",
+     "page": null,
+     "src": "study/c1-te/08-06.mp3"
+    },
+    {
+     "file": "08-07.mp3",
+     "lesson": 8,
+     "label": "08-07",
+     "page": null,
+     "src": "study/c1-te/08-07.mp3"
+    },
+    {
+     "file": "08-08.mp3",
+     "lesson": 8,
+     "label": "08-08",
+     "page": null,
+     "src": "study/c1-te/08-08.mp3"
+    },
+    {
+     "file": "08-09.mp3",
+     "lesson": 8,
+     "label": "08-09",
+     "page": null,
+     "src": "study/c1-te/08-09.mp3"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "start": 219,
+   "end": 236,
+   "headerPage": 219,
+   "detection": {
+    "header": 219,
+    "opener": null,
+    "audioMarker": null
+   },
+   "titleOcr": "有核到底可不可？",
+   "titleVerified": true,
+   "id": "c1-te-l09",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "09-01.mp3",
+     "lesson": 9,
+     "label": "09-01",
+     "page": null,
+     "src": "study/c1-te/09-01.mp3"
+    },
+    {
+     "file": "09-02.mp3",
+     "lesson": 9,
+     "label": "09-02",
+     "page": null,
+     "src": "study/c1-te/09-02.mp3"
+    },
+    {
+     "file": "09-03.mp3",
+     "lesson": 9,
+     "label": "09-03",
+     "page": null,
+     "src": "study/c1-te/09-03.mp3"
+    },
+    {
+     "file": "09-04.mp3",
+     "lesson": 9,
+     "label": "09-04",
+     "page": null,
+     "src": "study/c1-te/09-04.mp3"
+    },
+    {
+     "file": "09-05.mp3",
+     "lesson": 9,
+     "label": "09-05",
+     "page": 223,
+     "src": "study/c1-te/09-05.mp3"
+    },
+    {
+     "file": "09-06.mp3",
+     "lesson": 9,
+     "label": "09-06",
+     "page": null,
+     "src": "study/c1-te/09-06.mp3"
+    },
+    {
+     "file": "09-07.mp3",
+     "lesson": 9,
+     "label": "09-07",
+     "page": null,
+     "src": "study/c1-te/09-07.mp3"
+    },
+    {
+     "file": "09-08.mp3",
+     "lesson": 9,
+     "label": "09-08",
+     "page": null,
+     "src": "study/c1-te/09-08.mp3"
+    },
+    {
+     "file": "09-09.mp3",
+     "lesson": 9,
+     "label": "09-09",
+     "page": 231,
+     "src": "study/c1-te/09-09.mp3"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "start": 237,
+   "end": 256,
+   "headerPage": 253,
+   "detection": {
+    "header": 253,
+    "opener": null,
+    "audioMarker": null,
+    "override": 237
+   },
+   "titleOcr": "同性婚姻合法化",
+   "titleVerified": true,
+   "id": "c1-te-l10",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "10-01.mp3",
+     "lesson": 10,
+     "label": "10-01",
+     "page": null,
+     "src": "study/c1-te/10-01.mp3"
+    },
+    {
+     "file": "10-02.mp3",
+     "lesson": 10,
+     "label": "10-02",
+     "page": 239,
+     "src": "study/c1-te/10-02.mp3"
+    },
+    {
+     "file": "10-03.mp3",
+     "lesson": 10,
+     "label": "10-03",
+     "page": 241,
+     "src": "study/c1-te/10-03.mp3"
+    },
+    {
+     "file": "10-04.mp3",
+     "lesson": 10,
+     "label": "10-04",
+     "page": null,
+     "src": "study/c1-te/10-04.mp3"
+    },
+    {
+     "file": "10-05.mp3",
+     "lesson": 10,
+     "label": "10-05",
+     "page": 246,
+     "src": "study/c1-te/10-05.mp3"
+    },
+    {
+     "file": "10-06.mp3",
+     "lesson": 10,
+     "label": "10-06",
+     "page": 248,
+     "src": "study/c1-te/10-06.mp3"
+    },
+    {
+     "file": "10-07.mp3",
+     "lesson": 10,
+     "label": "10-07",
+     "page": 249,
+     "src": "study/c1-te/10-07.mp3"
+    }
+   ]
+  }
+ ],
+ "otherTracks": [
+  {
+   "file": "00.mp3",
+   "lesson": null,
+   "label": "00",
+   "src": "study/c1-te/00.mp3"
+  }
+ ],
+ "audioFiles": 86
+}

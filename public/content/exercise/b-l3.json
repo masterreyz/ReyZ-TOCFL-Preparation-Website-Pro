@@ -1,0 +1,2258 @@
+{
+ "id": "b-l3",
+ "band": "b",
+ "skill": "listening",
+ "series": 3,
+ "title": "Band B Listening · Series 3",
+ "source": {
+  "folder": "3. TOCFL Band B/Listening/Listening Test Series 3",
+  "booklet": "ls_mock3_test_BandB_t.pdf",
+  "answer": "ls_mock3_test_BandB_answer.pdf",
+  "script": "ls_mock3_test_BandB_listen.pdf"
+ },
+ "timeMinutes": null,
+ "parts": [
+  {
+   "title": "一、對話",
+   "subtitle": "",
+   "instructions": "說明：在這個部分，你會聽到幾段兩個人的對話，每段對話結束後，\n會問幾個問題。每個問題都有(A)(B)(C)(D)四個選項，這四個\n選項的內容也會出現在題本上。",
+   "instructionsEn": "",
+   "page": 3,
+   "from": 1,
+   "to": 30,
+   "grouped": false
+  },
+  {
+   "title": "二、段落",
+   "subtitle": "",
+   "instructions": "說明：在這個部分，你會聽到幾段話。每段話結束後，會問幾個問\n題。每個問題都有(A)(B)(C)(D)四個選項，這四個選項的內容\n也會出現在題本上。",
+   "instructionsEn": "",
+   "page": 11,
+   "from": 31,
+   "to": 50,
+   "grouped": true
+  }
+ ],
+ "questions": [
+  {
+   "n": 1,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "她不參加比賽"
+    },
+    {
+     "label": "B",
+     "text": "她要自己唱一首歌"
+    },
+    {
+     "label": "C",
+     "text": "她還沒決定要不要參加"
+    },
+    {
+     "label": "D",
+     "text": "她要和這位先生一起練習"
+    }
+   ],
+   "crop": "q1.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "男：下個月的歌唱比賽，你能不能和我一起合唱一首歌？\n女：只要人多，我就緊張得說不出話，更不用說唱歌了，我還是當觀眾幫你加油\n就好。\n男：關於唱歌比賽，這位小姐打算怎麼做？",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 2,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "妹妹教過她這首歌"
+    },
+    {
+     "label": "B",
+     "text": "她一下子就記住這首歌"
+    },
+    {
+     "label": "C",
+     "text": "這首歌她聽了好多次了"
+    },
+    {
+     "label": "D",
+     "text": "妹妹唱過的歌，她都記得"
+    }
+   ],
+   "crop": "q2.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "男：妳聽過這首歌沒有？\n女：我妹妹天天都聽這首歌，我都會背了。\n男：這位小姐的意思是什麼？",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 3,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "她老了才打算開始唸書"
+    },
+    {
+     "label": "B",
+     "text": "她認為人要不斷地學習"
+    },
+    {
+     "label": "C",
+     "text": "她不清楚為什麼別人讚美她"
+    },
+    {
+     "label": "D",
+     "text": "她認為多唸書，可以活得久"
+    }
+   ],
+   "crop": "q3.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "男：您年紀這麼大了，還去念研究所，真了不起！\n女：哪裡哪裡！活到老學到老嘛！\n男：這位女士的意思是什麼？",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 4,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "電影七點半才開始"
+    },
+    {
+     "label": "B",
+     "text": "電影七點二十分才開始"
+    },
+    {
+     "label": "C",
+     "text": "還有二十分電影才開始"
+    },
+    {
+     "label": "D",
+     "text": "還有半小時電影才開始"
+    }
+   ],
+   "crop": "q4.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "D",
+   "gradable": true,
+   "transcript": "男：你快一點行不行？七點的電影快開始了！\n女：還有半個小時呢，坐計程車去，二十分鐘就到了。\n男：這位小姐的意思是什麼？",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 5,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "換了新的食物"
+    },
+    {
+     "label": "B",
+     "text": "換了新的老闆"
+    },
+    {
+     "label": "C",
+     "text": "不再做生意了"
+    },
+    {
+     "label": "D",
+     "text": "休息七天才開門"
+    }
+   ],
+   "crop": "q5.webp",
+   "showCrop": false,
+   "cropGap": 143,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "男：這家餐廳怎麼一個禮拜都沒開門？\n女：生意太差，老闆不做了。\n男：這家餐廳怎麼了？",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 6,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "醫院"
+    },
+    {
+     "label": "B",
+     "text": "學校"
+    },
+    {
+     "label": "C",
+     "text": "餐廳"
+    },
+    {
+     "label": "D",
+     "text": "計程車上"
+    }
+   ],
+   "crop": "q6.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "男：小姐，請妳把嘴巴再張大一點，是這顆牙齒痛嗎？\n女：不是，要再往右邊一點，啊！就是這裡，疼得我什麼都不能吃。\n男：這段話最可能發生在什麼地方？",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 7,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "少了一塊錢"
+    },
+    {
+     "label": "B",
+     "text": "少了不少錢"
+    },
+    {
+     "label": "C",
+     "text": "多了一塊錢"
+    },
+    {
+     "label": "D",
+     "text": "錢不多也不少"
+    }
+   ],
+   "crop": "q7.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "D",
+   "gradable": true,
+   "transcript": "男：這些錢請妳數一數，看看對不對？\n女：我數好了，一塊錢也沒少。\n男：這些錢怎麼樣？",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 8,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "感冒症狀比想像中嚴重"
+    },
+    {
+     "label": "B",
+     "text": "光喝開水對身體沒幫助"
+    },
+    {
+     "label": "C",
+     "text": "不吃藥可能會要他的命"
+    },
+    {
+     "label": "D",
+     "text": "飲食習慣本來就有問題"
+    }
+   ],
+   "crop": "q8.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "D",
+   "gradable": true,
+   "transcript": "男：妳知道嗎？剛剛那位醫生不但沒開藥給我，還說我不是感冒，只要多喝白開\n水就可以了。\n女：誰叫你平常只喝可樂、果汁之類的飲料，要你喝白開水，好像要你的命一樣。\n現在醫生可站出來替你的身體說話囉！\n男：這位小姐認為這位先生怎麼樣？",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 9,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "客人太多讓服務的水準降低"
+    },
+    {
+     "label": "B",
+     "text": "餐廳食物的味道沒以前的好"
+    },
+    {
+     "label": "C",
+     "text": "不應該接受電視節目的訪問"
+    },
+    {
+     "label": "D",
+     "text": "服務生得罪很多常來的客人"
+    }
+   ],
+   "crop": "q9.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "男：最近服務生的反應速度也太差了。\n女：大概是電視節目一直宣傳的關係，客人突然增加，來不及應付吧！\n男：不過菜再好吃也沒用，常常無法維持服務品質，環境又吵，連我們這種老客\n人也不想來了。\n女：我看，我們又得重新找約會地點了。\n男：這位先生和小姐現在對這家餐廳的看法是什麼？",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 10,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "她已經習慣週末要加班"
+    },
+    {
+     "label": "B",
+     "text": "她覺得自己的工作比較輕鬆"
+    },
+    {
+     "label": "C",
+     "text": "她經常利用週末和客戶吃飯"
+    },
+    {
+     "label": "D",
+     "text": "她不相信這位先生週末要加班"
+    }
+   ],
+   "crop": "q10.webp",
+   "showCrop": false,
+   "cropGap": 143,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "男：我最近打算再試試其他工作，看看有沒有更好的。\n女：上次不是聽你說，這工作待遇不錯，你覺得挺好的嗎？\n男：可是經常為了客戶的事，到了週末還得加班，我覺得太說不過去了。\n女：喔，信不信由你，週末加班對我來說，根本是家常便飯。\n男：這位小姐的意思是什麼？",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 11,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "現在的皮椅都是七八十萬"
+    },
+    {
+     "label": "B",
+     "text": "打折以後，買皮椅的人不少"
+    },
+    {
+     "label": "C",
+     "text": "再貴一點的皮椅就沒有人買了"
+    },
+    {
+     "label": "D",
+     "text": "不少人買得起七八十萬的皮椅"
+    }
+   ],
+   "crop": "q11.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "D",
+   "gradable": true,
+   "transcript": "男：現在景氣不好，別人會不會覺得我們產品的定價高得離譜？\n女：這跟景氣無關，只要我們鎖定特定的族群，一樣很有市場。\n男：你這麼有把握啊！\n女：你沒看市面上動輒七八十萬的皮椅，買的人也不在少數。\n男：這位小姐的意思是什麼？",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 12,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "沒法跟老劉講道理"
+    },
+    {
+     "label": "B",
+     "text": "是個沒有原則的人"
+    },
+    {
+     "label": "C",
+     "text": "堅持立場、值得尊敬"
+    },
+    {
+     "label": "D",
+     "text": "再多勸一下，他就會讓步"
+    }
+   ],
+   "crop": "q12.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "男：唉！客戶堅持要賠償，老劉堅持自己沒有錯，待會的協調會，場面可尷尬了。\n女：你怎麼不勸勸他呢？\n男：我當然說啦！退一步海闊天空嘛！不過他聽不進去。\n女：都到這個節骨眼了他還堅持己見，真是不可理喻。\n男：這位太太說老劉怎麼樣？",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 13,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "連決賽都沒進"
+    },
+    {
+     "label": "B",
+     "text": "只得到一個獎"
+    },
+    {
+     "label": "C",
+     "text": "一個獎都沒得到"
+    },
+    {
+     "label": "D",
+     "text": "只有一項沒得獎"
+    }
+   ],
+   "crop": "q13.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "男：怎麼啦？垂頭喪氣的？\n女：我們為了參加運動會，連續三個月都留校苦練，就是想拼出好成績。\n男：勝敗乃兵家常事，能代表學校出賽就是一種榮耀，更何況你們幾乎每項運動\n都進入決賽呢！\n女：就是因為這樣，本來想至少可以拿下一面獎牌，誰知道會全軍覆沒呢！\n男：代表隊在這次比賽的表現怎麼樣？",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 14,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "老王的眼睛不好"
+    },
+    {
+     "label": "B",
+     "text": "老王做事很嚴謹"
+    },
+    {
+     "label": "C",
+     "text": "老王個性很馬虎"
+    },
+    {
+     "label": "D",
+     "text": "老王不喜歡小趙"
+    }
+   ],
+   "crop": "q14.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "男：小趙這孩子，頭腦不錯，就是個性太急躁。\n女：哈哈，年輕人嘛！做事難免比較衝動。\n男：正好老王那兒有缺，我想叫他去試一試。\n女：嗯，老王做事一板一眼的，小趙去替他做事，馬虎不得，正好可以磨練磨練。\n男：為什麼小趙幫老王做事是種磨練？",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 15,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "小趙拒絕了她"
+    },
+    {
+     "label": "B",
+     "text": "小趙不值得信賴"
+    },
+    {
+     "label": "C",
+     "text": "小趙對工作很失望"
+    },
+    {
+     "label": "D",
+     "text": "她怕小趙不會答應"
+    }
+   ],
+   "crop": "q15.webp",
+   "showCrop": false,
+   "cropGap": 141,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "男：咦！最近你好像特別忙。\n女：唉！我最得力的助手出國唸書去了，一時找不到人來幫我管理南部的公司，\n偏偏那兒又需要好好整頓一番。\n男：小趙怎麼樣，服務的時間久，學歷也不錯。\n女：他人緣差不說，又經常敷衍了事，你想我能指望他嗎？\n男：這位女士的意思是什麼？",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 16,
+   "page": 7,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "這麼做一定行得通"
+    },
+    {
+     "label": "B",
+     "text": "她想買保險以免發生問題"
+    },
+    {
+     "label": "C",
+     "text": "因為已保了險，所以沒問題"
+    },
+    {
+     "label": "D",
+     "text": "這麼做風險很高，但值得冒險嘗試"
+    }
+   ],
+   "crop": "q16.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "男：妳這樣做並不符合申請的程序，難道不怕案子被退回嗎？\n女：保證萬無一失，絕對沒問題，你放心吧！\n男：這位小姐的話是什麼意思？",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 17,
+   "page": 7,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "小劉的父母要求太多"
+    },
+    {
+     "label": "B",
+     "text": "小劉還沒有顯著的成就"
+    },
+    {
+     "label": "C",
+     "text": "小劉沒滿足父母最大的期待"
+    },
+    {
+     "label": "D",
+     "text": "小劉的父母不要求兒子有成就"
+    }
+   ],
+   "crop": "q17.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "男：小劉費盡心思取悅父母，結果卻失敗了。\n女：誰叫他只立業不成家呢？功成名就固然很好，但老人家更想要的是子孫滿堂\n啊！\n男：根據這位小姐的說法，小劉失敗的原因是什麼？",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 18,
+   "page": 7,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "做這個案子得花時間"
+    },
+    {
+     "label": "B",
+     "text": "做這個案子並不容易"
+    },
+    {
+     "label": "C",
+     "text": "做這個案子不必認真"
+    },
+    {
+     "label": "D",
+     "text": "做這個案子要有能力"
+    }
+   ],
+   "crop": "q18.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "男：老闆說這個案子得在一個星期裡完成，這怎麼可能呢？\n女：還不簡單？應付應付就行啦！我才不會為了這個案子多費功夫呢！\n男：這位小姐有什麼意見？",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 19,
+   "page": 7,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "二樓的視野比一樓好多了"
+    },
+    {
+     "label": "B",
+     "text": "她認為這位先生的建議不錯"
+    },
+    {
+     "label": "C",
+     "text": "一樓的票太貴了，她付不起"
+    },
+    {
+     "label": "D",
+     "text": "沒必要考慮能不能看見表演者"
+    }
+   ],
+   "crop": "q19.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "D",
+   "gradable": true,
+   "transcript": "男：吳老師鋼琴演奏會的票開始賣了，我覺得可以考慮一樓第十排中間的位置，\n那裡的視野還不錯，可以清楚地看見吳老師演奏。\n女：你在二樓的後面幾排位子裡隨便挑就行。只是單純地欣賞音樂，視野的好壞\n不是重點，你就把錢省下來吧！\n男：這位小姐對這次演奏會的座位有什麼看法？",
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 20,
+   "page": 7,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "只想維持普通朋友的關係"
+    },
+    {
+     "label": "B",
+     "text": "想進一步了解小王的為人"
+    },
+    {
+     "label": "C",
+     "text": "覺得小王是不錯的交往對象"
+    },
+    {
+     "label": "D",
+     "text": "和小王聊天一點意思也沒有"
+    }
+   ],
+   "crop": "q20.webp",
+   "showCrop": false,
+   "cropGap": 141,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "這位小姐對小王的感覺如何？",
+   "transcriptIntro": "請聽這段對話，然後回答兩個問題。\n男：你最近怎麼老躲著小王？\n女：他一直想約我單獨跟他出去，可是…\n男：怎麼了？你好像不太願意？\n女：小王人不錯，可是，我不想讓小王誤會我對他有意思，唉！該怎麼和他說呢？",
+   "transcriptLead": 20,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 21,
+   "page": 8,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "非常厭惡"
+    },
+    {
+     "label": "B",
+     "text": "充滿期待"
+    },
+    {
+     "label": "C",
+     "text": "不怎麼在乎"
+    },
+    {
+     "label": "D",
+     "text": "不知怎麼處理"
+    }
+   ],
+   "crop": "q21.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "D",
+   "gradable": true,
+   "transcript": "對小王的邀請，這位小姐覺得如何？",
+   "transcriptIntro": "請聽這段對話，然後回答兩個問題。\n男：你最近怎麼老躲著小王？\n女：他一直想約我單獨跟他出去，可是…\n男：怎麼了？你好像不太願意？\n女：小王人不錯，可是，我不想讓小王誤會我對他有意思，唉！該怎麼和他說呢？",
+   "transcriptLead": 20,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 22,
+   "page": 8,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "他從來就沒捐過錢"
+    },
+    {
+     "label": "B",
+     "text": "他不知道捐款的去向"
+    },
+    {
+     "label": "C",
+     "text": "他自己也是水災災民"
+    },
+    {
+     "label": "D",
+     "text": "他覺得自己捐的錢不夠多"
+    }
+   ],
+   "crop": "q22.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "關於這位先生，哪一個是對的？",
+   "transcriptIntro": "請聽這段對話，然後回答下面的兩個問題。\n男：你們又來了，這次又有什麼事？\n女：趙先生，今年水災損失慘重，許多災民都無家可歸。我們發起募捐運動，請\n您共襄盛舉，捐點錢救濟災民。\n男：不是我沒良心，只是以前我每次捐了錢就沒下文。錢也是我辛苦賺的，難道\n就這樣送給你們？\n女：喔，我們每年募得的款項，都會製作成帳冊，仔細說明捐款用途，您大可放\n心啊！\n男：口說無憑，你不如先寄份帳冊來給我看吧！",
+   "transcriptLead": 22,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 23,
+   "page": 8,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "他請對方把錢還給他"
+    },
+    {
+     "label": "B",
+     "text": "他決定幫對方一起募款"
+    },
+    {
+     "label": "C",
+     "text": "他請對方提出證明再說"
+    },
+    {
+     "label": "D",
+     "text": "他覺得對方有誠意，答應捐錢"
+    }
+   ],
+   "crop": "q23.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "這位先生最後的態度怎麼樣？",
+   "transcriptIntro": "請聽這段對話，然後回答下面的兩個問題。\n男：你們又來了，這次又有什麼事？\n女：趙先生，今年水災損失慘重，許多災民都無家可歸。我們發起募捐運動，請\n您共襄盛舉，捐點錢救濟災民。\n男：不是我沒良心，只是以前我每次捐了錢就沒下文。錢也是我辛苦賺的，難道\n就這樣送給你們？\n女：喔，我們每年募得的款項，都會製作成帳冊，仔細說明捐款用途，您大可放\n心啊！\n男：口說無憑，你不如先寄份帳冊來給我看吧！",
+   "transcriptLead": 22,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 24,
+   "page": 8,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "店員打錯發票"
+    },
+    {
+     "label": "B",
+     "text": "店員算錯金額"
+    },
+    {
+     "label": "C",
+     "text": "客人拿錯商品"
+    },
+    {
+     "label": "D",
+     "text": "客人跑錯商店"
+    }
+   ],
+   "crop": "q24.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "D",
+   "gradable": true,
+   "transcript": "店員和客人發生了什麼事？",
+   "transcriptIntro": "下面是店員和客人在商店的對話，請聽完對話後，回答兩個問題。\n男：小姐，我覺得這發票上的金額好像不太對。\n女：好的，馬上為您處理。這些一共是500元，金額沒錯。\n男：是嗎？這張宣傳單上寫著這個月是打折月，從五月一號到五月三十一號，不\n管消費多少錢，只要結帳時拿出會員卡，就打九折。喏！這是我的會員卡，\n為什麼沒打折？\n女：我看看，喔！先生，這是我們另一家分店的宣傳單，上頭說了，這個活動主\n要是為了慶祝他們開店滿一年而舉辦的特別活動，所以只有在那裡消費才能\n享有九折優惠。不好意思，我們店裡並沒有配合這個活動。",
+   "transcriptLead": 24,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 25,
+   "page": 8,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "若要享受折扣，得到指定的店家"
+    },
+    {
+     "label": "B",
+     "text": "折扣活動從今年初到這個月月底"
+    },
+    {
+     "label": "C",
+     "text": "這個活動是附近商店聯合舉辦的"
+    },
+    {
+     "label": "D",
+     "text": "在這個月內消費就可以加入會員"
+    }
+   ],
+   "crop": "q25.webp",
+   "showCrop": false,
+   "cropGap": 141,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "有關宣傳單上的活動說明，下面哪一項是對的？",
+   "transcriptIntro": "下面是店員和客人在商店的對話，請聽完對話後，回答兩個問題。\n男：小姐，我覺得這發票上的金額好像不太對。\n女：好的，馬上為您處理。這些一共是500元，金額沒錯。\n男：是嗎？這張宣傳單上寫著這個月是打折月，從五月一號到五月三十一號，不\n管消費多少錢，只要結帳時拿出會員卡，就打九折。喏！這是我的會員卡，\n為什麼沒打折？\n女：我看看，喔！先生，這是我們另一家分店的宣傳單，上頭說了，這個活動主\n要是為了慶祝他們開店滿一年而舉辦的特別活動，所以只有在那裡消費才能\n享有九折優惠。不好意思，我們店裡並沒有配合這個活動。",
+   "transcriptLead": 24,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 26,
+   "page": 9,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "他很排斥"
+    },
+    {
+     "label": "B",
+     "text": "他可以接受"
+    },
+    {
+     "label": "C",
+     "text": "他建議再觀察"
+    },
+    {
+     "label": "D",
+     "text": "他不想談這個話題"
+    }
+   ],
+   "crop": "q26.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "這位先生覺得味精怎麼樣？",
+   "transcriptIntro": "請聽這一段和「味精」有關的討論，然後回答兩個問題。\n男：佳美，你看這則味精的報導。\n女：嗯！我看看，這報導並沒有具體指出為什麼味精會對人體造成傷害，我看過\n另外一篇報告，結果完全相反。\n男：是嗎？可是有些人吃了加味精的食物後，就會不舒服。我想，我們能不碰就\n不碰吧！\n女：每種食物都有人適應不良，何況味精究竟會對人體造成什麼影響，醫學上也\n還沒證實，所以，你別太擔心了。",
+   "transcriptLead": 26,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 27,
+   "page": 9,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "她不相信醫學研究的結果"
+    },
+    {
+     "label": "B",
+     "text": "她認為這則報導讓人安心"
+    },
+    {
+     "label": "C",
+     "text": "她不認同這位先生的看法"
+    },
+    {
+     "label": "D",
+     "text": "她要這位先生再去找資料"
+    }
+   ],
+   "crop": "q27.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "這位小姐的意思是什麼？",
+   "transcriptIntro": "請聽這一段和「味精」有關的討論，然後回答兩個問題。\n男：佳美，你看這則味精的報導。\n女：嗯！我看看，這報導並沒有具體指出為什麼味精會對人體造成傷害，我看過\n另外一篇報告，結果完全相反。\n男：是嗎？可是有些人吃了加味精的食物後，就會不舒服。我想，我們能不碰就\n不碰吧！\n女：每種食物都有人適應不良，何況味精究竟會對人體造成什麼影響，醫學上也\n還沒證實，所以，你別太擔心了。",
+   "transcriptLead": 26,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 28,
+   "page": 9,
+   "stem": "這位先生為什麼說他的太太「陰陽怪氣」？",
+   "context": "下面是一段兄妹之間的對話，請聽完後，回答下面三個問題：",
+   "options": [
+    {
+     "label": "A",
+     "text": "因為他太太總是沉默寡言"
+    },
+    {
+     "label": "B",
+     "text": "因為他太太只吃酸的食物"
+    },
+    {
+     "label": "C",
+     "text": "因為他太太的表現不同以往"
+    },
+    {
+     "label": "D",
+     "text": "因為他誤會太太下廚的美意"
+    }
+   ],
+   "crop": "q28.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "optionsPage": 10,
+   "cropOptions": "q28o.webp",
+   "answer": "C",
+   "gradable": true,
+   "transcript": "這位先生為什麼說他的太太「陰陽怪氣」？",
+   "transcriptIntro": "下面是一段兄妹之間的對話，請聽完後，回答下面三個問題：",
+   "transcriptLead": 28,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 29,
+   "page": 9,
+   "stem": "根據這位先生的說法，他昨天出捷運站以後做了什麼事？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "跟太太一起去吃飯"
+    },
+    {
+     "label": "B",
+     "text": "買了一把傘送給太太"
+    },
+    {
+     "label": "C",
+     "text": "和女性朋友共撐一把傘"
+    },
+    {
+     "label": "D",
+     "text": "向附近的小攤販買東西"
+    }
+   ],
+   "crop": "q29.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "optionsPage": 10,
+   "cropOptions": "q29o.webp",
+   "answer": "D",
+   "gradable": true,
+   "transcript": "根據這位先生的說法，他昨天出捷運站以後做了什麼事？",
+   "transcriptIntro": "下面是一段兄妹之間的對話，請聽完後，回答下面三個問題：",
+   "transcriptLead": 28,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 30,
+   "page": 9,
+   "stem": "這段對話告訴我們什麼事？ 現在請聽對話。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "眼見為憑未必是真的"
+    },
+    {
+     "label": "B",
+     "text": "張冠李戴就會出大事"
+    },
+    {
+     "label": "C",
+     "text": "疑神疑鬼容易得罪人"
+    },
+    {
+     "label": "D",
+     "text": "因小失大實在划不來"
+    }
+   ],
+   "crop": "q30.webp",
+   "showCrop": false,
+   "cropGap": 301,
+   "optionsPage": 10,
+   "cropOptions": "q30o.webp",
+   "answer": "A",
+   "gradable": true,
+   "transcript": "這段對話告訴我們什麼事？",
+   "transcriptIntro": "下面是一段兄妹之間的對話，請聽完後，回答下面三個問題：",
+   "transcriptLead": 28,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 31,
+   "page": 12,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "小青常去房東家學習做點心"
+    },
+    {
+     "label": "B",
+     "text": "房東沒有孩子，所以很喜歡小青"
+    },
+    {
+     "label": "C",
+     "text": "她們吃蛋糕的時候喜歡聊工作的事"
+    },
+    {
+     "label": "D",
+     "text": "房東覺得小青就像自己的孩子一樣"
+    }
+   ],
+   "crop": "q31.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "D",
+   "gradable": true,
+   "transcript": "從這段話可以知道什麼？",
+   "transcriptIntro": "請聽這一段話，然後回答下面的問題。\n小青的房東很會做點心，常常請小青來家裡吃點心。小青最喜歡吃她做的蛋\n糕，又香又好吃。她們總是一邊吃蛋糕，一邊聊自己的家人。房東說她的女兒和\n小青的年紀一樣大，因為讀書的關係不在家，所以她把小青當成自己的女兒。小\n青聽了，很高興，也很感謝。",
+   "transcriptLead": 31,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 32,
+   "page": 12,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "音樂有助於減輕疼痛"
+    },
+    {
+     "label": "B",
+     "text": "聽音樂就不用看醫生"
+    },
+    {
+     "label": "C",
+     "text": "有病就應該去看醫生"
+    },
+    {
+     "label": "D",
+     "text": "多聽醫生推薦的音樂"
+    }
+   ],
+   "crop": "q32.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "這段話的意思是什麼？",
+   "transcriptIntro": "請聽這一段話，然後回答下面的問題。\n如果你感到背痛或腿部酸痛，聽聽音樂可能會有幫助。一項研究發現，經常\n聽音樂是有好處的，因為音樂有助於減輕疼痛，但這並不表示它可以取代醫生，\n不過聽音樂絕不會對你造成傷害。",
+   "transcriptLead": 32,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 33,
+   "page": 12,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "在家休息"
+    },
+    {
+     "label": "B",
+     "text": "去看醫生"
+    },
+    {
+     "label": "C",
+     "text": "去學校找小文"
+    },
+    {
+     "label": "D",
+     "text": "和小文去看電影"
+    }
+   ],
+   "crop": "q33.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "阿秀今天下午要做什麼？",
+   "transcriptIntro": "請聽這一段電話留言，然後回答下面的兩個問題。\n小文，我是阿秀。我知道我們本來約好今天下午要去看電影，可是今天早上\n我有一點不舒服，所以我想在家休息。下次等我們都有空的時候再一起去看電影，\n好嗎？對了，明天上課的時候，請你把我借你的雨傘拿來學校，謝謝！明天見。",
+   "transcriptLead": 33,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 34,
+   "page": 12,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "藥水"
+    },
+    {
+     "label": "B",
+     "text": "課本"
+    },
+    {
+     "label": "C",
+     "text": "雨傘"
+    },
+    {
+     "label": "D",
+     "text": "電影票"
+    }
+   ],
+   "crop": "q34.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "阿秀請小文拿什麼去學校？",
+   "transcriptIntro": "請聽這一段電話留言，然後回答下面的兩個問題。\n小文，我是阿秀。我知道我們本來約好今天下午要去看電影，可是今天早上\n我有一點不舒服，所以我想在家休息。下次等我們都有空的時候再一起去看電影，\n好嗎？對了，明天上課的時候，請你把我借你的雨傘拿來學校，謝謝！明天見。",
+   "transcriptLead": 33,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 35,
+   "page": 12,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "因為她吃得太飽"
+    },
+    {
+     "label": "B",
+     "text": "因為她吃錯了藥"
+    },
+    {
+     "label": "C",
+     "text": "因為她肚子很疼"
+    },
+    {
+     "label": "D",
+     "text": "因為她肚子餓了"
+    }
+   ],
+   "crop": "q35.webp",
+   "showCrop": false,
+   "cropGap": 143,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "為什麼說話的人昨天晚上沒睡好？",
+   "transcriptIntro": "請聽這一段話，然後回答下面的兩個問題。\n昨天晚上我很晚才回家。看到桌子上還剩一些飯菜，就吃了。到了夜裡，我\n的肚子開始痛了起來，就一直跑廁所。結果一個晚上都沒睡好。今天早上我請假\n去看醫生，醫生說我得吃藥，他給了我兩種藥，然後跟我說：「每天吃完飯以後，\n吃一包白色的藥，如果肚子還是不舒服，就吃綠色藥包的藥。如果身體好了，就\n不用再吃藥。」",
+   "transcriptLead": 35,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 36,
+   "page": 13,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "先不要吃任何東西"
+    },
+    {
+     "label": "B",
+     "text": "綠色的藥不一定要吃"
+    },
+    {
+     "label": "C",
+     "text": "已經不需要再吃藥了"
+    },
+    {
+     "label": "D",
+     "text": "白色的藥都吃完了，再吃綠的"
+    }
+   ],
+   "crop": "q36.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "醫生說了什麼？",
+   "transcriptIntro": "請聽這一段話，然後回答下面的兩個問題。\n昨天晚上我很晚才回家。看到桌子上還剩一些飯菜，就吃了。到了夜裡，我\n的肚子開始痛了起來，就一直跑廁所。結果一個晚上都沒睡好。今天早上我請假\n去看醫生，醫生說我得吃藥，他給了我兩種藥，然後跟我說：「每天吃完飯以後，\n吃一包白色的藥，如果肚子還是不舒服，就吃綠色藥包的藥。如果身體好了，就\n不用再吃藥。」",
+   "transcriptLead": 35,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 37,
+   "page": 13,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "夏天才有"
+    },
+    {
+     "label": "B",
+     "text": "皮也能吃"
+    },
+    {
+     "label": "C",
+     "text": "北方才有"
+    },
+    {
+     "label": "D",
+     "text": "放幾天再吃，更好吃"
+    }
+   ],
+   "crop": "q37.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "這種水果怎麼樣？",
+   "transcriptIntro": "請聽這一段水果的介紹，然後回答下面的兩個問題。\n這種水果夏天的時候才有，它的皮是不能吃的，我們吃的是裡面白白的肉。\n它的味道又香又甜，大人小孩都喜歡。聽說以前北方的人想吃這種水果，還得特\n別請人騎馬從南方送來。因為這種水果不能放太久，買回來以後，要趕快放進冰\n箱裡。如果不這樣做的話，紅色的皮很快就變成咖啡色了，過兩天味道已經不香，\n放到第四天，不但不好看，也不好吃了。",
+   "transcriptLead": 37,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 38,
+   "page": 13,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "變得不香"
+    },
+    {
+     "label": "B",
+     "text": "變得不好吃"
+    },
+    {
+     "label": "C",
+     "text": "肉的顏色改變"
+    },
+    {
+     "label": "D",
+     "text": "皮的顏色改變"
+    }
+   ],
+   "crop": "q38.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "D",
+   "gradable": true,
+   "transcript": "這種水果不放冰箱的話，會先有什麼變化？",
+   "transcriptIntro": "請聽這一段水果的介紹，然後回答下面的兩個問題。\n這種水果夏天的時候才有，它的皮是不能吃的，我們吃的是裡面白白的肉。\n它的味道又香又甜，大人小孩都喜歡。聽說以前北方的人想吃這種水果，還得特\n別請人騎馬從南方送來。因為這種水果不能放太久，買回來以後，要趕快放進冰\n箱裡。如果不這樣做的話，紅色的皮很快就變成咖啡色了，過兩天味道已經不香，\n放到第四天，不但不好看，也不好吃了。",
+   "transcriptLead": 37,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 39,
+   "page": 13,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "小周的旅遊計畫"
+    },
+    {
+     "label": "B",
+     "text": "去美國玩要注意的事"
+    },
+    {
+     "label": "C",
+     "text": "介紹美國好玩兒的地方"
+    },
+    {
+     "label": "D",
+     "text": "小周一家人出去玩的事"
+    }
+   ],
+   "crop": "q39.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "D",
+   "gradable": true,
+   "transcript": "這段話主要是說什麼？",
+   "transcriptIntro": "請聽這一段話，然後回答下面的兩個問題。\n小周上個月和太太、小孩一家三個人去美國玩兒。他們到的第一天有點兒不\n習慣，因為天氣比較冷。不過他們住的飯店又大又舒服，小周和太太還是很高興。\n他們每天都去不同的地方玩兒，在那兒他們常吃美國菜，有時候也吃中國菜。回\n來以後，小周決定下次還要帶家人去美國玩兒。",
+   "transcriptLead": 39,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 40,
+   "page": 13,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "小周很習慣美國的天氣"
+    },
+    {
+     "label": "B",
+     "text": "小周對那家飯店很滿意"
+    },
+    {
+     "label": "C",
+     "text": "小周在美國天天吃中國菜"
+    },
+    {
+     "label": "D",
+     "text": "小周帶了三個小孩兒去美國"
+    }
+   ],
+   "crop": "q40.webp",
+   "showCrop": false,
+   "cropGap": 143,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "下面哪一個是對的？",
+   "transcriptIntro": "請聽這一段話，然後回答下面的兩個問題。\n小周上個月和太太、小孩一家三個人去美國玩兒。他們到的第一天有點兒不\n習慣，因為天氣比較冷。不過他們住的飯店又大又舒服，小周和太太還是很高興。\n他們每天都去不同的地方玩兒，在那兒他們常吃美國菜，有時候也吃中國菜。回\n來以後，小周決定下次還要帶家人去美國玩兒。",
+   "transcriptLead": 39,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 41,
+   "page": 14,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "沒有送報紙和水果"
+    },
+    {
+     "label": "B",
+     "text": "每一間的費用都一樣"
+    },
+    {
+     "label": "C",
+     "text": "要停車的話，得付停車費"
+    },
+    {
+     "label": "D",
+     "text": "今年年底去住，比平常便宜"
+    }
+   ],
+   "crop": "q41.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "D",
+   "gradable": true,
+   "transcript": "這二十間房間怎麼樣？",
+   "transcriptIntro": "請聽這一段廣告，然後回答下面的兩個問題。\n寒假、過年和家人朋友出來玩，歡迎選擇圓山大飯店！從今年 12 月到明年\n2 月底，我們每天提供二十間房間，雙人房一個晚上只要 2100 元，四人房也只\n要 3500 元。雖然費用變便宜了，我們提供的服務還是一樣，除了送您報紙和水\n果，使用停車場、游泳池也不必付錢。每天只有二十間！有興趣的人請趕快打電\n話給我們。",
+   "transcriptLead": 41,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 42,
+   "page": 14,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "這個活動到明年 2 月底結束"
+    },
+    {
+     "label": "B",
+     "text": "每天只有二十個人能住這些房間"
+    },
+    {
+     "label": "C",
+     "text": "前二十個打電話來的人不必付錢"
+    },
+    {
+     "label": "D",
+     "text": "費用和平常一樣，但提供更多服務"
+    }
+   ],
+   "crop": "q42.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "下面哪一個是對的？",
+   "transcriptIntro": "請聽這一段廣告，然後回答下面的兩個問題。\n寒假、過年和家人朋友出來玩，歡迎選擇圓山大飯店！從今年 12 月到明年\n2 月底，我們每天提供二十間房間，雙人房一個晚上只要 2100 元，四人房也只\n要 3500 元。雖然費用變便宜了，我們提供的服務還是一樣，除了送您報紙和水\n果，使用停車場、游泳池也不必付錢。每天只有二十間！有興趣的人請趕快打電\n話給我們。",
+   "transcriptLead": 41,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 43,
+   "page": 14,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "常有學生掉東西"
+    },
+    {
+     "label": "B",
+     "text": "常有學生忘了還書"
+    },
+    {
+     "label": "C",
+     "text": "常有學生用手機聊天"
+    },
+    {
+     "label": "D",
+     "text": "常有學生忘了把書包帶走"
+    }
+   ],
+   "crop": "q43.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "A",
+   "gradable": true,
+   "transcript": "學生在圖書館發生什麼事？",
+   "transcriptIntro": "請聽這一段廣播，然後回答兩個問題。\n各位同學請注意，最近很多同學反應，他們在圖書館讀書，才離開位子一會\n兒，原本放在位子上的書包就不見了，學校已經派人調查這件事，也請各位同學\n離開位子的時候，把重要的東西一起拿走，謝謝！",
+   "transcriptLead": 43,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 44,
+   "page": 14,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "請警察協助處理"
+    },
+    {
+     "label": "B",
+     "text": "校方正密切觀察"
+    },
+    {
+     "label": "C",
+     "text": "請學生留意陌生人"
+    },
+    {
+     "label": "D",
+     "text": "請學生說明當時的狀況"
+    }
+   ],
+   "crop": "q44.webp",
+   "showCrop": false,
+   "cropGap": 261,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "這段廣播提到，學校怎麼處理這個狀況？",
+   "transcriptIntro": "請聽這一段廣播，然後回答兩個問題。\n各位同學請注意，最近很多同學反應，他們在圖書館讀書，才離開位子一會\n兒，原本放在位子上的書包就不見了，學校已經派人調查這件事，也請各位同學\n離開位子的時候，把重要的東西一起拿走，謝謝！",
+   "transcriptLead": 43,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 45,
+   "page": 15,
+   "stem": "根據報導，小鎮為什麼成為新的景點？",
+   "context": "下面是關於電影與城市觀光的報導。請聽完報導後，回答三個問題：",
+   "options": [
+    {
+     "label": "A",
+     "text": "因為政府的大力推銷"
+    },
+    {
+     "label": "B",
+     "text": "因為電影導演的介紹"
+    },
+    {
+     "label": "C",
+     "text": "因為小鎮找電影明星來宣傳"
+    },
+    {
+     "label": "D",
+     "text": "因為觀眾被電影中的小鎮文化吸引"
+    }
+   ],
+   "crop": "q45.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "optionsPage": 16,
+   "cropOptions": "q45o.webp",
+   "answer": "D",
+   "gradable": true,
+   "transcript": "根據報導，小鎮為什麼成為新的景點？",
+   "transcriptIntro": "下面是關於電影與城市觀光的報導。請聽完報導後，回答三個問題：",
+   "transcriptLead": 45,
+   "part": 1,
+   "group": "g45"
+  },
+  {
+   "n": 46,
+   "page": 15,
+   "stem": "根據報導，這部電影對小鎮造成什麼影響？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "小鎮開始發展文化產業"
+    },
+    {
+     "label": "B",
+     "text": "促進小鎮的觀光經濟發展"
+    },
+    {
+     "label": "C",
+     "text": "使地方小吃成了國際美食"
+    },
+    {
+     "label": "D",
+     "text": "讓居民重新認識小鎮風景"
+    }
+   ],
+   "crop": "q46.webp",
+   "showCrop": false,
+   "cropGap": 20,
+   "optionsPage": 16,
+   "cropOptions": "q46o.webp",
+   "answer": "B",
+   "gradable": true,
+   "transcript": "根據報導，這部電影對小鎮造成什麼影響？",
+   "transcriptIntro": "下面是關於電影與城市觀光的報導。請聽完報導後，回答三個問題：",
+   "transcriptLead": 45,
+   "part": 1,
+   "group": "g45"
+  },
+  {
+   "n": 47,
+   "page": 15,
+   "stem": "記者對當地飯店的經營者，提出哪些建議？ 現在請聽報導。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "努力與電影產業結合"
+    },
+    {
+     "label": "B",
+     "text": "降低價格吸引更多客人"
+    },
+    {
+     "label": "C",
+     "text": "應該積極爭取政府資源"
+    },
+    {
+     "label": "D",
+     "text": "飯店經營需結合當地特色"
+    }
+   ],
+   "crop": "q47.webp",
+   "showCrop": false,
+   "cropGap": 541,
+   "optionsPage": 16,
+   "cropOptions": "q47o.webp",
+   "answer": "D",
+   "gradable": true,
+   "transcript": "記者對當地飯店的經營者，提出哪些建議？",
+   "transcriptIntro": "下面是關於電影與城市觀光的報導。請聽完報導後，回答三個問題：",
+   "transcriptLead": 45,
+   "part": 1,
+   "group": "g45"
+  },
+  {
+   "n": 48,
+   "page": 17,
+   "stem": "",
+   "context": "香港兩名少女至阿根廷旅遊，傳出遭人綁架。請聽這則報導，並根據內容回答三個問題。現在請聽報導。",
+   "options": [
+    {
+     "label": "A",
+     "text": "犯罪集團的組成份子"
+    },
+    {
+     "label": "B",
+     "text": "跨國犯罪猖獗的原因"
+    },
+    {
+     "label": "C",
+     "text": "兩國警方怎麼合作緝兇"
+    },
+    {
+     "label": "D",
+     "text": "警方怎麼成功攔截古董"
+    }
+   ],
+   "crop": "q48.webp",
+   "showCrop": false,
+   "cropGap": 28,
+   "answer": "C",
+   "gradable": true,
+   "transcript": "這則報導說明了什麼？",
+   "transcriptIntro": "現在請聽報導。\n2008 年，台灣一部以小鎮風光為背景的電影，讓這個小鎮，成了新的觀光\n景點，大量遊客來這裡，不僅創造了小鎮的經濟價值，也為當地居民增加了大量\n的工作機會。好的劇本、好的演員當然是電影成功的要素，但讓人好奇的是，這\n個小鎮，怎麼透過電影吸引這麼多人來參觀？是電影中那濃濃的人情味？厚重的\n歷史氣息？還是，讓人口水直流的地方美食？\n「觀眾透過電影看見了小鎮的魅力，所以想去感受感受。」導演的話，點出\n了答案。但是電影對小鎮的影響能有多久，是不是隨著電影結束，這股觀光熱也\n就跟著消失？\n這部電影的推銷手法，也許值得飯店經營者參考，若能將飯店與當地人文相\n互結合，那麼被電影所帶動的觀光風氣，也許就有可能持續下去。\n45. 根據報導，小鎮為什麼成為新的景點？\n46. 根據報導，這部電影對小鎮造成什麼影響？\n47. 記者對當地飯店的經營者，提出哪些建議？\n香港兩名少女至阿根廷旅遊，傳出遭人綁架。請聽這則報導，並根據內容回答三\n個問題。\n現在請聽報導。\n【新聞快訊】\n香港兩名到阿根廷遊玩的少女，上週傳出在當地被人脅持禁錮及勒索贖金，\n根據阿國警方調查，她們可能涉及偷運古董。\n阿國警方表示，她們是為了獲得阿根廷免費旅遊及 6 萬元報酬，才鋌而走險，\n替人運送價值連城的古董花瓶和字畫到阿國。但她們抵達阿根廷後，接貨的幫派\n指稱，花瓶破損，於是扣留她們的護照加以禁錮。\n香港警方接獲報案後，動用超級電腦，進行照片及阿根廷首都 3D 立體地圖\n的分析，成功鎖定少女被禁錮的位置，並將資料提供給阿國警方，由他們負責救\n援行動。阿國警方認為，這次能成功地救出少女，都要歸功於香港警方提供了極\n有用的情報。",
+   "transcriptLead": 48,
+   "part": 1,
+   "group": "g48"
+  },
+  {
+   "n": 49,
+   "page": 17,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "為了換取一頓溫飽"
+    },
+    {
+     "label": "B",
+     "text": "為了一趟免費旅行"
+    },
+    {
+     "label": "C",
+     "text": "為了價值連城的字畫"
+    },
+    {
+     "label": "D",
+     "text": "為了救出被囚禁的朋友"
+    }
+   ],
+   "crop": "q49.webp",
+   "showCrop": false,
+   "cropGap": 22,
+   "answer": "B",
+   "gradable": true,
+   "transcript": "根據報導，兩名少女為什麼要做這些事？",
+   "transcriptIntro": "現在請聽報導。\n2008 年，台灣一部以小鎮風光為背景的電影，讓這個小鎮，成了新的觀光\n景點，大量遊客來這裡，不僅創造了小鎮的經濟價值，也為當地居民增加了大量\n的工作機會。好的劇本、好的演員當然是電影成功的要素，但讓人好奇的是，這\n個小鎮，怎麼透過電影吸引這麼多人來參觀？是電影中那濃濃的人情味？厚重的\n歷史氣息？還是，讓人口水直流的地方美食？\n「觀眾透過電影看見了小鎮的魅力，所以想去感受感受。」導演的話，點出\n了答案。但是電影對小鎮的影響能有多久，是不是隨著電影結束，這股觀光熱也\n就跟著消失？\n這部電影的推銷手法，也許值得飯店經營者參考，若能將飯店與當地人文相\n互結合，那麼被電影所帶動的觀光風氣，也許就有可能持續下去。\n45. 根據報導，小鎮為什麼成為新的景點？\n46. 根據報導，這部電影對小鎮造成什麼影響？\n47. 記者對當地飯店的經營者，提出哪些建議？\n香港兩名少女至阿根廷旅遊，傳出遭人綁架。請聽這則報導，並根據內容回答三\n個問題。\n現在請聽報導。\n【新聞快訊】\n香港兩名到阿根廷遊玩的少女，上週傳出在當地被人脅持禁錮及勒索贖金，\n根據阿國警方調查，她們可能涉及偷運古董。\n阿國警方表示，她們是為了獲得阿根廷免費旅遊及 6 萬元報酬，才鋌而走險，\n替人運送價值連城的古董花瓶和字畫到阿國。但她們抵達阿根廷後，接貨的幫派\n指稱，花瓶破損，於是扣留她們的護照加以禁錮。\n香港警方接獲報案後，動用超級電腦，進行照片及阿根廷首都 3D 立體地圖\n的分析，成功鎖定少女被禁錮的位置，並將資料提供給阿國警方，由他們負責救\n援行動。阿國警方認為，這次能成功地救出少女，都要歸功於香港警方提供了極\n有用的情報。",
+   "transcriptLead": 48,
+   "part": 1,
+   "group": "g48"
+  },
+  {
+   "n": 50,
+   "page": 17,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "跨國追緝犯罪集團首腦"
+    },
+    {
+     "label": "B",
+     "text": "和阿國協商，將少女帶回"
+    },
+    {
+     "label": "C",
+     "text": "根據情報，蒐集犯罪證據"
+    },
+    {
+     "label": "D",
+     "text": "運用高科技追查少女位置"
+    }
+   ],
+   "crop": "q50.webp",
+   "showCrop": false,
+   "cropGap": 281,
+   "answer": "D",
+   "gradable": true,
+   "transcript": "根據報導，香港警方怎麼處理這件案子？",
+   "transcriptIntro": "現在請聽報導。\n2008 年，台灣一部以小鎮風光為背景的電影，讓這個小鎮，成了新的觀光\n景點，大量遊客來這裡，不僅創造了小鎮的經濟價值，也為當地居民增加了大量\n的工作機會。好的劇本、好的演員當然是電影成功的要素，但讓人好奇的是，這\n個小鎮，怎麼透過電影吸引這麼多人來參觀？是電影中那濃濃的人情味？厚重的\n歷史氣息？還是，讓人口水直流的地方美食？\n「觀眾透過電影看見了小鎮的魅力，所以想去感受感受。」導演的話，點出\n了答案。但是電影對小鎮的影響能有多久，是不是隨著電影結束，這股觀光熱也\n就跟著消失？\n這部電影的推銷手法，也許值得飯店經營者參考，若能將飯店與當地人文相\n互結合，那麼被電影所帶動的觀光風氣，也許就有可能持續下去。\n45. 根據報導，小鎮為什麼成為新的景點？\n46. 根據報導，這部電影對小鎮造成什麼影響？\n47. 記者對當地飯店的經營者，提出哪些建議？\n香港兩名少女至阿根廷旅遊，傳出遭人綁架。請聽這則報導，並根據內容回答三\n個問題。\n現在請聽報導。\n【新聞快訊】\n香港兩名到阿根廷遊玩的少女，上週傳出在當地被人脅持禁錮及勒索贖金，\n根據阿國警方調查，她們可能涉及偷運古董。\n阿國警方表示，她們是為了獲得阿根廷免費旅遊及 6 萬元報酬，才鋌而走險，\n替人運送價值連城的古董花瓶和字畫到阿國。但她們抵達阿根廷後，接貨的幫派\n指稱，花瓶破損，於是扣留她們的護照加以禁錮。\n香港警方接獲報案後，動用超級電腦，進行照片及阿根廷首都 3D 立體地圖\n的分析，成功鎖定少女被禁錮的位置，並將資料提供給阿國警方，由他們負責救\n援行動。阿國警方認為，這次能成功地救出少女，都要歸功於香港警方提供了極\n有用的情報。",
+   "transcriptLead": 48,
+   "part": 1,
+   "group": "g48"
+  }
+ ],
+ "audio": {
+  "dir": "3. TOCFL Band B/Listening/Listening Test Series 3/mock3_BandB_mp3",
+  "kind": "sequence",
+  "tracks": [
+   "0-1.mp3",
+   "1-00000.mp3",
+   "1-01.mp3",
+   "1-02.mp3",
+   "1-03.mp3",
+   "1-04.mp3",
+   "1-05.mp3",
+   "1-06.mp3",
+   "1-07.mp3",
+   "1-08.mp3",
+   "1-09.mp3",
+   "1-10.mp3",
+   "1-11.mp3",
+   "1-12.mp3",
+   "1-13.mp3",
+   "1-14.mp3",
+   "1-15.mp3",
+   "1-16.mp3",
+   "1-17.mp3",
+   "1-18.mp3",
+   "1-19.mp3",
+   "1-20.mp3",
+   "1-21.mp3",
+   "1-22.mp3",
+   "1-23.mp3",
+   "1-24.mp3",
+   "1-25.mp3",
+   "1-26.mp3",
+   "1-27.mp3",
+   "1-28.mp3",
+   "1-29.mp3",
+   "1-30.mp3",
+   "1-31.mp3",
+   "1-32.mp3",
+   "1-33.mp3",
+   "1-34.mp3",
+   "1-35.mp3",
+   "2-00000.mp3",
+   "2-36.mp3",
+   "2-37.mp3",
+   "2-38.mp3",
+   "2-39.mp3",
+   "2-40.mp3",
+   "2-41.mp3",
+   "2-42.mp3",
+   "2-43.mp3",
+   "2-44.mp3",
+   "2-45.mp3",
+   "2-46.mp3",
+   "2-47.mp3",
+   "2-48.mp3",
+   "2-49.mp3",
+   "2-50.mp3",
+   "2-51.mp3",
+   "2-52.mp3",
+   "2-53.mp3",
+   "2-54.mp3",
+   "2-55.mp3",
+   "2-56.mp3",
+   "2-57.mp3",
+   "2-58.mp3",
+   "2-59.mp3",
+   "2-60.mp3",
+   "2-61.mp3",
+   "2-62.mp3",
+   "2-63.mp3",
+   "3-00000.mp3"
+  ],
+  "trackList": [
+   {
+    "src": "ex/b-l3/t001-0-1.mp3",
+    "file": "0-1.mp3",
+    "label": "Petunjuk / jeda",
+    "kind": "instructions",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t002-1-00000.mp3",
+    "file": "1-00000.mp3",
+    "label": "Petunjuk Bagian 1",
+    "kind": "instructions",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t003-1-01.mp3",
+    "file": "1-01.mp3",
+    "label": "Petunjuk Bagian 1",
+    "kind": "instructions",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t004-1-02.mp3",
+    "file": "1-02.mp3",
+    "label": "Petunjuk Bagian 1",
+    "kind": "instructions",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t005-1-03.mp3",
+    "file": "1-03.mp3",
+    "label": "Petunjuk Bagian 1",
+    "kind": "instructions",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t006-1-04.mp3",
+    "file": "1-04.mp3",
+    "label": "Petunjuk Bagian 1",
+    "kind": "instructions",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t007-1-05.mp3",
+    "file": "1-05.mp3",
+    "label": "Petunjuk Bagian 1",
+    "kind": "instructions",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t008-1-06.mp3",
+    "file": "1-06.mp3",
+    "label": "Petunjuk Bagian 1",
+    "kind": "instructions",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t009-1-07.mp3",
+    "file": "1-07.mp3",
+    "label": "Petunjuk Bagian 1",
+    "kind": "instructions",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t010-1-08.mp3",
+    "file": "1-08.mp3",
+    "label": "Petunjuk Bagian 1",
+    "kind": "instructions",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t011-1-09.mp3",
+    "file": "1-09.mp3",
+    "label": "Petunjuk Bagian 1",
+    "kind": "instructions",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t012-1-10.mp3",
+    "file": "1-10.mp3",
+    "label": "Trek 12 (1-10.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t013-1-11.mp3",
+    "file": "1-11.mp3",
+    "label": "Trek 13 (1-11.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t014-1-12.mp3",
+    "file": "1-12.mp3",
+    "label": "Trek 14 (1-12.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t015-1-13.mp3",
+    "file": "1-13.mp3",
+    "label": "Trek 15 (1-13.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t016-1-14.mp3",
+    "file": "1-14.mp3",
+    "label": "Trek 16 (1-14.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t017-1-15.mp3",
+    "file": "1-15.mp3",
+    "label": "Trek 17 (1-15.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t018-1-16.mp3",
+    "file": "1-16.mp3",
+    "label": "Trek 18 (1-16.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t019-1-17.mp3",
+    "file": "1-17.mp3",
+    "label": "Trek 19 (1-17.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t020-1-18.mp3",
+    "file": "1-18.mp3",
+    "label": "Trek 20 (1-18.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t021-1-19.mp3",
+    "file": "1-19.mp3",
+    "label": "Trek 21 (1-19.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t022-1-20.mp3",
+    "file": "1-20.mp3",
+    "label": "Trek 22 (1-20.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t023-1-21.mp3",
+    "file": "1-21.mp3",
+    "label": "Trek 23 (1-21.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t024-1-22.mp3",
+    "file": "1-22.mp3",
+    "label": "Trek 24 (1-22.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t025-1-23.mp3",
+    "file": "1-23.mp3",
+    "label": "Trek 25 (1-23.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t026-1-24.mp3",
+    "file": "1-24.mp3",
+    "label": "Trek 26 (1-24.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t027-1-25.mp3",
+    "file": "1-25.mp3",
+    "label": "Trek 27 (1-25.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t028-1-26.mp3",
+    "file": "1-26.mp3",
+    "label": "Trek 28 (1-26.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t029-1-27.mp3",
+    "file": "1-27.mp3",
+    "label": "Trek 29 (1-27.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t030-1-28.mp3",
+    "file": "1-28.mp3",
+    "label": "Trek 30 (1-28.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t031-1-29.mp3",
+    "file": "1-29.mp3",
+    "label": "Trek 31 (1-29.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t032-1-30.mp3",
+    "file": "1-30.mp3",
+    "label": "Trek 32 (1-30.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t033-1-31.mp3",
+    "file": "1-31.mp3",
+    "label": "Trek 33 (1-31.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t034-1-32.mp3",
+    "file": "1-32.mp3",
+    "label": "Trek 34 (1-32.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t035-1-33.mp3",
+    "file": "1-33.mp3",
+    "label": "Trek 35 (1-33.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t036-1-34.mp3",
+    "file": "1-34.mp3",
+    "label": "Trek 36 (1-34.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t037-1-35.mp3",
+    "file": "1-35.mp3",
+    "label": "Trek 37 (1-35.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t038-2-00000.mp3",
+    "file": "2-00000.mp3",
+    "label": "Petunjuk Bagian 2",
+    "kind": "instructions",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t039-2-36.mp3",
+    "file": "2-36.mp3",
+    "label": "Trek 39 (2-36.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t040-2-37.mp3",
+    "file": "2-37.mp3",
+    "label": "Trek 40 (2-37.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t041-2-38.mp3",
+    "file": "2-38.mp3",
+    "label": "Trek 41 (2-38.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t042-2-39.mp3",
+    "file": "2-39.mp3",
+    "label": "Trek 42 (2-39.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t043-2-40.mp3",
+    "file": "2-40.mp3",
+    "label": "Trek 43 (2-40.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t044-2-41.mp3",
+    "file": "2-41.mp3",
+    "label": "Trek 44 (2-41.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t045-2-42.mp3",
+    "file": "2-42.mp3",
+    "label": "Trek 45 (2-42.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t046-2-43.mp3",
+    "file": "2-43.mp3",
+    "label": "Trek 46 (2-43.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t047-2-44.mp3",
+    "file": "2-44.mp3",
+    "label": "Trek 47 (2-44.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t048-2-45.mp3",
+    "file": "2-45.mp3",
+    "label": "Trek 48 (2-45.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t049-2-46.mp3",
+    "file": "2-46.mp3",
+    "label": "Trek 49 (2-46.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t050-2-47.mp3",
+    "file": "2-47.mp3",
+    "label": "Trek 50 (2-47.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t051-2-48.mp3",
+    "file": "2-48.mp3",
+    "label": "Trek 51 (2-48.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t052-2-49.mp3",
+    "file": "2-49.mp3",
+    "label": "Trek 52 (2-49.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t053-2-50.mp3",
+    "file": "2-50.mp3",
+    "label": "Trek 53 (2-50.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t054-2-51.mp3",
+    "file": "2-51.mp3",
+    "label": "Trek 54 (2-51.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t055-2-52.mp3",
+    "file": "2-52.mp3",
+    "label": "Trek 55 (2-52.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t056-2-53.mp3",
+    "file": "2-53.mp3",
+    "label": "Trek 56 (2-53.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t057-2-54.mp3",
+    "file": "2-54.mp3",
+    "label": "Trek 57 (2-54.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t058-2-55.mp3",
+    "file": "2-55.mp3",
+    "label": "Trek 58 (2-55.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t059-2-56.mp3",
+    "file": "2-56.mp3",
+    "label": "Trek 59 (2-56.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t060-2-57.mp3",
+    "file": "2-57.mp3",
+    "label": "Trek 60 (2-57.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t061-2-58.mp3",
+    "file": "2-58.mp3",
+    "label": "Trek 61 (2-58.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t062-2-59.mp3",
+    "file": "2-59.mp3",
+    "label": "Trek 62 (2-59.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t063-2-60.mp3",
+    "file": "2-60.mp3",
+    "label": "Trek 63 (2-60.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t064-2-61.mp3",
+    "file": "2-61.mp3",
+    "label": "Trek 64 (2-61.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t065-2-62.mp3",
+    "file": "2-62.mp3",
+    "label": "Trek 65 (2-62.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t066-2-63.mp3",
+    "file": "2-63.mp3",
+    "label": "Trek 66 (2-63.mp3)",
+    "kind": "other",
+    "q": null
+   },
+   {
+    "src": "ex/b-l3/t067-3-00000.mp3",
+    "file": "3-00000.mp3",
+    "label": "Petunjuk / jeda",
+    "kind": "instructions",
+    "q": null
+   }
+  ]
+ },
+ "fullScript": "進階高階級模擬試題聽力測驗腳本\nScript of Listening Test\n第一部分 對話\n1.\n男：下個月的歌唱比賽，你能不能和我一起合唱一首歌？\n女：只要人多，我就緊張得說不出話，更不用說唱歌了，我還是當觀眾幫你加油\n就好。\n男：關於唱歌比賽，這位小姐打算怎麼做？\n2.\n男：妳聽過這首歌沒有？\n女：我妹妹天天都聽這首歌，我都會背了。\n男：這位小姐的意思是什麼？\n3.\n男：您年紀這麼大了，還去念研究所，真了不起！\n女：哪裡哪裡！活到老學到老嘛！\n男：這位女士的意思是什麼？\n4.\n男：你快一點行不行？七點的電影快開始了！\n女：還有半個小時呢，坐計程車去，二十分鐘就到了。\n男：這位小姐的意思是什麼？\n5.\n男：這家餐廳怎麼一個禮拜都沒開門？\n女：生意太差，老闆不做了。\n男：這家餐廳怎麼了？\n\n6.\n男：小姐，請妳把嘴巴再張大一點，是這顆牙齒痛嗎？\n女：不是，要再往右邊一點，啊！就是這裡，疼得我什麼都不能吃。\n男：這段話最可能發生在什麼地方？\n7.\n男：這些錢請妳數一數，看看對不對？\n女：我數好了，一塊錢也沒少。\n男：這些錢怎麼樣？\n8.\n男：妳知道嗎？剛剛那位醫生不但沒開藥給我，還說我不是感冒，只要多喝白開\n水就可以了。\n女：誰叫你平常只喝可樂、果汁之類的飲料，要你喝白開水，好像要你的命一樣。\n現在醫生可站出來替你的身體說話囉！\n男：這位小姐認為這位先生怎麼樣？\n9.\n男：最近服務生的反應速度也太差了。\n女：大概是電視節目一直宣傳的關係，客人突然增加，來不及應付吧！\n男：不過菜再好吃也沒用，常常無法維持服務品質，環境又吵，連我們這種老客\n人也不想來了。\n女：我看，我們又得重新找約會地點了。\n男：這位先生和小姐現在對這家餐廳的看法是什麼？\n10.\n男：我最近打算再試試其他工作，看看有沒有更好的。\n女：上次不是聽你說，這工作待遇不錯，你覺得挺好的嗎？\n男：可是經常為了客戶的事，到了週末還得加班，我覺得太說不過去了。\n女：喔，信不信由你，週末加班對我來說，根本是家常便飯。\n男：這位小姐的意思是什麼？\n\n11.\n男：現在景氣不好，別人會不會覺得我們產品的定價高得離譜？\n女：這跟景氣無關，只要我們鎖定特定的族群，一樣很有市場。\n男：你這麼有把握啊！\n女：你沒看市面上動輒七八十萬的皮椅，買的人也不在少數。\n男：這位小姐的意思是什麼？\n12.\n男：唉！客戶堅持要賠償，老劉堅持自己沒有錯，待會的協調會，場面可尷尬了。\n女：你怎麼不勸勸他呢？\n男：我當然說啦！退一步海闊天空嘛！不過他聽不進去。\n女：都到這個節骨眼了他還堅持己見，真是不可理喻。\n男：這位太太說老劉怎麼樣？\n13.\n男：怎麼啦？垂頭喪氣的？\n女：我們為了參加運動會，連續三個月都留校苦練，就是想拼出好成績。\n男：勝敗乃兵家常事，能代表學校出賽就是一種榮耀，更何況你們幾乎每項運動\n都進入決賽呢！\n女：就是因為這樣，本來想至少可以拿下一面獎牌，誰知道會全軍覆沒呢！\n男：代表隊在這次比賽的表現怎麼樣？\n14.\n男：小趙這孩子，頭腦不錯，就是個性太急躁。\n女：哈哈，年輕人嘛！做事難免比較衝動。\n男：正好老王那兒有缺，我想叫他去試一試。\n女：嗯，老王做事一板一眼的，小趙去替他做事，馬虎不得，正好可以磨練磨練。\n男：為什麼小趙幫老王做事是種磨練？\n\n15.\n男：咦！最近你好像特別忙。\n女：唉！我最得力的助手出國唸書去了，一時找不到人來幫我管理南部的公司，\n偏偏那兒又需要好好整頓一番。\n男：小趙怎麼樣，服務的時間久，學歷也不錯。\n女：他人緣差不說，又經常敷衍了事，你想我能指望他嗎？\n男：這位女士的意思是什麼？\n16.\n男：妳這樣做並不符合申請的程序，難道不怕案子被退回嗎？\n女：保證萬無一失，絕對沒問題，你放心吧！\n男：這位小姐的話是什麼意思？\n17.\n男：小劉費盡心思取悅父母，結果卻失敗了。\n女：誰叫他只立業不成家呢？功成名就固然很好，但老人家更想要的是子孫滿堂\n啊！\n男：根據這位小姐的說法，小劉失敗的原因是什麼？\n18.\n男：老闆說這個案子得在一個星期裡完成，這怎麼可能呢？\n女：還不簡單？應付應付就行啦！我才不會為了這個案子多費功夫呢！\n男：這位小姐有什麼意見？\n19.\n男：吳老師鋼琴演奏會的票開始賣了，我覺得可以考慮一樓第十排中間的位置，\n那裡的視野還不錯，可以清楚地看見吳老師演奏。\n女：你在二樓的後面幾排位子裡隨便挑就行。只是單純地欣賞音樂，視野的好壞\n不是重點，你就把錢省下來吧！\n男：這位小姐對這次演奏會的座位有什麼看法？\n\n請聽這段對話，然後回答兩個問題。\n男：你最近怎麼老躲著小王？\n女：他一直想約我單獨跟他出去，可是…\n男：怎麼了？你好像不太願意？\n女：小王人不錯，可是，我不想讓小王誤會我對他有意思，唉！該怎麼和他說呢？\n20. 這位小姐對小王的感覺如何？\n21. 對小王的邀請，這位小姐覺得如何？\n請聽這段對話，然後回答下面的兩個問題。\n男：你們又來了，這次又有什麼事？\n女：趙先生，今年水災損失慘重，許多災民都無家可歸。我們發起募捐運動，請\n您共襄盛舉，捐點錢救濟災民。\n男：不是我沒良心，只是以前我每次捐了錢就沒下文。錢也是我辛苦賺的，難道\n就這樣送給你們？\n女：喔，我們每年募得的款項，都會製作成帳冊，仔細說明捐款用途，您大可放\n心啊！\n男：口說無憑，你不如先寄份帳冊來給我看吧！\n22. 關於這位先生，哪一個是對的？\n23. 這位先生最後的態度怎麼樣？\n下面是店員和客人在商店的對話，請聽完對話後，回答兩個問題。\n男：小姐，我覺得這發票上的金額好像不太對。\n女：好的，馬上為您處理。這些一共是500元，金額沒錯。\n男：是嗎？這張宣傳單上寫著這個月是打折月，從五月一號到五月三十一號，不\n管消費多少錢，只要結帳時拿出會員卡，就打九折。喏！這是我的會員卡，\n為什麼沒打折？\n女：我看看，喔！先生，這是我們另一家分店的宣傳單，上頭說了，這個活動主\n要是為了慶祝他們開店滿一年而舉辦的特別活動，所以只有在那裡消費才能\n享有九折優惠。不好意思，我們店裡並沒有配合這個活動。\n24. 店員和客人發生了什麼事？\n25. 有關宣傳單上的活動說明，下面哪一項是對的？\n\n請聽這一段和「味精」有關的討論，然後回答兩個問題。\n男：佳美，你看這則味精的報導。\n女：嗯！我看看，這報導並沒有具體指出為什麼味精會對人體造成傷害，我看過\n另外一篇報告，結果完全相反。\n男：是嗎？可是有些人吃了加味精的食物後，就會不舒服。我想，我們能不碰就\n不碰吧！\n女：每種食物都有人適應不良，何況味精究竟會對人體造成什麼影響，醫學上也\n還沒證實，所以，你別太擔心了。\n26. 這位先生覺得味精怎麼樣？\n27. 這位小姐的意思是什麼？\n下面是一段兄妹之間的對話，請聽完後，回答下面三個問題：\n28. 這位先生為什麼說他的太太「陰陽怪氣」？\n29. 根據這位先生的說法，他昨天出捷運站以後做了什麼事？\n30. 這段對話告訴我們什麼事？\n現在請聽對話。\n男：昨天晚上，你嫂子做了一桌子的菜，醋溜魚片、醋溜白菜、醋溜蝦，飯後還\n來了杯青梅醋，一整晚話沒兩句，和平常多話的她判若兩人，整個人陰陽怪\n氣的。\n女：哥，我昨天和嫂嫂出門買東西，在捷運站看見你和一位長髮女性共撐一把傘，\n該不會是…\n男：長髮女性？昨天一出捷運站就下了個傾盆大雨，我身上沒傘，就跟附近賣傘\n的小販買了一把。那個年輕人做起生意來可積極了，邊說他還邊示範。沒想\n到，那時風大，小伙子留的一頭長髮給傘骨纏住了。兩個大男人拉扯了好一\n會兒才把頭髮救出來。不是我要說，一個大男人，留什麼長髮啊！\n28. 這位先生為什麼說他的太太「陰陽怪氣」？\n29. 根據這位先生的說法，他昨天出捷運站以後做了什麼事？\n30. 這段對話告訴我們什麼事？\n\n第二部分 段落\n請聽這一段話，然後回答下面的問題。\n小青的房東很會做點心，常常請小青來家裡吃點心。小青最喜歡吃她做的蛋\n糕，又香又好吃。她們總是一邊吃蛋糕，一邊聊自己的家人。房東說她的女兒和\n小青的年紀一樣大，因為讀書的關係不在家，所以她把小青當成自己的女兒。小\n青聽了，很高興，也很感謝。\n31. 從這段話可以知道什麼？\n請聽這一段話，然後回答下面的問題。\n如果你感到背痛或腿部酸痛，聽聽音樂可能會有幫助。一項研究發現，經常\n聽音樂是有好處的，因為音樂有助於減輕疼痛，但這並不表示它可以取代醫生，\n不過聽音樂絕不會對你造成傷害。\n32. 這段話的意思是什麼？\n請聽這一段電話留言，然後回答下面的兩個問題。\n小文，我是阿秀。我知道我們本來約好今天下午要去看電影，可是今天早上\n我有一點不舒服，所以我想在家休息。下次等我們都有空的時候再一起去看電影，\n好嗎？對了，明天上課的時候，請你把我借你的雨傘拿來學校，謝謝！明天見。\n33. 阿秀今天下午要做什麼？\n34. 阿秀請小文拿什麼去學校？\n請聽這一段話，然後回答下面的兩個問題。\n昨天晚上我很晚才回家。看到桌子上還剩一些飯菜，就吃了。到了夜裡，我\n的肚子開始痛了起來，就一直跑廁所。結果一個晚上都沒睡好。今天早上我請假\n去看醫生，醫生說我得吃藥，他給了我兩種藥，然後跟我說：\n「每天吃完飯以後，\n吃一包白色的藥，如果肚子還是不舒服，就吃綠色藥包的藥。如果身體好了，就\n不用再吃藥。」\n35. 為什麼說話的人昨天晚上沒睡好？\n36. 醫生說了什麼？\n\n請聽這一段水果的介紹，然後回答下面的兩個問題。\n這種水果夏天的時候才有，它的皮是不能吃的，我們吃的是裡面白白的肉。\n它的味道又香又甜，大人小孩都喜歡。聽說以前北方的人想吃這種水果，還得特\n別請人騎馬從南方送來。因為這種水果不能放太久，買回來以後，要趕快放進冰\n箱裡。如果不這樣做的話，紅色的皮很快就變成咖啡色了，過兩天味道已經不香，\n放到第四天，不但不好看，也不好吃了。\n37. 這種水果怎麼樣？\n38. 這種水果不放冰箱的話，會先有什麼變化？\n請聽這一段話，然後回答下面的兩個問題。\n小周上個月和太太、小孩一家三個人去美國玩兒。他們到的第一天有點兒不\n習慣，因為天氣比較冷。不過他們住的飯店又大又舒服，小周和太太還是很高興。\n他們每天都去不同的地方玩兒，在那兒他們常吃美國菜，有時候也吃中國菜。回\n來以後，小周決定下次還要帶家人去美國玩兒。\n39. 這段話主要是說什麼？\n40. 下面哪一個是對的？\n請聽這一段廣告，然後回答下面的兩個問題。\n寒假、過年和家人朋友出來玩，歡迎選擇圓山大飯店！從今年 12 月到明年\n2 月底，我們每天提供二十間房間，雙人房一個晚上只要 2100 元，四人房也只\n要 3500 元。雖然費用變便宜了，我們提供的服務還是一樣，除了送您報紙和水\n果，使用停車場、游泳池也不必付錢。每天只有二十間！有興趣的人請趕快打電\n話給我們。\n41. 這二十間房間怎麼樣？\n42. 下面哪一個是對的？\n\n請聽這一段廣播，然後回答兩個問題。\n各位同學請注意，最近很多同學反應，他們在圖書館讀書，才離開位子一會\n兒，原本放在位子上的書包就不見了，學校已經派人調查這件事，也請各位同學\n離開位子的時候，把重要的東西一起拿走，謝謝！\n43. 學生在圖書館發生什麼事？\n44. 這段廣播提到，學校怎麼處理這個狀況？\n下面是關於電影與城市觀光的報導。請聽完報導後，回答三個問題：\n45. 根據報導，小鎮為什麼成為新的景點？\n46. 根據報導，這部電影對小鎮造成什麼影響？\n47. 記者對當地飯店的經營者，提出哪些建議？\n現在請聽報導。\n2008 年，台灣一部以小鎮風光為背景的電影，讓這個小鎮，成了新的觀光\n景點，大量遊客來這裡，不僅創造了小鎮的經濟價值，也為當地居民增加了大量\n的工作機會。好的劇本、好的演員當然是電影成功的要素，但讓人好奇的是，這\n個小鎮，怎麼透過電影吸引這麼多人來參觀？是電影中那濃濃的人情味？厚重的\n歷史氣息？還是，讓人口水直流的地方美食？\n「觀眾透過電影看見了小鎮的魅力，所以想去感受感受。」導演的話，點出\n了答案。但是電影對小鎮的影響能有多久，是不是隨著電影結束，這股觀光熱也\n就跟著消失？\n這部電影的推銷手法，也許值得飯店經營者參考，若能將飯店與當地人文相\n互結合，那麼被電影所帶動的觀光風氣，也許就有可能持續下去。\n45. 根據報導，小鎮為什麼成為新的景點？\n46. 根據報導，這部電影對小鎮造成什麼影響？\n47. 記者對當地飯店的經營者，提出哪些建議？\n\n香港兩名少女至阿根廷旅遊，傳出遭人綁架。請聽這則報導，並根據內容回答三\n個問題。\n現在請聽報導。\n【新聞快訊】\n香港兩名到阿根廷遊玩的少女，上週傳出在當地被人脅持禁錮及勒索贖金，\n根據阿國警方調查，她們可能涉及偷運古董。\n阿國警方表示，她們是為了獲得阿根廷免費旅遊及 6 萬元報酬，才鋌而走險，\n替人運送價值連城的古董花瓶和字畫到阿國。但她們抵達阿根廷後，接貨的幫派\n指稱，花瓶破損，於是扣留她們的護照加以禁錮。\n香港警方接獲報案後，動用超級電腦，進行照片及阿根廷首都 3D 立體地圖\n的分析，成功鎖定少女被禁錮的位置，並將資料提供給阿國警方，由他們負責救\n援行動。阿國警方認為，這次能成功地救出少女，都要歸功於香港警方提供了極\n有用的情報。\n48. 這則報導說明了什麼？\n49. 根據報導，兩名少女為什麼要做這些事？\n50. 根據報導，香港警方怎麼處理這件案子？",
+ "optionCount": 4
+}

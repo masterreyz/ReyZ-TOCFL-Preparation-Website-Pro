@@ -1,0 +1,1266 @@
+{
+ "id": "a1-te",
+ "level": "a1",
+ "kind": "textbook",
+ "label": "Textbook 課本",
+ "pages": 399,
+ "source": {
+  "folder": "1. 第一本 (A1)",
+  "file": "TOCFL A1 Textbook.pdf",
+  "audioDir": "1. 第一本 (A1)/TOCFL A1 Textbook Audio"
+ },
+ "frontMatter": {
+  "start": 1,
+  "end": 27
+ },
+ "backMatter": {
+  "start": 378,
+  "end": 399
+ },
+ "lessons": [
+  {
+   "n": 1,
+   "start": 28,
+   "end": 49,
+   "headerPage": 32,
+   "detection": {
+    "header": 32,
+    "opener": 28,
+    "audioMarker": 29
+   },
+   "titleOcr": "歡迎你來臺灣！",
+   "titleVerified": true,
+   "id": "a1-te-l01",
+   "migrated": true,
+   "tracks": [
+    {
+     "file": "01-01.mp3",
+     "lesson": 1,
+     "label": "01-01",
+     "page": 29,
+     "src": "study/a1-te/01-01.mp3"
+    },
+    {
+     "file": "01-02.mp3",
+     "lesson": 1,
+     "label": "01-02",
+     "page": 30,
+     "src": "study/a1-te/01-02.mp3"
+    },
+    {
+     "file": "01-03.mp3",
+     "lesson": 1,
+     "label": "01-03",
+     "page": 31,
+     "src": "study/a1-te/01-03.mp3"
+    },
+    {
+     "file": "01-04.mp3",
+     "lesson": 1,
+     "label": "01-04",
+     "page": null,
+     "src": "study/a1-te/01-04.mp3"
+    },
+    {
+     "file": "01-05.mp3",
+     "lesson": 1,
+     "label": "01-05",
+     "page": null,
+     "src": "study/a1-te/01-05.mp3"
+    },
+    {
+     "file": "01-06.mp3",
+     "lesson": 1,
+     "label": "01-06",
+     "page": null,
+     "src": "study/a1-te/01-06.mp3"
+    },
+    {
+     "file": "01-07.mp3",
+     "lesson": 1,
+     "label": "01-07",
+     "page": null,
+     "src": "study/a1-te/01-07.mp3"
+    },
+    {
+     "file": "01-08.mp3",
+     "lesson": 1,
+     "label": "01-08",
+     "page": null,
+     "src": "study/a1-te/01-08.mp3"
+    },
+    {
+     "file": "01-09.mp3",
+     "lesson": 1,
+     "label": "01-09",
+     "page": null,
+     "src": "study/a1-te/01-09.mp3"
+    },
+    {
+     "file": "01-10.mp3",
+     "lesson": 1,
+     "label": "01-10",
+     "page": null,
+     "src": "study/a1-te/01-10.mp3"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 50,
+   "end": 69,
+   "headerPage": 56,
+   "detection": {
+    "header": 56,
+    "opener": 50,
+    "audioMarker": 51
+   },
+   "titleOcr": "我的家人",
+   "titleVerified": true,
+   "id": "a1-te-l02",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "02-01.mp3",
+     "lesson": 2,
+     "label": "02-01",
+     "page": 51,
+     "src": "study/a1-te/02-01.mp3"
+    },
+    {
+     "file": "02-02.mp3",
+     "lesson": 2,
+     "label": "02-02",
+     "page": 52,
+     "src": "study/a1-te/02-02.mp3"
+    },
+    {
+     "file": "02-03.mp3",
+     "lesson": 2,
+     "label": "02-03",
+     "page": 53,
+     "src": "study/a1-te/02-03.mp3"
+    },
+    {
+     "file": "02-04.mp3",
+     "lesson": 2,
+     "label": "02-04",
+     "page": 55,
+     "src": "study/a1-te/02-04.mp3"
+    },
+    {
+     "file": "02-05.mp3",
+     "lesson": 2,
+     "label": "02-05",
+     "page": null,
+     "src": "study/a1-te/02-05.mp3"
+    },
+    {
+     "file": "02-06.mp3",
+     "lesson": 2,
+     "label": "02-06",
+     "page": null,
+     "src": "study/a1-te/02-06.mp3"
+    },
+    {
+     "file": "02-07.mp3",
+     "lesson": 2,
+     "label": "02-07",
+     "page": null,
+     "src": "study/a1-te/02-07.mp3"
+    },
+    {
+     "file": "02-08.mp3",
+     "lesson": 2,
+     "label": "02-08",
+     "page": null,
+     "src": "study/a1-te/02-08.mp3"
+    },
+    {
+     "file": "02-09.mp3",
+     "lesson": 2,
+     "label": "02-09",
+     "page": null,
+     "src": "study/a1-te/02-09.mp3"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 70,
+   "end": 91,
+   "headerPage": 74,
+   "detection": {
+    "header": 74,
+    "opener": 70,
+    "audioMarker": null
+   },
+   "titleOcr": "週末做什麼？",
+   "titleVerified": true,
+   "id": "a1-te-l03",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "03-01.mp3",
+     "lesson": 3,
+     "label": "03-01",
+     "page": null,
+     "src": "study/a1-te/03-01.mp3"
+    },
+    {
+     "file": "03-02.mp3",
+     "lesson": 3,
+     "label": "03-02",
+     "page": 73,
+     "src": "study/a1-te/03-02.mp3"
+    },
+    {
+     "file": "03-03.mp3",
+     "lesson": 3,
+     "label": "03-03",
+     "page": 74,
+     "src": "study/a1-te/03-03.mp3"
+    },
+    {
+     "file": "03-04.mp3",
+     "lesson": 3,
+     "label": "03-04",
+     "page": 75,
+     "src": "study/a1-te/03-04.mp3"
+    },
+    {
+     "file": "03-05.mp3",
+     "lesson": 3,
+     "label": "03-05",
+     "page": null,
+     "src": "study/a1-te/03-05.mp3"
+    },
+    {
+     "file": "03-06.mp3",
+     "lesson": 3,
+     "label": "03-06",
+     "page": null,
+     "src": "study/a1-te/03-06.mp3"
+    },
+    {
+     "file": "03-07.mp3",
+     "lesson": 3,
+     "label": "03-07",
+     "page": null,
+     "src": "study/a1-te/03-07.mp3"
+    },
+    {
+     "file": "03-08.mp3",
+     "lesson": 3,
+     "label": "03-08",
+     "page": null,
+     "src": "study/a1-te/03-08.mp3"
+    },
+    {
+     "file": "03-09.mp3",
+     "lesson": 3,
+     "label": "03-09",
+     "page": null,
+     "src": "study/a1-te/03-09.mp3"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 92,
+   "end": 111,
+   "headerPage": 96,
+   "detection": {
+    "header": 96,
+    "opener": 92,
+    "audioMarker": 93
+   },
+   "titleOcr": "請問一共多少錢？",
+   "titleVerified": true,
+   "id": "a1-te-l04",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "04-01.mp3",
+     "lesson": 4,
+     "label": "04-01",
+     "page": 93,
+     "src": "study/a1-te/04-01.mp3"
+    },
+    {
+     "file": "04-02.mp3",
+     "lesson": 4,
+     "label": "04-02",
+     "page": 94,
+     "src": "study/a1-te/04-02.mp3"
+    },
+    {
+     "file": "04-03.mp3",
+     "lesson": 4,
+     "label": "04-03",
+     "page": 95,
+     "src": "study/a1-te/04-03.mp3"
+    },
+    {
+     "file": "04-04.mp3",
+     "lesson": 4,
+     "label": "04-04",
+     "page": 96,
+     "src": "study/a1-te/04-04.mp3"
+    },
+    {
+     "file": "04-05.mp3",
+     "lesson": 4,
+     "label": "04-05",
+     "page": null,
+     "src": "study/a1-te/04-05.mp3"
+    },
+    {
+     "file": "04-06.mp3",
+     "lesson": 4,
+     "label": "04-06",
+     "page": null,
+     "src": "study/a1-te/04-06.mp3"
+    },
+    {
+     "file": "04-07.mp3",
+     "lesson": 4,
+     "label": "04-07",
+     "page": null,
+     "src": "study/a1-te/04-07.mp3"
+    },
+    {
+     "file": "04-08.mp3",
+     "lesson": 4,
+     "label": "04-08",
+     "page": null,
+     "src": "study/a1-te/04-08.mp3"
+    },
+    {
+     "file": "04-09.mp3",
+     "lesson": 4,
+     "label": "04-09",
+     "page": null,
+     "src": "study/a1-te/04-09.mp3"
+    },
+    {
+     "file": "04-10.mp3",
+     "lesson": 4,
+     "label": "04-10",
+     "page": null,
+     "src": "study/a1-te/04-10.mp3"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 112,
+   "end": 129,
+   "headerPage": 116,
+   "detection": {
+    "header": 116,
+    "opener": 112,
+    "audioMarker": 113
+   },
+   "titleOcr": "牛肉麵真好吃",
+   "titleVerified": true,
+   "id": "a1-te-l05",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "05-01.mp3",
+     "lesson": 5,
+     "label": "05-01",
+     "page": 113,
+     "src": "study/a1-te/05-01.mp3"
+    },
+    {
+     "file": "05-02.mp3",
+     "lesson": 5,
+     "label": "05-02",
+     "page": 114,
+     "src": "study/a1-te/05-02.mp3"
+    },
+    {
+     "file": "05-03.mp3",
+     "lesson": 5,
+     "label": "05-03",
+     "page": 116,
+     "src": "study/a1-te/05-03.mp3"
+    },
+    {
+     "file": "05-04.mp3",
+     "lesson": 5,
+     "label": "05-04",
+     "page": 117,
+     "src": "study/a1-te/05-04.mp3"
+    },
+    {
+     "file": "05-05.mp3",
+     "lesson": 5,
+     "label": "05-05",
+     "page": null,
+     "src": "study/a1-te/05-05.mp3"
+    },
+    {
+     "file": "05-06.mp3",
+     "lesson": 5,
+     "label": "05-06",
+     "page": null,
+     "src": "study/a1-te/05-06.mp3"
+    },
+    {
+     "file": "05-07.mp3",
+     "lesson": 5,
+     "label": "05-07",
+     "page": null,
+     "src": "study/a1-te/05-07.mp3"
+    },
+    {
+     "file": "05-08.mp3",
+     "lesson": 5,
+     "label": "05-08",
+     "page": null,
+     "src": "study/a1-te/05-08.mp3"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 130,
+   "end": 157,
+   "headerPage": 134,
+   "detection": {
+    "header": 134,
+    "opener": 130,
+    "audioMarker": null
+   },
+   "titleOcr": "他們學校在山上",
+   "titleVerified": true,
+   "id": "a1-te-l06",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "06-01.mp3",
+     "lesson": 6,
+     "label": "06-01",
+     "page": null,
+     "src": "study/a1-te/06-01.mp3"
+    },
+    {
+     "file": "06-02.mp3",
+     "lesson": 6,
+     "label": "06-02",
+     "page": 132,
+     "src": "study/a1-te/06-02.mp3"
+    },
+    {
+     "file": "06-03.mp3",
+     "lesson": 6,
+     "label": "06-03",
+     "page": 134,
+     "src": "study/a1-te/06-03.mp3"
+    },
+    {
+     "file": "06-04.mp3",
+     "lesson": 6,
+     "label": "06-04",
+     "page": 135,
+     "src": "study/a1-te/06-04.mp3"
+    },
+    {
+     "file": "06-05.mp3",
+     "lesson": 6,
+     "label": "06-05",
+     "page": null,
+     "src": "study/a1-te/06-05.mp3"
+    },
+    {
+     "file": "06-06.mp3",
+     "lesson": 6,
+     "label": "06-06",
+     "page": null,
+     "src": "study/a1-te/06-06.mp3"
+    },
+    {
+     "file": "06-07.mp3",
+     "lesson": 6,
+     "label": "06-07",
+     "page": null,
+     "src": "study/a1-te/06-07.mp3"
+    },
+    {
+     "file": "06-08.mp3",
+     "lesson": 6,
+     "label": "06-08",
+     "page": null,
+     "src": "study/a1-te/06-08.mp3"
+    },
+    {
+     "file": "06-09.mp3",
+     "lesson": 6,
+     "label": "06-09",
+     "page": null,
+     "src": "study/a1-te/06-09.mp3"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 158,
+   "end": 185,
+   "headerPage": 162,
+   "detection": {
+    "header": 162,
+    "opener": 158,
+    "audioMarker": 159
+   },
+   "titleOcr": "早上九點去KTV",
+   "titleVerified": true,
+   "id": "a1-te-l07",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "07-01.mp3",
+     "lesson": 7,
+     "label": "07-01",
+     "page": 159,
+     "src": "study/a1-te/07-01.mp3"
+    },
+    {
+     "file": "07-02.mp3",
+     "lesson": 7,
+     "label": "07-02",
+     "page": 161,
+     "src": "study/a1-te/07-02.mp3"
+    },
+    {
+     "file": "07-03.mp3",
+     "lesson": 7,
+     "label": "07-03",
+     "page": 162,
+     "src": "study/a1-te/07-03.mp3"
+    },
+    {
+     "file": "07-04.mp3",
+     "lesson": 7,
+     "label": "07-04",
+     "page": 164,
+     "src": "study/a1-te/07-04.mp3"
+    },
+    {
+     "file": "07-05.mp3",
+     "lesson": 7,
+     "label": "07-05",
+     "page": null,
+     "src": "study/a1-te/07-05.mp3"
+    },
+    {
+     "file": "07-06.mp3",
+     "lesson": 7,
+     "label": "07-06",
+     "page": null,
+     "src": "study/a1-te/07-06.mp3"
+    },
+    {
+     "file": "07-07.mp3",
+     "lesson": 7,
+     "label": "07-07",
+     "page": null,
+     "src": "study/a1-te/07-07.mp3"
+    },
+    {
+     "file": "07-08.mp3",
+     "lesson": 7,
+     "label": "07-08",
+     "page": null,
+     "src": "study/a1-te/07-08.mp3"
+    },
+    {
+     "file": "07-09.mp3",
+     "lesson": 7,
+     "label": "07-09",
+     "page": null,
+     "src": "study/a1-te/07-09.mp3"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 186,
+   "end": 207,
+   "headerPage": 192,
+   "detection": {
+    "header": 192,
+    "opener": 186,
+    "audioMarker": null
+   },
+   "titleOcr": "坐火車去臺南",
+   "titleVerified": true,
+   "id": "a1-te-l08",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "08-01.mp3",
+     "lesson": 8,
+     "label": "08-01",
+     "page": null,
+     "src": "study/a1-te/08-01.mp3"
+    },
+    {
+     "file": "08-02.mp3",
+     "lesson": 8,
+     "label": "08-02",
+     "page": 189,
+     "src": "study/a1-te/08-02.mp3"
+    },
+    {
+     "file": "08-03.mp3",
+     "lesson": 8,
+     "label": "08-03",
+     "page": 190,
+     "src": "study/a1-te/08-03.mp3"
+    },
+    {
+     "file": "08-04.mp3",
+     "lesson": 8,
+     "label": "08-04",
+     "page": 191,
+     "src": "study/a1-te/08-04.mp3"
+    },
+    {
+     "file": "08-05.mp3",
+     "lesson": 8,
+     "label": "08-05",
+     "page": null,
+     "src": "study/a1-te/08-05.mp3"
+    },
+    {
+     "file": "08-06.mp3",
+     "lesson": 8,
+     "label": "08-06",
+     "page": null,
+     "src": "study/a1-te/08-06.mp3"
+    },
+    {
+     "file": "08-07.mp3",
+     "lesson": 8,
+     "label": "08-07",
+     "page": null,
+     "src": "study/a1-te/08-07.mp3"
+    },
+    {
+     "file": "08-08.mp3",
+     "lesson": 8,
+     "label": "08-08",
+     "page": null,
+     "src": "study/a1-te/08-08.mp3"
+    },
+    {
+     "file": "08-09.mp3",
+     "lesson": 8,
+     "label": "08-09",
+     "page": null,
+     "src": "study/a1-te/08-09.mp3"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "start": 208,
+   "end": 227,
+   "headerPage": 212,
+   "detection": {
+    "header": 212,
+    "opener": 208,
+    "audioMarker": 209
+   },
+   "titleOcr": "放假去哪裡玩？",
+   "titleVerified": true,
+   "id": "a1-te-l09",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "09-01.mp3",
+     "lesson": 9,
+     "label": "09-01",
+     "page": 209,
+     "src": "study/a1-te/09-01.mp3"
+    },
+    {
+     "file": "09-02.mp3",
+     "lesson": 9,
+     "label": "09-02",
+     "page": 211,
+     "src": "study/a1-te/09-02.mp3"
+    },
+    {
+     "file": "09-03.mp3",
+     "lesson": 9,
+     "label": "09-03",
+     "page": 212,
+     "src": "study/a1-te/09-03.mp3"
+    },
+    {
+     "file": "09-04.mp3",
+     "lesson": 9,
+     "label": "09-04",
+     "page": 214,
+     "src": "study/a1-te/09-04.mp3"
+    },
+    {
+     "file": "09-05.mp3",
+     "lesson": 9,
+     "label": "09-05",
+     "page": null,
+     "src": "study/a1-te/09-05.mp3"
+    },
+    {
+     "file": "09-06.mp3",
+     "lesson": 9,
+     "label": "09-06",
+     "page": null,
+     "src": "study/a1-te/09-06.mp3"
+    },
+    {
+     "file": "09-07.mp3",
+     "lesson": 9,
+     "label": "09-07",
+     "page": null,
+     "src": "study/a1-te/09-07.mp3"
+    },
+    {
+     "file": "09-08.mp3",
+     "lesson": 9,
+     "label": "09-08",
+     "page": null,
+     "src": "study/a1-te/09-08.mp3"
+    },
+    {
+     "file": "09-09.mp3",
+     "lesson": 9,
+     "label": "09-09",
+     "page": null,
+     "src": "study/a1-te/09-09.mp3"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "start": 228,
+   "end": 249,
+   "headerPage": 232,
+   "detection": {
+    "header": 232,
+    "opener": 228,
+    "audioMarker": 229
+   },
+   "titleOcr": "臺灣的水果很好吃",
+   "titleVerified": true,
+   "id": "a1-te-l10",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "10-01.mp3",
+     "lesson": 10,
+     "label": "10-01",
+     "page": 229,
+     "src": "study/a1-te/10-01.mp3"
+    },
+    {
+     "file": "10-02.mp3",
+     "lesson": 10,
+     "label": "10-02",
+     "page": 231,
+     "src": "study/a1-te/10-02.mp3"
+    },
+    {
+     "file": "10-03.mp3",
+     "lesson": 10,
+     "label": "10-03",
+     "page": 232,
+     "src": "study/a1-te/10-03.mp3"
+    },
+    {
+     "file": "10-04.mp3",
+     "lesson": 10,
+     "label": "10-04",
+     "page": 234,
+     "src": "study/a1-te/10-04.mp3"
+    },
+    {
+     "file": "10-05.mp3",
+     "lesson": 10,
+     "label": "10-05",
+     "page": null,
+     "src": "study/a1-te/10-05.mp3"
+    },
+    {
+     "file": "10-06.mp3",
+     "lesson": 10,
+     "label": "10-06",
+     "page": null,
+     "src": "study/a1-te/10-06.mp3"
+    },
+    {
+     "file": "10-07.mp3",
+     "lesson": 10,
+     "label": "10-07",
+     "page": null,
+     "src": "study/a1-te/10-07.mp3"
+    },
+    {
+     "file": "10-08.mp3",
+     "lesson": 10,
+     "label": "10-08",
+     "page": null,
+     "src": "study/a1-te/10-08.mp3"
+    },
+    {
+     "file": "10-09.mp3",
+     "lesson": 10,
+     "label": "10-09",
+     "page": null,
+     "src": "study/a1-te/10-09.mp3"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "start": 250,
+   "end": 272,
+   "headerPage": 254,
+   "detection": {
+    "header": 254,
+    "opener": 250,
+    "audioMarker": 379
+   },
+   "titleOcr": "我要租房子",
+   "titleVerified": true,
+   "id": "a1-te-l11",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "11-01.mp3",
+     "lesson": 11,
+     "label": "11-01",
+     "page": null,
+     "src": "study/a1-te/11-01.mp3"
+    },
+    {
+     "file": "11-02.mp3",
+     "lesson": 11,
+     "label": "11-02",
+     "page": 253,
+     "src": "study/a1-te/11-02.mp3"
+    },
+    {
+     "file": "11-03.mp3",
+     "lesson": 11,
+     "label": "11-03",
+     "page": 254,
+     "src": "study/a1-te/11-03.mp3"
+    },
+    {
+     "file": "11-04.mp3",
+     "lesson": 11,
+     "label": "11-04",
+     "page": 256,
+     "src": "study/a1-te/11-04.mp3"
+    },
+    {
+     "file": "11-05.mp3",
+     "lesson": 11,
+     "label": "11-05",
+     "page": null,
+     "src": "study/a1-te/11-05.mp3"
+    },
+    {
+     "file": "11-06.mp3",
+     "lesson": 11,
+     "label": "11-06",
+     "page": null,
+     "src": "study/a1-te/11-06.mp3"
+    },
+    {
+     "file": "11-07.mp3",
+     "lesson": 11,
+     "label": "11-07",
+     "page": null,
+     "src": "study/a1-te/11-07.mp3"
+    },
+    {
+     "file": "11-08.mp3",
+     "lesson": 11,
+     "label": "11-08",
+     "page": null,
+     "src": "study/a1-te/11-08.mp3"
+    },
+    {
+     "file": "11-09.mp3",
+     "lesson": 11,
+     "label": "11-09",
+     "page": null,
+     "src": "study/a1-te/11-09.mp3"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "start": 273,
+   "end": 296,
+   "headerPage": 276,
+   "detection": {
+    "header": 276,
+    "opener": null,
+    "audioMarker": 273
+   },
+   "titleOcr": "你在臺灣學多久的中文？",
+   "titleVerified": true,
+   "id": "a1-te-l12",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "12-01.mp3",
+     "lesson": 12,
+     "label": "12-01",
+     "page": 273,
+     "src": "study/a1-te/12-01.mp3"
+    },
+    {
+     "file": "12-02.mp3",
+     "lesson": 12,
+     "label": "12-02",
+     "page": 275,
+     "src": "study/a1-te/12-02.mp3"
+    },
+    {
+     "file": "12-03.mp3",
+     "lesson": 12,
+     "label": "12-03",
+     "page": 276,
+     "src": "study/a1-te/12-03.mp3"
+    },
+    {
+     "file": "12-04.mp3",
+     "lesson": 12,
+     "label": "12-04",
+     "page": 278,
+     "src": "study/a1-te/12-04.mp3"
+    },
+    {
+     "file": "12-05.mp3",
+     "lesson": 12,
+     "label": "12-05",
+     "page": null,
+     "src": "study/a1-te/12-05.mp3"
+    },
+    {
+     "file": "12-06.mp3",
+     "lesson": 12,
+     "label": "12-06",
+     "page": null,
+     "src": "study/a1-te/12-06.mp3"
+    },
+    {
+     "file": "12-07.mp3",
+     "lesson": 12,
+     "label": "12-07",
+     "page": null,
+     "src": "study/a1-te/12-07.mp3"
+    },
+    {
+     "file": "12-08.mp3",
+     "lesson": 12,
+     "label": "12-08",
+     "page": null,
+     "src": "study/a1-te/12-08.mp3"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "start": 297,
+   "end": 326,
+   "headerPage": 300,
+   "detection": {
+    "header": 300,
+    "opener": null,
+    "audioMarker": 297
+   },
+   "titleOcr": "生日快樂",
+   "titleVerified": true,
+   "id": "a1-te-l13",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "13-01.mp3",
+     "lesson": 13,
+     "label": "13-01",
+     "page": 297,
+     "src": "study/a1-te/13-01.mp3"
+    },
+    {
+     "file": "13-02.mp3",
+     "lesson": 13,
+     "label": "13-02",
+     "page": 299,
+     "src": "study/a1-te/13-02.mp3"
+    },
+    {
+     "file": "13-03.mp3",
+     "lesson": 13,
+     "label": "13-03",
+     "page": 301,
+     "src": "study/a1-te/13-03.mp3"
+    },
+    {
+     "file": "13-04.mp3",
+     "lesson": 13,
+     "label": "13-04",
+     "page": 303,
+     "src": "study/a1-te/13-04.mp3"
+    },
+    {
+     "file": "13-05.mp3",
+     "lesson": 13,
+     "label": "13-05",
+     "page": null,
+     "src": "study/a1-te/13-05.mp3"
+    },
+    {
+     "file": "13-06.mp3",
+     "lesson": 13,
+     "label": "13-06",
+     "page": null,
+     "src": "study/a1-te/13-06.mp3"
+    },
+    {
+     "file": "13-07.mp3",
+     "lesson": 13,
+     "label": "13-07",
+     "page": 307,
+     "src": "study/a1-te/13-07.mp3"
+    },
+    {
+     "file": "13-08.mp3",
+     "lesson": 13,
+     "label": "13-08",
+     "page": null,
+     "src": "study/a1-te/13-08.mp3"
+    },
+    {
+     "file": "13-09.mp3",
+     "lesson": 13,
+     "label": "13-09",
+     "page": null,
+     "src": "study/a1-te/13-09.mp3"
+    },
+    {
+     "file": "13-10.mp3",
+     "lesson": 13,
+     "label": "13-10",
+     "page": null,
+     "src": "study/a1-te/13-10.mp3"
+    },
+    {
+     "file": "13-11.mp3",
+     "lesson": 13,
+     "label": "13-11",
+     "page": null,
+     "src": "study/a1-te/13-11.mp3"
+    },
+    {
+     "file": "13-12.mp3",
+     "lesson": 13,
+     "label": "13-12",
+     "page": null,
+     "src": "study/a1-te/13-12.mp3"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "start": 327,
+   "end": 350,
+   "headerPage": 332,
+   "detection": {
+    "header": 332,
+    "opener": null,
+    "audioMarker": 327
+   },
+   "titleOcr": "天氣這麼冷！",
+   "titleVerified": true,
+   "id": "a1-te-l14",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "14-01.mp3",
+     "lesson": 14,
+     "label": "14-01",
+     "page": 327,
+     "src": "study/a1-te/14-01.mp3"
+    },
+    {
+     "file": "14-02.mp3",
+     "lesson": 14,
+     "label": "14-02",
+     "page": 329,
+     "src": "study/a1-te/14-02.mp3"
+    },
+    {
+     "file": "14-03.mp3",
+     "lesson": 14,
+     "label": "14-03",
+     "page": 330,
+     "src": "study/a1-te/14-03.mp3"
+    },
+    {
+     "file": "14-04.mp3",
+     "lesson": 14,
+     "label": "14-04",
+     "page": 332,
+     "src": "study/a1-te/14-04.mp3"
+    },
+    {
+     "file": "14-05.mp3",
+     "lesson": 14,
+     "label": "14-05",
+     "page": null,
+     "src": "study/a1-te/14-05.mp3"
+    },
+    {
+     "file": "14-06.mp3",
+     "lesson": 14,
+     "label": "14-06",
+     "page": null,
+     "src": "study/a1-te/14-06.mp3"
+    },
+    {
+     "file": "14-07.mp3",
+     "lesson": 14,
+     "label": "14-07",
+     "page": null,
+     "src": "study/a1-te/14-07.mp3"
+    },
+    {
+     "file": "14-08.mp3",
+     "lesson": 14,
+     "label": "14-08",
+     "page": null,
+     "src": "study/a1-te/14-08.mp3"
+    },
+    {
+     "file": "14-09.mp3",
+     "lesson": 14,
+     "label": "14-09",
+     "page": null,
+     "src": "study/a1-te/14-09.mp3"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "start": 351,
+   "end": 377,
+   "headerPage": 354,
+   "detection": {
+    "header": 354,
+    "opener": null,
+    "audioMarker": 351
+   },
+   "titleOcr": "我很不舒服",
+   "titleVerified": true,
+   "id": "a1-te-l15",
+   "migrated": false,
+   "tracks": [
+    {
+     "file": "15-01.mp3",
+     "lesson": 15,
+     "label": "15-01",
+     "page": 351,
+     "src": "study/a1-te/15-01.mp3"
+    },
+    {
+     "file": "15-02.mp3",
+     "lesson": 15,
+     "label": "15-02",
+     "page": 353,
+     "src": "study/a1-te/15-02.mp3"
+    },
+    {
+     "file": "15-03.mp3",
+     "lesson": 15,
+     "label": "15-03",
+     "page": 354,
+     "src": "study/a1-te/15-03.mp3"
+    },
+    {
+     "file": "15-04.mp3",
+     "lesson": 15,
+     "label": "15-04",
+     "page": 357,
+     "src": "study/a1-te/15-04.mp3"
+    },
+    {
+     "file": "15-05.mp3",
+     "lesson": 15,
+     "label": "15-05",
+     "page": null,
+     "src": "study/a1-te/15-05.mp3"
+    },
+    {
+     "file": "15-06.mp3",
+     "lesson": 15,
+     "label": "15-06",
+     "page": null,
+     "src": "study/a1-te/15-06.mp3"
+    },
+    {
+     "file": "15-07.mp3",
+     "lesson": 15,
+     "label": "15-07",
+     "page": null,
+     "src": "study/a1-te/15-07.mp3"
+    },
+    {
+     "file": "15-08.mp3",
+     "lesson": 15,
+     "label": "15-08",
+     "page": null,
+     "src": "study/a1-te/15-08.mp3"
+    },
+    {
+     "file": "15-09.mp3",
+     "lesson": 15,
+     "label": "15-09",
+     "page": null,
+     "src": "study/a1-te/15-09.mp3"
+    },
+    {
+     "file": "15-10.mp3",
+     "lesson": 15,
+     "label": "15-10",
+     "page": null,
+     "src": "study/a1-te/15-10.mp3"
+    },
+    {
+     "file": "15-11.mp3",
+     "lesson": 15,
+     "label": "15-11",
+     "page": null,
+     "src": "study/a1-te/15-11.mp3"
+    }
+   ]
+  }
+ ],
+ "otherTracks": [
+  {
+   "file": "00.mp3",
+   "lesson": null,
+   "label": "00",
+   "src": "study/a1-te/00.mp3"
+  }
+ ],
+ "audioFiles": 141
+}

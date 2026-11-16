@@ -1,0 +1,1506 @@
+{
+ "id": "a-r1",
+ "band": "a",
+ "skill": "reading",
+ "series": 1,
+ "title": "Band A Reading · Series 1",
+ "source": {
+  "folder": "2. TOCFL Band A/Reading",
+  "booklet": "1. TOCFL Reading Band A.pdf",
+  "answer": "1. TOCFL Reading Answer Band A.pdf",
+  "script": null
+ },
+ "timeMinutes": null,
+ "parts": [
+  {
+   "title": "第一部分",
+   "subtitle": "Part One",
+   "instructions": "說明：在這個部分，你會看到一個句子和(A)(B)(C)三張圖片。請根據句子的意思，\n從三張圖片中選出與句子意思相符的圖片。",
+   "instructionsEn": "Directions: In this part of the test, each test item will include one sentence and three pictures (A), (B), and (C). Please choose the picture that best describes the sentence.",
+   "page": 3,
+   "from": 1,
+   "to": 15,
+   "grouped": false
+  },
+  {
+   "title": "第二部分",
+   "subtitle": "Part Two",
+   "instructions": "說明：在這個部分，你會看到一張圖片。請根據圖片，從(A)(B)(C)三個選項中選\n出與圖片內容相符的句子。",
+   "instructionsEn": "Directions: In this test part, each test item will show a picture. Please choose the single best description from answers (A), (B), or (C).",
+   "page": 7,
+   "from": 16,
+   "to": 30,
+   "grouped": false
+  },
+  {
+   "title": "第三部分",
+   "subtitle": "Part Three",
+   "instructions": "說明：在這個部分，每個題組會有一張情境圖片，圖片下面有五個句子，請根據圖\n片情境，選出最合適的答案。",
+   "instructionsEn": "Directions: This test part is divided into sections. Each section has one picture and five sentences. Please choose the answers that best describe each picture.",
+   "page": 12,
+   "from": 31,
+   "to": 40,
+   "grouped": false
+  },
+  {
+   "title": "第四部分",
+   "subtitle": "Part Four",
+   "instructions": "說明：在這個部分，你會看到一段短文，短文中有五個空格，短文下方有六個選項。\n請根據短文的上下文，選出最適合該空格的答案。注意，一個選項只能用一\n次。",
+   "instructionsEn": "Directions: In this test part, you will read a short passage. The passage has five blank spaces. Six possible answers for the blank spaces are provided under the passage. Please choose the best answer for each blank. Note that each answer can only be used for one blank space.",
+   "page": 15,
+   "from": 41,
+   "to": 45,
+   "grouped": false
+  },
+  {
+   "title": "第五部分",
+   "subtitle": "Part Five",
+   "instructions": "說明：在這個部分，你會看到幾篇短文，每一篇短文後面都有一個問題，請根據短\n文的內容回答問題。",
+   "instructionsEn": "Directions: In this test part, you will read several passages. Each passage will be followed by a question. Please choose the correct answer according to the passage.",
+   "page": 17,
+   "from": 46,
+   "to": 50,
+   "grouped": false
+  }
+ ],
+ "questions": [
+  {
+   "n": 1,
+   "page": 4,
+   "stem": "桌子上放著三種水果。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q1.webp",
+   "showCrop": true,
+   "cropGap": 99,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 2,
+   "page": 4,
+   "stem": "老王正畫著小天的臉。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q2.webp",
+   "showCrop": true,
+   "cropGap": 98,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 3,
+   "page": 4,
+   "stem": "他的房間很乾淨。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q3.webp",
+   "showCrop": true,
+   "cropGap": 99,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 4,
+   "page": 4,
+   "stem": "王小明把李天華三個字寫在紙上。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q4.webp",
+   "showCrop": true,
+   "cropGap": 99,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 5,
+   "page": 4,
+   "stem": "志明什麼球都玩，但是最喜歡玩足球。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q5.webp",
+   "showCrop": true,
+   "cropGap": 146,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 6,
+   "page": 5,
+   "stem": "小心！你杯子裡的水快要滿了！",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q6.webp",
+   "showCrop": true,
+   "cropGap": 99,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 7,
+   "page": 5,
+   "stem": "過了前面的路口，再往前走一會兒就到醫院了。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q7.webp",
+   "showCrop": true,
+   "cropGap": 99,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 8,
+   "page": 5,
+   "stem": "我平常都六點起床，可是今天晚了半小時。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q8.webp",
+   "showCrop": true,
+   "cropGap": 99,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 9,
+   "page": 5,
+   "stem": "張先生開車的時候喜歡聽音樂。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q9.webp",
+   "showCrop": true,
+   "cropGap": 99,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 10,
+   "page": 5,
+   "stem": "這幾天晚上的風好大。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q10.webp",
+   "showCrop": true,
+   "cropGap": 146,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 11,
+   "page": 6,
+   "stem": "妹妹看完信以後，心情很愉快。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q11.webp",
+   "showCrop": true,
+   "cropGap": 103,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 12,
+   "page": 6,
+   "stem": "我們全家下個月就要搬到院子裡有大樹的房子住了。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q12.webp",
+   "showCrop": true,
+   "cropGap": 100,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 13,
+   "page": 6,
+   "stem": "因為媽媽怕高，所以沒和爸爸一起爬過山。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q13.webp",
+   "showCrop": true,
+   "cropGap": 100,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 14,
+   "page": 6,
+   "stem": "他們約好下課以後，先在學校門口見面，再一起去打球。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q14.webp",
+   "showCrop": true,
+   "cropGap": 99,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 15,
+   "page": 6,
+   "stem": "小美和朋友想到百貨公司買帽子，可是最後只買了點心就離開了。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "crop": "q15.webp",
+   "showCrop": true,
+   "cropGap": 138,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": null
+  },
+  {
+   "n": 16,
+   "page": 8,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "小狗正追著小貓。"
+    },
+    {
+     "label": "B",
+     "text": "屋子裡面什麼都沒有。"
+    },
+    {
+     "label": "C",
+     "text": "幾隻小鳥停在屋子上面。"
+    }
+   ],
+   "crop": "q16.webp",
+   "showCrop": false,
+   "cropGap": 37,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 17,
+   "page": 8,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "這裡有樹和一間房子。"
+    },
+    {
+     "label": "B",
+     "text": "房子的前面停了幾輛車。"
+    },
+    {
+     "label": "C",
+     "text": "有一些人站在房子旁邊。"
+    }
+   ],
+   "crop": "q17.webp",
+   "showCrop": false,
+   "cropGap": 37,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 18,
+   "page": 8,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "她正在休息。"
+    },
+    {
+     "label": "B",
+     "text": "她在床上睡覺。"
+    },
+    {
+     "label": "C",
+     "text": "她正寫著作業。"
+    }
+   ],
+   "crop": "q18.webp",
+   "showCrop": false,
+   "cropGap": 37,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 19,
+   "page": 8,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "短頭髮的小姐在喝酒。"
+    },
+    {
+     "label": "B",
+     "text": "長頭髮的小姐穿裙子。"
+    },
+    {
+     "label": "C",
+     "text": "穿裙子的小姐拿著皮包。"
+    }
+   ],
+   "crop": "q19.webp",
+   "showCrop": false,
+   "cropGap": 37,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 20,
+   "page": 8,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "小吃店九點以前休息。"
+    },
+    {
+     "label": "B",
+     "text": "小吃店十二點開始休息。"
+    },
+    {
+     "label": "C",
+     "text": "十二點以後可以去小吃店吃飯。"
+    }
+   ],
+   "crop": "q20.webp",
+   "showCrop": true,
+   "cropGap": 98,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 21,
+   "page": 9,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "一天吃三粒。"
+    },
+    {
+     "label": "B",
+     "text": "三天吃一次。"
+    },
+    {
+     "label": "C",
+     "text": "先吃飯再吃藥。"
+    }
+   ],
+   "crop": "q21.webp",
+   "showCrop": true,
+   "cropGap": 108,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 22,
+   "page": 9,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "中午以後買票比較貴。"
+    },
+    {
+     "label": "B",
+     "text": "上午買兩張票要 500 元。"
+    },
+    {
+     "label": "C",
+     "text": "想看電影要中午以後才行。"
+    }
+   ],
+   "crop": "q22.webp",
+   "showCrop": true,
+   "cropGap": 93,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 23,
+   "page": 9,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "教室的門是關著的。"
+    },
+    {
+     "label": "B",
+     "text": "這位老師今天穿裙子。"
+    },
+    {
+     "label": "C",
+     "text": "這位老師的頭髮短短的。"
+    }
+   ],
+   "crop": "q23.webp",
+   "showCrop": true,
+   "cropGap": 135,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 24,
+   "page": 10,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "他們現在正在上課。"
+    },
+    {
+     "label": "B",
+     "text": "他們從學校走出來。"
+    },
+    {
+     "label": "C",
+     "text": "男孩走在女孩的前面。"
+    }
+   ],
+   "crop": "q24.webp",
+   "showCrop": false,
+   "cropGap": 37,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 25,
+   "page": 10,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "這家餐廳不賣飲料。"
+    },
+    {
+     "label": "B",
+     "text": "餐廳裡一個人都沒有。"
+    },
+    {
+     "label": "C",
+     "text": "這位女客人買了兩杯果汁。"
+    }
+   ],
+   "crop": "q25.webp",
+   "showCrop": false,
+   "cropGap": 37,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 26,
+   "page": 10,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "小美下午三點多才到旅館。"
+    },
+    {
+     "label": "B",
+     "text": "在這兒住一晚要兩百多塊。"
+    },
+    {
+     "label": "C",
+     "text": "小美帶了好幾件大的行李。"
+    }
+   ],
+   "crop": "q26.webp",
+   "showCrop": false,
+   "cropGap": 37,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 27,
+   "page": 10,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "那位男生正在賣麵包。"
+    },
+    {
+     "label": "B",
+     "text": "等車的小姐拿著一袋水果。"
+    },
+    {
+     "label": "C",
+     "text": "有一位小姐在等七十六號公車。"
+    }
+   ],
+   "crop": "q27.webp",
+   "showCrop": false,
+   "cropGap": 37,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 28,
+   "page": 10,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "王小姐買了三雙鞋子。"
+    },
+    {
+     "label": "B",
+     "text": "這家店只賣鞋子和襪子。"
+    },
+    {
+     "label": "C",
+     "text": "這家店也賣褲子和皮包。"
+    }
+   ],
+   "crop": "q28.webp",
+   "showCrop": true,
+   "cropGap": 94,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 29,
+   "page": 11,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "李天明教台北人英文。"
+    },
+    {
+     "label": "B",
+     "text": "李天明要找外國人學英文。"
+    },
+    {
+     "label": "C",
+     "text": "李天明覺得學中文很便宜。"
+    }
+   ],
+   "crop": "q29.webp",
+   "showCrop": true,
+   "cropGap": 208,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 30,
+   "page": 11,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "兩個人一起去,就有紅茶可以喝。"
+    },
+    {
+     "label": "B",
+     "text": "一個人不到兩萬就可以去韓國旅行。"
+    },
+    {
+     "label": "C",
+     "text": "三個人一起去的話，一共可以少給 1000 元。"
+    }
+   ],
+   "crop": "q30.webp",
+   "showCrop": true,
+   "cropGap": 203,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": null
+  },
+  {
+   "n": 31,
+   "page": 13,
+   "stem": "著眼鏡的小女孩在看書。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "穿"
+    },
+    {
+     "label": "B",
+     "text": "帶"
+    },
+    {
+     "label": "C",
+     "text": "戴"
+    }
+   ],
+   "crop": "q31.webp",
+   "showCrop": false,
+   "cropGap": 14,
+   "answer": "C",
+   "gradable": true,
+   "part": 2,
+   "group": null
+  },
+  {
+   "n": 32,
+   "page": 13,
+   "stem": "她一邊看書，一邊 筷子吃麵。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "帶"
+    },
+    {
+     "label": "B",
+     "text": "用"
+    },
+    {
+     "label": "C",
+     "text": "找"
+    }
+   ],
+   "crop": "q32.webp",
+   "showCrop": false,
+   "cropGap": 14,
+   "answer": "B",
+   "gradable": true,
+   "part": 2,
+   "group": null
+  },
+  {
+   "n": 33,
+   "page": 13,
+   "stem": "那個小女孩 有一隻狗。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "旁邊"
+    },
+    {
+     "label": "B",
+     "text": "前邊"
+    },
+    {
+     "label": "C",
+     "text": "後邊"
+    }
+   ],
+   "crop": "q33.webp",
+   "showCrop": false,
+   "cropGap": 14,
+   "answer": "A",
+   "gradable": true,
+   "part": 2,
+   "group": null
+  },
+  {
+   "n": 34,
+   "page": 13,
+   "stem": "那隻狗 睡覺。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "在"
+    },
+    {
+     "label": "B",
+     "text": "要"
+    },
+    {
+     "label": "C",
+     "text": "是"
+    }
+   ],
+   "crop": "q34.webp",
+   "showCrop": false,
+   "cropGap": 14,
+   "answer": "A",
+   "gradable": true,
+   "part": 2,
+   "group": null
+  },
+  {
+   "n": 35,
+   "page": 13,
+   "stem": "小女孩 小狗是好朋友。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "有"
+    },
+    {
+     "label": "B",
+     "text": "跟"
+    },
+    {
+     "label": "C",
+     "text": "一起"
+    }
+   ],
+   "crop": "q35.webp",
+   "showCrop": false,
+   "cropGap": 36,
+   "answer": "B",
+   "gradable": true,
+   "part": 2,
+   "group": null
+  },
+  {
+   "n": 36,
+   "page": 14,
+   "stem": "九月五日是小女孩的 。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "生活"
+    },
+    {
+     "label": "B",
+     "text": "生日"
+    },
+    {
+     "label": "C",
+     "text": "星期日"
+    }
+   ],
+   "crop": "q36.webp",
+   "showCrop": false,
+   "cropGap": 14,
+   "answer": "B",
+   "gradable": true,
+   "part": 2,
+   "group": null
+  },
+  {
+   "n": 37,
+   "page": 14,
+   "stem": "大家都 她慶祝。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "幫"
+    },
+    {
+     "label": "B",
+     "text": "讓"
+    },
+    {
+     "label": "C",
+     "text": "對"
+    }
+   ],
+   "crop": "q37.webp",
+   "showCrop": false,
+   "cropGap": 14,
+   "answer": "A",
+   "gradable": true,
+   "part": 2,
+   "group": null
+  },
+  {
+   "n": 38,
+   "page": 14,
+   "stem": "她 到很多禮物。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "收"
+    },
+    {
+     "label": "B",
+     "text": "寄"
+    },
+    {
+     "label": "C",
+     "text": "借"
+    }
+   ],
+   "crop": "q38.webp",
+   "showCrop": false,
+   "cropGap": 14,
+   "answer": "A",
+   "gradable": true,
+   "part": 2,
+   "group": null
+  },
+  {
+   "n": 39,
+   "page": 14,
+   "stem": "所以，她今天非常 。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "熱鬧"
+    },
+    {
+     "label": "B",
+     "text": "舒服"
+    },
+    {
+     "label": "C",
+     "text": "高興"
+    }
+   ],
+   "crop": "q39.webp",
+   "showCrop": false,
+   "cropGap": 14,
+   "answer": "C",
+   "gradable": true,
+   "part": 2,
+   "group": null
+  },
+  {
+   "n": 40,
+   "page": 14,
+   "stem": "她希望明年能 德國去玩。",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "到"
+    },
+    {
+     "label": "B",
+     "text": "去"
+    },
+    {
+     "label": "C",
+     "text": "來"
+    }
+   ],
+   "crop": "q40.webp",
+   "showCrop": false,
+   "cropGap": 36,
+   "answer": "A",
+   "gradable": true,
+   "part": 2,
+   "group": null
+  },
+  {
+   "n": 41,
+   "page": 16,
+   "stem": "（41）",
+   "context": "昨天晚上我覺得很不舒服，（41），所以很早就睡覺了。今天早上起來，（42）。我去看病，醫生說我感冒了，給了我一些藥，（43）要多休息，多喝水，才會快點好。這幾天的天氣一會兒熱，一會兒冷，（44）。我要\n（45），不要再感冒了。",
+   "options": [
+    {
+     "label": "A",
+     "text": "還告訴我"
+    },
+    {
+     "label": "B",
+     "text": "頭有點兒痛"
+    },
+    {
+     "label": "C",
+     "text": "很容易生病"
+    },
+    {
+     "label": "D",
+     "text": "覺得很舒服"
+    },
+    {
+     "label": "E",
+     "text": "更不舒服了"
+    },
+    {
+     "label": "F",
+     "text": "多注意自己的身體"
+    }
+   ],
+   "crop": "q41.webp",
+   "showCrop": false,
+   "cloze": true,
+   "groupLead": 41,
+   "answer": "B",
+   "gradable": true,
+   "part": 3,
+   "group": null
+  },
+  {
+   "n": 42,
+   "page": 16,
+   "stem": "（42）",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "還告訴我"
+    },
+    {
+     "label": "B",
+     "text": "頭有點兒痛"
+    },
+    {
+     "label": "C",
+     "text": "很容易生病"
+    },
+    {
+     "label": "D",
+     "text": "覺得很舒服"
+    },
+    {
+     "label": "E",
+     "text": "更不舒服了"
+    },
+    {
+     "label": "F",
+     "text": "多注意自己的身體"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cloze": true,
+   "groupLead": 41,
+   "answer": "E",
+   "gradable": true,
+   "part": 3,
+   "group": null
+  },
+  {
+   "n": 43,
+   "page": 16,
+   "stem": "（43）",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "還告訴我"
+    },
+    {
+     "label": "B",
+     "text": "頭有點兒痛"
+    },
+    {
+     "label": "C",
+     "text": "很容易生病"
+    },
+    {
+     "label": "D",
+     "text": "覺得很舒服"
+    },
+    {
+     "label": "E",
+     "text": "更不舒服了"
+    },
+    {
+     "label": "F",
+     "text": "多注意自己的身體"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cloze": true,
+   "groupLead": 41,
+   "answer": "A",
+   "gradable": true,
+   "part": 3,
+   "group": null
+  },
+  {
+   "n": 44,
+   "page": 16,
+   "stem": "（44）",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "還告訴我"
+    },
+    {
+     "label": "B",
+     "text": "頭有點兒痛"
+    },
+    {
+     "label": "C",
+     "text": "很容易生病"
+    },
+    {
+     "label": "D",
+     "text": "覺得很舒服"
+    },
+    {
+     "label": "E",
+     "text": "更不舒服了"
+    },
+    {
+     "label": "F",
+     "text": "多注意自己的身體"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cloze": true,
+   "groupLead": 41,
+   "answer": "C",
+   "gradable": true,
+   "part": 3,
+   "group": null
+  },
+  {
+   "n": 45,
+   "page": 16,
+   "stem": "（45）",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "還告訴我"
+    },
+    {
+     "label": "B",
+     "text": "頭有點兒痛"
+    },
+    {
+     "label": "C",
+     "text": "很容易生病"
+    },
+    {
+     "label": "D",
+     "text": "覺得很舒服"
+    },
+    {
+     "label": "E",
+     "text": "更不舒服了"
+    },
+    {
+     "label": "F",
+     "text": "多注意自己的身體"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cloze": true,
+   "groupLead": 41,
+   "answer": "F",
+   "gradable": true,
+   "part": 3,
+   "group": null
+  },
+  {
+   "n": 46,
+   "page": 18,
+   "stem": "這篇文章說了什麼內容？",
+   "context": "（一）\n曾有一項調查發現，很多員工生病的時候不敢請假，因為他們擔心老闆會不高興，覺得他們沒有責任感。有人認為，員工會這麼想是公司的責任。一個好的公司應該能照顧員工，而不是讓他們拿健康去換錢。因此，讓員工有幸福感，應該是未來企業努力的方向。",
+   "options": [
+    {
+     "label": "A",
+     "text": "老闆應該給員工多一點兒假"
+    },
+    {
+     "label": "B",
+     "text": "常關心別人的人更有責任感"
+    },
+    {
+     "label": "C",
+     "text": "對公司有意見要勇敢說出來"
+    },
+    {
+     "label": "D",
+     "text": "照顧身體比認真工作更重要"
+    }
+   ],
+   "crop": "q46.webp",
+   "showCrop": false,
+   "cropGap": 116,
+   "answer": "D",
+   "gradable": true,
+   "part": 4,
+   "group": null
+  },
+  {
+   "n": 47,
+   "page": 18,
+   "stem": "在改善健康方面，下面哪一個是作者的建議？",
+   "context": "（二）\n如果你每天都覺得身體很累，有一份報告或許可以告訴你原因。這份報告提到了下面幾種可能：不愛運動、水喝得不夠多、總是把事情想得太壞、不吃早餐、吃太多沒營養的食物等。以上幾點，只要簡單思考一下自己符合了幾項，再試著做出一些改變，想讓自己更健康一點也不難。",
+   "options": [
+    {
+     "label": "A",
+     "text": "要培養運動的好習慣"
+    },
+    {
+     "label": "B",
+     "text": "想要吃什麼就吃什麼"
+    },
+    {
+     "label": "C",
+     "text": "平常應該多做點好事"
+    },
+    {
+     "label": "D",
+     "text": "吃早餐以後不要喝水"
+    }
+   ],
+   "crop": "q47.webp",
+   "showCrop": false,
+   "cropGap": 145,
+   "answer": "A",
+   "gradable": true,
+   "part": 4,
+   "group": null
+  },
+  {
+   "n": 48,
+   "page": 19,
+   "stem": "這個故事告訴了我們什麼事？",
+   "context": "（三）\n從前有一個地方很久都不下雨，人們不管怎麼求雨都沒有用。有一次，他們從很遠的地方，請來一位有智慧的老人，希望他可以幫幫忙。老人在附近走了走、看了看，然後告訴他們，請蓋一間小屋，讓他住進去三天，三天當中，他任何人都不見。結果，三天後真的下雨了。大家都問他是怎麼做到的，他只回答，只要自己的心安靜了，外面就安靜了，所以下雨了。",
+   "options": [
+    {
+     "label": "A",
+     "text": "先照顧自己，才能幫助別人"
+    },
+    {
+     "label": "B",
+     "text": "想改變環境，就先改變心情"
+    },
+    {
+     "label": "C",
+     "text": "年輕人應該要學會尊敬老人"
+    },
+    {
+     "label": "D",
+     "text": "聰明的人知道什麼時候下雨"
+    }
+   ],
+   "crop": "q48.webp",
+   "showCrop": false,
+   "cropGap": 136,
+   "answer": "B",
+   "gradable": true,
+   "part": 4,
+   "group": null
+  },
+  {
+   "n": 49,
+   "page": 19,
+   "stem": "這段話說了下面哪件事？",
+   "context": "（四）\n說到錢，每個人對它的想法、使用方式和重視程度都不一樣。有人說：「錢是沒有性格的，它在誰的手上就像誰」。這句話說得很有道理，人們因為對錢的看法不同，而選擇不同的生活方式。比方說，有的人喜歡看到銀行裡的數字不斷增加，所以每天努力工作，很少花錢；有的人覺得錢只要夠用就好，不必太在意工作，因為「自己的時間」，也是一種看不到的「錢」。",
+   "options": [
+    {
+     "label": "A",
+     "text": "錢比什麼都重要"
+    },
+    {
+     "label": "B",
+     "text": "錢可以解決所有事情"
+    },
+    {
+     "label": "C",
+     "text": "人人有自己對錢的看法"
+    },
+    {
+     "label": "D",
+     "text": "錢得放在銀行裡才有價值"
+    }
+   ],
+   "crop": "q49.webp",
+   "showCrop": false,
+   "cropGap": 75,
+   "answer": "C",
+   "gradable": true,
+   "part": 4,
+   "group": null
+  },
+  {
+   "n": 50,
+   "page": 20,
+   "stem": "作者對在電影院裡吃東西的行為怎麼看？",
+   "context": "（五）\n以前，電影院的門口常常出現一個牌子，要觀眾別帶外面買的食物進去，如果想吃東西，只能買電影院裡賣的食物。後來，新聞說，觀眾其實可以拒絕配合這些電影院的規矩。說到這個問題，我認為，電影院的要求不是沒有道理，因為電影結束以後，他們還得打掃那些垃圾。其次，如果有人帶了一些有奇怪味道的食物進電影院，也很容易影響其他看電影的人。",
+   "options": [
+    {
+     "label": "A",
+     "text": "應該要避免吃有特別味道的東西"
+    },
+    {
+     "label": "B",
+     "text": "覺得吃什麼東西都是個人的自由"
+    },
+    {
+     "label": "C",
+     "text": "認為電影院的要求沒有任何道理"
+    },
+    {
+     "label": "D",
+     "text": "看電影的人都有責任要打掃垃圾"
+    }
+   ],
+   "crop": "q50.webp",
+   "showCrop": false,
+   "cropGap": 468,
+   "answer": "A",
+   "gradable": true,
+   "part": 4,
+   "group": null
+  }
+ ],
+ "audio": null,
+ "fullScript": null,
+ "optionCount": 3
+}

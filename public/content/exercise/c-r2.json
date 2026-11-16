@@ -1,0 +1,1591 @@
+{
+ "id": "c-r2",
+ "band": "c",
+ "skill": "reading",
+ "series": 2,
+ "title": "Band C Reading · Series 2",
+ "source": {
+  "folder": "4. TOCFL Band C/Reading",
+  "booklet": "2. TOCFL Reading Band C.pdf",
+  "answer": "2. TOCFL Reading Answer Band C.pdf",
+  "script": null
+ },
+ "timeMinutes": null,
+ "parts": [
+  {
+   "title": "一、選詞填空",
+   "subtitle": "",
+   "instructions": "說明：在這一部分，每一段短文有幾個空格，每個空格有四個選\n項，請選出正確的答案完成短文。",
+   "instructionsEn": "",
+   "page": 3,
+   "from": 1,
+   "to": 16,
+   "grouped": true
+  },
+  {
+   "title": "二、閱讀理解",
+   "subtitle": "",
+   "instructions": "說明：在這一部分，請閱讀材料或短文，並根據內容回答幾個問\n題。",
+   "instructionsEn": "",
+   "page": 8,
+   "from": 17,
+   "to": 50,
+   "grouped": true
+  }
+ ],
+ "questions": [
+  {
+   "n": 1,
+   "page": 4,
+   "stem": "",
+   "context": "（一）\n人之所以冒險，主要有兩種動力：第一種是當追求基本的生存需求都倍感 1 ，漸漸走向窮途末路， 2 冒險突破目前的困境時，這屬於「對抗現實」的動力。 3 當年的祖先，離鄉背井，橫渡驚險的海峽到另一邊陌生的土地上，那樣的冒險無疑是\n4 ；第二種冒險則完全相反，當人在生活飽暖、安定時，便會有 5 去尋找人生不凡的價值，為實踐自己的夢想而冒險，這屬於「自我實現」的動力。",
+   "options": [
+    {
+     "label": "A",
+     "text": "費力"
+    },
+    {
+     "label": "B",
+     "text": "致力"
+    },
+    {
+     "label": "C",
+     "text": "盡力"
+    },
+    {
+     "label": "D",
+     "text": "努力"
+    }
+   ],
+   "crop": "q1.webp",
+   "showCrop": false,
+   "cropGap": 39,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 2,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "格外"
+    },
+    {
+     "label": "B",
+     "text": "非得"
+    },
+    {
+     "label": "C",
+     "text": "毫不"
+    },
+    {
+     "label": "D",
+     "text": "依舊"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 21,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 3,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "一如"
+    },
+    {
+     "label": "B",
+     "text": "倘若"
+    },
+    {
+     "label": "C",
+     "text": "即是"
+    },
+    {
+     "label": "D",
+     "text": "之所以"
+    }
+   ],
+   "crop": "q3.webp",
+   "showCrop": false,
+   "cropGap": 21,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 4,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "不安於室"
+    },
+    {
+     "label": "B",
+     "text": "九死一生"
+    },
+    {
+     "label": "C",
+     "text": "安然無恙"
+    },
+    {
+     "label": "D",
+     "text": "抵死不從"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 21,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 5,
+   "page": 4,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "心事"
+    },
+    {
+     "label": "B",
+     "text": "心態"
+    },
+    {
+     "label": "C",
+     "text": "心思"
+    },
+    {
+     "label": "D",
+     "text": "心胸"
+    }
+   ],
+   "crop": "q5.webp",
+   "showCrop": false,
+   "cropGap": 151,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": "g1"
+  },
+  {
+   "n": 6,
+   "page": 5,
+   "stem": "",
+   "context": "（二）\n對許多人來說，揮灑藝術的過程應是無所拘束、 6 的，但在紙雕的世界裡，每個摺痕、下刀位置都得經過精確的計算、\n7 的思量。試想，以紙張做出一架工整的立體鋼琴，難免涉及平衡、架構等概念，計算 8 不可免，紙雕專家馬克斯將之稱為「紙雕工程學」。他認為：「紙雕好比鑽石，一件成品可謂科學與藝術的 9 ，除摺痕要算得精準，刻畫、打磨皆有功夫所在。」\n10 ，想在紙上創造美學玩物，其實談何容易。",
+   "options": [
+    {
+     "label": "A",
+     "text": "鉅細靡遺"
+    },
+    {
+     "label": "B",
+     "text": "無可限量"
+    },
+    {
+     "label": "C",
+     "text": "隨心所欲"
+    },
+    {
+     "label": "D",
+     "text": "斤斤計較"
+    }
+   ],
+   "crop": "q6.webp",
+   "showCrop": false,
+   "cropGap": 37,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": "g6"
+  },
+  {
+   "n": 7,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "均勻"
+    },
+    {
+     "label": "B",
+     "text": "精幹"
+    },
+    {
+     "label": "C",
+     "text": "約略"
+    },
+    {
+     "label": "D",
+     "text": "縝密"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 21,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g6"
+  },
+  {
+   "n": 8,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "怎"
+    },
+    {
+     "label": "B",
+     "text": "卻"
+    },
+    {
+     "label": "C",
+     "text": "必"
+    },
+    {
+     "label": "D",
+     "text": "竟"
+    }
+   ],
+   "crop": "q8.webp",
+   "showCrop": false,
+   "cropGap": 21,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": "g6"
+  },
+  {
+   "n": 9,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "結晶"
+    },
+    {
+     "label": "B",
+     "text": "瑕疵"
+    },
+    {
+     "label": "C",
+     "text": "藩籬"
+    },
+    {
+     "label": "D",
+     "text": "包袱"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 21,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g6"
+  },
+  {
+   "n": 10,
+   "page": 5,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "何況"
+    },
+    {
+     "label": "B",
+     "text": "可見"
+    },
+    {
+     "label": "C",
+     "text": "另外"
+    },
+    {
+     "label": "D",
+     "text": "不然"
+    }
+   ],
+   "crop": "q10.webp",
+   "showCrop": false,
+   "cropGap": 154,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g6"
+  },
+  {
+   "n": 11,
+   "page": 6,
+   "stem": "",
+   "context": "（三）\n有人認定，在生物死亡一瞬，靈魂會離開 11 。1907 年，美國麻州一名醫生提出了「靈魂有其重量」的假設，為進一步給出有力的 12 ，他自行秤量並觀察了六位瀕死病患， 13 得出人死後的重量確實比生前還要輕的結論。他 14 將實驗結果發表於《紐約時報》、《美國醫學》期刊中，但其理論也很快就被推翻了。\n15 的類似實驗均表明，人死時，重量並不會削減，21 公克的發現乃是測量誤差所 16 。儘管學界判定該研究不足採信，不過可以確定的是，靈魂重量之說至今已然廣為流傳，甚至被拍成電影《21公克》。",
+   "options": [
+    {
+     "label": "A",
+     "text": "肺腑"
+    },
+    {
+     "label": "B",
+     "text": "體魄"
+    },
+    {
+     "label": "C",
+     "text": "軀殼"
+    },
+    {
+     "label": "D",
+     "text": "骨肉"
+    }
+   ],
+   "crop": "q11.webp",
+   "showCrop": false,
+   "cropGap": 39,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": "g11"
+  },
+  {
+   "n": 12,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "佐證"
+    },
+    {
+     "label": "B",
+     "text": "見證"
+    },
+    {
+     "label": "C",
+     "text": "旁證"
+    },
+    {
+     "label": "D",
+     "text": "指證"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 21,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g11"
+  },
+  {
+   "n": 13,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "再則"
+    },
+    {
+     "label": "B",
+     "text": "既而"
+    },
+    {
+     "label": "C",
+     "text": "基於"
+    },
+    {
+     "label": "D",
+     "text": "即便"
+    }
+   ],
+   "crop": "q13.webp",
+   "showCrop": false,
+   "cropGap": 21,
+   "answer": "B",
+   "gradable": true,
+   "part": 0,
+   "group": "g11"
+  },
+  {
+   "n": 14,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "旋即"
+    },
+    {
+     "label": "B",
+     "text": "驟然"
+    },
+    {
+     "label": "C",
+     "text": "暫且"
+    },
+    {
+     "label": "D",
+     "text": "剎那"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 21,
+   "answer": "A",
+   "gradable": true,
+   "part": 0,
+   "group": "g11"
+  },
+  {
+   "n": 15,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "南轅北轍"
+    },
+    {
+     "label": "B",
+     "text": "川流不息"
+    },
+    {
+     "label": "C",
+     "text": "錦上添花"
+    },
+    {
+     "label": "D",
+     "text": "接踵而至"
+    }
+   ],
+   "crop": "q15.webp",
+   "showCrop": false,
+   "cropGap": 128,
+   "answer": "D",
+   "gradable": true,
+   "part": 0,
+   "group": "g11"
+  },
+  {
+   "n": 16,
+   "page": 6,
+   "stem": "",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "歸"
+    },
+    {
+     "label": "B",
+     "text": "料"
+    },
+    {
+     "label": "C",
+     "text": "致"
+    },
+    {
+     "label": "D",
+     "text": "及"
+    }
+   ],
+   "crop": null,
+   "showCrop": false,
+   "cropGap": 128,
+   "answer": "C",
+   "gradable": true,
+   "part": 0,
+   "group": "g11"
+  },
+  {
+   "n": 17,
+   "page": 9,
+   "stem": "這些學校在忙些什麼？",
+   "context": "（一）\n在今天的博覽會會場，各校無不絞盡腦汁、祭出各項優惠，全力延攬一流學生前來就讀。有的推出免學雜費優待，有的提供免費住宿，更有不少學校祭出高額獎學金以吸引學生青睞。在眾強環伺之下，某家大學竟喊出「畢業給兩百萬出國念書」的重賞。先不論這個獎項背後的給獎細節，眼尖的人已發現，獎學金喊得愈高，獲得媒體報導的新聞版面就愈大，不管學生最後有沒有來，學校已爭取到曝光的機會。",
+   "options": [
+    {
+     "label": "A",
+     "text": "爭取獎學金"
+    },
+    {
+     "label": "B",
+     "text": "招收好學生"
+    },
+    {
+     "label": "C",
+     "text": "爭取教育補助費"
+    },
+    {
+     "label": "D",
+     "text": "送學生出國念書"
+    }
+   ],
+   "crop": "q17.webp",
+   "showCrop": false,
+   "cropGap": 23,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g17"
+  },
+  {
+   "n": 18,
+   "page": 9,
+   "stem": "根據本文，下列哪一個因素最能吸引媒體注意？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "學校的知名度"
+    },
+    {
+     "label": "B",
+     "text": "招收學生的多寡"
+    },
+    {
+     "label": "C",
+     "text": "學校提供的優惠"
+    },
+    {
+     "label": "D",
+     "text": "學校的評鑑結果"
+    }
+   ],
+   "crop": "q18.webp",
+   "showCrop": false,
+   "cropGap": 300,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g17"
+  },
+  {
+   "n": 19,
+   "page": 10,
+   "stem": "葉林的兒子就讀小學，最近騎腳踏車摔倒骨折，葉林想要幫他 兒子申請一份病歷影本，請問他要怎麼做？",
+   "context": "（二）",
+   "options": [
+    {
+     "label": "A",
+     "text": "可以直接從網路提出申請"
+    },
+    {
+     "label": "B",
+     "text": "拿自己的身分證明去申請"
+    },
+    {
+     "label": "C",
+     "text": "讓兒子簽好委託書即可辦理"
+    },
+    {
+     "label": "D",
+     "text": "須和兒子同時到醫院櫃檯辦理"
+    }
+   ],
+   "crop": "q19.webp",
+   "showCrop": true,
+   "cropGap": 365,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g19"
+  },
+  {
+   "n": 20,
+   "page": 10,
+   "stem": "小趙出車禍昏迷，他太太秀如想為他申請一份病歷影本，請問 秀如要準備哪些文件？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "小趙的身分證、圖章及簽名文件"
+    },
+    {
+     "label": "B",
+     "text": "秀如自己的身分證、圖章及一份委託同意書"
+    },
+    {
+     "label": "C",
+     "text": "小趙父母和秀如的身分證、圖章及小趙簽名的同意書"
+    },
+    {
+     "label": "D",
+     "text": "小趙家的戶口名簿、小趙和秀如的圖章及委託同意書"
+    }
+   ],
+   "crop": "q20.webp",
+   "showCrop": true,
+   "cropGap": 81,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g19"
+  },
+  {
+   "n": 21,
+   "page": 11,
+   "stem": "這封信主要在向客戶推薦什麼項目？",
+   "context": "（三）",
+   "options": [
+    {
+     "label": "A",
+     "text": "代繳服務"
+    },
+    {
+     "label": "B",
+     "text": "貸款申請"
+    },
+    {
+     "label": "C",
+     "text": "跨行繳費功能"
+    },
+    {
+     "label": "D",
+     "text": "簡訊帳單通知"
+    }
+   ],
+   "crop": "q21.webp",
+   "showCrop": true,
+   "cropGap": 248,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 22,
+   "page": 11,
+   "stem": "若小華想辦理該業務，他要注意什麼事情？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "每月要自行索取收據"
+    },
+    {
+     "label": "B",
+     "text": "每月要定期到金融機構繳款"
+    },
+    {
+     "label": "C",
+     "text": "繳款期限前要確定戶頭裡有錢"
+    },
+    {
+     "label": "D",
+     "text": "約定書上不能用轉帳帳戶的印章"
+    }
+   ],
+   "crop": "q22.webp",
+   "showCrop": true,
+   "cropGap": 238,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g21"
+  },
+  {
+   "n": 23,
+   "page": 12,
+   "stem": "根據本文，從前富裕國家的勞工，為什麼能拿到不錯的薪水？",
+   "context": "（四）\n麻省理工學院的梭羅教授指出，在過去，無論是否擁有專門技術，只要生在富裕國家的人，就能拿到較高的薪水。這是由於過去的經濟環境較封閉，當國內找不到人手，即使是技術不足的勞工，也能要求高薪資。然而在全球化的時代，國內缺乏勞工，可轉而從海外引進，如此一來，低技術的工作機會便轉移到海外其他國家。於是，富裕國家中那些缺乏專業技術的勞工，就得面臨薪資下降甚至失業的危機。在這種情況下，多半富裕國家會透過社會福利制度提供補助，以幫助弱勢勞工，不過這也會大幅增加財政支出，對國家造成不小的負擔。",
+   "options": [
+    {
+     "label": "A",
+     "text": "可以領社會補助金"
+    },
+    {
+     "label": "B",
+     "text": "國內勞工數量不足"
+    },
+    {
+     "label": "C",
+     "text": "可以到國外找工作"
+    },
+    {
+     "label": "D",
+     "text": "普遍都有專門技術"
+    }
+   ],
+   "crop": "q23.webp",
+   "showCrop": false,
+   "cropGap": 21,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g23"
+  },
+  {
+   "n": 24,
+   "page": 12,
+   "stem": "本文提到的失業危機，是發生在哪一種勞工身上？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "海外技術不足的勞工"
+    },
+    {
+     "label": "B",
+     "text": "海外具專業技術的勞工"
+    },
+    {
+     "label": "C",
+     "text": "富裕國家內技術不足的勞工"
+    },
+    {
+     "label": "D",
+     "text": "富裕國家內具專業技術的勞工"
+    }
+   ],
+   "crop": "q24.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g23"
+  },
+  {
+   "n": 25,
+   "page": 12,
+   "stem": "本文主要在說什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "海外勞工如何爭取補助"
+    },
+    {
+     "label": "B",
+     "text": "如何提高勞工的專業技術"
+    },
+    {
+     "label": "C",
+     "text": "全球化如何影響勞工生計"
+    },
+    {
+     "label": "D",
+     "text": "弱勢勞工如何申請社會補助"
+    }
+   ],
+   "crop": "q25.webp",
+   "showCrop": false,
+   "cropGap": 140,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g23"
+  },
+  {
+   "n": 26,
+   "page": 13,
+   "stem": "作者認為，這類新聞反映出社會出現了什麼狀況？",
+   "context": "（五）\n最近常在電視、報紙上看到類似的新聞：有外籍人士來台旅遊，不小心遺失了巨額旅費，幸好總有熱心的司機、路人將撿到的錢物歸原主，讓外國旅客豎起大拇指，大讚台灣民眾的誠實。\n這樣的新聞雖然能對社會產生正面的影響，但也不得不讓人進一步思量：拾金不昧的消息屢屢登上新聞版面，是不是也代表這類行為已經不再被人們視為理所當然？換句話說，在現今社會中，撿到別人遺失的金錢、物品而據為己有的人也不在少數。如此看來，看到這類新聞，我們實在不用太高興。如果有那麼一天，拾金不昧不再是新聞，而那些不願物歸原主、愛占人便宜的人，反而登上新聞版面，這才代表拾金不昧已經成為我們社會裡自然流露的美德。",
+   "options": [
+    {
+     "label": "A",
+     "text": "大家都能做到拾金不昧"
+    },
+    {
+     "label": "B",
+     "text": "大家不認為拾金不昧是美德"
+    },
+    {
+     "label": "C",
+     "text": "大家太過重視拾金不昧的行為"
+    },
+    {
+     "label": "D",
+     "text": "能做到拾金不昧的人其實不多"
+    }
+   ],
+   "crop": "q26.webp",
+   "showCrop": false,
+   "cropGap": 26,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 27,
+   "page": 13,
+   "stem": "第二段中的「這類行為」指的是什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "把撿到的東西還給人家"
+    },
+    {
+     "label": "B",
+     "text": "把撿到的東西偷藏起來"
+    },
+    {
+     "label": "C",
+     "text": "把丟掉錢的事當作新聞"
+    },
+    {
+     "label": "D",
+     "text": "把撿到錢的事當作新聞"
+    }
+   ],
+   "crop": "q27.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 28,
+   "page": 13,
+   "stem": "作者最後表示希望看到哪一種新聞？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "有人撿到錢並誠實歸還"
+    },
+    {
+     "label": "B",
+     "text": "有人撿到錢卻遲不歸還"
+    },
+    {
+     "label": "C",
+     "text": "大量外籍旅客來台旅遊"
+    },
+    {
+     "label": "D",
+     "text": "人們熱心幫助外籍旅客"
+    }
+   ],
+   "crop": "q28.webp",
+   "showCrop": false,
+   "cropGap": 98,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 29,
+   "page": 15,
+   "stem": "關於中銀大廈，下列何者正確？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "外形長得像刀子"
+    },
+    {
+     "label": "B",
+     "text": "設計師的國籍是中國"
+    },
+    {
+     "label": "C",
+     "text": "鋼架本身是吉祥標誌"
+    },
+    {
+     "label": "D",
+     "text": "設計之初充滿佛教精神"
+    }
+   ],
+   "crop": "q29.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 30,
+   "page": 15,
+   "stem": "文章中為什麼提到港督府？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "總督想介紹風水學家給貝聿銘認識"
+    },
+    {
+     "label": "B",
+     "text": "說明中銀大廈建造過程中的工安問題"
+    },
+    {
+     "label": "C",
+     "text": "讓總督來協調貝聿銘與風水學家的矛盾"
+    },
+    {
+     "label": "D",
+     "text": "舉例說明面對風水問題可做出的應變措施"
+    }
+   ],
+   "crop": "q30.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 31,
+   "page": 15,
+   "stem": "滙豐銀行業績好轉的原因是什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "他們擺設了典型的風水道具"
+    },
+    {
+     "label": "B",
+     "text": "他們要求中銀大廈進行改建"
+    },
+    {
+     "label": "C",
+     "text": "他們在自己的建築物前種了植物"
+    },
+    {
+     "label": "D",
+     "text": "他們用砲台巧妙地化解了風水問題"
+    }
+   ],
+   "crop": "q31.webp",
+   "showCrop": false,
+   "cropGap": 385,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 32,
+   "page": 17,
+   "stem": "這個網站頁面主要介紹了什麼？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "菱角的品種及由來"
+    },
+    {
+     "label": "B",
+     "text": "菱角的生長過程與環境"
+    },
+    {
+     "label": "C",
+     "text": "菱角對環境及人類的影響"
+    },
+    {
+     "label": "D",
+     "text": "菱角與不同植物所產的下一代"
+    }
+   ],
+   "crop": "q32.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 33,
+   "page": 17,
+   "stem": "第一段文字中有關菱角的敘述，下列哪一個不對？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "可以與動物共棲"
+    },
+    {
+     "label": "B",
+     "text": "需與稻米同時種植"
+    },
+    {
+     "label": "C",
+     "text": "在寒冷氣候中不易生存"
+    },
+    {
+     "label": "D",
+     "text": "適合種在濕潤的泥土地"
+    }
+   ],
+   "crop": "q33.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 34,
+   "page": 17,
+   "stem": "關於第二段文字的內容，下面哪一項是對的？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "菱角的重量越重，價格越高"
+    },
+    {
+     "label": "B",
+     "text": "菱角的長成最少需要四個月"
+    },
+    {
+     "label": "C",
+     "text": "一株幼苗大約可產 80 個菱角"
+    },
+    {
+     "label": "D",
+     "text": "可食用的菱角是植物的花朵部分"
+    }
+   ],
+   "crop": "q34.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 35,
+   "page": 17,
+   "stem": "根據第三段文字，菱角和向日葵有什麼共通點？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "花朵有一樣的別名"
+    },
+    {
+     "label": "B",
+     "text": "花朵的顏色及大小相似"
+    },
+    {
+     "label": "C",
+     "text": "花朵都能吸引眾人的注意"
+    },
+    {
+     "label": "D",
+     "text": "花朵會隨太陽方位變動朝向"
+    }
+   ],
+   "crop": "q35.webp",
+   "showCrop": false,
+   "cropGap": 267,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 36,
+   "page": 19,
+   "stem": "作者談到以基因重組的方式來防治蚊子，其中不包括下面哪一 項？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "降低蚊子的抵抗力"
+    },
+    {
+     "label": "B",
+     "text": "破壞蚊子的嗅覺能力"
+    },
+    {
+     "label": "C",
+     "text": "降低蚊子的飛行能力"
+    },
+    {
+     "label": "D",
+     "text": "破壞蚊子的產卵功能"
+    }
+   ],
+   "crop": "q36.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 37,
+   "page": 19,
+   "stem": "根據本文，養蝌蚪來防治蚊子的方法有什麼問題？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "未來得防範野蛇"
+    },
+    {
+     "label": "B",
+     "text": "使青蛙數量失衡"
+    },
+    {
+     "label": "C",
+     "text": "孑孓將徹底滅絕"
+    },
+    {
+     "label": "D",
+     "text": "野外實施較困難"
+    }
+   ],
+   "crop": "q37.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 38,
+   "page": 19,
+   "stem": "以大肚魚來防治蚊子，要注意什麼事？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "大肚魚飼養不易"
+    },
+    {
+     "label": "B",
+     "text": "大肚魚的生存環境較髒亂"
+    },
+    {
+     "label": "C",
+     "text": "大肚魚會一併把蝌蚪吃掉"
+    },
+    {
+     "label": "D",
+     "text": "大肚魚會大量繁殖並破壞生態"
+    }
+   ],
+   "crop": "q38.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 39,
+   "page": 19,
+   "stem": "在各種防治蚊子的方法中，作者認為哪一個方法較可行？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "重組其基因"
+    },
+    {
+     "label": "B",
+     "text": "調配殺蟲劑"
+    },
+    {
+     "label": "C",
+     "text": "善用其天敵"
+    },
+    {
+     "label": "D",
+     "text": "靠人力撲殺"
+    }
+   ],
+   "crop": "q39.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 40,
+   "page": 19,
+   "stem": "如果要把「按規定，政府每年噴的藥劑不能是同一種，以免蚊 子產生抗藥性。」這段話放入第一段，那個位置最適合？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "I"
+    },
+    {
+     "label": "B",
+     "text": "II"
+    },
+    {
+     "label": "C",
+     "text": "III"
+    },
+    {
+     "label": "D",
+     "text": "IV"
+    }
+   ],
+   "crop": "q40.webp",
+   "showCrop": false,
+   "cropGap": 108,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 41,
+   "page": 21,
+   "stem": "下面哪一項符合本文的意旨？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "定期記錄口感變化可有效保健"
+    },
+    {
+     "label": "B",
+     "text": "適當節食才是養生的不二法門"
+    },
+    {
+     "label": "C",
+     "text": "認知訓練法是新興的飲食風潮"
+    },
+    {
+     "label": "D",
+     "text": "飲食的揀擇也屬一種感官投射"
+    }
+   ],
+   "crop": "q41.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 42,
+   "page": 21,
+   "stem": "根據本文， 「認知負荷」的概念反映出何種特點？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "可精確估算檸檬汁濃度"
+    },
+    {
+     "label": "B",
+     "text": "與飲食的型態息息相關"
+    },
+    {
+     "label": "C",
+     "text": "乃素食主義的理論根據"
+    },
+    {
+     "label": "D",
+     "text": "為檢測味覺記憶的指標"
+    }
+   ],
+   "crop": "q42.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 43,
+   "page": 21,
+   "stem": "若要將「實際的飲食習慣經常與吃出健康的口號背道而馳，」這 段話插入第四段，下面哪個位置最為合適？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "I"
+    },
+    {
+     "label": "B",
+     "text": "II"
+    },
+    {
+     "label": "C",
+     "text": "III"
+    },
+    {
+     "label": "D",
+     "text": "IV"
+    }
+   ],
+   "crop": "q43.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 44,
+   "page": 21,
+   "stem": "文章最後「有其理據」所指為何？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "生活步調的急緩確實左右膳食傾向"
+    },
+    {
+     "label": "B",
+     "text": "美食品味的城鄉差異並不令人意外"
+    },
+    {
+     "label": "C",
+     "text": "意志鍛鍊證實可有效控制口腹之欲"
+    },
+    {
+     "label": "D",
+     "text": "重口味多食無益已然是不爭的事實"
+    }
+   ],
+   "crop": "q44.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 45,
+   "page": 21,
+   "stem": "若作者想根據此一研究結果進行延伸研究，下面哪一項可能是其 研究方向？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "從食安視角來分析文明病的生成"
+    },
+    {
+     "label": "B",
+     "text": "非議「倡素食、忌葷食」的論點"
+    },
+    {
+     "label": "C",
+     "text": "探究行為及心理活動的交互效應"
+    },
+    {
+     "label": "D",
+     "text": "尋找駁斥既有實驗方法的新學說"
+    }
+   ],
+   "crop": "q45.webp",
+   "showCrop": false,
+   "cropGap": 109,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 46,
+   "page": 23,
+   "stem": "本文指出，中國勞工階級對教育抱持著什麼樣的態度？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "堅信教育能促使貧富階級流動"
+    },
+    {
+     "label": "B",
+     "text": "認可教育能帶動亞洲就業市場"
+    },
+    {
+     "label": "C",
+     "text": "鼓吹升學教育是優良的文化傳統"
+    },
+    {
+     "label": "D",
+     "text": "默認留學是達官貴人享有的特權"
+    }
+   ],
+   "crop": "q46.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "A",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 47,
+   "page": 23,
+   "stem": "下列何者符合作者對「教育狂熱」的看法？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "無可厚非"
+    },
+    {
+     "label": "B",
+     "text": "可圈可點"
+    },
+    {
+     "label": "C",
+     "text": "不以為然"
+    },
+    {
+     "label": "D",
+     "text": "指日可待"
+    }
+   ],
+   "crop": "q47.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 48,
+   "page": 23,
+   "stem": "如果要將「海外學位的優勢相較於過去早已不可同日而語，」插 入第二段中，哪個位置最為合適？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "I"
+    },
+    {
+     "label": "B",
+     "text": "II"
+    },
+    {
+     "label": "C",
+     "text": "III"
+    },
+    {
+     "label": "D",
+     "text": "IV"
+    }
+   ],
+   "crop": "q48.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "D",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 49,
+   "page": 23,
+   "stem": "根據專家的說法，教育狂熱可能帶來什麼樣的後果？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "國家債台高築"
+    },
+    {
+     "label": "B",
+     "text": "青年所學無以致用"
+    },
+    {
+     "label": "C",
+     "text": "企業將學歷門檻拉高"
+    },
+    {
+     "label": "D",
+     "text": "中產階級薪資比例失衡"
+    }
+   ],
+   "crop": "q49.webp",
+   "showCrop": false,
+   "cropGap": 19,
+   "answer": "B",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  },
+  {
+   "n": 50,
+   "page": 23,
+   "stem": "作者對中國式教育面臨的困境，提出了什麼樣的建議？",
+   "context": "",
+   "options": [
+    {
+     "label": "A",
+     "text": "眼不見，心不煩"
+    },
+    {
+     "label": "B",
+     "text": "行萬里路勝讀萬卷書"
+    },
+    {
+     "label": "C",
+     "text": "揚湯止沸，不如釜底抽薪"
+    },
+    {
+     "label": "D",
+     "text": "以其人之道，還治其人之身"
+    }
+   ],
+   "crop": "q50.webp",
+   "showCrop": false,
+   "cropGap": 125,
+   "answer": "C",
+   "gradable": true,
+   "part": 1,
+   "group": "g26"
+  }
+ ],
+ "audio": null,
+ "fullScript": null,
+ "optionCount": 4
+}
