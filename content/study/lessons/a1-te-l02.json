@@ -1,0 +1,1653 @@
+{
+ "id": "a1-te-l02",
+ "title": "我的家人 My Family",
+ "status": "complete",
+ "statusDetail": "Seluruh pelajaran (hlm. PDF 50–69) sudah ditranskripsi dan diperiksa terhadap halaman asli. Catatan: kolom zhuyin (ㄅㄆㄇ) di daftar kosakata tidak disalin; pelafalan tersedia dalam pinyin. Foto orang sungguhan tidak disalin.",
+ "transcribedBy": "Transkripsi manual dari gambar halaman, diperiksa per halaman, 2026-11-16",
+ "blocks": [
+  {
+   "type": "heading",
+   "id": "h-obj",
+   "zh": "學習目標",
+   "en": "Learning Objectives",
+   "source": {
+    "pages": [
+     50
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "obj",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Topic: 家人 Family Members"
+    },
+    {
+     "lang": "en",
+     "text": "• Learning to talk about people in my family members and their names."
+    },
+    {
+     "lang": "en",
+     "text": "• Learning to describe people, places, and possessions."
+    },
+    {
+     "lang": "en",
+     "text": "• Learning to talk about the number of people in a family."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-d1",
+   "zh": "對話一",
+   "en": "Dialogue I"
+  },
+  {
+   "type": "dialogue",
+   "id": "d1",
+   "track": "02-01",
+   "source": {
+    "pages": [
+     51,
+     52
+    ]
+   },
+   "lines": [
+    {
+     "spk": "怡君",
+     "zh": "這是我家。請進！",
+     "py": "Zhè shì wǒ jiā. Qǐng jìn."
+    },
+    {
+     "spk": "安同",
+     "zh": "很漂亮的房子！",
+     "py": "Hěn piàoliàng de fángzi!"
+    },
+    {
+     "note": "[They enter Yijun's house.]"
+    },
+    {
+     "spk": "怡君",
+     "zh": "請坐！要不要喝茶？",
+     "py": "Qǐng zuò! Yào bú yào hē chá?"
+    },
+    {
+     "spk": "安同",
+     "zh": "好，謝謝你。你家有很多照片。",
+     "py": "Hǎo, xièxie nǐ. Nǐ jiā yǒu hěn duō zhàopiàn."
+    },
+    {
+     "spk": "怡君",
+     "zh": "我家人都很喜歡照相。",
+     "py": "Wǒ jiārén dōu hěn xǐhuān zhàoxiàng."
+    },
+    {
+     "spk": "安同",
+     "zh": "這張照片很好看。這是誰？你姐姐嗎？",
+     "py": "Zhè zhāng zhàopiàn hěn hǎokàn. Zhè shì shéi? Nǐ jiějie ma?"
+    },
+    {
+     "spk": "怡君",
+     "zh": "不是，是我妹妹。這是我爸爸、媽媽。",
+     "py": "Bú shì, shì wǒ mèimei. Zhè shì wǒ bàba, māma."
+    },
+    {
+     "spk": "安同",
+     "zh": "你家人都很好看。",
+     "py": "Nǐ jiārén dōu hěn hǎokàn."
+    }
+   ],
+   "translation": [
+    {
+     "spk": "Yijun",
+     "en": "This is my house. Please come in."
+    },
+    {
+     "spk": "Antong",
+     "en": "This is a pretty house."
+    },
+    {
+     "spk": "Yijun",
+     "en": "Please have a seat. Would you like some tea?"
+    },
+    {
+     "spk": "Antong",
+     "en": "Yes, thank you. You have a lot of pictures in your house."
+    },
+    {
+     "spk": "Yijun",
+     "en": "The people in my family like to take pictures."
+    },
+    {
+     "spk": "Antong",
+     "en": "This is a nice picture. Who is this? Your older sister?"
+    },
+    {
+     "spk": "Yijun",
+     "en": "No, that is my younger sister. These are my dad and mom."
+    },
+    {
+     "spk": "Antong",
+     "en": "The people in your family are very good-looking."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-v1",
+   "zh": "生詞一",
+   "en": "Vocabulary I"
+  },
+  {
+   "type": "vocab",
+   "id": "v1-people",
+   "title": "People in the dialogue",
+   "track": "02-02",
+   "source": {
+    "pages": [
+     52
+    ]
+   },
+   "items": [
+    {
+     "n": 1,
+     "zh": "張怡君",
+     "py": "Zhāng Yíjūn",
+     "pos": "",
+     "en": "a woman from Taiwan"
+    },
+    {
+     "n": 2,
+     "zh": "馬安同",
+     "py": "Mǎ Āntóng",
+     "pos": "",
+     "en": "a man from the Republic of Honduras"
+    }
+   ]
+  },
+  {
+   "type": "vocab",
+   "id": "v1-vocab",
+   "title": "Vocabulary",
+   "source": {
+    "pages": [
+     52,
+     53
+    ]
+   },
+   "items": [
+    {
+     "n": 3,
+     "zh": "的",
+     "py": "de",
+     "pos": "Ptc",
+     "en": "modification marker"
+    },
+    {
+     "n": 4,
+     "zh": "家人",
+     "py": "jiārén",
+     "pos": "N",
+     "en": "family (members)"
+    },
+    {
+     "n": 5,
+     "zh": "家",
+     "py": "jiā",
+     "pos": "N",
+     "en": "home, house"
+    },
+    {
+     "n": 6,
+     "zh": "漂亮",
+     "py": "piàoliàng",
+     "pos": "Vs",
+     "en": "pretty"
+    },
+    {
+     "n": 7,
+     "zh": "房子",
+     "py": "fángzi",
+     "pos": "N",
+     "en": "house"
+    },
+    {
+     "n": 8,
+     "zh": "坐",
+     "py": "zuò",
+     "pos": "Vi",
+     "en": "to sit"
+    },
+    {
+     "n": 9,
+     "zh": "好",
+     "py": "hǎo",
+     "pos": "Ptc",
+     "en": "OK"
+    },
+    {
+     "n": 10,
+     "zh": "有",
+     "py": "yǒu",
+     "pos": "Vst",
+     "en": "to have"
+    },
+    {
+     "n": 11,
+     "zh": "多",
+     "py": "duō",
+     "pos": "Vs-pred",
+     "en": "many"
+    },
+    {
+     "n": 12,
+     "zh": "照片",
+     "py": "zhàopiàn",
+     "pos": "N",
+     "en": "photo"
+    },
+    {
+     "n": 13,
+     "zh": "都",
+     "py": "dōu",
+     "pos": "Adv",
+     "en": "all, both"
+    },
+    {
+     "n": 14,
+     "zh": "照相",
+     "py": "zhàoxiàng",
+     "pos": "V-sep",
+     "en": "to take a photo"
+    },
+    {
+     "n": 15,
+     "zh": "張",
+     "py": "zhāng",
+     "pos": "M",
+     "en": "measure word for flat objects (e.g., paper, tickets)"
+    },
+    {
+     "n": 16,
+     "zh": "好看",
+     "py": "hǎokàn",
+     "pos": "Vs",
+     "en": "good-looking"
+    },
+    {
+     "n": 17,
+     "zh": "誰",
+     "py": "shéi",
+     "pos": "N",
+     "en": "who"
+    },
+    {
+     "n": 18,
+     "zh": "姐姐",
+     "py": "jiějie",
+     "pos": "N",
+     "en": "older sister"
+    },
+    {
+     "n": 19,
+     "zh": "妹妹",
+     "py": "mèimei",
+     "pos": "N",
+     "en": "younger sister"
+    },
+    {
+     "n": 20,
+     "zh": "爸爸",
+     "py": "bàba",
+     "pos": "N",
+     "en": "dad"
+    },
+    {
+     "n": 21,
+     "zh": "媽媽",
+     "py": "māma",
+     "pos": "N",
+     "en": "mom"
+    }
+   ]
+  },
+  {
+   "type": "vocab",
+   "id": "v1-phrases",
+   "title": "Phrases",
+   "source": {
+    "pages": [
+     53
+    ]
+   },
+   "items": [
+    {
+     "n": 22,
+     "zh": "請進",
+     "py": "qǐng jìn",
+     "pos": "",
+     "en": "Please come in!"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-d2",
+   "zh": "對話二",
+   "en": "Dialogue II"
+  },
+  {
+   "type": "dialogue",
+   "id": "d2",
+   "track": "02-03",
+   "source": {
+    "pages": [
+     53,
+     54,
+     55
+    ]
+   },
+   "lines": [
+    {
+     "spk": "明華",
+     "zh": "田中，歡迎！歡迎！請進。",
+     "py": "Tiánzhōng, huānyíng! Huānyíng! Qǐng jìn."
+    },
+    {
+     "spk": "田中",
+     "zh": "謝謝。",
+     "py": "Xièxie."
+    },
+    {
+     "spk": "明華",
+     "zh": "田中，這是我媽媽。",
+     "py": "Tiánzhōng, zhè shì wǒ māma."
+    },
+    {
+     "spk": "田中",
+     "zh": "伯母，您好。",
+     "py": "Bómǔ, nín hǎo."
+    },
+    {
+     "spk": "明華的媽媽",
+     "zh": "你好，你好。來！來！來！請坐。你叫什麼名字？",
+     "py": "Nǐ hǎo, nǐ hǎo. Lái! Lái! Lái! Qǐng zuò. Nǐ jiào shénme míngzi?"
+    },
+    {
+     "spk": "田中",
+     "zh": "我叫誠一。你們家有很多書。",
+     "py": "Wǒ jiào Chéngyī. Nǐmen jiā yǒu hěn duō shū."
+    },
+    {
+     "spk": "明華",
+     "zh": "都是我哥哥的書。他是老師，他很喜歡看書。",
+     "py": "Dōu shì wǒ gēge de shū. Tā shì lǎoshī, tā hěn xǐhuān kànshū."
+    },
+    {
+     "spk": "明華的媽媽",
+     "zh": "誠一，你家有幾個人？你有沒有兄弟姐妹？",
+     "py": "Chéngyī, nǐ jiā yǒu jǐ ge rén? Nǐ yǒu méi yǒu xiōngdì jiěmèi?"
+    },
+    {
+     "spk": "田中",
+     "zh": "我家有五個人，我有兩個妹妹。",
+     "py": "Wǒ jiā yǒu wǔ ge rén, wǒ yǒu liǎng ge mèimei."
+    }
+   ],
+   "translation": [
+    {
+     "spk": "Minghua",
+     "en": "Tianzhong, welcome, welcome. Please come in."
+    },
+    {
+     "spk": "Tianzhong",
+     "en": "Thank you!"
+    },
+    {
+     "spk": "Minghua",
+     "en": "Tianzhong, this is my mom."
+    },
+    {
+     "spk": "Tianzhong",
+     "en": "Mrs. Li (Lit. “Auntie”), how are you?"
+    },
+    {
+     "spk": "Minghua's mother",
+     "en": "Hello. Come in. Come. Please have a seat. What's your name?"
+    },
+    {
+     "spk": "Tianzhong",
+     "en": "My name is Chengyi. You have a lot of books."
+    },
+    {
+     "spk": "Minghua",
+     "en": "They are all my brother's books. He is a teacher. He likes to read."
+    },
+    {
+     "spk": "Minghua's mother",
+     "en": "Chengyi, how many people are there in your family? Do you have any brothers or sisters?"
+    },
+    {
+     "spk": "Tianzhong",
+     "en": "There are five people in my family. I have two younger sisters."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-v2",
+   "zh": "生詞二",
+   "en": "Vocabulary II"
+  },
+  {
+   "type": "vocab",
+   "id": "v2-people",
+   "title": "People in the dialogue",
+   "track": "02-04",
+   "source": {
+    "pages": [
+     55
+    ]
+   },
+   "items": [
+    {
+     "n": 1,
+     "zh": "田中誠一",
+     "py": "Tiánzhōng Chéngyī",
+     "pos": "",
+     "en": "a man from Japan"
+    }
+   ]
+  },
+  {
+   "type": "vocab",
+   "id": "v2-vocab",
+   "title": "Vocabulary",
+   "source": {
+    "pages": [
+     55
+    ]
+   },
+   "items": [
+    {
+     "n": 2,
+     "zh": "伯母",
+     "py": "bómǔ",
+     "pos": "N",
+     "en": "aunt; here a polite term for a friend's mother regardless of age"
+    },
+    {
+     "n": 3,
+     "zh": "您",
+     "py": "nín",
+     "pos": "N",
+     "en": "you (honorific)"
+    },
+    {
+     "n": 4,
+     "zh": "名字",
+     "py": "míngzi",
+     "pos": "N",
+     "en": "name"
+    },
+    {
+     "n": 5,
+     "zh": "書",
+     "py": "shū",
+     "pos": "N",
+     "en": "book"
+    },
+    {
+     "n": 6,
+     "zh": "哥哥",
+     "py": "gēge",
+     "pos": "N",
+     "en": "older brother"
+    },
+    {
+     "n": 7,
+     "zh": "老師",
+     "py": "lǎoshī",
+     "pos": "N",
+     "en": "teacher"
+    },
+    {
+     "n": 8,
+     "zh": "看書",
+     "py": "kànshū",
+     "pos": "V-sep",
+     "en": "to read"
+    },
+    {
+     "n": 9,
+     "zh": "幾",
+     "py": "jǐ",
+     "pos": "N",
+     "en": "how many"
+    },
+    {
+     "n": 10,
+     "zh": "個",
+     "py": "ge",
+     "pos": "M",
+     "en": "general measure word"
+    },
+    {
+     "n": 11,
+     "zh": "沒",
+     "py": "méi",
+     "pos": "Adv",
+     "en": "not"
+    },
+    {
+     "n": 12,
+     "zh": "兄弟",
+     "py": "xiōngdì",
+     "pos": "N",
+     "en": "brothers"
+    },
+    {
+     "n": 13,
+     "zh": "姐妹",
+     "py": "jiěmèi",
+     "pos": "N",
+     "en": "sisters"
+    },
+    {
+     "n": 14,
+     "zh": "五",
+     "py": "wǔ",
+     "pos": "N",
+     "en": "five"
+    },
+    {
+     "n": 15,
+     "zh": "兩",
+     "py": "liǎng",
+     "pos": "N",
+     "en": "two"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-gr",
+   "zh": "文法",
+   "en": "Grammar",
+   "source": {
+    "pages": [
+     56
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "g1",
+   "en": "I. 的 de possessive"
+  },
+  {
+   "type": "text",
+   "id": "g1-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Function: 的 de is used to show possession and is placed between the possessor and the object possessed."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g1-ex",
+   "items": [
+    {
+     "zh": "我的書",
+     "py": "wǒ de shū",
+     "en": "my book"
+    },
+    {
+     "zh": "你們的照片",
+     "py": "nǐmen de zhàopiàn",
+     "en": "your photo"
+    },
+    {
+     "zh": "李老師的姐姐",
+     "py": "Lǐ lǎoshī de jiějie",
+     "en": "teacher Li's sister"
+    },
+    {
+     "zh": "哥哥的老師",
+     "py": "gēge de lǎoshī",
+     "en": "brother's teacher"
+    },
+    {
+     "zh": "我媽媽",
+     "py": "wǒ māma",
+     "en": "my mom"
+    },
+    {
+     "zh": "我們老師",
+     "py": "wǒmen lǎoshī",
+     "en": "our teacher"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "g1-s",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Structures: Notice that 的 de is sometimes omitted, e.g., 5 & 6 above."
+    },
+    {
+     "lang": "en",
+     "text": "1. If the relationship between the possessor and the possessed of the two nouns is close, 的 de can be omitted, e.g., 我爸爸 wǒ bàba ‘my dad’, 我哥哥 wǒ gēge ‘my brother’, 我家 wǒ jiā ‘my home’. Furthermore, the possessor has to be a pronoun when 的 de is omitted. So, one can say 李先生的爸爸 Lǐ Xiānshēng de bàba ‘Mr. Li's dad’, but not *李先生爸爸 Lǐ Xiānshēng bàba (omitting 的 de)."
+    },
+    {
+     "lang": "en",
+     "text": "2. If the two nouns in a possessive relationship refer to an individual and his/her affiliated group, the noun referring to the individual usually appears in the plural rather than the singular form. For example, for ‘his home’, it is 他們家 tāmen jiā (their home), 我們日本 wǒmen rìběn (our Japan)."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "g1-x",
+   "title": "練習 Exercise",
+   "instruction": "Fill in the blanks and add 的 where appropriate. Options: A. 的　B. 名字　C. 老師　D. 妹妹　E. 你　F. 你們",
+   "items": [
+    {
+     "prompt": "他＿＿＿＿＿＿是馬安同。",
+     "hint": ""
+    },
+    {
+     "prompt": "陳先生＿＿＿＿＿＿姓李。",
+     "hint": ""
+    },
+    {
+     "prompt": "我＿＿＿是老師。",
+     "hint": ""
+    },
+    {
+     "prompt": "＿＿＿爸爸來不來？",
+     "hint": ""
+    },
+    {
+     "prompt": "＿＿＿家很漂亮嗎？",
+     "hint": ""
+    }
+   ],
+   "source": {
+    "pages": [
+     57
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "g2",
+   "en": "II. Modifier Marker 的 de"
+  },
+  {
+   "type": "text",
+   "id": "g2-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Function: 的 de is used between the modifier and the head noun."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g2-ex",
+   "items": [
+    {
+     "zh": "漂亮的小姐",
+     "py": "piàoliàng de xiǎojiě",
+     "en": "pretty young lady"
+    },
+    {
+     "zh": "好喝的咖啡",
+     "py": "hǎohē de kāfēi",
+     "en": "tasty coffee"
+    },
+    {
+     "zh": "很好看的房子",
+     "py": "hěn hǎokàn de fángzi",
+     "en": "beautiful house"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "g2-u",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Usage: Notice that 的 de can be omitted when the modifier and the head noun are used together frequently. For example, when talking about nationality, one says 哪國人？ Něi guó rén? ‘person from which country?’, rather than *哪國的人 Něi guó de rén. One says 臺灣人 Táiwān rén ‘Taiwanese people’ rather than *臺灣的人 Táiwān de rén."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "g2-x",
+   "title": "練習 Exercise",
+   "instruction": "Make correct sentences by rearranging the order of the characters.",
+   "items": [
+    {
+     "prompt": "人① 很好看② 的③ → ＿＿＿多不多？",
+     "hint": ""
+    },
+    {
+     "prompt": "的① 好喝② 茶③ → 王老師要＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "好看① 照片② 的③ → 我沒有很多＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "房子① 漂亮② 的③ → 我喜歡＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "的① 照片② 很多③ 好看④ → 他有＿＿＿。",
+     "hint": ""
+    }
+   ],
+   "source": {
+    "pages": [
+     58
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "g3",
+   "en": "III. 有 yǒu possessive"
+  },
+  {
+   "type": "text",
+   "id": "g3-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Function: The verb 有 yǒu refers to possession or ownership."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g3-ex",
+   "items": [
+    {
+     "zh": "我有很多照片。",
+     "py": "Wǒ yǒu hěn duō zhàopiàn.",
+     "en": "I have many photos."
+    },
+    {
+     "zh": "他們有好喝的茶。",
+     "py": "Tāmen yǒu hǎohē de chá.",
+     "en": "They have good-tasting tea."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g3-neg",
+   "title": "Structures — Negation: 有 yǒu is always negated with 沒 méi.",
+   "items": [
+    {
+     "zh": "他沒有房子。",
+     "py": "Tā méi yǒu fángzi.",
+     "en": "He does not have a house."
+    },
+    {
+     "zh": "我沒有書。",
+     "py": "Wǒ méi yǒu shū.",
+     "en": "I don't have a book."
+    },
+    {
+     "zh": "對不起，我們沒有烏龍茶。",
+     "py": "Duìbùqǐ, wǒmen méi yǒu Wūlóng chá.",
+     "en": "Sorry, we don't have any Oolong tea."
+    },
+    {
+     "zh": "我沒有兄弟姐妹。",
+     "py": "Wǒ méi yǒu xiōngdì jiěmèi.",
+     "en": "I don't have any brothers or sisters."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g3-q",
+   "title": "Questions: The A-not-A form for the verb 有 yǒu is 有沒有 yǒu méi yǒu.",
+   "items": [
+    {
+     "zh": "你們有沒有好喝的咖啡？",
+     "py": "Nǐmen yǒu méi yǒu hǎohē de kāfēi?",
+     "en": "Do you have good-tasting coffee?"
+    },
+    {
+     "zh": "你們有烏龍茶嗎？",
+     "py": "Nǐmen yǒu Wūlóng chá ma?",
+     "en": "Do you have Oolong tea?"
+    },
+    {
+     "zh": "你有幾張照片？",
+     "py": "Nǐ yǒu jǐ zhāng zhàopiàn?",
+     "en": "How many photos do you have?"
+    }
+   ],
+   "source": {
+    "pages": [
+     59
+    ]
+   }
+  },
+  {
+   "type": "exercise",
+   "id": "g3-x",
+   "title": "練習 Exercise",
+   "instruction": "Make correct sentences by rearranging the order of the characters.",
+   "items": [
+    {
+     "prompt": "很多① 我們② 好喝的咖啡③ 有④ → ＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "我哥哥① 漂亮的照片② 有③ 沒④ → ＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "兄弟姐妹① 有② 嗎③ 你④ → ＿＿＿？",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "g4",
+   "en": "IV. 都 dōu totality"
+  },
+  {
+   "type": "text",
+   "id": "g4-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Function: 都 dōu is used to indicate that all items referred to by the subject or object noun have something in common."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g4-ex",
+   "items": [
+    {
+     "zh": "我們都姓陳。",
+     "py": "Wǒmen dōu xìng Chén.",
+     "en": "We are all surnamed Chen."
+    },
+    {
+     "zh": "他的兄弟姐妹都很好看。",
+     "py": "Tā de xiōngdì jiěmèi dōu hěn hǎokàn.",
+     "en": "His siblings are all good looking."
+    },
+    {
+     "zh": "這兩個房子都是他的（房子）。",
+     "py": "Zhè liǎng ge fángzi dōu shì tā de (fángzi).",
+     "en": "Both of these two houses are his."
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "g4-s",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Structures: 都 dōu is an adverb, which is placed after the noun it relates to and before the main verb phrase, i.e. Noun + 都 dōu + VP."
+    }
+   ],
+   "source": {
+    "pages": [
+     60
+    ]
+   }
+  },
+  {
+   "type": "examples",
+   "id": "g4-ex2",
+   "items": [
+    {
+     "zh": "我們都是美國人。",
+     "py": "Wǒmen dōu shì Měiguó rén.",
+     "en": "We are all American."
+    },
+    {
+     "zh": "你爸爸媽媽都要喝咖啡。",
+     "py": "Nǐ bàba māma dōu yào hē kāfēi.",
+     "en": "Both your dad and mom want to drink coffee."
+    },
+    {
+     "zh": "李先生、陳小姐都喜歡喝茶。",
+     "py": "Lǐ Xiānshēng, Chén Xiǎojiě dōu xǐhuān hē chá.",
+     "en": "Mr. Li and Miss Chen both like to drink tea."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g4-neg",
+   "title": "Negation: Noun + 都 dōu + 不 bù / 沒 méi + VP",
+   "items": [
+    {
+     "zh": "我們都不是美國人。",
+     "py": "Wǒmen dōu bú shì Měiguó rén.",
+     "en": "None of us is American."
+    },
+    {
+     "zh": "我哥哥、我姐姐都不喜歡照相。",
+     "py": "Wǒ gēge, wǒ jiějie dōu bù xǐhuān zhàoxiàng.",
+     "en": "Neither my brother nor my sister likes to take photos."
+    },
+    {
+     "zh": "我們都沒有哥哥。",
+     "py": "Wǒmen dōu méi yǒu gēge.",
+     "en": "None of us has any older brother."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g4-q",
+   "title": "Questions",
+   "items": [
+    {
+     "zh": "你們都是美國人嗎？",
+     "py": "Nǐmen dōu shì Měiguó rén ma?",
+     "en": "Are you all American?"
+    },
+    {
+     "zh": "你的家人都要喝咖啡嗎？",
+     "py": "Nǐ de jiārén dōu yào hē kāfēi ma?",
+     "en": "Do all the people in your family want to drink coffee?"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "g4-u",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Usage:"
+    },
+    {
+     "lang": "en",
+     "text": "1. 都 dōu is an adverb and appears before the verb and after the subject. It is not correct to say *都我們是臺灣人 Dōu wǒmen shì Táiwān rén."
+    },
+    {
+     "lang": "en",
+     "text": "2. Members of a group indicated by 都 dōu all have to appear before 都 dōu. For example, to say ‘I like both teachers Li and Wang’, one says 李老師、王老師，我都喜歡。Lǐ Lǎoshī, Wáng Lǎoshī, wǒ dōu xǐhuān. It is incorrect to say *我都喜歡李老師、王老師。 Wǒ dōu xǐhuān Lǐ Lǎoshī, Wáng Lǎoshī."
+    },
+    {
+     "lang": "en",
+     "text": "3. In interrogatives, 都 dōu works with the 嗎 ma question form but not with A-not-A question forms. For example, to say ‘Are you all surnamed Wang?’, one can say 你們都姓王嗎？ Nǐmen dōu xìng Wáng ma? but not *你們都姓不姓王？ Nǐmen dōu xìng bú xìng Wáng?"
+    },
+    {
+     "lang": "en",
+     "text": "4. When 都 dōu is modified by 不 bù, the sentence means ‘not all....’, e.g., 他們不都是臺灣人。Tāmen bù dōu shì Táiwān rén. ‘Not all of them are Taiwanese’."
+    }
+   ],
+   "source": {
+    "pages": [
+     60,
+     61
+    ]
+   }
+  },
+  {
+   "type": "exercise",
+   "id": "g4-x",
+   "title": "練習 Exercise",
+   "instruction": "Look at the pictures, then combine the sentences using 都.",
+   "image": "ex-p61.webp",
+   "imageAlt": "Tiga gambar: tiga wanita berkimono minum teh; dua wanita (satu menolak) dengan teh; dua foto seorang wanita.",
+   "items": [
+    {
+     "prompt": "這三個人都是日本人嗎？",
+     "hint": ""
+    },
+    {
+     "prompt": "這兩個人＿＿＿＿＿＿喝茶。",
+     "hint": ""
+    },
+    {
+     "prompt": "這兩張照片＿＿＿＿＿＿我姐姐的（照片）。",
+     "hint": ""
+    },
+    {
+     "prompt": "你是老師，他是老師。→ 你們＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "我喜歡喝咖啡，他喜歡喝咖啡。→ 我們＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "你沒有兄弟姐妹，你的老師沒有兄弟姐妹。→ 你們＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "你不要照相，他不要照相。→ 你們＿＿＿。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "g5",
+   "en": "V. Measures 個 ge and 張 zhāng",
+   "source": {
+    "pages": [
+     62
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g5-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Function: Both 個 ge and 張 zhāng are measures. When indicating a quantity, a measure word is placed between the number and the noun."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g5-ex",
+   "items": [
+    {
+     "zh": "一個哥哥",
+     "py": "yí ge gēge",
+     "en": "one brother"
+    },
+    {
+     "zh": "兩張好看的照片",
+     "py": "liǎng zhāng hǎokàn de zhàopiàn",
+     "en": "two pretty photos"
+    },
+    {
+     "zh": "幾個老師？",
+     "py": "Jǐ ge lǎoshī?",
+     "en": "How many teachers?"
+    },
+    {
+     "zh": "哪三個人？",
+     "py": "Nǎ sān ge rén?",
+     "en": "Which three people?"
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g5-s1",
+   "title": "Structures: 1. Number + Measure + Noun",
+   "items": [
+    {
+     "zh": "三個人",
+     "py": "sān ge rén",
+     "en": "three people"
+    },
+    {
+     "zh": "幾張照片？",
+     "py": "Jǐ zhāng zhàopiàn?",
+     "en": "How many photos?"
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g5-s2",
+   "title": "2. Determiner + Number + Measure + Noun",
+   "items": [
+    {
+     "zh": "哪一張照片？",
+     "py": "Nǎ yì zhāng zhàopiàn?",
+     "en": "Which photo?"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "g5-s2t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "When the number following 哪 nǎ is 一 yī ‘one’, the number is often omitted. For example, 哪一個人？ Nǎ yí ge rén? ‘which person?’ is the same as 哪個人？ Něi ge rén?."
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "g5-u",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Usage:"
+    },
+    {
+     "lang": "en",
+     "text": "1. There are many measure words in Chinese. Different measure words are used with different nouns. In this lesson, only two measure words are introduced. 個 ge is the most frequently used measure word and is used as the measure for many different nouns. 張 zhāng is usually used with nouns that designate flat objects such as paper, photographs, and tables. When learning a new noun, you need to pay attention to the measure words that can be used with it."
+    },
+    {
+     "lang": "en",
+     "text": "2. When the numeral is “two”, you do not say “二 èr + measure + noun”, rather you say “兩 liǎng + measure + noun”, e.g., 兩個妹妹 liǎng ge mèimei (two younger sisters), 兩個日本人 liǎng ge Rìběn rén (two Japanese people), 兩張照片 liǎng zhāng zhàopiàn (two photos)."
+    }
+   ],
+   "source": {
+    "pages": [
+     62,
+     63
+    ]
+   }
+  },
+  {
+   "type": "exercise",
+   "id": "g5-x",
+   "title": "練習 Exercise",
+   "instruction": "Place numbers and measure words in the blanks based on the nouns shown in the pictures.",
+   "image": "ex-p63.webp",
+   "imageAlt": "Enam gambar: seorang pria tidur di meja kerja; dua rumah; tiga foto; tiga anak laki-laki; tiga wanita berkimono; lima foto.",
+   "items": [
+    {
+     "prompt": "一＿＿＿人",
+     "hint": ""
+    },
+    {
+     "prompt": "＿＿＿＿＿＿房子",
+     "hint": ""
+    },
+    {
+     "prompt": "＿＿＿＿＿＿照片",
+     "hint": ""
+    },
+    {
+     "prompt": "我有＿＿＿＿＿＿弟弟。",
+     "hint": ""
+    },
+    {
+     "prompt": "＿＿＿＿＿＿很好看的日本小姐",
+     "hint": ""
+    },
+    {
+     "prompt": "＿＿＿＿＿＿漂亮的照片",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-act",
+   "zh": "課室活動",
+   "en": "Classroom Activities",
+   "source": {
+    "pages": [
+     64
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "act1",
+   "en": "I. Counting from 1 to 10"
+  },
+  {
+   "type": "table",
+   "id": "act1-t",
+   "head": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "rows": [
+    [
+     "一",
+     "二",
+     "三",
+     "四",
+     "五",
+     "六",
+     "七",
+     "八",
+     "九",
+     "十"
+    ],
+    [
+     "yī",
+     "èr",
+     "sān",
+     "sì",
+     "wǔ",
+     "liù",
+     "qī",
+     "bā",
+     "jiǔ",
+     "shí"
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "act2",
+   "en": "II. Other People's Families"
+  },
+  {
+   "type": "text",
+   "id": "act2-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Learning to ask about people in your friend's family."
+    },
+    {
+     "lang": "en",
+     "text": "Task: Ask your classmates the following questions. Write down what you find out."
+    }
+   ]
+  },
+  {
+   "type": "table",
+   "id": "act2-tab",
+   "head": [
+    "#",
+    "問題 Question",
+    "例子 Example",
+    "同學一 Classmate 1",
+    "同學二 Classmate 2"
+   ],
+   "rows": [
+    [
+     "1",
+     "你家有幾個人？",
+     "五個人",
+     "",
+     ""
+    ],
+    [
+     "2",
+     "你有沒有兄弟姐妹？",
+     "有＿個哥哥／姐姐／弟弟／妹妹",
+     "",
+     ""
+    ],
+    [
+     "3",
+     "你的兄弟姐妹是老師嗎？",
+     "是",
+     "",
+     ""
+    ],
+    [
+     "4",
+     "你有你家人的照片嗎？有幾張？",
+     "有，十張",
+     "",
+     ""
+    ],
+    [
+     "5",
+     "你家人都喜歡喝咖啡嗎？",
+     "爸爸喜歡，媽媽不喜歡。",
+     "",
+     ""
+    ],
+    [
+     "6",
+     "你家人都喜歡照相嗎？",
+     "我家人都不喜歡。",
+     "",
+     ""
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "act3",
+   "en": "III. Introducing Your Family",
+   "source": {
+    "pages": [
+     65
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "act3-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Learning to talk about family members' likes/dislikes."
+    },
+    {
+     "lang": "en",
+     "text": "Task: While one person introduces his/her family, other students complete the table below using information provided by the speaker. (Fill in the form using Chinese characters or pinyin.)"
+    }
+   ]
+  },
+  {
+   "type": "table",
+   "id": "act3-tab",
+   "head": [
+    "#",
+    "名字 Name",
+    "國 Country",
+    "家人 Family members",
+    "哪個家人喜歡照相？ Who likes to take pictures?",
+    "哪個家人喜歡喝咖啡？ Who likes coffee?",
+    "哪個家人有很多書？ Who has a lot of books?"
+   ],
+   "rows": [
+    [
+     "1",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "3",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "4",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "5",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "6",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "act4",
+   "en": "IV. People, Things, and Events"
+  },
+  {
+   "type": "text",
+   "id": "act4-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Use simple sentences to describe people, things, and events."
+    },
+    {
+     "lang": "en",
+     "text": "Task: Pair up with a partner and discuss the following questions based on the pictures provided below. Then tell the class your results of your discussion."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "act4-q",
+   "items": [
+    {
+     "zh": "哪一張照片漂亮？",
+     "py": "Nǎ yì zhāng zhàopiàn piàoliàng?",
+     "en": "Which photo is pretty?"
+    },
+    {
+     "zh": "他們是誰？",
+     "py": "Tāmen shì shéi?",
+     "en": "Who are they?"
+    },
+    {
+     "zh": "誰的書很多？",
+     "py": "Shéi de shū hěn duō?",
+     "en": "Who has a lot of books?"
+    },
+    {
+     "zh": "誰的爸爸喜歡照相？",
+     "py": "Shéi de bàba xǐhuān zhàoxiàng?",
+     "en": "Whose dad likes to take pictures?"
+    },
+    {
+     "zh": "誰不喜歡看書？",
+     "py": "Shéi bù xǐhuān kànshū?",
+     "en": "Who doesn't like to read?"
+    },
+    {
+     "zh": "誰有好喝的茶？",
+     "py": "Shéi yǒu hǎohē de chá?",
+     "en": "Who has good-tasting tea?"
+    }
+   ],
+   "source": {
+    "pages": [
+     66
+    ]
+   }
+  },
+  {
+   "type": "figure",
+   "id": "act4-fig",
+   "image": "act4-p66.webp",
+   "alt": "Enam gambar untuk soal 1–6 dengan label: 哥哥的照片／姐姐的照片; 李明華／白如玉; 馬安同／張怡君; 陳月美的爸爸／張怡君的爸爸; 馬安同／張怡君; 李明華／陳月美.",
+   "caption": "① 哥哥的照片・姐姐的照片　② 李明華・白如玉　③ 馬安同・張怡君　④ 陳月美的爸爸・張怡君的爸爸　⑤ 馬安同・張怡君　⑥ 李明華・陳月美"
+  },
+  {
+   "type": "heading",
+   "id": "h-cult",
+   "zh": "文化",
+   "en": "Bits of Chinese Culture — Family Central to Chinese Culture",
+   "source": {
+    "pages": [
+     67
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "cult",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "The family is central to Chinese culture. Chinese parents expect to live with their children, especially their sons. In the past, sons always lived with their parents, even after they were married. Sons would also receive the family inheritance, while the daughters would not. Daughters were considered “members of someone else's family” once they got married, so they did not live with their parents, nor did they receive any inheritance from them."
+    },
+    {
+     "lang": "en",
+     "text": "In modern society, it is becoming increasingly difficult to find a family with three generations under one roof, but it is still common to find married couples living near their parents/in-laws, sometimes even next door. Being in close proximity allows them to look after each other easily. Since many young Taiwanese couples work, they opt to have their parents look after their children instead of hiring a professional nanny. Having grandparents look after your children saves money and you don't have to worry about leaving your children with a stranger. For their part, the grandparents are generally more than happy to be surrounded by their grandkids."
+    },
+    {
+     "lang": "en",
+     "text": "More and more people in Taiwan today are also waiting longer to get married. Traditionally, single adults are still children in Chinese culture. As such, many single adults in their 30s and 40s still live with their parents and their parents continue to look after them."
+    }
+   ]
+  },
+  {
+   "type": "note",
+   "id": "cult-photos",
+   "text": "Halaman ini juga memuat tiga foto keluarga (Family get together, Family trip, Family celebration). Foto tidak disalin karena menampilkan orang sungguhan; lihat halaman asli buku."
+  },
+  {
+   "type": "heading",
+   "id": "h-pron",
+   "en": "Notes on Pinyin and Pronunciation",
+   "source": {
+    "pages": [
+     68
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "pr1",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "1. Pinyin Rules: When the vowel “i” stands alone (without a consonant in front of it), it is spelled yī (一). When the vowel “u” stands alone, it is spelled wǔ (五)."
+    },
+    {
+     "lang": "en",
+     "text": "2. Tone Changes for 一 Yī"
+    },
+    {
+     "lang": "en",
+     "text": "(1) When 一 is used in names or in ordinal number, its tone does not undergo changes, e.g. Tiánzhōng Chéngyī (田中誠一) and dì yī kè (第一課)."
+    },
+    {
+     "lang": "en",
+     "text": "(2) When 一 yī is used to signify an amount (followed by quantifiers) or when it appears in multisyllabic words, it follows the same tone change rules as 不 bù."
+    }
+   ]
+  },
+  {
+   "type": "table",
+   "id": "pr1-t",
+   "head": [
+    "一 yī + 1st, 2nd or 3rd tone → 4th tone (4th tone mark): 一 yì",
+    "一 yī + 4th tone or neutral tone → 2nd tone (2nd tone mark): 一 yí"
+   ],
+   "rows": [
+    [
+     "一張 (M) yì zhāng · 一支 (M) (L4) yì zhī · 一千 (N) (L4) yì qiān",
+     "一個 (M) yí ge"
+    ],
+    [
+     "一起 (L3) yìqǐ · 一種 (M) (L4) yì zhǒng · 一百 (N) (L4) yì bǎi",
+     "一共 (L4) yígòng"
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "id": "pr1-note",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Note: When pronouncing “-o,” it is natural to pronounce it with a slight “u”, as in 伯 b(u)ó, 週末 zhōum(u)ò in Lesson Three, and 微波 wéib(u)ō in Lesson Four."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-char",
+   "en": "Introduction to Chinese Characters — Basic Structures of Chinese Characters"
+  },
+  {
+   "type": "figure",
+   "id": "char-fig",
+   "image": "structures-p68-69.webp",
+   "alt": "Tabel struktur dasar karakter Tionghoa dengan diagram kotak dan contoh karakter.",
+   "caption": "Contoh per baris tabel (kiri ke kanan): 一 yī, 人 rén, 日 rì │ 李 lǐ, 要 yào, 兄 xiōng, 是 shì │ 你 nǐ, 姓 xìng, 都 dōu │ 茶 chá │ 咖 kā, 謝 xiè, 們 men │ 國 guó │ 這 zhè, 迎 yíng, 起 qǐ │ 麼 me, 房 fáng, 有 yǒu │ 氣 qì, 包 bāo, 可 kě │ 同 tóng, 問 wèn, 間 jiān │ 幽 yōu │ 區 qū"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "char2",
+   "en": "Basic Template for Chinese Calligraphy",
+   "source": {
+    "pages": [
+     69
+    ]
+   }
+  },
+  {
+   "type": "figure",
+   "id": "char2-fig",
+   "image": "yong-p69.webp",
+   "alt": "Karakter 永 di dalam kisi sembilan kotak (3×3).",
+   "caption": "永 dalam kisi sembilan kotak"
+  },
+  {
+   "type": "text",
+   "id": "char2-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "To write beautiful Chinese characters, tidiness, balance, symmetry, and harmony are important. Nine-square grids are used to practice writing characters to achieve balanced beauty."
+    },
+    {
+     "lang": "en",
+     "text": "Nine-square grids used for writing practice consist of nine boxes in 3x3 grids. Since Chinese characters can be as simple as “一” or as complicated as “謝”, to achieve balance, symmetry, harmony, and fullness, they must occupy the same amount of space, regardless of how many strokes they have, when written in 3x3 grids."
+    },
+    {
+     "lang": "en",
+     "text": "Nine-square grids are a basic tool used for practicing the writing of Chinese characters. Beginners who use the grids to help them layout the structure of Chinese characters will eventually achieve balance in their writing."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-self",
+   "en": "Self-Assessment Checklist"
+  },
+  {
+   "type": "checklist",
+   "id": "self",
+   "items": [
+    "I can discuss people in my family and their names.",
+    "I can describe people, places and possessions in simple terms.",
+    "I can talk about the number of people in a family."
+   ]
+  }
+ ]
+}

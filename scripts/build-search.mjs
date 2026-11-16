@@ -15,7 +15,7 @@ for (const lv of idx.levels) {
       const m = JSON.parse(readFileSync(f, 'utf8'));
       for (const blk of m.blocks) {
         if (blk.type === 'vocab') for (const v of blk.items) items.push({ type: 'vocab', level: lv.id, book: b.id, href: `#/lesson/${l.id}`, title, text: v.zh, py: v.py, en: v.en });
-        if (blk.type === 'dialogue') for (const ln of blk.lines) items.push({ type: 'line', level: lv.id, book: b.id, href: `#/lesson/${l.id}`, title, text: ln.zh, py: ln.py });
+        if (blk.type === 'dialogue') for (const ln of blk.lines.filter((x) => x.zh)) items.push({ type: 'line', level: lv.id, book: b.id, href: `#/lesson/${l.id}`, title, text: ln.zh, py: ln.py });
         if (blk.type === 'text') for (const p of blk.paras || []) items.push({ type: 'line', level: lv.id, book: b.id, href: `#/lesson/${l.id}`, title, text: p.text });
         if (blk.type === 'examples') for (const x of blk.items) items.push({ type: 'line', level: lv.id, book: b.id, href: `#/lesson/${l.id}`, title, text: x.zh, py: x.py, en: x.en });
         if (blk.type === 'exchanges') for (const x of blk.items) for (const y of [x.a, x.b]) items.push({ type: 'line', level: lv.id, book: b.id, href: `#/lesson/${l.id}`, title, text: y.zh, py: y.py, en: y.en });

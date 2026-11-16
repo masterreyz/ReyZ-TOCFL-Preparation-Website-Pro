@@ -31,12 +31,13 @@ Chosen 2026-11-16. Order: A1 Textbook L1→L15, A1 Workbook L1→L15, then A2, B
 | Lesson | Pages (PDF) | Status |
 |---|---|---|
 | A1 Textbook L1 歡迎你來臺灣！ | 28–49 | ✅ complete, checked page by page (zhuyin column not copied; pinyin given) |
-| A1 Textbook L2 我的家人 | 50–69 | ⏭ next |
+| A1 Textbook L2 我的家人 | 50–69 | ✅ complete, checked page by page (zhuyin column not copied; photos of real people not copied) |
+| A1 Textbook L3 週末做什麼？ | 70–91 | ⏭ next |
 | all other lessons | — | page images until migrated |
 
 ### Procedure per lesson
 1. Render pages at 120 dpi: `pdftoppm -r 120 -f <start> -l <end> -png "<book>.pdf" /tmp/p`.
-2. Transcribe each page into blocks in `content/study/lessons/<lessonId>.json` (see a1-te-l01.json).
+2. Transcribe each page into blocks (page-group files, then assemble into `content/study/lessons/<lessonId>.json`; see a1-te-l01.json / a1-te-l02.json).
    Block types: heading, dialogue (+translation), vocab, text, examples, pairs, exchanges, exercise (+image), table, figure, checklist, note.
    Each block has a `source.pages` reference. Illustrations needed for exercises go to `media/study/lessons/<lessonId>/`.
    Photos of people are not copied (link to the original page instead).

@@ -383,3 +383,4 @@ body::after { content: "ReyZ TOCFL · Reynard Agahari"; position: fixed; right: 
 .zh-cell { font-family: var(--font-zh); }
 .checklist { list-style: none; padding: 0; display: grid; gap: .4rem; }
 .tone-cell { font-size: 1.6rem; line-height: 1.2; letter-spacing: .15em; font-family: "Segoe UI Symbol", "Noto Sans", var(--font-zh), sans-serif; }
+.dlg-note { font-style: italic; color: var(--muted); margin: .2rem 0; font-weight: 600; }

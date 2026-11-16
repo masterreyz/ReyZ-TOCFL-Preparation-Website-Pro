@@ -130,7 +130,7 @@ function renderMigrated(m, l, book) {
   const pyToggle = h('label', { class: 'small' }, h('input', { type: 'checkbox', checked: showPy || null, onchange: (e) => { store.setPref('showPinyin', e.target.checked); document.querySelectorAll('.py').forEach((x) => (x.hidden = !e.target.checked)); } }), ' Tampilkan pinyin');
   const blocks = m.blocks.map((b) => {
     const tr = b.track ? trackFor(l, b.track) : null;
-    const ttsText = b.type === 'dialogue' ? b.lines.map((x) => x.zh).join('\n') : b.type === 'vocab' ? b.items.map((x) => x.zh.replace(/（.*?）/g, '')).join('\n')
+    const ttsText = b.type === 'dialogue' ? b.lines.filter((x) => x.zh).map((x) => x.zh).join('\n') : b.type === 'vocab' ? b.items.map((x) => x.zh.replace(/（.*?）/g, '')).join('\n')
       : b.type === 'text' ? (b.paras || []).filter((p) => p.lang !== 'en').map((p) => p.text).join('\n')
         : b.type === 'examples' ? b.items.map((x) => x.zh).join('\n')
           : b.type === 'exchanges' ? b.items.flatMap((x) => [x.a.zh, x.b.zh]).join('\n')
@@ -142,7 +142,7 @@ function renderMigrated(m, l, book) {
       case 'heading': return h(b.level === 3 ? 'h3' : 'h2', { class: 'block-h', id: b.id }, b.zh ? h('span', { lang: 'zh-Hant' }, b.zh + ' ') : null, b.en || '');
       case 'dialogue': return h('section', { class: 'block dialogue', id: b.id },
         b.title ? h('h3', {}, b.title) : null, player,
-        h('div', { class: 'dlg' }, ...b.lines.map((ln) => h('div', { class: 'dlg-line' },
+        h('div', { class: 'dlg' }, ...b.lines.map((ln) => ln.note ? h('p', { class: 'dlg-note' }, ln.note) : h('div', { class: 'dlg-line' },
           h('span', { class: 'spk', lang: 'zh-Hant' }, ln.spk ? ln.spk : ''),
           h('div', {}, h('p', { class: 'zh', lang: 'zh-Hant' }, ln.zh, ' ', SpeakButton(ln.zh)), h('p', { class: 'py', lang: 'zh-Latn-pinyin', hidden: !showPy || null }, ln.py))))),
         b.translation ? h('details', { class: 'trans' }, h('summary', {}, 'Terjemahan bahasa Inggris (dari buku)'),
