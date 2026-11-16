@@ -343,3 +343,22 @@ input[type=file] { position: absolute; width: 1px; height: 1px; opacity: 0; }
 body::after { content: "ReyZ TOCFL · Reynard Agahari"; position: fixed; right: .7rem; bottom: .45rem; font-size: .7rem; color: var(--muted); opacity: .35; pointer-events: none; z-index: 1; }
 @media print { .site-header, .site-footer, body::after { display: none; } body { background: #fff; } }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { transition: none !important; animation: none !important; } }
+
+/* ---------- section practice menu ---------- */
+.skills { align-items: start; }
+.skill-col h2 { margin-top: .4rem; }
+.sub-h { margin: .2rem 0 .1rem; }
+.section-menu { display: grid; gap: .6rem; margin: .7rem 0 1rem; }
+.section-card { display: grid; grid-template-columns: auto 1fr; grid-template-rows: auto auto auto; column-gap: .9rem; row-gap: .1rem; padding: .85rem 1rem; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-md); text-decoration: none; color: var(--text); box-shadow: var(--shadow); transition: border-color .15s, transform .15s, box-shadow .15s; }
+.section-card:hover { border-color: var(--brand); transform: translateY(-2px); box-shadow: var(--shadow-lift); color: var(--text); }
+.sec-zh { grid-row: 1 / span 3; align-self: center; font-family: var(--font-zh-serif); font-weight: 700; font-size: 1.25rem; color: var(--seal); min-width: 4.4em; padding-right: .9rem; border-right: 1px dashed var(--line-strong); }
+.sec-name { font-family: var(--font-display); font-weight: 600; font-size: 1.05rem; }
+.sec-desc { font-size: .88rem; color: var(--muted); }
+.sec-meta { font-size: .82rem; color: var(--brand); font-weight: 600; }
+.full-tests summary { font-family: var(--font-display); }
+.full-tests .test-list { margin-top: .5rem; }
+.set-list { list-style: none; padding: 0; margin: 0; }
+.set-row { display: flex; justify-content: space-between; align-items: center; gap: .6rem; flex-wrap: wrap; padding: .7rem 0; border-bottom: 1px dashed var(--line-strong); }
+.set-row:last-child { border-bottom: 0; }
+.set-actions { display: flex; gap: .4rem; }
+@media (max-width: 520px) { .sec-zh { min-width: 3.2em; font-size: 1.05rem; } }

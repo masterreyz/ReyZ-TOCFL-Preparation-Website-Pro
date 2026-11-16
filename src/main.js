@@ -4,7 +4,7 @@ import { t } from './i18n.js';
 import { store } from './store.js';
 import { homeView } from './views/home.js';
 import { studyHome, levelView, bookView, lessonView, pageView } from './views/study.js';
-import { exerciseHome, bandView, testIntro, testRun, resultView } from './views/exercise.js';
+import { exerciseHome, bandView, sectionView, testIntro, testRun, resultView } from './views/exercise.js';
 import { mistakesView, bookmarksView, historyView, settingsView } from './views/personal.js';
 import { searchView } from './views/search.js';
 import { aboutView } from './views/about.js';
@@ -15,7 +15,7 @@ const routes = [
   [[], homeView],
   [['study'], studyHome], [['study', ':level'], levelView], [['book', ':book'], bookView],
   [['lesson', ':lesson'], lessonView], [['page', ':book', ':page'], pageView],
-  [['exercise'], exerciseHome], [['exercise', ':band'], bandView],
+  [['exercise'], exerciseHome], [['exercise', ':band'], bandView], [['section', ':band', ':sec'], sectionView],
   [['test', ':test'], testIntro], [['test', ':test', 'run'], testRun], [['result', ':attempt'], resultView],
   [['mistakes'], mistakesView], [['bookmarks'], bookmarksView], [['history'], historyView],
   [['settings'], settingsView], [['search'], searchView], [['about'], aboutView],
@@ -77,7 +77,7 @@ async function render() {
   document.querySelectorAll('[data-nav]').forEach((a) => {
     const href = a.getAttribute('data-nav');
     const cur = '#/' + (parts[0] || '');
-    a.toggleAttribute('aria-current', href === cur || (href === '#/study' && ['book', 'lesson', 'page'].includes(parts[0])) || (href === '#/exercise' && ['test', 'result'].includes(parts[0])));
+    a.toggleAttribute('aria-current', href === cur || (href === '#/study' && ['book', 'lesson', 'page'].includes(parts[0])) || (href === '#/exercise' && ['test', 'result', 'section'].includes(parts[0])));
   });
   $('#nav').classList.remove('open');
   main.replaceChildren(h('div', { class: 'wrap loading' }, t('loading')));

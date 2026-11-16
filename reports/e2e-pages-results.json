@@ -70,6 +70,131 @@
   "detail": ""
  },
  {
+  "test": "band novice section menu L/R",
+  "ok": true,
+  "detail": "(3, 2)"
+ },
+ {
+  "test": "band a section menu L/R",
+  "ok": true,
+  "detail": "(4, 5)"
+ },
+ {
+  "test": "band b section menu L/R",
+  "ok": true,
+  "detail": "(2, 2)"
+ },
+ {
+  "test": "band c section menu L/R",
+  "ok": true,
+  "detail": "(2, 2)"
+ },
+ {
+  "test": "section a-r-sentence lists all series",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "section a-r-sentence shows only its questions",
+  "ok": true,
+  "detail": "15 vs 15"
+ },
+ {
+  "test": "section a-r-sentence graded 100% with key",
+  "ok": true,
+  "detail": "100% 15 dari 15 soal yang dinilai"
+ },
+ {
+  "test": "section a-r-sentence retry link keeps section",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "section a-l-single lists all series",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "section a-l-single shows only its questions",
+  "ok": true,
+  "detail": "18 vs 18"
+ },
+ {
+  "test": "section a-l-single graded 100% with key",
+  "ok": true,
+  "detail": "100% 18 dari 18 soal yang dinilai"
+ },
+ {
+  "test": "section a-l-single retry link keeps section",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "section b-r-gap lists all series",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "section b-r-gap shows only its questions",
+  "ok": true,
+  "detail": "18 vs 18"
+ },
+ {
+  "test": "section b-r-gap graded 100% with key",
+  "ok": true,
+  "detail": "100% 18 dari 18 soal yang dinilai"
+ },
+ {
+  "test": "section b-r-gap retry link keeps section",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "section c-l-monologue lists all series",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "section c-l-monologue shows only its questions",
+  "ok": true,
+  "detail": "23 vs 23"
+ },
+ {
+  "test": "section c-l-monologue graded 100% with key",
+  "ok": true,
+  "detail": "100% 23 dari 23 soal yang dinilai"
+ },
+ {
+  "test": "section c-l-monologue retry link keeps section",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "section n-l3 lists all series",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "section n-l3 shows only its questions",
+  "ok": true,
+  "detail": "5 vs 5"
+ },
+ {
+  "test": "section n-l3 graded 100% with key",
+  "ok": true,
+  "detail": "100% 5 dari 5 soal yang dinilai"
+ },
+ {
+  "test": "section n-l3 retry link keeps section",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "section exam audio reads only its questions",
+  "ok": true,
+  "detail": "['第46題', '第47題']"
+ },
+ {
   "test": "route #/study",
   "ok": true,
   "detail": ""

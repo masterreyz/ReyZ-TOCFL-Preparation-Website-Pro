@@ -47,7 +47,7 @@ export async function homeView() {
         inProg.length ? h('div', {}, h('h3', {}, 'Tes yang belum selesai'),
           h('ul', { class: 'plain' }, ...inProg.map(([id, p]) => {
             const meta = tests.find((x) => x.id === id);
-            return h('li', {}, h('a', { href: `#/test/${id}/run?mode=${p.mode}` }, meta?.title || id), h('span', { class: 'muted' }, ` — ${Object.keys(p.answers || {}).length} jawaban tersimpan`));
+            return h('li', {}, h('a', { href: p.href || `#/test/${id}/run?mode=${p.mode}` }, p.title || meta?.title || id), h('span', { class: 'muted' }, ` — ${Object.keys(p.answers || {}).length} jawaban tersimpan`));
           }))) : null),
       h('div', { class: 'card' },
         h('h2', {}, 'Hasil latihan terbaru'),
@@ -70,7 +70,7 @@ export const scoreClass = (a) => { const p = pct(a.score.correct, a.score.gradab
 
 export function countMistakes(attempts) {
   const latest = new Map();
-  for (const a of attempts) if (!latest.has(a.testId) || latest.get(a.testId).submittedAt < a.submittedAt) latest.set(a.testId, a);
+  for (const a of attempts) { const k = (a.testId + (a.range ? `@${a.range.from}-${a.range.to}` : '')); if (!latest.has(k) || latest.get(k).submittedAt < a.submittedAt) latest.set(k, a); }
   let n = 0;
   for (const a of latest.values()) n += a.results.filter((r) => r.status === 'incorrect' || r.status === 'unanswered').length;
   return n;

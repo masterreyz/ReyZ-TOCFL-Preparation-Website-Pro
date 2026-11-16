@@ -96,6 +96,43 @@ with sync_playwright() as p:
     page.wait_for_selector("#voice")
     check("voice picker lists zh voices only", page.locator("#voice option").count() == 2)
 
+
+    # ---- section practice (TOCFL Exercise per bagian)
+    secs = json.load(open("content/exercise/sections.json"))
+    expect = {"novice": (3, 2), "a": (4, 5), "b": (2, 2), "c": (2, 2)}
+    for band, (nl, nr) in expect.items():
+        page.goto(BASE + f"#/exercise/{band}")
+        page.wait_for_selector(".section-card")
+        cols = page.locator(".skill-col")
+        got = (cols.nth(0).locator(".section-card").count(), cols.nth(1).locator(".section-card").count())
+        check(f"band {band} section menu L/R", got == (nl, nr), str(got))
+    for sid in ["a-r-sentence", "a-l-single", "b-r-gap", "c-l-monologue", "n-l3"]:
+        sec = next(x for x in secs if x["id"] == sid)
+        st = sec["sets"][-1]
+        page.goto(BASE + f"#/section/{sec['band']}/{sid}")
+        page.wait_for_selector(".set-row")
+        check(f"section {sid} lists all series", page.locator(".set-row").count() == len(sec["sets"]))
+        page.locator(".set-row").last.locator("a.btn").click()
+        page.wait_for_selector(".q-pane h2")
+        n = page.locator(".qnav .qn").count()
+        check(f"section {sid} shows only its questions", n == st["questions"] and page.inner_text(".qnav .qn >> nth=0") == str(st["from"]), f"{n} vs {st['questions']}")
+        d = json.load(open(f"content/exercise/{st['test']}.json"))
+        for i, q in enumerate([q for q in d["questions"] if st["from"] <= q["n"] <= st["to"]]):
+            page.click(f".qnav .qn >> nth={i}")
+            page.check(f".q-pane input[value='{q['answer']}']")
+        page.click(".test-status .btn.primary")
+        page.wait_for_selector(".big-score")
+        check(f"section {sid} graded 100% with key", "100%" in page.inner_text(".big-score") and f"{st['questions']} dari {st['questions']}" in page.inner_text(".big-score"), page.inner_text(".big-score").replace("\n", " "))
+        check(f"section {sid} retry link keeps section", "from=" in (page.get_attribute("a:has-text('Ulangi bagian ini')", "href") or ""))
+    sec = next(x for x in secs if x["id"] == "a-l-dialogue"); st = sec["sets"][0]
+    page.goto(BASE + f"#/test/{st['test']}/run?sec=a-l-dialogue&from={st['from']}&to={st['to']}&mode=exam&min=0")
+    page.wait_for_selector(".audio-box .ap-btn")
+    page.evaluate("window.__spoken.length = 0")
+    page.click(".audio-box .ap-btn")
+    page.wait_for_timeout(2500)
+    sp = page.evaluate("window.__spoken.map(s => s.text)")
+    nums = [t for t in sp if t.startswith("第") and t.endswith("題")]
+    check("section exam audio reads only its questions", nums and nums[0] == f"第{st['from']}題" and all(int(t[1:-1]) >= st['from'] for t in nums), str(nums[:3]))
     for route in ["#/study", "#/study/c2", "#/book/b1-wo", "#/exercise", "#/exercise/c", "#/search?q=茶", "#/about", "#/history", "#/mistakes", "#/bookmarks", "#/page/c1-te/40"]:
         page.goto(BASE + route)
         page.wait_for_selector("h1")

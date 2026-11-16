@@ -8,10 +8,10 @@ import { chineseVoices, speakChunks, toChunks, ttsSupported, NO_VOICE } from '..
 export async function mistakesView(_, query) {
   const s = store.get();
   const latest = new Map();
-  for (const a of s.attempts) if (!latest.has(a.testId) || latest.get(a.testId).submittedAt < a.submittedAt) latest.set(a.testId, a);
+  for (const a of s.attempts) { const k = (a.testId + (a.range ? `@${a.range.from}-${a.range.to}` : '')); if (!latest.has(k) || latest.get(k).submittedAt < a.submittedAt) latest.set(k, a); }
   const groups = [...latest.values()].map((a) => ({ a, wrong: a.results.filter((r) => r.status === 'incorrect' || r.status === 'unanswered') })).filter((g) => g.wrong.length);
   const only = query.get('test');
-  const shown = only ? groups.filter((g) => g.a.testId === only) : groups;
+  const shown = only ? groups.filter((g) => g.a.id === only) : groups;
   const sections = [];
   for (const g of shown.slice(0, only ? 1 : 50)) {
     const test = await getJson(`content/exercise/${g.a.testId}.json`);
@@ -20,7 +20,7 @@ export async function mistakesView(_, query) {
       only ? h('div', {}, ...g.wrong.map((r) => {
         const q = test.questions.find((x) => x.n === r.n);
         return h('div', { class: 'review-mini' }, h('h3', {}, `Soal ${q.n} — jawaban Anda ${r.given ? '(' + r.given + ')' : '—'}, benar (${q.answer})`), questionBody(test, q, { review: true, result: r }));
-      })) : h('p', {}, h('a', { href: `#/mistakes?test=${g.a.testId}` }, 'Ulas soal-soal ini →'), ' · ', h('a', { href: `#/test/${g.a.testId}/run?mode=practice` }, 'Kerjakan ulang tes'))));
+      })) : h('p', {}, h('a', { href: `#/mistakes?test=${g.a.id}` }, 'Ulas soal-soal ini →'), ' · ', h('a', { href: g.a.retry || `#/test/${g.a.testId}/run?mode=practice` }, g.a.range ? 'Kerjakan ulang bagian ini' : 'Kerjakan ulang tes'))));
   }
   return h('div', { class: 'wrap' },
     h('h1', {}, 'Ulas Kesalahan'),
@@ -45,7 +45,7 @@ export async function historyView() {
       h('thead', {}, h('tr', {}, ...['Tanggal', 'Tes', 'Mode', 'Skor', 'Durasi', ''].map((x) => h('th', { scope: 'col' }, x)))),
       h('tbody', {}, ...atts.map((a) => h('tr', {}, h('td', {}, fmtDate(a.submittedAt)), h('td', {}, a.title), h('td', {}, a.mode === 'exam' ? 'Simulasi' : 'Latihan'),
         h('td', {}, h('span', { class: `score ${scoreClass(a)}` }, `${a.score.correct}/${a.score.gradable} · ${a.score.percent}%`)), h('td', {}, fmtTime(a.durationSec)),
-        h('td', {}, h('a', { href: `#/result/${a.id}` }, 'Lihat'), ' · ', h('a', { href: `#/test/${a.testId}/run?mode=${a.mode}` }, 'Ulangi')))))))
+        h('td', {}, h('a', { href: `#/result/${a.id}` }, 'Lihat'), ' · ', h('a', { href: a.retry || `#/test/${a.testId}/run?mode=${a.mode}` }, 'Ulangi')))))))
       : h('p', { class: 'card' }, 'Belum ada tes yang dikumpulkan.'));
 }
 

@@ -1,0 +1,1298 @@
+[
+ {
+  "id": "n-l1",
+  "band": "novice",
+  "skill": "listening",
+  "order": 0,
+  "zh": "第一部分",
+  "name": "Part 1 — dengar kalimat, pilih gambar",
+  "desc": "Listen to a sentence, choose the matching picture (A–C).",
+  "sets": [
+   {
+    "test": "novice-l1",
+    "series": 1,
+    "title": "Novice Listening · Series 1",
+    "part": 0,
+    "partTitle": "第一部分",
+    "instructions": "說明：在這個部分，每題有(A)(B)(C)三張圖片，你會聽到一句話。請根據說話內\n容，選出正確的圖片。每題念兩次，第一次念完以後，先停五秒，再念第\n二次。第二次念完以後停十秒，就繼續下一題。",
+    "instructionsEn": "Directions: In this part of the test, each test item includes three pictures (A), (B), and (C). You will hear a sentence. After each sentence, please choose the picture that best describes the sentence. Each sentence will be read twice with a 5-second pause between readings. After the second reading, you will have ten seconds to mark your answer before the next question begins.",
+    "from": 1,
+    "to": 10,
+    "questions": 10
+   }
+  ],
+  "questions": 10
+ },
+ {
+  "id": "n-l2",
+  "band": "novice",
+  "skill": "listening",
+  "order": 1,
+  "zh": "第二部分",
+  "name": "Part 2 — lihat gambar, pilih kalimat yang didengar",
+  "desc": "Look at a picture, choose the spoken sentence (A–C) that matches it.",
+  "sets": [
+   {
+    "test": "novice-l1",
+    "series": 1,
+    "title": "Novice Listening · Series 1",
+    "part": 1,
+    "partTitle": "第二部分",
+    "instructions": "說明：在這個部分，每題有一張圖片，你會聽到(A)(B)(C)三個句子。請根據圖片，\n選出正確的答案。每題念兩次，第一次念完以後，先停五秒，再念第二次。\n第二次念完以後停十秒，就繼續下一題。(B), and (C). After listening to these three sentences, please choose the correct answer that best",
+    "instructionsEn": "Directions: In this part of the test, each question includes a picture. You will hear three sentences (A), describes the picture. Each sentence will be read twice with a 5-second pause between readings. After the second reading, you will have ten seconds to mark your answer before the next question begins.",
+    "from": 11,
+    "to": 20,
+    "questions": 10
+   }
+  ],
+  "questions": 10
+ },
+ {
+  "id": "n-l3",
+  "band": "novice",
+  "skill": "listening",
+  "order": 2,
+  "zh": "第三部分",
+  "name": "Part 3 — dialog tanya-jawab singkat",
+  "desc": "Listen to a short question-and-answer dialogue, then answer the question.",
+  "sets": [
+   {
+    "test": "novice-l1",
+    "series": 1,
+    "title": "Novice Listening · Series 1",
+    "part": 2,
+    "partTitle": "第三部分",
+    "instructions": "說明：在這個部分，每題有一個問題，你會聽到一段一問一答的對話，然後聽到\n問題和(A)(B)(C)三個選項。請根據對話，回答問題。每題念兩次，第一次\n念完以後，先停五秒，再念第二次。第二次念完以後停十秒，就繼續下一\n題。",
+    "instructionsEn": "Directions: In this part of the test, each test item includes a question. You will hear a dialogue between two people. There will be a question with three possible answers (A), (B), and (C). After each dialogue, please choose the correct answer. Each sentence will be read twice with a 5-second pause between readings. After the second reading, you will have ten seconds to mark your answer before the next question begins.",
+    "from": 21,
+    "to": 25,
+    "questions": 5
+   }
+  ],
+  "questions": 5
+ },
+ {
+  "id": "n-r1",
+  "band": "novice",
+  "skill": "reading",
+  "order": 0,
+  "zh": "第一部分",
+  "name": "Part 1 — baca teks, pilih gambar",
+  "desc": "Read a short text, choose the matching picture (A–C).",
+  "sets": [
+   {
+    "test": "novice-r1",
+    "series": 1,
+    "title": "Novice Reading · Series 1",
+    "part": 0,
+    "partTitle": "第一部分",
+    "instructions": "說明：在這個部分，每題有一個簡短的文字訊息和(A)(B)(C)三張圖片。請根據文\n字訊息，選出正確的圖片。(B), and (C). Please pick the picture that matches each text the best.",
+    "instructionsEn": "Directions: In this part of the test, each test item will have the text and three pictures marked (A),",
+    "from": 1,
+    "to": 15,
+    "questions": 15
+   }
+  ],
+  "questions": 15
+ },
+ {
+  "id": "n-r2",
+  "band": "novice",
+  "skill": "reading",
+  "order": 1,
+  "zh": "第二部分",
+  "name": "Part 2 — lihat gambar, pilih kalimat",
+  "desc": "Look at a picture, choose the sentence (A–C) that matches it.",
+  "sets": [
+   {
+    "test": "novice-r1",
+    "series": 1,
+    "title": "Novice Reading · Series 1",
+    "part": 1,
+    "partTitle": "第二部分",
+    "instructions": "說明：在這個部分，每題有一張圖片和(A)(B)(C)三個句子。請根據圖片，選出正\n確的答案。",
+    "instructionsEn": "Directions: In this part of the test, each test item has a picture and three sentences marked (A), (B), and (C). Please pick the answer that matches each picture the best.",
+    "from": 16,
+    "to": 25,
+    "questions": 10
+   }
+  ],
+  "questions": 10
+ },
+ {
+  "id": "a-l-pic",
+  "band": "a",
+  "skill": "listening",
+  "order": 0,
+  "zh": "看圖回答",
+  "name": "Picture Description",
+  "desc": "Lihat gambar, dengar pertanyaan dan tiga pilihan jawaban.",
+  "sets": [
+   {
+    "test": "a-l1",
+    "series": 1,
+    "title": "Band A Listening · Series 1",
+    "part": 0,
+    "partTitle": "第一部分",
+    "instructions": "說明：在這個部分，每題有一張圖片，你會先聽到一個問題，接著再聽到(A)(B)(C)\n三個選項，請根據圖片提示從(A)(B)(C)中選出正確的答案。每題念兩次，\n第一次念完以後先停五秒，再念第二次。第二次念完以後停五秒，就繼續下\n一題。",
+    "instructionsEn": "Directions: In this test part, each test item comes with a picture. You will hear a question and three possible answers (A), (B), and (C) read aloud. Please use the picture to choose the most appropriate answer to each statement. Each test item will be read twice, and there will be a 5-second pause after the question is read for the first time. After the second reading, you will have five seconds to mark your answer before you hear the next test item.",
+    "from": 1,
+    "to": 25,
+    "questions": 25
+   },
+   {
+    "test": "a-l2",
+    "series": 2,
+    "title": "Band A Listening · Series 2",
+    "part": 0,
+    "partTitle": "第一部分",
+    "instructions": "說明：在這個部分，每題有一張圖片，你會先聽到一個問題，接著再聽到(A)(B)(C)\n三個選項，請根據圖片提示從(A)(B)(C)中選出正確的答案。每題念兩次，\n第一次念完以後先停五秒，再念第二次。第二次念完以後停五秒，就繼續下\n一題。",
+    "instructionsEn": "Directions: In this test part, each test item comes with a picture. You will hear a question and three possible answers (A), (B), and (C) read aloud. Please use the picture to choose the most appropriate answer to each statement. Each test item will be read twice, and there will be a 5-second pause after the question is read for the first time. After the second reading, you will have five seconds to mark your answer before you hear the next test item.",
+    "from": 1,
+    "to": 25,
+    "questions": 25
+   },
+   {
+    "test": "a-l3",
+    "series": 3,
+    "title": "Band A Listening · Series 3",
+    "part": 0,
+    "partTitle": "第一部分",
+    "instructions": "說明：在這個部分，每題有一張圖片，你會先聽到一個問題，接著再聽到\n(A)(B)(C)三個選項，請根據圖片提示從(A)(B)(C)中選出正確的答\n案。每題念兩次，第一次念完以後先停五秒，再念第二次。第二次\n念完以後停五秒，就繼續下一題。",
+    "instructionsEn": "Directions: In this part of the test, each test item comes with a picture. You will hear a question and three possible answers (A), (B), and (C) read aloud. Please use the picture to choose the most appropriate answer to each statement. Each test item will be read twice, and there will be a 5-second pause after the question is read for the first time. After the second reading, you will have five seconds to mark your answer before a new test item begins.",
+    "from": 1,
+    "to": 10,
+    "questions": 10
+   },
+   {
+    "test": "a-l4",
+    "series": 4,
+    "title": "Band A Listening · Series 4",
+    "part": 0,
+    "partTitle": "第一部分",
+    "instructions": "說明：在這個部分，每題有一張圖片，你會先聽到一個問題，接著再聽到\n(A)(B)(C)三個選項，請根據圖片提示從(A)(B)(C)中選出正確的答\n案。每題念兩次，第一次念完以後先停五秒，再念第二次。第二次\n念完以後停五秒，就繼續下一題。",
+    "instructionsEn": "Directions: In this part of the test, each test item comes with a picture. You will hear a question and three possible answers (A), (B), and (C) read aloud. Please use the picture to choose the most appropriate answer to each statement. Each test item will be read twice, and there will be a 5-second pause after the question is read for the first time. After the second reading, you will have five seconds to mark your answer before a new test item begins.",
+    "from": 1,
+    "to": 10,
+    "questions": 10
+   },
+   {
+    "test": "a-l5",
+    "series": 5,
+    "title": "Band A Listening · Series 5",
+    "part": 0,
+    "partTitle": "第一部分",
+    "instructions": "說明：在這個部分，每題有一張圖片，你會先聽到一個問題，接著再聽到\n(A)(B)(C)三個選項，請根據圖片提示從(A)(B)(C)中選出正確的答\n案。每題念兩次，第一次念完以後先停五秒，再念第二次。第二次\n念完以後停五秒，就繼續下一題。",
+    "instructionsEn": "Directions: In this part of the test, each test item comes with a picture. You will hear a question and three possible answers (A), (B), and (C) read aloud. Please use the picture to choose the most appropriate answer to each statement. Each test item will be read twice, and there will be a 5-second pause after the question is read for the first time. After the second reading, you will have five seconds to mark your answer before a new test item begins.",
+    "from": 1,
+    "to": 10,
+    "questions": 10
+   }
+  ],
+  "questions": 80
+ },
+ {
+  "id": "a-l-single",
+  "band": "a",
+  "skill": "listening",
+  "order": 1,
+  "zh": "問答理解",
+  "name": "Single-round Dialogue (Q&A Understanding)",
+  "desc": "Dengar satu pertanyaan/pernyataan, pilih tanggapan yang tepat.",
+  "sets": [
+   {
+    "test": "a-l1",
+    "series": 1,
+    "title": "Band A Listening · Series 1",
+    "part": 1,
+    "partTitle": "第二部分",
+    "instructions": "說明：在這個部分，每題有(A)(B)(C)三張圖片，你會聽到一問一答的對話，請根\n據對話的內容，選出合適的圖片。每題念兩次，第一次念完以後先停五秒，\n再念第二次。第二次念完以後停五秒，就繼續下一題。",
+    "instructionsEn": "Directions: In this test part, each test item includes three pictures (A), (B), and (C). You will hear a dialogue read between two speakers. After each dialogue, please choose the picture that best describes the dialogue. Each dialogue will be read twice with a 5-second pause in between readings. After the second reading, you will have five seconds to mark your answer before a new test item begins.",
+    "from": 26,
+    "to": 40,
+    "questions": 15
+   },
+   {
+    "test": "a-l2",
+    "series": 2,
+    "title": "Band A Listening · Series 2",
+    "part": 1,
+    "partTitle": "第二部分",
+    "instructions": "說明：在這個部分，每題有(A)(B)(C)三張圖片，你會聽到一問一答的對話，請根\n據對話的內容，選出合適的圖片。每題念兩次，第一次念完以後先停五秒，\n再念第二次。第二次念完以後停五秒，就繼續下一題。",
+    "instructionsEn": "Directions: In this test part, each test item includes three pictures (A), (B), and (C). You will hear a dialogue read between two speakers. After each dialogue, please choose the picture that best describes the dialogue. Each dialogue will be read twice with a 5-second pause in between readings. After the second reading, you will have five seconds to mark your answer before a new test item begins.",
+    "from": 26,
+    "to": 40,
+    "questions": 15
+   },
+   {
+    "test": "a-l3",
+    "series": 3,
+    "title": "Band A Listening · Series 3",
+    "part": 1,
+    "partTitle": "第二部分",
+    "instructions": "說明：在這個部分，每題有(A)(B)(C)三張圖片，你會聽到一問一答的對話，\n請根據對話的內容，選出合適的圖片。每題念兩次，第一次念完以\n後先停五秒，再念第二次。第二次念完以後停五秒，就繼續下一題。",
+    "instructionsEn": "Directions: In this part of the test, each test item includes three pictures (A), (B), and (C). You will hear a dialogue read between two speakers. After each dialogue, please choose the picture that best describes the dialogue. Each dialogue will be read twice with a 5-second pause in between readings. After the second reading, you will have five seconds to mark your answer before a new test item begins.",
+    "from": 11,
+    "to": 25,
+    "questions": 15
+   },
+   {
+    "test": "a-l4",
+    "series": 4,
+    "title": "Band A Listening · Series 4",
+    "part": 1,
+    "partTitle": "第二部分",
+    "instructions": "說明：在這個部分，每題有(A)(B)(C)三張圖片，你會聽到一問一答的對話，\n請根據對話的內容，選出合適的圖片。每題念兩次，第一次念完以\n後先停五秒，再念第二次。第二次念完以後停五秒，就繼續下一題。",
+    "instructionsEn": "Directions: In this part of the test, each test item includes three pictures (A), (B), and (C). You will hear a dialogue read between two speakers. After each dialogue, please choose the picture that best describes the dialogue. Each dialogue will be read twice with a 5-second pause in between readings. After the second reading, you will have five seconds to mark your answer before a new test item begins.",
+    "from": 11,
+    "to": 25,
+    "questions": 15
+   },
+   {
+    "test": "a-l5",
+    "series": 5,
+    "title": "Band A Listening · Series 5",
+    "part": 1,
+    "partTitle": "第二部分",
+    "instructions": "說明：在這個部分，每題有(A)(B)(C)三張圖片，你會聽到一問一答的對話，\n請根據對話的內容，選出合適的圖片。每題念兩次，第一次念完以\n後先停五秒，再念第二次。第二次念完以後停五秒，就繼續下一題。",
+    "instructionsEn": "Directions: In this part of the test, each test item includes three pictures (A), (B), and (C). You will hear a dialogue read between two speakers. After each dialogue, please choose the picture that best describes the dialogue. Each dialogue will be read twice with a 5-second pause in between readings. After the second reading, you will have five seconds to mark your answer before a new test item begins.",
+    "from": 11,
+    "to": 28,
+    "questions": 18
+   }
+  ],
+  "questions": 78
+ },
+ {
+  "id": "a-l-multi",
+  "band": "a",
+  "skill": "listening",
+  "order": 2,
+  "zh": "對話理解",
+  "name": "Multiple-round Dialogue (Dialogue Comprehension)",
+  "desc": "Dengar percakapan beberapa giliran, jawab pertanyaannya.",
+  "sets": [
+   {
+    "test": "a-l1",
+    "series": 1,
+    "title": "Band A Listening · Series 1",
+    "part": 2,
+    "partTitle": "第三部分",
+    "instructions": "說明：在這個部分，每題有(A)(B)(C)三張圖片，你會聽到一段兩個人的對話，一\n共有四句話，對話結束後有一個問題，請根據問題選出合適的圖片。每題念\n兩次，第一次念完以後先停五秒，再念第二次。第二次念完以後停五秒，就\n繼續下一題。",
+    "instructionsEn": "Directions: In this test part, each test item has three pictures (A), (B), and (C). You will hear a dialogue between two speakers, with four sentences altogether. After each dialogue, someone will ask a question about the dialogue. Please choose the picture that best answers this question. Each dialogue will be read twice, with a 5-second pause in between each reading. After the second reading, you will have five seconds to mark your answer before a new test item begins.",
+    "from": 41,
+    "to": 45,
+    "questions": 5
+   },
+   {
+    "test": "a-l2",
+    "series": 2,
+    "title": "Band A Listening · Series 2",
+    "part": 2,
+    "partTitle": "第三部分",
+    "instructions": "說明：在這個部分，每題有(A)(B)(C)三張圖片，你會聽到一段兩個人的對話，一\n共有四句話，對話結束後有一個問題，請根據問題選出合適的圖片。每題念\n兩次，第一次念完以後先停五秒，再念第二次。第二次念完以後停五秒，就\n繼續下一題。",
+    "instructionsEn": "Directions: In this test part, each test item has three pictures (A), (B), and (C). You will hear a dialogue between two speakers, with four sentences altogether. After each dialogue, someone will ask a question about the dialogue. Please choose the picture that best answers this question. Each dialogue will be read twice, with a 5-second pause in between each reading. After the second reading, you will have five seconds to mark your answer before a new test item begins.",
+    "from": 41,
+    "to": 45,
+    "questions": 5
+   },
+   {
+    "test": "a-l3",
+    "series": 3,
+    "title": "Band A Listening · Series 3",
+    "part": 2,
+    "partTitle": "第三部分",
+    "instructions": "說明：在這個部分，每題有(A)(B)(C)三張圖片，你會聽到一段兩個人的對\n話，一共有四句話，對話結束後有一個問題，請根據問題選出合適\n的圖片。每題念兩次，第一次念完以後先停五秒，再念第二次。第\n二次念完以後停五秒，就繼續下一題。",
+    "instructionsEn": "Directions: In this part of the test, each test item has three pictures (A), (B), and (C). You will hear a dialogue between two speakers, with four sentences altogether. After each dialogue, someone will ask a question about the dialogue. Please choose the picture that best answers this question. Each dialogue will be read twice, with a 5-second pause in between each reading. After the second reading, you will have five seconds to mark your answer before a new test item begins.",
+    "from": 26,
+    "to": 40,
+    "questions": 15
+   },
+   {
+    "test": "a-l4",
+    "series": 4,
+    "title": "Band A Listening · Series 4",
+    "part": 2,
+    "partTitle": "第三部分",
+    "instructions": "說明：在這個部分，每題有(A)(B)(C)三張圖片，你會聽到一段兩個人的對\n話，一共有四句話，對話結束後有一個問題，請根據問題選出合適\n的圖片。每題念兩次，第一次念完以後先停五秒，再念第二次。第\n二次念完以後停五秒，就繼續下一題。",
+    "instructionsEn": "Directions: In this part of the test, each test item has three pictures (A), (B), and (C). You will hear a dialogue between two speakers, with four sentences altogether. After each dialogue, someone will ask a question about the dialogue. Please choose the picture that best answers this question. Each dialogue will be read twice, with a 5-second pause in between each reading. After the second reading, you will have five seconds to mark your answer before a new test item begins.",
+    "from": 26,
+    "to": 40,
+    "questions": 15
+   },
+   {
+    "test": "a-l5",
+    "series": 5,
+    "title": "Band A Listening · Series 5",
+    "part": 2,
+    "partTitle": "第三部分",
+    "instructions": "說明：在這個部分，每題有(A)(B)(C)三張圖片，你會聽到一段兩個人的對\n話，一共有四句話，對話結束後有一個問題，請根據問題選出合適\n的圖片。每題念兩次，第一次念完以後先停五秒，再念第二次。第\n二次念完以後停五秒，就繼續下一題。",
+    "instructionsEn": "Directions: In this part of the test, each test item has three pictures (A), (B), and (C). You will hear a dialogue between two speakers, with four sentences altogether. After each dialogue, someone will ask a question about the dialogue. Please choose the picture that best answers this question. Each dialogue will be read twice, with a 5-second pause in between each reading. After the second reading, you will have five seconds to mark your answer before a new test item begins.",
+    "from": 29,
+    "to": 40,
+    "questions": 12
+   }
+  ],
+  "questions": 52
+ },
+ {
+  "id": "a-l-dialogue",
+  "band": "a",
+  "skill": "listening",
+  "order": 3,
+  "zh": "對話",
+  "name": "Dialogue",
+  "desc": "Dengar percakapan yang lebih panjang, jawab pertanyaannya.",
+  "sets": [
+   {
+    "test": "a-l1",
+    "series": 1,
+    "title": "Band A Listening · Series 1",
+    "part": 3,
+    "partTitle": "第四部分",
+    "instructions": "說明：在這個部分，你會聽到兩個人的對話，對話結束後有一個問題，每個\n問題都有(A)(B)(C)(D)四個選項，這四個選項的內容也會出現在題本\n上。請根據問題選出合適的答案。每題只念一遍，選項念完以後停五\n秒，就繼續下一題。",
+    "instructionsEn": "Directions: In this part of the test , you will hear a dialogue between two speakers. After each dialogue, you will be asked a question. Each test item has four possible answers (A), (B), (C) and (D) listed on your answer sheet. For each question, please choose the best possible answer. Each test item will only be read once. You will have five seconds to mark your answer before a new test item begins.",
+    "from": 46,
+    "to": 50,
+    "questions": 5
+   },
+   {
+    "test": "a-l2",
+    "series": 2,
+    "title": "Band A Listening · Series 2",
+    "part": 3,
+    "partTitle": "第四部分",
+    "instructions": "說明：在這個部分，你會聽到兩個人的對話，對話結束後有一個問題，每個\n問題都有(A)(B)(C)(D)四個選項，這四個選項的內容也會出現在題本\n上。請根據問題選出合適的答案。每題只念一遍，選項念完以後停五\n秒，就繼續下一題。",
+    "instructionsEn": "Directions: In this part of the test , you will hear a dialogue between two speakers. After each dialogue, you will be asked a question. Each test item has four possible answers (A), (B), (C) and (D) listed on your answer sheet. For each question, please choose the best possible answer. Each test item will only be read once. You will have five seconds to mark your answer before a new test item begins.",
+    "from": 46,
+    "to": 50,
+    "questions": 5
+   },
+   {
+    "test": "a-l3",
+    "series": 3,
+    "title": "Band A Listening · Series 3",
+    "part": 3,
+    "partTitle": "第四部分",
+    "instructions": "說明：在這個部分，你會聽到兩個人的對話，對話結束後有一個問題，每\n個問題都有(A)(B)(C)(D)四個選項，這四個選項的內容也會出現在\n題本上。請根據問題選出合適的答案。每題只念一遍，選項念完以\n後停五秒，就繼續下一題。",
+    "instructionsEn": "Directions: In this part of the test , you will hear a dialogue between two speakers. After each dialogue, you will be asked a question. Each test item has four possible answers (A), (B), (C) and (D) listed on your answer sheet. For each question, please choose the best possible answer. Each test item will only be read once. You will have five seconds to mark your answer before a new test item begins.",
+    "from": 41,
+    "to": 50,
+    "questions": 10
+   },
+   {
+    "test": "a-l4",
+    "series": 4,
+    "title": "Band A Listening · Series 4",
+    "part": 3,
+    "partTitle": "第四部分",
+    "instructions": "說明：在這個部分，你會聽到兩個人的對話，對話結束後有一個問題，每\n個問題都有(A)(B)(C)(D)四個選項，這四個選項的內容也會出現在\n題本上。請根據問題選出合適的答案。每題只念一遍，選項念完以\n後停五秒，就繼續下一題。",
+    "instructionsEn": "Directions: In this part of the test, you will hear a dialogue between two speakers. After each dialogue, you will be asked a question. Each test item has four possible answers (A), (B), (C) and (D) listed on your answer sheet. For each question, please choose the best possible answer. Each test item will only be read once. You will have five seconds to mark your answer before a new test item begins.",
+    "from": 41,
+    "to": 50,
+    "questions": 10
+   },
+   {
+    "test": "a-l5",
+    "series": 5,
+    "title": "Band A Listening · Series 5",
+    "part": 3,
+    "partTitle": "第四部分",
+    "instructions": "說明：在這個部分，你會聽到兩個人的對話，對話結束後有一個問題，每\n個問題都有(A)(B)(C)(D)四個選項，這四個選項的內容也會出現在\n題本上。請根據問題選出合適的答案。每題只念一遍，選項念完以\n後停五秒，就繼續下一題。",
+    "instructionsEn": "Directions: In this part of the test, you will hear a dialogue between two speakers. After each dialogue, you will be asked a question. Each test item has four possible answers (A), (B), (C) and (D) listed on your answer sheet. For each question, please choose the best possible answer. Each test item will only be read once. You will have five seconds to mark your answer before a new test item begins.",
+    "from": 41,
+    "to": 50,
+    "questions": 10
+   }
+  ],
+  "questions": 40
+ },
+ {
+  "id": "a-r-sentence",
+  "band": "a",
+  "skill": "reading",
+  "order": 0,
+  "zh": "單句理解",
+  "name": "Sentence Comprehension (Single Sentence)",
+  "desc": "Baca satu kalimat, pilih gambar yang sesuai.",
+  "sets": [
+   {
+    "test": "a-r1",
+    "series": 1,
+    "title": "Band A Reading · Series 1",
+    "part": 0,
+    "partTitle": "第一部分",
+    "instructions": "說明：在這個部分，你會看到一個句子和(A)(B)(C)三張圖片。請根據句子的意思，\n從三張圖片中選出與句子意思相符的圖片。",
+    "instructionsEn": "Directions: In this part of the test, each test item will include one sentence and three pictures (A), (B), and (C). Please choose the picture that best describes the sentence.",
+    "from": 1,
+    "to": 15,
+    "questions": 15
+   },
+   {
+    "test": "a-r2",
+    "series": 2,
+    "title": "Band A Reading · Series 2",
+    "part": 0,
+    "partTitle": "第一部分",
+    "instructions": "說明：在這個部分，你會看到一個句子和(A)(B)(C)三張圖片。請根據句子的意思，\n從三張圖片中選出與句子意思相符的圖片。",
+    "instructionsEn": "Directions: In this part of the test, each test item will include one sentence and three pictures (A), (B), and (C). Please choose the picture that best describes the sentence.",
+    "from": 1,
+    "to": 15,
+    "questions": 15
+   },
+   {
+    "test": "a-r3",
+    "series": 3,
+    "title": "Band A Reading · Series 3",
+    "part": 0,
+    "partTitle": "第一部分",
+    "instructions": "說明：在這個部分，你會看到一個句子和(A)(B)(C)三張圖片。請根據句子的意思，\n從三張圖片中選出與句子意思相符的圖片。",
+    "instructionsEn": "Directions: In this part of the test, each test item will include one sentence and three pictures (A), (B), and (C). Please choose the picture that best describes the sentence.",
+    "from": 1,
+    "to": 15,
+    "questions": 15
+   },
+   {
+    "test": "a-r4",
+    "series": 4,
+    "title": "Band A Reading · Series 4",
+    "part": 0,
+    "partTitle": "第一部分",
+    "instructions": "說明：在這個部分，你會看到一個句子和(A)(B)(C)三張圖片。請根據句子的意思，\n從三張圖片中選出與句子意思相符的圖片。",
+    "instructionsEn": "Directions: In this part of the test, each test item will include one sentence and three pictures (A), (B), and (C). Please choose the picture that best describes the sentence.",
+    "from": 1,
+    "to": 15,
+    "questions": 15
+   },
+   {
+    "test": "a-r5",
+    "series": 5,
+    "title": "Band A Reading · Series 5",
+    "part": 0,
+    "partTitle": "第一部分",
+    "instructions": "說明：在這個部分，你會看到一個句子和(A)(B)(C)三張圖片。請根據句子的意思，\n從三張圖片中選出與句子意思相符的圖片。",
+    "instructionsEn": "Directions: In this part of the test, each test item will include one sentence and three pictures (A), (B), and (C). Please choose the picture that best describes the sentence.",
+    "from": 1,
+    "to": 15,
+    "questions": 15
+   }
+  ],
+  "questions": 75
+ },
+ {
+  "id": "a-r-pic",
+  "band": "a",
+  "skill": "reading",
+  "order": 1,
+  "zh": "看圖釋義",
+  "name": "Picture Description (Interpretation of the Image)",
+  "desc": "Lihat gambar/teks visual, pilih pernyataan yang benar.",
+  "sets": [
+   {
+    "test": "a-r1",
+    "series": 1,
+    "title": "Band A Reading · Series 1",
+    "part": 1,
+    "partTitle": "第二部分",
+    "instructions": "說明：在這個部分，你會看到一張圖片。請根據圖片，從(A)(B)(C)三個選項中選\n出與圖片內容相符的句子。",
+    "instructionsEn": "Directions: In this test part, each test item will show a picture. Please choose the single best description from answers (A), (B), or (C).",
+    "from": 16,
+    "to": 30,
+    "questions": 15
+   },
+   {
+    "test": "a-r2",
+    "series": 2,
+    "title": "Band A Reading · Series 2",
+    "part": 1,
+    "partTitle": "第二部分",
+    "instructions": "說明：在這個部分，你會看到一張圖片。請根據圖片，從(A)(B)(C)三個選項中選\n出與圖片內容相符的句子。",
+    "instructionsEn": "Directions: In this test part, each test item will show a picture. Please choose the single best description from answers (A), (B), or (C).",
+    "from": 16,
+    "to": 30,
+    "questions": 15
+   },
+   {
+    "test": "a-r3",
+    "series": 3,
+    "title": "Band A Reading · Series 3",
+    "part": 1,
+    "partTitle": "第二部分",
+    "instructions": "說明：在這個部分，你會看到一張圖片。請根據圖片，從(A)(B)(C)三個選項中選\n出與圖片內容相符的句子。",
+    "instructionsEn": "Directions: In this test part, each test item will show a picture. Please choose the single best description from answers (A), (B), or (C).",
+    "from": 16,
+    "to": 30,
+    "questions": 15
+   },
+   {
+    "test": "a-r4",
+    "series": 4,
+    "title": "Band A Reading · Series 4",
+    "part": 1,
+    "partTitle": "第二部分",
+    "instructions": "說明：在這個部分，你會看到一張圖片。請根據圖片，從(A)(B)(C)三個選項中選\n出與圖片內容相符的句子。",
+    "instructionsEn": "Directions: In this test part, each test item will show a picture. Please choose the single best description from answers (A), (B), or (C).",
+    "from": 16,
+    "to": 30,
+    "questions": 15
+   },
+   {
+    "test": "a-r5",
+    "series": 5,
+    "title": "Band A Reading · Series 5",
+    "part": 1,
+    "partTitle": "第二部分",
+    "instructions": "說明：在這個部分，你會看到一張圖片。請根據圖片，從(A)(B)(C)三個選項中選\n出與圖片內容相符的句子。",
+    "instructionsEn": "Directions: In this test part, each test item will show a picture. Please choose the single best description from answers (A), (B), or (C).",
+    "from": 16,
+    "to": 30,
+    "questions": 15
+   }
+  ],
+  "questions": 75
+ },
+ {
+  "id": "a-r-gap",
+  "band": "a",
+  "skill": "reading",
+  "order": 2,
+  "zh": "選詞填空",
+  "name": "Gap Filling (Fill in the Blanks)",
+  "desc": "Pilih kata yang tepat untuk mengisi bagian kosong.",
+  "sets": [
+   {
+    "test": "a-r1",
+    "series": 1,
+    "title": "Band A Reading · Series 1",
+    "part": 2,
+    "partTitle": "第三部分",
+    "instructions": "說明：在這個部分，每個題組會有一張情境圖片，圖片下面有五個句子，請根據圖\n片情境，選出最合適的答案。",
+    "instructionsEn": "Directions: This test part is divided into sections. Each section has one picture and five sentences. Please choose the answers that best describe each picture.",
+    "from": 31,
+    "to": 40,
+    "questions": 10
+   },
+   {
+    "test": "a-r2",
+    "series": 2,
+    "title": "Band A Reading · Series 2",
+    "part": 2,
+    "partTitle": "第三部分",
+    "instructions": "說明：在這個部分，每個題組會有一張情境圖片，圖片下面有五個句子，請根據圖\n片情境，選出最合適的答案。",
+    "instructionsEn": "Directions: This test part is divided into sections. Each section has one picture and five sentences. Please choose the answers that best describe each picture.",
+    "from": 31,
+    "to": 40,
+    "questions": 10
+   },
+   {
+    "test": "a-r3",
+    "series": 3,
+    "title": "Band A Reading · Series 3",
+    "part": 2,
+    "partTitle": "第三部分",
+    "instructions": "說明：在這個部分，每個題組會有一張情境圖片，圖片下面有五個句子，請根據圖\n片情境，選出最合適的答案。",
+    "instructionsEn": "Directions: This test part is divided into sections. Each section has one picture and five sentences. Please choose the answers that best describe each picture.",
+    "from": 31,
+    "to": 35,
+    "questions": 5
+   },
+   {
+    "test": "a-r4",
+    "series": 4,
+    "title": "Band A Reading · Series 4",
+    "part": 2,
+    "partTitle": "第三部分",
+    "instructions": "說明：在這個部分，每個題組會有一張情境圖片，圖片下面有五個句子，請根據圖\n片情境，選出最合適的答案。",
+    "instructionsEn": "Directions: This test part is divided into sections. Each section has one picture and five sentences. Please choose the answers that best describe each picture.",
+    "from": 31,
+    "to": 35,
+    "questions": 5
+   },
+   {
+    "test": "a-r5",
+    "series": 5,
+    "title": "Band A Reading · Series 5",
+    "part": 2,
+    "partTitle": "第三部分",
+    "instructions": "說明：在這個部分，每個題組會有一張情境圖片，圖片下面有五個句子，請根據圖\n片情境，選出最合適的答案。",
+    "instructionsEn": "Directions: This test part is divided into sections. Each section has one picture and five sentences. Please choose the answers that best describe each picture.",
+    "from": 31,
+    "to": 40,
+    "questions": 10
+   }
+  ],
+  "questions": 40
+ },
+ {
+  "id": "a-r-paragraph",
+  "band": "a",
+  "skill": "reading",
+  "order": 3,
+  "zh": "完成段落",
+  "name": "Paragraph Completion",
+  "desc": "Lengkapi paragraf dengan pilihan kalimat (A–F).",
+  "sets": [
+   {
+    "test": "a-r1",
+    "series": 1,
+    "title": "Band A Reading · Series 1",
+    "part": 3,
+    "partTitle": "第四部分",
+    "instructions": "說明：在這個部分，你會看到一段短文，短文中有五個空格，短文下方有六個選項。\n請根據短文的上下文，選出最適合該空格的答案。注意，一個選項只能用一\n次。",
+    "instructionsEn": "Directions: In this test part, you will read a short passage. The passage has five blank spaces. Six possible answers for the blank spaces are provided under the passage. Please choose the best answer for each blank. Note that each answer can only be used for one blank space.",
+    "from": 41,
+    "to": 45,
+    "questions": 5
+   },
+   {
+    "test": "a-r2",
+    "series": 2,
+    "title": "Band A Reading · Series 2",
+    "part": 3,
+    "partTitle": "第四部分",
+    "instructions": "說明：在這個部分，你會看到一段短文，短文中有五個空格，短文下方有六個選項。\n請根據短文的上下文，選出最適合該空格的答案。注意，一個選項只能用一\n次。",
+    "instructionsEn": "Directions: In this test part, you will read a short passage. The passage has five blank spaces. Six possible answers for the blank spaces are provided under the passage. Please choose the best answer for each blank. Note that each answer can only be used for one blank space.",
+    "from": 41,
+    "to": 45,
+    "questions": 5
+   },
+   {
+    "test": "a-r3",
+    "series": 3,
+    "title": "Band A Reading · Series 3",
+    "part": 3,
+    "partTitle": "第四部分",
+    "instructions": "說明：在這個部分，你會看到一段短文，短文中有五個空格，短文下方有六個選項。\n請根據短文的上下文，選出最適合該空格的答案。注意，一個選項只能用一\n次。",
+    "instructionsEn": "Directions: In this test part, you will read a short passage. The passage has five blank spaces. Six possible answers for the blank spaces are provided under the passage. Please choose the best answer for each blank. Note that each answer can only be used for one blank space.",
+    "from": 36,
+    "to": 45,
+    "questions": 10
+   },
+   {
+    "test": "a-r4",
+    "series": 4,
+    "title": "Band A Reading · Series 4",
+    "part": 3,
+    "partTitle": "第四部分",
+    "instructions": "說明：在這個部分，你會看到一段短文，短文中有五個空格，短文下方有六個選項。\n請根據短文的上下文，選出最適合該空格的答案。注意，一個選項只能用一\n次。",
+    "instructionsEn": "Directions: In this test part, you will read a short passage. The passage has five blank spaces. Six possible answers for the blank spaces are provided under the passage. Please choose the best answer for each blank. Note that each answer can only be used for one blank space.",
+    "from": 36,
+    "to": 45,
+    "questions": 10
+   },
+   {
+    "test": "a-r5",
+    "series": 5,
+    "title": "Band A Reading · Series 5",
+    "part": 3,
+    "partTitle": "第四部分",
+    "instructions": "說明：在這個部分，你會看到一段短文，短文中有五個空格，短文下方有六個選項。\n請根據短文的上下文，選出最適合該空格的答案。注意，一個選項只能用一\n次。",
+    "instructionsEn": "Directions: In this test part, you will read a short passage. The passage has five blank spaces. Six possible answers for the blank spaces are provided under the passage. Please choose the best answer for each blank. Note that each answer can only be used for one blank space.",
+    "from": 41,
+    "to": 45,
+    "questions": 5
+   }
+  ],
+  "questions": 35
+ },
+ {
+  "id": "a-r-comp",
+  "band": "a",
+  "skill": "reading",
+  "order": 4,
+  "zh": "閱讀理解",
+  "name": "Reading Comprehension",
+  "desc": "Baca teks pendek, jawab pertanyaannya.",
+  "sets": [
+   {
+    "test": "a-r1",
+    "series": 1,
+    "title": "Band A Reading · Series 1",
+    "part": 4,
+    "partTitle": "第五部分",
+    "instructions": "說明：在這個部分，你會看到幾篇短文，每一篇短文後面都有一個問題，請根據短\n文的內容回答問題。",
+    "instructionsEn": "Directions: In this test part, you will read several passages. Each passage will be followed by a question. Please choose the correct answer according to the passage.",
+    "from": 46,
+    "to": 50,
+    "questions": 5
+   },
+   {
+    "test": "a-r2",
+    "series": 2,
+    "title": "Band A Reading · Series 2",
+    "part": 4,
+    "partTitle": "第五部分",
+    "instructions": "說明：在這個部分，你會看到幾篇短文，每一篇短文後面都有一個問題，請根據短\n文的內容回答問題。",
+    "instructionsEn": "Directions: In this test part, you will read several passages. Each passage will be followed by a question. Please choose the correct answer according to the passage.",
+    "from": 46,
+    "to": 50,
+    "questions": 5
+   },
+   {
+    "test": "a-r3",
+    "series": 3,
+    "title": "Band A Reading · Series 3",
+    "part": 4,
+    "partTitle": "第五部分",
+    "instructions": "說明：在這個部分，你會看到幾篇短文，每一篇短文後面都有一個問題，請根據短\n文的內容回答問題。",
+    "instructionsEn": "Directions: In this test part, you will read several passages. Each passage will be followed by a question. Please choose the correct answer according to the passage.",
+    "from": 46,
+    "to": 50,
+    "questions": 5
+   },
+   {
+    "test": "a-r4",
+    "series": 4,
+    "title": "Band A Reading · Series 4",
+    "part": 4,
+    "partTitle": "第五部分",
+    "instructions": "說明：在這個部分，你會看到幾篇短文，每一篇短文後面都有一個問題，請根據短\n文的內容回答問題。",
+    "instructionsEn": "Directions: In this test part, you will read several passages. Each passage will be followed by a question. Please choose the correct answer according to the passage.",
+    "from": 46,
+    "to": 50,
+    "questions": 5
+   },
+   {
+    "test": "a-r5",
+    "series": 5,
+    "title": "Band A Reading · Series 5",
+    "part": 4,
+    "partTitle": "第五部分",
+    "instructions": "說明：在這個部分，你會看到幾篇短文，每一篇短文後面都有一個問題，請根據短\n文的內容回答問題。",
+    "instructionsEn": "Directions: In this test part, you will read several passages. Each passage will be followed by a question. Please choose the correct answer according to the passage.",
+    "from": 46,
+    "to": 50,
+    "questions": 5
+   }
+  ],
+  "questions": 25
+ },
+ {
+  "id": "b-l-dialogue",
+  "band": "b",
+  "skill": "listening",
+  "order": 0,
+  "zh": "對話",
+  "name": "Dialogue",
+  "desc": "Dengar percakapan, jawab pertanyaan (A–D).",
+  "sets": [
+   {
+    "test": "b-l1",
+    "series": 1,
+    "title": "Band B Listening · Series 1",
+    "part": 0,
+    "partTitle": "一、對話",
+    "instructions": "說明：在這個部分，你會聽到幾段兩個人的對話，每段對話結束\n後，會問幾個問題。每個問題都有(A)(B)(C)(D)四個選項，\n這四個選項的內容也會出現在題本上。",
+    "instructionsEn": "",
+    "from": 1,
+    "to": 30,
+    "questions": 30
+   },
+   {
+    "test": "b-l2",
+    "series": 2,
+    "title": "Band B Listening · Series 2",
+    "part": 0,
+    "partTitle": "一、對話",
+    "instructions": "說明：在這個部分，你會聽到幾段兩個人的對話，每段對話結束\n後，會問幾個問題。每個問題都有(A)(B)(C)(D)四個選項，\n這四個選項的內容也會出現在題本上。",
+    "instructionsEn": "",
+    "from": 1,
+    "to": 30,
+    "questions": 30
+   },
+   {
+    "test": "b-l3",
+    "series": 3,
+    "title": "Band B Listening · Series 3",
+    "part": 0,
+    "partTitle": "一、對話",
+    "instructions": "說明：在這個部分，你會聽到幾段兩個人的對話，每段對話結束後，\n會問幾個問題。每個問題都有(A)(B)(C)(D)四個選項，這四個\n選項的內容也會出現在題本上。",
+    "instructionsEn": "",
+    "from": 1,
+    "to": 30,
+    "questions": 30
+   },
+   {
+    "test": "b-l4",
+    "series": 4,
+    "title": "Band B Listening · Series 4",
+    "part": 0,
+    "partTitle": "一、對話",
+    "instructions": "說明：在這個部分，你會聽到幾段兩個人的對話，每段對話結束後，\n會問幾個問題。每個問題都有(A) (B) (C) (D)四個選項，\n這四個選項的內容也會出現在題本上。",
+    "instructionsEn": "",
+    "from": 1,
+    "to": 31,
+    "questions": 31
+   },
+   {
+    "test": "b-l5",
+    "series": 5,
+    "title": "Band B Listening · Series 5",
+    "part": 0,
+    "partTitle": "第一部分",
+    "instructions": "",
+    "instructionsEn": "",
+    "from": 1,
+    "to": 30,
+    "questions": 30
+   }
+  ],
+  "questions": 151
+ },
+ {
+  "id": "b-l-monologue",
+  "band": "b",
+  "skill": "listening",
+  "order": 1,
+  "zh": "段落",
+  "name": "Monologue (Paragraph)",
+  "desc": "Dengar pengumuman/teks monolog, jawab pertanyaan (A–D).",
+  "sets": [
+   {
+    "test": "b-l1",
+    "series": 1,
+    "title": "Band B Listening · Series 1",
+    "part": 1,
+    "partTitle": "二、段落",
+    "instructions": "說明：在這個部分，你會聽到幾段話。每段話結束後，會問幾個\n問題。每個問題都有(A)(B)(C)(D)四個選項，這四個選項的\n內容也會出現在題本上。",
+    "instructionsEn": "",
+    "from": 31,
+    "to": 50,
+    "questions": 20
+   },
+   {
+    "test": "b-l2",
+    "series": 2,
+    "title": "Band B Listening · Series 2",
+    "part": 1,
+    "partTitle": "二、段落",
+    "instructions": "說明：在這個部分，你會聽到幾段話。每段話結束後，會問幾個\n問題。每個問題都有(A)(B)(C)(D)四個選項，這四個選項的\n內容也會出現在題本上。",
+    "instructionsEn": "",
+    "from": 31,
+    "to": 50,
+    "questions": 20
+   },
+   {
+    "test": "b-l3",
+    "series": 3,
+    "title": "Band B Listening · Series 3",
+    "part": 1,
+    "partTitle": "二、段落",
+    "instructions": "說明：在這個部分，你會聽到幾段話。每段話結束後，會問幾個問\n題。每個問題都有(A)(B)(C)(D)四個選項，這四個選項的內容\n也會出現在題本上。",
+    "instructionsEn": "",
+    "from": 31,
+    "to": 50,
+    "questions": 20
+   },
+   {
+    "test": "b-l4",
+    "series": 4,
+    "title": "Band B Listening · Series 4",
+    "part": 1,
+    "partTitle": "二、段落",
+    "instructions": "說明：在這個部分，你會聽到幾段話。每段話結束後，會問幾個問\n題。每個問題都有(A) (B) (C) (D)四個選項，這四個選\n項的內容也會出現在題本上。",
+    "instructionsEn": "",
+    "from": 32,
+    "to": 50,
+    "questions": 19
+   },
+   {
+    "test": "b-l5",
+    "series": 5,
+    "title": "Band B Listening · Series 5",
+    "part": 1,
+    "partTitle": "第二部分",
+    "instructions": "",
+    "instructionsEn": "",
+    "from": 31,
+    "to": 50,
+    "questions": 20
+   }
+  ],
+  "questions": 99
+ },
+ {
+  "id": "b-r-gap",
+  "band": "b",
+  "skill": "reading",
+  "order": 0,
+  "zh": "選詞填空",
+  "name": "Gap Filling (Fill in the Blanks)",
+  "desc": "Isi bagian kosong dalam teks dengan pilihan yang tepat.",
+  "sets": [
+   {
+    "test": "b-r1",
+    "series": 1,
+    "title": "Band B Reading · Series 1",
+    "part": 0,
+    "partTitle": "一、選詞填空",
+    "instructions": "說明：在這一部分，每一段短文有幾個空格，每個空格有四個選\n項，請選出正確的答案完成短文。",
+    "instructionsEn": "",
+    "from": 1,
+    "to": 15,
+    "questions": 15
+   },
+   {
+    "test": "b-r2",
+    "series": 2,
+    "title": "Band B Reading · Series 2",
+    "part": 0,
+    "partTitle": "一、選詞填空",
+    "instructions": "說明：在這一部分，每一段短文有幾個空格，每個空格有四個選\n項，請選出正確的答案完成短文。",
+    "instructionsEn": "",
+    "from": 1,
+    "to": 15,
+    "questions": 15
+   },
+   {
+    "test": "b-r3",
+    "series": 3,
+    "title": "Band B Reading · Series 3",
+    "part": 0,
+    "partTitle": "一、選詞填空",
+    "instructions": "說明：在這一部分，每一段短文有幾個空格，每個空格有四個選\n項，請選出正確的答案完成短文。",
+    "instructionsEn": "",
+    "from": 1,
+    "to": 18,
+    "questions": 18
+   },
+   {
+    "test": "b-r4",
+    "series": 4,
+    "title": "Band B Reading · Series 4",
+    "part": 0,
+    "partTitle": "一、選詞填空",
+    "instructions": "說明：在這一部分，每一段短文有幾個空格，每個空格有四個選\n項，請選出正確的答案完成短文。",
+    "instructionsEn": "",
+    "from": 1,
+    "to": 17,
+    "questions": 17
+   },
+   {
+    "test": "b-r5",
+    "series": 5,
+    "title": "Band B Reading · Series 5",
+    "part": 0,
+    "partTitle": "一、選詞填空",
+    "instructions": "說明：在這一部分，每一段短文有幾個空格，每個空格有四個選\n項，請選出正確的答案完成短文。",
+    "instructionsEn": "",
+    "from": 1,
+    "to": 18,
+    "questions": 18
+   }
+  ],
+  "questions": 83
+ },
+ {
+  "id": "b-r-comp",
+  "band": "b",
+  "skill": "reading",
+  "order": 1,
+  "zh": "閱讀理解",
+  "name": "Reading Comprehension",
+  "desc": "Baca teks, jawab pertanyaannya.",
+  "sets": [
+   {
+    "test": "b-r1",
+    "series": 1,
+    "title": "Band B Reading · Series 1",
+    "part": 1,
+    "partTitle": "二、閱讀理解",
+    "instructions": "說明：在這一部分，請閱讀材料或短文，並根據內容回答幾個問\n題。",
+    "instructionsEn": "",
+    "from": 16,
+    "to": 50,
+    "questions": 35
+   },
+   {
+    "test": "b-r2",
+    "series": 2,
+    "title": "Band B Reading · Series 2",
+    "part": 1,
+    "partTitle": "二、閱讀理解",
+    "instructions": "說明：在這一部分，請閱讀材料或短文，並根據內容回答幾個問\n題。",
+    "instructionsEn": "",
+    "from": 16,
+    "to": 50,
+    "questions": 35
+   },
+   {
+    "test": "b-r3",
+    "series": 3,
+    "title": "Band B Reading · Series 3",
+    "part": 1,
+    "partTitle": "二、閱讀理解",
+    "instructions": "說明：在這一部分，請閱讀材料或短文，並根據內容回答幾個問\n題。",
+    "instructionsEn": "",
+    "from": 19,
+    "to": 50,
+    "questions": 32
+   },
+   {
+    "test": "b-r4",
+    "series": 4,
+    "title": "Band B Reading · Series 4",
+    "part": 1,
+    "partTitle": "二、閱讀理解",
+    "instructions": "說明：在這一部分，請閱讀材料或短文，並根據內容回答幾個問\n題。",
+    "instructionsEn": "",
+    "from": 18,
+    "to": 50,
+    "questions": 33
+   },
+   {
+    "test": "b-r5",
+    "series": 5,
+    "title": "Band B Reading · Series 5",
+    "part": 1,
+    "partTitle": "二、閱讀理解",
+    "instructions": "說明：在這一部分，請閱讀材料或短文，並根據內容回答幾個問\n題。",
+    "instructionsEn": "",
+    "from": 19,
+    "to": 50,
+    "questions": 32
+   }
+  ],
+  "questions": 167
+ },
+ {
+  "id": "c-l-dialogue",
+  "band": "c",
+  "skill": "listening",
+  "order": 0,
+  "zh": "對話",
+  "name": "Dialogue",
+  "desc": "Dengar percakapan, jawab pertanyaan (A–D).",
+  "sets": [
+   {
+    "test": "c-l1",
+    "series": 1,
+    "title": "Band C Listening · Series 1",
+    "part": 0,
+    "partTitle": "一、對話",
+    "instructions": "說明：在這個部分，你會聽到幾段兩個人的對話，每段對話結束\n後，會問幾個問題。接著你會聽到(A)(B)(C)(D)四個選項，\n這四個選項的內容也會出現在題本上。",
+    "instructionsEn": "",
+    "from": 1,
+    "to": 25,
+    "questions": 25
+   },
+   {
+    "test": "c-l2",
+    "series": 2,
+    "title": "Band C Listening · Series 2",
+    "part": 0,
+    "partTitle": "一、對話",
+    "instructions": "說明：在這個部分，你會聽到幾段兩個人的對話，每段對話結束\n後，會問幾個問題。接著你會聽到(A)(B)(C)(D)四個選項，\n這四個選項的內容也會出現在題本上。",
+    "instructionsEn": "",
+    "from": 1,
+    "to": 25,
+    "questions": 25
+   },
+   {
+    "test": "c-l3",
+    "series": 3,
+    "title": "Band C Listening · Series 3",
+    "part": 0,
+    "partTitle": "一、對話",
+    "instructions": "說明：在這個部分，你會聽到幾段兩個人的對話，每段對話結束\n後，會問幾個問題。接著你會聽到(A)(B)(C)(D)四個選項，\n這四個選項的內容也會出現在題本上。",
+    "instructionsEn": "",
+    "from": 1,
+    "to": 25,
+    "questions": 25
+   },
+   {
+    "test": "c-l4",
+    "series": 4,
+    "title": "Band C Listening · Series 4",
+    "part": 0,
+    "partTitle": "一、對話",
+    "instructions": "說明：在這個部分，你會聽到幾段兩個人的對話，每段對話結束\n後，會問幾個問題。接著你會聽到(A)(B)(C)(D)四個選項，\n這四個選項的內容也會出現在題本上。",
+    "instructionsEn": "",
+    "from": 1,
+    "to": 27,
+    "questions": 27
+   }
+  ],
+  "questions": 102
+ },
+ {
+  "id": "c-l-monologue",
+  "band": "c",
+  "skill": "listening",
+  "order": 1,
+  "zh": "段落",
+  "name": "Monologue (Paragraph)",
+  "desc": "Dengar teks monolog, jawab pertanyaan (A–D).",
+  "sets": [
+   {
+    "test": "c-l1",
+    "series": 1,
+    "title": "Band C Listening · Series 1",
+    "part": 1,
+    "partTitle": "二、段落",
+    "instructions": "說明：在這個部分，你會聽到幾段話。每段話結束後，會問幾個\n問題。每個問題都有(A)(B)(C)(D)四個選項，這四個選項的\n內容也會出現在題本上。",
+    "instructionsEn": "",
+    "from": 26,
+    "to": 50,
+    "questions": 25
+   },
+   {
+    "test": "c-l2",
+    "series": 2,
+    "title": "Band C Listening · Series 2",
+    "part": 1,
+    "partTitle": "二、段落",
+    "instructions": "說明：在這個部分，你會聽到幾段話。每段話結束後，會問幾個\n問題。每個問題都有(A)(B)(C)(D)四個選項，這四個選項的\n內容也會出現在題本上。",
+    "instructionsEn": "",
+    "from": 26,
+    "to": 50,
+    "questions": 25
+   },
+   {
+    "test": "c-l3",
+    "series": 3,
+    "title": "Band C Listening · Series 3",
+    "part": 1,
+    "partTitle": "二、段落",
+    "instructions": "說明：在這個部分，你會聽到幾段話。每段話結束後，會問幾個\n問題。每個問題都有(A)(B)(C)(D)四個選項，這四個選項的\n內容也會出現在題本上。",
+    "instructionsEn": "",
+    "from": 26,
+    "to": 50,
+    "questions": 25
+   },
+   {
+    "test": "c-l4",
+    "series": 4,
+    "title": "Band C Listening · Series 4",
+    "part": 1,
+    "partTitle": "二、段落",
+    "instructions": "說明：在這個部分，你會聽到幾段話。每段話結束後，會問幾個\n問題。每個問題都有(A)(B)(C)(D)四個選項，這四個選項的\n內容也會出現在題本上。",
+    "instructionsEn": "",
+    "from": 28,
+    "to": 50,
+    "questions": 23
+   }
+  ],
+  "questions": 98
+ },
+ {
+  "id": "c-r-gap",
+  "band": "c",
+  "skill": "reading",
+  "order": 0,
+  "zh": "選詞填空",
+  "name": "Gap Filling (Fill in the Blanks)",
+  "desc": "Isi bagian kosong dalam teks dengan pilihan yang tepat.",
+  "sets": [
+   {
+    "test": "c-r1",
+    "series": 1,
+    "title": "Band C Reading · Series 1",
+    "part": 0,
+    "partTitle": "一、選詞填空",
+    "instructions": "說明：在這一部分，每一段短文有幾個空格，每個空格有四個選\n項，請選出正確的答案完成短文。",
+    "instructionsEn": "",
+    "from": 1,
+    "to": 15,
+    "questions": 15
+   },
+   {
+    "test": "c-r2",
+    "series": 2,
+    "title": "Band C Reading · Series 2",
+    "part": 0,
+    "partTitle": "一、選詞填空",
+    "instructions": "說明：在這一部分，每一段短文有幾個空格，每個空格有四個選\n項，請選出正確的答案完成短文。",
+    "instructionsEn": "",
+    "from": 1,
+    "to": 16,
+    "questions": 16
+   },
+   {
+    "test": "c-r3",
+    "series": 3,
+    "title": "Band C Reading · Series 3",
+    "part": 0,
+    "partTitle": "一、選詞填空",
+    "instructions": "說明：在這一部分，每一段短文有幾個空格，每個空格有四個選\n項，請選出正確的答案完成短文。",
+    "instructionsEn": "",
+    "from": 1,
+    "to": 18,
+    "questions": 18
+   },
+   {
+    "test": "c-r4",
+    "series": 4,
+    "title": "Band C Reading · Series 4",
+    "part": 0,
+    "partTitle": "一、選詞填空",
+    "instructions": "說明：在這一部分，每一段短文有幾個空格，每個空格有四個選\n項，請選出正確的答案完成短文。",
+    "instructionsEn": "",
+    "from": 1,
+    "to": 18,
+    "questions": 18
+   }
+  ],
+  "questions": 67
+ },
+ {
+  "id": "c-r-comp",
+  "band": "c",
+  "skill": "reading",
+  "order": 1,
+  "zh": "閱讀理解",
+  "name": "Reading Comprehension",
+  "desc": "Baca teks, jawab pertanyaannya.",
+  "sets": [
+   {
+    "test": "c-r1",
+    "series": 1,
+    "title": "Band C Reading · Series 1",
+    "part": 1,
+    "partTitle": "二、閱讀理解",
+    "instructions": "說明：在這一部分，請閱讀材料或短文，並根據內容回答幾個問\n題。",
+    "instructionsEn": "",
+    "from": 16,
+    "to": 50,
+    "questions": 35
+   },
+   {
+    "test": "c-r2",
+    "series": 2,
+    "title": "Band C Reading · Series 2",
+    "part": 1,
+    "partTitle": "二、閱讀理解",
+    "instructions": "說明：在這一部分，請閱讀材料或短文，並根據內容回答幾個問\n題。",
+    "instructionsEn": "",
+    "from": 17,
+    "to": 50,
+    "questions": 34
+   },
+   {
+    "test": "c-r3",
+    "series": 3,
+    "title": "Band C Reading · Series 3",
+    "part": 1,
+    "partTitle": "二、閱讀理解",
+    "instructions": "說明：在這一部分，請閱讀短文，並根據內容回答幾個問題。",
+    "instructionsEn": "",
+    "from": 19,
+    "to": 50,
+    "questions": 32
+   },
+   {
+    "test": "c-r4",
+    "series": 4,
+    "title": "Band C Reading · Series 4",
+    "part": 1,
+    "partTitle": "二、閱讀理解",
+    "instructions": "說明：在這一部分，請閱讀短文，並根據內容回答幾個問題。",
+    "instructionsEn": "",
+    "from": 19,
+    "to": 50,
+    "questions": 32
+   }
+  ],
+  "questions": 133
+ }
+]
