@@ -29,7 +29,7 @@ def main(src, out, dpi=100):
     jobs = []
     for b in BOOKS:
         pdf = Path(src) / "TOCFL Study" / b["folder"] / b["file"]
-        out_dir = Path(out) / "public" / "media" / "study" / b["id"]
+        out_dir = Path(out) / "media" / "study" / b["id"]
         out_dir.mkdir(parents=True, exist_ok=True)
         n = int(next(l for l in subprocess.run(["pdfinfo", str(pdf)], capture_output=True, text=True).stdout.splitlines() if l.startswith("Pages")).split()[1])
         for a in range(1, n + 1, 20):

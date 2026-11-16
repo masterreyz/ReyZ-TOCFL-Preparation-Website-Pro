@@ -3,7 +3,7 @@ import json
 from collections import Counter
 from pathlib import Path
 
-C = Path("public/content")
+C = Path("content")
 idx = json.loads((C / "exercise/index.json").read_text(encoding="utf-8"))
 mock = [t for t in idx if not t["id"].startswith("pb-")]
 pb = [t for t in idx if t["id"].startswith("pb-")]

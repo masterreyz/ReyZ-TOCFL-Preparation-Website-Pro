@@ -7,7 +7,7 @@ import sys
 from pathlib import Path
 from playwright.sync_api import sync_playwright
 
-BASE = sys.argv[1] if len(sys.argv) > 1 else "http://localhost:4173/"
+BASE = sys.argv[1] if len(sys.argv) > 1 else "http://localhost:4173/ReyZ-TOCFL-Preparation-Website-Pro/"
 MOCK = """
 window.__spoken = [];
 const voices = [{name:'Google 國語（臺灣）',lang:'zh-TW',voiceURI:'g-tw'},{name:'Google US English',lang:'en-US',voiceURI:'en'}];
@@ -24,7 +24,7 @@ def check(name, cond, detail=""):
     print(("PASS " if cond else "FAIL ") + name + (f" — {detail}" if detail else ""))
 
 
-q1 = json.load(open("public/content/exercise/a-l1.json"))["questions"][0]
+q1 = json.load(open("content/exercise/a-l1.json"))["questions"][0]
 with sync_playwright() as p:
     b = p.chromium.launch(executable_path="/usr/bin/google-chrome")
     ctx = b.new_context(viewport={"width": 1280, "height": 900})

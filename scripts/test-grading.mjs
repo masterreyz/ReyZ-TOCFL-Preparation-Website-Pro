@@ -3,7 +3,7 @@ import { readFileSync } from 'node:fs';
 import assert from 'node:assert/strict';
 import { grade } from '../src/grading.js';
 
-const read = (p) => JSON.parse(readFileSync(`public/content/${p}`, 'utf8'));
+const read = (p) => JSON.parse(readFileSync(`content/${p}`, 'utf8'));
 let n = 0;
 for (const t of read('exercise/index.json')) {
   const d = read(`exercise/${t.id}.json`);

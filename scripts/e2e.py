@@ -8,7 +8,7 @@ import sys
 from pathlib import Path
 from playwright.sync_api import sync_playwright
 
-BASE = sys.argv[1] if len(sys.argv) > 1 else "http://localhost:4173/"
+BASE = sys.argv[1] if len(sys.argv) > 1 else "http://localhost:4173/ReyZ-TOCFL-Preparation-Website-Pro/"
 OUT = Path("reports/screens"); OUT.mkdir(parents=True, exist_ok=True)
 results = []
 
@@ -55,14 +55,14 @@ with sync_playwright() as p:
     page.click(".test-status .btn.primary")  # submit (dialog auto-accepted)
     page.wait_for_selector(".big-score")
     txt = page.inner_text(".score-cards")
-    key = json.load(open("public/content/exercise/a-l1.json"))
+    key = json.load(open("content/exercise/a-l1.json"))
     exp = sum(1 for g, q in zip(["B", "A"], key["questions"][:2]) if q["answer"] == g)
     check("listening result score", f"{exp} dari 50" in txt, txt.replace("\n", " "))
     check("transcript shown after submit", page.locator(".transcript").count() > 0)
     page.screenshot(path=str(OUT / "listening-result.png"))
 
     # ---- full reading attempt answered with the official key -> 100%
-    d = json.load(open("public/content/exercise/a-r1.json"))
+    d = json.load(open("content/exercise/a-r1.json"))
     page.goto(BASE + "#/test/a-r1/run?mode=exam&min=0")
     page.wait_for_selector(".q-pane h2")
     for q in d["questions"]:

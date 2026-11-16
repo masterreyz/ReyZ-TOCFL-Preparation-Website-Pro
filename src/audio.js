@@ -79,7 +79,7 @@ export function AudioPlayer(tracks, opts = {}) {
   return el;
 }
 
-// Whether the original recordings are reachable (see public/config.js).
+// Whether the original recordings are reachable (see config.js).
 let probe = null;
 export function originalAudio() {
   if (probe) return probe;

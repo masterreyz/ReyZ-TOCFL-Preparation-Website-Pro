@@ -144,7 +144,7 @@ def link_audio(texts, lessons, files):
 def main(src, out):
     src, out = Path(src), Path(out)
     listing = json.loads((Path(__file__).parent / "study_audio_listing.json").read_text(encoding="utf-8"))
-    sdir = out / "public" / "content" / "study"
+    sdir = out / "content" / "study"
     (sdir / "lessons").mkdir(parents=True, exist_ok=True)
     index = dict(levels=[])
     report = []

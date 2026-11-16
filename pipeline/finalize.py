@@ -1,7 +1,7 @@
-"""Attach audio targets to content JSON and write public/content/media-manifest.json.
+"""Attach audio targets to content JSON and write content/media-manifest.json.
 
 Usage: python finalize.py <OUT_ROOT>
-Every source audio file gets an ASCII-safe target path under public/media/audio/.
+Every source audio file gets an ASCII-safe target path under media/audio/.
 scripts/sync-media.mjs copies source -> target on the user's machine.
 """
 import json
@@ -18,7 +18,7 @@ def safe(name):
 
 def main(out):
     out = Path(out)
-    content = out / "public" / "content"
+    content = out / "content"
     manifest = []
     # ---- exercises
     for f in sorted((content / "exercise").glob("*.json")):

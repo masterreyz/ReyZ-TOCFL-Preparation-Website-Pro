@@ -1,7 +1,9 @@
-# Builds the site with Vite and deploys dist/ to GitHub Pages on every push to main
-# (and manually from the Actions tab). Requires Settings -> Pages -> Source: "GitHub Actions".
+# Builds the site with Vite and deploys it to GitHub Pages on every push to main
+# (and manually from the Actions tab), when Settings -> Pages -> Source is "GitHub Actions".
+# The built site is also committed at the repo root, so "Deploy from a branch (main, /)" serves
+# the same working site.
 # Original audio (~3 GB) is not deployed: the site falls back to Mandarin speech synthesis
-# (see public/config.js and src/tts.js).
+# (see config.js and src/tts.js).
 name: Deploy to GitHub Pages
 on:
   push:
@@ -27,9 +29,13 @@ jobs:
       - run: npm test
       - run: npm run build
       - uses: actions/configure-pages@v5
+      - name: Collect site files
+        run: |
+          mkdir _site
+          cp -r index.html assets config.js content media .nojekyll _site/
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: _site
   deploy:
     needs: build
     runs-on: ubuntu-latest

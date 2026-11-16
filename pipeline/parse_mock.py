@@ -2,7 +2,7 @@
 
 Usage: python parse_mock.py <SOURCE_ROOT> <OUT_DIR>
 SOURCE_ROOT = the folder that contains "TOCFL Exercise".
-Outputs OUT_DIR/content/exercise/<testId>.json, OUT_DIR/public/media/ex/<testId>/q<N>.webp,
+Outputs OUT_DIR/content/exercise/<testId>.json, OUT_DIR/media/ex/<testId>/q<N>.webp,
 and OUT_DIR/reports/exercise_validation.json
 """
 import json
@@ -371,7 +371,7 @@ def parse_script(pdf, n_questions, test_id, issues):
 
 def build(src_root, out_root):
     src_root, out_root = Path(src_root), Path(out_root)
-    content_dir = out_root / "public" / "content" / "exercise"
+    content_dir = out_root / "content" / "exercise"
     content_dir.mkdir(parents=True, exist_ok=True)
     all_issues = []
     index = []
@@ -379,7 +379,7 @@ def build(src_root, out_root):
         issues = []
         base = src_root / "TOCFL Exercise" / t["folder"]
         nq = t["questions"]
-        media = out_root / "public" / "media" / "ex" / t["id"]
+        media = out_root / "media" / "ex" / t["id"]
         q, parts = parse_booklet(base / t["booklet"], nq, media, t["id"], issues)
         key = parse_answer_key(base / t["answer"], nq, t["id"], issues, skip=t.get("keySkip", 0))
         scr = parse_script(base / t["script"], nq, t["id"], issues) if t.get("script") else {}

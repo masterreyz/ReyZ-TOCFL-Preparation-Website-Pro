@@ -1,7 +1,7 @@
-// Builds public/content/search.json from study structure, migrated lessons and exercise items.
+// Builds content/search.json from study structure, migrated lessons and exercise items.
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 
-const C = 'public/content';
+const C = 'content';
 const read = (p) => JSON.parse(readFileSync(`${C}/${p}`, 'utf8'));
 const items = [];
 const idx = read('study/index.json');

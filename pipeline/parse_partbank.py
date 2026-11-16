@@ -4,7 +4,7 @@ Usage: python parse_partbank.py <SOURCE_ROOT> <OUT_ROOT> [set_size]
 For every "*_Answer.xlsx" (columns: 題型 | 檔案名稱 | 答案) the matching item PDF (<id>.pdf, not in a
 "Listening Script" folder), listening script (<...Listening Script>/<id>.pdf) and audio (<id>.mp3) are
 looked up anywhere below that part folder. Items are grouped into sets of `set_size` questions and written
-in the same format as the mock tests (public/content/exercise/pb-*.json) and appended to the index.
+in the same format as the mock tests (content/exercise/pb-*.json) and appended to the index.
 Items whose answer or PDF cannot be found are recorded in reports/partbank_validation.json and the
 answer is marked ungradable instead of guessed. Run finalize.py afterwards.
 """
@@ -26,7 +26,7 @@ def slug(s):
 
 def main(src, out, set_size=25):
     src, out = Path(src), Path(out)
-    cdir = out / "public" / "content" / "exercise"
+    cdir = out / "content" / "exercise"
     index = [x for x in json.loads((cdir / "index.json").read_text(encoding="utf-8")) if not x["id"].startswith("pb-")]
     issues = []
     for xlsx in sorted((src / "TOCFL Exercise").glob("* Per Part/*/*_Answer.xlsx")):
@@ -41,7 +41,7 @@ def main(src, out, set_size=25):
         for k in range(0, len(rows), set_size):
             chunk = rows[k:k + set_size]
             tid = f"pb-{band}-{kind}-{k // set_size + 1}"
-            media = out / "public" / "media" / "ex" / tid
+            media = out / "media" / "ex" / tid
             qs, tracks = [], []
             for row in chunk:
                 item, ans = str(row[1]).strip(), str(row[2] or "").strip().upper()
