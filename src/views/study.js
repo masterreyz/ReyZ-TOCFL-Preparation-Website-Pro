@@ -118,14 +118,25 @@ function renderPages(book, l) {
 }
 
 // ---- structured (migrated) lesson rendering
+function sent(x) {
+  const py = store.get().prefs.showPinyin;
+  return h('div', { class: 'sent' }, h('p', { class: 'zh', lang: 'zh-Hant' }, x.zh, ' ', SpeakButton(x.zh.replace(/[／/]/g, '，').replace(/[*＊]/g, ''))),
+    x.py ? h('p', { class: 'py', lang: 'zh-Latn-pinyin', hidden: !py || null }, x.py) : null,
+    x.en ? h('p', { class: 'en small', lang: 'en' }, x.en) : null);
+}
+
 function renderMigrated(m, l, book) {
   const showPy = store.get().prefs.showPinyin;
   const pyToggle = h('label', { class: 'small' }, h('input', { type: 'checkbox', checked: showPy || null, onchange: (e) => { store.setPref('showPinyin', e.target.checked); document.querySelectorAll('.py').forEach((x) => (x.hidden = !e.target.checked)); } }), ' Tampilkan pinyin');
   const blocks = m.blocks.map((b) => {
     const tr = b.track ? trackFor(l, b.track) : null;
-    const ttsText = b.type === 'dialogue' ? b.lines.map((x) => x.zh).join('\n') : b.type === 'vocab' ? b.items.map((x) => x.zh.replace(/（.*?）/g, '')).join('\n') : b.type === 'text' ? (b.paras || []).filter((p) => p.lang !== 'en').map((p) => p.text).join('\n') : '';
+    const ttsText = b.type === 'dialogue' ? b.lines.map((x) => x.zh).join('\n') : b.type === 'vocab' ? b.items.map((x) => x.zh.replace(/（.*?）/g, '')).join('\n')
+      : b.type === 'text' ? (b.paras || []).filter((p) => p.lang !== 'en').map((p) => p.text).join('\n')
+        : b.type === 'examples' ? b.items.map((x) => x.zh).join('\n')
+          : b.type === 'exchanges' ? b.items.flatMap((x) => [x.a.zh, x.b.zh]).join('\n')
+            : b.type === 'pairs' ? b.rows.flatMap((r) => r.map((x) => x.zh)).join('\n') : '';
     const player = ORIG && tr ? AudioPlayer([{ src: tr.src, label: `Trek ${tr.label}` }], { compact: true })
-      : (!ORIG && ttsText ? TtsPlayer([{ text: ttsText, pause: b.type === 'vocab' ? 700 : 500 }], { title: b.type === 'vocab' ? 'Baca semua kosakata' : 'Baca dialog', compact: true }) : null);
+      : (!ORIG && ttsText ? TtsPlayer([{ text: ttsText, pause: b.type === 'vocab' ? 700 : 500 }], { title: b.type === 'vocab' ? 'Baca semua kosakata' : b.type === 'dialogue' ? 'Baca dialog' : 'Baca semua kalimat', compact: true }) : null);
     const src = b.source ? h('p', { class: 'src muted small' }, `Sumber: ${book.label}, hlm. PDF ${b.source.pages.join(', ')}`) : null;
     switch (b.type) {
       case 'heading': return h(b.level === 3 ? 'h3' : 'h2', { class: 'block-h', id: b.id }, b.zh ? h('span', { lang: 'zh-Hant' }, b.zh + ' ') : null, b.en || '');
@@ -143,6 +154,25 @@ function renderMigrated(m, l, book) {
       case 'text': return h('section', { class: 'block', id: b.id }, b.title ? h('h3', {}, b.title) : null, player,
         ...(b.paras || []).map((p) => h('p', { class: p.lang === 'en' ? '' : 'zh', lang: p.lang === 'en' ? 'en' : 'zh-Hant' }, p.text)), src);
       case 'note': return h('aside', { class: 'note', id: b.id }, b.text);
+      case 'examples': return h('section', { class: 'block', id: b.id }, b.title ? h('h4', { class: 'ex-title' }, b.title) : null, player,
+        h('ol', { class: 'ex-list' }, ...b.items.map((x) => h('li', {}, sent(x)))), src);
+      case 'pairs': return h('section', { class: 'block', id: b.id }, player,
+        h('ol', { class: 'ex-list pairs' }, ...b.rows.map((r) => h('li', {}, h('div', { class: 'pair' }, ...r.map((x) => sent(x)))))), src);
+      case 'exchanges': return h('section', { class: 'block', id: b.id }, player,
+        h('ol', { class: 'ex-list' }, ...b.items.map((x) => h('li', { class: 'xchg' },
+          h('div', { class: 'xchg-line' }, h('span', { class: 'xchg-who' }, 'A'), sent(x.a)),
+          h('div', { class: 'xchg-line' }, h('span', { class: 'xchg-who' }, 'B'), sent(x.b))))), src);
+      case 'exercise': return h('section', { class: 'block exercise', id: b.id },
+        h('h4', { class: 'ex-title' }, b.title || 'Exercise'), h('p', { class: 'ex-inst' }, b.instruction),
+        b.image ? h('figure', { class: 'crop' }, h('img', { src: mediaUrl(`study/lessons/${l.id}/${b.image}`), alt: b.imageAlt || '', loading: 'lazy' })) : null,
+        h('ol', { class: 'ex-list' }, ...b.items.map((x) => h('li', {}, h('p', { class: 'zh', lang: 'zh-Hant' }, x.prompt, ' ', SpeakButton(x.prompt.replace(/＿+/g, '，'))),
+          x.hint ? h('p', { class: 'ex-hint zh', lang: 'zh-Hant' }, x.hint) : null))), src);
+      case 'table': return h('section', { class: 'block', id: b.id }, h('div', { class: 'table-wrap' }, h('table', { class: 'table' },
+        b.head ? h('thead', {}, h('tr', {}, ...b.head.map((c) => h('th', { scope: 'col' }, c)))) : null,
+        h('tbody', {}, ...b.rows.map((r) => h('tr', {}, ...r.map((c) => h('td', { class: /[ˉˊˇˋ]/.test(c) && !/[a-z]/i.test(c) ? 'tone-cell' : /[\u4e00-\u9fff]/.test(c) ? 'zh-cell' : '' }, c))))))), src);
+      case 'figure': return h('figure', { class: 'block figure', id: b.id }, h('img', { src: mediaUrl(`study/lessons/${l.id}/${b.image}`), alt: b.alt || '', loading: 'lazy' }),
+        b.caption ? h('figcaption', { class: 'small muted' }, b.caption) : null, src);
+      case 'checklist': return h('section', { class: 'block', id: b.id }, h('ul', { class: 'checklist' }, ...b.items.map((x) => h('li', {}, h('label', {}, h('input', { type: 'checkbox' }), ' ', x)))), src);
       default: return null;
     }
   });

@@ -22,7 +22,7 @@ def main(out):
     manifest = []
     # ---- exercises
     for f in sorted((content / "exercise").glob("*.json")):
-        if f.name == "index.json":
+        if f.name in ("index.json", "sections.json"):
             continue
         d = json.loads(f.read_text(encoding="utf-8"))
         for q in d["questions"]:

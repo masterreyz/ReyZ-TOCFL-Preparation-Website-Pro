@@ -362,3 +362,24 @@ body::after { content: "ReyZ TOCFL · Reynard Agahari"; position: fixed; right: 
 .set-row:last-child { border-bottom: 0; }
 .set-actions { display: flex; gap: .4rem; }
 @media (max-width: 520px) { .sec-zh { min-width: 3.2em; font-size: 1.05rem; } }
+
+/* ---------- migrated lesson blocks ---------- */
+.ex-title { font-family: var(--font-display); font-size: 1.05rem; color: var(--seal); margin: .2rem 0 .4rem; }
+.ex-list { margin: .4rem 0; padding-left: 1.6rem; display: grid; gap: .65rem; }
+.ex-list > li::marker { color: var(--brand); font-weight: 700; }
+.sent p { margin: 0; }
+.sent .en { color: var(--muted); }
+.pair { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+@media (max-width: 640px) { .pair { grid-template-columns: 1fr; gap: .4rem; } }
+.xchg { display: grid; gap: .35rem; }
+.xchg-line { display: grid; grid-template-columns: 1.8em 1fr; gap: .4rem; }
+.xchg-who { font-family: var(--font-display); font-weight: 700; color: var(--brand); padding-top: .25rem; }
+.block.exercise { background: var(--surface); border: 1px solid var(--line); border-left: 4px solid var(--seal); border-radius: var(--r-md); padding: 1rem 1.2rem; }
+.ex-inst { margin: 0 0 .5rem; font-weight: 500; }
+.ex-hint { color: var(--muted); font-size: calc(1rem * var(--reading-scale)); }
+.figure { margin: 1rem 0; text-align: center; }
+.figure img { max-width: 100%; border-radius: 10px; border: 1px solid var(--line); background: #fff; }
+.figure figcaption { margin-top: .35rem; }
+.zh-cell { font-family: var(--font-zh); }
+.checklist { list-style: none; padding: 0; display: grid; gap: .4rem; }
+.tone-cell { font-size: 1.6rem; line-height: 1.2; letter-spacing: .15em; font-family: "Segoe UI Symbol", "Noto Sans", var(--font-zh), sans-serif; }
