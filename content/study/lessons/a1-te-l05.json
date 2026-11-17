@@ -1,0 +1,1529 @@
+{
+ "id": "a1-te-l05",
+ "title": "牛肉麵真好吃 Beef Noodles Are Really Delicious",
+ "status": "complete",
+ "statusDetail": "Seluruh pelajaran (hlm. PDF 112–129) sudah ditranskripsi dan diperiksa terhadap halaman asli. Catatan: kolom zhuyin (ㄅㄆㄇ) di daftar kosakata tidak disalin; pelafalan tersedia dalam pinyin. Foto orang sungguhan tidak disalin.",
+ "transcribedBy": "Transkripsi manual dari gambar halaman, diperiksa per halaman, 2026-11-16",
+ "blocks": [
+  {
+   "type": "heading",
+   "id": "h-obj",
+   "en": "Learning Objectives",
+   "zh": "學習目標",
+   "source": {
+    "pages": [
+     112
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "obj",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Topic: 飲食 Food and Drink"
+    },
+    {
+     "lang": "en",
+     "text": "• Learning the names of common foods and describing their taste."
+    },
+    {
+     "lang": "en",
+     "text": "• Learning to express likes for and make simple comments about food."
+    },
+    {
+     "lang": "en",
+     "text": "• Learning to describe what somebody can/can’t do and how well one does it."
+    },
+    {
+     "lang": "en",
+     "text": "• Learning to ask for help."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-d1",
+   "en": "Dialogue I",
+   "zh": "對話一"
+  },
+  {
+   "type": "dialogue",
+   "id": "d1",
+   "track": "05-01",
+   "lines": [
+    {
+     "spk": "月美",
+     "zh": "很多人都說臺灣有不少有名的小吃。",
+     "py": "Hěn duō rén dōu shuō Táiwān yǒu bù shǎo yǒumíng de xiǎochī."
+    },
+    {
+     "spk": "明華",
+     "zh": "是啊！牛肉麵、小籠包、臭豆腐…都很好吃。",
+     "py": "Shì a. Niúròu miàn, xiǎolóngbāo, chòu dòufǔ... dōu hěn hǎochī."
+    },
+    {
+     "spk": "月美",
+     "zh": "你最喜歡吃什麼？",
+     "py": "Nǐ zuì xǐhuān chī shénme?"
+    },
+    {
+     "spk": "明華",
+     "zh": "牛肉麵。牛肉好吃，湯也好喝。",
+     "py": "Niúròu miàn. Niúròu hǎochī, tāng yě hǎohē."
+    },
+    {
+     "spk": "月美",
+     "zh": "這麼好吃，我很想吃。",
+     "py": "Zhème hǎochī, wǒ hěn xiǎng chī."
+    },
+    {
+     "spk": "明華",
+     "zh": "我知道一家有名的牛肉麵店，我們一起去吃，怎麼樣？",
+     "py": "Wǒ zhīdào yì jiā yǒumíng de niúròu miàn diàn. Wǒmen yìqǐ qù chī, zěnmeyàng?"
+    },
+    {
+     "spk": "月美",
+     "zh": "太好了！",
+     "py": "Tài hǎo le!"
+    },
+    {
+     "spk": "明華",
+     "zh": "我們明天去。一定要點大碗的。",
+     "py": "Wǒmen míngtiān qù. Yídìng yào diǎn dà wǎn de."
+    }
+   ],
+   "translation": [
+    {
+     "spk": "Yuemei",
+     "en": "Many people say Taiwan has quite a few well-known light repasts."
+    },
+    {
+     "spk": "Minghua",
+     "en": "That’s right. Beef noodles, xiaolongbao, stinky tofu... are all tasty."
+    },
+    {
+     "spk": "Yuemei",
+     "en": "What do you like to eat most?"
+    },
+    {
+     "spk": "Minghua",
+     "en": "Beef noodles. The beef tastes good and the soup is nice."
+    },
+    {
+     "spk": "Yuemei",
+     "en": "That tasty. I would like to have some."
+    },
+    {
+     "spk": "Minghua",
+     "en": "I know a place that is well-known for its beef noodles. Let’s go together and have some. What do you say?"
+    },
+    {
+     "spk": "Yuemei",
+     "en": "Wonderful!"
+    },
+    {
+     "spk": "Minghua",
+     "en": "Let’s go tomorrow. You really have to order a large bowl."
+    }
+   ],
+   "source": {
+    "pages": [
+     113,
+     114
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "h-v1",
+   "en": "Vocabulary I",
+   "zh": "生詞一"
+  },
+  {
+   "type": "vocab",
+   "id": "v1-vocab",
+   "title": "Vocabulary",
+   "items": [
+    {
+     "n": 1,
+     "zh": "牛肉",
+     "py": "niúròu",
+     "pos": "N",
+     "en": "beef"
+    },
+    {
+     "n": 2,
+     "zh": "麵",
+     "py": "miàn",
+     "pos": "N",
+     "en": "noodles"
+    },
+    {
+     "n": 3,
+     "zh": "真",
+     "py": "zhēn",
+     "pos": "Adv",
+     "en": "really"
+    },
+    {
+     "n": 4,
+     "zh": "好吃",
+     "py": "hǎochī",
+     "pos": "Vs",
+     "en": "delicious"
+    },
+    {
+     "n": 5,
+     "zh": "說",
+     "py": "shuō",
+     "pos": "V",
+     "en": "say"
+    },
+    {
+     "n": 6,
+     "zh": "少",
+     "py": "shǎo",
+     "pos": "Vs-pred",
+     "en": "few in number"
+    },
+    {
+     "n": 7,
+     "zh": "有名",
+     "py": "yǒumíng",
+     "pos": "Vs",
+     "en": "well known, famous"
+    },
+    {
+     "n": 8,
+     "zh": "小吃",
+     "py": "xiǎochī",
+     "pos": "N",
+     "en": "light repast, snack"
+    },
+    {
+     "n": 9,
+     "zh": "最",
+     "py": "zuì",
+     "pos": "Adv",
+     "en": "most"
+    },
+    {
+     "n": 10,
+     "zh": "湯",
+     "py": "tāng",
+     "pos": "N",
+     "en": "soup, broth"
+    },
+    {
+     "n": 11,
+     "zh": "這麼",
+     "py": "zhème",
+     "pos": "Adv",
+     "en": "so"
+    },
+    {
+     "n": 12,
+     "zh": "知道",
+     "py": "zhīdào",
+     "pos": "Vst",
+     "en": "to know"
+    },
+    {
+     "n": 13,
+     "zh": "家",
+     "py": "jiā",
+     "pos": "M",
+     "en": "measure word for restaurants, shops, etc."
+    },
+    {
+     "n": 14,
+     "zh": "店",
+     "py": "diàn",
+     "pos": "N",
+     "en": "shop, store"
+    },
+    {
+     "n": 15,
+     "zh": "一定",
+     "py": "yídìng",
+     "pos": "Adv",
+     "en": "really must, definitely"
+    },
+    {
+     "n": 16,
+     "zh": "點",
+     "py": "diǎn",
+     "pos": "V",
+     "en": "to order (meals)"
+    },
+    {
+     "n": 17,
+     "zh": "碗",
+     "py": "wǎn",
+     "pos": "M",
+     "en": "a bowl of"
+    }
+   ],
+   "track": "05-02",
+   "source": {
+    "pages": [
+     114,
+     115
+    ]
+   }
+  },
+  {
+   "type": "vocab",
+   "id": "v1-phrases",
+   "title": "Phrases",
+   "items": [
+    {
+     "n": 18,
+     "zh": "是啊",
+     "py": "shì a",
+     "pos": "",
+     "en": "That’s right."
+    },
+    {
+     "n": 19,
+     "zh": "小籠包",
+     "py": "xiǎolóngbāo",
+     "pos": "",
+     "en": "xiaolongbao, e.g., small meat and cabbage-filled steamed buns"
+    },
+    {
+     "n": 20,
+     "zh": "臭豆腐",
+     "py": "chòu dòufǔ",
+     "pos": "",
+     "en": "stinky tofu (fermented tofu)"
+    },
+    {
+     "n": 21,
+     "zh": "太好了",
+     "py": "tài hǎo le",
+     "pos": "",
+     "en": "Excellent. Great."
+    }
+   ],
+   "source": {
+    "pages": [
+     115
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "h-d2",
+   "en": "Dialogue II",
+   "zh": "對話二",
+   "source": {
+    "pages": [
+     116
+    ]
+   }
+  },
+  {
+   "type": "dialogue",
+   "id": "d2",
+   "track": "05-03",
+   "lines": [
+    {
+     "spk": "月美",
+     "zh": "昨天晚上那家餐廳的菜很好吃，可是有一點辣。",
+     "py": "Zuótiān wǎnshàng nà jiā cāntīng de cài hěn hǎochī, kěshì yǒu yìdiǎn là."
+    },
+    {
+     "spk": "安同",
+     "zh": "我也怕辣，所以我喜歡自己做飯。",
+     "py": "Wǒ yě pà là, suǒyǐ wǒ xǐhuān zìjǐ zuòfàn."
+    },
+    {
+     "spk": "月美",
+     "zh": "你做飯做得怎麼樣？",
+     "py": "Nǐ zuòfàn zuò de zěnmeyàng?"
+    },
+    {
+     "spk": "安同",
+     "zh": "我做得不好。妳會做飯嗎？",
+     "py": "Wǒ zuò de bù hǎo. Nǐ huì zuòfàn ma?"
+    },
+    {
+     "spk": "月美",
+     "zh": "會。我的甜點也做得不錯。",
+     "py": "Huì. Wǒ de tiándiǎn yě zuò de búcuò."
+    },
+    {
+     "spk": "安同",
+     "zh": "我最喜歡吃甜點。妳可以教我嗎？",
+     "py": "Wǒ zuì xǐhuān chī tiándiǎn. Nǐ kěyǐ jiāo wǒ ma?"
+    },
+    {
+     "spk": "月美",
+     "zh": "好的，這個週末，你到我家來。",
+     "py": "Hǎode, zhè ge zhōumò, nǐ dào wǒ jiā lái."
+    },
+    {
+     "spk": "安同",
+     "zh": "好啊！謝謝妳。",
+     "py": "Hǎo a! Xièxie nǐ."
+    }
+   ],
+   "translation": [
+    {
+     "spk": "Yuemei",
+     "en": "The food at the restaurant last night was good, but it was a bit spicy."
+    },
+    {
+     "spk": "Antong",
+     "en": "I can’t take spicy (food), either. That is why I prefer to cook for myself."
+    },
+    {
+     "spk": "Yuemei",
+     "en": "How well do you cook?"
+    },
+    {
+     "spk": "Antong",
+     "en": "I don’t cook well. Can you cook?"
+    },
+    {
+     "spk": "Yuemei",
+     "en": "Yes. I make good desserts, too."
+    },
+    {
+     "spk": "Antong",
+     "en": "I like eating desserts most. Could you teach me?"
+    },
+    {
+     "spk": "Yuemei",
+     "en": "Sure. Come over to my place this weekend."
+    },
+    {
+     "spk": "Antong",
+     "en": "Great! Thank you."
+    }
+   ],
+   "source": {
+    "pages": [
+     116,
+     117
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "h-v2",
+   "en": "Vocabulary II",
+   "zh": "生詞二"
+  },
+  {
+   "type": "vocab",
+   "id": "v2-vocab",
+   "title": "Vocabulary",
+   "items": [
+    {
+     "n": 1,
+     "zh": "昨天",
+     "py": "zuótiān",
+     "pos": "N",
+     "en": "yesterday"
+    },
+    {
+     "n": 2,
+     "zh": "餐廳",
+     "py": "cāntīng",
+     "pos": "N",
+     "en": "restaurant"
+    },
+    {
+     "n": 3,
+     "zh": "可是",
+     "py": "kěshì",
+     "pos": "Conj",
+     "en": "but, however"
+    },
+    {
+     "n": 4,
+     "zh": "辣",
+     "py": "là",
+     "pos": "Vs",
+     "en": "hot (spicy)"
+    },
+    {
+     "n": 5,
+     "zh": "怕",
+     "py": "pà",
+     "pos": "Vst",
+     "en": "(here) to not like, to fear"
+    },
+    {
+     "n": 6,
+     "zh": "所以",
+     "py": "suǒyǐ",
+     "pos": "Conj",
+     "en": "therefore, so"
+    },
+    {
+     "n": 7,
+     "zh": "自己",
+     "py": "zìjǐ",
+     "pos": "N",
+     "en": "self"
+    },
+    {
+     "n": 8,
+     "zh": "做飯",
+     "py": "zuòfàn",
+     "pos": "V-sep",
+     "en": "to cook"
+    },
+    {
+     "n": 9,
+     "zh": "得",
+     "py": "de",
+     "pos": "Ptc",
+     "en": "complement marker"
+    },
+    {
+     "n": 10,
+     "zh": "會",
+     "py": "huì",
+     "pos": "Vaux",
+     "en": "to be able to, can"
+    },
+    {
+     "n": 11,
+     "zh": "甜點",
+     "py": "tiándiǎn",
+     "pos": "N",
+     "en": "dessert"
+    },
+    {
+     "n": 12,
+     "zh": "不錯",
+     "py": "búcuò",
+     "pos": "Vs",
+     "en": "not bad"
+    },
+    {
+     "n": 13,
+     "zh": "可以",
+     "py": "kěyǐ",
+     "pos": "Vaux",
+     "en": "could (possibility)"
+    },
+    {
+     "n": 14,
+     "zh": "教",
+     "py": "jiāo",
+     "pos": "V",
+     "en": "to teach"
+    },
+    {
+     "n": 15,
+     "zh": "到",
+     "py": "dào",
+     "pos": "Prep",
+     "en": "to"
+    }
+   ],
+   "track": "05-04",
+   "source": {
+    "pages": [
+     117
+    ]
+   }
+  },
+  {
+   "type": "vocab",
+   "id": "v2-phrases",
+   "title": "Phrases",
+   "items": [
+    {
+     "n": 16,
+     "zh": "有一點",
+     "py": "yǒu yìdiǎn",
+     "pos": "",
+     "en": "a little"
+    },
+    {
+     "n": 17,
+     "zh": "不好",
+     "py": "bù hǎo",
+     "pos": "",
+     "en": "not well"
+    }
+   ],
+   "source": {
+    "pages": [
+     118
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "h-gr",
+   "en": "Grammar",
+   "zh": "文法"
+  },
+  {
+   "type": "heading",
+   "id": "g1",
+   "en": "I. 有一點 yǒu yìdiǎn slightly",
+   "level": 3
+  },
+  {
+   "type": "text",
+   "id": "g1-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Function: 有一點 + State Verb suggests a slightly negative evaluation."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g1-ex",
+   "items": [
+    {
+     "zh": "這碗牛肉麵有一點辣。",
+     "py": "Zhè wǎn niúròu miàn yǒu yìdiǎn là.",
+     "en": "This bowl of beef noodle is a little spicy."
+    },
+    {
+     "zh": "那支手機有一點貴。",
+     "py": "Nà zhī shǒujī yǒu yìdiǎn guì.",
+     "en": "That cell phone is a little expensive."
+    },
+    {
+     "zh": "他的房子有一點舊。",
+     "py": "Tā de fángzi yǒu yìdiǎn jiù.",
+     "en": "His house is a little old."
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "g1-s",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Structures: Since this expression suggests negative evaluation, there is no negative form for the pattern. If the Vs has a positive meaning, it can’t be used in this pattern. For example, one can say, 這張照片有一點舊。Zhè zhāng zhàopiàn yǒu yìdiǎn jiù. ‘This photo is a little old’. However, you cannot say *他妹妹有一點漂亮 Tā mèimei yǒu yìdiǎn piàoliàng. ‘His younger sister is a little beautiful’."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "g1-x",
+   "title": "練習 Exercise",
+   "instruction": "Complete the evaluations.",
+   "items": [
+    {
+     "prompt": "A：你覺得臭豆腐怎麼樣？　B：我覺得臭豆腐＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：你覺得那家餐廳的菜怎麼樣？　B：那家餐廳的菜＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：牛肉麵好吃嗎？　B：好吃，可是＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：那個包子怎麼樣？　B：好吃，可是我覺得＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：他的手機是新的嗎？　B：不是新的，＿＿＿＿＿＿。",
+     "hint": ""
+    }
+   ],
+   "source": {
+    "pages": [
+     118,
+     119
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "g2",
+   "en": "II. Complement Marker 得 de",
+   "level": 3,
+   "source": {
+    "pages": [
+     119
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g2-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Function: The complement marker 得 de follows the verb and introduces the complement, which describes the result or state of the action suggested by the verb."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g2-ex",
+   "items": [
+    {
+     "zh": "他學中文學得不錯。",
+     "py": "Tā xué Zhōngwén xué de búcuò.",
+     "en": "He has learned Chinese quite well."
+    },
+    {
+     "zh": "王伯母做越南菜做得很好。",
+     "py": "Wáng Bómǔ zuò Yuènán cài zuò de hěn hǎo.",
+     "en": "Auntie Wang cooks Vietnamese food very well."
+    },
+    {
+     "zh": "你做得很好。",
+     "py": "Nǐ zuò de hěn hǎo.",
+     "en": "You did well."
+    },
+    {
+     "zh": "這種手機賣得很好。",
+     "py": "Zhè zhǒng shǒujī mài de hěn hǎo.",
+     "en": "This type of cell phone sells well."
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "g2-s1",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Structures: When a complement is added to a transitive verb, several structural consequences follow."
+    },
+    {
+     "lang": "en",
+     "text": "1. When its object directly follows the verb, the verb is repeated before 得 de and the complement."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g2-s1-ex",
+   "items": [
+    {
+     "zh": "你做飯做得真好吃。",
+     "py": "Nǐ zuòfàn zuò de zhēn hǎochī.",
+     "en": "You cook really well."
+    },
+    {
+     "zh": "我的老師教中文教得很好。",
+     "py": "Wǒ de lǎoshī jiāo Zhōngwén jiāo de hěn hǎo.",
+     "en": "My teacher teaches Chinese well."
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "g2-s2",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "2. When the object appears at the front of the sentence, the verb is not repeated."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g2-s2-ex",
+   "items": [
+    {
+     "zh": "飯，他做得真好吃。",
+     "py": "Fàn, tā zuò de zhēn hǎochī.",
+     "en": "He cooks really well."
+    },
+    {
+     "zh": "中文，你說得很好。",
+     "py": "Zhōngwén, nǐ shuō de hěn hǎo.",
+     "en": "You speak Chinese well."
+    },
+    {
+     "zh": "這種甜點，他做得很好吃。",
+     "py": "Zhè zhǒng tiándiǎn, tā zuò de hěn hǎochī.",
+     "en": "He makes this kind of dessert very tasty."
+    },
+    {
+     "zh": "這支手機賣得很便宜。",
+     "py": "Zhè zhī shǒujī mài de hěn piányí.",
+     "en": "This cell phone is sold cheaply."
+    }
+   ],
+   "source": {
+    "pages": [
+     119,
+     120
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g2-n",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Negation: Negation occurs only within the complement."
+    }
+   ],
+   "source": {
+    "pages": [
+     120
+    ]
+   }
+  },
+  {
+   "type": "examples",
+   "id": "g2-neg-ex",
+   "items": [
+    {
+     "zh": "他做甜點做得不好。",
+     "py": "Tā zuò tiándiǎn zuò de bù hǎo.",
+     "en": "He does not make desserts well."
+    },
+    {
+     "zh": "王先生打網球打得不好。",
+     "py": "Wáng Xiānshēng dǎ wǎngqiú dǎ de bù hǎo.",
+     "en": "Mr. Wang does not play the tennis well."
+    },
+    {
+     "zh": "他的咖啡賣得不好。",
+     "py": "Tā de kāfēi mài de bù hǎo.",
+     "en": "His coffee does not sell well."
+    },
+    {
+     "zh": "越南菜，這家店做得不好吃。",
+     "py": "Yuènán cài, zhè jiā diàn zuò de bù hǎochī.",
+     "en": "This shop does not cook Vietnamese food well."
+    }
+   ],
+   "title": "Negation"
+  },
+  {
+   "type": "examples",
+   "id": "g2-q-ex",
+   "items": [
+    {
+     "zh": "他做飯做得怎麼樣？",
+     "py": "Tā zuòfàn zuò de zěnmeyàng?",
+     "en": "How (well) does he cook?"
+    },
+    {
+     "zh": "他打籃球打得好嗎？",
+     "py": "Tā dǎ lánqiú dǎ de hǎo ma?",
+     "en": "Does he play basketball well?"
+    },
+    {
+     "zh": "中文，他說得好不好？",
+     "py": "Zhōngwén, tā shuō de hǎo bù hǎo?",
+     "en": "Does he speak Chinese well?"
+    }
+   ],
+   "title": "Questions"
+  },
+  {
+   "type": "exercise",
+   "id": "g2-x",
+   "title": "練習 Exercise",
+   "instruction": "Complete the following answers.",
+   "items": [
+    {
+     "prompt": "你弟弟踢足球踢得怎麼樣？　他踢得＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "他姐姐做甜點，做得好吃不好吃？　做得＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "日本菜，你妹妹做得好不好？　我妹妹做＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "這種手機賣得怎麼樣？　賣得＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "他打網球打得好嗎？　打＿＿＿＿＿＿。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "g3",
+   "en": "III. Aquired Skills 會 huì",
+   "level": 3,
+   "source": {
+    "pages": [
+     121
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g3-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Function: 會 huì indicates that these skills are acquired through learning."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g3-ex",
+   "items": [
+    {
+     "zh": "陳小姐會做飯。",
+     "py": "Chén Xiǎojiě huì zuòfàn.",
+     "en": "Miss Chen can cook."
+    },
+    {
+     "zh": "他哥哥會踢足球。",
+     "py": "Tā gēge huì tī zúqiú.",
+     "en": "His older brother knows how to play soccer."
+    },
+    {
+     "zh": "他們兄弟姐妹都會游泳。",
+     "py": "Tāmen xiōngdì jiěmèi dōu huì yóuyǒng.",
+     "en": "All of those siblings know how to swim."
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "g3-s",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Structures: 會 huì is an auxiliary verb and can be negated."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g3-neg-ex",
+   "items": [
+    {
+     "zh": "他的媽媽不會做飯。",
+     "py": "Tā de māma bú huì zuòfàn.",
+     "en": "His mom can’t cook."
+    },
+    {
+     "zh": "我媽媽不會做甜點。",
+     "py": "Wǒ māma bú huì zuò tiándiǎn.",
+     "en": "My mom does not know how to make desserts."
+    },
+    {
+     "zh": "我的家人都不會打棒球。",
+     "py": "Wǒ de jiārén dōu bú huì dǎ bàngqiú.",
+     "en": "None of the members of my family knows how to play baseball."
+    }
+   ],
+   "title": "Negation"
+  },
+  {
+   "type": "examples",
+   "id": "g3-q-ex",
+   "items": [
+    {
+     "zh": "你會做甜點嗎？",
+     "py": "Nǐ huì zuò tiándiǎn ma?",
+     "en": "Do you know how to make desserts?"
+    },
+    {
+     "zh": "他弟弟會踢足球嗎？",
+     "py": "Tā dìdi huì tī zúqiú ma?",
+     "en": "Does his younger brother know how to play football?"
+    },
+    {
+     "zh": "你會不會說中文？",
+     "py": "Nǐ huì bú huì shuō Zhōngwén?",
+     "en": "Do you know how to speak Chinese?"
+    },
+    {
+     "zh": "你的姐姐會不會做飯？",
+     "py": "Nǐ de jiějie huì bú huì zuòfàn?",
+     "en": "Does your elder sister know how to cook?"
+    }
+   ],
+   "title": "Questions"
+  },
+  {
+   "type": "exercise",
+   "id": "g3-x",
+   "title": "練習 Exercise",
+   "instruction": "Complete the answers.",
+   "items": [
+    {
+     "prompt": "A：他會不會做牛肉麵？　B：＿＿＿，他弟弟也會做。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：你哥哥會不會打網球？　B：＿＿＿，你可以教他嗎？",
+     "hint": ""
+    },
+    {
+     "prompt": "A：我們都會打棒球，你呢？　B：我＿＿＿，可是我很想學。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：我會踢足球，你呢？　B：我＿＿＿，你可以教我嗎？",
+     "hint": ""
+    },
+    {
+     "prompt": "A：小籠包和包子，我都會做，你呢？　B：我也＿＿＿。",
+     "hint": ""
+    }
+   ],
+   "source": {
+    "pages": [
+     122
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "g4",
+   "en": "IV. Destination Marker 到 dào",
+   "level": 3
+  },
+  {
+   "type": "text",
+   "id": "g4-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Function: The preposition 到 dào indicates the destination of a movement."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g4-ex",
+   "items": [
+    {
+     "zh": "他這個週末到臺灣來。",
+     "py": "Tā zhè ge zhōumò dào Táiwān lái.",
+     "en": "He is coming to Taiwan this weekend."
+    },
+    {
+     "zh": "老師明天到臺北來。我們要和他一起吃晚飯。",
+     "py": "Lǎoshī míngtiān dào Táiběi lái. Wǒmen yào hàn tā yìqǐ chī wǎnfàn.",
+     "en": "The teacher is coming to Taipei tomorrow. We are having dinner with him."
+    },
+    {
+     "zh": "想吃牛肉麵嗎？明天我們可以到那家店去。",
+     "py": "Xiǎng chī niúròu miàn ma? Míngtiān wǒmen kěyǐ dào nà jiā diàn qù.",
+     "en": "Would you like to have beef noodles? We can go to that shop tomorrow."
+    },
+    {
+     "zh": "我可以教你中文，明天到我家來吧！",
+     "py": "Wǒ kěyǐ jiāo nǐ Zhōngwén, míngtiān dào wǒ jiā lái ba!",
+     "en": "I can teach you Chinese. Go ahead and come to my house tomorrow."
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "g4-s",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Structures:"
+    },
+    {
+     "lang": "en",
+     "text": "Negation: Negation is always done by placing a negator in front of a preposition, not the main verb."
+    }
+   ],
+   "source": {
+    "pages": [
+     123
+    ]
+   }
+  },
+  {
+   "type": "examples",
+   "id": "g4-neg-ex",
+   "items": [
+    {
+     "zh": "王先生明天不到臺北來。",
+     "py": "Wáng Xiānshēng míngtiān bú dào Táiběi lái.",
+     "en": "Mr. Wang is not coming to Taipei tomorrow."
+    },
+    {
+     "zh": "那家的越南菜不好吃。他們不到那家餐廳去。",
+     "py": "Nà jiā de Yuènán cài bù hǎochī. Tāmen bú dào nà jiā cāntīng qù.",
+     "en": "That shop’s Vietnamese food doesn’t taste good. They don’t go to that restaurant."
+    },
+    {
+     "zh": "他晚上去看電影，不到我家來，你呢？",
+     "py": "Tā wǎnshàng qù kàn diànyǐng, bú dào wǒ jiā lái, nǐ ne?",
+     "en": "He is going to go to a movie tonight and will not be coming to my house. How about you?"
+    }
+   ],
+   "title": "Negation"
+  },
+  {
+   "type": "text",
+   "id": "g4-q",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Questions: 到 dào can be used to form A-not-A questions."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g4-q-ex",
+   "items": [
+    {
+     "zh": "你妹妹到不到臺灣來？",
+     "py": "Nǐ mèimei dào bú dào Táiwān lái?",
+     "en": "Is your younger sister coming to Taiwan?"
+    },
+    {
+     "zh": "他們到不到我家來？",
+     "py": "Tāmen dào bú dào wǒ jiā lái?",
+     "en": "Are they coming to my house?"
+    }
+   ],
+   "title": "Questions"
+  },
+  {
+   "type": "text",
+   "id": "g4-u",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Usage: The destination marker 到 dào is a preposition and another verb serves as the main verb in the sentence (e.g., 來 lái ‘come’ or 去 qù ‘go’). In Taiwan and Southern China, however, 到 dào is often used as a verb, like 來 lái or 去 qù."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g4-u-ex",
+   "items": [
+    {
+     "zh": "這麼多家餐廳，我們要到哪一家？",
+     "py": "Zhème duō jiā cāntīng, wǒmen yào dào nǎ yì jiā?",
+     "en": "There are so many restaurants. Which one should we go?"
+    },
+    {
+     "zh": "他們明天晚上要到王老師家。你想去嗎？",
+     "py": "Tāmen míngtiān wǎnshàng yào dào Wáng lǎoshī jiā. Nǐ xiǎng qù ma?",
+     "en": "They are going to Teacher Wang’s house tomorrow evening. Would you like to go?"
+    },
+    {
+     "zh": "歡迎你到我家。",
+     "py": "Huānyíng nǐ dào wǒ jiā.",
+     "en": "Welcome to my home."
+    }
+   ],
+   "source": {
+    "pages": [
+     123,
+     124
+    ]
+   }
+  },
+  {
+   "type": "exercise",
+   "id": "g4-x",
+   "title": "練習 Exercise",
+   "instruction": "Make correct sentences by rearranging the order of the characters (1-3) or complete the sentences by filling in the blanks (4-5).",
+   "items": [
+    {
+     "prompt": "臺北 ① ／ 陳小姐 ② ／ 到 ③ ／ 來 ④ → ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "不到 ① ／ 來 ② ／ 臺灣 ③ ／ 李先生 ④ → ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "到不到 ① ／ 週末 ② ／ 老師 ③ ／ 臺北 ④ ／ 來 ⑤ → ＿＿＿＿＿＿？",
+     "hint": ""
+    },
+    {
+     "prompt": "那兩個日本人＿＿＿臺灣＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "李先生要去打球，他不＿＿＿我家＿＿＿。",
+     "hint": ""
+    }
+   ],
+   "source": {
+    "pages": [
+     124
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "h-act",
+   "en": "Classroom Activities",
+   "zh": "課室活動",
+   "source": {
+    "pages": [
+     125
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "act1",
+   "en": "I. Street Vendor Food Is Good",
+   "level": 3
+  },
+  {
+   "type": "text",
+   "id": "act1-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Learning the names of common foods and how to read them."
+    },
+    {
+     "lang": "en",
+     "text": "Task: Compete with classmates to see who can name the most street foods. Find pictures of food you know and bring them to class. Show each picture and say the name of the food it shows."
+    }
+   ]
+  },
+  {
+   "type": "figure",
+   "id": "act1-fig",
+   "image": "act1-p125.webp",
+   "alt": "Tiga gambar makanan: A semangkuk mi dengan daging 120元; B sepiring makanan 40元; C kukusan berisi bakpao kecil 80元.",
+   "caption": "A 120元 ・ B 40元 ・ C 80元"
+  },
+  {
+   "type": "exercise",
+   "id": "act1-x",
+   "title": "練習 Exercise",
+   "instruction": "Match each food with its picture (A, B, C).",
+   "items": [
+    {
+     "prompt": "臭豆腐＿＿＿",
+     "hint": ""
+    },
+    {
+     "prompt": "小籠包＿＿＿",
+     "hint": ""
+    },
+    {
+     "prompt": "牛肉麵＿＿＿",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "act2",
+   "en": "II. Tell Us What You Think",
+   "level": 3
+  },
+  {
+   "type": "text",
+   "id": "act2-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Learning to make simple comments about common objects."
+    },
+    {
+     "lang": "en",
+     "text": "Task: Read the following statements, then make comments on the statements using 很, 太 or 有一點."
+    },
+    {
+     "lang": "en",
+     "text": "Example"
+    }
+   ]
+  },
+  {
+   "type": "exchanges",
+   "id": "act2-ex",
+   "items": [
+    {
+     "a": {
+      "zh": "一碗牛肉麵一百八十塊錢。",
+      "py": "Yì wǎn niúròu miàn yìbǎi bāshí kuài qián.",
+      "en": "A bowl of beef noodles costs NT$180."
+     },
+     "b": {
+      "zh": "有一點貴。",
+      "py": "Yǒu yìdiǎn guì.",
+      "en": "A bit expensive."
+     }
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "act2-x",
+   "title": "練習 Exercise",
+   "instruction": "Comment using 很, 太 or 有一點.",
+   "items": [
+    {
+     "prompt": "十個小籠包一百六十塊。→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "四個甜點一百塊。→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "一杯咖啡十五塊。→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "一支手機兩萬多。→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "（gambar）→ ＿＿＿＿＿＿。",
+     "hint": ""
+    }
+   ],
+   "image": "act2-p126.webp",
+   "imageAlt": "Gambar untuk soal 5: seorang wanita makan dengan sumpit dan mulutnya berasap karena makanannya pedas.",
+   "source": {
+    "pages": [
+     125,
+     126
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "act3",
+   "en": "III. Talent Contest",
+   "level": 3,
+   "source": {
+    "pages": [
+     126
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "act3-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Learning to describe what someone can/can’t do and how well s/he does it."
+    },
+    {
+     "lang": "en",
+     "text": "Task: There is going to be a talent contest at school. Find out what your classmates can do and how well they can do it. Record your findings. Ask questions using phrases that you learned, like 做甜點、游泳、照相、打籃球、踢足球、做小籠包、打網球. (Make desserts, swim, take pictures, play basketball, play soccer, make xiaolongbao, play tennis.)"
+    }
+   ]
+  },
+  {
+   "type": "table",
+   "id": "act3-tab",
+   "head": [
+    "問題 Question",
+    "回答 Answer",
+    "問題 Question",
+    "結果 Finding"
+   ],
+   "rows": [
+    [
+     "你會做飯嗎？ 你會不會做飯？",
+     "□會 □不會",
+     "你做得怎麼樣？",
+     "1. ＿＿＿會做飯，做得很好。 2. ＿＿＿不會做飯。 3. ＿＿＿會做飯，可是做得不好。"
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "act4",
+   "en": "IV. Asking for Help",
+   "level": 3
+  },
+  {
+   "type": "text",
+   "id": "act4-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Learning to ask for help."
+    },
+    {
+     "lang": "en",
+     "text": "Task: From the survey you completed in Task III, find one item that interests you and ask the person if s/he could teach you how do to it, e.g., 我想學做小籠包，你可以教我嗎？(I want to learn how to make xiaolongbao. Can you teach me?)"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-cult",
+   "en": "Bits of Chinese Culture",
+   "zh": "文化",
+   "source": {
+    "pages": [
+     127
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "cult1",
+   "en": "Queuing up at Food Stands",
+   "level": 3
+  },
+  {
+   "type": "text",
+   "id": "cult1-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Lines in front of roadside food stands are a familiar scene in Taiwan. Food stalls usually open for business at fixed times and in fixed locations. As long as the food sold at a stall is fresh, inexpensive, and good, you can be sure there will be a long queue in front of it regardless of the weather."
+    },
+    {
+     "lang": "en",
+     "text": "With a little pocket change, you can buy delicious baozi, scallion pancakes, wheel-barrel cakes, or pan-fried dumplings. It is little wonder that there are queues on almost every street corner."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "cult2",
+   "en": "Street Vendors in Taiwan",
+   "level": 3
+  },
+  {
+   "type": "text",
+   "id": "cult2-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Street vendors are very common in Taiwan. They are the product of farmer’s markets and temple festivals of an agricultural society of a time passed. Today, street vendors are seen in scenic sites, residential areas, outskirts of markets, business district surroundings, on arcaded corridors, on the streets, outside examination sites, and during temple festivals. The selections of vendors range from daily goods to food to souvenirs. Since street vendors are very mobile, they sometimes affect traffic, disturb quiet neighborhoods, or scar cityscape. If street vendors could be regulated, they could add to the excitement and beauty of the city."
+    }
+   ]
+  },
+  {
+   "type": "note",
+   "id": "cult-photos",
+   "text": "Halaman ini juga memuat foto (Lines in front of popular roadside food stands; Street vendors at scenic sites). Foto tidak disalin karena menampilkan orang sungguhan dan milik pemegang hak; lihat halaman asli buku."
+  },
+  {
+   "type": "heading",
+   "id": "h-pron",
+   "en": "Notes on Pinyin and Pronunciation",
+   "source": {
+    "pages": [
+     128
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "pr1",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Pinyin Rules"
+    },
+    {
+     "lang": "en",
+     "text": "As with “zh-/zhi,” “ch-/chi,” and “sh-/shi,” when “z-,” “c-,” and “s-” stand alone, “i” is added to form zi, ci, and si."
+    },
+    {
+     "lang": "en",
+     "text": "When “u” is followed by other vowels, but is not preceded by a consonant, change the “u” to “w,” as in “u” + “ei” → wéi 微 in Lesson Four and “u” + “o” → wǒ 我 in Lesson 1."
+    },
+    {
+     "lang": "en",
+     "text": "When the vowel “i” is followed by “ou” but is not preceded by a consonant, change the “i” to “y” to form 有 yǒu (Refer to Lesson 2). When a consonant precedes the “i” + “ou” compound, the “o” is omitted and it becomes “-iu,” e.g., 牛 → niú, 六 → liù. The “o,” however, is still pronounced, e.g., → “ni(o)ú” and “li(o)ù.”"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-char",
+   "en": "Introduction to Chinese Characters — The Earliest Chinese Characters"
+  },
+  {
+   "type": "text",
+   "id": "char1",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "There are three general beliefs regarding the origin of Chinese characters:"
+    },
+    {
+     "lang": "en",
+     "text": "1. Chinese characters were created by a person by the name of Cangjie."
+    },
+    {
+     "lang": "en",
+     "text": "2. Chinese characters originated from the eight trigrams and rope-knotting."
+    },
+    {
+     "lang": "en",
+     "text": "3. Chinese characters originated from pictograms. This is also the most widely adopted belief among scholars."
+    },
+    {
+     "lang": "en",
+     "text": "Characters were not created by any single person, at any single time, or at any specific place. They were developed and accumulated over time. Most scholars believe that Chinese characters originated from pictures or drawings and slowly became signs and characters."
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "char2",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "The Chinese characters we see and use today have undergone many thousands of years of evolution, from the oracle bone script of the Shang Dynasty to bronze script and Large Seal script of the Zhou Dynasty to the Small Seal script that was adopted after the Qin Dynasty and used to unite the Six Kingdoms. These scripts are classified as ancient scripts. During the Han Dynasty, the symmetrical and rounded look of Small Seal script was modified to become more rectangular and orderly, making writing easier and faster. This came to known as Clerical script. The Regular script we use now evolved directly from the Clerical script. In other words, the standardized characters in use today were shaped and formed during the Han Dynasty."
+    }
+   ],
+   "source": {
+    "pages": [
+     129
+    ]
+   }
+  },
+  {
+   "type": "figure",
+   "id": "char-fig",
+   "image": "char-p129.webp",
+   "alt": "Evolusi karakter 女 dalam lima gaya tulisan: 甲骨文, 金文, 小篆, 隸書, 楷書.",
+   "caption": "甲骨文 Shang Dynasty (circa 1776-1122 B.C.) ・ 金文 Zhou Dynasty (circa 1122-249 B.C.) ・ 小篆 Qin Dynasty (circa 221-206 B.C.) ・ 隸書 Han Dynasty (circa 200 B.C.) ・ 楷書 Han Dynasty (circa 200 B.C.)"
+  },
+  {
+   "type": "heading",
+   "id": "h-self",
+   "en": "Self-Assessment Checklist"
+  },
+  {
+   "type": "checklist",
+   "id": "self",
+   "items": [
+    "I know the names of some common foods and can describe their taste.",
+    "I can express food preferences and make simple comments about them.",
+    "I can describe what others can/can’t do and how well they do it.",
+    "I can ask for help."
+   ]
+  }
+ ]
+}

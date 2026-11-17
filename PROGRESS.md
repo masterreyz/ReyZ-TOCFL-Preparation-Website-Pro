@@ -34,7 +34,8 @@ Chosen 2026-11-16. Order: A1 Textbook L1→L15, A1 Workbook L1→L15, then A2, B
 | A1 Textbook L2 我的家人 | 50–69 | ✅ complete, checked page by page (zhuyin column not copied; photos of real people not copied) |
 | A1 Textbook L3 週末做什麼？ | 70–91 | ✅ complete, checked page by page (zhuyin column not copied; culture photos not copied) |
 | A1 Textbook L4 請問一共多少錢？ | 92–111 | ✅ complete, checked page by page (zhuyin column not copied; culture photos not copied) |
-| A1 Textbook L5 牛肉麵真好吃 | 112–129 | ⏭ next |
+| A1 Textbook L5 牛肉麵真好吃 | 112–129 | ✅ complete, checked page by page (zhuyin column not copied; photos of real people not copied) |
+| A1 Textbook L6 | 130–157 | ⏭ next |
 | all other lessons | — | page images until migrated |
 
 ### Procedure per lesson
