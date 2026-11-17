@@ -1,8 +1,11 @@
-"""Correct Novice mock-test text that the booklet's printed pinyin/zhuyin garbles during extraction.
+"""Text corrections for the mock tests.
+
+1. Glyph errors from the booklet fonts: 頇 is extracted where 須 is printed.
+2. Novice mock-test text that the booklet's printed pinyin/zhuyin garbles during extraction.
 
 The Novice booklet prints pinyin and zhuyin around every character, so automatic extraction
 duplicates or shifts text. These corrections were checked against the booklet pages and the
-official listening script. Run after parse_mock.py:  python fix_novice.py <OUT_DIR>
+official listening script. Run after parse_mock.py:  python fix_text.py <OUT_DIR>
 """
 import json
 import sys
@@ -50,7 +53,11 @@ def main(out):
             for k in ("transcriptIntro", "transcriptLead"):
                 q.pop(k, None)
     f.write_text(json.dumps(t, ensure_ascii=False, indent=1), encoding="utf-8")
-    print("novice corrections applied")
+    for f in d.glob("*-[rl][0-9].json"):
+        txt = f.read_text(encoding="utf-8")
+        if "頇" in txt:
+            f.write_text(txt.replace("頇", "須"), encoding="utf-8")
+    print("text corrections applied")
 
 
 if __name__ == "__main__":

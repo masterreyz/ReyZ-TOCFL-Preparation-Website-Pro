@@ -46,7 +46,7 @@ Everything in `content` and `media/{ex,study}` is generated from your PDFs. Run 
 ```bash
 SRC="D:\Material For TOCFL Website Claude"
 python pipeline/parse_mock.py   "$SRC" .     # 30 mock tests -> content/exercise + question crops
-python pipeline/fix_novice.py .              # verified text corrections for the Novice tests (pinyin-annotated booklet)
+python pipeline/fix_text.py .                # verified text corrections (font glyph errors; Novice pinyin-annotated booklet)
 python pipeline/build_layouts.py "$SRC" .    # reading: "original question book layout" images (passage + question, no choices)
 for t in content/exercise/*-[rl][0-9].json; do python pipeline/explain_tool.py merge $(basename $t .json); done
                                               # explanations: pinyin for all Chinese + English from pipeline/explain_src

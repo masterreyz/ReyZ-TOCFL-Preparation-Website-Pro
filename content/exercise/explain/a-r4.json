@@ -1,111 +1,129 @@
 {
  "testId": "a-r4",
  "segments": 156,
- "englishComplete": false,
+ "englishComplete": true,
  "questions": {
   "1": {
    "stem": {
     "zh": "她正在跳舞。",
-    "py": "Tā zhèngzài tiàowǔ."
+    "py": "Tā zhèngzài tiàowǔ.",
+    "en": "She is dancing."
    }
   },
   "2": {
    "stem": {
     "zh": "他常常去博物館。",
-    "py": "Tā chángcháng qù bówùguǎn."
+    "py": "Tā chángcháng qù bówùguǎn.",
+    "en": "He often goes to the museum."
    }
   },
   "3": {
    "stem": {
     "zh": "他們家有很多馬。",
-    "py": "Tāmen jiā yǒu hěnduō mǎ."
+    "py": "Tāmen jiā yǒu hěnduō mǎ.",
+    "en": "Their family has many horses."
    }
   },
   "4": {
    "stem": {
     "zh": "這是一座很漂亮的森林。",
-    "py": "Zhè shì yízuò hěnpiàoliang de sēnlín."
+    "py": "Zhè shì yízuò hěnpiàoliang de sēnlín.",
+    "en": "This is a very beautiful forest."
    }
   },
   "5": {
    "stem": {
     "zh": "大華正在幫人看病。",
-    "py": "Dàhuá zhèngzài bāng rén kànbìng."
+    "py": "Dàhuá zhèngzài bāng rén kànbìng.",
+    "en": "Dahua is treating someone (as a doctor)."
    }
   },
   "6": {
    "stem": {
     "zh": "王先生今天沒有帶鑰匙。",
-    "py": "Wángxiānsheng jīntiān méiyǒu dài yàoshi."
+    "py": "Wángxiānsheng jīntiān méiyǒu dài yàoshi.",
+    "en": "Mr. Wang didn't bring his keys today."
    }
   },
   "7": {
    "stem": {
     "zh": "他們一起看一本書。",
-    "py": "Tāmen yìqǐ kàn yī běnshū."
+    "py": "Tāmen yìqǐ kàn yī běnshū.",
+    "en": "They are reading a book together."
    }
   },
   "8": {
    "stem": {
     "zh": "爸爸拿了一半的蛋糕給小明。",
-    "py": "Bàba ná le yíbàn de dàngāo gěi Xiǎomíng."
+    "py": "Bàba ná le yíbàn de dàngāo gěi Xiǎomíng.",
+    "en": "Dad gave half of the cake to Xiaoming."
    }
   },
   "9": {
    "stem": {
     "zh": "他總是一個人運動，不和大家一起玩。",
-    "py": "Tā zǒngshì yí ge rén yùndòng, bù hé dàjiā yìqǐ wán."
+    "py": "Tā zǒngshì yí ge rén yùndòng, bù hé dàjiā yìqǐ wán.",
+    "en": "He always exercises alone and doesn't play with everyone else."
    }
   },
   "10": {
    "stem": {
     "zh": "警察站在他的車子旁邊和他說話。",
-    "py": "Jǐngchá zhàn zài tā de chēzi pángbiān hé tā shuōhuà."
+    "py": "Jǐngchá zhàn zài tā de chēzi pángbiān hé tā shuōhuà.",
+    "en": "The police officer is standing next to his car and talking with him."
    }
   },
   "11": {
    "stem": {
     "zh": "小美買了外套，又買了皮包，一共付了兩千元。",
-    "py": "Xiǎo měi mǎi le wàitào, yòu mǎi le píbāo, yígòng fù le liǎngqiānyuán."
+    "py": "Xiǎo měi mǎi le wàitào, yòu mǎi le píbāo, yígòng fù le liǎngqiānyuán.",
+    "en": "Xiaomei bought a jacket and also a handbag, paying two thousand dollars in total."
    }
   },
   "12": {
    "stem": {
     "zh": "愛美已經和爸爸差不多高了，但是還沒爸爸高。",
-    "py": "Àiměi yǐjīng hé bàba chàbuduō gāo le, dànshì hái méi bàba gāo."
+    "py": "Àiměi yǐjīng hé bàba chàbuduō gāo le, dànshì hái méi bàba gāo.",
+    "en": "Aimei is already almost as tall as her dad, but she isn't as tall as him yet."
    }
   },
   "13": {
    "stem": {
     "zh": "昨天下午來看病的病人，大人跟小孩一樣多。",
-    "py": "Zuótiānxiàwǔ lái kànbìng de bìngrén, dàrén gēn xiǎohái yíyàng duō."
+    "py": "Zuótiānxiàwǔ lái kànbìng de bìngrén, dàrén gēn xiǎohái yíyàng duō.",
+    "en": "Among the patients who came to see the doctor yesterday afternoon, there were as many adults as children."
    }
   },
   "14": {
    "stem": {
     "zh": "校長要學生在家裡吃飽以後，再上學。",
-    "py": "Xiàozhǎng yào xuéshēng zài jiālǐ chībǎo yǐhòu, zài shàngxué."
+    "py": "Xiàozhǎng yào xuéshēng zài jiālǐ chībǎo yǐhòu, zài shàngxué.",
+    "en": "The principal wants students to eat their fill at home before coming to school."
    }
   },
   "15": {
    "stem": {
     "zh": "車子不動了，車上的人馬上下車檢查。",
-    "py": "Chēzi búdòng le, chēshàng de rénmǎ shàngxiàchē jiǎnchá."
+    "py": "Chēzi búdòng le, chēshàng de rénmǎ shàngxiàchē jiǎnchá.",
+    "en": "The car stopped moving, and the people in it immediately got out to check."
    }
   },
   "16": {
    "options": {
     "A": {
      "zh": "她的頭髮很長。",
-     "py": "Tā de tóufà hěn zhǎng."
+     "py": "Tā de tóufà hěn zhǎng.",
+     "en": "Her hair is very long."
     },
     "B": {
      "zh": "她的裙子很短。",
-     "py": "Tā de qúnzi hěn duǎn."
+     "py": "Tā de qúnzi hěn duǎn.",
+     "en": "Her skirt is very short."
     },
     "C": {
      "zh": "她正拿著盤子。",
-     "py": "Tā zhèng názhù pánzi."
+     "py": "Tā zhèng názhù pánzi.",
+     "en": "She is holding a plate."
     }
    }
   },
@@ -113,15 +131,18 @@
    "options": {
     "A": {
      "zh": "這位先生正在收傳真。",
-     "py": "Zhèwèi xiānsheng zhèngzài shōu chuánzhēn."
+     "py": "Zhèwèi xiānsheng zhèngzài shōu chuánzhēn.",
+     "en": "This gentleman is receiving a fax."
     },
     "B": {
      "zh": "這位先生已經很累了。",
-     "py": "Zhèwèi xiānsheng yǐjīng hěn lèi le."
+     "py": "Zhèwèi xiānsheng yǐjīng hěn lèi le.",
+     "en": "This gentleman is already very tired."
     },
     "C": {
      "zh": "桌上什麼東西都沒有。",
-     "py": "Zhuōshàng shénme Dōngxi dōu méiyǒu."
+     "py": "Zhuōshàng shénme Dōngxi dōu méiyǒu.",
+     "en": "There is nothing on the desk."
     }
    }
   },
@@ -129,15 +150,18 @@
    "options": {
     "A": {
      "zh": "林先生手上沒有東西。",
-     "py": "Línxiānsheng shǒushàng méiyǒu Dōngxi."
+     "py": "Línxiānsheng shǒushàng méiyǒu Dōngxi.",
+     "en": "Mr. Lin has nothing in his hands."
     },
     "B": {
      "zh": "林先生吃完了所有食物。",
-     "py": "Línxiānsheng chī wán le suǒyǒu shíwù."
+     "py": "Línxiānsheng chī wán le suǒyǒu shíwù.",
+     "en": "Mr. Lin has finished all the food."
     },
     "C": {
      "zh": "林先生現在覺得很開心。",
-     "py": "Línxiānsheng xiànzài juéde hěn kāixīn."
+     "py": "Línxiānsheng xiànzài juéde hěn kāixīn.",
+     "en": "Mr. Lin feels very happy now."
     }
    }
   },
@@ -145,15 +169,18 @@
    "options": {
     "A": {
      "zh": "這裡幾乎坐滿了學生。",
-     "py": "Zhèlǐ jīhū zuòmǎn le xuéshēng."
+     "py": "Zhèlǐ jīhū zuòmǎn le xuéshēng.",
+     "en": "The place is almost full of students."
     },
     "B": {
      "zh": "這些學生正在慶祝開學。",
-     "py": "Zhèxiē xuéshēng zhèngzài qìngzhù kāixué."
+     "py": "Zhèxiē xuéshēng zhèngzài qìngzhù kāixué.",
+     "en": "These students are celebrating the start of the school term."
     },
     "C": {
      "zh": "他們幾個人就要畢業了。",
-     "py": "Tāmen jǐ ge rén jiùyào bìyè le."
+     "py": "Tāmen jǐ ge rén jiùyào bìyè le.",
+     "en": "These few of them are about to graduate."
     }
    }
   },
@@ -161,15 +188,18 @@
    "options": {
     "A": {
      "zh": "大家正在慶祝中國新年。",
-     "py": "Dàjiā zhèngzài qìngzhù Zhōngguó xīnnián."
+     "py": "Dàjiā zhèngzài qìngzhù Zhōngguó xīnnián.",
+     "en": "Everyone is celebrating Chinese New Year."
     },
     "B": {
      "zh": "小朋友們手上拿著糖果。",
-     "py": "Xiǎopéngyǒu men shǒushàng názhù tángguǒ."
+     "py": "Xiǎopéngyǒu men shǒushàng názhù tángguǒ.",
+     "en": "The children are holding candy in their hands."
     },
     "C": {
      "zh": "大人們正在請客人吃飯。",
-     "py": "Dà rénmen zhèngzài qǐng kèrén chīfàn."
+     "py": "Dà rénmen zhèngzài qǐng kèrén chīfàn.",
+     "en": "The adults are treating the guests to a meal."
     }
    }
   },
@@ -177,15 +207,18 @@
    "options": {
     "A": {
      "zh": "雪已經停了。",
-     "py": "Xuě yǐjīng tíng le."
+     "py": "Xuě yǐjīng tíng le.",
+     "en": "The snow has already stopped."
     },
     "B": {
      "zh": "小男孩沒戴帽子。",
-     "py": "Xiǎonánhái méi Dàimàozi."
+     "py": "Xiǎonánhái méi Dàimàozi.",
+     "en": "The little boy isn't wearing a hat."
     },
     "C": {
      "zh": "小朋友們正在玩。",
-     "py": "Xiǎopéngyǒu men zhèngzài wán."
+     "py": "Xiǎopéngyǒu men zhèngzài wán.",
+     "en": "The children are playing."
     }
    }
   },
@@ -193,15 +226,18 @@
    "options": {
     "A": {
      "zh": "這裡有山還有樹。",
-     "py": "Zhèlǐ yǒu shān háiyǒu shù."
+     "py": "Zhèlǐ yǒu shān háiyǒu shù.",
+     "en": "There are mountains and trees here."
     },
     "B": {
      "zh": "房子前面的湖很髒。",
-     "py": "Fángzi qiánmiàn de hú hěnzāng."
+     "py": "Fángzi qiánmiàn de hú hěnzāng.",
+     "en": "The lake in front of the house is very dirty."
     },
     "C": {
      "zh": "在湖的旁邊有好幾間房子。",
-     "py": "Zài hú de pángbiān yǒu hǎojǐjiān fángzi."
+     "py": "Zài hú de pángbiān yǒu hǎojǐjiān fángzi.",
+     "en": "There are several houses beside the lake."
     }
    }
   },
@@ -209,15 +245,18 @@
    "options": {
     "A": {
      "zh": "這位先生正在照相。",
-     "py": "Zhèwèi xiānsheng zhèngzài zhàoxiàng."
+     "py": "Zhèwèi xiānsheng zhèngzài zhàoxiàng.",
+     "en": "This gentleman is taking photos."
     },
     "B": {
      "zh": "這裡很熱鬧，人很多。",
-     "py": "Zhèlǐ hěn rènào, rén hěnduō."
+     "py": "Zhèlǐ hěn rènào, rén hěnduō.",
+     "en": "It's very lively here, with lots of people."
     },
     "C": {
      "zh": "這位小姐正在和警察說話。",
-     "py": "Zhèwèi Xiǎojiě zhèngzài hé jǐngchá shuōhuà."
+     "py": "Zhèwèi Xiǎojiě zhèngzài hé jǐngchá shuōhuà.",
+     "en": "This lady is talking with a police officer."
     }
    }
   },
@@ -225,15 +264,18 @@
    "options": {
     "A": {
      "zh": "學生們都在上課。",
-     "py": "Xuéshēng men dōu zài shàngkè."
+     "py": "Xuéshēng men dōu zài shàngkè.",
+     "en": "The students are all in class."
     },
     "B": {
      "zh": "女學生在黑板上畫畫。",
-     "py": "Nǚ xuéshēng zài hēibǎn shàng huàhuà."
+     "py": "Nǚ xuéshēng zài hēibǎn shàng huàhuà.",
+     "en": "The female student is drawing on the blackboard."
     },
     "C": {
      "zh": "有一個學生手裡拿著電腦。",
-     "py": "Yǒu yí ge xuéshēng shǒulǐ názhù diànnǎo."
+     "py": "Yǒu yí ge xuéshēng shǒulǐ názhù diànnǎo.",
+     "en": "One student is holding a computer."
     }
    }
   },
@@ -241,15 +283,18 @@
    "options": {
     "A": {
      "zh": "一杯飲料 40 元。",
-     "py": "Yìbēi yǐnliào 40 yuán."
+     "py": "Yìbēi yǐnliào 40 yuán.",
+     "en": "A drink costs 40 dollars."
     },
     "B": {
      "zh": "一盤水餃 50 元。",
-     "py": "Yìpán shuǐjiǎo 50 yuán."
+     "py": "Yìpán shuǐjiǎo 50 yuán.",
+     "en": "A plate of dumplings costs 50 dollars."
     },
     "C": {
      "zh": "一顆包子 60 元。",
-     "py": "Yìkē bāozi 60 yuán."
+     "py": "Yìkē bāozi 60 yuán.",
+     "en": "A baozi (steamed bun) costs 60 dollars."
     }
    }
   },
@@ -257,179 +302,314 @@
    "options": {
     "A": {
      "zh": "這個活動能換到水果。",
-     "py": "Zhè ge huódòng nénghuàn dào shuǐguǒ."
+     "py": "Zhè ge huódòng nénghuàn dào shuǐguǒ.",
+     "en": "You can get fruit in exchange at this event."
     },
     "B": {
      "zh": "這個活動從中午開始。",
-     "py": "Zhè ge huódòng cóng zhōngwǔ kāishǐ."
+     "py": "Zhè ge huódòng cóng zhōngwǔ kāishǐ.",
+     "en": "This event starts at noon."
     },
     "C": {
      "zh": "活動的時間有一個禮拜。",
-     "py": "Huódòng de shíjiān yǒu yí ge Lǐbài."
+     "py": "Huódòng de shíjiān yǒu yí ge Lǐbài.",
+     "en": "The event lasts one week."
     }
-   }
+   },
+   "image": [
+    {
+     "zh": "紙愛地球",
+     "py": "Zhǐ ài dìqiú",
+     "en": "Paper Loves the Earth"
+    },
+    {
+     "zh": "一公斤的紙換半公斤的香蕉",
+     "py": "Yī gōngjīn de zhǐ huàn bàngōngjīn de xiāngjiāo",
+     "en": "One kilogram of paper for half a kilogram of bananas"
+    },
+    {
+     "zh": "日期：107年6月5日～6月6日",
+     "py": "Rìqī: 107 nián 6 yuè 5 rì~ 6 yuè 6 rì",
+     "en": "Date: June 5–6, 2018 (ROC year 107)"
+    },
+    {
+     "zh": "時間：早上10點～中午12點",
+     "py": "Shíjiān: Zǎoshàng 10 diǎn~ zhōngwǔ 12 diǎn",
+     "en": "Time: 10 a.m. to 12 noon"
+    }
+   ]
   },
   "27": {
    "options": {
     "A": {
      "zh": "日和大學全校停水兩天。",
-     "py": "Rì hé dàxué quánxiào tíngshuǐ liǎngtiān."
+     "py": "Rì hé dàxué quánxiào tíngshuǐ liǎngtiān.",
+     "en": "The whole of Rihe University has its water cut off for two days."
     },
     "B": {
      "zh": "女生宿舍一共停水十二小時。",
-     "py": "Nǚshēngsùshè yígòng tíngshuǐ shíèr xiǎoshí."
+     "py": "Nǚshēngsùshè yígòng tíngshuǐ shíèr xiǎoshí.",
+     "en": "The women's dormitory has its water cut off for twelve hours in total."
     },
     "C": {
      "zh": "男生宿舍比女生宿舍早一天停水。",
-     "py": "Nánshēngsùshè bǐ nǚshēngsùshè zǎo yìtiān tíngshuǐ."
+     "py": "Nánshēngsùshè bǐ nǚshēngsùshè zǎo yìtiān tíngshuǐ.",
+     "en": "The men's dormitory has its water cut off one day earlier than the women's dormitory."
     }
-   }
+   },
+   "image": [
+    {
+     "zh": "宿舍停水通知",
+     "py": "Sùshè tíngshuǐtōngzhī",
+     "en": "Dormitory water cut-off notice"
+    },
+    {
+     "zh": "男生宿舍：7月2日上午八點～下午六點",
+     "py": "Nánshēngsùshè: 7 yuè 2 rì shàngwǔ bādiǎn~ xiàwǔ liùdiǎn",
+     "en": "Men's dormitory: July 2, 8 a.m. – 6 p.m."
+    },
+    {
+     "zh": "女生宿舍：7月3日上午八點～下午六點",
+     "py": "Nǚshēngsùshè: 7 yuè 3 rì shàngwǔ bādiǎn~ xiàwǔ liùdiǎn",
+     "en": "Women's dormitory: July 3, 8 a.m. – 6 p.m."
+    },
+    {
+     "zh": "有任何問題請找：03-3761-1080 張小姐",
+     "py": "Yǒu rènhé wèntí qǐng zhǎo: 03 - 3761 - 1080 zhāng Xiǎojiě",
+     "en": "For any questions please contact: 03-3761-1080, Miss Zhang"
+    },
+    {
+     "zh": "日和大學 總務處",
+     "py": "Rì hé dàxué zǒngwùchù",
+     "en": "Rihe University, General Affairs Office"
+    }
+   ]
   },
   "28": {
    "options": {
     "A": {
      "zh": "參加活動就送機票。",
-     "py": "Cānjiā huódòng jiù sòng jīpiào."
+     "py": "Cānjiā huódòng jiù sòng jīpiào.",
+     "en": "Join the event and get a free plane ticket."
     },
     "B": {
      "zh": "這個活動只有一個月。",
-     "py": "Zhè ge huódòng zhǐyǒu yígeyuè."
+     "py": "Zhè ge huódòng zhǐyǒu yígeyuè.",
+     "en": "This event lasts only one month."
     },
     "C": {
      "zh": "住兩個晚上都不用錢。",
-     "py": "Zhù liǎng ge wǎnshàng dōu búyòng qián."
+     "py": "Zhù liǎng ge wǎnshàng dōu búyòng qián.",
+     "en": "Staying two nights is completely free."
     }
-   }
+   },
+   "image": [
+    {
+     "zh": "五月來臺灣住兩晚 第二晚不用錢",
+     "py": "Wǔyuè lái Táiwān zhù liǎng wǎn dìèr wǎn búyòng qián",
+     "en": "Come to Taiwan in May and stay two nights—the second night is free"
+    }
+   ]
   },
   "29": {
    "options": {
     "A": {
      "zh": "早上有車從奮起湖到火車站。",
-     "py": "Zǎoshàng yǒu chē cóng fènqǐ hú dào huǒchēzhàn."
+     "py": "Zǎoshàng yǒu chē cóng fènqǐ hú dào huǒchēzhàn.",
+     "en": "In the morning there is a bus from Fenqihu to the train station."
     },
     "B": {
      "zh": "嘉義高鐵站沒有車到奮起湖。",
-     "py": "Jiāyì gāotiě zhàn méiyǒu chē dào fènqǐ Hú."
+     "py": "Jiāyì gāotiě zhàn méiyǒu chē dào fènqǐ Hú.",
+     "en": "There is no bus from Chiayi High Speed Rail Station to Fenqihu."
     },
     "C": {
      "zh": "從奮起湖出發，只能到火車站。",
-     "py": "Cóng fènqǐ Hú chūfā, zhǐnéng dào huǒchēzhàn."
+     "py": "Cóng fènqǐ Hú chūfā, zhǐnéng dào huǒchēzhàn.",
+     "en": "Starting from Fenqihu, you can only go to the train station."
     }
-   }
+   },
+   "image": [
+    {
+     "zh": "奮起湖→嘉義火車站",
+     "py": "Fènqǐ Hú → Jiāyì huǒchēzhàn",
+     "en": "Fenqihu → Chiayi Train Station"
+    },
+    {
+     "zh": "嘉義火車站→奮起湖",
+     "py": "Jiāyì huǒchēzhàn → fènqǐ Hú",
+     "en": "Chiayi Train Station → Fenqihu"
+    },
+    {
+     "zh": "奮起湖→嘉義高鐵站",
+     "py": "Fènqǐ Hú → Jiāyì gāotiě zhàn",
+     "en": "Fenqihu → Chiayi HSR Station"
+    },
+    {
+     "zh": "嘉義高鐵站→奮起湖",
+     "py": "Jiāyì gāotiě zhàn → fènqǐ Hú",
+     "en": "Chiayi HSR Station → Fenqihu"
+    },
+    {
+     "zh": "奮起湖→阿里山",
+     "py": "Fènqǐ Hú → Ālǐshān",
+     "en": "Fenqihu → Alishan"
+    },
+    {
+     "zh": "阿里山→奮起湖",
+     "py": "Ālǐshān → fènqǐ Hú",
+     "en": "Alishan → Fenqihu"
+    }
+   ]
   },
   "30": {
    "options": {
     "A": {
      "zh": "半年房租給 10000 元。",
-     "py": "Bànnián fángzū gěi 10000 yuán."
+     "py": "Bànnián fángzū gěi 10000 yuán.",
+     "en": "Half a year's rent is 10,000 dollars."
     },
     "B": {
      "zh": "半年房租給 30000 元。",
-     "py": "Bànnián fángzū gěi 30000 yuán."
+     "py": "Bànnián fángzū gěi 30000 yuán.",
+     "en": "Half a year's rent is 30,000 dollars."
     },
     "C": {
      "zh": "半年房租給 60000 元。",
-     "py": "Bànnián fángzū gěi 60000 yuán."
+     "py": "Bànnián fángzū gěi 60000 yuán.",
+     "en": "Half a year's rent is 60,000 dollars."
     }
-   }
+   },
+   "image": [
+    {
+     "zh": "房屋出租",
+     "py": "Fángwūchūzū",
+     "en": "House for rent"
+    },
+    {
+     "zh": "一個月一萬元",
+     "py": "Yígeyuè yíwànyuán",
+     "en": "NT$10,000 a month"
+    }
+   ]
   },
   "31": {
    "stem": {
     "zh": "臺灣東部有一種特別的魚，會 海裡飛到水上。",
-    "py": "Táiwān dōngbù yǒu yìzhǒng tèbié de yú, huì hǎilǐ fēi dào shuǐshàng."
+    "py": "Táiwān dōngbù yǒu yìzhǒng tèbié de yú, huì hǎilǐ fēi dào shuǐshàng.",
+    "en": "In eastern Taiwan there is a special kind of fish that can fly ___ the sea up above the water. (blank: from)"
    },
    "options": {
     "A": {
      "zh": "從",
-     "py": "Cóng"
+     "py": "Cóng",
+     "en": "from"
     },
     "B": {
      "zh": "往",
-     "py": "Wǎng"
+     "py": "Wǎng",
+     "en": "toward"
     },
     "C": {
      "zh": "來",
-     "py": "Lái"
+     "py": "Lái",
+     "en": "to come"
     }
    }
   },
   "32": {
    "stem": {
     "zh": "這裡的魚有男人魚、女人魚和老人魚三 。",
-    "py": "Zhèlǐ de yú yǒu nánrén yú, nǚrén yú hé lǎorén Yúsān."
+    "py": "Zhèlǐ de yú yǒu nánrén yú, nǚrén yú hé lǎorén Yúsān.",
+    "en": "The fish here come in three ___: man fish, woman fish, and old-man fish. (blank: kinds)"
    },
    "options": {
     "A": {
      "zh": "班",
-     "py": "Bān"
+     "py": "Bān",
+     "en": "(measure word) class, scheduled run"
     },
     "B": {
      "zh": "位",
-     "py": "Wèi"
+     "py": "Wèi",
+     "en": "(polite measure word for people)"
     },
     "C": {
      "zh": "種",
-     "py": "Zhǒng"
+     "py": "Zhǒng",
+     "en": "(measure word) kind, type"
     }
    }
   },
   "33": {
    "stem": {
     "zh": "這種魚 年春天最多，男人們會一起搭船去海上找魚。",
-    "py": "Zhèzhǒng yú nián chūntiān zuì duō, nánrén men huì yìqǐ dāchuán qù hǎishàng zhǎo yú."
+    "py": "Zhèzhǒng yú nián chūntiān zuì duō, nánrén men huì yìqǐ dāchuán qù hǎishàng zhǎo yú.",
+    "en": "___ spring there are the most of these fish, and the men take boats out to sea together to look for them. (blank: every)"
    },
    "options": {
     "A": {
      "zh": "第",
-     "py": "Dì"
+     "py": "Dì",
+     "en": "(ordinal prefix) No."
     },
     "B": {
      "zh": "每",
-     "py": "Měi"
+     "py": "Měi",
+     "en": "every"
     },
     "C": {
      "zh": "幾",
-     "py": "Jǐ"
+     "py": "Jǐ",
+     "en": "how many, a few"
     }
    }
   },
   "34": {
    "stem": {
     "zh": "魚是這裡很重要的食物，這裡的大人小孩 需要它。",
-    "py": "Yú shì zhèlǐ hěn zhòngyào de shíwù, zhèlǐ de dàrén xiǎohái xūyào tā."
+    "py": "Yú shì zhèlǐ hěn zhòngyào de shíwù, zhèlǐ de dàrén xiǎohái xūyào tā.",
+    "en": "Fish is a very important food here; adults and children here ___ need it. (blank: all)"
    },
    "options": {
     "A": {
      "zh": "都",
-     "py": "Dōu"
+     "py": "Dōu",
+     "en": "all"
     },
     "B": {
      "zh": "不",
-     "py": "Bù"
+     "py": "Bù",
+     "en": "not"
     },
     "C": {
      "zh": "本來",
-     "py": "Běnlái"
+     "py": "Běnlái",
+     "en": "originally"
     }
    }
   },
   "35": {
    "stem": {
     "zh": "很多住在別的地方的人，春天放假的 會來這裡旅遊。",
-    "py": "Hěnduō zhù zài biéde dìfāng de rén, chūntiān fàngjià de huì lái zhèlǐ lǚyóu."
+    "py": "Hěnduō zhù zài biéde dìfāng de rén, chūntiān fàngjià de huì lái zhèlǐ lǚyóu.",
+    "en": "Many people who live elsewhere come here to travel ___ they're on spring vacation. (blank: when)"
    },
    "options": {
     "A": {
      "zh": "問題",
-     "py": "Wèntí"
+     "py": "Wèntí",
+     "en": "question, problem"
     },
     "B": {
      "zh": "時候",
-     "py": "Shíhòu"
+     "py": "Shíhòu",
+     "en": "time, when"
     },
     "C": {
      "zh": "消息",
-     "py": "Xiāoxī"
+     "py": "Xiāoxī",
+     "en": "news"
     }
    }
   },
@@ -437,81 +617,100 @@
    "passage": [
     {
      "zh": "上個星期，我的同學小玲在（36）。",
-     "py": "Shànggèxīngqī, wǒ de tóngxué Xiǎolíng zài (36)."
+     "py": "Shànggèxīngqī, wǒ de tóngxué Xiǎolíng zài (36).",
+     "en": "Last week my classmate Xiaoling (36) at."
     },
     {
      "zh": "她說現在工作越來越難找，她（37），花了半年多的時間，（38）。",
-     "py": "Tā shuō xiànzài gōngzuò yuèláiyuè nán zhǎo, tā (37), huā le bànnián duō de shíjiān, (38)."
+     "py": "Tā shuō xiànzài gōngzuò yuèláiyuè nán zhǎo, tā (37), huā le bànnián duō de shíjiān, (38).",
+     "en": "She said finding work is getting harder and harder now; she (37), and it took her more than half a year (38)."
     },
     {
      "zh": "現在（39），所以不想結婚、生孩子。",
-     "py": "Xiànzài (39), suǒyǐ bùxiǎng jiéhūn, shēng háizi."
+     "py": "Xiànzài (39), suǒyǐ bùxiǎng jiéhūn, shēng háizi.",
+     "en": "Now (39), so they don't want to get married or have children."
     },
     {
      "zh": "（40）想一個人生活，或是跟爸媽一起住。",
-     "py": "(40) xiǎng yí ge rén shēnghuó, huòshì gēn bàmā yìqǐ zhù."
+     "py": "(40) xiǎng yí ge rén shēnghuó, huòshì gēn bàmā yìqǐ zhù.",
+     "en": "(40) want to live alone or live with their parents."
     },
     {
      "zh": "小孩最喜歡玩了，一個小遊戲，小孩就可以 （41）、很愉快。",
-     "py": "Xiǎohái zuì xǐhuān wán le, yí ge xiǎoyóuxì, xiǎohái jiù kěyǐ (41), hěn yúkuài."
+     "py": "Xiǎohái zuì xǐhuān wán le, yí ge xiǎoyóuxì, xiǎohái jiù kěyǐ (41), hěn yúkuài.",
+     "en": "Children love playing the most; with one little game, children can (41) and be very happy."
     },
     {
      "zh": "但是，大人不這樣認為，因為小孩玩的遊戲常常讓大人 （42）。",
-     "py": "Dànshì, dàrén bù zhèyàng rènwéi, yīnwèi xiǎohái wán de yóuxì chángcháng ràng dàrén (42)."
+     "py": "Dànshì, dàrén bù zhèyàng rènwéi, yīnwèi xiǎohái wán de yóuxì chángcháng ràng dàrén (42).",
+     "en": "But adults don't see it this way, because the games children play often make adults (42)."
     },
     {
      "zh": "還有，小孩玩一個遊戲，總是玩一會兒就不玩了，大人要 （43）給小孩玩，這讓大人覺得和小孩一起玩遊戲，真是 （44）。",
-     "py": "Háiyǒu, xiǎohái wán yí ge yóuxì, zǒngshì wán yíhuìer jiù bù wán le, dàrén yào (43) gěi xiǎohái wán, zhè ràng dàrén juéde hé xiǎohái yìqǐ wányóuxì, zhēnshì (44)."
+     "py": "Háiyǒu, xiǎohái wán yí ge yóuxì, zǒngshì wán yíhuìer jiù bù wán le, dàrén yào (43) gěi xiǎohái wán, zhè ràng dàrén juéde hé xiǎohái yìqǐ wányóuxì, zhēnshì (44).",
+     "en": "Also, when children play a game, they always stop after a little while, and adults have to (43) for the children to play. This makes adults feel that playing games with children is really (44)."
     },
     {
      "zh": "很多大人不明白遊戲對小孩的重要。",
-     "py": "Hěnduō dàrén bù Míngbái yóuxì duì xiǎohái de zhòngyào."
+     "py": "Hěnduō dàrén bù Míngbái yóuxì duì xiǎohái de zhòngyào.",
+     "en": "Many adults don't understand how important games are to children."
     },
     {
      "zh": "小孩玩什麼？",
-     "py": "Xiǎohái wán shénme?"
+     "py": "Xiǎohái wán shénme?",
+     "en": "What do children play?"
     },
     {
      "zh": "怎麼玩？",
-     "py": "Zěnme wán?"
+     "py": "Zěnme wán?",
+     "en": "How do they play?"
     },
     {
      "zh": "有沒有人 （45）？",
-     "py": "Yǒuméiyǒu rén (45)?"
+     "py": "Yǒuméiyǒu rén (45)?",
+     "en": "Is there someone (45)?"
     },
     {
      "zh": "這些都很重要。",
-     "py": "Zhèxiē dōu hěn zhòngyào."
+     "py": "Zhèxiē dōu hěn zhòngyào.",
+     "en": "These are all important."
     },
     {
      "zh": "因為小孩就是從遊戲中認識這個世界和學到禮貌。",
-     "py": "Yīnwèi xiǎohái jiù shìcóng yóuxì zhōng rènshi zhè ge shìjiè hé xuédào lǐmào."
+     "py": "Yīnwèi xiǎohái jiù shìcóng yóuxì zhōng rènshi zhè ge shìjiè hé xuédào lǐmào.",
+     "en": "Because it is through games that children get to know the world and learn manners."
     }
    ],
    "options": {
     "A": {
      "zh": "玩得很開心",
-     "py": "Wán dé hěn kāixīn"
+     "py": "Wán dé hěn kāixīn",
+     "en": "have a great time playing"
     },
     "B": {
      "zh": "覺得很無聊",
-     "py": "Juéde hěn wúliáo"
+     "py": "Juéde hěn wúliáo",
+     "en": "feel very bored"
     },
     "C": {
      "zh": "一件麻煩的事",
-     "py": "Yíjiàn máfán de shì"
+     "py": "Yíjiàn máfán de shì",
+     "en": "a troublesome thing"
     },
     "D": {
      "zh": "玩的東西很有趣",
-     "py": "Wán de Dōngxi hěn yǒuqù"
+     "py": "Wán de Dōngxi hěn yǒuqù",
+     "en": "the things they play with are interesting"
     },
     "E": {
      "zh": "不停地找新遊戲",
-     "py": "Bùtíng dì zhǎo xīn yóuxì"
+     "py": "Bùtíng dì zhǎo xīn yóuxì",
+     "en": "keep looking for new games"
     },
     "F": {
      "zh": "在旁邊和他一起玩",
-     "py": "Zài pángbiān hé tā yìqǐ wán"
+     "py": "Zài pángbiān hé tā yìqǐ wán",
+     "en": "beside them playing with them"
     }
    }
   },
@@ -519,27 +718,33 @@
    "options": {
     "A": {
      "zh": "玩得很開心",
-     "py": "Wán dé hěn kāixīn"
+     "py": "Wán dé hěn kāixīn",
+     "en": "have a great time playing"
     },
     "B": {
      "zh": "覺得很無聊",
-     "py": "Juéde hěn wúliáo"
+     "py": "Juéde hěn wúliáo",
+     "en": "feel very bored"
     },
     "C": {
      "zh": "一件麻煩的事",
-     "py": "Yíjiàn máfán de shì"
+     "py": "Yíjiàn máfán de shì",
+     "en": "a troublesome thing"
     },
     "D": {
      "zh": "玩的東西很有趣",
-     "py": "Wán de Dōngxi hěn yǒuqù"
+     "py": "Wán de Dōngxi hěn yǒuqù",
+     "en": "the things they play with are interesting"
     },
     "E": {
      "zh": "不停地找新遊戲",
-     "py": "Bùtíng dì zhǎo xīn yóuxì"
+     "py": "Bùtíng dì zhǎo xīn yóuxì",
+     "en": "keep looking for new games"
     },
     "F": {
      "zh": "在旁邊和他一起玩",
-     "py": "Zài pángbiān hé tā yìqǐ wán"
+     "py": "Zài pángbiān hé tā yìqǐ wán",
+     "en": "beside them playing with them"
     }
    }
   },
@@ -547,27 +752,33 @@
    "options": {
     "A": {
      "zh": "玩得很開心",
-     "py": "Wán dé hěn kāixīn"
+     "py": "Wán dé hěn kāixīn",
+     "en": "have a great time playing"
     },
     "B": {
      "zh": "覺得很無聊",
-     "py": "Juéde hěn wúliáo"
+     "py": "Juéde hěn wúliáo",
+     "en": "feel very bored"
     },
     "C": {
      "zh": "一件麻煩的事",
-     "py": "Yíjiàn máfán de shì"
+     "py": "Yíjiàn máfán de shì",
+     "en": "a troublesome thing"
     },
     "D": {
      "zh": "玩的東西很有趣",
-     "py": "Wán de Dōngxi hěn yǒuqù"
+     "py": "Wán de Dōngxi hěn yǒuqù",
+     "en": "the things they play with are interesting"
     },
     "E": {
      "zh": "不停地找新遊戲",
-     "py": "Bùtíng dì zhǎo xīn yóuxì"
+     "py": "Bùtíng dì zhǎo xīn yóuxì",
+     "en": "keep looking for new games"
     },
     "F": {
      "zh": "在旁邊和他一起玩",
-     "py": "Zài pángbiān hé tā yìqǐ wán"
+     "py": "Zài pángbiān hé tā yìqǐ wán",
+     "en": "beside them playing with them"
     }
    }
   },
@@ -575,27 +786,33 @@
    "options": {
     "A": {
      "zh": "玩得很開心",
-     "py": "Wán dé hěn kāixīn"
+     "py": "Wán dé hěn kāixīn",
+     "en": "have a great time playing"
     },
     "B": {
      "zh": "覺得很無聊",
-     "py": "Juéde hěn wúliáo"
+     "py": "Juéde hěn wúliáo",
+     "en": "feel very bored"
     },
     "C": {
      "zh": "一件麻煩的事",
-     "py": "Yíjiàn máfán de shì"
+     "py": "Yíjiàn máfán de shì",
+     "en": "a troublesome thing"
     },
     "D": {
      "zh": "玩的東西很有趣",
-     "py": "Wán de Dōngxi hěn yǒuqù"
+     "py": "Wán de Dōngxi hěn yǒuqù",
+     "en": "the things they play with are interesting"
     },
     "E": {
      "zh": "不停地找新遊戲",
-     "py": "Bùtíng dì zhǎo xīn yóuxì"
+     "py": "Bùtíng dì zhǎo xīn yóuxì",
+     "en": "keep looking for new games"
     },
     "F": {
      "zh": "在旁邊和他一起玩",
-     "py": "Zài pángbiān hé tā yìqǐ wán"
+     "py": "Zài pángbiān hé tā yìqǐ wán",
+     "en": "beside them playing with them"
     }
    }
   },
@@ -603,27 +820,33 @@
    "options": {
     "A": {
      "zh": "玩得很開心",
-     "py": "Wán dé hěn kāixīn"
+     "py": "Wán dé hěn kāixīn",
+     "en": "have a great time playing"
     },
     "B": {
      "zh": "覺得很無聊",
-     "py": "Juéde hěn wúliáo"
+     "py": "Juéde hěn wúliáo",
+     "en": "feel very bored"
     },
     "C": {
      "zh": "一件麻煩的事",
-     "py": "Yíjiàn máfán de shì"
+     "py": "Yíjiàn máfán de shì",
+     "en": "a troublesome thing"
     },
     "D": {
      "zh": "玩的東西很有趣",
-     "py": "Wán de Dōngxi hěn yǒuqù"
+     "py": "Wán de Dōngxi hěn yǒuqù",
+     "en": "the things they play with are interesting"
     },
     "E": {
      "zh": "不停地找新遊戲",
-     "py": "Bùtíng dì zhǎo xīn yóuxì"
+     "py": "Bùtíng dì zhǎo xīn yóuxì",
+     "en": "keep looking for new games"
     },
     "F": {
      "zh": "在旁邊和他一起玩",
-     "py": "Zài pángbiān hé tā yìqǐ wán"
+     "py": "Zài pángbiān hé tā yìqǐ wán",
+     "en": "beside them playing with them"
     }
    }
   },
@@ -631,27 +854,33 @@
    "options": {
     "A": {
      "zh": "玩得很開心",
-     "py": "Wán dé hěn kāixīn"
+     "py": "Wán dé hěn kāixīn",
+     "en": "have a great time playing"
     },
     "B": {
      "zh": "覺得很無聊",
-     "py": "Juéde hěn wúliáo"
+     "py": "Juéde hěn wúliáo",
+     "en": "feel very bored"
     },
     "C": {
      "zh": "一件麻煩的事",
-     "py": "Yíjiàn máfán de shì"
+     "py": "Yíjiàn máfán de shì",
+     "en": "a troublesome thing"
     },
     "D": {
      "zh": "玩的東西很有趣",
-     "py": "Wán de Dōngxi hěn yǒuqù"
+     "py": "Wán de Dōngxi hěn yǒuqù",
+     "en": "the things they play with are interesting"
     },
     "E": {
      "zh": "不停地找新遊戲",
-     "py": "Bùtíng dì zhǎo xīn yóuxì"
+     "py": "Bùtíng dì zhǎo xīn yóuxì",
+     "en": "keep looking for new games"
     },
     "F": {
      "zh": "在旁邊和他一起玩",
-     "py": "Zài pángbiān hé tā yìqǐ wán"
+     "py": "Zài pángbiān hé tā yìqǐ wán",
+     "en": "beside them playing with them"
     }
    }
   },
@@ -659,27 +888,33 @@
    "options": {
     "A": {
      "zh": "玩得很開心",
-     "py": "Wán dé hěn kāixīn"
+     "py": "Wán dé hěn kāixīn",
+     "en": "have a great time playing"
     },
     "B": {
      "zh": "覺得很無聊",
-     "py": "Juéde hěn wúliáo"
+     "py": "Juéde hěn wúliáo",
+     "en": "feel very bored"
     },
     "C": {
      "zh": "一件麻煩的事",
-     "py": "Yíjiàn máfán de shì"
+     "py": "Yíjiàn máfán de shì",
+     "en": "a troublesome thing"
     },
     "D": {
      "zh": "玩的東西很有趣",
-     "py": "Wán de Dōngxi hěn yǒuqù"
+     "py": "Wán de Dōngxi hěn yǒuqù",
+     "en": "the things they play with are interesting"
     },
     "E": {
      "zh": "不停地找新遊戲",
-     "py": "Bùtíng dì zhǎo xīn yóuxì"
+     "py": "Bùtíng dì zhǎo xīn yóuxì",
+     "en": "keep looking for new games"
     },
     "F": {
      "zh": "在旁邊和他一起玩",
-     "py": "Zài pángbiān hé tā yìqǐ wán"
+     "py": "Zài pángbiān hé tā yìqǐ wán",
+     "en": "beside them playing with them"
     }
    }
   },
@@ -687,27 +922,33 @@
    "options": {
     "A": {
      "zh": "玩得很開心",
-     "py": "Wán dé hěn kāixīn"
+     "py": "Wán dé hěn kāixīn",
+     "en": "have a great time playing"
     },
     "B": {
      "zh": "覺得很無聊",
-     "py": "Juéde hěn wúliáo"
+     "py": "Juéde hěn wúliáo",
+     "en": "feel very bored"
     },
     "C": {
      "zh": "一件麻煩的事",
-     "py": "Yíjiàn máfán de shì"
+     "py": "Yíjiàn máfán de shì",
+     "en": "a troublesome thing"
     },
     "D": {
      "zh": "玩的東西很有趣",
-     "py": "Wán de Dōngxi hěn yǒuqù"
+     "py": "Wán de Dōngxi hěn yǒuqù",
+     "en": "the things they play with are interesting"
     },
     "E": {
      "zh": "不停地找新遊戲",
-     "py": "Bùtíng dì zhǎo xīn yóuxì"
+     "py": "Bùtíng dì zhǎo xīn yóuxì",
+     "en": "keep looking for new games"
     },
     "F": {
      "zh": "在旁邊和他一起玩",
-     "py": "Zài pángbiān hé tā yìqǐ wán"
+     "py": "Zài pángbiān hé tā yìqǐ wán",
+     "en": "beside them playing with them"
     }
    }
   },
@@ -715,27 +956,33 @@
    "options": {
     "A": {
      "zh": "玩得很開心",
-     "py": "Wán dé hěn kāixīn"
+     "py": "Wán dé hěn kāixīn",
+     "en": "have a great time playing"
     },
     "B": {
      "zh": "覺得很無聊",
-     "py": "Juéde hěn wúliáo"
+     "py": "Juéde hěn wúliáo",
+     "en": "feel very bored"
     },
     "C": {
      "zh": "一件麻煩的事",
-     "py": "Yíjiàn máfán de shì"
+     "py": "Yíjiàn máfán de shì",
+     "en": "a troublesome thing"
     },
     "D": {
      "zh": "玩的東西很有趣",
-     "py": "Wán de Dōngxi hěn yǒuqù"
+     "py": "Wán de Dōngxi hěn yǒuqù",
+     "en": "the things they play with are interesting"
     },
     "E": {
      "zh": "不停地找新遊戲",
-     "py": "Bùtíng dì zhǎo xīn yóuxì"
+     "py": "Bùtíng dì zhǎo xīn yóuxì",
+     "en": "keep looking for new games"
     },
     "F": {
      "zh": "在旁邊和他一起玩",
-     "py": "Zài pángbiān hé tā yìqǐ wán"
+     "py": "Zài pángbiān hé tā yìqǐ wán",
+     "en": "beside them playing with them"
     }
    }
   },
@@ -743,27 +990,33 @@
    "options": {
     "A": {
      "zh": "玩得很開心",
-     "py": "Wán dé hěn kāixīn"
+     "py": "Wán dé hěn kāixīn",
+     "en": "have a great time playing"
     },
     "B": {
      "zh": "覺得很無聊",
-     "py": "Juéde hěn wúliáo"
+     "py": "Juéde hěn wúliáo",
+     "en": "feel very bored"
     },
     "C": {
      "zh": "一件麻煩的事",
-     "py": "Yíjiàn máfán de shì"
+     "py": "Yíjiàn máfán de shì",
+     "en": "a troublesome thing"
     },
     "D": {
      "zh": "玩的東西很有趣",
-     "py": "Wán de Dōngxi hěn yǒuqù"
+     "py": "Wán de Dōngxi hěn yǒuqù",
+     "en": "the things they play with are interesting"
     },
     "E": {
      "zh": "不停地找新遊戲",
-     "py": "Bùtíng dì zhǎo xīn yóuxì"
+     "py": "Bùtíng dì zhǎo xīn yóuxì",
+     "en": "keep looking for new games"
     },
     "F": {
      "zh": "在旁邊和他一起玩",
-     "py": "Zài pángbiān hé tā yìqǐ wán"
+     "py": "Zài pángbiān hé tā yìqǐ wán",
+     "en": "beside them playing with them"
     }
    }
   },
@@ -771,37 +1024,45 @@
    "passage": [
     {
      "zh": "(一)",
-     "py": "(Yī)"
+     "py": "(Yī)",
+     "en": "(1)"
     },
     {
      "zh": "多良車站是在山上的一個小車站，車站的一邊是山，一邊是海，人們最喜歡來這裡照相。",
-     "py": "Duō liáng chēzhàn shì zài shānshàng de yí ge xiǎo chēzhàn, chēzhàn de yìbiān shì shān, yìbiān shì hǎi, rénmen zuì xǐhuān lái zhèlǐ zhàoxiàng."
+     "py": "Duō liáng chēzhàn shì zài shānshàng de yí ge xiǎo chēzhàn, chēzhàn de yìbiān shì shān, yìbiān shì hǎi, rénmen zuì xǐhuān lái zhèlǐ zhàoxiàng.",
+     "en": "Duoliang Station is a small station in the mountains. On one side of the station are mountains, on the other side the sea, and people love coming here to take photos."
     },
     {
      "zh": "照片裡，海很藍、天很藍、山很綠、雲很白，來這裡旅遊的人最喜歡這裡的風景。",
-     "py": "Zhàopiān lǐ, hǎi hěn lán, tiān hěn lán, shān hěn lǜ, yún hěn bái, lái zhèlǐ lǚyóu de rén zuì xǐhuān zhèlǐ de fēngjǐng."
+     "py": "Zhàopiān lǐ, hǎi hěn lán, tiān hěn lán, shān hěn lǜ, yún hěn bái, lái zhèlǐ lǚyóu de rén zuì xǐhuān zhèlǐ de fēngjǐng.",
+     "en": "In the photos, the sea is very blue, the sky is very blue, the mountains are very green, and the clouds are very white; visitors love the scenery here most."
     }
    ],
    "stem": {
     "zh": "這段短文寫了什麼？",
-    "py": "Zhè duàn duǎnwén xiě le shénme?"
+    "py": "Zhè duàn duǎnwén xiě le shénme?",
+    "en": "What does this passage describe?"
    },
    "options": {
     "A": {
      "zh": "味道",
-     "py": "Wèidào"
+     "py": "Wèidào",
+     "en": "Taste"
     },
     "B": {
      "zh": "顏色",
-     "py": "Yánsè"
+     "py": "Yánsè",
+     "en": "Colors"
     },
     "C": {
      "zh": "聲音",
-     "py": "Shēngyīn"
+     "py": "Shēngyīn",
+     "en": "Sounds"
     },
     "D": {
      "zh": "溫度",
-     "py": "Wēndù"
+     "py": "Wēndù",
+     "en": "Temperature"
     }
    }
   },
@@ -809,57 +1070,70 @@
    "passage": [
     {
      "zh": "(二)",
-     "py": "(Èr)"
+     "py": "(Èr)",
+     "en": "(2)"
     },
     {
      "zh": "放暑假了，可是很多學生比平常上學的時候還要忙。",
-     "py": "Fàngshǔjià le, kěshì hěnduō xuéshēng bǐ píngcháng shàngxué de shíhòu háiyào máng."
+     "py": "Fàngshǔjià le, kěshì hěnduō xuéshēng bǐ píngcháng shàngxué de shíhòu háiyào máng.",
+     "en": "Summer vacation has started, but many students are even busier than when they usually go to school."
     },
     {
      "zh": "因為他們要學鋼琴、學打籃球、學電腦、學很多平常沒有辦法學的課。",
-     "py": "Yīnwèi tāmen yàoxué gāngqín, xué dǎlánqiú, xué diànnǎo, xué hěnduō píngcháng méiyǒu bànfǎ xué de kè."
+     "py": "Yīnwèi tāmen yàoxué gāngqín, xué dǎlánqiú, xué diànnǎo, xué hěnduō píngcháng méiyǒu bànfǎ xué de kè.",
+     "en": "Because they have to learn piano, basketball, computers, and many classes they usually have no way to take."
     },
     {
      "zh": "如果你問這些學生，這都是自己想學的嗎？",
-     "py": "Rúguǒ nǐ wèn zhèxiē xuéshēng, zhè dōu shì zìjǐ xiǎngxué de ma?"
+     "py": "Rúguǒ nǐ wèn zhèxiē xuéshēng, zhè dōu shì zìjǐ xiǎngxué de ma?",
+     "en": "If you ask these students whether they wanted to learn all this themselves,"
     },
     {
      "zh": "他們很多人會告訴你，是爸爸媽媽要他們學的。",
-     "py": "Tāmen hěnduō rénhuì gàosù nǐ, shì Bàbamāma yào tāmen xué de."
+     "py": "Tāmen hěnduō rénhuì gàosù nǐ, shì Bàbamāma yào tāmen xué de.",
+     "en": "many of them will tell you their parents made them learn it."
     },
     {
      "zh": "問他們辛苦嗎？",
-     "py": "Wèn tāmen xīnkǔ ma?"
+     "py": "Wèn tāmen xīnkǔ ma?",
+     "en": "Ask them if it's hard?"
     },
     {
      "zh": "有些人認為，學這麼多，以後也許可以有比較好的工作。",
-     "py": "Yǒuxiē rén rènwéi, xué zhème duō, yǐhòu yěxǔ kěyǐ yǒu bǐjiào hǎo de gōngzuò."
+     "py": "Yǒuxiē rén rènwéi, xué zhème duō, yǐhòu yěxǔ kěyǐ yǒu bǐjiào hǎo de gōngzuò.",
+     "en": "Some think that by learning so much, they might be able to get a better job in the future."
     },
     {
      "zh": "現在辛苦一點，以後生活就會好一點。",
-     "py": "Xiànzài xīnkǔ yìdiǎn, yǐhòu shēnghuó jiù huì hǎo yìdiǎn."
+     "py": "Xiànzài xīnkǔ yìdiǎn, yǐhòu shēnghuó jiù huì hǎo yìdiǎn.",
+     "en": "Working a bit harder now will make life a bit better later."
     }
    ],
    "stem": {
     "zh": "這段短文討論了哪方面的事？",
-    "py": "Zhè duàn duǎnwén tǎolùn le nǎ fāngmiàn de shì?"
+    "py": "Zhè duàn duǎnwén tǎolùn le nǎ fāngmiàn de shì?",
+    "en": "What aspect does this passage discuss?"
    },
    "options": {
     "A": {
      "zh": "小孩學這麼多東西的原因",
-     "py": "Xiǎohái xué zhème duō Dōngxi de yuányīn"
+     "py": "Xiǎohái xué zhème duō Dōngxi de yuányīn",
+     "en": "The reason children learn so many things"
     },
     "B": {
      "zh": "學校為什麼放暑假的原因",
-     "py": "Xuéxiào wèishénme fàngshǔjià de yuányīn"
+     "py": "Xuéxiào wèishénme fàngshǔjià de yuányīn",
+     "en": "The reason schools have summer vacation"
     },
     "C": {
      "zh": "小孩學習管理時間的原因",
-     "py": "Xiǎohái xuéxí guǎnlǐ shíjiān de yuányīn"
+     "py": "Xiǎohái xuéxí guǎnlǐ shíjiān de yuányīn",
+     "en": "The reason children learn time management"
     },
     "D": {
      "zh": "爸媽要小孩讀大學的原因",
-     "py": "Bàmā yào xiǎohái dú dàxué de yuányīn"
+     "py": "Bàmā yào xiǎohái dú dàxué de yuányīn",
+     "en": "The reason parents want children to go to university"
     }
    }
   },
@@ -867,45 +1141,55 @@
    "passage": [
     {
      "zh": "(三)",
-     "py": "(Sān)"
+     "py": "(Sān)",
+     "en": "(3)"
     },
     {
      "zh": "有很多人，想從世界地圖找到這個地方，總是找不到。",
-     "py": "Yǒu hěnduō rén, xiǎng cóng Shìjièdìtú zhǎodào zhè ge dìfāng, zǒngshì zhǎo búdào."
+     "py": "Yǒu hěnduō rén, xiǎng cóng Shìjièdìtú zhǎodào zhè ge dìfāng, zǒngshì zhǎo búdào.",
+     "en": "Many people try to find this place on a world map but can never find it."
     },
     {
      "zh": "也常常有人會把它和其他國家弄錯。",
-     "py": "Yě chángcháng yǒurén huì bǎ tā hé qítā guójiā nòngcuò."
+     "py": "Yě chángcháng yǒurén huì bǎ tā hé qítā guójiā nòngcuò.",
+     "en": "People also often confuse it with other countries."
     },
     {
      "zh": "可是，等他們從世界各地來到這裡以後，就愛上這裡，還有人就住在這裡、和這裡的人結婚、生小孩。",
-     "py": "Kěshì, děng tāmen cóng shìjiègèdì láidào zhèlǐ yǐhòu, jiù ài shàng zhèlǐ, háiyǒu rén jiù zhù zài zhèlǐ, hé zhèlǐ de rén jiéhūn, shēngxiǎohái."
+     "py": "Kěshì, děng tāmen cóng shìjiègèdì láidào zhèlǐ yǐhòu, jiù ài shàng zhèlǐ, háiyǒu rén jiù zhù zài zhèlǐ, hé zhèlǐ de rén jiéhūn, shēngxiǎohái.",
+     "en": "But once they come here from all over the world, they fall in love with it, and some even settle down here, marry people from here, and have children."
     },
     {
      "zh": "這裡的夏天很熱、冬天又一直下雨，不過，這裡的人很溫暖，讓從其他地方來的人都有回家的感覺。",
-     "py": "Zhèlǐ de xiàtiān hěn rè, dōngtiān yòu yìzhí xiàyǔ, búguò, zhèlǐ de rén hěn wēnnuǎn, ràng cóng qítā dìfāng lái de rén dōu yǒu huíjiā de gǎnjué."
+     "py": "Zhèlǐ de xiàtiān hěn rè, dōngtiān yòu yìzhí xiàyǔ, búguò, zhèlǐ de rén hěn wēnnuǎn, ràng cóng qítā dìfāng lái de rén dōu yǒu huíjiā de gǎnjué.",
+     "en": "Summers here are very hot and winters rain constantly, but the people here are very warm, making people from elsewhere feel at home."
     }
    ],
    "stem": {
     "zh": "這段短文提到「這個地方」的什麼？",
-    "py": "Zhè duàn duǎnwén tídào “Zhè ge dìfāng” de shénme?"
+    "py": "Zhè duàn duǎnwén tídào “Zhè ge dìfāng” de shénme?",
+    "en": "What does the passage mention about \"this place\"?"
    },
    "options": {
     "A": {
      "zh": "這裡的天氣",
-     "py": "Zhèlǐ de tiānqì"
+     "py": "Zhèlǐ de tiānqì",
+     "en": "The weather here"
     },
     "B": {
      "zh": "生活的習慣",
-     "py": "Shēnghuó de xíguàn"
+     "py": "Shēnghuó de xíguàn",
+     "en": "Living habits"
     },
     "C": {
      "zh": "這地方的名字",
-     "py": "Zhè dìfāng de míngzi"
+     "py": "Zhè dìfāng de míngzi",
+     "en": "The name of this place"
     },
     "D": {
      "zh": "男人比女人多",
-     "py": "Nánrén bǐ nǚrén duō"
+     "py": "Nánrén bǐ nǚrén duō",
+     "en": "There are more men than women."
     }
    }
   },
@@ -913,45 +1197,55 @@
    "passage": [
     {
      "zh": "(四)",
-     "py": "(Sì)"
+     "py": "(Sì)",
+     "en": "(4)"
     },
     {
      "zh": "上週日，姊姊從宿舍坐公車回家，她一到家就覺得身體不舒服，想在家休息，所以大家只好改變要去河邊騎腳踏車的計畫，幫媽媽打掃家裡。",
-     "py": "Shàngzhōurì, zǐzǐ cóng sùshè zuògōngchē huíjiā, tā yī dào jiā jiù juéde shēntǐ bù shūfú, xiǎng zàijiā xiūxí, suǒyǐ dàjiā zhǐhǎo gǎibiàn yào qù hébiān qí jiǎotàchē de jìhuà, bāng māma dǎsǎo jiālǐ."
+     "py": "Shàngzhōurì, zǐzǐ cóng sùshè zuògōngchē huíjiā, tā yī dào jiā jiù juéde shēntǐ bù shūfú, xiǎng zàijiā xiūxí, suǒyǐ dàjiā zhǐhǎo gǎibiàn yào qù hébiān qí jiǎotàchē de jìhuà, bāng māma dǎsǎo jiālǐ.",
+     "en": "Last Sunday, my older sister took the bus home from her dormitory. As soon as she got home she felt unwell and wanted to rest at home, so everyone had to change our plan of riding bicycles by the river and help Mom clean the house."
     },
     {
      "zh": "爸爸一邊聽廣播一邊擦窗戶，我幫媽媽洗衣服，媽媽覺得弟弟的房間最亂，要他把自己的房間弄乾淨。",
-     "py": "Bàba yìbiān tīng guǎngbō yìbiān cā chuānghù, wǒ bāng māma xǐyīfú, māma juéde dìdi de fángjiān zuìluàn, yào tā bǎ zìjǐ de fángjiān nòng gānjìng."
+     "py": "Bàba yìbiān tīng guǎngbō yìbiān cā chuānghù, wǒ bāng māma xǐyīfú, māma juéde dìdi de fángjiān zuìluàn, yào tā bǎ zìjǐ de fángjiān nòng gānjìng.",
+     "en": "Dad wiped the windows while listening to the radio, I helped Mom wash clothes, and Mom thought younger brother's room was the messiest and told him to clean his own room."
     },
     {
      "zh": "弟弟不願意，就和媽媽說：「我的房間太乾淨，就找不到自己的東西了，我還是去整理姊姊的房間好了。」",
-     "py": "Dìdi bù yuànyì, jiù hé māma shuō: “Wǒ de fángjiān tài gānjìng, jiù zhǎo búdào zìjǐ de Dōngxi le, wǒ háishì qù zhěnglǐ zǐzǐ de fángjiān hǎo le.”"
+     "py": "Dìdi bù yuànyì, jiù hé māma shuō: “Wǒ de fángjiān tài gānjìng, jiù zhǎo búdào zìjǐ de Dōngxi le, wǒ háishì qù zhěnglǐ zǐzǐ de fángjiān hǎo le.”",
+     "en": "Younger brother didn't want to, so he said to Mom: \"If my room is too clean, I won't be able to find my own things. I'd better go tidy older sister's room instead.\""
     },
     {
      "zh": "大家聽了，都笑了。",
-     "py": "Dàjiā tīng le, dōu xiào le."
+     "py": "Dàjiā tīng le, dōu xiào le.",
+     "en": "When everyone heard this, they all laughed."
     }
    ],
    "stem": {
     "zh": "這個故事裡的弟弟不願意做什麼事？",
-    "py": "Zhè ge gùshì lǐ de dìdi bù yuànyì zuò shénme shì?"
+    "py": "Zhè ge gùshì lǐ de dìdi bù yuànyì zuò shénme shì?",
+    "en": "What didn't the younger brother in this story want to do?"
    },
    "options": {
     "A": {
      "zh": "去河邊騎腳踏車",
-     "py": "Qù hébiān qí jiǎotàchē"
+     "py": "Qù hébiān qí jiǎotàchē",
+     "en": "Ride a bicycle by the river"
     },
     "B": {
      "zh": "打掃自己的房間",
-     "py": "Dǎsǎo zìjǐ de fángjiān"
+     "py": "Dǎsǎo zìjǐ de fángjiān",
+     "en": "Clean his own room"
     },
     "C": {
      "zh": "照顧生病的姊姊",
-     "py": "Zhàogù shēngbìng de zǐzǐ"
+     "py": "Zhàogù shēngbìng de zǐzǐ",
+     "en": "Take care of his sick older sister"
     },
     "D": {
      "zh": "在家裡休息一天",
-     "py": "Zài jiālǐ xiūxí yìtiān"
+     "py": "Zài jiālǐ xiūxí yìtiān",
+     "en": "Rest at home for a day"
     }
    }
   },
@@ -959,45 +1253,55 @@
    "passage": [
     {
      "zh": "(五)",
-     "py": "(Wǔ)"
+     "py": "(Wǔ)",
+     "en": "(5)"
     },
     {
      "zh": "你關心你住的環境嗎？",
-     "py": "Nǐ guānxīn nǐ zhù de huánjìng ma?"
+     "py": "Nǐ guānxīn nǐ zhù de huánjìng ma?",
+     "en": "Do you care about the environment you live in?"
     },
     {
      "zh": "你喜歡這裡？",
-     "py": "Nǐ xǐhuān zhèlǐ?"
+     "py": "Nǐ xǐhuān zhèlǐ?",
+     "en": "Do you like it here?"
     },
     {
      "zh": "還是討厭這裡？",
-     "py": "Háishì tǎoyàn zhèlǐ?"
+     "py": "Háishì tǎoyàn zhèlǐ?",
+     "en": "Or do you dislike it here?"
     },
     {
      "zh": "歡迎你加入我們，在五月三十號以前，請你上網，把你的感覺畫出來、寫出來或大聲說出來，和我們一起讓更多住在這裡的人了解自己生活的環境。",
-     "py": "Huānyíng nǐ jiārù wǒmen, zài wǔyuè sānshí hào yǐqián, qǐng nǐ shàngwǎng, bǎ nǐ de gǎnjué huà chūlái, xiě chūlái huò dàshēng shuō chūlái, hé wǒmen yìqǐ ràng gèngduō zhù zài zhèlǐ de rén liǎojiě zìjǐ shēnghuó de huánjìng."
+     "py": "Huānyíng nǐ jiārù wǒmen, zài wǔyuè sānshí hào yǐqián, qǐng nǐ shàngwǎng, bǎ nǐ de gǎnjué huà chūlái, xiě chūlái huò dàshēng shuō chūlái, hé wǒmen yìqǐ ràng gèngduō zhù zài zhèlǐ de rén liǎojiě zìjǐ shēnghuó de huánjìng.",
+     "en": "You're welcome to join us. Before May 30th, please go online and draw, write, or speak out loud your feelings, and together with us help more people who live here understand the environment they live in."
     }
    ],
    "stem": {
     "zh": "這段短文要人們做什麼事？",
-    "py": "Zhè duàn duǎnwén yào rénmen zuò shénme shì?"
+    "py": "Zhè duàn duǎnwén yào rénmen zuò shénme shì?",
+    "en": "What does this passage ask people to do?"
    },
    "options": {
     "A": {
      "zh": "要大家關心家人",
-     "py": "Yào dàjiā guānxīn jiārén"
+     "py": "Yào dàjiā guānxīn jiārén",
+     "en": "Ask everyone to care about their families"
     },
     "B": {
      "zh": "要大家參觀風景",
-     "py": "Yào dàjiā cānguān fēngjǐng"
+     "py": "Yào dàjiā cānguān fēngjǐng",
+     "en": "Ask everyone to visit scenic spots"
     },
     "C": {
      "zh": "請大家打掃環境",
-     "py": "Qǐng dàjiā dǎsǎo huánjìng"
+     "py": "Qǐng dàjiā dǎsǎo huánjìng",
+     "en": "Ask everyone to clean up the environment"
     },
     "D": {
      "zh": "請大家參加活動",
-     "py": "Qǐng dàjiā cānjiā huódòng"
+     "py": "Qǐng dàjiā cānjiā huódòng",
+     "en": "Ask everyone to take part in an event"
     }
    }
   }
