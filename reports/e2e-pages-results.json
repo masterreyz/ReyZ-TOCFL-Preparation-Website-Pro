@@ -195,9 +195,9 @@
   "detail": "(2, 2)"
  },
  {
-  "test": "section a-r-sentence lists all series",
+  "test": "section a-r-sentence lists all series + bank sets",
   "ok": true,
-  "detail": ""
+  "detail": "11 vs 11"
  },
  {
   "test": "section a-r-sentence shows only its questions",
@@ -215,9 +215,9 @@
   "detail": ""
  },
  {
-  "test": "section a-l-single lists all series",
+  "test": "section a-l-single lists all series + bank sets",
   "ok": true,
-  "detail": ""
+  "detail": "5 vs 5"
  },
  {
   "test": "section a-l-single shows only its questions",
@@ -235,9 +235,9 @@
   "detail": ""
  },
  {
-  "test": "section b-r-gap lists all series",
+  "test": "section b-r-gap lists all series + bank sets",
   "ok": true,
-  "detail": ""
+  "detail": "14 vs 14"
  },
  {
   "test": "section b-r-gap shows only its questions",
@@ -255,9 +255,9 @@
   "detail": ""
  },
  {
-  "test": "section c-l-monologue lists all series",
+  "test": "section c-l-monologue lists all series + bank sets",
   "ok": true,
-  "detail": ""
+  "detail": "4 vs 4"
  },
  {
   "test": "section c-l-monologue shows only its questions",
@@ -275,9 +275,9 @@
   "detail": ""
  },
  {
-  "test": "section n-l3 lists all series",
-  "ok": false,
-  "detail": ""
+  "test": "section n-l3 lists all series + bank sets",
+  "ok": true,
+  "detail": "2 vs 2"
  },
  {
   "test": "section n-l3 shows only its questions",

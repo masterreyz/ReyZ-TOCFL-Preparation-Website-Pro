@@ -196,7 +196,10 @@ with sync_playwright() as p:
         st = sec["sets"][-1]
         page.goto(BASE + f"#/section/{sec['band']}/{sid}")
         page.wait_for_selector(".set-row")
-        check(f"section {sid} lists all series", page.locator(".set-row").count() == len(sec["sets"]))
+        pbf = Path(__file__).resolve().parent.parent / "content/exercise/partbank.json"
+        bank = json.loads(pbf.read_text(encoding="utf-8")) if pbf.exists() else {}
+        expect = len(sec["sets"]) + len(bank.get(sid, {}).get("sets", []))
+        check(f"section {sid} lists all series + bank sets", page.locator(".set-row").count() == expect, f"{page.locator('.set-row').count()} vs {expect}")
         page.locator(".set-row").last.locator("a.btn").click()
         page.wait_for_selector(".q-pane h2")
         n = page.locator(".qnav .qn").count()

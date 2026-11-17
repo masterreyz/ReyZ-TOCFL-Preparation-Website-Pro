@@ -12,7 +12,7 @@ _Last updated: 2026-11-17_
 
 ## Next steps (in order)
 1. On your PC: `npm install`, `npm run sync-media -- "<folder>"`, `npm run dev`, then check `reports/media-sync-report.json` shows 0 missing.
-2. Run `python pipeline/parse_partbank.py "<folder>" . 25` and `python pipeline/finalize.py .` to add the per-question bank, then review `reports/partbank_validation.json`.
+2. Per-part bank: `python pipeline/build_partbank.py "<folder>" . [--only-complete]`, then `python pipeline/finalize.py .`; review `reports/partbank_validation.json` (see table below).
 3. Continue lesson text migration: the rest of A1 L1 (grammar, exercises, culture), then A1 L2… The page images in `public/media/study/<book>/` are the source; follow the `a1-te-l01.json` format. Estimated 25–30 pages per lesson, 148 lessons.
 4. Verify per-question audio mapping for Novice L, Band B L3–5 and Band C L3–4 (tracks are only numbered); once confirmed, set `kind: "by-filename"`-style mapping in `pipeline/mock_catalog.py`.
 5. Resolve redistribution permission, then deploy (README §6): host audio on object storage and set `audioBase`.
@@ -97,3 +97,26 @@ Pinyin is generated for every Chinese text. English is written per test in `pipe
 | c-r4 | 345 | ⏭ pinyin only — English to do |
 | novice-l1 | 75 | ✅ complete |
 | novice-r1 | 45 | ✅ complete |
+
+## Per-part question bank (TOCFL Exercise → "Bank soal per bagian")
+Built by `pipeline/build_partbank.py` from each part folder's `*_Answer.xlsx` + item PDFs (original item image, official key, script for listening).
+
+| Section | Folder | Items | Questions | Sets |
+|---|---|---|---|---|
+| n-l1 | 1. TOCFL Band Novice Per Part/Part 1. Listening | 31 | 31 | 2 |
+| n-l2 | 1. TOCFL Band Novice Per Part/Part 2. Listening | 30 | 30 | 2 |
+| n-l3 | 1. TOCFL Band Novice Per Part/Part 3. Listening | 9 | 9 | 1 |
+| n-r1 | 1. TOCFL Band Novice Per Part/Part 4. Reading | 26 | 26 | 2 |
+| n-r2 | 1. TOCFL Band Novice Per Part/Part 5. Reading | 18 | 18 | 1 |
+| a-r-sentence | 2. TOCFL Band A Per Part/Reading TOCFL A  Single sentence comprehension | 112 | 112 | 6 |
+| a-r-paragraph | 2. TOCFL Band A Per Part/Reading TOCFL A Complete Paragraph | 28 | 140 | 7 |
+| a-r-gap | 2. TOCFL Band A Per Part/Reading TOCFL A Fill in the blanks | 23 | 115 | 6 |
+| a-r-pic | 2. TOCFL Band A Per Part/Reading TOCFL A Interpretation of the image | 110 | 110 | 6 |
+| a-r-comp | 2. TOCFL Band A Per Part/Reading TOCFL A Reading Comprehension | 61 | 61 | 4 |
+| b-r-gap | 3. TOCFL Band B Per Part/Fill in the blanks with the correct words | 27 | 151 | 9 |
+| b-r-comp | 3. TOCFL Band B Per Part/Reading comprehension | 98 | 232 | 13 |
+| c-r-comp | 4. TOCFL Band C Per Part/Reading Comprehension Band C | 34 | 133 | 8 |
+| c-r-gap | 4. TOCFL Band C Per Part/Reading Fill in the blanks Band C | 17 | 95 | 6 |
+
+- Band A Reading “Interpretation of the image”: the answer key lists 162 items but only 110 item PDFs exist in the source folder (Q01163500–Q01168600 are absent); the 110 available are included, the 52 others are listed in `reports/partbank_validation.json`.
+- Listening parts of Band A, B and C: pending — their item and script PDFs are still being copied from the source folder.

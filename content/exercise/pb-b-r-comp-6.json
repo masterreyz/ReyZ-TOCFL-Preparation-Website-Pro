@@ -1,0 +1,671 @@
+{
+ "id": "pb-b-r-comp-6",
+ "band": "b",
+ "skill": "reading",
+ "series": "Set 6",
+ "title": "Bank Soal B · Reading comprehension · Set 6",
+ "kind": "partbank",
+ "section": "b-r-comp",
+ "source": {
+  "folder": "3. TOCFL Band B Per Part/Reading comprehension",
+  "booklet": "(per item)",
+  "answer": "B_R_Reading Comprehension_Answer.xlsx"
+ },
+ "parts": [
+  {
+   "title": "Reading comprehension",
+   "subtitle": "",
+   "instructions": "",
+   "instructionsEn": "",
+   "from": 1,
+   "to": 20
+  }
+ ],
+ "questions": [
+  {
+   "item": "Q00750100",
+   "sub": 1,
+   "subCount": 2,
+   "answer": "B",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 1,
+   "crop": "Q00750100.webp",
+   "group": "g1"
+  },
+  {
+   "item": "Q00750100",
+   "sub": 2,
+   "subCount": 2,
+   "answer": "D",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 2,
+   "crop": null,
+   "group": "g1"
+  },
+  {
+   "item": "Q00750200",
+   "sub": 1,
+   "subCount": 2,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 3,
+   "crop": "Q00750200.webp",
+   "group": "g3"
+  },
+  {
+   "item": "Q00750200",
+   "sub": 2,
+   "subCount": 2,
+   "answer": "D",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 4,
+   "crop": null,
+   "group": "g3"
+  },
+  {
+   "item": "Q00750300",
+   "sub": 1,
+   "subCount": 2,
+   "answer": "D",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 5,
+   "crop": "Q00750300.webp",
+   "group": "g5"
+  },
+  {
+   "item": "Q00750300",
+   "sub": 2,
+   "subCount": 2,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 6,
+   "crop": null,
+   "group": "g5"
+  },
+  {
+   "item": "Q00750400",
+   "sub": 1,
+   "subCount": 2,
+   "answer": "A",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 7,
+   "crop": "Q00750400.webp",
+   "group": "g7"
+  },
+  {
+   "item": "Q00750400",
+   "sub": 2,
+   "subCount": 2,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 8,
+   "crop": null,
+   "group": "g7"
+  },
+  {
+   "item": "Q00750500",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "她經常忘記回答鄰居的問題"
+    },
+    {
+     "label": "B",
+     "text": "她等垃圾車的地方就在家門口"
+    },
+    {
+     "label": "C",
+     "text": "她和鄰居每天聊天的內容都一樣"
+    },
+    {
+     "label": "D",
+     "text": "她不願意回答跟交友或工作有關的事"
+    }
+   ],
+   "printedText": "每晚約七點半，我會拿著家中的垃圾走到十字路口的超級市場前\n等垃圾車，和附近的鄰居一邊等一邊聊天。那些六十幾歲的老鄰居，\n都是看著我長大的。最近，他們常問：\n 「文玉，有沒有男朋友？」、\n 「工\n作怎麼樣？」不過，因為他們總是忘記自己問過，所以基本上，我每\n天都在回答同樣的問題。\n\n1. 這段話提到文玉的什麼事？\n （A）她經常忘記回答鄰居的問題\n （B）她等垃圾車的地方就在家門口\n （C）她和鄰居每天聊天的內容都一樣\n （D）她不願意回答跟交友或工作有關的事",
+   "n": 9,
+   "crop": "Q00750500.webp"
+  },
+  {
+   "item": "Q00750600",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "B",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "女人在音樂方面的興趣與表現比男人高得多"
+    },
+    {
+     "label": "B",
+     "text": "聽音樂的時候，人們比較不容易感覺到疼痛"
+    },
+    {
+     "label": "C",
+     "text": "看病時播放音樂，有助於降低醫院內的噪音"
+    },
+    {
+     "label": "D",
+     "text": "男人比女人更怕痛，牙痛時常不願去看牙醫"
+    }
+   ],
+   "printedText": "一項研究發現，女人比男人更容易感覺到「疼痛」，也就是說，\n在相同的情況下，女人對痛的感覺比男人高出 20%。研究還發現，聽\n音樂可有效降低疼痛感。換句話說，因牙齒痛去看牙時，可以聽音樂\n或玩一些帶有音樂的遊戲。好聽的、有趣的音樂不但能讓你覺得沒那\n麼痛，也能幫助你別太注意旁邊機器的聲音。\n\n1. 這個研究說了什麼？\n （A）女人在音樂方面的興趣與表現比男人高得多\n （B）聽音樂的時候，人們比較不容易感覺到疼痛\n （C）看病時播放音樂，有助於降低醫院內的噪音\n （D）男人比女人更怕痛，牙痛時常不願去看牙醫",
+   "n": 10,
+   "crop": "Q00750600.webp"
+  },
+  {
+   "item": "Q00750700",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "A",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "咖啡機是透過聲音來控制的"
+    },
+    {
+     "label": "B",
+     "text": "咖啡的品質不能只用嘴來判斷"
+    },
+    {
+     "label": "C",
+     "text": "第一個發明咖啡機的是個年輕人"
+    },
+    {
+     "label": "D",
+     "text": "用這台咖啡機煮咖啡，多遠都聞得到"
+    }
+   ],
+   "printedText": "一位二十歲的大學生，花了一年的時間，製造出了一台煮咖啡的\n機器。這台咖啡機能讓人只用「嘴」就煮出咖啡！如果你是這台咖啡\n機的主人，想喝咖啡的時候，只需要在離它三公尺以內的地方說：\n 「煮\n一杯熱咖啡！」。大概五分鐘以後，你就能夠喝到一杯熱熱的咖啡。\n\n1. 根據這段介紹，可以知道什麼事？\n （A）咖啡機是透過聲音來控制的\n （B）咖啡的品質不能只用嘴來判斷\n （C）第一個發明咖啡機的是個年輕人\n （D）用這台咖啡機煮咖啡，多遠都聞得到",
+   "n": 11,
+   "crop": "Q00750700.webp"
+  },
+  {
+   "item": "Q00750800",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "深色巧克力不比淺色的健康"
+    },
+    {
+     "label": "B",
+     "text": "現代人早已不流行買花、送花"
+    },
+    {
+     "label": "C",
+     "text": "吃巧克力不是對身體沒有好處"
+    },
+    {
+     "label": "D",
+     "text": "情人節送禮物才能證明彼此的愛"
+    }
+   ],
+   "printedText": "西洋情人節這一天，情人之間會互相贈送禮物，主要是希望能向\n對方表達自己濃濃的愛。送給情人的禮物有很多選擇，其中，除了常\n見的鮮花，巧克力也是很受歡迎的禮物。有些人覺得巧克力太甜，容\n易讓人變胖。事實上，每天吃一點巧克力對健康很有幫助，尤其是顏\n色深、味道苦的巧克力，越黑越苦越健康。\n\n1. 關於這篇文章，下面哪一個是正確的？\n （A）深色巧克力不比淺色的健康\n （B）現代人早已不流行買花、送花\n （C）吃巧克力不是對身體沒有好處\n （D）情人節送禮物才能證明彼此的愛",
+   "n": 12,
+   "crop": "Q00750800.webp"
+  },
+  {
+   "item": "Q00750900",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "B",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "是最能保障檔案品質的方式"
+    },
+    {
+     "label": "B",
+     "text": "所儲存的內容都有保存期限"
+    },
+    {
+     "label": "C",
+     "text": "其壽命比一般人想像的還長"
+    },
+    {
+     "label": "D",
+     "text": "存檔程序複雜是唯一的缺點"
+    }
+   ],
+   "printedText": "一般人都以為用 CD 儲存資料，就能永久保存珍貴的相片或影\n片，這恐怕是錯誤觀念。日本最新研究發現，CD 也有壽命，如果 CD\n長期被放在潮濕的地方或陽光下，時間久了，檔案損壞的風險一定較\n高。因此，要想保存珍貴影像，最好還是定期在不同地方多儲存幾份。\n\n1. 這篇文章談到關於使用 CD 存檔的哪一件事？\n （A）是最能保障檔案品質的方式\n （B）所儲存的內容都有保存期限\n （C）其壽命比一般人想像的還長\n （D）存檔程序複雜是唯一的缺點",
+   "n": 13,
+   "crop": "Q00750900.webp"
+  },
+  {
+   "item": "Q00751000",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "D",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "考古學家不贊同蔡倫造紙的說法"
+    },
+    {
+     "label": "B",
+     "text": "「蔡侯紙」是中國人最早發明的紙"
+    },
+    {
+     "label": "C",
+     "text": "很多人最近才知道東漢以前沒有紙"
+    },
+    {
+     "label": "D",
+     "text": "蔡倫的主要成就在於改進造紙的品質"
+    }
+   ],
+   "printedText": "在中國，多數人長久以來都認為紙是東漢時期的蔡倫發明的，如\n今這個觀點被推翻了。根據考古學家的最新發現，在蔡倫之前，中國\n人早已知道如何造紙，只是造紙的品質較差罷了。儘管蔡倫不是發明\n紙的人，但他卻改進了造紙的材料和技術。大家為了紀念他的貢獻，\n便把這種改良過的紙叫做「蔡侯紙」。\n\n1. 根據這段話，下面哪一項是對的？\n （A）考古學家不贊同蔡倫造紙的說法\n （B）「蔡侯紙」是中國人最早發明的紙\n （C）很多人最近才知道東漢以前沒有紙\n （D）蔡倫的主要成就在於改進造紙的品質",
+   "n": 14,
+   "crop": "Q00751000.webp"
+  },
+  {
+   "item": "Q00751100",
+   "sub": 1,
+   "subCount": 2,
+   "answer": "D",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "printedText": "英國一位十九歲的青年得到一種很奇怪的病，他只能記得最近兩\n天內的事情，兩天以前的事他都想不起來，連上個禮拜自己的生日晚\n會都不記得。家人和朋友替他拍了許多照片，可是他看了照片，還是\n完全不記得過去發生的事情。雖然這個病不影響他的健康，卻影響了\n他的交友情形，他的女朋友就因為他總是忘記自己說過的話、做過的\n事，所以和他分開了。\n\n1. 這篇文章指出這位青年怎麼樣？\n （A）看照片才能讓他想起一些事\n （B）他擔心女友有天會忘了自己\n （C）他以為他參加了一個生日會\n （D）他的病使他的生活受到影響\n\n2. 這位青年發生了什麼事？\n （A）他無法遵守自己的承諾\n （B）他把重要的照片弄丟了\n （C）他的健康狀況越來越差\n （D）他只記得一週以前的事",
+   "n": 15,
+   "crop": "Q00751100.webp",
+   "group": "g15"
+  },
+  {
+   "item": "Q00751100",
+   "sub": 2,
+   "subCount": 2,
+   "answer": "A",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 16,
+   "crop": null,
+   "group": "g15"
+  },
+  {
+   "item": "Q00751200",
+   "sub": 1,
+   "subCount": 2,
+   "answer": "D",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "printedText": "有些人喜歡去一種特別的餐廳，這種餐廳讓人付一筆錢，就有吃\n不完的食物，想吃多少，就吃多少。去這種餐廳的人，常常覺得要吃\n得很飽才合算。不過，這樣的飲食方式是否正常，值得我們深思。台\n中市有一位年輕人，每兩、三天就到這樣的餐廳吃飯。有一天，他突\n然覺得身體很不舒服，到醫院檢查後，醫生發現他的身體有一堆毛病，\n比老人還差，必須馬上住院治療。所以說，這種餐廳一年當中偶爾去\n一次還可以，天天吃，就等著向醫生「報到」了。\n\n1. 文章中的年輕人怎麼樣？\n （A）拿了點藥就出院了\n （B）很在意用餐的環境\n （C）有病沒病都去醫院\n （D）是某間餐廳的熟客\n\n2. 下列何者符合作者對去那類餐廳吃飯的看法？\n （A）便宜的東西沒好貨\n （B）簡直是花錢買罪受\n （C）食物才是最天然的藥\n （D）寧可吃多，也不吃虧",
+   "n": 17,
+   "crop": "Q00751200.webp",
+   "group": "g17"
+  },
+  {
+   "item": "Q00751200",
+   "sub": 2,
+   "subCount": 2,
+   "answer": "B",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 18,
+   "crop": null,
+   "group": "g17"
+  },
+  {
+   "item": "Q00751300",
+   "sub": 1,
+   "subCount": 2,
+   "answer": "A",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "printedText": "以經營運動器材為主的喬山健康科技公司，如今已成為亞洲\n第一大、世界第五大的運動器材公司。能有如此發展，全靠創辦\n人羅老闆的堅持。孩童時期，羅老闆因為家裡窮，無論是寒冷的\n冬天或炎熱的夏天，都只能光著腳到學校讀書。儘管對自己的出\n身沒有選擇權，但他認為，人生的道路本來就是這樣，必須克服\n環境阻礙，一步一步往前走。上天給他這樣的環境，讓他了解窮\n人沒有難過的權利，不應把消極、逃避的想法放在心上。而這股\n強大的意志力，後來便成為羅老闆經營企業的動力，也讓喬山這\n家公司三十年來穩定地成長、茁壯。\n\n1. 小時候的遭遇使羅老闆對人生產生了什麼想法？\n （A）人要堅強才能生存\n （B）命運是由上天安排的\n （C）窮人很難擺脫消極的想法\n （D）對於無法選擇環境感到挫折\n\n2. 本文主要在談論羅老闆的哪一件事？\n （A）成立喬山公司的細節與經過\n （B）不向命運低頭的精神和態度\n （C）將運動器材作為產品的理由\n （D）目前在社會上的地位及影響力",
+   "n": 19,
+   "crop": "Q00751300.webp",
+   "group": "g19"
+  },
+  {
+   "item": "Q00751300",
+   "sub": 2,
+   "subCount": 2,
+   "answer": "B",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 20,
+   "crop": null,
+   "group": "g19"
+  }
+ ],
+ "audio": null,
+ "optionCount": 4
+}

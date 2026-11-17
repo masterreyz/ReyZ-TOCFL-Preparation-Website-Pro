@@ -1,0 +1,671 @@
+{
+ "id": "pb-b-r-comp-1",
+ "band": "b",
+ "skill": "reading",
+ "series": "Set 1",
+ "title": "Bank Soal B · Reading comprehension · Set 1",
+ "kind": "partbank",
+ "section": "b-r-comp",
+ "source": {
+  "folder": "3. TOCFL Band B Per Part/Reading comprehension",
+  "booklet": "(per item)",
+  "answer": "B_R_Reading Comprehension_Answer.xlsx"
+ },
+ "parts": [
+  {
+   "title": "Reading comprehension",
+   "subtitle": "",
+   "instructions": "",
+   "instructionsEn": "",
+   "from": 1,
+   "to": 20
+  }
+ ],
+ "questions": [
+  {
+   "item": "E00152300",
+   "sub": 1,
+   "subCount": 2,
+   "answer": "B",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 1,
+   "crop": "E00152300.webp",
+   "group": "g1"
+  },
+  {
+   "item": "E00152300",
+   "sub": 2,
+   "subCount": 2,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 2,
+   "crop": null,
+   "group": "g1"
+  },
+  {
+   "item": "E00152500",
+   "sub": 1,
+   "subCount": 2,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 3,
+   "crop": "E00152500.webp",
+   "group": "g3"
+  },
+  {
+   "item": "E00152500",
+   "sub": 2,
+   "subCount": 2,
+   "answer": "D",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 4,
+   "crop": null,
+   "group": "g3"
+  },
+  {
+   "item": "E00152600",
+   "sub": 1,
+   "subCount": 2,
+   "answer": "D",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 5,
+   "crop": "E00152600.webp",
+   "group": "g5"
+  },
+  {
+   "item": "E00152600",
+   "sub": 2,
+   "subCount": 2,
+   "answer": "B",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 6,
+   "crop": null,
+   "group": "g5"
+  },
+  {
+   "item": "E00152700",
+   "sub": 1,
+   "subCount": 2,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 7,
+   "crop": "E00152700.webp",
+   "group": "g7"
+  },
+  {
+   "item": "E00152700",
+   "sub": 2,
+   "subCount": 2,
+   "answer": "D",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 8,
+   "crop": null,
+   "group": "g7"
+  },
+  {
+   "item": "E00152801",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "D",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "小明已經去過韓國兩次了"
+    },
+    {
+     "label": "B",
+     "text": "小明想學習怎麼做韓國菜"
+    },
+    {
+     "label": "C",
+     "text": "小明覺得韓國不怎麼好玩"
+    },
+    {
+     "label": "D",
+     "text": "小明在韓國住了四個晚上"
+    }
+   ],
+   "printedText": "上星期小明第一次到韓國旅遊。他在那兒玩了五天四夜，其中一\n天，他去了韓國最高的山，那時候，山上下起了雪，他覺得這樣的風\n景真美。大部分的時間，他坐電車到幾個大城市去參觀有名的地方，\n也吃了不少味道特別的韓國菜。小明覺得韓國很好玩，他打算學習韓\n國的語言，以後有機會的話，他想到韓國讀書。\n\n1. 下面哪一個是對的？\n （A）小明已經去過韓國兩次了\n （B）小明想學習怎麼做韓國菜\n （C）小明覺得韓國不怎麼好玩\n （D）小明在韓國住了四個晚上",
+   "n": 9,
+   "crop": "E00152801.webp"
+  },
+  {
+   "item": "E00153201",
+   "sub": 1,
+   "subCount": 2,
+   "answer": "B",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "printedText": "今天下午小英在圖書館看了一部電影，這部電影叫做「旅館主人」，\n講的是一個人怎麼成功的故事。電影中的人本來是一個只有小學畢業、\n沒有工作、身上只剩一百塊錢的人，後來卻變成一家旅館的老闆。旅\n館的生意非常好，所以他變得很有錢。這原來是一本小說的故事，因\n為這本小說寫得很棒，就被拍成電影了。小英覺得這部電影拍得很好，\n也聽說小說寫得不錯，之後想看看小說和電影的故事內容是不是一樣\n的。\n\n1. 「旅館主人」講的是什麼故事？\n （A）一個旅館老闆變成沒有工作的人\n （B）一個只有小學畢業的人，變成旅館老闆\n （C）一個沒有工作的人，變成旅館的服務生\n （D）一個本來很有錢，後來身上只剩一百塊錢的人\n\n2. 下面哪一個是 錯的 ？\n （A）小英還沒看過「旅館主人」的小說\n （B）「旅館主人」是小英在圖書館看的電影\n （C）小英認為「旅館主人」這部電影拍得不錯\n （D）小英覺得「旅館主人」的小說和電影沒什麼不同",
+   "n": 10,
+   "crop": "E00153201.webp",
+   "group": "g10"
+  },
+  {
+   "item": "E00153201",
+   "sub": 2,
+   "subCount": 2,
+   "answer": "D",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 11,
+   "crop": null,
+   "group": "g10"
+  },
+  {
+   "item": "E00153401",
+   "sub": 1,
+   "subCount": 2,
+   "answer": "B",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "printedText": "在我的國家，每年都有颱風，颱風有的大，有的小。如果來的是\n大颱風，對我們的生活就有嚴重的影響。今年八月有個大颱風，下大\n雨、吹大風，火車沒辦法開，飛機停飛，所有人不上班、不上課，大\n部分的人不敢出去，只能在家看颱風的新聞。好不容易等到颱風離開，\n很多屋子卻都進水了，許多樹、房子被吹倒了，連橋也被大水沖壞了。\n聽說這個週末又有一個颱風要來，真希望它是個小颱風。\n\n1. 這段文章主要在說什麼？\n （A）颱風季節都是在八月\n （B）大颱風對人們生活的影響\n （C）如果颱風來，要準備的東西\n （D）如果小颱風來，會發生的事情\n\n2. 下面哪一個是 錯的 ？\n （A）今年八月的颱風雨下得很大\n （B）大颱風來的時候，火車停開\n （C）因為這個大颱風，許多房子倒了\n （D）雖然大颱風來，還是要繼續上班",
+   "n": 12,
+   "crop": "E00153401.webp",
+   "group": "g12"
+  },
+  {
+   "item": "E00153401",
+   "sub": 2,
+   "subCount": 2,
+   "answer": "D",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 13,
+   "crop": null,
+   "group": "g12"
+  },
+  {
+   "item": "E00153601",
+   "sub": 1,
+   "subCount": 3,
+   "answer": "D",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "printedText": "信用卡雖然很方便，但是不小心的話，一下子就會花掉很多錢，\n所以現在還不了錢的人越來越多。像是奇美，她用信用卡買了太多東\n西，結果沒辦法還錢，所以必須同時做三份工作，把賺來的錢全部還\n給銀行。會出現這樣的問題，主要是因為使用信用卡的人常常沒\n什麼錢卻買很多東西，而且還會不清楚自己花了多少錢；另一個\n原因是，現在的銀行對使用者的要求越來越低，連沒有工作的學\n生也能申請信用卡，對還錢的方式一開始也說得不清楚。結果這\n張給人方便的卡片也給人們帶來了很大的麻煩。\n\n1. 這段文章主要在說什麼？\n （A）什麼人可以使用信用卡\n （B）怎麼使用信用卡買東西\n （C）使用信用卡後怎麼還錢\n （D）使用信用卡後發生的問題\n\n2. 奇美為什麼要做三份工作？\n （A）她還想買更多東西\n （B）她要買很貴的東西\n （C）她必須還錢給銀行\n （D）她想多放點錢在銀行\n\n3. 還不了信用卡費用的原因有很多，下面哪一個 不是 這段文章提\n 到的原因？\n （A）有些人有太多張信用卡\n （B）銀行沒有把還錢方式說清楚\n （C）有些人沒注意自己花了很多錢\n （D）有些人買了太多東西，錢卻不夠",
+   "n": 14,
+   "crop": "E00153601.webp",
+   "group": "g14"
+  },
+  {
+   "item": "E00153601",
+   "sub": 2,
+   "subCount": 3,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 15,
+   "crop": null,
+   "group": "g14"
+  },
+  {
+   "item": "E00153601",
+   "sub": 3,
+   "subCount": 3,
+   "answer": "A",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 16,
+   "crop": null,
+   "group": "g14"
+  },
+  {
+   "item": "F00131200",
+   "sub": 1,
+   "subCount": 2,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 17,
+   "crop": "F00131200.webp",
+   "group": "g17"
+  },
+  {
+   "item": "F00131200",
+   "sub": 2,
+   "subCount": 2,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 18,
+   "crop": null,
+   "group": "g17"
+  },
+  {
+   "item": "F00131400",
+   "sub": 1,
+   "subCount": 2,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 19,
+   "crop": "F00131400.webp",
+   "group": "g19"
+  },
+  {
+   "item": "F00131400",
+   "sub": 2,
+   "subCount": 2,
+   "answer": "D",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 20,
+   "crop": null,
+   "group": "g19"
+  }
+ ],
+ "audio": null,
+ "optionCount": 4
+}

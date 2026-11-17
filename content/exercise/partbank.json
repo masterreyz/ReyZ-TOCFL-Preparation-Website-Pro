@@ -112,5 +112,615 @@
     "last": "Q01028100"
    }
   ]
+ },
+ "a-r-sentence": {
+  "section": "a-r-sentence",
+  "band": "a",
+  "skill": "reading",
+  "folder": "2. TOCFL Band A Per Part/Reading TOCFL A  Single sentence comprehension",
+  "items": 112,
+  "questions": 112,
+  "sets": [
+   {
+    "test": "pb-a-r-sentence-1",
+    "set": 1,
+    "questions": 20,
+    "items": 20,
+    "first": "D00004101",
+    "last": "Q00083700"
+   },
+   {
+    "test": "pb-a-r-sentence-2",
+    "set": 2,
+    "questions": 20,
+    "items": 20,
+    "first": "Q00083900",
+    "last": "Q00734900"
+   },
+   {
+    "test": "pb-a-r-sentence-3",
+    "set": 3,
+    "questions": 20,
+    "items": 20,
+    "first": "Q00735000",
+    "last": "Q01001600"
+   },
+   {
+    "test": "pb-a-r-sentence-4",
+    "set": 4,
+    "questions": 20,
+    "items": 20,
+    "first": "Q01029600",
+    "last": "Q01035300"
+   },
+   {
+    "test": "pb-a-r-sentence-5",
+    "set": 5,
+    "questions": 20,
+    "items": 20,
+    "first": "Q01035400",
+    "last": "Q01060800"
+   },
+   {
+    "test": "pb-a-r-sentence-6",
+    "set": 6,
+    "questions": 12,
+    "items": 12,
+    "first": "Q01060900",
+    "last": "Q01163400"
+   }
+  ]
+ },
+ "a-r-paragraph": {
+  "section": "a-r-paragraph",
+  "band": "a",
+  "skill": "reading",
+  "folder": "2. TOCFL Band A Per Part/Reading TOCFL A Complete Paragraph",
+  "items": 28,
+  "questions": 140,
+  "sets": [
+   {
+    "test": "pb-a-r-paragraph-1",
+    "set": 1,
+    "questions": 20,
+    "items": 4,
+    "first": "D00137700",
+    "last": "Q00045200"
+   },
+   {
+    "test": "pb-a-r-paragraph-2",
+    "set": 2,
+    "questions": 20,
+    "items": 4,
+    "first": "Q00049200",
+    "last": "Q00073300"
+   },
+   {
+    "test": "pb-a-r-paragraph-3",
+    "set": 3,
+    "questions": 20,
+    "items": 4,
+    "first": "Q00097500",
+    "last": "Q00538900"
+   },
+   {
+    "test": "pb-a-r-paragraph-4",
+    "set": 4,
+    "questions": 20,
+    "items": 4,
+    "first": "Q00613500",
+    "last": "Q00684800"
+   },
+   {
+    "test": "pb-a-r-paragraph-5",
+    "set": 5,
+    "questions": 20,
+    "items": 4,
+    "first": "Q00711500",
+    "last": "Q00760400"
+   },
+   {
+    "test": "pb-a-r-paragraph-6",
+    "set": 6,
+    "questions": 20,
+    "items": 4,
+    "first": "Q00760500",
+    "last": "Q01003000"
+   },
+   {
+    "test": "pb-a-r-paragraph-7",
+    "set": 7,
+    "questions": 20,
+    "items": 4,
+    "first": "Q01062900",
+    "last": "Q01190800"
+   }
+  ]
+ },
+ "a-r-gap": {
+  "section": "a-r-gap",
+  "band": "a",
+  "skill": "reading",
+  "folder": "2. TOCFL Band A Per Part/Reading TOCFL A Fill in the blanks",
+  "items": 23,
+  "questions": 115,
+  "sets": [
+   {
+    "test": "pb-a-r-gap-1",
+    "set": 1,
+    "questions": 20,
+    "items": 4,
+    "first": "D00137300",
+    "last": "Q00049100"
+   },
+   {
+    "test": "pb-a-r-gap-2",
+    "set": 2,
+    "questions": 20,
+    "items": 4,
+    "first": "Q00389600",
+    "last": "Q01002900"
+   },
+   {
+    "test": "pb-a-r-gap-3",
+    "set": 3,
+    "questions": 20,
+    "items": 4,
+    "first": "Q01032600",
+    "last": "Q01038400"
+   },
+   {
+    "test": "pb-a-r-gap-4",
+    "set": 4,
+    "questions": 20,
+    "items": 4,
+    "first": "Q01038500",
+    "last": "Q01172800"
+   },
+   {
+    "test": "pb-a-r-gap-5",
+    "set": 5,
+    "questions": 20,
+    "items": 4,
+    "first": "Q01172900",
+    "last": "Q01173200"
+   },
+   {
+    "test": "pb-a-r-gap-6",
+    "set": 6,
+    "questions": 15,
+    "items": 3,
+    "first": "Q01173300",
+    "last": "Q01173500"
+   }
+  ]
+ },
+ "a-r-pic": {
+  "section": "a-r-pic",
+  "band": "a",
+  "skill": "reading",
+  "folder": "2. TOCFL Band A Per Part/Reading TOCFL A Interpretation of the image",
+  "items": 110,
+  "questions": 110,
+  "sets": [
+   {
+    "test": "pb-a-r-pic-1",
+    "set": 1,
+    "questions": 20,
+    "items": 20,
+    "first": "D00005801",
+    "last": "Q00068300"
+   },
+   {
+    "test": "pb-a-r-pic-2",
+    "set": 2,
+    "questions": 20,
+    "items": 20,
+    "first": "Q00072900",
+    "last": "Q00736000"
+   },
+   {
+    "test": "pb-a-r-pic-3",
+    "set": 3,
+    "questions": 20,
+    "items": 20,
+    "first": "Q00736100",
+    "last": "Q01002600"
+   },
+   {
+    "test": "pb-a-r-pic-4",
+    "set": 4,
+    "questions": 20,
+    "items": 20,
+    "first": "Q01002700",
+    "last": "Q01036600"
+   },
+   {
+    "test": "pb-a-r-pic-5",
+    "set": 5,
+    "questions": 20,
+    "items": 20,
+    "first": "Q01036700",
+    "last": "Q01061600"
+   },
+   {
+    "test": "pb-a-r-pic-6",
+    "set": 6,
+    "questions": 10,
+    "items": 10,
+    "first": "Q01061700",
+    "last": "Q01062600"
+   }
+  ]
+ },
+ "a-r-comp": {
+  "section": "a-r-comp",
+  "band": "a",
+  "skill": "reading",
+  "folder": "2. TOCFL Band A Per Part/Reading TOCFL A Reading Comprehension",
+  "items": 61,
+  "questions": 61,
+  "sets": [
+   {
+    "test": "pb-a-r-comp-1",
+    "set": 1,
+    "questions": 20,
+    "items": 20,
+    "first": "Q00330600",
+    "last": "Q01029300"
+   },
+   {
+    "test": "pb-a-r-comp-2",
+    "set": 2,
+    "questions": 20,
+    "items": 20,
+    "first": "Q01029400",
+    "last": "Q01169100"
+   },
+   {
+    "test": "pb-a-r-comp-3",
+    "set": 3,
+    "questions": 20,
+    "items": 20,
+    "first": "Q01169200",
+    "last": "Q01171100"
+   },
+   {
+    "test": "pb-a-r-comp-4",
+    "set": 4,
+    "questions": 1,
+    "items": 1,
+    "first": "Q01171200",
+    "last": "Q01171200"
+   }
+  ]
+ },
+ "b-r-gap": {
+  "section": "b-r-gap",
+  "band": "b",
+  "skill": "reading",
+  "folder": "3. TOCFL Band B Per Part/Fill in the blanks with the correct words",
+  "items": 27,
+  "questions": 151,
+  "sets": [
+   {
+    "test": "pb-b-r-gap-1",
+    "set": 1,
+    "questions": 15,
+    "items": 3,
+    "first": "E00151600",
+    "last": "F00130500"
+   },
+   {
+    "test": "pb-b-r-gap-2",
+    "set": 2,
+    "questions": 16,
+    "items": 3,
+    "first": "Q00106300",
+    "last": "Q00109800"
+   },
+   {
+    "test": "pb-b-r-gap-3",
+    "set": 3,
+    "questions": 17,
+    "items": 3,
+    "first": "Q00132800",
+    "last": "Q00153301"
+   },
+   {
+    "test": "pb-b-r-gap-4",
+    "set": 4,
+    "questions": 17,
+    "items": 3,
+    "first": "Q00367800",
+    "last": "Q00621500"
+   },
+   {
+    "test": "pb-b-r-gap-5",
+    "set": 5,
+    "questions": 20,
+    "items": 4,
+    "first": "Q00663201",
+    "last": "Q00749600"
+   },
+   {
+    "test": "pb-b-r-gap-6",
+    "set": 6,
+    "questions": 18,
+    "items": 3,
+    "first": "Q00964500",
+    "last": "Q01004800"
+   },
+   {
+    "test": "pb-b-r-gap-7",
+    "set": 7,
+    "questions": 18,
+    "items": 3,
+    "first": "Q01004900",
+    "last": "Q01033400"
+   },
+   {
+    "test": "pb-b-r-gap-8",
+    "set": 8,
+    "questions": 18,
+    "items": 3,
+    "first": "Q01033500",
+    "last": "Q01172500"
+   },
+   {
+    "test": "pb-b-r-gap-9",
+    "set": 9,
+    "questions": 12,
+    "items": 2,
+    "first": "Q01172600",
+    "last": "Q01172700"
+   }
+  ]
+ },
+ "b-r-comp": {
+  "section": "b-r-comp",
+  "band": "b",
+  "skill": "reading",
+  "folder": "3. TOCFL Band B Per Part/Reading comprehension",
+  "items": 98,
+  "questions": 232,
+  "sets": [
+   {
+    "test": "pb-b-r-comp-1",
+    "set": 1,
+    "questions": 20,
+    "items": 10,
+    "first": "E00152300",
+    "last": "F00131400"
+   },
+   {
+    "test": "pb-b-r-comp-2",
+    "set": 2,
+    "questions": 20,
+    "items": 9,
+    "first": "F00131900",
+    "last": "Q00167000"
+   },
+   {
+    "test": "pb-b-r-comp-3",
+    "set": 3,
+    "questions": 18,
+    "items": 7,
+    "first": "Q00176100",
+    "last": "Q00193200"
+   },
+   {
+    "test": "pb-b-r-comp-4",
+    "set": 4,
+    "questions": 18,
+    "items": 6,
+    "first": "Q00291100",
+    "last": "Q00303500"
+   },
+   {
+    "test": "pb-b-r-comp-5",
+    "set": 5,
+    "questions": 19,
+    "items": 9,
+    "first": "Q00324700",
+    "last": "Q00750000"
+   },
+   {
+    "test": "pb-b-r-comp-6",
+    "set": 6,
+    "questions": 20,
+    "items": 13,
+    "first": "Q00750100",
+    "last": "Q00751300"
+   },
+   {
+    "test": "pb-b-r-comp-7",
+    "set": 7,
+    "questions": 18,
+    "items": 6,
+    "first": "Q00751400",
+    "last": "Q00964900"
+   },
+   {
+    "test": "pb-b-r-comp-8",
+    "set": 8,
+    "questions": 19,
+    "items": 8,
+    "first": "Q00965000",
+    "last": "Q01005500"
+   },
+   {
+    "test": "pb-b-r-comp-9",
+    "set": 9,
+    "questions": 19,
+    "items": 8,
+    "first": "Q01005600",
+    "last": "Q01033800"
+   },
+   {
+    "test": "pb-b-r-comp-10",
+    "set": 10,
+    "questions": 18,
+    "items": 7,
+    "first": "Q01033900",
+    "last": "Q01034500"
+   },
+   {
+    "test": "pb-b-r-comp-11",
+    "set": 11,
+    "questions": 19,
+    "items": 7,
+    "first": "Q01034600",
+    "last": "Q01171600"
+   },
+   {
+    "test": "pb-b-r-comp-12",
+    "set": 12,
+    "questions": 18,
+    "items": 6,
+    "first": "Q01171700",
+    "last": "Q01172200"
+   },
+   {
+    "test": "pb-b-r-comp-13",
+    "set": 13,
+    "questions": 6,
+    "items": 2,
+    "first": "Q01172300",
+    "last": "Q01172400"
+   }
+  ]
+ },
+ "c-r-comp": {
+  "section": "c-r-comp",
+  "band": "c",
+  "skill": "reading",
+  "folder": "4. TOCFL Band C Per Part/Reading Comprehension Band C",
+  "items": 34,
+  "questions": 133,
+  "sets": [
+   {
+    "test": "pb-c-r-comp-1",
+    "set": 1,
+    "questions": 16,
+    "items": 5,
+    "first": "G00117600",
+    "last": "G00118100"
+   },
+   {
+    "test": "pb-c-r-comp-2",
+    "set": 2,
+    "questions": 19,
+    "items": 4,
+    "first": "G00118400",
+    "last": "G00136100"
+   },
+   {
+    "test": "pb-c-r-comp-3",
+    "set": 3,
+    "questions": 18,
+    "items": 5,
+    "first": "Q00214200",
+    "last": "Q00246700"
+   },
+   {
+    "test": "pb-c-r-comp-4",
+    "set": 4,
+    "questions": 19,
+    "items": 4,
+    "first": "Q00247100",
+    "last": "Q00251600"
+   },
+   {
+    "test": "pb-c-r-comp-5",
+    "set": 5,
+    "questions": 19,
+    "items": 7,
+    "first": "Q00339600",
+    "last": "Q00752500"
+   },
+   {
+    "test": "pb-c-r-comp-6",
+    "set": 6,
+    "questions": 19,
+    "items": 4,
+    "first": "Q00752600",
+    "last": "Q00752900"
+   },
+   {
+    "test": "pb-c-r-comp-7",
+    "set": 7,
+    "questions": 17,
+    "items": 4,
+    "first": "Q00959900",
+    "last": "Q00960200"
+   },
+   {
+    "test": "pb-c-r-comp-8",
+    "set": 8,
+    "questions": 6,
+    "items": 1,
+    "first": "Q00960300",
+    "last": "Q00960300"
+   }
+  ]
+ },
+ "c-r-gap": {
+  "section": "c-r-gap",
+  "band": "c",
+  "skill": "reading",
+  "folder": "4. TOCFL Band C Per Part/Reading Fill in the blanks Band C",
+  "items": 17,
+  "questions": 95,
+  "sets": [
+   {
+    "test": "pb-c-r-gap-1",
+    "set": 1,
+    "questions": 15,
+    "items": 3,
+    "first": "G00117200",
+    "last": "G00135800"
+   },
+   {
+    "test": "pb-c-r-gap-2",
+    "set": 2,
+    "questions": 18,
+    "items": 3,
+    "first": "Q00238500",
+    "last": "Q00300000"
+   },
+   {
+    "test": "pb-c-r-gap-3",
+    "set": 3,
+    "questions": 17,
+    "items": 3,
+    "first": "Q00307200",
+    "last": "Q00532700"
+   },
+   {
+    "test": "pb-c-r-gap-4",
+    "set": 4,
+    "questions": 17,
+    "items": 3,
+    "first": "Q00616001",
+    "last": "Q00637200"
+   },
+   {
+    "test": "pb-c-r-gap-5",
+    "set": 5,
+    "questions": 16,
+    "items": 3,
+    "first": "Q00751700",
+    "last": "Q00751900"
+   },
+   {
+    "test": "pb-c-r-gap-6",
+    "set": 6,
+    "questions": 12,
+    "items": 2,
+    "first": "Q00959700",
+    "last": "Q00959800"
+   }
+  ]
  }
 }

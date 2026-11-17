@@ -1,0 +1,60 @@
+{
+ "id": "pb-a-r-comp-4",
+ "band": "a",
+ "skill": "reading",
+ "series": "Set 4",
+ "title": "Bank Soal A · Reading TOCFL A Reading Comprehension · Set 4",
+ "kind": "partbank",
+ "section": "a-r-comp",
+ "source": {
+  "folder": "2. TOCFL Band A Per Part/Reading TOCFL A Reading Comprehension",
+  "booklet": "(per item)",
+  "answer": "A_R_Reading Comprehension_Answer.xlsx"
+ },
+ "parts": [
+  {
+   "title": "Reading TOCFL A Reading Comprehension",
+   "subtitle": "",
+   "instructions": "",
+   "instructionsEn": "",
+   "from": 1,
+   "to": 1
+  }
+ ],
+ "questions": [
+  {
+   "item": "Q01171200",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "他們的飛機遲到了"
+    },
+    {
+     "label": "B",
+     "text": "保險公司會給他們錢"
+    },
+    {
+     "label": "C",
+     "text": "林誠出國以前買了保險"
+    },
+    {
+     "label": "D",
+     "text": "王明把林誠的東西弄丟了"
+    }
+   ],
+   "printedText": "林誠跟王明上星期一起去國外開會，出發以前，林誠告訴王明：\n「我買了一個保險。如果旅行的時候，飛機遲到或是東西不見，保險\n公司都會幫忙付一些錢。」林誠跟王明在國外的時候，飛機都沒遲到，\n可是最後一天王明的手機不見了，王明那時候心裡想如果自己也有保\n險就好了。\n\n1. 林誠跟王明怎麼了？\n （A）他們的飛機遲到了\n （B）保險公司會給他們錢\n （C）林誠出國以前買了保險\n （D）王明把林誠的東西弄丟了",
+   "n": 1,
+   "crop": "Q01171200.webp"
+  }
+ ],
+ "audio": null,
+ "optionCount": 4
+}

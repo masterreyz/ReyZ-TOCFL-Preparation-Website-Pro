@@ -144,6 +144,12 @@ def build(src, out, per_set=20):
         mp3s = {Path(m).stem: m for m in MP3S if m.startswith(prefix)}
         mp3s.update({p.stem: str(p.relative_to(src / "TOCFL Exercise")).replace("\\", "/") for p in part.rglob("*.mp3")})
         items = read_key(xlsx)
+        if ONLY_COMPLETE:
+            gone = [i for i, _ in items if i not in pdfs or (skill == "listening" and i not in scripts)]
+            if len(gone) * 2 > len(items):  # source folder not (yet) available as a whole
+                issues.append(dict(part=part.name, kind="part_skipped_incomplete_source", missing=len(gone)))
+                print(f"{sec:14s} skipped: {len(gone)} of {len(items)} item files not available")
+                continue
         built = []  # (item_id, [question dicts])
         with tempfile.TemporaryDirectory() as tmp:
             tmp = Path(tmp)
@@ -230,6 +236,10 @@ def build(src, out, per_set=20):
     (out / "reports" / "partbank_validation.json").write_text(json.dumps(issues, ensure_ascii=False, indent=1), encoding="utf-8")
     print("issues:", len(issues))
 
+
+ONLY_COMPLETE = "--only-complete" in sys.argv
+if ONLY_COMPLETE:
+    sys.argv.remove("--only-complete")
 
 if __name__ == "__main__":
     build(sys.argv[1], sys.argv[2], int(sys.argv[3]) if len(sys.argv) > 3 else 20)

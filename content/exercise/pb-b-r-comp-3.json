@@ -1,0 +1,607 @@
+{
+ "id": "pb-b-r-comp-3",
+ "band": "b",
+ "skill": "reading",
+ "series": "Set 3",
+ "title": "Bank Soal B · Reading comprehension · Set 3",
+ "kind": "partbank",
+ "section": "b-r-comp",
+ "source": {
+  "folder": "3. TOCFL Band B Per Part/Reading comprehension",
+  "booklet": "(per item)",
+  "answer": "B_R_Reading Comprehension_Answer.xlsx"
+ },
+ "parts": [
+  {
+   "title": "Reading comprehension",
+   "subtitle": "",
+   "instructions": "",
+   "instructionsEn": "",
+   "from": 1,
+   "to": 18
+  }
+ ],
+ "questions": [
+  {
+   "item": "Q00176100",
+   "sub": 1,
+   "subCount": 2,
+   "answer": "A",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 1,
+   "crop": "Q00176100.webp",
+   "group": "g1"
+  },
+  {
+   "item": "Q00176100",
+   "sub": 2,
+   "subCount": 2,
+   "answer": "B",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 2,
+   "crop": null,
+   "group": "g1"
+  },
+  {
+   "item": "Q00179500",
+   "sub": 1,
+   "subCount": 3,
+   "answer": "A",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "printedText": "有時在外面用餐，總是想念著七零年代那時流行的美式早餐。餐\n廳裡的裝飾普通，餐桌很大，椅子兩兩相對。只要客人坐下來，服務\n人員就先給你一杯味道淡得像水一樣的美式熱咖啡，然後二話不說，\n不論你點什麼，先送上一些烤吐司和炒蛋；然後開始登場的是主要食\n物──煎香腸，培根或火腿，旁邊放著一大堆像座小山一樣的馬鈴薯，\n還附上蜂蜜、果醬、奶油等一堆配料。\n\n 那樣的早餐其實大多是吃不完的，至於好不好吃倒也沒那麼重\n要，但那種熱騰騰的氣氛，讓人一整天都覺得特別幸福。\n\n 後來，義大利式連鎖店漸漸地代替美式早餐店，在每個城市流行\n起來。早餐一杯義式咖啡加上一份麵包，吃一個算一個的錢，加上漂\n亮的裝潢與浪漫的音樂，在某一方面是精緻、好看多了，也環保得多，\n但那份充滿熱情的文化卻也逐漸消失中。\n\f1. 作者覺得美式早餐的特色是什麼？\n （A）量多\n （B）味道佳\n （C）作法精緻\n （D）環境優雅\n\n2. 作者認為義大利式連鎖咖啡店的早餐缺少了什麼？\n （A）豐富的配料\n （B）漂亮的裝飾\n （C）熱鬧的感覺\n （D）廣闊的用餐環境\n\n3. 這篇文章的作者主要想說明什麼？\n （A）飲食文化的轉變\n （B）選擇早餐的標準\n （C）現代人的飲食習慣\n （D）早餐店成功的秘訣",
+   "n": 3,
+   "crop": "Q00179500.webp",
+   "group": "g3"
+  },
+  {
+   "item": "Q00179500",
+   "sub": 2,
+   "subCount": 3,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 4,
+   "crop": null,
+   "group": "g3"
+  },
+  {
+   "item": "Q00179500",
+   "sub": 3,
+   "subCount": 3,
+   "answer": "A",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 5,
+   "crop": null,
+   "group": "g3"
+  },
+  {
+   "item": "Q00182701",
+   "sub": 1,
+   "subCount": 4,
+   "answer": "B",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "printedText": "文奇一直在尋找能充分運用他語言專業的機會，剛好一家貿易公\n司要徵求外語翻譯，要求中、英語的口語流利，且要有口語翻譯的經\n驗。基本條件文奇全都符合。經過商業概念的筆試和口語能力測驗後，\n兩百人之中只有文奇和其他七人能參加和總經理的面試。大家都很清\n楚，能讓總經理留下好印象，是得到工作機會的關鍵。\n\n 當文奇剛走進總經理的辦公室，總經理就一臉驚喜地對文奇說：\n「啊！我可找到你了！」說著，就馬上站起來跟文奇握手。接著，他\n又對辦公室的秘書說：「這個年輕人就是上個月在游泳池救了我女兒\n的那個人，沒留下姓名就走了，沒想到，今天在這兒又見面了，真是\n太巧了。」\n\n 聽了總經理的話以後，臉上熱呼呼的文奇，看到了進公司的一線\n希望。但這時他心裡又有另一個聲音：一個人要誠實！他平靜下來，\n對總經理說：「不，先生，您認錯人了。」「認錯人？不會吧！你和那\n位先生一樣，都有一雙明亮的大眼睛。」「不，總經理，我不會游泳，\n更不可能去游泳池。」文奇平靜地說。\n\n 幾天以後，文奇到公司報到，八個人之中只有兩個人被錄用。文\n奇問了秘書，救總經理女兒的年輕人找到了沒？秘書笑著說：「總經\n理哪有女兒啊！」\n\f1. 下面哪一項是這家公司開出的徵求條件？\n （A）能隨時以英語信件與客戶往來\n （B）在客戶說話時馬上翻譯成中文\n （C）工作表現能讓總經理印象深刻\n （D）個性實在做事負責不欺騙上司\n\n2. 總經理面試時為什麼說文奇救了他女兒？\n （A）他希望文奇能輕鬆一點\n （B）他得確認文奇真正的身份\n （C）他想觀察文奇當時的反應\n （D）他要表揚文奇幫助他女兒\n\n3. 文奇被總經理錄用最主要的原因是什麼？\n （A）總經理認錯人了\n （B）他是一個誠實的人\n （C）他救了總經理的女兒\n （D）他通過了公司的筆試\n\n4. 我們可以從這篇文章中知道文奇哪件事？\n （A）他是一個女兒的父親\n （B）游泳是他拿手的運動\n （C）只有他一人被該公司錄取\n （D）他能輕鬆用英語與人談話",
+   "n": 6,
+   "crop": "Q00182701.webp",
+   "group": "g6"
+  },
+  {
+   "item": "Q00182701",
+   "sub": 2,
+   "subCount": 4,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 7,
+   "crop": null,
+   "group": "g6"
+  },
+  {
+   "item": "Q00182701",
+   "sub": 3,
+   "subCount": 4,
+   "answer": "B",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 8,
+   "crop": null,
+   "group": "g6"
+  },
+  {
+   "item": "Q00182701",
+   "sub": 4,
+   "subCount": 4,
+   "answer": "D",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 9,
+   "crop": null,
+   "group": "g6"
+  },
+  {
+   "item": "Q00187400",
+   "sub": 1,
+   "subCount": 2,
+   "answer": "D",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 10,
+   "crop": "Q00187400.webp",
+   "group": "g10"
+  },
+  {
+   "item": "Q00187400",
+   "sub": 2,
+   "subCount": 2,
+   "answer": "B",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 11,
+   "crop": null,
+   "group": "g10"
+  },
+  {
+   "item": "Q00189600",
+   "sub": 1,
+   "subCount": 2,
+   "answer": "A",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 12,
+   "crop": "Q00189600.webp",
+   "group": "g12"
+  },
+  {
+   "item": "Q00189600",
+   "sub": 2,
+   "subCount": 2,
+   "answer": "B",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 13,
+   "crop": null,
+   "group": "g12"
+  },
+  {
+   "item": "Q00192700",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "D",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "住宿費用較低"
+    },
+    {
+     "label": "B",
+     "text": "房間的設計傳統、簡單"
+    },
+    {
+     "label": "C",
+     "text": "多半是由舊房子改成的"
+    },
+    {
+     "label": "D",
+     "text": "和大型飯店同樣具有運動設備"
+    }
+   ],
+   "printedText": "「平價旅館」的概念在歐、美、日等國已形成風潮，這些由老舊\n建築物改建的平價旅館，雖然少了健身房、游泳池等硬體設備，但房\n價便宜，而且在安全、乾淨等指標上一點也不差。因而吸引經常至外\n地出差而入住的人，也有許多的觀光客希望省下住宿費用來做其他消\n費，種種因素讓許多平價旅館成為旅客的首選。\n\n1. 有關「平價旅館」的描述，下面哪一個是 錯的 ？\n （A）住宿費用較低\n （B）房間的設計傳統、簡單\n （C）多半是由舊房子改成的\n （D）和大型飯店同樣具有運動設備",
+   "n": 14,
+   "crop": "Q00192700.webp"
+  },
+  {
+   "item": "Q00193200",
+   "sub": 1,
+   "subCount": 4,
+   "answer": "B",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "printedText": "300 多年前，歐洲到處都出現小麥產量過少的狀況，當時，馬鈴\n薯剛從美洲傳入歐洲，有位國王一接觸到馬鈴薯，就認為這神奇的作\n物正是國家的救星，不但種起來容易，蟲又少，吃了也容易讓人有飽\n足的感覺，相當適合代替麵包成為主要食物，因此下令推廣全國。他\n在公告裡寫著：「馬鈴薯是個容易種、而且營養豐富的食物，希望大\n家多種、多吃，這樣一來就能解決麵粉不夠的問題了。」\n\n 沒想到公告以後，「市場反應 」卻讓國王很意外，幾乎沒有人願\n意在家種馬鈴薯，大部分的民眾不願改變以麵包作為主食的習慣。國\n王幾天後又想出新的對策。他又發布了新命令：「馬鈴薯是國王專屬\n的食物，一般人不可以吃。」還準備了一塊很大的田專門種馬鈴薯，\n派了幾名軍人在那兒看著。\n\n 命令公告後，很多民眾心裡想，「馬鈴薯有什麼了不起？為什麼\n只有國王可以吃？」大家都想吃吃看，很多人到國王的田裡偷馬鈴薯\n回家種，倒是在那兒的軍人都睜一隻眼閉一隻眼地讓民眾偷。幾個月\n過去了，馬鈴薯就這樣成了這個國家常見的農作物。\n\f1. 關於國王想推廣馬鈴薯的原因，沒提到 下面哪一項？\n （A）能當作主要的食物\n （B）味道和麵包非常搭配\n （C）不必花太多力氣照顧\n （D）希望讓人民少用麵粉\n\n2. 第二段中的「市場反應」指的是什麼？\n （A）一般人吃不起馬鈴薯\n （B）沒有人願意賣馬鈴薯\n （C）農民認為馬鈴薯不容易種\n （D）人民認為馬鈴薯無法取代麵包\n\n3. 國王能推廣成功，主要是對人民使用了哪種策略？\n （A）強調吃馬鈴薯的好處\n （B）強迫他們不得不接受命令\n （C）引起人民對馬鈴薯的好奇心\n （D）強調小麥不足如何影響生活\n\n4. 這個故事主要在說明什麼？\n （A）馬鈴薯開始流行的原因\n （B）人民改變飲食習慣的目的\n （C）馬鈴薯對歐洲人民有什麼好處\n （D）國王對食物的愛好如何影響人民",
+   "n": 15,
+   "crop": "Q00193200.webp",
+   "group": "g15"
+  },
+  {
+   "item": "Q00193200",
+   "sub": 2,
+   "subCount": 4,
+   "answer": "D",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 16,
+   "crop": null,
+   "group": "g15"
+  },
+  {
+   "item": "Q00193200",
+   "sub": 3,
+   "subCount": 4,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 17,
+   "crop": null,
+   "group": "g15"
+  },
+  {
+   "item": "Q00193200",
+   "sub": 4,
+   "subCount": 4,
+   "answer": "A",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    },
+    {
+     "label": "D",
+     "text": ""
+    }
+   ],
+   "n": 18,
+   "crop": null,
+   "group": "g15"
+  }
+ ],
+ "audio": null,
+ "optionCount": 4
+}
