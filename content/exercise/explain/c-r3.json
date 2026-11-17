@@ -1,6 +1,6 @@
 {
  "testId": "c-r3",
- "segments": 247,
+ "segments": 316,
  "englishComplete": false,
  "questions": {
   "1": {
@@ -450,6 +450,44 @@
    }
   },
   "19": {
+   "passage": [
+    {
+     "zh": "（一）",
+     "py": "(Yī)"
+    },
+    {
+     "zh": "在美國，有不少長年戰績不佳的球隊。",
+     "py": "Zài Měiguó, yǒu bùshǎo chángnián zhànjì bùjiā de qiúduì."
+    },
+    {
+     "zh": "最經典的，當然是快要一百年沒拿過世界大賽冠軍的芝加哥小熊隊，他們不只打不到冠軍，而且戰績常常落得難看，球季中就失去了爭冠的機會。",
+     "py": "Zuì jīngdiǎn de, dāngrán shì kuàiyào yìbǎinián méi ná guò Shìjièdàsài guànjūn de Zhījiāgē xiǎo xióngduì, tāmen bù zhǐ dǎ búdào guànjūn, érqiě zhànjì chángcháng luòde nánkàn, qiújì zhōng jiù shīqù le zhēngguān de jīhuì."
+    },
+    {
+     "zh": "但小熊隊從來不缺球迷支持者，他們的球迷甚至練就一身自我解嘲、自我安慰的本事，例如在球季開賽的第一場比賽，就高舉牌子，上面寫著：「別擔心，還有明年！」",
+     "py": "Dàn xiǎo xióngduì cóngláibù quē qiúmí zhīchízhě, tāmen de qiúmí shènzhì liànjiù yìshēn zìwǒjiěcháo, zìwǒānwèi de běnshì, lìrú zài qiújì kāisài de dìyìcháng bǐsài, jiù gāojǔ páizi, shàngmiàn xiězhù: “Bié dānxīn, háiyǒu míngnián!”"
+    },
+    {
+     "zh": "近來台灣有不少運動員在國際體壇表現卓越，無論媒體或輿論都以「台灣之光」來稱呼這些為國爭光的運動員，一般民眾也與有榮焉，追著觀看這些台灣之光的各項賽事。",
+     "py": "Jìnlái Táiwān yǒu bùshǎo yùndòngyuán zài guójì tǐtán biǎoxiàn Zhuóyuè, wúlùn méitǐ huò yúlùn dōu yǐ “Táiwān zhī guāng” lái chēnghū zhèxiē wèiguózhēngguāng de yùndòngyuán, yìbān mínzhòng yě yǔ yǒu Róngyān, zhuīzhù guānkàn zhèxiē Táiwān zhī guāng de gèxiàng sàishì."
+    },
+    {
+     "zh": "不過，這些因運動員知名度提昇而追星的民眾，恐怕很難理解小熊隊球迷的忠誠，更難體會這種忠誠的價值，因為王建民、曾雅妮沒贏球，我們根本就不會注意到他們。",
+     "py": "Búguò, zhèxiē yīn yùndòngyuán zhīmíngdù tíshēng ér zhuīxīng de mínzhòng, kǒngpà hěn nán lǐjiě xiǎo xióngduì qiúmí de zhōngchéng, gèng nán tǐhuì zhèzhǒng zhōngchéng de jiàzhí, yīnwèi Wángjiànmín, Céngyǎnī méi yíngqiú, wǒmen gēnběn jiù búhuì zhùyì dào tāmen."
+    },
+    {
+     "zh": "我們從這些球星身上得到的，是贏的快感，是沾染贏的光榮；",
+     "py": "Wǒmen cóng zhèxiē qiúxīng shēnshàng dédào de, shì yíng de kuàigǎn, shì zhānrǎn yíng de Guāngróng;"
+    },
+    {
+     "zh": "我們選擇的，不是特定的球員，也不是他們所屬的哪一支球隊，而是贏的事實。",
+     "py": "Wǒmen xuǎnzé de, búshì tèdìng de qiúyuán, yě búshì tāmen suǒshǔ de nǎ yìzhī qiúduì, érshì yíng de shìshí."
+    },
+    {
+     "zh": "一旦失去了贏的因素，我們也就毫不客氣地失去對他們的興趣，轉而尋找實力更強的球隊來支持了。",
+     "py": "Yídàn shīqù leyíng de yīnsù, wǒmen yě jiù háobúkèqì dì shīqù duì tāmen de xìngqù, zhuǎnér xúnzhǎo shílì gèng qiáng de qiúduì lái zhīchí le."
+    }
+   ],
    "stem": {
     "zh": "小熊隊球迷舉的牌子，向球隊傳達了什麼訊息？",
     "py": "Xiǎo xióngduì qiúmí jǔ de páizi, xiàng qiúduì chuándá le shénme xùnxī?"
@@ -546,6 +584,12 @@
    }
   },
   "23": {
+   "passage": [
+    {
+     "zh": "（二）",
+     "py": "(Èr)"
+    }
+   ],
    "stem": {
     "zh": "關於自然人憑證卡，下面哪一項是正確的？",
     "py": "Guānyú zìránrén píngzhèng kǎ, xiàmiàn nǎ yíxiàng shì zhèngquè de?"
@@ -642,6 +686,40 @@
    }
   },
   "27": {
+   "passage": [
+    {
+     "zh": "（三）",
+     "py": "(Sān)"
+    },
+    {
+     "zh": "關於風箏的起源，眾說紛紜。",
+     "py": "Guānyú fēngzhēng de qǐyuán, zhòngshuōfēnyún."
+    },
+    {
+     "zh": "宋朝陸佃認為，戰國時代的墨子已能製造可飛行三天而不會墜落的木鳶。",
+     "py": "Sòngcháo Lùdiàn rènwéi, zhànguóshídài de mòzi yǐ néng zhìzào kě fēixíng sāntiān ér búhuì zhuìluò de mùyuān."
+    },
+    {
+     "zh": "也有人認為，首先製作木鳶的應該是工匠祖師公輸班。",
+     "py": "Yě yǒurén rènwéi, shǒuxiān zhìzuò mùyuān de yīnggāi shì gōngjiàng zǔshī gōngshū bān."
+    },
+    {
+     "zh": "元朝的林坤認為風箏是楚漢相爭時韓信發明的。",
+     "py": "Yuáncháo de línkūn rènwéi fēngzhēng shì Chǔhànxiāngzhēng shí Hánxìn fāmíng de."
+    },
+    {
+     "zh": "根據正史上的記載，一千五百年前，南朝的梁武帝被侯景亂軍包圍，正在一籌莫展時，羊侃趨前獻上計策，說：「何不模仿翱翔天上的鷂鷹，製造紙鳶向外求援？」",
+     "py": "Gēnjù zhèngshǐ shàng de jìzǎi, yīqiānwǔbǎinián qián, náncháo de Liángwǔdì bèi Hóujǐng luànjūn bāowéi, zhèngzài yìchóumòzhǎn shí, Yángkǎn qūqián xiànshàng jìcè, shuō: “Hébù mófǎng áoxiáng tiānshàng de yàoyīng, zhìzào zhǐyuān xiàng wài qiúyuán?”"
+    },
+    {
+     "zh": "中國歷史上記載的第一隻風箏於是誕生。",
+     "py": "Zhōngguó lìshǐ shàng jìzǎi de dìyī zhǐ fēngzhēng yúshì dànshēng."
+    },
+    {
+     "zh": "據說後來有人在紙鳶上加上竹笛，風一吹就會發出像竹箏一樣的聲響，所以叫「風箏」。",
+     "py": "Jùshuō hòulái yǒurén zài zhǐyuān shàng jiāshàng zhúdí, fēng yī chuī jiù huì fāchū xiàng zhúzhēng yíyàng de shēngxiǎng, suǒyǐ jiào “Fēngzhēng”."
+    }
+   ],
    "stem": {
     "zh": "這段短文的主題是關於風箏的什麼？",
     "py": "Zhè duàn duǎnwén de zhǔtí shì guānyú fēngzhēng de shénme?"
@@ -738,6 +816,52 @@
    }
   },
   "31": {
+   "passage": [
+    {
+     "zh": "（四）",
+     "py": "(Sì)"
+    },
+    {
+     "zh": "面臨生存危機的臺灣傳統製造業，近年來在經濟部的輔導下，正掀起一股「變身」風。",
+     "py": "Miànlín shēngcún wēijī de Táiwān chuántǒng zhìzàoyè, jìnniánlái zài jīngjìbù de fǔdǎo xià, zhèng xiānqǐ yìgǔ “Biàn shēn” fēng."
+    },
+    {
+     "zh": "在工廠加入觀光元素，既賣產品，也賣工廠風光，已經成為旅遊的新亮點。",
+     "py": "Zài gōngchǎng jiārù guānguāng yuánsù, jì mài chǎnpǐn, yě mài gōngchǎng fēngguāng, yǐjīng chéngwéi lǚyóu de xīnliàngdiǎn."
+    },
+    {
+     "zh": "其實這並非是一件新鮮事，如德國知名的魯爾工業區，將廢棄的鋼鐵廠交給設計師改造後，便吸引了無數遊客前往朝聖；",
+     "py": "Qíshí zhè bìngfēi shì yíjiàn Xīnxiānshì, rú Déguó zhīmíng de Lǔěr gōngyèqū, jiāng fèiqì de gāngtiěchǎng jiāogěi shèjìshī gǎizào hòu, biàn xīyǐn le wúshù yóukè qiánwǎng Cháoshèng;"
+    },
+    {
+     "zh": "又如荷蘭的台夫特陶瓷廠，是唯一以傳統手工方式生產陶瓷的工廠，90 年代也曾遭遇困境，自開放民眾親自製作陶瓷後，才又絕地逢生。",
+     "py": "Yòu rú Hélán de tái Fūtè táocíchǎng, shì wéiyī yǐ chuántǒng shǒugōng fāngshì shēngchǎn táocí de gōngchǎng, 90 niándài yě céng zāoyù kùnjìng, zì kāifàng mínzhòng qīnzì zhìzuò táocí hòu, cái yòu juédì féngshēng."
+    },
+    {
+     "zh": "而臺灣的觀光工廠現今也正朝「看得到、吃得到、玩得到、買得到」的方向發展，只可惜目前工廠的英語導覽能力不足，因此仍未能與國際觀光接軌，現階段客源主要靠國民旅遊支撐。",
+     "py": "Ér Táiwān de guānguāng gōngchǎng xiànjīn yě zhèng cháo “Kàn dédào, chī dédào, wán dédào, mǎi dédào” de fāngxiàng fāzhǎn, zhǐ kěxī mùqián gōngchǎng de Yīngyǔ dǎolǎn nénglì bùzú, yīncǐ réng wèinéng yǔ guójì guānguāng jiēguǐ, xiànjiēduàn kèyuán zhǔyào kào guómín lǚyóu zhīchēng."
+    },
+    {
+     "zh": "另一方面，對經營者來說，更大的難題是以前工廠假日休息，而國民旅遊潮卻多出現在假日。",
+     "py": "Lìngyìfāngmiàn, duì jīngyíngzhě láishuō, gèng dà de nántí shì yǐqián gōngchǎng jiàrì xiūxí, ér guómín lǚyóu cháo què duō chūxiàn zài jiàrì."
+    },
+    {
+     "zh": "要參觀生產過程，員工就得加班，並且還得穿著整齊、動作專業，以往邊工作邊說話的習慣都要「收」起來，員工反彈在所難免。",
+     "py": "Yào cānguān shēngchǎn guòchéng, yuángōng jiù dé jiābān, bìngqiě hái dé chuānzhù zhěngqí, dòngzuò zhuānyè, yǐwǎng biān gōngzuò biān shuōhuà de xíguàn dōu yào “Shōu” qǐlái, yuángōng fǎntán zàisuǒnánmiǎn."
+    },
+    {
+     "zh": "再說，有些經營者無法接受下一代在快沒飯吃的情況下，還打算花大錢裝潢、設計觀光動線、培訓解說人員，而這些為品牌加分的經濟效果並不是立即可見的，於是兩代之間衝突不斷，也常見第二代因此被掃地出門，只好另立品牌的例子。",
+     "py": "Zàishuō, yǒuxiē jīngyíngzhě wúfǎ jiēshòu xiàyídài zài kuài méifàn chī de qíngkuàng xià, hái dǎsuàn Huādàqián zhuānghuáng, shèjì guānguāng dòngxiàn, péixùn jiěshuō rényuán, ér zhèxiē wèi pǐnpái jiāfēn de jīngjì xiàoguǒ bìng búshì lìjí kějiàn de, yúshì liǎngdài zhījiān chōngtū búduàn, yě chángjiàn dìèrdài yīncǐ bèi sǎodìchūmén, zhǐhǎo lìng lì pǐnpái de lìzi."
+    },
+    {
+     "zh": "臺灣的觀光工廠雖然尚未成熟，但當遊客置身在這些傳統工廠裡，除了觀光、學習外，彷彿也進入了時光隧道，重溫數十年前以「臺灣製造」創下經濟奇蹟的故事，並且藉著參觀和購買行為，和業者一同創造新一波的經濟奇蹟。",
+     "py": "Táiwān de guānguāng gōngchǎng suīrán shàngwèi chéngshú, dàn dāng yóukè zhìshēn zài zhèxiē chuántǒng gōngchǎng lǐ, chúle guānguāng, xuéxí wài, fǎngfú yě jìnrù le shíguāngsuìdào, chóngwēn shùshínián qiányǐ “Táiwān zhìzào” chuàngxià jīngjì qíjì de gùshì, bìngqiě jí zhù cānguān hé gòumǎi xíngwéi, hé yèzhě yìtóng chuàngzào Xīnyìbō de jīngjì qíjì."
+    },
+    {
+     "zh": "從這個角度來看，也算得上是好事一樁。",
+     "py": "Cóng zhè ge jiǎodù láikàn, yě suàn dé shàng shì hǎoshì yìzhuāng."
+    }
+   ],
    "stem": {
     "zh": "根據本文，關於臺灣的觀光工廠，下面哪一項說明正確?",
     "py": "Gēnjù běnwén, guānyú Táiwān de guānguāng gōngchǎng, xiàmiàn nǎ yíxiàng shuōmíng zhèngquè?"
@@ -834,6 +958,72 @@
    }
   },
   "35": {
+   "passage": [
+    {
+     "zh": "（五）",
+     "py": "(Wǔ)"
+    },
+    {
+     "zh": "未來的道路收費的方式可能和目前的制度大不相同。",
+     "py": "Wèilái de dàolù shōufèi de fāngshì kěnéng hé mùqián de zhìdù dàbùxiāngtóng."
+    },
+    {
+     "zh": "在 GPS 等無線定位技術問世後，我們便能精確地計算開車成本和道路價值，一個嶄新的交通觀念於是產生：讓駕駛人依據實際開車的里程數來支付道路費用。",
+     "py": "Zài GPS děng wúxiàn dìngwèi jìshù wènshì hòu, wǒmen biàn néng jīngquè dì jìsuàn kāichē chéngběn hé dàolù jiàzhí, yí ge zhǎnxīn de jiāotōng guānniàn yúshì chǎnshēng: Ràng jiàshǐ rén yījù shíjì kāichē de lǐchéng shù lái zhīfù dàolù fèiyòng."
+    },
+    {
+     "zh": "專家們相信，這樣的做法能有效改善塞車問題，以及降低意外事故。",
+     "py": "Zhuānjiā men xiāngxìn, zhèyàng de zuòfǎ néng yǒuxiào gǎishàn Sāichē wèntí, yǐjí jiàngdī yìwàishìgù."
+    },
+    {
+     "zh": "目前多數國家的道路費用是透過汽車牌照稅、燃料稅等等來徵收。",
+     "py": "Mùqián duōshù guójiā de dàolù fèiyòng shì tòuguò qìchē páizhàoshuì, ránliào shuì děngděng lái zhēngshōu."
+    },
+    {
+     "zh": "駕駛人無論是使用擁擠或是空曠的道路，所支付的費用相同；",
+     "py": "Jiàshǐ rén wúlùnshì shǐyòng yōngjǐ huòshì Kōngkuàng de dàolù, suǒ zhīfù de fèiyòng xiāngtóng;"
+    },
+    {
+     "zh": "一個月只開一次車的人所支付的費用，也跟每天開車的人一樣，說起來並不是很合理。",
+     "py": "Yígeyuè zhǐ kāi yícì chē de rén suǒ zhīfù de fèiyòng, yě gēn měitiān kāichē de rén yíyàng, shuō qǐlái bìng búshì hěn hélǐ."
+    },
+    {
+     "zh": "近來荷蘭政府推動一項實驗，依照駕駛人實際開車的里程來收費，而且，流量越高的道路，收費也越高。",
+     "py": "Jìnlái Hélánzhèngfǔ tuīdòng yíxiàng shíyàn, yīzhào jiàshǐ rén shíjì kāichē de lǐchéng lái shōufèi, érqiě, liúliàng yuè gāo de dàolù, shōufèi yě yuè gāo."
+    },
+    {
+     "zh": "實驗顯示，計畫實施後，有高達七成的駕駛人選擇在離峰時間上路、或避開擁擠的路段，有效改善市區交通。",
+     "py": "Shíyàn xiǎnshì, jìhuà shíshī hòu, yǒu gāo dá qīchéng de jiàshǐ rén xuǎnzé zài lífēng shíjiān Shànglù, huò bìkāi yōngjǐ de lùduàn, yǒuxiào gǎishàn shìqū jiāotōng."
+    },
+    {
+     "zh": "按里程收費對環保也有助益。",
+     "py": "Àn lǐchéng shōufèi duì huánbǎo yě yǒu zhùyì."
+    },
+    {
+     "zh": "在德國，大貨車的計費標準不只是里程，還包括了廢氣排放量，污染越嚴重的貨車得支付越高的里程費。",
+     "py": "Zài Déguó, dà huòchē de jìfèi biāozhǔn bù zhǐshì lǐchéng, hái bāokuò le fèiqì páifàngliàng, wūrǎn yuè yánzhòng de huòchē dé zhīfù yuè gāo de lǐchéng fèi."
+    },
+    {
+     "zh": "按里程收費實施之後，高污染貨車的行駛次數便大幅減少。",
+     "py": "Àn lǐchéng shōufèi shíshī zhīhòu, gāowūrǎn huòchē de xíngshǐ cìshù biàn dàfú jiǎnshǎo."
+    },
+    {
+     "zh": "可惜這類計畫雖然有效，所費卻不貲。",
+     "py": "Kěxī zhè lèi jìhuà suīrán yǒuxiào, suǒfèi què bùzī."
+    },
+    {
+     "zh": "一家英國保險公司在客戶車上加裝記錄器，仔細記錄駕駛人的行車速度、距離及駕駛方式，再根據這些紀錄為不同客戶設定保險費。",
+     "py": "Yìjiā Yīngguó bǎoxiǎngōngsī zài kèhù chēshàng jiāzhuāng jìlùqì, zǐxì jìlù jiàshǐ rén de xíngchē sùdù, jùlí jí jiàshǐ fāngshì, zài gēnjù zhèxiē jìlù wèi bùtóng kèhù shèdìng bǎoxiǎnfèi."
+    },
+    {
+     "zh": "經常開車或習慣開快車的駕駛人，得多付一點兒保險金。",
+     "py": "Jīngcháng kāichē huò xíguàn kāikuàichē de jiàshǐ rén, dé duōfù yìdiǎnér bǎoxiǎnjīn."
+    },
+    {
+     "zh": "儘管這個措施很有效，實施期間，保險公司的意外理賠因此少了 30%，但由於記錄器過於昂貴，這項計畫到最後還是不了了之。",
+     "py": "Jǐnguǎn zhè ge cuòshī hěn yǒuxiào, shíshī qījiān, bǎoxiǎngōngsī de yìwài lǐpéi yīncǐ shǎo le 30 %, dàn yóuyú jìlùqì guòyú ángguì, zhèxiàng jìhuà dào zuìhòu háishì bùliǎoliǎozhī."
+    }
+   ],
    "stem": {
     "zh": "根據第二段，目前徵收的道路費用有什麼不合理的地方？",
     "py": "Gēnjù dìèrduàn, mùqián zhēngshōu de dàolù fèiyòng yǒu shénme bùhélǐ de dìfāng?"
@@ -954,6 +1144,64 @@
    }
   },
   "40": {
+   "passage": [
+    {
+     "zh": "（六）",
+     "py": "(Liù)"
+    },
+    {
+     "zh": "主計處報告指出，今年台灣的失業率跌破 5%，但非典型就業人數卻逐年上升，今年達 72.3 萬人，創歷史新高。",
+     "py": "Zhǔjìchù bàogào zhǐchū, jīnnián Táiwān de shīyèlǜ diēpò 5 %, dàn fēidiǎnxíng jiùyèrénshù què zhúnián shàngshēng, jīnnián dá 72.3 wàn rén, chuàng lìshǐ xīngāo."
+    },
+    {
+     "zh": "國內十五至廿四歲勞動人口中，非典型就業者約占 25％，居各年齡層之冠，有年輕化跡象。",
+     "py": "Guónèi shíwǔ zhì niànsìsuì láodòng rénkǒu zhōng, fēidiǎnxíng jiùyèzhě yuē zhàn 25 ％, jū gè niánlíngcéng zhī guān, yǒu niánqīnghuà jìxiàng."
+    },
+    {
+     "zh": "大專以上就業者中，每一百人中約六人是非典型工作者，也呈上升態勢。",
+     "py": "Dàzhuān yǐshàng jiùyèzhě zhōng, měi yìbǎi rén zhōng yuē liù rén shìfēi diǎnxíng gōngzuòzhě, yě chéngshàngshēng tàishì."
+    },
+    {
+     "zh": "所謂「非典型就業者」，是指企業為節省人力成本，聘僱非正式的員工，包括打工族、工讀生、臨時工、兼職人員等等。",
+     "py": "Suǒwèi “Fēidiǎnxíng jiùyèzhě”, shì zhǐ qǐyè wèi jiéshěng rénlì chéngběn, pìngù fēizhèngshì de yuángōng, bāokuò Dǎgōngzú, gōngdúshēng, línshígōng, jiānzhí rényuán děngděng."
+    },
+    {
+     "zh": "過去，台灣非典型就業的人口多半集中在中高齡、低學歷、二度就業等弱勢族群，然而近年來，非典型就業人口的年齡層卻不斷下降。",
+     "py": "Guòqù, Táiwān fēidiǎnxíng jiùyè de rénkǒu duōbàn jízhōng zài Zhōng gāolíng, dī xuélì, èrdù jiùyè děng ruòshì zúqún, ránér jìnniánlái, fēidiǎnxíng jiùyèrénkǒu de niánlíngcéng què búduàn xiàjiàng."
+    },
+    {
+     "zh": "美國《商業周刊》指出，後金融海嘯時代來臨，以臨時工作人員取代正職的作法在美國企業蔚為風尚，先前歷經大裁員的企業尤其熱中此道，不願釋出正式職缺。",
+     "py": "Měiguó «Shāngyè zhōukān» zhǐchū, hòu jīnróng hǎixiào shídài láilín, yǐ línshí gōngzuòrényuán qǔdài zhèngzhí de zuòfǎ zài Měiguó qǐyè Wèiwèi fēngshàng, xiānqián lìjīng dà cáiyuán de qǐyè yóuqí rè zhōng cǐ dào, bù yuàn shìchū zhèngshì zhí quē."
+    },
+    {
+     "zh": "在此潮流下受害最深者，莫過於剛從學校畢業、找尋人生第一份工作的新鮮人。",
+     "py": "Zài cǐ cháoliú xià shòuhài zuìshēn zhě, mòguòyú gāng cóng xuéxiào bìyè, zhǎoxún rénshēng dìyífèn gōngzuò de Xīnxiān rén."
+    },
+    {
+     "zh": "最近十年，亞洲國家的「非典型僱用潮」亦儼然成形。",
+     "py": "Zuìjìn shínián, Yàzhōu guójiā de “Fēidiǎnxíng gùyòng cháo” yì yǎnrán chéngxíng."
+    },
+    {
+     "zh": "在日本，非典型就業人口於 1990 年占總就業人數的 20％，2007 年已升至 34％；",
+     "py": "Zài Rìběn, fēidiǎnxíng jiùyèrénkǒu yú 1990 nián zhàn zǒng jiùyèrénshù de 20 ％, 2007 nián yǐ shēngzhì 34 ％;"
+    },
+    {
+     "zh": "韓國 2008 年突破 44％後，2009 年上揚至 50％左右。",
+     "py": "Hánguó 2008 nián tūpò 44 ％ hòu, 2009 nián shàngyáng zhì 50 ％ zuǒyòu."
+    },
+    {
+     "zh": "台灣也難逃此趨勢，非典型就業人數呈現逐年遞增的情況。",
+     "py": "Táiwān yě nántáo cǐ qūshì, fēidiǎnxíng jiùyèrénshù chéngxiàn zhúnián dìzēng de qíngkuàng."
+    },
+    {
+     "zh": "報告也指出，今年營造業的非典型勞工為 12.7 萬人，約占總員工數的 16％，不論是人數或比例均拔得頭籌。",
+     "py": "Bàogào yě zhǐchū, jīnnián yíngzàoyè de fēidiǎnxíng láogōng wèi 12.7 wàn rén, yuē zhàn zǒng yuángōng shù de 16 ％, búlùnshì rénshù huò bǐlì jūn bá dé tóuchóu."
+    },
+    {
+     "zh": "這是因為營造業以勞力為主的職缺多、替代性高，業者愈來愈傾向僱用臨時、短期工的緣故。",
+     "py": "Zhè shìyīnwèi yíngzàoyè yǐ láolì wéizhǔ de zhíquē duō, tìdàixìng gāo, yèzhě yùláiyù qīngxiàng gùyòng línshí, duǎnqī gōng de yuángù."
+    }
+   ],
    "stem": {
     "zh": "第一段主要在說什麼？",
     "py": "Dìyíduàn zhǔyào zài shuō shénme?"
@@ -1074,6 +1322,60 @@
    }
   },
   "45": {
+   "passage": [
+    {
+     "zh": "（七）",
+     "py": "(Qī)"
+    },
+    {
+     "zh": "早期時尚的開端，始自金字塔尖端的消費者，設計師卯足全力為上流社會的權貴們，設計各種不同場合的服裝。",
+     "py": "Zǎoqī shíshàng de kāiduān, shǐzì Jīnzìtǎ jiānduān de xiāofèizhě, shèjìshī mǎozú quánlì wèi Shàngliúshèhuì de Quánguì men, shèjì gèzhǒng bùtóng chǎnghé de fúzhuāng."
+    },
+    {
+     "zh": "這些典雅細緻的貴族風格，主導了當時的流行趨勢。",
+     "py": "Zhèxiē diǎnyǎ xìzhì de guìzú fēnggé, zhǔdǎo le dāngshí de liúxíng qūshì."
+    },
+    {
+     "zh": "不過，到了 50、60 年代，那些以青少年為代表的街頭文化，反而以革命之姿創造新的時代風格。",
+     "py": "Búguò, dào le 50, 60 niándài, nàxiē yǐ Qīngshàonián wèi dàibiǎo de jiētóu wénhuà, fǎnér yǐ gémìng zhī zī chuàngzào xīn de shídài fēnggé."
+    },
+    {
+     "zh": "當時的年輕族群聚集街頭、彈著樂器、穿著怪異的服飾、無視他人質疑的眼光，發展出極富生命力的文化。",
+     "py": "Dāngshí de niánqīng zúqún jùjí jiētóu, dànzhù yuèqì, chuānzhù guàiyì de fúshì, wúshì tārén zhìyí de yǎnguāng, fāzhǎn chū jífù shēngmìnglì de wénhuà."
+    },
+    {
+     "zh": "從嬉皮、龐克、搖滾到嘻哈，每一種潮流都勇於反叛、挑戰權威，既獨特又充滿原創力，讓那些原本緊抓著上流時尚與精緻工藝的設計師們，也不得不低頭，從這群充滿創意的街頭青少年身上擷取靈感。",
+     "py": "Cóng xīpí, Pángkè, yáogǔn dào xī hā, měi yìzhǒng cháoliú dōu yǒngyú fǎnpàn, tiǎozhàn Quánwēi, jì dútè yòu chōngmǎn yuánchuàng lì, ràng nàxiē yuánběn jǐnzhuā zhù shàngliú shíshàng yǔ jīngzhì gōngyì de shèjìshī men, yě bùdébù dītóu, cóng zhè qún chōngmǎn chuàngyì de jiētóu Qīngshàonián shēnshàng xiéqǔ línggǎn."
+    },
+    {
+     "zh": "I",
+     "py": "I"
+    },
+    {
+     "zh": "可惜，那樣充滿叛逆的時代已然遠去。",
+     "py": "Kěxī, nàyàng chōngmǎn pànnì de shídài yǐrán yuǎnqù."
+    },
+    {
+     "zh": "反觀現在的年輕族群，穿搭的主軸不是來自原創，而是向奢華靠攏。",
+     "py": "Fǎnguān xiànzài de niánqīng zúqún, chuān dā de zhǔzhóu búshì láizì yuánchuàng, érshì xiàng shēhuá kàolǒng."
+    },
+    {
+     "zh": "II 殊不知他們的價值觀和創造力已被所謂的精品名牌給吞噬了。",
+     "py": "II shūbùzhī tāmen de jiàzhíguān hé chuàngzàolì yǐ bèi suǒwèi de jīngpǐn míngpái gěi tūnshì le."
+    },
+    {
+     "zh": "在我看來， III 人在年輕時期總有許多稀奇古怪的想法，加上同儕之間的相互刺激，許多創意與點子應該在這個時期盡情展現。",
+     "py": "Zàiwǒkànlái, III rén zài niánqīng shíqī zǒng yǒu xǔduō xīqígǔguài de xiǎngfǎ, jiāshàng tóngchái zhījiān de xiānghù cìjī, xǔduō chuàngyì yǔ diǎnzi yīnggāi zài zhè ge shíqī jìnqíng zhǎnxiàn."
+    },
+    {
+     "zh": "如果，在這個階段的青少年只知盲目追逐大人世界的頂級名牌，那將會扼殺多少創意？",
+     "py": "Rúguǒ, zài zhè ge jiēduàn de Qīngshàonián zhǐ zhī mángmù zhuīzhú dàrén shìjiè de dǐngjí míngpái, nà jiāng huì èshā duōshǎo chuàngyì?"
+    },
+    {
+     "zh": "IV 下一次，當你看到青少年們頂著五彩頭髮、穿著從未見過的怪異服裝，請不要制止，或許，他們將引領出另一波劃時代的時尚風潮。",
+     "py": "IV xià yícì, dāng nǐ kàndào Qīngshàonián men dǐngzhù Wǔcǎi tóufà, chuānzhù cóngwèijiànguò de guàiyì fúzhuāng, qǐng búyào zhìzhǐ, huòxǔ, tāmen jiāng yǐnlǐng chū lìng yī Bō huàshídài de shíshàng fēngcháo."
+    }
+   ],
    "stem": {
     "zh": "如果要把「年輕人以為手裏拿的包包越貴、腳下穿的鞋越頂級、 越能彰顯自己的個性。」這段話插入第一或二段，哪個位置最適合？",
     "py": "Rúguǒ yào bǎ “Niánqīngrén yǐwéi shǒulǐ ná de bāobāo Yuèguì, jiǎoxià chuān de xié yuè dǐngjí, yuè néng zhāngxiǎn zìjǐ de gèxìng.” zhèduànhuà chārù dìyī huò èrduàn, nǎ ge wèizhì zuì shìhé?"

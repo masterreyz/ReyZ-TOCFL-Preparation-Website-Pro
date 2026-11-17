@@ -1,6 +1,6 @@
 {
  "testId": "c-r1",
- "segments": 272,
+ "segments": 347,
  "englishComplete": false,
  "questions": {
   "1": {
@@ -554,6 +554,36 @@
    }
   },
   "21": {
+   "passage": [
+    {
+     "zh": "（三）",
+     "py": "(Sān)"
+    },
+    {
+     "zh": "上廁所該用什麼樣的衛生紙呢？",
+     "py": "Shàng cèsuǒ gāi yòng shénmeyàng de wèishēngzhǐ ne?"
+    },
+    {
+     "zh": "說起來只是小事一樁，對環境而言卻有莫大的影響。",
+     "py": "Shuō qǐlái zhǐshì xiǎoshìyìzhuāng, duì huánjìng éryán què yǒu Mòdà de yǐngxiǎng."
+    },
+    {
+     "zh": "環保專家指出，超柔軟衛生紙儘管用起來舒服，對環境的破壞卻更甚於耗油的汽車或垃圾食物。",
+     "py": "Huánbǎo zhuānjiā zhǐchū, chāo róuruǎn wèishēngzhǐ jǐnguǎn yòng qǐlái shūfú, duì huánjìng de pòhuài què gèng shényú hàoyóu de qìchē huò lājī shíwù."
+    },
+    {
+     "zh": "由於原始木材的長纖維較易展開且膨鬆，易於製造非常柔軟的衛生紙，因此市面上出售的超柔軟衛生紙大多來自原始森林，再加上紙漿製造過程會使用大量的化學藥品，人們若經常使用這類衛生紙，得付出很大的環境成本。",
+     "py": "Yóuyú yuánshǐ mùcái de zhǎng xiānwéi jiàoyì zhǎnkāi qiě péngsōng, yìyú zhìzào fēicháng róuruǎn de wèishēngzhǐ, yīncǐ shìmiànshàng chūshòu de chāo róuruǎn wèishēngzhǐ dàduō láizì Yuánshǐsēnlín, zài jiāshàng zhǐjiāng zhìzào guòchéng huì shǐyòng dàliàng de huàxuéyàopǐn, rénmen ruò jīngcháng shǐyòng zhè lèi wèishēngzhǐ, dé fùchū hěndà de huánjìng chéngběn."
+    },
+    {
+     "zh": "其實在歐洲及拉丁美洲，有不少廠商會以回收木材來製造衛生紙，但許多人仍認為用回收品做出的衛生紙品質差、硬如紙板、難以使用，甚至會損傷肌膚，其實這是一種迷思。",
+     "py": "Qíshí zài Ōuzhōu jí Lādīngměizhōu, yǒu bùshǎo chǎngshānghuì yǐ huíshōu mùcái lái zhìzào wèishēngzhǐ, dàn xǔduō rén réng rènwéi yòng huíshōu pǐn zuòchū de wèishēngzhǐ pǐnzhì chà, yìngrú zhǐbǎn, nányǐshǐyòng, shènzhì huì sǔnshāng jīfū, qíshí zhè shì yìzhǒng mísī."
+    },
+    {
+     "zh": "綠色和平組織已發出文宣來抵制紙業公司所宣傳的超柔軟衛生紙，呼籲人們重視衛生紙產品的選擇，畢竟，人們每次使用衛生紙的時間可能只有三秒鐘，實在沒有必要為了所謂的舒適感而犧牲珍貴的生態環境。",
+     "py": "Lǜsè Hépíng zǔzhī yǐ fāchū Wénxuānlái dǐzhì zhǐyègōngsī suǒ xuānchuán de chāo róuruǎn wèishēngzhǐ, hūyù rénmen zhòngshì wèishēngzhǐ chǎnpǐn de xuǎnzé, bìjìng, rénmen měicì shǐyòng wèishēngzhǐ de shíjiān kěnéng zhǐyǒu sānmiǎozhōng, shízài méiyǒu bìyào wèile suǒwèi de Shūshìgǎn ér xīshēng zhēnguì de shēngtàihuánjìng."
+    }
+   ],
    "stem": {
     "zh": "作者建議消費者在購買衛生紙時，考量哪個因素？",
     "py": "Zuòzhě jiànyì xiāofèizhě zài gòumǎi wèishēngzhǐ shí, kǎoliáng nǎ ge yīnsù?"
@@ -626,6 +656,76 @@
    }
   },
   "24": {
+   "passage": [
+    {
+     "zh": "（四）",
+     "py": "(Sì)"
+    },
+    {
+     "zh": "自兩億多年前的侏儸紀之初，體型巨大就是陸生動物的普遍特點。",
+     "py": "Zì liǎngyìduōnián qián de zhū luó Jìzhīchū, tǐxíng jùdà jiùshì lùshēngdòngwù de pǔbiàn tèdiǎn."
+    },
+    {
+     "zh": "動物為什麼要長成巨無霸呢？",
+     "py": "Dòngwù wèishénme yào zhǎngchéng Jùwúbà ne?"
+    },
+    {
+     "zh": "有些理由是顯而易見的：身軀愈大愈不易被獵殺，而且還利於撲殺獵物。",
+     "py": "Yǒuxiē lǐyóu shì xiǎnéryìjiàn de: Shēnqū yùdàyù búyì bèi lièshā, érqiě hái lìyú pūshā lièwù."
+    },
+    {
+     "zh": "例如羚羊很容易淪為獅子、土狼和獵犬的獵物；",
+     "py": "Lìrú língyáng hěn róngyì lúnwèi shīzi, tǔláng hé lièquǎn de lièwù;"
+    },
+    {
+     "zh": "但成象及犀牛則幾乎不受威脅，牠們的子女也因父母體型巨大而得到保護。",
+     "py": "Dàn chéngxiàng jí xīniú zé jīhū bù shòu wēixié, tā men de zǐnǚ yě yīn fùmǔ tǐxíng jùdà ér dédào bǎohù."
+    },
+    {
+     "zh": "對草食動物來說，長得巨大表示「高人一等」，可以吃到更高處的樹葉。",
+     "py": "Duì cǎoshídòngwù láishuō, zhǎng dé jùdà biǎoshì “Gāorényìděng”, kěyǐ chīdào gèng gāochù de shùyè."
+    },
+    {
+     "zh": "長頸鹿及大象就有長到五公尺高的，而大象尚可利用龐大的身軀推倒高樹。",
+     "py": "Chángjǐnglù jí dàxiàng jiù yǒu zhǎng dào wǔ gōngchǐ gāo de, ér dàxiàng shàngkě lìyòng pángdà de shēnqū tuīdào gāoshù."
+    },
+    {
+     "zh": "其他重要卻不明顯的理由有：運動消耗的能量會隨體型增大而減少，故一隻五公噸重的大象走一公里路所消耗的能量，比一群總重五公噸的瞪羚走同樣路程要少很多。",
+     "py": "Qítā zhòngyào què bù míngxiǎn de lǐyóu yǒu: Yùndòng xiāohào de néngliàng huì suí tǐxíng zēngdà ér jiǎnshǎo, gù yìzhī wǔ gōngdūn zhòng de dàxiàng zǒu yī gōnglǐ lù suǒ xiāohào de néngliàng, bǐ yìqún zǒng zhòngwǔ gōngdūn de dèng língzǒu tóngyàng lùchéng yào shǎo hěnduō."
+    },
+    {
+     "zh": "此外，新陳代謝率也會隨體型增大而降低。",
+     "py": "Cǐwài, xīnchéndàixiè lǜ yě huì suí tǐxíng zēngdà ér jiàngdī."
+    },
+    {
+     "zh": "這就是為什麼鼩鼱每天都得吞入超過其體重的食物，而大象只需吃進占體重 5％的食物便足矣。",
+     "py": "Zhè jiùshì wèishénme qú jīng měitiān dōu dé tūnrù chāoguò qí tǐzhòng de shíwù, ér dàxiàng zhǐ xū chī jìnzhàn tǐzhòng 5 ％ de shíwù biàn zúyǐ."
+    },
+    {
+     "zh": "不僅如此，龐大的身體也具有像隔熱板一樣的保溫作用，讓動物不受環境劇烈溫差的影響。",
+     "py": "Bùjǐnrúcǐ, pángdà de shēntǐ yě jùyǒu xiàng gérèbǎn yíyàng de bǎowēn zuòyòng, ràng dòngwù bù shòu huánjìng jùliè wēnchà de yǐngxiǎng."
+    },
+    {
+     "zh": "不過，長得巨大也是有害處的。",
+     "py": "Búguò, zhǎng dé jùdà yě shì yǒu hàichù de."
+    },
+    {
+     "zh": "因為大的動物吃得多，其總數自然有限。",
+     "py": "Yīnwèi dà de dòngwù chī dé duō, qí zǒngshù zìrán yǒuxiàn."
+    },
+    {
+     "zh": "非洲的大象及犀牛數目，在人類獵捕之前也不過是以百萬計；",
+     "py": "Fēizhōu de dàxiàng jí xīniú shùmù, zài rénlèi lièbǔ zhīqián yě búguò shì yǐ bǎiwànjì;"
+    },
+    {
+     "zh": "相對地，齧齒類動物的數量則不知有幾十億。",
+     "py": "Xiāngduì dì, nièchǐlèidòngwù de shùliàng zé bùzhī yǒu jǐshíyì."
+    },
+    {
+     "zh": "此外，小動物鑽地洞、上樹、飛天等動作，龐然大物也很難望其項背。",
+     "py": "Cǐwài, xiǎo dòngwù zuān dìdòng, shàng shù, fēitiān děng dòngzuò, pángrándàwù yě hěn nán wàngqíxiàngbèi."
+    }
+   ],
    "stem": {
     "zh": "第一段提到下面哪一件事？",
     "py": "Dìyíduàn tídào xiàmiàn nǎ yíjiàn shì?"
@@ -722,6 +822,48 @@
    }
   },
   "28": {
+   "passage": [
+    {
+     "zh": "（五）",
+     "py": "(Wǔ)"
+    },
+    {
+     "zh": "企業在發展過程中，是獨立研發產品比較好？",
+     "py": "Qǐyè zài fāzhǎn guòchéng zhōng, shì dúlì yánfā chǎnpǐn bǐjiào hǎo?"
+    },
+    {
+     "zh": "還是和其他企業聯手開發比較好呢？",
+     "py": "Háishì hé qítā qǐyè liánshǒu kāifā bǐjiào hǎo ne?"
+    },
+    {
+     "zh": "根據愛薩得商學院的報告，答案主要取決於產品本身的複雜度。",
+     "py": "Gēnjù Àisàdé Shāngxuéyuàn de bàogào, dáàn zhǔyào qǔjuéyú chǎnpǐn běnshēn de fùzádù."
+    },
+    {
+     "zh": "報告指出，複雜度很高或很低的產品，較不適合與他人合作；",
+     "py": "Bàogào zhǐchū, fùzádù hěn gāo huò hěndī de chǎnpǐn, jiào bù shìhé yǔ tārén hézuò;"
+    },
+    {
+     "zh": "但是複雜度居中的產品，如果與其他企業聯手，可能會比公司本身單打獨鬥來得好。",
+     "py": "Dànshì fùzádù jūzhōng de chǎnpǐn, rúguǒ yǔ qítā qǐyè liánshǒu, kěnéng huì bǐ gōngsī běnshēn dāndǎdúdòu láide hǎo."
+    },
+    {
+     "zh": "這是因為在開發簡單的產品時，公司本身就能找出最佳的設計方向或是解決技術問題，考慮和其他企業合夥根本是多此一舉；",
+     "py": "Zhè shìyīnwèi zài kāifā jiǎndān de chǎnpǐn shí, gōngsī běnshēn jiù néng zhǎochū zuìjiā de shèjì fāngxiàng huòshì jiějué jìshù wèntí, kǎolǜ hé qítā qǐyè héhuǒ gēnběn shì duōcǐyìjǔ;"
+    },
+    {
+     "zh": "而開發複雜度高的產品，如果和同業合作，可能由於細節繁多，理念差異過大，在研發或行銷過程中經常產生歧見，反而大幅降低效率。",
+     "py": "Ér kāifā fùzádù gāo de chǎnpǐn, rúguǒ hé tóngyè hézuò, kěnéng yóuyú xìjié fánduō, lǐniàn chāyì guò dà, zài yánfā huò xíngxiāo guòchéng zhōng jīngcháng chǎnshēng qíjiàn, fǎnér dàfú jiàngdī xiàolǜ."
+    },
+    {
+     "zh": "至於像個人電腦這一類複雜度居中的產品，尋求合作的伙伴往往比閉門造車來得好。",
+     "py": "Zhìyú xiàng gèréndiànnǎo zhè yílèi fùzádù jūzhōng de chǎnpǐn, xúnqiú hézuò de huǒbàn wǎngwǎng bǐ bìménzàochē láide hǎo."
+    },
+    {
+     "zh": "報告指出，在開發這一類產品時，儘管過程中的爭辯、歧見不可避免，但是多聽聽合作伙伴提出的構想，有利於刺激靈感、分享創意，還可以一起進行市場調查、快速掌握消費動向，好處遠遠超過意見不合所產生的負面效應。",
+     "py": "Bàogào zhǐchū, zài kāifā zhè yílèi chǎnpǐn shí, jǐnguǎn guòchéng zhōng de zhēngbiàn, qíjiàn bùkěbìmiǎn, dànshì duō tīngtīng hézuòhuǒbàn tíchū de gòuxiǎng, yǒulìyú cìjī línggǎn, fēnxiǎng chuàngyì, hái kěyǐ yìqǐ jìnxíng shìchǎng diàochá, kuàisù zhǎngwò xiāofèi dòngxiàng, hǎochù yuǎnyuǎn chāoguò yìjiàn bùhé suǒ chǎnshēng de fùmiànxiàoyìng."
+    }
+   ],
    "stem": {
     "zh": "第一段主要在說什麼？",
     "py": "Dìyíduàn zhǔyào zài shuō shénme?"
@@ -818,6 +960,52 @@
    }
   },
   "32": {
+   "passage": [
+    {
+     "zh": "（六）",
+     "py": "(Liù)"
+    },
+    {
+     "zh": "自行車重心高、輪胎窄、平衡不易、煞車難，其實是很危險的交通工具。",
+     "py": "Zìxíngchē zhòngxīn gāo, lúntāi zhǎi, pínghéng búyì, shāchē nán, qíshí shì hěn wēixiǎn de jiāotōnggōngjù."
+    },
+    {
+     "zh": "幸好單車靠人力踩踏而前進，一般人要踩出三十公里以上的時速已不容易，要持續高速騎乘更困難，所以單車還算安全。",
+     "py": "Xìnghǎo dānchē kào rénlì cǎità ér qiánjìn, yìbān rén yào cǎichū sānshígōnglǐ yǐshàng de shísù yǐ bù róngyì, yào chíxù gāosù qíchéng gèng kùnnán, suǒyǐ dānchē hái suàn ānquán."
+    },
+    {
+     "zh": "變速器的發明，讓踩踏更有效率，也讓人可以騎得更快，爬得更高。",
+     "py": "Biànsùqì de fāmíng, ràng cǎità gèng yǒuxiàolǜ, yě ràng rén kěyǐ qí dé gèngkuài, pá dé gèng gāo."
+    },
+    {
+     "zh": "但是這麼一來，問題就大了。",
+     "py": "Dànshì zhèmeyìlái, wèntí jiù dà le."
+    },
+    {
+     "zh": "因為下坡的時候，自行車的速度可以直逼汽、機車，可是它的先天條件其實並不適合高速騎乘。",
+     "py": "Yīnwèi Xiàpō de shíhòu, zìxíngchē de sùdù kěyǐ zhíbī qì, jīchē, kěshì tā de xiāntiān tiáojiàn qíshí bìng bù shìhé gāosù qíchéng."
+    },
+    {
+     "zh": "轉彎時，一旦減速不及，很容易會因為重心不穩而打滑，不是翻落山崖，就是衝向對向車道，結果當然非死即傷。",
+     "py": "Zhuǎnwān shí, yídàn jiǎnsù bùjí, hěn róngyì huì yīnwèi zhòngxīn bùwěn ér dǎhuá, búshì fānluò Shānyá, jiùshì chōngxiàng duì xiàng chēdào, jiéguǒ dāngrán fēisǐjíshāng."
+    },
+    {
+     "zh": "I 這些年來，單車越做越輕，輪胎越變越窄，胎面越來越趨於平滑。",
+     "py": "I zhèxiēniánlái, dānchē yuèzuòyuè qīng, lúntāi yuè biàn yuè zhǎi, tāimiàn yuèláiyuè qūyú pínghuá."
+    },
+    {
+     "zh": "II 照理說，以休閒為目的的一般民眾不需追逐這種競速車，遺憾的是，這偏偏是目前台灣單車市場的主流。",
+     "py": "II zhàolǐshuō, yǐ xiūxián wèi mùdì de yìbān mínzhòng bù xū zhuīzhú zhèzhǒng jìngsù chē, yíhàn de shì, zhè piānpiān shì mùqián Táiwān dānchē shìchǎng de zhǔliú."
+    },
+    {
+     "zh": "III 大家都想比輕、比快，車廠更是樂於提供各式裝備、車型供消費者選擇，想藉此從中大撈一筆。",
+     "py": "III dàjiā dōu xiǎng bǐqīng, bǐkuài, chēchǎng gèngshì lèyú tígōng gèshì zhuāngbèi, chēxíng gōng xiāofèizhě xuǎnzé, xiǎng jiècǐ cóngzhōng dà lāo yìbǐ."
+    },
+    {
+     "zh": "IV",
+     "py": "IV"
+    }
+   ],
    "stem": {
     "zh": "根據第一段，作者認為騎單車的安全性在哪裡？",
     "py": "Gēnjù dìyíduàn, zuòzhě rènwéi qídānchē de Ānquánxìng zài nǎlǐ?"
@@ -896,6 +1084,72 @@
    }
   },
   "36": {
+   "passage": [
+    {
+     "zh": "（七）",
+     "py": "(Qī)"
+    },
+    {
+     "zh": "我常想，住豪宅或是升職、加薪，真能讓人快樂嗎？",
+     "py": "Wǒ cháng xiǎng, zhù háozhái huòshì shēngzhí, Jiāxīn, zhēn néng ràng rén kuàilè ma?"
+    },
+    {
+     "zh": "讀完鮑教授新作《祝你今年快樂》後，便發覺那都只能算是一閃即逝的喜悅，並非真實而長久。",
+     "py": "Dúwán Bào jiàoshòu xīnzuò «Zhù nǐ jīnnián kuàilè» hòu, biàn fājué nà dōu zhǐnéng suànshì yìshǎnjíshì de xǐyuè, bìngfēi zhēnshí ér chángjiǔ."
+    },
+    {
+     "zh": "誠如書中所言：「快樂是一種遍布在生命之中，滿足和幸福的感受，而喜悅則像煙火，稍縱即逝。」",
+     "py": "Chéngrú shū zhōng suǒ yán: “Kuàilè shì yìzhǒng biànbù zài shēngmìng zhīzhōng, mǎnzú hé xìngfú de gǎnshòu, ér xǐyuè zé xiàng yānhuǒ, shāozòngjíshì.”"
+    },
+    {
+     "zh": "或許你認為這道理誰都懂，然想遠比做容易。",
+     "py": "Huòxǔ nǐ rènwéi zhè dàolǐ shuí dōu dǒng, rán xiǎng yuǎn bǐzuò róngyì."
+    },
+    {
+     "zh": "這本書告訴我們兩件事：快樂是需要練習的；",
+     "py": "Zhè běnshū gàosù wǒmen liǎngjiànshì: Kuàilè shì xūyào liànxí de;"
+    },
+    {
+     "zh": "再則，追兔子的狗，比躺在門廊上睡覺的狗更快樂！",
+     "py": "Zàizé, zhuī tùzi de gǒu, bǐ tǎng zài ménláng shàng shuìjiào de gǒu gèng kuàilè!"
+    },
+    {
+     "zh": "這原理並非為捉到兔子能令人快樂，而是當我們為突破挑戰與困境而忙碌時，往往能從中發現自己的才能，找出更多存在的價值。",
+     "py": "Zhè yuánlǐ bìngfēi wèi zhuōdào tùzi néng Lìngrén kuàilè, érshì dāng wǒmen wèi tūpò tiǎozhàn yǔ kùnjìng ér mánglù shí, wǎngwǎng néng cóngzhōng fāxiànzìjǐ de cáinéng, zhǎochū gèng duō cúnzài de jiàzhí."
+    },
+    {
+     "zh": "這也說明了為何許多不需要克服難題的有錢人，其實並不快樂。",
+     "py": "Zhè yě shuōmíng le wèihé xǔduō bù xūyào kèfú nántí de yǒuqiánrén, qíshí bìng bù kuàilè."
+    },
+    {
+     "zh": "這讓我想起《國家科學院期刊》一項調查結果，他們發現 50％的快樂，由快樂的設定點決定，生活條件只佔 10％，剩下的 40％則取決於行動。",
+     "py": "Zhè ràng wǒ xiǎngqǐ «Guójiā kēxuéyuàn qīkān» yíxiàng diàochájiéguǒ, tāmen fāxiàn 50 ％ de kuàilè, yóu kuàilè de shèdìng diǎn juédìng, shēnghuó tiáojiàn zhǐ zhàn 10 ％, shèngxià de 40 ％ zé qǔjuéyú xíngdòng."
+    },
+    {
+     "zh": "換言之，快樂是由思維主導的。",
+     "py": "Huànyánzhī, kuàilè shì yóu sīwéi zhǔdǎo de."
+    },
+    {
+     "zh": "鮑教授也在書中舉例，大腦重僅 1.35 公斤，佔人體的比重很小，卻指引全身動作，進而導引人生的發展。",
+     "py": "Bào jiàoshòu yě zài shū zhōng jǔlì, dànǎo zhòngjǐn 1.35 gōngjīn, zhàn réntǐ de bǐzhòng hěnxiǎo, què zhǐyǐn quánshēn dòngzuò, jìnér dǎoyǐn rénshēng de fāzhǎn."
+    },
+    {
+     "zh": "就像體重數十公斤的飛行員，卻要駕駛重達數十萬公斤的飛機，飛機雖沉重、力量強大，但只按飛行員導引的方向飛行。",
+     "py": "Jiù xiàng tǐzhòng shùshí gōngjīn de fēixíngyuán, què yào jiàshǐ zhòngdá shùshíwàn gōngjīn de fēijī, fēijī suī chénzhòng, Lìliàngqiángdà, dàn zhǐ àn fēixíngyuán dǎoyǐn de fāngxiàng fēixíng."
+    },
+    {
+     "zh": "最近我依著鮑教授的建議，開始練習微笑，心中同時想著「我很快樂」，也似乎真找出了環境或生活中讓自己快樂的事，看來此法確實值得大家一試。",
+     "py": "Zuìjìn wǒ yīzhù Bào jiàoshòu de jiànyì, kāishǐ liànxí wēixiào, xīnzhōng tóngshí xiǎngzhù “Wǒ hěn kuàilè”, yě sìhū zhēn zhǎochū le huánjìng huò shēnghuó zhōng ràng zìjǐ kuàilè de shì, kànlái cǐfǎ quèshí zhíde dàjiā yī shì."
+    },
+    {
+     "zh": "不過據我的實作經驗顯示，有件事得注意，就是千萬別說出「我想要快樂」。",
+     "py": "Búguò jù wǒ de shízuò jīngyàn xiǎnshì, yǒujiànshì dé zhùyì, jiùshì qiānwàn biéshuōchū “Wǒ xiǎngyào kuàilè”."
+    },
+    {
+     "zh": "一旦你這麼說，等於承認自己是在不快樂的狀態之下，反而容易弄巧成拙。",
+     "py": "Yídàn nǐ zhème shuō, děngyú chéngrèn zìjǐ shì zài bù kuàilè de zhuàngtài zhīxià, fǎnér róngyì nòngqiǎochéngzhuō."
+    }
+   ],
    "stem": {
     "zh": "作者在第一段中的「那」，指的是什麼？",
     "py": "Zuòzhě zài dìyíduàn zhōng de “Nà”, zhǐ de shì shénme?"
@@ -992,6 +1246,68 @@
    }
   },
   "40": {
+   "passage": [
+    {
+     "zh": "（八）",
+     "py": "(Bā)"
+    },
+    {
+     "zh": "2008 年的斯德哥爾摩水資源獎，頒給了提出「虛擬水」概念的東尼艾倫教授。",
+     "py": "2008 nián de Sīdégēěrmó shuǐzīyuán jiǎng, bāngěi le tíchū “Xūnǐ shuǐ” gàiniàn de Dōngní Àilún jiàoshòu."
+    },
+    {
+     "zh": "所謂的「虛擬水」，是指食品或消費品在生產及銷售過程中所需要的用水量。",
+     "py": "Suǒwèi de “Xūnǐ shuǐ”, shì zhǐ shípǐn huò xiāofèipǐn zài shēngchǎn jí xiāoshòu guòchéng zhōng suǒ xūyào de yòngshuǐliàng."
+    },
+    {
+     "zh": "這概念指出，人們不僅在飲用和淋浴時需要水，在消費其他產品時也會消耗大量的水。",
+     "py": "Zhè gàiniàn zhǐchū, rénmen bùjǐn zài yǐnyòng hé línyù shí xūyào shuǐ, zài xiāofèi qítā chǎnpǐn shí yě huì xiāohào dàliàng de shuǐ."
+    },
+    {
+     "zh": "例如，一杯咖啡在種植、生產、包裝和運輸的過程中，得消耗 140 升的水，這相當於一個英國人平均每天飲用和家庭生活的用水量。",
+     "py": "Lìrú, yìbēi kāfēi zài zhòngzhí, shēngchǎn, bāozhuāng hé yùnshū de guòchéng zhōng, dé xiāohào 140 shēng de shuǐ, zhè xiāngdāngyú yí ge Yīngguórén píngjūn měitiān yǐnyòng hé jiātíng shēnghuó de yòngshuǐliàng."
+    },
+    {
+     "zh": "「虛擬水」的概念進一步說明了「虛擬水」的交易模式，這對全球的貿易政策及水資源利用產生了重大影響。",
+     "py": "“Xūnǐ shuǐ” de gàiniàn jìnyíbù shuōmíng le “Xūnǐ shuǐ” de jiāoyì móshì, zhè duì quánqiú de màoyì zhèngcè jí shuǐzīyuán lìyòng chǎnshēng le zhòngdà yǐngxiǎng."
+    },
+    {
+     "zh": "這項理論指出，氣候潮濕地區的農業，多半會利用廉價的自然降雨，而非成本高昂的灌溉系統，因此能大幅降低農業的生產成本。",
+     "py": "Zhèxiàng lǐlùn zhǐchū, qìhòu cháoshī dìqū de nóngyè, duōbànhuì lìyòng liánjià de zìrán jiàngyǔ, ér fēi chéngběn Gāoáng de guàngàixìtǒng, yīncǐ néng dàfú jiàngdī nóngyè de shēngchǎnchéngběn."
+    },
+    {
+     "zh": "這些地區可以通過農作物，將水資源「出口」到較為炎熱乾旱的國家。",
+     "py": "Zhèxiē dìqū kěyǐ tōngguò nóngzuòwù, jiāng shuǐzīyuán “Chūkǒu” dào jiàowéi yánrè gānhàn de guójiā."
+    },
+    {
+     "zh": "而氣候向來乾旱的國家，則可以「進口」需水量很大的農作物，紓緩國內水資源不足的壓力。",
+     "py": "Ér qìhòu xiànglái gānhàn de guójiā, zé kěyǐ “Jìnkǒu” xūshuǐliàng hěndà de nóngzuòwù, shū huǎn guónèi shuǐzīyuán bùzú de yālì."
+    },
+    {
+     "zh": "儘管檯面上的交易只看得到農產品，實際上卻包括了水資源的交換。",
+     "py": "Jǐnguǎn tái miànshàng de jiāoyì zhǐ kàn dédào nóngchǎnpǐn, shíjìshàng què bāokuò le shuǐzīyuán de jiāohuàn."
+    },
+    {
+     "zh": "舉例來說，在埃及，已經有越來越多的傳統食品是由進口糧食所製造的，反而不是尼羅河所灌溉種植的小麥。",
+     "py": "Jǔlìláishuō, zài Āijí, yǐjīng yǒu yuèláiyuè duō de chuántǒng shípǐn shì yóu jìnkǒu liángshí suǒ zhìzào de, fǎnér búshì Níluóhé suǒ guàngài zhòngzhí de xiǎomài."
+    },
+    {
+     "zh": "如果埃及堅持所有的穀物都由自己種植，很快就會面臨水資源不足的窘境。",
+     "py": "Rúguǒ Āijí jiānchí suǒyǒu de gǔwù dōu yóu zìjǐ zhòngzhí, hěnkuài jiù huì miànlín shuǐzīyuán bùzú de jiǒngjìng."
+    },
+    {
+     "zh": "世界水資源週所提出的報告也使用了這一個概念，指出當前世界性的糧食危機在於過於浪費，而非生產不足。",
+     "py": "Shìjiè shuǐzīyuán Zhōu suǒ tíchū de bàogào yě shǐyòng le zhè yí ge gàiniàn, zhǐchū dāngqián shìjièxìng de liángshí wēijī zàiyú guòyú làngfèi, ér fēishēngchǎn bùzú."
+    },
+    {
+     "zh": "因為一份糧食從生產、加工、運輸、儲存、販賣以至於烹煮，每一環節都要消耗水資源，要是消費者丟棄買回來的食物，也意味著浪費了生長、運送、貯存過程中所使用的水。",
+     "py": "Yīnwèi yífèn liángshí cóng shēngchǎn, jiāgōng, yùnshū, chǔcún, fànmài yǐzhìyú pēngzhǔ, měiyī huánjié dōu yào xiāohào shuǐzīyuán, yàoshì xiāofèizhě diūqì mǎihuílái de shíwù, yě yìwèizhù làngfèi le shēngzhǎng, yùnsòng, zhùcún guòchéng zhōng suǒ shǐyòng de shuǐ."
+    },
+    {
+     "zh": "專家表示，唯有避免浪費食物，才能有效落實節水政策。",
+     "py": "Zhuānjiā biǎoshì, wéiyǒu bìmiǎnlàngfèi shíwù, cáinéng yǒuxiào luòshí jiéshuǐ zhèngcè."
+    }
+   ],
    "stem": {
     "zh": "根據第一段，虛擬水這個概念主要在說明什麼？",
     "py": "Gēnjù dìyíduàn, xūnǐ shuǐ zhè ge gàiniàn zhǔyào zài shuōmíng shénme?"

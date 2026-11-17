@@ -1,6 +1,6 @@
 {
  "testId": "c-r4",
- "segments": 253,
+ "segments": 345,
  "englishComplete": false,
  "questions": {
   "1": {
@@ -578,6 +578,72 @@
    }
   },
   "23": {
+   "passage": [
+    {
+     "zh": "（三）",
+     "py": "(Sān)"
+    },
+    {
+     "zh": "定期保養和簡易維修引擎機油在每次騎乘機車前，應檢查引擎機油量以及機油是否洩漏。",
+     "py": "Dìngqī bǎoyǎng hé jiǎnyì wéixiū yǐnqíng jīyóu zài měicì qíchéng jīchē qián, yīng jiǎnchá yǐnqíng jīyóu liàng yǐjí jīyóu shìfǒu xièlòu."
+    },
+    {
+     "zh": "若發現任何漏油跡象，請回本廠檢查。",
+     "py": "Ruò fāxiàn rènhé lòuyóu jìxiàng, qǐng huí běnchǎng jiǎnchá."
+    },
+    {
+     "zh": "當機油更換指示器亮燈閃爍時，應更換引擎機油和清潔機油濾網。",
+     "py": "Dāng jīyóu gēnghuàn zhǐshìqì liàngdēng shǎnshuò shí, yīng gēnghuàn yǐnqíng jīyóu hé qīngjié jīyóu Lǜwǎng."
+    },
+    {
+     "zh": "檢查引擎機油量1. 請使用主支架駐車。",
+     "py": "Jiǎnchá yǐnqíng jīyóu liàng 1. Qǐng shǐyòng zhǔ zhījià zhùchē."
+    },
+    {
+     "zh": "傾斜的車 4. 若引擎機油低於下限，則添加",
+     "py": "Qīngxié de chē 4. Ruò yǐnqíng jīyóu dīyú xiàxiàn, zé tiānjiā"
+    },
+    {
+     "zh": "身會導致誤判。建議使用的機油至正確的高2. 啟動引擎，怠速運轉暖車 2～3 度。",
+     "py": "Shēnhuì dǎozhì wùpàn. Jiànyì shǐyòng de jīyóu zhì zhèngquè de gāo 2. Qǐdòng yǐnqíng, dài sù yùnzhuàn nuǎn chē 2~ 3 dù."
+    },
+    {
+     "zh": "分鐘後熄火。",
+     "py": "Fēnzhōng hòu xīhuǒ."
+    },
+    {
+     "zh": "5. 檢查機油加油蓋的護油圈是3. 等待 2、3 分鐘讓機油沉澱，否完好，必要時更換新品。",
+     "py": "5. Jiǎnchá jīyóu jiāyóu gài de hùyóuquān shì 3. Děngdài 2, 3 fēnzhōng ràng jīyóu chéndiàn, fǒu wánhǎo, bìyào shí gēnghuàn xīnpǐn."
+    },
+    {
+     "zh": "接著逆時針方向旋轉取出機油 6. 檢查完畢，將量油尺插回機油",
+     "py": "Jiēzhù nìshízhēn fāngxiàng xuánzhuǎn qǔchū jīyóu 6. Jiǎnchá wánbì, jiāng liàngyóuchǐ chāhuí jīyóu"
+    },
+    {
+     "zh": "加油蓋，將加油蓋上的油尺擦加油口，然後順時針方向旋轉",
+     "py": "Jiāyóu gài, jiāng jiāyóu gài shàng de yóuchǐ cā jiāyóu kǒu, ránhòu shùnshízhēn fāngxiàng xuánzhuǎn"
+    },
+    {
+     "zh": "拭乾淨，再插回機油加油口（不鎖緊機油加油蓋。",
+     "py": "Shì gānjìng, zài chāhuí jīyóu jiāyóu kǒu (Bù suǒjǐn jīyóu jiāyóu gài."
+    },
+    {
+     "zh": "可旋入）。將加油蓋取出，再次",
+     "py": "Kě xuánrù). Jiāng jiāyóu gài qǔchū, zàicì"
+    },
+    {
+     "zh": "檢查量油尺上的機油量。",
+     "py": "Jiǎnchá liàngyóuchǐ shàng de jīyóu liàng."
+    },
+    {
+     "zh": "註：騎乘中的機車引擎已充分暖車，即不需再暖車。",
+     "py": "Zhù: Qíchéng zhōng de jīchē yǐnqíng yǐ chōngfèn nuǎn chē, jí bù xū zài nuǎn chē."
+    },
+    {
+     "zh": "引擎機油量應介於上限與下限之間。",
+     "py": "Yǐnqíng jīyóu liàng yīng jièyú shàngxiàn yǔ xiàxiàn zhījiān."
+    }
+   ],
    "stem": {
     "zh": "在這則說明中，提到什麼時候要換引擎機油？",
     "py": "Zài zhè zé shuōmíng zhōng, tídào shénme shíhòu yàohuàn yǐnqíng jīyóu?"
@@ -650,6 +716,72 @@
    }
   },
   "26": {
+   "passage": [
+    {
+     "zh": "（四）",
+     "py": "(Sì)"
+    },
+    {
+     "zh": "「花間一壺酒，獨酌無相親」，這兩句詩表達出李白的心情。",
+     "py": "“Huājiān yìhújiǔ, dúzhuó wú xiāngqīn”, zhè liǎngjùshī biǎodá chū Lǐbái de xīnqíng."
+    },
+    {
+     "zh": "他在奼紫嫣紅的花叢間，擺上一壺酒。",
+     "py": "Tā zài chàzǐyānhóng de huācóng jiān, bǎi shàng yìhújiǔ."
+    },
+    {
+     "zh": "在醺然的狀態下，邀了天上的明月一起對飲。",
+     "py": "Zài xūn rán de zhuàngtài xià, yāo le tiānshàng de míngyuè yìqǐ duìyǐn."
+    },
+    {
+     "zh": "這樣的良辰美景，應該是三五好友，知心共享的時刻，李白卻只能喟嘆。",
+     "py": "Zhèyàng de liángchénměijǐng, yīnggāi shì sānwǔ hǎoyǒu, zhīxīn gòngxiǎng de shíkè, Lǐbái què zhǐnéng kuìtàn."
+    },
+    {
+     "zh": "月亮、李白與李白的影子，對影成三人。",
+     "py": "Yuèliàng, Lǐbái yǔ Lǐbái de yǐngzi, duì yǐngchéng sānrén."
+    },
+    {
+     "zh": "月亮不會飲酒，和自己的影子飲酒更是平添寂寞。",
+     "py": "Yuèliàng búhuì yǐnjiǔ, hé zìjǐ de yǐngzi yǐnjiǔ gèngshì Píngtiān jìmò."
+    },
+    {
+     "zh": "但是，李白終究灑脫。",
+     "py": "Dànshì, Lǐbái zhōngjiū sǎtuō."
+    },
+    {
+     "zh": "趁著春光正盛，恣意歌詠，至歡快處，手舞足蹈不也酣暢淋漓、大快人心。",
+     "py": "Chèn zhù chūnguāng zhèng shèng, zìyì gēyǒng, zhì huānkuài chù, shǒuwǔzúdǎo bù yě hānchànglínlí, dàkuàirénxīn."
+    },
+    {
+     "zh": "李白就這樣從最初的落寞，到任著自己的心情，在月下舞著、蹈著、唱著，還和白玉盤有了天際渺渺之約。",
+     "py": "Lǐbái jiù zhèyàng cóng zuìchū de luòmò, dàorèn zhù zìjǐ de xīnqíng, zài yuè xià wǔzhù, dǎozhù, chàngzhù, hái hé Báiyù pán yǒu le tiānjì miǎomiǎo zhī yuē."
+    },
+    {
+     "zh": "李白不需要走到人生的困境，才懂得駐足欣賞眼前的風景，他總是隨走隨看隨領略。",
+     "py": "Lǐbái bù xūyào zǒu dào rénshēng de kùnjìng, cái dǒngde zhùzú xīnshǎng yǎnqián de fēngjǐng, tā zǒngshì suí zǒusuí kànsuí lǐnglüè."
+    },
+    {
+     "zh": "即便孤身一人，總有艱辛，他也能將之轉化與天地同歡，而這番了悟，妙筆一揮，遂成詩裡行間的風景。",
+     "py": "Jíbiàn gūshēnyìrén, zǒng yǒu jiānxīn, tā yě néng jiāng zhī zhuǎnhuà yǔ tiāndì tónghuān, ér zhè fān le wù, miàobǐ yī huī, suì chéng shī lǐ hángjiān de fēngjǐng."
+    },
+    {
+     "zh": "在我看來，人生泰半是挫折與苦難。",
+     "py": "Zàiwǒkànlái, rénshēng Tàibàn shì cuòzhé yǔ kǔnàn."
+    },
+    {
+     "zh": "但是，若偕李白同行，每每到水窮處時，必定聽見李白放聲大歌。",
+     "py": "Dànshì, ruò xié Lǐbái tóngháng, měiměi dào shuǐ qióng chù shí, bìdìng tīngjiàn Lǐbái fàngshēng dàgē."
+    },
+    {
+     "zh": "伴著歌聲，試著將挫折烹調成一盤下酒菜。",
+     "py": "Bànzhù gēshēng, shìzhù jiāng cuòzhé pēngtiáo chéng yìpán xiàjiǔcài."
+    },
+    {
+     "zh": "咀嚼於舌尖的況味，終將消化於人生的坦然。",
+     "py": "Jǔjué yú shéjiān de Kuàngwèi, zhōngjiāng xiāohuà yú rénshēng de tǎnrán."
+    }
+   ],
    "stem": {
     "zh": "「花間一壺酒，獨酌無相親」表達出李白的心情怎麼樣？",
     "py": "“Huājiān yìhújiǔ, dúzhuó wú xiāngqīn” biǎodá chū Lǐbái de xīnqíng zěnmeyàng?"
@@ -746,6 +878,52 @@
    }
   },
   "30": {
+   "passage": [
+    {
+     "zh": "（五）",
+     "py": "(Wǔ)"
+    },
+    {
+     "zh": "多數人以為，超大質量黑洞應存在於巨大星系的中心位置。",
+     "py": "Duōshù rén yǐwéi, chāodà zhìliàng Hēidòng yīng cúnzài yú jùdà xīngxì de zhōngxīn wèizhì."
+    },
+    {
+     "zh": "但日前，已有天文學家在銀河系邊緣，發現了幾十個超大質量黑洞。",
+     "py": "Dàn rìqián, yǐyǒu tiānwénxuéjiā zài yínhéxì biānyuán, fāxiàn le jǐshí ge chāodà zhìliàng Hēidòng."
+    },
+    {
+     "zh": "這些黑洞在環繞銀河系主體，由恆星和氣體構成近似於球形的「恆星暈」區域中閒逛著。",
+     "py": "Zhèxiē Hēidòng zài huánrào yínhéxì zhǔtǐ, yóu Héngxīng hé qìtǐ gòuchéng jìnsìyú qiúxíng de “Héngxīng yūn” qūyù zhōng xiánguàng zhù."
+    },
+    {
+     "zh": "天文學家認為，黑洞之所以存在於宿主星系邊緣的現象，是來自星系合併的結果，這現象經常發生在一個不斷膨脹的宇宙中。",
+     "py": "Tiānwénxuéjiā rènwéi, Hēidòng zhīsuǒyǐ cúnzài yú sùzhǔ xīngxì biānyuán de xiànxiàng, shì láizì xīngxì hébìng de jiéguǒ, zhè xiànxiàng jīngcháng fāshēng zài yí ge búduàn péngzhàng de yǔzhòu zhōng."
+    },
+    {
+     "zh": "當一個較小的星系融入一個更大的主星系時，它會把自己中央的超大質量黑洞置於新的宿主星系上。",
+     "py": "Dāng yí ge jiàoxiǎo de xīngxì róngrù yí ge gèng dà de zhǔ xīngxì shí, tā huì bǎ zìjǐ zhōngyāng de chāodà zhìliàng Hēidòng zhìyú xīn de sùzhǔ xīngxì shàng."
+    },
+    {
+     "zh": "《天體物理學雜誌快報》刊發的研究報告進一步預測，與銀河系具有相近質量的星系，應該包含著不只一個超大質量的黑洞。",
+     "py": "«Tiāntǐ wùlǐxué zázhì kuàibào» kānfā de yánjiū bàogào jìnyíbù yùcè, yǔ yínhéxì jùyǒu xiāngjìn zhìliàng de xīngxì, yīnggāi bāohán zhù bù zhǐ yí ge chāodà zhìliàng de Hēidòng."
+    },
+    {
+     "zh": "該報告的研究員表示，由於工具的限制，想直接論斷黑洞的存在是不可能的。",
+     "py": "Gāi bàogào de yánjiūyuán biǎoshì, yóuyú gōngjù de xiànzhì, xiǎng zhíjiē lùnduàn Hēidòng de cúnzài shì bù kěnéng de."
+    },
+    {
+     "zh": "即使想間接推斷它們是否存在，也必須要有更好的方法與手段才行。",
+     "py": "Jíshǐ xiǎng jiànjiē tuīduàn tāmen shìfǒu cúnzài, yě bìxū yào yǒu gènghǎo de fāngfǎ yǔ shǒuduàn cái xíng."
+    },
+    {
+     "zh": "因為，每 1000 億年左右，才能與影響太陽系的漫遊黑洞近距離接觸，從人類角度來看，其生發頻率極低；",
+     "py": "Yīnwèi, měi 1000 yìnián zuǒyòu, cáinéng yǔ yǐngxiǎng tàiyángxì de mànyóu Hēidòng jìnjùlí jiēchù, cóng rénlèi jiǎodù láikàn, qí shēngfà pínlǜ jí dī;"
+    },
+    {
+     "zh": "再加上，因為預測漫遊的超大質量黑洞位於離星系中心很遠且處於星系盤之外的地方，所以它們不太可能吸收增加更多的氣體，來膨脹規模，讓人類發現它們。",
+     "py": "Zài jiāshàng, yīnwèi yùcè mànyóu de chāodà zhìliàng Hēidòng wèiyú lí xīngxì zhōngxīn hěnyuǎn qiě chǔyú xīngxì pán zhīwài de dìfāng, suǒyǐ tāmen bútàikěnéng xīshōu zēngjiā gèngduō de qìtǐ, lái péngzhàng guīmó, ràng rénlèi fāxiàn tāmen."
+    }
+   ],
    "stem": {
     "zh": "根據本文，關於「超大質量黑洞」描述，下列何者正確？",
     "py": "Gēnjù běnwén, guānyú “Chāodà zhìliàng Hēidòng” miáoshù, xiàliè hézhě zhèngquè?"
@@ -842,6 +1020,64 @@
    }
   },
   "34": {
+   "passage": [
+    {
+     "zh": "（六）",
+     "py": "(Liù)"
+    },
+    {
+     "zh": "美沙酮是一種合成類鴉片的藥物。",
+     "py": "Měishātóng shì yìzhǒng héchéng lèi Yāpiàn de yàowù."
+    },
+    {
+     "zh": "1970 年代起，美國和歐洲國家主張由政府提供美沙酮給吸毒者，用來替代海洛因，幫助吸毒者戒除毒癮。",
+     "py": "1970 niándài qǐ, Měiguó hé Ōuzhōu guójiā zhǔzhāng yóu zhèngfǔ tígōng Měishātóng gěi xīdúzhě, yònglái tìdài Hǎiluòyīn, bāngzhù xīdúzhě jièchú dúyǐn."
+    },
+    {
+     "zh": "由於戒除海洛因的過程非常痛苦，極難根除，美沙酮作為一個毒性較低的藥品，能幫助吸毒者在無法戒除毒癮的情況下，緩解毒癮、抗拒使用海洛因的誘惑。",
+     "py": "Yóuyú jièchú Hǎiluòyīn de guòchéng fēicháng tòngkǔ, jínán gēnchú, Měishātóng zuòwéi yí ge dúxìng jiàodī de yàopǐn, néng bāngzhù xīdúzhě zài wúfǎ jièchú dúyǐn de qíngkuàng xià, huǎnjiě dúyǐn, kàngjù shǐyòng Hǎiluòyīn de yòuhuò."
+    },
+    {
+     "zh": "美沙酮的使用時有爭議。",
+     "py": "Měishātóng de shǐyòng shí yǒu zhēngyì."
+    },
+    {
+     "zh": "台灣在九十年代初期，就有醫界人士建議政府引進美沙酮。",
+     "py": "Táiwān zài jiǔshíniándài chūqī, jiù yǒu yījiè rénshì jiànyì zhèngfǔ yǐnjìn Měishātóng."
+    },
+    {
+     "zh": "不過當時研究顯示，大多服用美沙酮的毒癮患者必須終生服用，僅有不到 5%的人可以成功擺脫對美沙酮的依賴。",
+     "py": "Búguò dāngshí yánjiū xiǎnshì, dàduō fúyòng Měishātóng de dúyǐn huànzhě bìxū zhōngshēng fúyòng, jǐn yǒu búdào 5 % de rén kěyǐ chénggōng bǎituō duì Měishātóng de yīlài."
+    },
+    {
+     "zh": "使用美沙酮似乎是以毒攻毒的疑慮，讓這項提議始終停留在紙上談兵的階段。",
+     "py": "Shǐyòng Měishātóng sìhū shì yǐdúgōngdú de yílǜ, ràng zhèxiàng tíyì shǐzhōng tíngliú zài zhǐshàngtánbīng de jiēduàn."
+    },
+    {
+     "zh": "然而隨著毒品日益氾濫，不少專家不得不重新評估，認為使用美沙酮是兩害相權取其輕的做法。",
+     "py": "Ránér suízhù dúpǐn rìyì fànlàn, bùshǎo zhuānjiā bùdébù chóngxīn pínggū, rènwéi shǐyòng Měishātóng shì liǎnghàixiāngquán qǔqíqīng de zuòfǎ."
+    },
+    {
+     "zh": "海洛因市價極高，毒癮患者經常為了籌錢購買毒品鋌而走險、到處犯案，若由政府提供美沙酮給毒癮患者，就可降低因毒品而產生的社會犯罪。",
+     "py": "Hǎiluòyīn shìjià jí gāo, dúyǐn huànzhě jīngcháng wèile chóuqián gòumǎi dúpǐn tǐngérzǒuxiǎn, dàochù fànàn, ruò yóu zhèngfǔ tígōng Měishātóng gěi dúyǐn huànzhě, jiù kě jiàngdī yīn dúpǐn ér chǎnshēng de shèhuì fànzuì."
+    },
+    {
+     "zh": "此外，自從愛滋病出現後，由於口服的美沙酮不必由靜脈注射，可以避免愛滋感染，更是不少國家反毒、抗愛滋的重要工具。",
+     "py": "Cǐwài, zìcóng àizībìng chūxiàn hòu, yóuyú kǒufú de Měishātóng búbì yóu jìngmàizhùshè, kěyǐ bìmiǎn Àizī gǎnrǎn, gèngshì bùshǎo guójiā fǎndú, kàng Àizī de zhòngyào gōngjù."
+    },
+    {
+     "zh": "專家表示，使用美沙酮來治療毒癮代表一種觀念的轉變。",
+     "py": "Zhuānjiā biǎoshì, shǐyòng Měishātóng lái zhìliáo dúyǐn dàibiǎo yìzhǒng guānniàn de zhuǎnbiàn."
+    },
+    {
+     "zh": "以前社會把吸食海洛因的人視為犯人，一旦抓到吸毒者就交由法律制裁。",
+     "py": "Yǐqián shèhuì bǎ xīshí Hǎiluòyīn de rén shìwèi fànrén, yídàn zhuā dào xīdúzhě jiù jiāoyóu fǎlǜzhìcái."
+    },
+    {
+     "zh": "但現在由政府提供美沙酮的做法則是將吸毒者視為病人，這表示社會應對病人提供醫療協助，而不是一味的限制與懲罰。",
+     "py": "Dàn xiànzài yóu zhèngfǔ tígōng Měishātóng de zuòfǎ zé shì jiāng xīdúzhě shìwèi bìngrén, zhè biǎoshì shèhuì yìngduì bìngrén tígōng yīliáo xiézhù, ér búshì yíwèi de xiànzhì yǔ chéngfá."
+    }
+   ],
    "stem": {
     "zh": "根據第一段，關於美沙酮，哪一個是對的？",
     "py": "Gēnjù dìyíduàn, guānyú Měishātóng, nǎ yí ge shì duì de?"
@@ -962,6 +1198,84 @@
    }
   },
   "39": {
+   "passage": [
+    {
+     "zh": "（七）",
+     "py": "(Qī)"
+    },
+    {
+     "zh": "她獨行於瞎燈黑火的林道上，僅有些微月光從葉隙中透出。",
+     "py": "Tā dúxíng Yúxiā dēnghēi huǒ de líndào shàng, jǐn yǒuxiē wēi yuèguāng cóng yèxì zhōng tòuchū."
+    },
+    {
+     "zh": "臨下山前，家中長輩再三囑咐，此去求援，不可妄生事端，她的拳腳功夫僅能自保，若不是族中男子皆已上戰場廝殺，萬萬是不能讓她一個女子孤身上路。",
+     "py": "Línxià shānqián, jiāzhōng zhǎngbèi zàisān zhǔfù, cǐqù qiúyuán, bùkě wàngshēng shìduān, tā de quánjiǎo gōngfu jǐn néng zìbǎo, ruò búshì zú zhōng nánzi jiē yǐshàng zhànchǎng sīshā, wànwàn shì bùnéng ràng tā yí ge nǚzǐ gūshēn Shànglù."
+    },
+    {
+     "zh": "是以一切只求護得自身周全，快去快回即可。",
+     "py": "Shì yǐ yíqiè zhǐqiú hù dé zìshēn Zhōuquán, kuàiqùkuàihuí jíkě."
+    },
+    {
+     "zh": "一路行來，她不僅低調，且不停地變換交通工具，先是乘舟走水十來天，接著易舟為馬，在馬上又折騰了十來天。",
+     "py": "Yílùxíng lái, tā bùjǐn dīdiào, qiě bùtíng dì biànhuàn jiāotōnggōngjù, xiānshì Chéngzhōu zǒushuǐ shíláitiān, jiēzhù Yìzhōu wèi Mǎ, zài mǎshàng yòu zhēteng le shíláitiān."
+    },
+    {
+     "zh": "就剩最後這幾里路時，她才改由步行。",
+     "py": "Jiù shèng zuìhòu zhè jǐlǐ lù shí, tā cái gǎiyóu bùxíng."
+    },
+    {
+     "zh": "原以為安全的地兒，眼下卻讓她有不寒而慄之感。",
+     "py": "Yuányǐwéi ānquán de dìér, yǎnxià què ràng tā yǒu bùhánérlì zhī gǎn."
+    },
+    {
+     "zh": "前方突地傳來沙沙聲，她下意識退後兩步，卻見林中飛鳥穿過樹梢，她有些「惱怒」，暗啐膽小。",
+     "py": "Qiánfāng tūdì chuánlái Shāshāshēng, tā xiàyìshí tuìhòu liǎngbù, què jiàn línzhōng fēiniǎo chuānguò shùshāo, tā yǒuxiē “Nǎonù”, àn cuì dǎnxiǎo."
+    },
+    {
+     "zh": "驀地，身後傳來虛空劃破之聲。",
+     "py": "Mòdì, shēnhòu chuánlái xūkōng huàpò zhī shēng."
+    },
+    {
+     "zh": "她略側頭回看，眼角已閃過一道疾光。",
+     "py": "Tā lüè cè tóu huíkàn, yǎnjiǎo yǐ shǎnguò yídào jíguāng."
+    },
+    {
+     "zh": "堪堪轉身之際，就見劍尖在眼前一晃，幸得她偏頭一閃，並朝對方腰處撞去。",
+     "py": "Kānkān zhuǎnshēn zhījì, jiù jiàn jiànjiān zài yǎnqián yìhuǎng, xìngde tā piāntóu yī shǎn, bìng cháo duìfāng yāo chù zhuàng qù."
+    },
+    {
+     "zh": "她也不知道這一招是否有效，只是拼盡全身的力氣，狠地一撞。",
+     "py": "Tā yě bù zhīdào zhè yìzhāo shìfǒu yǒuxiào, zhǐshì pīnjǐn quánshēn de lìqì, hěndì yízhuàng."
+    },
+    {
+     "zh": "這一來一往，間刻不能容髮之際，她都沒察覺自己一顆心已經提到了嗓子眼兒，堵得呼吸都倍顯艱難。",
+     "py": "Zhè yìláiyìwǎng, jiānkè bùnéng róngfā zhījì, tā dōu méi chájué zìjǐ yìkē xīn yǐjīng tídào le sǎngziyǎnér, dǔdé hūxī dōu bèi xiǎn jiānnán."
+    },
+    {
+     "zh": "幸得這一撞，教來者失了準頭，削掉她幾縷青絲。",
+     "py": "Xìngde zhèyī zhuàng, jiào láizhě shī le zhǔntou, xuēdiào tā jǐlǚ qīngsī."
+    },
+    {
+     "zh": "但這一撞，也叫她看清來者何人，一聲驚呼幾乎要從喉間溢出，今天真是給阿爹應了「養虎為患」這句話啊！",
+     "py": "Dàn zhèyī zhuàng, yě jiào tā kànqīng láizhě hérén, yìshēng jīnghū jīhū yào cóng hóujiān yìchū, jīntiān zhēnshì gěi Ādiē yīng le “Yǎnghǔwéihuàn” zhè jù huà a!"
+    },
+    {
+     "zh": "來人穩住身形，又是一連串凌厲攻勢，她左支右絀閃躲地甚是狼狽。",
+     "py": "Lái rén wěnzhù shēnxíng, yòu shì yìliánchuàn Línglìgōngshì, tā zuǒzhīyòuchù shǎnduǒ dì shènshì lángbèi."
+    },
+    {
+     "zh": "反射性地憶起了與這人無猜的歲月，心下淒苦。",
+     "py": "Fǎnshèxìng dì yìqǐ le yǔ zhèrén wúcāi de suìyuè, xīnxià qīkǔ."
+    },
+    {
+     "zh": "喉頭一甜、滿嘴鹹腥。",
+     "py": "Hóutóu yī tián, Mǎnzuǐ xián xīng."
+    },
+    {
+     "zh": "眼下任務不僅完成不了，想她不過一十八歲的年華或許也將了結在此。",
+     "py": "Yǎnxià rènwù bùjǐn wánchéng bùliǎo, xiǎng tā búguò yīshíbāsuì de niánhuá huòxǔ yě jiāng liǎojié zài cǐ."
+    }
+   ],
    "stem": {
     "zh": "關於文章中的主角，下面哪一個是對的？",
     "py": "Guānyú wénzhāng zhōng de zhǔjué, xiàmiàn nǎ yí ge shì duì de?"
@@ -1102,6 +1416,76 @@
    }
   },
   "45": {
+   "passage": [
+    {
+     "zh": "（八）普天之下，莫非王土",
+     "py": "(Bā) pǔtiānzhīxià, Mòfēi Wángtǔ"
+    },
+    {
+     "zh": "春秋時期，管仲推「官山海」稅賦政策，本著「普天之下，莫非王土」的政治思維，意欲收盡漁澤山川之利來強化國家經濟。",
+     "py": "Chūnqiūshíqī, Guǎnzhòng tuī “Guānshān hǎi” shuìfù zhèngcè, běn zhù “Pǔtiānzhīxià, Mòfēi Wángtǔ” de zhèngzhì sīwéi, yìyù shōujǐn yúzé Shānchuān zhī lìlái qiánghuà guójiā jīngjì."
+    },
+    {
+     "zh": "到了西漢，朝廷明令將鹽、鐵、酒等重要經濟事業收歸國有，並嚴禁百姓私售。",
+     "py": "Dào le Xīhàn, Cháotíng mínglìng jiāngyán, tiě, jiǔ děng zhòngyào jīngjì shìyè shōuguīguóyǒu, bìng yánjìn bǎixìng sīshòu."
+    },
+    {
+     "zh": "官、私兩分",
+     "py": "Guān, sī liǎngfēn"
+    },
+    {
+     "zh": "食鹽是民生必需品，大眾的需求量大，背後龐大的利潤可想而知，朝廷為擴充國庫，與民爭利，一方面限制可專賣的店家數，一方面又以嚴刑峻法打壓私鹽販售，如若販售私鹽罪證確鑿，輕則流放，重則處死，從西漢以降至有清一朝，刑法的嚴峻，不亞於當今販售毒品的罪責。",
+     "py": "Shíyán shì mínshēng bìxūpǐn, dàzhòng de xūqiúliàng dà, bèihòu pángdà de lìrùn kěxiǎngérzhī, Cháotíng wèi kuòchōng guókù, yǔmínzhēnglì, yìfāngmiàn xiànzhì kě zhuānmài de diànjiā shù, yìfāngmiàn yòu yǐ yánxíngjùnfǎ dǎyā sīyán fànshòu, rúruò fànshòu sīyán zuìzhèngquèzáo, qīng zé liúfàng, zhòng zé chǔsǐ, cóng Xīhàn yǐ jiàngzhì yǒu qīng yìzhāo, xíngfǎ de yánjùn, búyàyú dāngjīn fànshòu dúpǐn de zuìzé."
+    },
+    {
+     "zh": "然，老百姓討生活，一向是「靠山吃山。",
+     "py": "Rán, lǎobǎixìng tǎoshēnghuó, yíxiàng shì “Kàoshānchīshān."
+    },
+    {
+     "zh": "靠海吃海」，中國海岸線漫長，有眾多天然鹽場，製鹽技術的門檻又不高，在官鹽價高量少，供需失衡，有利可圖的情況下，私鹽買賣遂應勢而生，此後，食鹽有了官、私之分。",
+     "py": "Kàohǎichīhǎi”, Zhōngguó hǎiànxiàn màncháng, yǒu zhòngduō tiānrán yánchǎng, zhìyán jìshù de ménkǎn yòu bù gāo, zài guān yánjià gāoliàng shǎo, gōngxū shīhéng, yǒulìkětú de qíngkuàng xià, sīyán mǎimài suì yīng shì ér shēng, cǐhòu, shíyán yǒu le guān, sī zhī fēn."
+    },
+    {
+     "zh": "政策失利、民怨四起",
+     "py": "Zhèngcè shīlì, mínyuàn sìqǐ"
+    },
+    {
+     "zh": "儘管「天下賦利，鹽利居半」， I ，鉅額財富背後，弊病百出的鹽政，反成了壓垮帝國穩定內政的稻草 II 。",
+     "py": "Jǐnguǎn “Tiānxià fùlì, yánlì jū bàn”, I, jùé cáifù bèihòu, bìbìng bǎichū de yánzhèng, fǎnchéng le yākuǎ dìguó wěndìng nèizhèng de dàocǎo II."
+    },
+    {
+     "zh": "如唐末販售私鹽的商人——黃巢所發起的民亂。",
+     "py": "Rú tángmò fànshòu sīyán de shāngrén—— Huángcháo suǒ fāqǐ de mínluàn."
+    },
+    {
+     "zh": "黃巢之亂延續數十年，禍延唐朝半壁江山，人民死傷無數、流離失所，國祚衰敗。",
+     "py": "Huángcháozhī luàn yánxù shùshínián, huò yán tángcháo Bànbìjiāngshān, rénmín sǐshāngwúshù, liúlíshīsuǒ, Guózuò shuāibài."
+    },
+    {
+     "zh": "但是 III ，唐以降，元、清等政府，除了加重刑法，並無其他有效作為。",
+     "py": "Dànshì III, Tángyǐjiàng, yuán, qīng děng zhèngfǔ, chúle jiāzhòng xíngfǎ, bìng wú qítā yǒuxiào zuòwéi."
+    },
+    {
+     "zh": "販售私鹽者，亦不甘示弱， IV ，甚至聚眾糾幫，自號「鹽幫」，並配戴兵器來護送私鹽。",
+     "py": "Fànshòu sīyán zhě, yì bùgānshìruò, IV, shènzhì jùzhòng jiūbāng, zìhào “Yánbāng”, bìng pèidài bīngqì lái hùsòng sīyán."
+    },
+    {
+     "zh": "足見「與民爭利，惟敗已矣」。",
+     "py": "Zújiàn “Yǔmínzhēnglì, wéibàiyǐ yǐ”."
+    },
+    {
+     "zh": "水可載舟，亦可覆舟",
+     "py": "Shuǐkězàizhōu, yìkěfùzhōu"
+    },
+    {
+     "zh": "「普天之下，莫非王土」的政治思維，其後果於史冊斑斑可考。",
+     "py": "“Pǔtiānzhīxià, Mòfēi Wángtǔ” de zhèngzhì sīwéi, qí hòuguǒ yú shǐcè bānbānkěkǎo."
+    },
+    {
+     "zh": "今人當知「以古為鏡，可知興替」，歷史這面鏡子，始終映照著過去的錯誤，提醒著未來決策者的決斷。",
+     "py": "Jīnrén dāng zhī “Yǐgǔwéijìng, kězhī xīngtì”, lìshǐ zhè miàn jìngzi, shǐzhōng yìngzhào zhù guòqù de cuòwù, tíxǐng zhù wèilái juécèzhě de juéduàn."
+    }
+   ],
    "stem": {
     "zh": "根據文章，「官山海」的稅賦來源為何？",
     "py": "Gēnjù wénzhāng, “Guānshān hǎi” de shuìfù láiyuán wèihé?"

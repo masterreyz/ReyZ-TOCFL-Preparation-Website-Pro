@@ -1,6 +1,6 @@
 {
  "testId": "b-r4",
- "segments": 294,
+ "segments": 319,
  "englishComplete": false,
  "questions": {
   "1": {
@@ -642,6 +642,12 @@
    }
   },
   "25": {
+   "passage": [
+    {
+     "zh": "（五）",
+     "py": "(Wǔ)"
+    }
+   ],
    "stem": {
     "zh": "根據這則廣告，這是個什麼樣的服務？",
     "py": "Gēnjù zhè zé guǎnggào, zhè shì gè shénmeyàng de fúwù?"
@@ -714,6 +720,12 @@
    }
   },
   "28": {
+   "passage": [
+    {
+     "zh": "（六）",
+     "py": "(Liù)"
+    }
+   ],
    "stem": {
     "zh": "親水會館提供退費的主要原因是什麼？",
     "py": "Qīnshuǐ huìguǎn tígōng tuìfèi de zhǔyào yuányīn shì shénme?"
@@ -1222,6 +1234,56 @@
    }
   },
   "43": {
+   "passage": [
+    {
+     "zh": "（十一）",
+     "py": "(Shíyī)"
+    },
+    {
+     "zh": "2011 年，研究人員找了 59 人，分別以七種不同語言大聲讀出 20篇相同的短文。",
+     "py": "2011 nián, yánjiū rényuán zhǎo le 59 rén, fēnbié yǐ qīzhǒng bùtóng yǔyán dàshēng dúchū 20 piān xiāngtóng de duǎnwén."
+    },
+    {
+     "zh": "他們發現，被大眾認為語速極快的日語和西班牙語，每秒音節數最多；",
+     "py": "Tāmen fāxiàn, bèi dàzhòng rènwéi yǔsù jíkuài de Rìyǔ hé Xībānyáyǔ, měimiǎo yīnjié shùzuìduō;"
+    },
+    {
+     "zh": "華語是這七種語言中速度最慢的，接著是德語。",
+     "py": "Huáyǔ shì zhè qīzhǒng yǔyán zhōng sùdù zuìmàn de, jiēzhù shì Déyǔ."
+    },
+    {
+     "zh": "研究人員進一步計算每種語言所含的資訊量。",
+     "py": "Yánjiū rényuán jìnyíbù jìsuàn měizhǒng yǔyánsuǒ hán de zīxùn liàng."
+    },
+    {
+     "zh": "他們發現，西班牙語每個音節傳達的資訊很少；",
+     "py": "Tāmen fāxiàn, Xībānyáyǔ měi ge yīnjié chuándá de zīxùn hěnshǎo;"
+    },
+    {
+     "zh": "相對地，華語每個音節裡包含了較多資訊，可能是因為華語的音節還帶有四聲。",
+     "py": "Xiāngduì dì, Huáyǔ měi ge yīnjié lǐ bāohán le jiào duō zīxùn, kěnéng shìyīnwèi Huáyǔ de yīnjié hái dàiyǒu sìshēng."
+    },
+    {
+     "zh": "但是，對聽話的人來說，結果卻是西班牙語和華語傳達資訊的速度一樣。",
+     "py": "Dànshì, duì tīnghuà de rén láishuō, jiéguǒ quèshì Xībānyáyǔ hé Huáyǔ chuándá zīxùn de sùdù yíyàng."
+    },
+    {
+     "zh": "研究人員認為，各語言傳達資訊的速度是一樣的，可能和人類的感覺系統接收資料的速度與資料量有關。",
+     "py": "Yánjiū rényuán rènwéi, gè yǔyán chuándá zīxùn de sùdù shì yíyàng de, kěnéng hé rénlèi de gǎnjué xìtǒng jiēshōu zīliào de sùdù yǔ zīliào liàng yǒuguān."
+    },
+    {
+     "zh": "1950 年代，語言學家喬姆斯基提出了「普遍語法概念」，他認為儘管各種語言聽起來都不同，卻具有共通的語法結構。",
+     "py": "1950 niándài, yǔyánxuéjiā Qiáomǔsījī tíchū le “Pǔbiàn yǔfǎ gàiniàn”, tā rènwéi jǐnguǎn gèzhǒng yǔyán tīng qǐlái dōu bùtóng, què jùyǒu gòngtōng de yǔfǎjiégòu."
+    },
+    {
+     "zh": "這個說法鼓舞了語言學界，但要找到真正的共同結構，卻比想像中困難。",
+     "py": "Zhè ge shuōfǎ gǔwǔ le yǔyán xuéjiè, dàn yào zhǎodào zhēnzhèng de gòngtóng jiégòu, què bǐ xiǎngxiàngzhōng kùnnán."
+    },
+    {
+     "zh": "但就上述的研究顯示，各語言都在確保說話者與聽者之間能穩定的交流，所以，自 1950 年後科學家找出了各語言間的共同結構為，不論何種語言其傳達給聽者的資訊速度皆是固定的，這將會進一步改變我們對全球語言多樣性的看法。",
+     "py": "Dàn jiù shàngshù de yánjiū xiǎnshì, gè yǔyán dōu zài quèbǎo shuōhuà zhě yǔ tīngzhě zhījiān néng wěndìng de jiāoliú, suǒyǐ, zì 1950 nián hòu kēxuéjiā zhǎochū le gè yǔyán jiān de gòngtóng jiégòu wèi, búlùn hézhǒng yǔyán qí chuándá gěi tīngzhě de zīxùn sùdù jiē shì gùdìng de, zhè jiāng huì jìnyíbù gǎibiàn wǒmen duì quánqiú yǔyán duōyàngxìng de kànfǎ."
+    }
+   ],
    "stem": {
     "zh": "根據研究報告，下面哪一種語言的速度最慢？",
     "py": "Gēnjù yánjiū bàogào, xiàmiàn nǎ yìzhǒng yǔyán de sùdù zuìmàn?"
@@ -1318,6 +1380,52 @@
    }
   },
   "47": {
+   "passage": [
+    {
+     "zh": "（十二）",
+     "py": "(Shíèr)"
+    },
+    {
+     "zh": "導演曾說，他最欣賞《水滸傳》裡的〈林沖夜奔〉。",
+     "py": "Dǎoyǎn céng shuō, tā zuì xīnshǎng «Shuǐhǔzhuàn» lǐ de 〈 Línchōng yè bēn 〉."
+    },
+    {
+     "zh": "林沖不管遭遇多少不公不義的事情，都不和現實低頭妥協，這份精神，正是一個文化的價值所在，也是導演在電影裡最想呈現的部分。",
+     "py": "Línchōng bùguǎn zāoyù duōshǎo bùgōng búyì de shìqing, dōu bù hé xiànshí dītóu tuǒxié, zhèfèn jīngshén, zhèngshì yí ge wénhuà de jiàzhí suǒzài, yě shì dǎoyǎn zài diànyǐng lǐ zuì xiǎng chéngxiàn de bùfèn."
+    },
+    {
+     "zh": "也許因為這個堅持，讓他在面對國家電影審查制度時，總是挫折不斷。",
+     "py": "Yěxǔ yīnwèi zhè ge jiānchí, ràng tā zài miànduì guójiā diànyǐng shěnchá zhìdù shí, zǒngshì cuòzhé búduàn."
+    },
+    {
+     "zh": "導演對此曾表示，他所追尋的「創作自由」，就是不被國家政策干擾、限制的自由。",
+     "py": "Dǎoyǎn duìcǐ céng biǎoshì, tā suǒ zhuīxún de “Chuàngzuòzìyóu”, jiùshì bù bèi guójiā zhèngcè gānrǎo, xiànzhì de zìyóu."
+    },
+    {
+     "zh": "但從近幾年的作品來看，他已經有了不同的想法，如他自己所說：「人最終要面對的不是外在的一切，而是自己。」",
+     "py": "Dàn cóng jìnjǐnián de zuòpǐn láikàn, tā yǐjīng yǒu le bùtóng de xiǎngfǎ, rútā zìjǐ suǒshuō: “Rén zuìzhōng yào miànduì de búshì wàizài de yíqiè, érshì zìjǐ.”"
+    },
+    {
+     "zh": "當年他離開自己生長的土地，離開那些從小一起相處的親人，一頭往大城市裡栽進去，在追尋著電影夢的同時，卻忽略了他的母親在長期的孤單寂寞中，已經開始出現喃喃自語的症狀。",
+     "py": "Dāngnián tā líkāi zìjǐ shēngzhǎng de tǔdì, líkāi nàxiē cóngxiǎo yìqǐ xiāngchǔ de qīnrén, yìtóu wǎng Dàchéngshì lǐ zāijìnqù, zài zhuīxún zhù diànyǐng mèng de tóngshí, què hūlüè le tā de mǔqīn zài chángqī de gūdān jìmò zhōng, yǐjīng kāishǐ chūxiàn nánnánzìyǔ de zhèngzhuàng."
+    },
+    {
+     "zh": "當導演發覺到這些問題時，他感到失落、傷心，並將這些情緒拍進了這部電影中。",
+     "py": "Dāng dǎoyǎn fājué dào zhèxiē wèntí shí, tā gǎndào shīluò, shāngxīn, bìng jiāng zhèxiē qíngxù pāijìn le zhèbù diànyǐng zhōng."
+    },
+    {
+     "zh": "這部電影描述了生活在這個國家的群體，沒有人對生活有安全感。",
+     "py": "Zhèbù diànyǐng miáoshù le shēnghuó zài zhè ge guójiā de qúntǐ, méiyǒu rén duì shēnghuó yǒu Ānquángǎn."
+    },
+    {
+     "zh": "不論是誰，都有可能今天是個成功的人，明天就成了犯人。",
+     "py": "Búlùnshìshuí, dōu yǒu kěnéng jīntiān shì gè chénggōng de rén, míngtiān jiù chéng le fànrén."
+    },
+    {
+     "zh": "就是這種不安的情緒，完整地傳達了導演的意識：所有外在的一切都會消失，只有故人的情感會被永遠地留下。",
+     "py": "Jiùshì zhèzhǒng bùān de qíngxù, wánzhěng dì chuándá le dǎoyǎn de yìshí: Suǒyǒu wàizài de yíqiè dōu huì xiāoshī, zhǐyǒu gùrén de qínggǎn huì bèi yǒngyuǎn dì liúxià."
+    }
+   ],
    "stem": {
     "zh": "導演以〈林沖夜奔〉說明哪件事？",
     "py": "Dǎoyǎn yǐ 〈 Línchōng yè bēn 〉 shuōmíng nǎjiàn shì?"

@@ -162,7 +162,7 @@ def build(src_root, out_root):
                 im.save(media / name, "WEBP", quality=74)
                 made[q["n"]] = name
                 # passage-only image of a group lead (shown before the questions that follow it)
-                if q.get("context") and q.get("group"):
+                if q.get("context") and q.get("group") and not q.get("passageImage"):
                     anchor = next((l for l in page["lines"] if c["top"] <= l["y0"] <= c["bottom"]
                                    and re.match(rf'^{q["n"]}\s*[.．、]', l["text"])), None)
                     if anchor:
@@ -174,12 +174,14 @@ def build(src_root, out_root):
                 lead_n = q.get("groupLead") if q.get("cloze") else (int(q["group"][1:]) if q.get("group") else None)
                 lead = qs.get(lead_n) if lead_n and lead_n != q["n"] else None
                 own = made.get(q["n"])
-                if lead and own and q.get("cloze"):
+                if q.get("passageImage"):
+                    lay = [q["passageImage"], own]
+                elif lead and own and q.get("cloze"):
                     lay = [own]
                 elif lead and own:
-                    lay = [lead.get("_passage") or made.get(lead["n"]), own]
+                    lay = [lead.get("passageImage") or lead.get("_passage") or made.get(lead["n"]), own]
                 elif lead:
-                    lay = [made.get(lead["n"])]
+                    lay = [lead.get("passageImage") or made.get(lead["n"])]
                 else:
                     lay = [own]
                 q["layout"] = [x for x in lay if x]

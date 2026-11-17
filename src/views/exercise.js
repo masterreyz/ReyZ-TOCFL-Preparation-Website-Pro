@@ -204,8 +204,12 @@ export function questionBody(test, q, { selected, onSelect, review, result } = {
       review && L === q.answer ? h('span', { class: 'sr-only' }, ' — jawaban benar') : null,
       review && L === result?.given && L !== q.answer ? h('span', { class: 'sr-only' }, ' — jawaban Anda') : null);
   });
-  const passage = ctxText && !isPicture ? h('div', { class: 'passage zh', ...lang, html: escBr(ctxText) }) : null;
   const cropImg = (src, alt) => h('figure', { class: 'crop' }, h('img', { src: mediaUrl(`ex/${test.id}/${src}`), alt, loading: 'lazy' }));
+  // A passage printed as a picture (notice, table, advertisement) has only its number "（八）" as text: show the picture.
+  const headerOnly = ctxText && ctxText.trim().length < 8;
+  const passagePic = headerOnly ? (q.passageImage || (lead && q.layout?.length > 1 ? q.layout[0] : null)) : null;
+  const passage = passagePic ? cropImg(passagePic, `Teks bacaan ${ctxText.trim()} (gambar dari buku soal)`)
+    : ctxText && !isPicture ? h('div', { class: 'passage zh', ...lang, html: escBr(ctxText) }) : null;
   const showCropNow = isPicture || q.spokenOptions || (!optsHaveText && !ctxText);
   // Reading: every question offers the booklet layout (passage + question only; choices are the buttons below).
   const layout = test.skill === 'reading' ? (q.layout || []) : [];
