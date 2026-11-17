@@ -1,0 +1,1366 @@
+{
+ "id": "a1-te-l08",
+ "title": "坐火車去臺南 Taking a Train to Tainan",
+ "status": "complete",
+ "mode": "original",
+ "statusDetail": "Materi ini ditulis ulang secara orisinal untuk situs ini berdasarkan topik, daftar kosakata, dan pola tata bahasa buku (hlm. PDF 186–207): penjelasan, contoh kalimat, dialog latihan, soal, dan catatan budaya memakai kata-kata sendiri. Dialog, latihan bergambar, dan foto asli ada di buku; audio trek asli tetap ditautkan.",
+ "transcribedBy": "Ditulis ulang secara orisinal berdasarkan isi buku, diperiksa terhadap halaman asli, 2026-11-17",
+ "blocks": [
+  {
+   "type": "heading",
+   "id": "h-obj",
+   "en": "Learning Objectives",
+   "zh": "學習目標",
+   "source": {
+    "pages": [
+     186
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "obj",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Topic: 交通工具 Transportation"
+    },
+    {
+     "lang": "en",
+     "text": "• Name different kinds of transportation and say how to get somewhere."
+    },
+    {
+     "lang": "en",
+     "text": "• Talk about plans for free time."
+    },
+    {
+     "lang": "en",
+     "text": "• Make a simple comparison between two ways of getting somewhere."
+    },
+    {
+     "lang": "en",
+     "text": "• Explain what you like or dislike about something."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-d1",
+   "en": "Dialogue I",
+   "zh": "對話一",
+   "source": {
+    "pages": [
+     187
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "d1-audio",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Practice dialogue written for this site with the vocabulary of Dialogue I. The book’s own Dialogue I is on book p. 160 (PDF p. 187); its recording is track 08-01."
+    }
+   ],
+   "track": "08-01"
+  },
+  {
+   "type": "dialogue",
+   "id": "d1",
+   "lines": [
+    {
+     "spk": "月美",
+     "zh": "這個週末，我想跟同學去臺南玩。",
+     "py": "Zhè ge zhōumò, wǒ xiǎng gēn tóngxué qù Táinán wán."
+    },
+    {
+     "spk": "安同",
+     "zh": "怎麼去？",
+     "py": "Zěnme qù?"
+    },
+    {
+     "spk": "月美",
+     "zh": "我想坐火車去。",
+     "py": "Wǒ xiǎng zuò huǒchē qù."
+    },
+    {
+     "spk": "安同",
+     "zh": "火車比較慢，要四個多鐘頭，坐高鐵比較快。",
+     "py": "Huǒchē bǐjiào màn, yào sì ge duō zhōngtóu, zuò gāotiě bǐjiào kuài."
+    },
+    {
+     "spk": "月美",
+     "zh": "可是我聽說高鐵車票非常貴。",
+     "py": "Kěshì wǒ tīngshuō gāotiě chēpiào fēicháng guì."
+    },
+    {
+     "spk": "安同",
+     "zh": "高鐵車票有一點貴，但是坐高鐵又快又舒服。",
+     "py": "Gāotiě chēpiào yǒu yìdiǎn guì, dànshì zuò gāotiě yòu kuài yòu shūfú."
+    },
+    {
+     "spk": "月美",
+     "zh": "我不知道在哪裡買票。",
+     "py": "Wǒ bù zhīdào zài nǎlǐ mǎi piào."
+    },
+    {
+     "spk": "安同",
+     "zh": "在高鐵站、網路上或是便利商店都可以。",
+     "py": "Zài gāotiězhàn, wǎnglù shàng huòshì biànlì shāngdiàn dōu kěyǐ."
+    },
+    {
+     "spk": "月美",
+     "zh": "這麼方便！那我坐高鐵去，謝謝你。",
+     "py": "Zhème fāngbiàn! Nà wǒ zuò gāotiě qù, xièxie nǐ."
+    }
+   ],
+   "translation": [
+    {
+     "spk": "Yuemei",
+     "en": "I’d like to go to Tainan with a classmate this weekend."
+    },
+    {
+     "spk": "Antong",
+     "en": "How are you going?"
+    },
+    {
+     "spk": "Yuemei",
+     "en": "I was thinking of taking the train."
+    },
+    {
+     "spk": "Antong",
+     "en": "The train is slower — it takes over four hours. The High Speed Rail is faster."
+    },
+    {
+     "spk": "Yuemei",
+     "en": "But I heard High Speed Rail tickets are very expensive."
+    },
+    {
+     "spk": "Antong",
+     "en": "They’re a bit pricey, but the High Speed Rail is both fast and comfortable."
+    },
+    {
+     "spk": "Yuemei",
+     "en": "I don’t know where to buy tickets."
+    },
+    {
+     "spk": "Antong",
+     "en": "At a High Speed Rail station, online, or at a convenience store — all work."
+    },
+    {
+     "spk": "Yuemei",
+     "en": "That’s so convenient! I’ll take the High Speed Rail then. Thanks."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-v1",
+   "en": "Vocabulary I",
+   "zh": "生詞一",
+   "source": {
+    "pages": [
+     188
+    ]
+   }
+  },
+  {
+   "type": "vocab",
+   "id": "v1-vocab",
+   "title": "Vocabulary",
+   "items": [
+    {
+     "n": 1,
+     "zh": "坐",
+     "py": "zuò",
+     "pos": "V",
+     "en": "to travel by, to take (a vehicle)"
+    },
+    {
+     "n": 2,
+     "zh": "火車",
+     "py": "huǒchē",
+     "pos": "N",
+     "en": "train"
+    },
+    {
+     "n": 3,
+     "zh": "跟",
+     "py": "gēn",
+     "pos": "Prep",
+     "en": "with"
+    },
+    {
+     "n": 4,
+     "zh": "玩",
+     "py": "wán",
+     "pos": "V",
+     "en": "to have fun, to play"
+    },
+    {
+     "n": 5,
+     "zh": "怎麼",
+     "py": "zěnme",
+     "pos": "Adv",
+     "en": "how"
+    },
+    {
+     "n": 6,
+     "zh": "慢",
+     "py": "màn",
+     "pos": "Vs",
+     "en": "slow"
+    },
+    {
+     "n": 7,
+     "zh": "鐘頭",
+     "py": "zhōngtóu",
+     "pos": "N",
+     "en": "hour"
+    },
+    {
+     "n": 8,
+     "zh": "比較",
+     "py": "bǐjiào",
+     "pos": "Adv",
+     "en": "relatively, more (comparatively)"
+    },
+    {
+     "n": 9,
+     "zh": "快",
+     "py": "kuài",
+     "pos": "Vs",
+     "en": "fast"
+    },
+    {
+     "n": 10,
+     "zh": "車票",
+     "py": "chēpiào",
+     "pos": "N",
+     "en": "(train/bus) ticket"
+    },
+    {
+     "n": 11,
+     "zh": "非常",
+     "py": "fēicháng",
+     "pos": "Adv",
+     "en": "extremely, very"
+    },
+    {
+     "n": 12,
+     "zh": "但是",
+     "py": "dànshì",
+     "pos": "Conj",
+     "en": "but, however"
+    },
+    {
+     "n": 13,
+     "zh": "又",
+     "py": "yòu",
+     "pos": "Adv",
+     "en": "(又…又… ) both … and …"
+    },
+    {
+     "n": 14,
+     "zh": "舒服",
+     "py": "shūfú",
+     "pos": "Vs",
+     "en": "comfortable"
+    },
+    {
+     "n": 15,
+     "zh": "站",
+     "py": "zhàn",
+     "pos": "N",
+     "en": "station, stop"
+    },
+    {
+     "n": 16,
+     "zh": "或是",
+     "py": "huòshì",
+     "pos": "Conj",
+     "en": "or"
+    }
+   ],
+   "track": "08-02",
+   "source": {
+    "pages": [
+     188
+    ]
+   }
+  },
+  {
+   "type": "vocab",
+   "id": "v1-names",
+   "title": "Names",
+   "items": [
+    {
+     "n": 17,
+     "zh": "臺南",
+     "py": "Táinán",
+     "pos": "",
+     "en": "Tainan, a city in southwestern Taiwan"
+    },
+    {
+     "n": 18,
+     "zh": "高鐵",
+     "py": "gāotiě",
+     "pos": "",
+     "en": "the High Speed Rail (HSR)"
+    }
+   ],
+   "source": {
+    "pages": [
+     188
+    ]
+   }
+  },
+  {
+   "type": "vocab",
+   "id": "v1-phrases",
+   "title": "Phrases",
+   "items": [
+    {
+     "n": 19,
+     "zh": "網路上",
+     "py": "wǎnglù shàng",
+     "pos": "",
+     "en": "online, on the internet"
+    },
+    {
+     "n": 20,
+     "zh": "便利商店",
+     "py": "biànlì shāngdiàn",
+     "pos": "",
+     "en": "convenience store"
+    }
+   ],
+   "source": {
+    "pages": [
+     188
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "h-d2",
+   "en": "Dialogue II",
+   "zh": "對話二",
+   "source": {
+    "pages": [
+     189
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "d2-audio",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Practice dialogue written for this site with the vocabulary of Dialogue II. The book’s own Dialogue II is on book p. 163 (PDF p. 190); its recording is track 08-03."
+    }
+   ],
+   "track": "08-03"
+  },
+  {
+   "type": "dialogue",
+   "id": "d2",
+   "lines": [
+    {
+     "spk": "怡君",
+     "zh": "安同，明天我們沒課，你想去哪裡？",
+     "py": "Āntóng, míngtiān wǒmen méi kè. Nǐ xiǎng qù nǎlǐ?"
+    },
+    {
+     "spk": "安同",
+     "zh": "我要跟同學去參觀故宮博物院。",
+     "py": "Wǒ yào gēn tóngxué qù cānguān Gùgōng Bówùyuàn."
+    },
+    {
+     "spk": "怡君",
+     "zh": "聽說那裡有很多中國古代的東西。",
+     "py": "Tīngshuō nàlǐ yǒu hěn duō Zhōngguó gǔdài de dōngxi."
+    },
+    {
+     "spk": "安同",
+     "zh": "是啊。你要跟我們去看看嗎？",
+     "py": "Shì a. Nǐ yào gēn wǒmen qù kànkàn ma?"
+    },
+    {
+     "spk": "怡君",
+     "zh": "好。怎麼去？",
+     "py": "Hǎo. Zěnme qù?"
+    },
+    {
+     "spk": "安同",
+     "zh": "我同學騎機車載我。你可以坐公共汽車去。",
+     "py": "Wǒ tóngxué qí jīchē zài wǒ. Nǐ kěyǐ zuò gōnggòng qìchē qù."
+    },
+    {
+     "spk": "怡君",
+     "zh": "我想坐捷運去，比較快。",
+     "py": "Wǒ xiǎng zuò jiéyùn qù. Bǐjiào kuài."
+    },
+    {
+     "spk": "安同",
+     "zh": "不行，到故宮沒有捷運。你要不要坐計程車去？",
+     "py": "Bùxíng, dào Gùgōng méi yǒu jiéyùn. Nǐ yào bú yào zuò jìchéngchē qù?"
+    },
+    {
+     "spk": "怡君",
+     "zh": "太貴了！我坐公車。騎機車比坐公車快嗎？",
+     "py": "Tài guì le! Wǒ zuò gōngchē. Qí jīchē bǐ zuò gōngchē kuài ma?"
+    },
+    {
+     "spk": "安同",
+     "zh": "差不多。",
+     "py": "Chàbùduō."
+    }
+   ],
+   "translation": [
+    {
+     "spk": "Yijun",
+     "en": "Antong, we don’t have class tomorrow. Where do you want to go?"
+    },
+    {
+     "spk": "Antong",
+     "en": "I’m going with some classmates to visit the National Palace Museum."
+    },
+    {
+     "spk": "Yijun",
+     "en": "I’ve heard there are a lot of ancient Chinese objects there."
+    },
+    {
+     "spk": "Antong",
+     "en": "There are. Do you want to come and have a look with us?"
+    },
+    {
+     "spk": "Yijun",
+     "en": "Sure. How are you getting there?"
+    },
+    {
+     "spk": "Antong",
+     "en": "My classmate is giving me a ride on his scooter. You could take the bus."
+    },
+    {
+     "spk": "Yijun",
+     "en": "I’d rather take the MRT — it’s faster."
+    },
+    {
+     "spk": "Antong",
+     "en": "No good — there’s no MRT to the Palace Museum. Do you want to take a taxi?"
+    },
+    {
+     "spk": "Yijun",
+     "en": "Too expensive! I’ll take the bus. Is riding a scooter faster than taking the bus?"
+    },
+    {
+     "spk": "Antong",
+     "en": "About the same."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-v2",
+   "en": "Vocabulary II",
+   "zh": "生詞二",
+   "source": {
+    "pages": [
+     191
+    ]
+   }
+  },
+  {
+   "type": "vocab",
+   "id": "v2-vocab",
+   "title": "Vocabulary",
+   "items": [
+    {
+     "n": 1,
+     "zh": "同學",
+     "py": "tóngxué",
+     "pos": "N",
+     "en": "classmate"
+    },
+    {
+     "n": 2,
+     "zh": "參觀",
+     "py": "cānguān",
+     "pos": "V",
+     "en": "to visit (a place, institution)"
+    },
+    {
+     "n": 3,
+     "zh": "古代",
+     "py": "gǔdài",
+     "pos": "N",
+     "en": "ancient times"
+    },
+    {
+     "n": 4,
+     "zh": "騎",
+     "py": "qí",
+     "pos": "V",
+     "en": "to ride"
+    },
+    {
+     "n": 5,
+     "zh": "機車",
+     "py": "jīchē",
+     "pos": "N",
+     "en": "motorcycle, scooter"
+    },
+    {
+     "n": 6,
+     "zh": "載",
+     "py": "zài",
+     "pos": "V",
+     "en": "to give (someone) a ride"
+    },
+    {
+     "n": 7,
+     "zh": "捷運",
+     "py": "jiéyùn",
+     "pos": "N",
+     "en": "MRT (Mass Rapid Transit)"
+    },
+    {
+     "n": 8,
+     "zh": "比",
+     "py": "bǐ",
+     "pos": "Prep",
+     "en": "(comparison) than"
+    }
+   ],
+   "track": "08-04",
+   "source": {
+    "pages": [
+     191
+    ]
+   }
+  },
+  {
+   "type": "vocab",
+   "id": "v2-names",
+   "title": "Names",
+   "items": [
+    {
+     "n": 9,
+     "zh": "故宮博物院 （故宮）",
+     "py": "Gùgōng Bówùyuàn (Gùgōng)",
+     "pos": "",
+     "en": "the National Palace Museum"
+    },
+    {
+     "n": 10,
+     "zh": "中國",
+     "py": "Zhōngguó",
+     "pos": "",
+     "en": "China"
+    }
+   ],
+   "source": {
+    "pages": [
+     191
+    ]
+   }
+  },
+  {
+   "type": "vocab",
+   "id": "v2-phrases",
+   "title": "Phrases",
+   "items": [
+    {
+     "n": 11,
+     "zh": "公共汽車 （公車）",
+     "py": "gōnggòng qìchē (gōngchē)",
+     "pos": "",
+     "en": "bus"
+    },
+    {
+     "n": 12,
+     "zh": "不行",
+     "py": "bùxíng",
+     "pos": "",
+     "en": "that won’t work, no good"
+    },
+    {
+     "n": 13,
+     "zh": "計程車",
+     "py": "jìchéngchē",
+     "pos": "",
+     "en": "taxi"
+    },
+    {
+     "n": 14,
+     "zh": "差不多",
+     "py": "chàbùduō",
+     "pos": "",
+     "en": "about the same, more or less"
+    }
+   ],
+   "source": {
+    "pages": [
+     191
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "h-gr",
+   "en": "Grammar",
+   "zh": "文法",
+   "source": {
+    "pages": [
+     192
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "g1",
+   "en": "I. 跟 gēn: doing something with someone",
+   "level": 3,
+   "source": {
+    "pages": [
+     192,
+     197
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g1-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: 跟 introduces the person one does an action together with, like a prepositional phrase in English (“with …”). It stands before the verb phrase, and 一起 “together” often goes right in front of the main verb."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g1-ex",
+   "items": [
+    {
+     "zh": "我常跟姐姐去看電影。",
+     "py": "Wǒ cháng gēn jiějie qù kàn diànyǐng.",
+     "en": "I often go to the movies with my sister."
+    },
+    {
+     "zh": "他跟朋友在咖啡店聊天。",
+     "py": "Tā gēn péngyǒu zài kāfēi diàn liáotiān.",
+     "en": "He is chatting with a friend at a café."
+    },
+    {
+     "zh": "我這個週末要跟同學去參觀展覽。",
+     "py": "Wǒ zhè ge zhōumò yào gēn tóngxué qù cānguān zhǎnlǎn.",
+     "en": "I’m going to an exhibition with classmates this weekend."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g1-neg",
+   "items": [
+    {
+     "zh": "我今天不跟朋友去KTV唱歌。",
+     "py": "Wǒ jīntiān bù gēn péngyǒu qù KTV chànggē.",
+     "en": "I’m not going to KTV with friends today."
+    },
+    {
+     "zh": "他不跟我們一起去故宮。",
+     "py": "Tā bù gēn wǒmen yìqǐ qù Gùgōng.",
+     "en": "He isn’t going to the Palace Museum with us."
+    },
+    {
+     "zh": "弟弟不跟我去吃日本菜。",
+     "py": "Dìdi bù gēn wǒ qù chī Rìběn cài.",
+     "en": "My younger brother isn’t coming with me for Japanese food."
+    }
+   ],
+   "title": "Negation (不 before 跟)"
+  },
+  {
+   "type": "examples",
+   "id": "g1-q",
+   "items": [
+    {
+     "zh": "你要不要跟我去看棒球比賽？",
+     "py": "Nǐ yào bú yào gēn wǒ qù kàn bàngqiú bǐsài?",
+     "en": "Do you want to go with me to watch the baseball game?"
+    },
+    {
+     "zh": "你常跟誰一起運動？",
+     "py": "Nǐ cháng gēn shéi yìqǐ yùndòng?",
+     "en": "Who do you usually exercise with?"
+    },
+    {
+     "zh": "你跟不跟我們去圖書館看書？",
+     "py": "Nǐ gēn bù gēn wǒmen qù túshūguǎn kànshū?",
+     "en": "Are you coming with us to read in the library or not?"
+    }
+   ],
+   "title": "Questions"
+  },
+  {
+   "type": "text",
+   "id": "g1-u",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Usage note: 跟 must come before the verb phrase, like other prepositions (在, 到): 我跟他去, not *我去跟他."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "g1-x",
+   "title": "練習 Exercise",
+   "instruction": "Complete each sentence with 跟.",
+   "items": [
+    {
+     "prompt": "我／媽媽／坐高鐵／去臺南 → ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "他／不／同學／去KTV → ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "你／要不要／我／去參觀故宮？→ ＿＿＿＿＿＿？",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "g2",
+   "en": "II. 怎麼 zěnme: asking how",
+   "level": 3,
+   "source": {
+    "pages": [
+     193,
+     197
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g2-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: 怎麼 asks about the manner or method of an action — “how”. It is an adverb and goes right before the verb."
+    },
+    {
+     "lang": "en",
+     "text": "Contrast with 怎麼樣 zěnmeyàng “how is it / what do you think”, which is a state verb asking for an opinion or a description, not a method: 這個菜怎麼做？“How is this dish made?” vs. 這個菜怎麼樣？“What do you think of this dish?”"
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g2-ex",
+   "items": [
+    {
+     "zh": "你們怎麼去臺南？",
+     "py": "Nǐmen zěnme qù Táinán?",
+     "en": "How are you getting to Tainan?"
+    },
+    {
+     "zh": "這個字怎麼寫？",
+     "py": "Zhè ge zì zěnme xiě?",
+     "en": "How do you write this character?"
+    },
+    {
+     "zh": "這支新手機怎麼上網？",
+     "py": "Zhè zhī xīn shǒujī zěnme shàngwǎng?",
+     "en": "How do I get online with this new phone?"
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g2-q",
+   "items": [
+    {
+     "zh": "這個菜怎麼做？",
+     "py": "Zhè ge cài zěnme zuò?",
+     "en": "How is this dish made?"
+    },
+    {
+     "zh": "這首歌怎麼唱？",
+     "py": "Zhè shǒu gē zěnme chàng?",
+     "en": "How do you sing this song?"
+    }
+   ],
+   "title": "Questions (怎麼 is itself a question word)"
+  },
+  {
+   "type": "exercise",
+   "id": "g2-x",
+   "title": "練習 Exercise",
+   "instruction": "Ask how, using 怎麼.",
+   "items": [
+    {
+     "prompt": "You want to know how to get to the High Speed Rail station. → ＿＿＿＿＿＿？",
+     "hint": ""
+    },
+    {
+     "prompt": "You want to know how this word is read. → ＿＿＿＿＿＿？",
+     "hint": ""
+    },
+    {
+     "prompt": "You want to know how to buy a High Speed Rail ticket online. → ＿＿＿＿＿＿？",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "g3",
+   "en": "III. 比較 bǐjiào: a comparison left unstated",
+   "level": 3,
+   "source": {
+    "pages": [
+     194,
+     198
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g3-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: The adverb 比較 suggests a comparison without naming what is being compared — the other side is understood from context. It goes right before a state verb."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g3-ex",
+   "items": [
+    {
+     "zh": "今天比較熱。",
+     "py": "Jīntiān bǐjiào rè.",
+     "en": "Today is relatively hot. (hotter than usual / than yesterday)"
+    },
+    {
+     "zh": "坐捷運比較快。",
+     "py": "Zuò jiéyùn bǐjiào kuài.",
+     "en": "Taking the MRT is faster. (than the alternative just mentioned)"
+    },
+    {
+     "zh": "我們家，姐姐比較會做飯。",
+     "py": "Wǒmen jiā, jiějie bǐjiào huì zuòfàn.",
+     "en": "In our family, my older sister is the better cook."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g3-neg",
+   "items": [
+    {
+     "zh": "昨天比較不熱。",
+     "py": "Zuótiān bǐjiào bú rè.",
+     "en": "Yesterday was less hot."
+    },
+    {
+     "zh": "他比較不喜歡坐公車。",
+     "py": "Tā bǐjiào bù xǐhuān zuò gōngchē.",
+     "en": "He’d rather not take the bus."
+    }
+   ],
+   "title": "Negation (不 goes with the verb, not with 比較)"
+  },
+  {
+   "type": "examples",
+   "id": "g3-q",
+   "items": [
+    {
+     "zh": "高鐵和火車，你比較想坐哪一個？",
+     "py": "Gāotiě hàn huǒchē, nǐ bǐjiào xiǎng zuò nǎ yí ge?",
+     "en": "Between the HSR and the train, which would you rather take?"
+    },
+    {
+     "zh": "你跟你姐姐，誰比較會做飯？",
+     "py": "Nǐ gēn nǐ jiějie, shéi bǐjiào huì zuòfàn?",
+     "en": "Between you and your sister, who’s the better cook?"
+    }
+   ],
+   "title": "Questions"
+  },
+  {
+   "type": "text",
+   "id": "g3-u",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Usage note: In everyday Mainland usage 比較 can simply mean “rather, quite”, without comparing anything (他的中文說得比較好 “he speaks Chinese quite well”). In the Taiwan usage followed in this lesson, 比較 always implies a comparison, even when the other side is left unsaid."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "g3-x",
+   "title": "練習 Exercise",
+   "instruction": "Rewrite each sentence with 比較.",
+   "items": [
+    {
+     "prompt": "坐火車很慢，坐高鐵快。→ ＿＿＿＿＿＿。（say only that HSR is faster）",
+     "hint": ""
+    },
+    {
+     "prompt": "我不喜歡游泳，我喜歡騎機車。→ ＿＿＿＿＿＿。（say only what you’d rather do）",
+     "hint": ""
+    },
+    {
+     "prompt": "A：你想喝咖啡還是喝茶？　B：＿＿＿＿＿＿。（say you’d rather have tea, using 比較）",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "g4",
+   "en": "IV. 又 yòu … 又 yòu …: both … and …",
+   "level": 3,
+   "source": {
+    "pages": [
+     195,
+     198
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g4-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: 又 Vs 又 Vs says that two qualities are both true of the same person or thing."
+    },
+    {
+     "lang": "en",
+     "text": "Pattern: Subject + 又 + State Verb₁ + 又 + State Verb₂"
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g4-ex",
+   "items": [
+    {
+     "zh": "這家餐廳的菜又便宜又好吃，所以我們常來吃。",
+     "py": "Zhè jiā cāntīng de cài yòu piányí yòu hǎochī, suǒyǐ wǒmen cháng lái chī.",
+     "en": "The food here is both cheap and tasty, so we often eat here."
+    },
+    {
+     "zh": "坐高鐵又快又舒服，可是有一點貴。",
+     "py": "Zuò gāotiě yòu kuài yòu shūfú, kěshì yǒu yìdiǎn guì.",
+     "en": "The HSR is both fast and comfortable, though a bit pricey."
+    },
+    {
+     "zh": "這條路又遠又難走。",
+     "py": "Zhè tiáo lù yòu yuǎn yòu nán zǒu.",
+     "en": "This road is both long and hard to walk."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g4-neg",
+   "items": [
+    {
+     "zh": "這家店的臭豆腐又不臭又不辣，我覺得不好吃。",
+     "py": "Zhè jiā diàn de chòudòufǔ yòu bú chòu yòu bú là, wǒ juéde bù hǎochī.",
+     "en": "This shop’s stinky tofu is neither smelly nor spicy — I don’t think it’s good."
+    },
+    {
+     "zh": "我的舊手機又不能照相又不能上網，我想買新的。",
+     "py": "Wǒ de jiù shǒujī yòu bù néng zhàoxiàng yòu bù néng shàngwǎng, wǒ xiǎng mǎi xīn de.",
+     "en": "My old phone can neither take photos nor go online — I want a new one."
+    }
+   ],
+   "title": "Negation (又不… 又不…)"
+  },
+  {
+   "type": "exercise",
+   "id": "g4-x",
+   "title": "練習 Exercise",
+   "instruction": "Complete with 又…又….",
+   "items": [
+    {
+     "prompt": "這家店的咖啡怎麼樣？→ ＿＿＿＿＿＿。（便宜、好喝）",
+     "hint": ""
+    },
+    {
+     "prompt": "你覺得這部電影怎麼樣？→ ＿＿＿＿＿＿。（好看、有意思）",
+     "hint": ""
+    },
+    {
+     "prompt": "這種甜點好吃嗎？→ ＿＿＿＿＿＿。（好吃、便宜）",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "g5",
+   "en": "V. 比 bǐ: explicit comparison",
+   "level": 3,
+   "source": {
+    "pages": [
+     196,
+     198
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g5-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: 比 names both sides of a comparison directly: “A is more … than B”. Pattern: A + 比 + B + State Verb."
+    },
+    {
+     "lang": "en",
+     "text": "Degree adverbs like 很, 真 or 非常 cannot go before the state verb in a 比 sentence: *我的手機比他的很貴 and *坐高鐵比坐火車非常快 are both wrong. Use 比較 (有一點) instead, or put a specific number after the verb."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g5-ex",
+   "items": [
+    {
+     "zh": "山上的風景比這裡漂亮。",
+     "py": "Shānshàng de fēngjǐng bǐ zhèlǐ piàoliang.",
+     "en": "The view up in the mountains is more beautiful than here."
+    },
+    {
+     "zh": "我們學校比他們學校遠。",
+     "py": "Wǒmen xuéxiào bǐ tāmen xuéxiào yuǎn.",
+     "en": "Our school is farther than theirs."
+    },
+    {
+     "zh": "坐捷運比坐火車快。",
+     "py": "Zuò jiéyùn bǐ zuò huǒchē kuài.",
+     "en": "Taking the MRT is faster than taking the train."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g5-neg",
+   "items": [
+    {
+     "zh": "在家上網不比在學校快。",
+     "py": "Zài jiā shàngwǎng bù bǐ zài xuéxiào kuài.",
+     "en": "Using the internet at home isn’t faster than at school."
+    },
+    {
+     "zh": "我的車不比他的車貴。",
+     "py": "Wǒ de chē bù bǐ tā de chē guì.",
+     "en": "My car isn’t more expensive than his."
+    },
+    {
+     "zh": "坐公車不是比坐計程車快。",
+     "py": "Zuò gōngchē búshì bǐ zuò jìchéngchē kuài.",
+     "en": "Taking the bus isn’t faster than taking a taxi."
+    }
+   ],
+   "title": "Negation (不比 or 不是比)"
+  },
+  {
+   "type": "examples",
+   "id": "g5-q",
+   "items": [
+    {
+     "zh": "他們學校比你們學校遠嗎？",
+     "py": "Tāmen xuéxiào bǐ nǐmen xuéxiào yuǎn ma?",
+     "en": "Is their school farther than yours?"
+    },
+    {
+     "zh": "這種手機比那種貴嗎？",
+     "py": "Zhè zhǒng shǒujī bǐ nà zhǒng guì ma?",
+     "en": "Is this kind of phone more expensive than that kind?"
+    }
+   ],
+   "title": "Questions"
+  },
+  {
+   "type": "exercise",
+   "id": "g5-x",
+   "title": "練習 Exercise",
+   "instruction": "Make a sentence with 比.",
+   "items": [
+    {
+     "prompt": "坐計程車／坐公車／快 → ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "這本書／那本書／貴 → ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "高鐵／火車／不／慢 → ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：這種茶比那種好喝嗎？　B：＿＿＿＿＿＿。（say no, using 不比）",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-act",
+   "en": "Classroom Activities",
+   "zh": "課室活動",
+   "source": {
+    "pages": [
+     199
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "act1",
+   "en": "I. Weekend Plans",
+   "level": 3
+  },
+  {
+   "type": "text",
+   "id": "act1-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Talk about plans for free time."
+    },
+    {
+     "lang": "en",
+     "text": "Task: Fill in a short schedule (今天晚上, 明天中午, 明天晚上, 這個週末) with who you’ll go with, how you’ll get there, where you’re going, and what you’ll do — then tell a partner, e.g. 這個週末我要跟朋友坐公車到臺南去玩。"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "act2",
+   "en": "II. Why Do You Like It?",
+   "level": 3,
+   "source": {
+    "pages": [
+     200
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "act2-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Explain what you like or dislike about something, giving at least two reasons with 又…又…."
+    },
+    {
+     "lang": "en",
+     "text": "Task: Ask a partner these questions and have them answer with 又…又…, 所以…, e.g. A：你為什麼常坐高鐵？ B：高鐵又快又舒服，所以我常坐高鐵。"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "act2-x",
+   "title": "問題 Questions",
+   "instruction": "Questions to ask your partner.",
+   "items": [
+    {
+     "prompt": "你為什麼喜歡（或不喜歡）坐捷運？",
+     "hint": ""
+    },
+    {
+     "prompt": "你為什麼想買這種手機？",
+     "hint": ""
+    },
+    {
+     "prompt": "你為什麼不吃那家的牛肉麵？",
+     "hint": ""
+    },
+    {
+     "prompt": "你為什麼喜歡這個地方？",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "act3",
+   "en": "III. Which Is Better?",
+   "level": 3,
+   "source": {
+    "pages": [
+     200,
+     201
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "act3-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Make a simple comparison, using 比 or 比較."
+    },
+    {
+     "lang": "en",
+     "text": "Task: In groups, pick one option from each pair below (go to the Palace Museum or the mountains; watch TV or sing at KTV; drink coffee or tea; take a scooter or play tennis). Decide together and explain your choice with 比 or 比較, then tell the class your group’s picks."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "act4",
+   "en": "IV. Getting There",
+   "level": 3,
+   "source": {
+    "pages": [
+     201
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "act4-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Name the different kinds of transportation and describe how to reach a destination."
+    },
+    {
+     "lang": "en",
+     "text": "Task: A friend or family member is visiting you in Taiwan and you want to take them to 陽明山 (Yangmingshan). In pairs, plan how you will get there (which transportation, from where, roughly how long it takes) and present your plan."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-cult",
+   "en": "Bits of Chinese Culture",
+   "zh": "文化",
+   "source": {
+    "pages": [
+     202,
+     203
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "cult1",
+   "en": "Souvenirs",
+   "level": 3
+  },
+  {
+   "type": "text",
+   "id": "cult1-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Bringing back local products as gifts for friends and family after a trip, or when returning to one’s hometown, is a long-standing habit in Chinese culture. In Taiwan, local governments encourage this by promoting goods that carry a place’s own character — food, crafts, and everyday items — which also supports the local economy."
+    },
+    {
+     "lang": "en",
+     "text": "Popular souvenirs include sweets and snacks (pineapple cakes and sun cakes among the best known), farm, sea and mountain products — tea from Ali Mountain (阿里山) is a classic example — items linked to a place's history, such as Hualien marble, and ordinary items printed with “Taiwan”, such as T-shirts, key chains and magnets."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "cult2",
+   "en": "YouBike in Taipei",
+   "level": 3,
+   "source": {
+    "pages": [
+     204
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "cult2-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "YouBike is Taipei’s public bicycle-sharing system: an unstaffed, digitally managed network of docking stations that runs around the clock. Riders can pick up a bike at one station and return it at another."
+    },
+    {
+     "lang": "en",
+     "text": "The system is meant to make it cheap and easy to cover the “last mile” between home, a bus or MRT stop, and work or school — a cheap, eco-friendly link between other kinds of transportation that the government hopes will encourage people to drive less."
+    }
+   ]
+  },
+  {
+   "type": "note",
+   "id": "cult-photos",
+   "text": "Halaman budaya di buku juga memuat foto (oleh-oleh, sepeda YouBike); foto tidak disalin. Lihat halaman asli buku (hlm. PDF 202–204)."
+  },
+  {
+   "type": "heading",
+   "id": "h-pron",
+   "en": "Notes on Pinyin and Pronunciation",
+   "source": {
+    "pages": [
+     206
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "pr1",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Pinyin spelling: the finals “-iang” and “-ing” with no initial consonant"
+    },
+    {
+     "lang": "en",
+     "text": "When a syllable has no consonant before the vowel “i” and the final is “-iang”, the spelling changes “i” to “y”: 央 yāng, 陽 yáng, 羊 yáng (not *iang)."
+    },
+    {
+     "lang": "en",
+     "text": "When a syllable has no consonant before the vowel “i” and the final is “-ieng”, the “e” is dropped and the spelling becomes “-ying”: 英 yīng, 影 yǐng, 應 yīng (not *ieng)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-self",
+   "en": "Self-Assessment Checklist",
+   "source": {
+    "pages": [
+     207
+    ]
+   }
+  },
+  {
+   "type": "checklist",
+   "id": "self",
+   "items": [
+    "I can name different kinds of transportation and talk about getting to a destination.",
+    "I can talk about a person's plans for their free time.",
+    "I can make a simple comparison between different kinds of transportation.",
+    "I can explain what someone likes or dislikes about something."
+   ]
+  }
+ ]
+}

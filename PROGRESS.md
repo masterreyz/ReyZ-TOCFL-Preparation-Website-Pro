@@ -37,7 +37,8 @@ Chosen 2026-11-16. Order: A1 Textbook L1→L15, A1 Workbook L1→L15, then A2, B
 | A1 Textbook L5 牛肉麵真好吃 | 112–129 | ✅ complete, checked page by page (zhuyin column not copied; photos of real people not copied) |
 | A1 Textbook L6 他們學校在山上 | 130–157 | ✅ complete — **original mode** (own explanations, examples, practice dialogues, exercises, culture notes; book word list + audio tracks linked) |
 | A1 Textbook L7 早上九點去KTV | 158–185 | ✅ complete — original mode (adds telling-time table, punctuation table) |
-| A1 Textbook L8 坐火車去臺南 | 186–207 | ⏭ next (original mode) |
+| A1 Textbook L8 坐火車去臺南 | 186–207 | ✅ complete — original mode (5 grammar points: 跟, 怎麼, 比較, 又…又…, 比; adds -iang/-ying pinyin note) |
+| A1 Textbook L9 | 208– | ⏭ next (original mode) |
 | all other lessons | — | page images until migrated |
 
 ### Original mode (from A1 L6 onward, chosen 2026-11-17)

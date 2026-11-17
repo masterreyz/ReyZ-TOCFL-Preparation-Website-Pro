@@ -120,6 +120,26 @@
   "detail": ""
  },
  {
+  "test": "L8 renders all sections",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "L8 dialogue I read-all",
+  "ok": true,
+  "detail": "這個週末，我想跟同學去臺南玩。怎麼去？我想坐火車去。火車比較"
+ },
+ {
+  "test": "L8 grammar example speak",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "search finds L8 content",
+  "ok": true,
+  "detail": ""
+ },
+ {
   "test": "book page image loads",
   "ok": true,
   "detail": ""
