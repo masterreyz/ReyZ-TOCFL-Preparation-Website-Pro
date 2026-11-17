@@ -1,0 +1,1523 @@
+{
+ "testId": "b-r2",
+ "segments": 315,
+ "englishComplete": false,
+ "questions": {
+  "1": {
+   "passage": [
+    {
+     "zh": "（一）",
+     "py": "(Yī)"
+    },
+    {
+     "zh": "我剛來這裡工作的時候，我的老闆幫我在這個大都市裡租了一間小房間。",
+     "py": "Wǒ gānglái zhèlǐ gōngzuò de shíhòu, wǒ de lǎobǎn bāng wǒ zài zhè ge Dàdūshì lǐ zū le yìjiān xiǎofángjiān."
+    },
+    {
+     "zh": "他對這個地點非常滿意，附近交通不但 1 ，也有多家商店和超市，買什麼都方便。",
+     "py": "Tā duì zhè ge dìdiǎn fēicháng mǎnyì, fùjìn jiāotōng búdàn 1, yě yǒu duōjiā shāngdiàn hé chāoshì, mǎi shénme dōu fāngbiàn."
+    },
+    {
+     "zh": "不過我覺得大都市的生活 2 太小，休息的時候還是覺得有壓力，住在這裡一點也 3 輕鬆。",
+     "py": "Búguò wǒ juéde Dàdūshì de shēnghuó 2 tàixiǎo, xiūxí de shíhòu háishì juéde yǒu yālì, zhù zài zhèlǐ yìdiǎn yě 3 qīngsōng."
+    },
+    {
+     "zh": "聽說這座城市西邊的郊區有不少便宜的大房子，那裡 4 交通不方便， 4 有很多自然風景，我希望 5 工作穩定以後，再搬到那兒住。",
+     "py": "Tīngshuō zhè zuò Chéngshì xībiān de jiāoqū yǒu bùshǎo piányi de dàfángzi, nàlǐ 4 jiāotōng bù fāngbiàn, 4 yǒu hěnduō zìránfēngjǐng, wǒ xīwàng 5 gōngzuò wěndìng yǐhòu, zàibān dào nàér zhù."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "流行",
+     "py": "Liúxíng"
+    },
+    "B": {
+     "zh": "熱鬧",
+     "py": "Rènào"
+    },
+    "C": {
+     "zh": "發達",
+     "py": "Fādá"
+    },
+    "D": {
+     "zh": "順利",
+     "py": "Shùnlì"
+    }
+   }
+  },
+  "2": {
+   "options": {
+    "A": {
+     "zh": "位置",
+     "py": "Wèizhì"
+    },
+    "B": {
+     "zh": "地方",
+     "py": "Dìfāng"
+    },
+    "C": {
+     "zh": "背景",
+     "py": "Bèijǐng"
+    },
+    "D": {
+     "zh": "空間",
+     "py": "Kōngjiān"
+    }
+   }
+  },
+  "3": {
+   "options": {
+    "A": {
+     "zh": "不",
+     "py": "Bù"
+    },
+    "B": {
+     "zh": "很",
+     "py": "Hěn"
+    },
+    "C": {
+     "zh": "倒",
+     "py": "Dào"
+    },
+    "D": {
+     "zh": "夠",
+     "py": "Gòu"
+    }
+   }
+  },
+  "4": {
+   "options": {
+    "A": {
+     "zh": "不論…都…",
+     "py": "Búlùn… dōu…"
+    },
+    "B": {
+     "zh": "雖然…但是…",
+     "py": "Suīrán… dànshì…"
+    },
+    "C": {
+     "zh": "除非…否則…",
+     "py": "Chúfēi… fǒuzé…"
+    },
+    "D": {
+     "zh": "假如…那麼…",
+     "py": "Jiǎrú… nàme…"
+    }
+   }
+  },
+  "5": {
+   "options": {
+    "A": {
+     "zh": "對",
+     "py": "Duì"
+    },
+    "B": {
+     "zh": "為",
+     "py": "Wèi"
+    },
+    "C": {
+     "zh": "照",
+     "py": "Zhào"
+    },
+    "D": {
+     "zh": "等",
+     "py": "Děng"
+    }
+   }
+  },
+  "6": {
+   "passage": [
+    {
+     "zh": "（二）",
+     "py": "(Èr)"
+    },
+    {
+     "zh": "小君養的烏龜生病了，必須住院一個月，醫藥費加上住院費一共得付八萬元。",
+     "py": "Xiǎojūnyǎng de Wūguī shēngbìng le, bìxū zhùyuàn yígeyuè, yīyàofèi jiāshàng zhùyuànfèi yígòng défù bāwànyuán."
+    },
+    {
+     "zh": "這 6 費用小君必須好幾個月不吃、不喝、不花錢，",
+     "py": "Zhè 6 fèiyòng Xiǎojūn bìxū hǎojǐ ge yuè bùchī, bù hē, bù huāqián,"
+    },
+    {
+     "zh": "7 付得了，但她最後還是請醫生想辦法治烏龜的病。",
+     "py": "7 fùdé le, dàn tā zuìhòu háishì qǐng yīshēng xiǎng bànfǎ zhì Wūguī de bìng."
+    },
+    {
+     "zh": "醫生被她的愛心所 8 ，決定只收她四萬元。",
+     "py": "Yīshēng bèi tā de àixīn suǒ 8, juédìng zhǐ shōu tā sìwànyuán."
+    },
+    {
+     "zh": "現在，小君總算 9 ，要照顧好動物，除了牠們平常食物的費用， 10 得準備牠們臨時可能需要看病的錢，這真的不是一件容易的事。",
+     "py": "Xiànzài, Xiǎojūn zǒngsuàn 9, yào zhàogù hǎo dòngwù, chúle tā men píngcháng shíwù de fèiyòng, 10 dé zhǔnbèi tā men línshí kěnéng xūyào kànbìng de qián, zhè zhēnde búshì yíjiàn róngyì de shì."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "頓",
+     "py": "Dùn"
+    },
+    "B": {
+     "zh": "組",
+     "py": "Zǔ"
+    },
+    "C": {
+     "zh": "場",
+     "py": "Chǎng"
+    },
+    "D": {
+     "zh": "筆",
+     "py": "Bǐ"
+    }
+   }
+  },
+  "7": {
+   "options": {
+    "A": {
+     "zh": "才",
+     "py": "Cái"
+    },
+    "B": {
+     "zh": "又",
+     "py": "Yòu"
+    },
+    "C": {
+     "zh": "仍",
+     "py": "Réng"
+    },
+    "D": {
+     "zh": "更",
+     "py": "Gèng"
+    }
+   }
+  },
+  "8": {
+   "options": {
+    "A": {
+     "zh": "滿足",
+     "py": "Mǎnzú"
+    },
+    "B": {
+     "zh": "感動",
+     "py": "Gǎndòng"
+    },
+    "C": {
+     "zh": "刺激",
+     "py": "Cìjī"
+    },
+    "D": {
+     "zh": "鼓勵",
+     "py": "Gǔlì"
+    }
+   }
+  },
+  "9": {
+   "options": {
+    "A": {
+     "zh": "明白",
+     "py": "Míngbái"
+    },
+    "B": {
+     "zh": "在乎",
+     "py": "Zàihū"
+    },
+    "C": {
+     "zh": "渴望",
+     "py": "Kěwàng"
+    },
+    "D": {
+     "zh": "犧牲",
+     "py": "Xīshēng"
+    }
+   }
+  },
+  "10": {
+   "options": {
+    "A": {
+     "zh": "既",
+     "py": "Jì"
+    },
+    "B": {
+     "zh": "僅",
+     "py": "Jǐn"
+    },
+    "C": {
+     "zh": "卻",
+     "py": "Què"
+    },
+    "D": {
+     "zh": "還",
+     "py": "Hái"
+    }
+   }
+  },
+  "11": {
+   "passage": [
+    {
+     "zh": "（三）",
+     "py": "(Sān)"
+    },
+    {
+     "zh": "每年春分這一天，日、夜時間一樣長，世界 11 地都能照到陽光，有「平等」之意，因此，聯合國將這天定為「世界地球日」，",
+     "py": "Měinián chūnfēn zhè yìtiān, rì, yè shíjiān yíyàng zhǎng, shìjiè 11 dì dōu néng zhàodào Yángguāng, yǒu “Píngděng” zhī yì, yīncǐ, Liánhéguó jiāng zhètiān dìngwèi “Shìjiè dìqiúrì”,"
+    },
+    {
+     "zh": "12 平等的理想。",
+     "py": "12 píngděng de lǐxiǎng."
+    },
+    {
+     "zh": "事實上，每年的地球日本來日期都不 13 ，直到 1970 年，美國一名大學生在該年的地球日──4 月 22 日發起環境保護活動， 14 全美二千多萬人的響應與支持。",
+     "py": "Shìshíshàng, měinián de dìqiú Rìběn lái rìqī dōu bù 13, zhídào 1970 nián, Měiguó yìmíng dàxuéshēng zài gāi nián de dìqiúrì ─ ─ 4 yuè 22 rì fāqǐ huánjìngbǎohù huódòng, 14 Quánměi èrqiān duōwàn rén de xiǎngyìng yǔ zhīchí."
+    },
+    {
+     "zh": "15 該次活動非常成功，此後的地球日就定在 4 月 22 日，主題也轉而趨向環保。",
+     "py": "15 gāicì huódòng fēicháng chénggōng, cǐhòu de dìqiúrì jiùdìng zài 4 yuè 22 rì, zhǔtí yě zhuǎnér qūxiàng huánbǎo."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "外",
+     "py": "Wài"
+    },
+    "B": {
+     "zh": "當",
+     "py": "Dāng"
+    },
+    "C": {
+     "zh": "各",
+     "py": "Gè"
+    },
+    "D": {
+     "zh": "本",
+     "py": "Běn"
+    }
+   }
+  },
+  "12": {
+   "options": {
+    "A": {
+     "zh": "陳列",
+     "py": "Chénliè"
+    },
+    "B": {
+     "zh": "應付",
+     "py": "Yìngfù"
+    },
+    "C": {
+     "zh": "宣傳",
+     "py": "Xuānchuán"
+    },
+    "D": {
+     "zh": "奮鬥",
+     "py": "Fèndòu"
+    }
+   }
+  },
+  "13": {
+   "options": {
+    "A": {
+     "zh": "例外",
+     "py": "Lìwài"
+    },
+    "B": {
+     "zh": "固定",
+     "py": "Gùdìng"
+    },
+    "C": {
+     "zh": "典型",
+     "py": "Diǎnxíng"
+    },
+    "D": {
+     "zh": "平衡",
+     "py": "Pínghéng"
+    }
+   }
+  },
+  "14": {
+   "options": {
+    "A": {
+     "zh": "獲得",
+     "py": "Huòdé"
+    },
+    "B": {
+     "zh": "包括",
+     "py": "Bāokuò"
+    },
+    "C": {
+     "zh": "呈現",
+     "py": "Chéngxiàn"
+    },
+    "D": {
+     "zh": "面臨",
+     "py": "Miànlín"
+    }
+   }
+  },
+  "15": {
+   "options": {
+    "A": {
+     "zh": "一旦",
+     "py": "Yídàn"
+    },
+    "B": {
+     "zh": "與其",
+     "py": "Yǔqí"
+    },
+    "C": {
+     "zh": "即使",
+     "py": "Jíshǐ"
+    },
+    "D": {
+     "zh": "由於",
+     "py": "Yóuyú"
+    }
+   }
+  },
+  "16": {
+   "passage": [
+    {
+     "zh": "（一）",
+     "py": "(Yī)"
+    }
+   ],
+   "stem": {
+    "zh": "這個捐血中心的傳單上說了什麼？",
+    "py": "Zhè ge juānxuè zhōngxīn de chuándān shàng shuō le shénme?"
+   },
+   "options": {
+    "A": {
+     "zh": "服務別人就是幫助別人",
+     "py": "Fúwù biérén jiùshì bāngzhù biérén"
+    },
+    "B": {
+     "zh": "捐血地點將透過電話通知",
+     "py": "Juānxuè dìdiǎn jiāng tòuguò diànhuà tōngzhī"
+    },
+    "C": {
+     "zh": "捐血中心需要各種血型的血",
+     "py": "Juānxuè zhōngxīn xūyào gèzhǒng xuèxíng de xuè"
+    },
+    "D": {
+     "zh": "目前哪一種血型的血明顯不夠",
+     "py": "Mùqián nǎ yìzhǒng xuèxíng de xuè míngxiǎn búgòu"
+    }
+   }
+  },
+  "17": {
+   "passage": [
+    {
+     "zh": "（二）",
+     "py": "(Èr)"
+    }
+   ],
+   "stem": {
+    "zh": "根據這張廣告單，下面哪一個是對的？",
+    "py": "Gēnjù zhè zhāng guǎnggàodān, xiàmiàn nǎ yí ge shì duì de?"
+   },
+   "options": {
+    "A": {
+     "zh": "店家接受電話訂餐",
+     "py": "Diànjiā jiēshòu diànhuà dìngcān"
+    },
+    "B": {
+     "zh": "點特定火鍋料就送現金",
+     "py": "Diǎn tèdìng huǒguō liào jiù sòng xiànjīn"
+    },
+    "C": {
+     "zh": "二月前消費就送小禮物",
+     "py": "Èryuè qián xiāofèi jiù sòng xiǎo lǐwù"
+    },
+    "D": {
+     "zh": "消費一百元以上才能得到鑰匙圈",
+     "py": "Xiāofèi yìbǎiyuán yǐshàng cáinéng dédào yàoshiquān"
+    }
+   }
+  },
+  "18": {
+   "passage": [
+    {
+     "zh": "（三）",
+     "py": "(Sān)"
+    },
+    {
+     "zh": "每晚約七點半，我會拿著家中的垃圾走到十字路口的超級市場前等垃圾車，和附近的鄰居一邊等一邊聊天。",
+     "py": "Měiwǎn yuē qīdiǎn bàn, wǒhuì názhù jiāzhōng de lājī zǒu dào shízìlùkǒu de chāojíshìchǎng qián děng lājīchē, hé fùjìn de línjū yìbiān děng yìbiān Liáotiān."
+    },
+    {
+     "zh": "那些六十幾歲的老鄰居，都是看著我長大的。",
+     "py": "Nàxiē liùshíjǐsuì de lǎo línjū, dōu shì kànzhù wǒ Zhǎngdà de."
+    },
+    {
+     "zh": "最近，他們常問：「文玉，有沒有男朋友？」",
+     "py": "Zuìjìn, tāmen cháng wèn: “Wényù, yǒuméiyǒu nánpéngyǒu?”"
+    },
+    {
+     "zh": "、「工作怎麼樣？」",
+     "py": ", “Gōngzuò zěnmeyàng?”"
+    },
+    {
+     "zh": "不過，因為他們總是忘記自己問過，所以基本上，我每天都在回答同樣的問題。",
+     "py": "Búguò, yīnwèi tāmen zǒngshì wàngjì zìjǐ wèn guò, suǒyǐ jīběnshàng, wǒ měitiān dōu zài huídá tóngyàng de wèntí."
+    }
+   ],
+   "stem": {
+    "zh": "這段話提到文玉的什麼事？",
+    "py": "Zhèduànhuà tídào Wényù de shénme shì?"
+   },
+   "options": {
+    "A": {
+     "zh": "她經常忘記回答鄰居的問題",
+     "py": "Tā jīngcháng wàngjì huídá línjū de wèntí"
+    },
+    "B": {
+     "zh": "她等垃圾車的地方就在家門口",
+     "py": "Tā děng lājīchē de dìfāng jiù zài jiāménkǒu"
+    },
+    "C": {
+     "zh": "她和鄰居每天聊天的內容都一樣",
+     "py": "Tā hé línjū měitiān Liáotiān de nèiróng dōu yíyàng"
+    },
+    "D": {
+     "zh": "她不願意回答跟交友或工作有關的事",
+     "py": "Tā bù yuànyì huídá gēn jiāoyǒu huò gōngzuò yǒuguān de shì"
+    }
+   }
+  },
+  "19": {
+   "passage": [
+    {
+     "zh": "（四）",
+     "py": "(Sì)"
+    },
+    {
+     "zh": "一項研究發現，女人比男人更容易感覺到「疼痛」，也就是說，在相同的情況下，女人對痛的感覺比男人高出 20%。",
+     "py": "Yíxiàng yánjiū fāxiàn, nǚrén bǐ nánrén gèng róngyì gǎnjué dào “Téngtòng”, yějiùshìshuō, zài xiāngtóng de qíngkuàng xià, nǚrén duì tòng de gǎnjué bǐ nánrén gāochū 20 %."
+    },
+    {
+     "zh": "研究還發現，聽音樂可有效降低疼痛感。",
+     "py": "Yánjiū hái fāxiàn, tīng yīnyuè kě yǒuxiào jiàngdī téngtònggǎn."
+    },
+    {
+     "zh": "換句話說，因牙齒痛去看牙時，可以聽音樂或玩一些帶有音樂的遊戲。",
+     "py": "Huànjùhuàshuō, yīn yáchǐtòng qù kàn yá shí, kěyǐ tīng yīnyuè huò wán yìxiē dàiyǒu yīnyuè de yóuxì."
+    },
+    {
+     "zh": "好聽的、有趣的音樂不但能讓你覺得沒那麼痛，也能幫助你別太注意旁邊機器的聲音。",
+     "py": "Hǎotīng de, yǒuqù de yīnyuè búdàn néng ràng nǐ juéde méi nàme tòng, yě néng bāngzhù nǐ bié tài zhùyì pángbiān jīqì de shēngyīn."
+    }
+   ],
+   "stem": {
+    "zh": "這個研究說了什麼？",
+    "py": "Zhè ge yánjiū shuō le shénme?"
+   },
+   "options": {
+    "A": {
+     "zh": "女人在音樂方面的興趣與表現比男人高得多",
+     "py": "Nǚrén zài yīnyuè fāngmiàn de xìngqù yǔ biǎoxiàn bǐ nánrén gāo dé duō"
+    },
+    "B": {
+     "zh": "聽音樂的時候，人們比較不容易感覺到疼痛",
+     "py": "Tīng yīnyuè de shíhòu, rénmen bǐjiào bù róngyì gǎnjué dào téngtòng"
+    },
+    "C": {
+     "zh": "看病時播放音樂，有助於降低醫院內的噪音",
+     "py": "Kànbìng shí bōfàng yīnyuè, yǒuzhùyú jiàngdī yīyuàn nèi de zàoyīn"
+    },
+    "D": {
+     "zh": "男人比女人更怕痛，牙痛時常不願去看牙醫",
+     "py": "Nánrén bǐ nǚrén gèngpà tòng, yátòng shícháng bù yuàn qù kàn yáyī"
+    }
+   }
+  },
+  "20": {
+   "passage": [
+    {
+     "zh": "（五）",
+     "py": "(Wǔ)"
+    },
+    {
+     "zh": "一位二十歲的大學生，花了一年的時間，製造出了一台煮咖啡的機器。",
+     "py": "Yíwèi èrshísuì de dàxuéshēng, huā le yìnián de shíjiān, zhìzào chū le yìtái zhǔ kāfēi de jīqì."
+    },
+    {
+     "zh": "這台咖啡機能讓人只用「嘴」就煮出咖啡！",
+     "py": "Zhè tái kāfēi jīnéng ràng rén zhǐyòng “Zuǐ” jiù zhǔ chū kāfēi!"
+    },
+    {
+     "zh": "如果你是這台咖啡機的主人，想喝咖啡的時候，只需要在離它三公尺以內的地方說：「煮一杯熱咖啡！」",
+     "py": "Rúguǒ nǐ shì zhè tái kāfēijī de zhǔrén, xiǎng Hēkāfēi de shíhòu, zhǐ xūyào zài lí tā sān gōngchǐ yǐnèi de dìfāng shuō: “Zhǔ yìbēi Rèkāfēi!”"
+    },
+    {
+     "zh": "。大概五分鐘以後，你就能夠喝到一杯熱熱的咖啡。",
+     "py": ". Dàgài wǔfēnzhōng yǐhòu, nǐ jiù nénggòu hē dào yìbēi rèrè de kāfēi."
+    }
+   ],
+   "stem": {
+    "zh": "根據這段介紹，可以知道什麼事？",
+    "py": "Gēnjù zhè duàn jièshào, kěyǐ zhīdào shénme shì?"
+   },
+   "options": {
+    "A": {
+     "zh": "咖啡機是透過聲音來控制的",
+     "py": "Kāfēijī shì tòuguò shēngyīn lái kòngzhì de"
+    },
+    "B": {
+     "zh": "咖啡的品質不能只用嘴來判斷",
+     "py": "Kāfēi de pǐnzhì bùnéng zhǐyòng zuǐ lái pànduàn"
+    },
+    "C": {
+     "zh": "第一個發明咖啡機的是個年輕人",
+     "py": "Dìyí ge fāmíng kāfēijī de shì gè niánqīngrén"
+    },
+    "D": {
+     "zh": "用這台咖啡機煮咖啡，多遠都聞得到",
+     "py": "Yòng zhè tái kāfēijī zhǔ kāfēi, duō yuǎn dōu wén dédào"
+    }
+   }
+  },
+  "21": {
+   "passage": [
+    {
+     "zh": "（六）",
+     "py": "(Liù)"
+    },
+    {
+     "zh": "西洋情人節這一天，情人之間會互相贈送禮物，主要是希望能向對方表達自己濃濃的愛。",
+     "py": "Xīyáng qíngrénjié zhè yìtiān, qíngrén zhījiān huì hùxiāng zèngsòng lǐwù, zhǔyào shì xīwàng néng xiàng duìfāng biǎodá zìjǐ nóngnóngde ài."
+    },
+    {
+     "zh": "送給情人的禮物有很多選擇，其中，除了常見的鮮花，巧克力也是很受歡迎的禮物。",
+     "py": "Sònggěi qíngrén de lǐwù yǒu hěnduō xuǎnzé, qízhōng, chúle chángjiàn de xiānhuā, Qiǎokèlì yě shì hěn shòuhuānyíng de lǐwù."
+    },
+    {
+     "zh": "有些人覺得巧克力太甜，容易讓人變胖。",
+     "py": "Yǒuxiē rén juéde Qiǎokèlì Tàitián, róngyì ràng rén biàn pàng."
+    },
+    {
+     "zh": "事實上，每天吃一點巧克力對健康很有幫助，尤其是顏色深、味道苦的巧克力，越黑越苦越健康。",
+     "py": "Shìshíshàng, měitiān chī yìdiǎn Qiǎokèlì duì jiànkāng hěn yǒu bāngzhù, yóuqí shì yánsè shēn, wèidào kǔ de Qiǎokèlì, yuè hēi yuèkǔ yuè jiànkāng."
+    }
+   ],
+   "stem": {
+    "zh": "關於這篇文章，下面哪一個是正確的？",
+    "py": "Guānyú zhè piānwénzhāng, xiàmiàn nǎ yí ge shì zhèngquè de?"
+   },
+   "options": {
+    "A": {
+     "zh": "深色巧克力不比淺色的健康",
+     "py": "Shēnsè Qiǎokèlì bù bǐ qiǎnsè de jiànkāng"
+    },
+    "B": {
+     "zh": "現代人早已不流行買花、送花",
+     "py": "Xiàndàirén zǎoyǐ bù liúxíng mǎihuā, sònghuā"
+    },
+    "C": {
+     "zh": "吃巧克力不是對身體沒有好處",
+     "py": "Chī Qiǎokèlì búshì duì shēntǐ méiyǒu hǎochù"
+    },
+    "D": {
+     "zh": "情人節送禮物才能證明彼此的愛",
+     "py": "Qíngrénjié sònglǐwù cáinéng zhèngmíng bǐcǐ de ài"
+    }
+   }
+  },
+  "22": {
+   "passage": [
+    {
+     "zh": "（七）",
+     "py": "(Qī)"
+    },
+    {
+     "zh": "一般人都以為用 CD 儲存資料，就能永久保存珍貴的相片或影片，這恐怕是錯誤觀念。",
+     "py": "Yìbān rén dōu yǐwéi yòng CD chǔcún zīliào, jiù néng yǒngjiǔ bǎocún zhēnguì de xiàngpiān huò yǐngpiàn, zhè kǒngpà shì cuòwùguānniàn."
+    },
+    {
+     "zh": "日本最新研究發現，CD 也有壽命，如果 CD長期被放在潮濕的地方或陽光下，時間久了，檔案損壞的風險一定較高。",
+     "py": "Rìběn zuìxīn yánjiū fāxiàn, CD yě yǒu shòumìng, rúguǒ CD chángqī bèi fàngzài cháoshī de dìfāng huò Yángguāng xià, shíjiān jiǔ le, dàngàn sǔnhuài de fēngxiǎn yídìng jiào gāo."
+    },
+    {
+     "zh": "因此，要想保存珍貴影像，最好還是定期在不同地方多儲存幾份。",
+     "py": "Yīncǐ, yào xiǎng bǎocún zhēnguì yǐngxiàng, zuìhǎo háishì dìngqī zài bùtóng dìfāng duō chǔcún jǐfèn."
+    }
+   ],
+   "stem": {
+    "zh": "這篇文章談到關於使用 CD 存檔的哪一件事？",
+    "py": "Zhè piānwénzhāng tándào guānyú shǐyòng CD cúndàng de nǎ yíjiàn shì?"
+   },
+   "options": {
+    "A": {
+     "zh": "是最能保障檔案品質的方式",
+     "py": "Shì zuì néng bǎozhàng dàngàn pǐnzhì de fāngshì"
+    },
+    "B": {
+     "zh": "所儲存的內容都有保存期限",
+     "py": "Suǒ chǔcún de nèiróng dōu yǒu bǎocún qīxiàn"
+    },
+    "C": {
+     "zh": "其壽命比一般人想像的還長",
+     "py": "Qí shòumìng bǐ yìbān rén xiǎngxiàng de háizhǎng"
+    },
+    "D": {
+     "zh": "存檔程序複雜是唯一的缺點",
+     "py": "Cúndàng chéngxù fùzá shì wéiyī de quēdiǎn"
+    }
+   }
+  },
+  "23": {
+   "passage": [
+    {
+     "zh": "（八）",
+     "py": "(Bā)"
+    },
+    {
+     "zh": "在中國，多數人長久以來都認為紙是東漢時期的蔡倫發明的，如今這個觀點被推翻了。",
+     "py": "Zài Zhōngguó, duōshù rén chángjiǔyǐlái dōu rènwéi zhǐ shì Dōnghànshíqī de Càilún fāmíng de, rújīn zhè ge guāndiǎn bèi tuīfān le."
+    },
+    {
+     "zh": "根據考古學家的最新發現，在蔡倫之前，中國人早已知道如何造紙，只是造紙的品質較差罷了。",
+     "py": "Gēnjù kǎogǔxuéjiā de zuìxīn fāxiàn, zài Càilún zhīqián, Zhōngguó rén zǎoyǐ zhīdào rúhé zàozhǐ, zhǐshì zàozhǐ de pǐnzhì jiàochà bàle."
+    },
+    {
+     "zh": "儘管蔡倫不是發明紙的人，但他卻改進了造紙的材料和技術。",
+     "py": "Jǐnguǎn Càilún búshì fāmíng zhǐ de rén, dàntāquè gǎijìn le zàozhǐ de cáiliào hé jìshù."
+    },
+    {
+     "zh": "大家為了紀念他的貢獻，便把這種改良過的紙叫做「蔡侯紙」。",
+     "py": "Dàjiā wèile jìniàn tā de gòngxiàn, biàn bǎ zhèzhǒng gǎiliáng guò de zhǐ jiàozuò “Càihóu zhǐ”."
+    }
+   ],
+   "stem": {
+    "zh": "根據這段話，下面哪一項是對的？",
+    "py": "Gēnjù zhèduànhuà, xiàmiàn nǎ yíxiàng shì duì de?"
+   },
+   "options": {
+    "A": {
+     "zh": "考古學家不贊同蔡倫擅長造紙",
+     "py": "Kǎogǔxuéjiā bù zàntóng Càilún shàncháng zàozhǐ"
+    },
+    "B": {
+     "zh": "「蔡侯紙」是中國人最早發明的紙",
+     "py": "“Càihóu zhǐ” shì Zhōngguó rén zuìzǎo fāmíng de zhǐ"
+    },
+    "C": {
+     "zh": "很多人最近才知道東漢以前沒有紙",
+     "py": "Hěnduō rén zuìjìn cái zhīdào dōnghàn yǐqián méiyǒu zhǐ"
+    },
+    "D": {
+     "zh": "蔡倫的主要成就在於改進造紙的品質",
+     "py": "Càilún de zhǔyào chéngjiù zàiyú gǎijìn zàozhǐ de pǐnzhì"
+    }
+   }
+  },
+  "24": {
+   "passage": [
+    {
+     "zh": "（九）",
+     "py": "(Jiǔ)"
+    }
+   ],
+   "stem": {
+    "zh": "小芳為什麼寫這封信？",
+    "py": "Xiǎofāng wèishénme xiě zhè Fēngxìn?"
+   },
+   "options": {
+    "A": {
+     "zh": "打算送電影票給朋友",
+     "py": "Dǎsuàn sòng diànyǐngpiào gěi péngyǒu"
+    },
+    "B": {
+     "zh": "想找人一起買電影票",
+     "py": "Xiǎng zhǎo rén yìqǐ mǎi diànyǐngpiào"
+    },
+    "C": {
+     "zh": "要幫家人出售電影票",
+     "py": "Yào bāng jiārén chūshòu diànyǐngpiào"
+    },
+    "D": {
+     "zh": "請人陪弟弟去看電影",
+     "py": "Qǐng rén péi dìdi qù kàn diànyǐng"
+    }
+   }
+  },
+  "25": {
+   "stem": {
+    "zh": "從這封信可以知道什麼事？",
+    "py": "Cóng zhè Fēngxìn kěyǐ zhīdào shénme shì?"
+   },
+   "options": {
+    "A": {
+     "zh": "現在買電影票可以打折",
+     "py": "Xiànzài mǎi diànyǐngpiào kěyǐ dǎzhé"
+    },
+    "B": {
+     "zh": "電影開演的時間已經確定",
+     "py": "Diànyǐng kāiyǎn de shíjiān yǐjīng quèdìng"
+    },
+    "C": {
+     "zh": "小芳的弟弟也會收到小芳的信",
+     "py": "Xiǎofāng de dìdi yě huì shōudào Xiǎofāng de xìn"
+    },
+    "D": {
+     "zh": "買票的人可以自己選擇想看的電影",
+     "py": "Mǎipiào de rén kěyǐ zìjǐ xuǎnzé xiǎngkàn de diànyǐng"
+    }
+   }
+  },
+  "26": {
+   "passage": [
+    {
+     "zh": "（十）",
+     "py": "(Shí)"
+    }
+   ],
+   "stem": {
+    "zh": "關於這個活動，下面何者正確？",
+    "py": "Guānyú zhè ge huódòng, xiàmiàn hézhě zhèngquè?"
+   },
+   "options": {
+    "A": {
+     "zh": "可提供面對面交友的機會",
+     "py": "Kě tígōng miànduìmiàn jiāoyǒu de jīhuì"
+    },
+    "B": {
+     "zh": "只要參加就能得到明信片",
+     "py": "Zhǐyào cānjiā jiù néng dédào míngxìnpiàn"
+    },
+    "C": {
+     "zh": "有三個人可以拿到錢和禮物",
+     "py": "Yǒu sān ge rén kěyǐ nádào qián hé lǐwù"
+    },
+    "D": {
+     "zh": "鼓勵大家拍一些和家鄉有關的影片",
+     "py": "Gǔlì dàjiā pāi yìxiē hé jiāxiāng yǒuguān de yǐngpiàn"
+    }
+   }
+  },
+  "27": {
+   "stem": {
+    "zh": "想參加的人應該要注意什麼事？",
+    "py": "Xiǎng cānjiā de rén yīnggāi yào zhùyì shénme shì?"
+   },
+   "options": {
+    "A": {
+     "zh": "自己必須是秋水鄉的人",
+     "py": "Zìjǐ bìxū shì Qiūshuǐ xiāng de rén"
+    },
+    "B": {
+     "zh": "5 月 30 日以後才能報名",
+     "py": "5 yuè 30 rì yǐhòu cáinéng bàomíng"
+    },
+    "C": {
+     "zh": "有問題就寫信給李小姐",
+     "py": "Yǒu wèntí jiù xiěxìngěi Lǐxiǎojiě"
+    },
+    "D": {
+     "zh": "作品要親自送到鄉公所",
+     "py": "Zuòpǐn yào qīnzì sòngdào xiānggōngsuǒ"
+    }
+   }
+  },
+  "28": {
+   "passage": [
+    {
+     "zh": "（十一）",
+     "py": "(Shíyī)"
+    }
+   ],
+   "stem": {
+    "zh": "這張通知主要是為了說明什麼事？",
+    "py": "Zhè zhāng tōngzhī zhǔyào shì wèile shuōmíng shénme shì?"
+   },
+   "options": {
+    "A": {
+     "zh": "運動會只對校內師生開放",
+     "py": "Yùndònghuì zhǐ duì xiàonèi Shīshēng kāifàng"
+    },
+    "B": {
+     "zh": "搭車前往運動會會場的辦法",
+     "py": "Dāchē qiánwǎng yùndònghuì huìchǎng de bànfǎ"
+    },
+    "C": {
+     "zh": "未來運動會都改在新校區舉辦",
+     "py": "Wèilái yùndònghuì dōu gǎi zài xīn xiàoqū jǔbàn"
+    },
+    "D": {
+     "zh": "今年運動會將同時在兩個校區舉行",
+     "py": "Jīnnián yùndònghuì jiāng tóngshí zài liǎng ge xiàoqū jǔxíng"
+    }
+   }
+  },
+  "29": {
+   "stem": {
+    "zh": "有關新校區的地理位置，下列何者正確？",
+    "py": "Yǒuguān xīn xiàoqū de dìlǐwèizhì, xiàliè hézhě zhèngquè?"
+   },
+   "options": {
+    "A": {
+     "zh": "位於大中路以南",
+     "py": "Wèiyú dà Zhōnglù yǐnán"
+    },
+    "B": {
+     "zh": "在新店火車站旁邊",
+     "py": "Zài Xīndiàn huǒchēzhàn pángbiān"
+    },
+    "C": {
+     "zh": "距離舊校區只要十分鐘",
+     "py": "Jùlí jiù xiàoqū zhǐyào shífēnzhōng"
+    },
+    "D": {
+     "zh": "離它最近的公車站是大中站",
+     "py": "Lí tā zuìjìn de gōngchēzhàn shì dàzhōng zhàn"
+    }
+   }
+  },
+  "30": {
+   "passage": [
+    {
+     "zh": "（十二）",
+     "py": "(Shíèr)"
+    }
+   ],
+   "stem": {
+    "zh": "張小姐剛從全能大學國際貿易系畢業，她還應具備什麼條件，較 有機會到巨輝鋼鐵工作？",
+    "py": "Zhāng Xiǎojiě gāng cóng quánnéng dàxué guójì màoyìxì bìyè, tā hái yīng jùbèi shénme tiáojiàn, jiào yǒu jīhuì dào Jùhuī gāngtiě gōngzuò?"
+   },
+   "options": {
+    "A": {
+     "zh": "可配合公司電話面試",
+     "py": "Kě pèihé gōngsī diànhuà miànshì"
+    },
+    "B": {
+     "zh": "願意外派到國外分公司",
+     "py": "Yuànyì wàipài dào guówài fēngōngsī"
+    },
+    "C": {
+     "zh": "能提出電腦相關能力證明",
+     "py": "Néng tíchū diànnǎo xiāngguān nénglì zhèngmíng"
+    },
+    "D": {
+     "zh": "曾從事鋼鐵產業方面的工作",
+     "py": "Céng cóngshì gāngtiěchǎnyè fāngmiàn de gōngzuò"
+    }
+   }
+  },
+  "31": {
+   "stem": {
+    "zh": "永昌科技公司的工作最適合下面哪一種人？",
+    "py": "Yǒngchāng kējì gōngsī de gōngzuò zuì shìhé xiàmiàn nǎ yìzhǒng rén?"
+   },
+   "options": {
+    "A": {
+     "zh": "計畫半工半讀",
+     "py": "Jìhuà bàngōngbàndú"
+    },
+    "B": {
+     "zh": "毫無工作經驗",
+     "py": "Háowú gōngzuò jīngyàn"
+    },
+    "C": {
+     "zh": "有夜間工作傾向",
+     "py": "Yǒu yèjiāngōngzuò qīngxiàng"
+    },
+    "D": {
+     "zh": "受過一定職業訓練",
+     "py": "Shòuguò yídìng zhíyè xùnliàn"
+    }
+   }
+  },
+  "32": {
+   "passage": [
+    {
+     "zh": "（十三）",
+     "py": "(Shísān)"
+    }
+   ],
+   "stem": {
+    "zh": "關於這個旅遊活動，下面哪一項正確？",
+    "py": "Guānyú zhè ge lǚyóu huódòng, xiàmiàn nǎ yíxiàng zhèngquè?"
+   },
+   "options": {
+    "A": {
+     "zh": "學生要自己另外付保險費",
+     "py": "Xuéshēng yào zìjǐ lìngwài fù bǎoxiǎnfèi"
+    },
+    "B": {
+     "zh": "這是一個當日來回的行程",
+     "py": "Zhè shì yí ge dāngrì láihuí de xíngchéng"
+    },
+    "C": {
+     "zh": "所有參加旅遊的人都免費",
+     "py": "Suǒyǒu cānjiā lǚyóu de rén dōu miǎnfèi"
+    },
+    "D": {
+     "zh": "學生的家人想參加得另外付費",
+     "py": "Xuéshēng de jiārén xiǎng cānjiā dé lìngwài fùfèi"
+    }
+   }
+  },
+  "33": {
+   "stem": {
+    "zh": "薏如是華語中心的學生，她想報名這個活動，她要注意什麼事？",
+    "py": "Yì rúshì Huáyǔ zhōngxīn de xuéshēng, tā xiǎng bàomíng zhè ge huódòng, tā yào zhùyì shénme shì?"
+   },
+   "options": {
+    "A": {
+     "zh": "12 月 15 日是報名的最後一天",
+     "py": "12 yuè 15 rì shì bàomíng de zuìhòu yìtiān"
+    },
+    "B": {
+     "zh": "不去的話應該找同學代替自己參加",
+     "py": "Bù qù dehuà yīnggāi zhǎo tóngxué dàitì zìjǐ cānjiā"
+    },
+    "C": {
+     "zh": "臨時不能去，要有收據才能領回保證金",
+     "py": "Línshí bùnéng qù, yào yǒu shōujù cáinéng lǐnghuí bǎozhèngjīn"
+    },
+    "D": {
+     "zh": "出發前一星期取消報名的人，不能拿回保證金",
+     "py": "Chūfā qián yī xīngqī qǔxiāo bàomíng de rén, bùnéng ná huí bǎozhèngjīn"
+    }
+   }
+  },
+  "34": {
+   "passage": [
+    {
+     "zh": "（十四）",
+     "py": "(Shísì)"
+    },
+    {
+     "zh": "英國一位十九歲的青年得到一種很奇怪的病，他只能記得最近兩天內的事情，兩天以前的事他都想不起來，連上個禮拜自己的生日晚會都不記得。",
+     "py": "Yīngguó yíwèi shíjiǔsuì de qīngnián dédào yìzhǒng hěn qíguài de bìng, tā zhǐnéng jìde zuìjìn liǎngtiān nèi de shìqing, liǎngtiān yǐqián de shì tā dōu xiǎngbùqǐlái, lián shàng ge Lǐbài zìjǐ de shēngrì wǎnhuì dōu bù jìde."
+    },
+    {
+     "zh": "家人和朋友替他拍了許多照片，可是他看了照片，還是完全不記得過去發生的事情。",
+     "py": "Jiārén hé péngyǒu tì tā pāi le xǔduō zhàopiān, kěshì tā kàn le zhàopiān, háishì wánquán bù jìde guòqù fāshēng de shìqing."
+    },
+    {
+     "zh": "雖然這個病不影響他的健康，卻影響了他的交友情形，他的女朋友就因為他總是忘記自己說過的話、做過的事，所以和他分開了。",
+     "py": "Suīrán zhè ge bìng bù yǐngxiǎng tā de jiànkāng, què yǐngxiǎng le tā de jiāoyǒu qíngxíng, tā de nǚpéngyǒu jiù yīnwèi tā zǒngshì wàngjì zìjǐ shuō guò dehuà, zuò guò de shì, suǒyǐ hé tā fēnkāi le."
+    }
+   ],
+   "stem": {
+    "zh": "這篇文章指出這位青年怎麼樣？",
+    "py": "Zhè piānwénzhāng zhǐchū zhèwèi qīngnián zěnmeyàng?"
+   },
+   "options": {
+    "A": {
+     "zh": "看照片才能讓他想起一些事",
+     "py": "Kàn zhàopiān cáinéng ràng tā xiǎngqǐ yìxiē shì"
+    },
+    "B": {
+     "zh": "他擔心女友有天會忘了自己",
+     "py": "Tā dānxīn nǚyǒu yǒutiān huì wàng le zìjǐ"
+    },
+    "C": {
+     "zh": "他以為他參加了一個生日會",
+     "py": "Tā yǐwéi tā cānjiā le yí ge shēngrìhuì"
+    },
+    "D": {
+     "zh": "他的病使他的生活受到影響",
+     "py": "Tā de bìng shǐ tā de shēnghuó shòudào yǐngxiǎng"
+    }
+   }
+  },
+  "35": {
+   "stem": {
+    "zh": "這位青年發生了什麼事？",
+    "py": "Zhèwèi qīngnián fāshēng le shénme shì?"
+   },
+   "options": {
+    "A": {
+     "zh": "他無法遵守自己的承諾",
+     "py": "Tā wúfǎ zūnshǒu zìjǐ de chéngnuò"
+    },
+    "B": {
+     "zh": "他把重要的照片弄丟了",
+     "py": "Tā bǎ zhòngyào de zhàopiān nòng diū le"
+    },
+    "C": {
+     "zh": "他的健康狀況越來越差",
+     "py": "Tā de jiànkāngzhuàngkuàng yuèláiyuè chà"
+    },
+    "D": {
+     "zh": "他只記得一週以前的事",
+     "py": "Tā zhǐ jìde yìzhōu yǐqián de shì"
+    }
+   }
+  },
+  "36": {
+   "passage": [
+    {
+     "zh": "（十五）",
+     "py": "(Shíwǔ)"
+    },
+    {
+     "zh": "有些人喜歡去一種特別的餐廳，這種餐廳讓人付一筆錢，就有吃不完的食物，想吃多少，就吃多少。",
+     "py": "Yǒuxiē rén xǐhuān qù yìzhǒng tèbié de cāntīng, zhèzhǒng cāntīng ràng rén fù yìbǐ qián, jiù yǒu chībùwán de shíwù, xiǎng chī duōshǎo, jiù chī duōshǎo."
+    },
+    {
+     "zh": "去這種餐廳的人，常常覺得要吃得很飽才合算。",
+     "py": "Qù zhèzhǒng cāntīng de rén, chángcháng juéde yào chī dé hěnbǎo cái hésuàn."
+    },
+    {
+     "zh": "不過，這樣的飲食方式是否正常，值得我們深思。",
+     "py": "Búguò, zhèyàng de yǐnshí fāngshì shìfǒu zhèngcháng, zhíde wǒmen shēnsī."
+    },
+    {
+     "zh": "台中市有一位年輕人，每兩、三天就到這樣的餐廳吃飯。",
+     "py": "Táizhōngshì yǒu yíwèi niánqīngrén, měi liǎng, sāntiān jiù dào zhèyàng de cāntīng chīfàn."
+    },
+    {
+     "zh": "有一天，他突然覺得身體很不舒服，到醫院檢查後，醫生發現他的身體有一堆毛病，比老人還差，必須馬上住院治療。",
+     "py": "Yǒu yìtiān, tā tūrán juéde shēntǐ hěn bù shūfú, dào yīyuàn jiǎnchá hòu, yīshēng fāxiàn tā de shēntǐ yǒu yìduī máobìng, bǐ lǎorén hái chà, bìxū mǎshàng zhùyuànzhìliáo."
+    },
+    {
+     "zh": "所以說，這種餐廳一年當中偶爾去一次還可以，天天吃，就等著向醫生「報到」了。",
+     "py": "Suǒyǐ shuō, zhèzhǒng cāntīng yìnián dāngzhōng ǒuěr qù yícì hái kěyǐ, tiāntiān chī, jiù děngzhù xiàng yīshēng “Bào dào” le."
+    }
+   ],
+   "stem": {
+    "zh": "文章中的年輕人怎麼樣？",
+    "py": "Wénzhāng zhōng de niánqīngrén zěnmeyàng?"
+   },
+   "options": {
+    "A": {
+     "zh": "拿了點藥就出院了",
+     "py": "Ná le diǎn yào jiù chūyuàn le"
+    },
+    "B": {
+     "zh": "很在意用餐的環境",
+     "py": "Hěn zàiyì yòngcān de huánjìng"
+    },
+    "C": {
+     "zh": "有病沒病都去醫院",
+     "py": "Yǒu bìng méibìng dōu qù yīyuàn"
+    },
+    "D": {
+     "zh": "是某間餐廳的熟客",
+     "py": "Shì mǒujiān cāntīng de shúkè"
+    }
+   }
+  },
+  "37": {
+   "stem": {
+    "zh": "下列何者符合作者對去那類餐廳吃飯的看法？",
+    "py": "Xiàliè hézhě fúhé zuòzhě duì qù nàlèi cāntīng chīfàn de kànfǎ?"
+   },
+   "options": {
+    "A": {
+     "zh": "便宜的東西沒好貨",
+     "py": "Piányi de Dōngxi méi hǎo huò"
+    },
+    "B": {
+     "zh": "簡直是花錢買罪受",
+     "py": "Jiǎnzhí shì Huāqiánmǎi zuì shòu"
+    },
+    "C": {
+     "zh": "食物才是最天然的藥",
+     "py": "Shíwù cái shì zuì tiānrán de yào"
+    },
+    "D": {
+     "zh": "寧可吃多，也不吃虧",
+     "py": "Nìngkě chī duō, yě bù chīkuī"
+    }
+   }
+  },
+  "38": {
+   "passage": [
+    {
+     "zh": "（十六）",
+     "py": "(Shíliù)"
+    }
+   ],
+   "stem": {
+    "zh": "關於管理中心大樓的裝修工程，下面哪一項正確？",
+    "py": "Guānyú guǎnlǐzhōngxīn dàlóu de zhuāngxiū gōngchéng, xiàmiàn nǎ yíxiàng zhèngquè?"
+   },
+   "options": {
+    "A": {
+     "zh": "工程問題由總務處負責回答",
+     "py": "Gōngchéng wèntí yóu zǒngwùchù fùzé huídá"
+    },
+    "B": {
+     "zh": "中心員工不能進入施工區域",
+     "py": "Zhōngxīn yuángōng bùnéng jìnrù shīgōng qūyù"
+    },
+    "C": {
+     "zh": "預計從 2010 年年底開始施工",
+     "py": "Yùjì cóng 2010 nián niándǐ kāishǐ shīgōng"
+    },
+    "D": {
+     "zh": "大樓部分區域得事先申請才能進入",
+     "py": "Dàlóu bùfèn qūyù dé shìxiān shēnqǐng cáinéng jìnrù"
+    }
+   }
+  },
+  "39": {
+   "stem": {
+    "zh": "2011 年一整年，王福每週五會到這個中心上電腦課，他應該注意 下面哪一件事？",
+    "py": "2011 nián yī zhěngnián, Wángfú měizhōuwǔ huì dào zhè ge zhōngxīn shàng diànnǎokè, tā yīnggāi zhùyì xiàmiàn nǎ yíjiàn shì?"
+   },
+   "options": {
+    "A": {
+     "zh": "可憑上課證乘接駁車至新大樓",
+     "py": "Kě píng shàngkèzhèng chéng jiēbó chē zhìxīn dàlóu"
+    },
+    "B": {
+     "zh": "將會有三個月的時間暫停上課",
+     "py": "Jiāng huì yǒu sān ge yuè de shíjiān zàntíng shàngkè"
+    },
+    "C": {
+     "zh": "至三月份應留意教室變更通知",
+     "py": "Zhì sānyuèfèn yīng liúyì jiàoshì biàngēng tōngzhī"
+    },
+    "D": {
+     "zh": "課程查詢可以撥電話給張主任",
+     "py": "Kèchéng cháxún kěyǐ bōdiànhuà gěi Zhāng zhǔrèn"
+    }
+   }
+  },
+  "40": {
+   "passage": [
+    {
+     "zh": "（十七）",
+     "py": "(Shíqī)"
+    },
+    {
+     "zh": "以經營運動器材為主的喬山健康科技公司，如今已成為亞洲第一大、世界第五大的運動器材公司。",
+     "py": "Yǐ jīngyíng yùndòngqìcái wéizhǔ de Qiáoshān jiànkāng kējì gōngsī, rújīn yǐ chéngwéi Yàzhōu dìyī dà, shìjiè dìwǔ dà de yùndòngqìcái gōngsī."
+    },
+    {
+     "zh": "能有如此發展，全靠創辦人羅老闆的堅持。",
+     "py": "Néng yǒu rúcǐ fāzhǎn, quán kào chuàngbànrén luó lǎobǎn de jiānchí."
+    },
+    {
+     "zh": "孩童時期，羅老闆因為家裡窮，無論是寒冷的冬天或炎熱的夏天，都只能光著腳到學校讀書。",
+     "py": "Háitóng shíqī, luó lǎobǎn yīnwèi jiālǐ qióng, wúlùnshì hánlěng de dōngtiān huò yánrè de xiàtiān, dōu zhǐnéng guāngzhù jiǎo dào xuéxiào dúshū."
+    },
+    {
+     "zh": "儘管對自己的出身沒有選擇權，但他認為，人生的道路本來就是這樣，必須克服環境阻礙，一步一步往前走。",
+     "py": "Jǐnguǎn duì zìjǐ de chūshēn méiyǒu xuǎnzéquán, dàn tā rènwéi, rénshēng de dàolù běnlái jiùshì zhèyàng, bìxū kèfú huánjìng zǔài, yíbù yíbù wǎngqiánzǒu."
+    },
+    {
+     "zh": "上天給他這樣的環境，讓他了解窮人沒有難過的權利，不應把消極、逃避的想法放在心上。",
+     "py": "Shàngtiān gěi tā zhèyàng de huánjìng, ràng tā liǎojiě qióngrén méiyǒu nánguò de quánlì, bùyīng bǎ xiāojí, táobì de xiǎngfǎ fàngzàixīnshàng."
+    },
+    {
+     "zh": "而這股強大的意志力，後來便成為羅老闆經營企業的動力，也讓喬山這家公司三十年來穩定地成長、茁壯。",
+     "py": "Ér zhègǔ qiángdà de yìzhìlì, hòulái biàn chéngwéi luó lǎobǎn jīngyíng qǐyè de dònglì, yě ràng Qiáoshān zhèjiā gōngsī sānshínián lái wěndìng dì chéngzhǎng, zhuózhuàng."
+    }
+   ],
+   "stem": {
+    "zh": "小時候的遭遇使羅老闆對人生產生了什麼想法？",
+    "py": "Xiǎoshíhòu de zāoyù shǐ Luó lǎobǎn duì rénshēng chǎnshēng le shénme xiǎngfǎ?"
+   },
+   "options": {
+    "A": {
+     "zh": "人要堅強才能生存",
+     "py": "Rén yào jiānqiáng cáinéng shēngcún"
+    },
+    "B": {
+     "zh": "命運是由上天安排的",
+     "py": "Mìngyùn shì yóu shàngtiān ānpái de"
+    },
+    "C": {
+     "zh": "窮人很難擺脫消極的想法",
+     "py": "Qióngrén hěn nán bǎituō xiāojí de xiǎngfǎ"
+    },
+    "D": {
+     "zh": "對於無法選擇環境感到挫折",
+     "py": "Duìyú wúfǎ xuǎnzé huánjìng gǎndào cuòzhé"
+    }
+   }
+  },
+  "41": {
+   "stem": {
+    "zh": "本文主要在談論羅老闆的哪一件事？",
+    "py": "Běnwén zhǔyào zài tánlùn luó lǎobǎn de nǎ yíjiàn shì?"
+   },
+   "options": {
+    "A": {
+     "zh": "成立喬山公司的細節與經過",
+     "py": "Chénglì Qiáoshān gōngsī de xìjié yǔ jīngguò"
+    },
+    "B": {
+     "zh": "不向命運低頭的精神和態度",
+     "py": "Bù xiàng mìngyùn dītóu de jīngshén hé tàidù"
+    },
+    "C": {
+     "zh": "將運動器材作為產品的理由",
+     "py": "Jiāng yùndòngqìcái zuòwéi chǎnpǐn de lǐyóu"
+    },
+    "D": {
+     "zh": "目前在社會上的地位及影響力",
+     "py": "Mùqián zài shèhuì shàng de dìwèi jí yǐngxiǎnglì"
+    }
+   }
+  },
+  "42": {
+   "passage": [
+    {
+     "zh": "（十八）",
+     "py": "(Shíbā)"
+    },
+    {
+     "zh": "西元七世紀，古埃及一位國王為證明埃及語是世上最古老的語言，於是派官兵與護士將兩名剛出生不久的嬰兒，帶往國內一處無人居住的祕密地點，他規定全體人員除了提供嬰兒飲食以外，不准與嬰兒有任何語言交流。",
+     "py": "Xīyuánqī shìjì, Gǔāijí yíwèi guówáng wèi zhèngmíng Āijí yǔshì shìshàng zuì Gǔlǎo de yǔyán, yúshì pài guānbīng yǔ hùshì jiāng liǎngmíng gāngchūshēng bùjiǔ de yīngér, dài wǎng guónèi yíchù wúrénjūzhù de mìmì dìdiǎn, tā guīdìng quántǐrényuán chúle tígōng yīngér yǐnshí yǐwài, bùzhǔn yǔ yīngér yǒu rènhé yǔyán jiāoliú."
+    },
+    {
+     "zh": "國王認為，孩子所發出的第一個聲音一定是人類最古老的語言，而他也希望這個聲音屬於埃及語。",
+     "py": "Guówáng rènwéi, háizi suǒ fāchū de dìyí ge shēngyīn yídìng shì rénlèi zuì Gǔlǎo de yǔyán, ér tā yě xīwàng zhè ge shēngyīn shǔyú Āijí yǔ."
+    },
+    {
+     "zh": "然而事與願違，兩年後孩子們最先發出的音與埃及語毫無關係，令國王失望極了。",
+     "py": "Ránér shìyǔyuànwéi, liǎngnián hòu háizi men zuìxiān fāchū de yīn yǔ Āijí yǔ háowúguānxì, lìng guówáng shīwàng jíle."
+    },
+    {
+     "zh": "這就是人類歷史上最早記載的心理學實驗，雖然實驗失敗了，卻證明了人類早在一千多年前，便開始為研究神秘的心理現象而努力著。",
+     "py": "Zhè jiùshì rénlèi lìshǐ shàng zuìzǎo jìzǎi de xīnlǐxué shíyàn, suīrán shíyàn shībài le, què zhèngmíng le rénlèi zǎo zài yīqiānduōnián qián, biàn kāishǐ wèi yánjiū shénmì de xīnlǐxiànxiàng ér nǔlì zhù."
+    }
+   ],
+   "stem": {
+    "zh": "這項以兩名嬰兒為對象的實驗是怎麼進行的？",
+    "py": "Zhèxiàng yǐ liǎngmíng yīngér wèi duìxiàng de shíyàn shì zěnme jìnxíng de?"
+   },
+   "options": {
+    "A": {
+     "zh": "由國王親自照顧他們",
+     "py": "Yóu guówáng qīnzì zhàogù tāmen"
+    },
+    "B": {
+     "zh": "派官兵帶他們離開埃及",
+     "py": "Pài guānbīng dài tāmen líkāi Āijí"
+    },
+    "C": {
+     "zh": "禁止所有人對他們說任何話",
+     "py": "Jìnzhǐ suǒyǒurén duì tāmen shuō rènhé huà"
+    },
+    "D": {
+     "zh": "命令專人教他們學習古老的語言",
+     "py": "Mìnglìng zhuānrén jiào tāmen xuéxí Gǔlǎo de yǔyán"
+    }
+   }
+  },
+  "43": {
+   "stem": {
+    "zh": "關於本文中提到的心理學實驗，下面哪一項正確？",
+    "py": "Guānyú běnwén zhōng tídào de xīnlǐxué shíyàn, xiàmiàn nǎ yíxiàng zhèngquè?"
+   },
+   "options": {
+    "A": {
+     "zh": "是第一個有正式記錄的心理學實驗",
+     "py": "Shì dìyí ge yǒu zhèngshì jìlù de xīnlǐxué shíyàn"
+    },
+    "B": {
+     "zh": "其結果和設計者事先想像的差不多",
+     "py": "Qí jiéguǒ hé shèjìzhě shìxiān xiǎngxiàng de chàbuduō"
+    },
+    "C": {
+     "zh": "實驗目的是為擴大埃及的統治範圍",
+     "py": "Shíyàn mùdì shì wèi kuòdà Āijí de tǒngzhì fànwéi"
+    },
+    "D": {
+     "zh": "意外發現嬰兒說出第一個字是可以控制的",
+     "py": "Yìwài fāxiàn yīngér shuōchū dìyí ge zì shì kěyǐ kòngzhì de"
+    }
+   }
+  },
+  "44": {
+   "passage": [
+    {
+     "zh": "（十九）",
+     "py": "(Shíjiǔ)"
+    },
+    {
+     "zh": "研究顯示，有 93%的青少年不管去哪裡都帶著手機，沒人打電話來的時候，他們會緊張、擔心。",
+     "py": "Yánjiū xiǎnshì, yǒu 93 % de Qīngshàonián bùguǎn qù nǎlǐ dōu dàizhù shǒujī, méi rén dǎdiànhuà lái de shíhòu, tāmen huì jǐnzhāng, dānxīn."
+    },
+    {
+     "zh": "青少年離不開手機的原因是──他們希望有人陪，所以他們在等人的時候，會一直使用手機，讓人覺得他們很忙、朋友很多。",
+     "py": "Qīngshàonián líbùkāi shǒujī de yuányīn shì ─ ─ tāmen xīwàng yǒurén péi, suǒyǐ tāmen zài děng rén de shíhòu, huì yìzhí shǐyòng shǒujī, ràng rén juéde tāmen hěn máng, péngyǒu hěnduō."
+    },
+    {
+     "zh": "有些父母認為孩子帶手機上學比較安全，所以許多孩子也帶著手機到學校。",
+     "py": "Yǒuxiē fùmǔ rènwéi háizi dài shǒujī shàngxué bǐjiào ānquán, suǒyǐ xǔduō háizi yě dàizhù shǒujī dào xuéxiào."
+    },
+    {
+     "zh": "但是大部分的老師都希望學生不要帶很貴的手機到學校，因為容易弄丟或被弄壞。",
+     "py": "Dànshì dàbùfèn de lǎoshī dōu xīwàng xuéshēng búyào dài hěnguì de shǒujī dào xuéxiào, yīnwèi róngyì nòng diū huò bèi nònghuài."
+    },
+    {
+     "zh": "也有老師認為，父母要多了解孩子使用手機的情形，同時教他們在使用手機時，對時間和金錢應有正確的想法。",
+     "py": "Yě yǒu lǎoshī rènwéi, fùmǔ yào duō liǎojiě háizi shǐyòng shǒujī de qíngxíng, tóngshí jiào tāmen zài shǐyòng shǒujī shí, duì shíjiān hé jīnqián yīngyǒu zhèngquè de xiǎngfǎ."
+    }
+   ],
+   "stem": {
+    "zh": "這個研究主要在說什麼？",
+    "py": "Zhè ge yánjiū zhǔyào zài shuō shénme?"
+   },
+   "options": {
+    "A": {
+     "zh": "青少年使用手機的心理及影響",
+     "py": "Qīngshàonián shǐyòng shǒujī de xīnlǐ jí yǐngxiǎng"
+    },
+    "B": {
+     "zh": "青少年利用手機來學習的優點",
+     "py": "Qīngshàonián lìyòng shǒujī lái xuéxí de yōudiǎn"
+    },
+    "C": {
+     "zh": "現代青少年必須使用手機的原因",
+     "py": "Xiàndài Qīngshàonián bìxū shǐyòng shǒujī de yuányīn"
+    },
+    "D": {
+     "zh": "父母不允許孩子使用手機的理由",
+     "py": "Fùmǔ bù yǔnxǔ háizi shǐyòng shǒujī de lǐyóu"
+    }
+   }
+  },
+  "45": {
+   "stem": {
+    "zh": "這篇文章提到，青少年在等人的時候，一直使用手機的原因是什 麼？",
+    "py": "Zhè piānwénzhāng tídào, Qīngshàonián zài děng rén de shíhòu, yìzhí shǐyòng shǒujī de yuányīn shì shén me?"
+   },
+   "options": {
+    "A": {
+     "zh": "想掌握對方的動向",
+     "py": "Xiǎng zhǎngwò duìfāng de dòngxiàng"
+    },
+    "B": {
+     "zh": "擔心對方忘了約會",
+     "py": "Dānxīn duìfāng wàng le yuēhuì"
+    },
+    "C": {
+     "zh": "怕被人認為沒有朋友",
+     "py": "Pà bèi rén rènwéi méiyǒu péngyǒu"
+    },
+    "D": {
+     "zh": "一次要處理的事太多",
+     "py": "Yícì yào chǔlǐ de shìtài duō"
+    }
+   }
+  },
+  "46": {
+   "stem": {
+    "zh": "文章中的老師對青少年使用手機的意見是什麼？",
+    "py": "Wénzhāng zhōng de lǎoshī duì Qīngshàonián shǐyòng shǒujī de yìjiàn shì shénme?"
+   },
+   "options": {
+    "A": {
+     "zh": "人手一支，有總比沒有好",
+     "py": "Rénshǒu yìzhī, yǒu zǒng bǐ méiyǒu hǎo"
+    },
+    "B": {
+     "zh": "多考慮價錢、需求再購買",
+     "py": "Duō kǎolǜ jiàqián, xūqiú zài gòumǎi"
+    },
+    "C": {
+     "zh": "尊重個人意願不必過分干涉",
+     "py": "Zūnzhòng gèrén yìyuàn búbì guòfèn gānshè"
+    },
+    "D": {
+     "zh": "學校的責任大於家長的責任",
+     "py": "Xuéxiào de zérèn dàyú jiāzhǎng de zérèn"
+    }
+   }
+  },
+  "47": {
+   "stem": {
+    "zh": "第二段主要在談什麼事？",
+    "py": "Dìèrduàn zhǔyào zài tán shénme shì?"
+   },
+   "options": {
+    "A": {
+     "zh": "作者以自身經驗說明帽子的功能",
+     "py": "Zuòzhě yǐ zìshēn jīngyàn shuōmíng màozi de gōngnéng"
+    },
+    "B": {
+     "zh": "作者建議戴帽者能多注意服裝儀容",
+     "py": "Zuòzhě jiànyì Dàimào zhě néng duō zhùyì fúzhuāng yíróng"
+    },
+    "C": {
+     "zh": "作者推測戴帽者的心態與戴帽後的效應",
+     "py": "Zuòzhě tuīcè Dàimào zhě de xīntài yǔ Dàimào hòu de xiàoyìng"
+    },
+    "D": {
+     "zh": "作者從他人觀點來說明戴帽子的不便之處",
+     "py": "Zuòzhě cóng tārén guāndiǎn lái shuōmíng Dàimàozi de búbiàn zhī chù"
+    }
+   }
+  },
+  "48": {
+   "stem": {
+    "zh": "作者用「此地無銀三百兩」來形容人的哪一種行為？",
+    "py": "Zuòzhě yòng “Cǐdìwúyínsānbǎiliǎng” lái xíngróng rén de nǎ yìzhǒng xíngwéi?"
+   },
+   "options": {
+    "A": {
+     "zh": "不懂得拒絕外人的好意",
+     "py": "Bù dǒngde jùjué wàirén de hǎoyì"
+    },
+    "B": {
+     "zh": "考慮太多無關緊要的事",
+     "py": "Kǎolǜ tài duō wúguānjǐnyào de shì"
+    },
+    "C": {
+     "zh": "總以為神不知、鬼不覺",
+     "py": "Zǒngyǐwéi shénbùzhī, guǐbùjué"
+    },
+    "D": {
+     "zh": "常注意小事、忽略大事",
+     "py": "Cháng zhùyì xiǎoshì, hūlüè dàshì"
+    }
+   }
+  },
+  "49": {
+   "stem": {
+    "zh": "本文第三段作者說了什麼？",
+    "py": "Běnwén dìsānduàn zuòzhě shuō le shénme?"
+   },
+   "options": {
+    "A": {
+     "zh": "戴上帽子更會讓他感到不安",
+     "py": "Dài shàng màozi gèng huì ràng tā gǎndào bùān"
+    },
+    "B": {
+     "zh": "他想通過戴帽子引起別人重視",
+     "py": "Tā xiǎng tōngguò Dàimàozi yǐnqǐ biérén zhòngshì"
+    },
+    "C": {
+     "zh": "他從來就不知道戴上帽子很醒目",
+     "py": "Tā cónglái jiù bù zhīdào dài shàng màozi hěn xǐngmù"
+    },
+    "D": {
+     "zh": "他缺乏自信時，也總是戴帽再出門",
+     "py": "Tā quēfázìxìn shí, yě zǒngshì Dàimào zài chūmén"
+    }
+   }
+  },
+  "50": {
+   "stem": {
+    "zh": "寫這篇文章的人應從事什麼職業？",
+    "py": "Xiě zhè piānwénzhāng de rényīng cóngshì shénme zhíyè?"
+   },
+   "options": {
+    "A": {
+     "zh": "新聞記者",
+     "py": "Xīnwénjìzhě"
+    },
+    "B": {
+     "zh": "服飾店員",
+     "py": "Fúshì diànyuán"
+    },
+    "C": {
+     "zh": "眼科醫師",
+     "py": "Yǎnkē yīshī"
+    },
+    "D": {
+     "zh": "心理治療師",
+     "py": "Xīnlǐ zhìliáoshī"
+    }
+   }
+  }
+ }
+}

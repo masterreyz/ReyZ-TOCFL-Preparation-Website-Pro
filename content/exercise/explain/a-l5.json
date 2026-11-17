@@ -1,0 +1,1135 @@
+{
+ "testId": "a-l5",
+ "segments": 226,
+ "englishComplete": false,
+ "questions": {
+  "1": {
+   "transcript": [
+    {
+     "zh": "提問圖片裡有幾個學生？",
+     "py": "Tíwèn túpiàn lǐ yǒu jǐ ge xuéshēng?"
+    },
+    {
+     "zh": "(A) 三個",
+     "py": "(A) sān ge"
+    },
+    {
+     "zh": "(B) 四個",
+     "py": "(B) sì ge"
+    },
+    {
+     "zh": "(C) 七個",
+     "py": "(C) qī ge"
+    }
+   ]
+  },
+  "2": {
+   "transcript": [
+    {
+     "zh": "提問這個人在做什麼運動？",
+     "py": "Tíwèn zhè ge rén zài zuò shénme yùndòng?"
+    },
+    {
+     "zh": "(A) 他在打籃球",
+     "py": "(A) tā zài dǎlánqiú"
+    },
+    {
+     "zh": "(B) 他在打網球",
+     "py": "(B) tā zài dǎwǎngqiú"
+    },
+    {
+     "zh": "(C) 他在打棒球",
+     "py": "(C) tā zài dǎ bàngqiú"
+    }
+   ]
+  },
+  "3": {
+   "transcript": [
+    {
+     "zh": "提問請問小美喜歡做什麼？",
+     "py": "Tíwèn qǐngwèn Xiǎoměi xǐhuān zuò shénme?"
+    },
+    {
+     "zh": "(A) 她喜歡打掃",
+     "py": "(A) tā xǐhuān dǎsǎo"
+    },
+    {
+     "zh": "(B) 她喜歡做菜",
+     "py": "(B) tā xǐhuān zuòcài"
+    },
+    {
+     "zh": "(C) 她喜歡洗衣服",
+     "py": "(C) tā xǐhuān xǐyīfú"
+    }
+   ]
+  },
+  "4": {
+   "transcript": [
+    {
+     "zh": "提問弟弟今天怎麼沒去上課？",
+     "py": "Tíwèn dìdi jīntiān zěnme méi qù shàngkè?"
+    },
+    {
+     "zh": "(A) 他腳痛",
+     "py": "(A) tā jiǎotòng"
+    },
+    {
+     "zh": "(B) 他頭痛",
+     "py": "(B) tā tóutòng"
+    },
+    {
+     "zh": "(C) 他肚子痛",
+     "py": "(C) tā dùzitòng"
+    }
+   ]
+  },
+  "5": {
+   "transcript": [
+    {
+     "zh": "提問小明給美美什麼？",
+     "py": "Tíwèn Xiǎomíng gěi Měiměi shénme?"
+    },
+    {
+     "zh": "(A) 水果",
+     "py": "(A) shuǐguǒ"
+    },
+    {
+     "zh": "(B) 蛋糕",
+     "py": "(B) dàngāo"
+    },
+    {
+     "zh": "(C) 餃子",
+     "py": "(C) jiǎozi"
+    }
+   ]
+  },
+  "6": {
+   "transcript": [
+    {
+     "zh": "提問這位先生現在在做什麼？",
+     "py": "Tíwèn zhèwèi xiānsheng xiànzài zài zuò shénme?"
+    },
+    {
+     "zh": "(A) 他在教室上網",
+     "py": "(A) tā zài jiàoshì shàngwǎng"
+    },
+    {
+     "zh": "(B) 他在辦公室工作",
+     "py": "(B) tā zài bàngōngshì gōngzuò"
+    },
+    {
+     "zh": "(C) 他在辦公室上網",
+     "py": "(C) tā zài bàngōngshì shàngwǎng"
+    }
+   ]
+  },
+  "7": {
+   "transcript": [
+    {
+     "zh": "提問小女孩在做什麼？",
+     "py": "Tíwèn xiǎonǚhái zài zuò shénme?"
+    },
+    {
+     "zh": "(A) 她在寄信",
+     "py": "(A) tā zài jìxìn"
+    },
+    {
+     "zh": "(B) 她在寫信",
+     "py": "(B) tā zài xiěxìn"
+    },
+    {
+     "zh": "(C) 她在打電話",
+     "py": "(C) tā zài dǎdiànhuà"
+    }
+   ]
+  },
+  "8": {
+   "transcript": [
+    {
+     "zh": "提問圖片裡有什麼？",
+     "py": "Tíwèn túpiàn lǐ yǒu shénme?"
+    },
+    {
+     "zh": "(A) 一枝鉛筆和兩本字典",
+     "py": "(A) yìzhī qiānbǐ hé liǎngběn zìdiǎn"
+    },
+    {
+     "zh": "(B) 一本字典和兩支毛筆",
+     "py": "(B) yìběn zìdiǎn hé liǎngzhī máobǐ"
+    },
+    {
+     "zh": "(C) 一本雜誌和兩本課本",
+     "py": "(C) yìběn zázhì hé liǎngběn kèběn"
+    }
+   ]
+  },
+  "9": {
+   "transcript": [
+    {
+     "zh": "提問他們在做什麼？",
+     "py": "Tíwèn tāmen zài zuò shénme?"
+    },
+    {
+     "zh": "(A) 他們一邊看電視，一邊吃東西",
+     "py": "(A) tāmen yìbiān kàndiànshì, yìbiān chī Dōngxi"
+    },
+    {
+     "zh": "(B) 他們一邊吃東西，一邊和狗玩",
+     "py": "(B) tāmen yìbiān chī Dōngxi, yìbiān hé gǒu wán"
+    },
+    {
+     "zh": "(C) 他們一邊和狗玩，一邊看電視",
+     "py": "(C) tāmen yìbiān hé gǒu wán, yìbiān kàndiànshì"
+    }
+   ]
+  },
+  "10": {
+   "transcript": [
+    {
+     "zh": "提問這裡有哪些動物？",
+     "py": "Tíwèn zhèlǐ yǒu nǎxiē dòngwù?"
+    },
+    {
+     "zh": "(A) 這裡都是馬",
+     "py": "(A) zhèlǐ dōu shì mǎ"
+    },
+    {
+     "zh": "(B) 這裡有馬也有牛",
+     "py": "(B) zhèlǐ yǒu mǎ yě yǒu niú"
+    },
+    {
+     "zh": "(C) 這裡只有牛沒有馬",
+     "py": "(C) zhèlǐ zhǐyǒu niú méiyǒu mǎ"
+    }
+   ]
+  },
+  "11": {
+   "transcript": [
+    {
+     "zh": "男剛剛那個年輕人在飯店裡吃了什麼食物？",
+     "py": "Nán gānggāng nà ge niánqīngrén zài fàndiàn lǐ chī le shénme shíwù?"
+    },
+    {
+     "zh": "女他吃了一碗麵。",
+     "py": "Nǚ tā chī le yìwǎn miàn."
+    }
+   ]
+  },
+  "12": {
+   "transcript": [
+    {
+     "zh": "女你要不要去博物館？",
+     "py": "Nǚ nǐ yào búyào qù bówùguǎn?"
+    },
+    {
+     "zh": "男好啊！",
+     "py": "Nán hǎo a!"
+    }
+   ]
+  },
+  "13": {
+   "transcript": [
+    {
+     "zh": "男這是您的巧克力蛋糕，請問還需要什麼嗎？",
+     "py": "Nán zhè shì nín de Qiǎokèlì dàngāo, qǐngwèn hái xūyào shénme ma?"
+    },
+    {
+     "zh": "女請再給我一個湯匙，我們要一起吃。",
+     "py": "Nǚ qǐng zài gěi wǒ yí ge tāngchí, wǒmen yào yìqǐ chī."
+    }
+   ]
+  },
+  "14": {
+   "transcript": [
+    {
+     "zh": "女我昨天打電話給你，你怎麼沒接電話？",
+     "py": "Nǚ wǒ zuótiān dǎdiànhuà gěi nǐ, nǐ zěnme méi jiēdiànhuà?"
+    },
+    {
+     "zh": "男我的手機壞了。",
+     "py": "Nán wǒ de shǒujī huài le."
+    }
+   ]
+  },
+  "15": {
+   "transcript": [
+    {
+     "zh": "男哪一個是妳的妹妹？",
+     "py": "Nán nǎ yí ge shì nǐ de mèimei?"
+    },
+    {
+     "zh": "女那個短頭髮，戴眼鏡的是我妹妹。",
+     "py": "Nǚ nà ge duǎn tóufà, Dàiyǎnjìng de shì wǒ mèimei."
+    }
+   ]
+  },
+  "16": {
+   "transcript": [
+    {
+     "zh": "女這家店為什麼這麼多人在排隊？",
+     "py": "Nǚ zhèjiā diàn wèishénme zhème duō rén zài páiduì?"
+    },
+    {
+     "zh": "男因為這裡的衣服很便宜，很多人來這裡買衣服。",
+     "py": "Nán yīnwèi zhèlǐ de yīfú hěn piányi, hěnduō rén lái zhèlǐ mǎi yīfú."
+    }
+   ]
+  },
+  "17": {
+   "transcript": [
+    {
+     "zh": "男聽說這家店的牛排和漢堡很好吃，妳要試一試嗎？",
+     "py": "Nán tīngshuō zhèjiā diàn de niúpái hé Hànbǎo hěn hǎochī, nǐ yào shìyíshì ma?"
+    },
+    {
+     "zh": "女我不能吃肉，請幫我點一份青菜。",
+     "py": "Nǚ wǒ bùnéng chī ròu, qǐng bāng wǒ diǎn yífèn qīngcài."
+    }
+   ]
+  },
+  "18": {
+   "transcript": [
+    {
+     "zh": "男媽媽，我找了客廳和房間，怎麼都沒看見我新買的小說？",
+     "py": "Nán māma, wǒ zhǎo le kètīng hé fángjiān, zěnme dōu méi kànjiàn wǒ xīnmǎi de xiǎoshuō?"
+    },
+    {
+     "zh": "女你昨天放在浴室裡了。",
+     "py": "Nǚ nǐ zuótiān fàngzài yùshì lǐ le."
+    }
+   ]
+  },
+  "19": {
+   "transcript": [
+    {
+     "zh": "女我上次送你的畫你放在哪裡了？",
+     "py": "Nǚ wǒ shàngcì sòng nǐ de huà nǐ fàngzài nǎlǐ le?"
+    },
+    {
+     "zh": "男我把它掛在冰箱後面的牆上了。",
+     "py": "Nán wǒ bǎ tā guà zài bīngxiāng hòumiàn de qiángshàng le."
+    }
+   ]
+  },
+  "20": {
+   "transcript": [
+    {
+     "zh": "男聽說小美要表演，是鋼琴表演嗎？",
+     "py": "Nán tīngshuō xiǎo měi yào biǎoyǎn, shì gāngqín biǎoyǎn ma?"
+    },
+    {
+     "zh": "女她以前表演過鋼琴，但是這次是吉他表演。",
+     "py": "Nǚ tā yǐqián biǎoyǎn guò gāngqín, dànshì zhècì shì Jítā biǎoyǎn."
+    }
+   ]
+  },
+  "21": {
+   "transcript": [
+    {
+     "zh": "女已經晚上九點了，辦公室裡怎麼還有人？",
+     "py": "Nǚ yǐjīng wǎnshàng jiǔdiǎn le, bàngōngshì lǐ zěnme háiyǒu rén?"
+    },
+    {
+     "zh": "男是蘇經理和小蔡，他們兩個還在開會。",
+     "py": "Nán shì Sū jīnglǐ hé xiǎo Cài, tāmen liǎng ge hái zài kāihuì."
+    }
+   ]
+  },
+  "22": {
+   "transcript": [
+    {
+     "zh": "男他們兩個人都很生氣，不知道他們在說什麼？",
+     "py": "Nán tāmen liǎng ge rén dōu hěn shēngqì, bù zhīdào tāmen zài shuō shénme?"
+    },
+    {
+     "zh": "女他們一討論小孩的事情，就會不太開心。",
+     "py": "Nǚ tāmen yī tǎolùn xiǎohái de shìqing, jiù huì bù tài kāixīn."
+    }
+   ]
+  },
+  "23": {
+   "transcript": [
+    {
+     "zh": "女為什麼他今天沒來上班？",
+     "py": "Nǚ wèishénme tā jīntiān méi lái shàngbān?"
+    },
+    {
+     "zh": "男因為他在家裡準備明天的報告。",
+     "py": "Nán yīnwèi tā zài jiālǐ zhǔnbèi míngtiān de bàogào."
+    }
+   ]
+  },
+  "24": {
+   "transcript": [
+    {
+     "zh": "女你們在山上新租的房子怎麼樣？",
+     "py": "Nǚ nǐmen zài shānshàng xīnzū de fángzi zěnmeyàng?"
+    },
+    {
+     "zh": "男房子很不錯。樓下房間有一個大窗戶。",
+     "py": "Nán fángzi hěn búcuò. Lóuxià fángjiān yǒu yí ge dà chuānghù."
+    }
+   ]
+  },
+  "25": {
+   "transcript": [
+    {
+     "zh": "男美美，我的那件短袖襯衫呢？",
+     "py": "Nán Měiměi, wǒ de nàjiàn duǎnxiù chènshān ne?"
+    },
+    {
+     "zh": "女我剛洗好，現在還沒乾喔！",
+     "py": "Nǚ wǒ gāng xǐ hǎo, xiànzài hái méi gàn ō!"
+    }
+   ]
+  },
+  "26": {
+   "transcript": [
+    {
+     "zh": "男聽說小明家附近的風景很漂亮，是嗎？",
+     "py": "Nán tīngshuō Xiǎomíngjiā fùjìn de fēngjǐng hěnpiàoliang, shì ma?"
+    },
+    {
+     "zh": "女是啊！但是那裡冬天的溫度很低，你去找他要穿暖一點。",
+     "py": "Nǚ shì a! Dànshì nàlǐ dōngtiān de wēndù hěn dī, nǐ qù zhǎo tā yào chuān nuǎn yìdiǎn."
+    }
+   ]
+  },
+  "27": {
+   "transcript": [
+    {
+     "zh": "女你覺得認識臺灣最好的方法是什麼？",
+     "py": "Nǚ nǐ juéde rènshi Táiwān zuìhǎo de fāngfǎ shì shénme?"
+    },
+    {
+     "zh": "男看書、看電視介紹都不錯，但是最好的方法就是你自己去旅行。",
+     "py": "Nán kànshū, kàndiànshì jièshào dōu búcuò, dànshì zuìhǎo de fāngfǎ jiùshì nǐ zìjǐ qù lǚxíng."
+    }
+   ]
+  },
+  "28": {
+   "transcript": [
+    {
+     "zh": "男小美，你的新家怎麼樣？",
+     "py": "Nánxiǎoměi, nǐ de xīnjiā zěnmeyàng?"
+    },
+    {
+     "zh": "女別說了，我搬到公寓去，結果樓上的小孩經常往下丟垃圾，環境非常髒。",
+     "py": "Nǚ biéshuō le, wǒ bāndào gōngyù qù, jiéguǒ lóushàng de xiǎohái jīngcháng wǎng xià diū lājī, huánjìng fēicháng zàng."
+    }
+   ]
+  },
+  "29": {
+   "transcript": [
+    {
+     "zh": "男我們等一下三點在書店門口前見面嗎？",
+     "py": "Nán wǒmen děng yíxià sāndiǎn zài shūdiàn ménkǒu qián jiànmiàn ma?"
+    },
+    {
+     "zh": "女我覺得有一點晚，我們可以早半個小時嗎？",
+     "py": "Nǚ wǒ juéde yǒu yìdiǎn wǎn, wǒmen kěyǐ zǎo bàn ge xiǎoshí ma?"
+    },
+    {
+     "zh": "男好啊，那一樣在書店門口前見嗎？",
+     "py": "Nán hǎo a, nà yíyàng zài shūdiàn ménkǒu qián jiàn ma?"
+    },
+    {
+     "zh": "女對，書店門口見！",
+     "py": "Nǚ duì, shūdiàn ménkǒu jiàn!"
+    },
+    {
+     "zh": "男請問他們幾點見面？",
+     "py": "Nán qǐngwèn tāmen jǐdiǎn jiànmiàn?"
+    }
+   ]
+  },
+  "30": {
+   "transcript": [
+    {
+     "zh": "男請問妳要找什麼書？",
+     "py": "Nán qǐngwèn nǐ yào zhǎo shénme shū?"
+    },
+    {
+     "zh": "女我正在找介紹日本風景的旅遊書。",
+     "py": "Nǚ wǒ zhèngzài zhǎo jièshào Rìběn fēngjǐng de lǚyóu shū."
+    },
+    {
+     "zh": "男妳看到上面號碼了嗎？如果妳要找日本的書，那在中間 2 號。",
+     "py": "Nán nǐ kàndào shàngmiàn hàomǎ le ma? Rúguǒ nǐ yào zhǎo Rìběn de shū, nà zài zhōngjiān 2 hào."
+    },
+    {
+     "zh": "女謝謝。",
+     "py": "Nǚ Xièxiè."
+    },
+    {
+     "zh": "男請問介紹日本風景的書放在哪裡？",
+     "py": "Nán qǐngwèn jièshào Rìběn fēngjǐng de shū fàngzài nǎlǐ?"
+    }
+   ]
+  },
+  "31": {
+   "transcript": [
+    {
+     "zh": "男來這家店的人真多。",
+     "py": "Nán lái zhèjiā diàn de rén zhēnduō."
+    },
+    {
+     "zh": "女是啊！這家冰淇淋店有很多種味道的冰淇淋。",
+     "py": "Nǚ shì a! Zhèjiā Bīngqílín diàn yǒu hěn duōzhǒng wèidào de Bīngqílín."
+    },
+    {
+     "zh": "男我想吃巧克力和牛奶口味的，我們進去吃吧！",
+     "py": "Nán wǒ xiǎng chī Qiǎokèlì hé niúnǎi kǒuwèi de, wǒmen jìnqù chī ba!"
+    },
+    {
+     "zh": "女好，我請客。",
+     "py": "Nǚ hǎo, wǒ qǐngkè."
+    },
+    {
+     "zh": "男請問他們等一下要做什麼？",
+     "py": "Nán qǐngwèn tāmen děng yíxià yào zuò shénme?"
+    }
+   ]
+  },
+  "32": {
+   "transcript": [
+    {
+     "zh": "男照片裡這些人是妳的家人嗎？你們在哪裡拍的？",
+     "py": "Nán zhàopiān lǐ zhèxiē rén shì nǐ de jiārén ma? Nǐmen zài nǎlǐ pāi de?"
+    },
+    {
+     "zh": "女是啊，這是我的爸爸媽媽。這張照片是在船上拍的。",
+     "py": "Nǚ shì a, zhè shì wǒ de Bàbamāma. Zhè zhāng zhàopiān shì zài chuánshàng pāi de."
+    },
+    {
+     "zh": "男這個戴帽子的人是誰？",
+     "py": "Nán zhè ge Dàimàozi de rén shì shuí?"
+    },
+    {
+     "zh": "女這是我爺爺。他已經七十歲了。",
+     "py": "Nǚ zhè shì wǒ yéyé. Tā yǐjīng qīshísuì le."
+    },
+    {
+     "zh": "男請問他們說的是哪一張照片？",
+     "py": "Nán qǐngwèn tāmen shuō de shì nǎ yìzhāng zhàopiān?"
+    }
+   ]
+  },
+  "33": {
+   "transcript": [
+    {
+     "zh": "男要不要喝點兒啤酒？",
+     "py": "Nán yào búyào hē diǎnér píjiǔ?"
+    },
+    {
+     "zh": "女不行，我等一下要開車。",
+     "py": "Nǚ bùxíng, wǒ děng yíxià yào kāichē."
+    },
+    {
+     "zh": "男那，喝點兒汽水吧？",
+     "py": "Nán nà, hē diǎnér qìshuǐ ba?"
+    },
+    {
+     "zh": "女我還是喝茶好了。",
+     "py": "Nǚ wǒ háishì hēchá hǎo le."
+    },
+    {
+     "zh": "男請問這位小姐決定喝什麼？",
+     "py": "Nán qǐngwèn zhèwèi Xiǎojiě juédìng hē shénme?"
+    }
+   ]
+  },
+  "34": {
+   "transcript": [
+    {
+     "zh": "男妳的房間這麼亂，為什麼不整理？",
+     "py": "Nán nǐ de fángjiān zhème luàn, wèishénme bù zhěnglǐ?"
+    },
+    {
+     "zh": "女我本來上星期日要整理房間，但是我的經理要我去公司。",
+     "py": "Nǚ wǒ běnlái shàng xīngqīrì yào zhěnglǐ fángjiān, dànshì wǒ de jīnglǐ yào wǒ qù gōngsī."
+    },
+    {
+     "zh": "男那妳今天看了一個下午的書，為什麼不打掃？",
+     "py": "Nán nà nǐ jīntiān kàn le yí ge xiàwǔ de shū, wèishénme bù dǎsǎo?"
+    },
+    {
+     "zh": "女好啦！我明天會整理。",
+     "py": "Nǚ hǎo la! Wǒ míngtiān huì zhěnglǐ."
+    },
+    {
+     "zh": "男請問這位小姐明天打算做什麼？",
+     "py": "Nán qǐngwèn zhèwèi Xiǎojiě míngtiān dǎsuàn zuò shénme?"
+    }
+   ]
+  },
+  "35": {
+   "transcript": [
+    {
+     "zh": "男這裡的天氣怎麼樣？",
+     "py": "Nán zhèlǐ de tiānqì zěnmeyàng?"
+    },
+    {
+     "zh": "女冬天太冷，夏天太熱。",
+     "py": "Nǚ dōngtiān Tàilěng, xiàtiān tài rè."
+    },
+    {
+     "zh": "男那麼春天呢？",
+     "py": "Nán nàme chūntiān ne?"
+    },
+    {
+     "zh": "女常常下雨。",
+     "py": "Nǚ chángcháng xiàyǔ."
+    },
+    {
+     "zh": "男請問這裡的春天常常怎麼樣？",
+     "py": "Nán qǐngwèn zhèlǐ de chūntiān chángcháng zěnmeyàng?"
+    }
+   ]
+  },
+  "36": {
+   "transcript": [
+    {
+     "zh": "男我想找王先生。",
+     "py": "Nán wǒ xiǎng zhǎo Wángxiānsheng."
+    },
+    {
+     "zh": "女請問您和他約好了嗎？",
+     "py": "Nǚ qǐngwèn nín hé tā yuē hǎolema?"
+    },
+    {
+     "zh": "男沒有。是他要我來找他的。",
+     "py": "Nán méiyǒu. Shì tā yào wǒ lái zhǎo tā de."
+    },
+    {
+     "zh": "女您先留下您的電話，我會請王先生打電話給您。",
+     "py": "Nǚ nín xiān liúxià nín de diànhuà, wǒhuì qǐng Wángxiānsheng dǎdiànhuà gěi nín."
+    },
+    {
+     "zh": "男請問這位小姐要這位先生做什麼？",
+     "py": "Nán qǐngwèn zhèwèi Xiǎojiě yào zhèwèi xiānsheng zuò shénme?"
+    }
+   ]
+  },
+  "37": {
+   "transcript": [
+    {
+     "zh": "男小春的生日快到了，我們一起送他禮物，怎麼樣？",
+     "py": "Nán Xiǎochūn de shēngrì kuài dào le, wǒmen yìqǐ sòng tā lǐwù, zěnmeyàng?"
+    },
+    {
+     "zh": "女好啊！他喜歡畫畫，我們可以送他畫畫用的筆。",
+     "py": "Nǚ hǎo a! Tā xǐhuān huàhuà, wǒmen kěyǐ sòng tā huàhuà yòng de bǐ."
+    },
+    {
+     "zh": "男嗯，還可以送他放筆的袋子。",
+     "py": "Nán ń, hái kěyǐ sòng tā fàngbǐ de dàizi."
+    },
+    {
+     "zh": "女好啊，今天下課以後我們一起去買禮物吧。",
+     "py": "Nǚ hǎo a, jīntiān xiàkè yǐhòu wǒmen yìqǐ qù mǎi lǐwù ba."
+    },
+    {
+     "zh": "男請問他們決定送什麼？",
+     "py": "Nán qǐngwèn tāmen juédìng sòng shénme?"
+    }
+   ]
+  },
+  "38": {
+   "transcript": [
+    {
+     "zh": "男妳看電視新聞了嗎？有一個很可怕的消息。",
+     "py": "Nán nǐ kàndiànshì xīnwén le ma? Yǒu yí ge hěn kěpà de xiāoxī."
+    },
+    {
+     "zh": "女什麼可怕的消息？",
+     "py": "Nǚ shénme kěpà de xiāoxī?"
+    },
+    {
+     "zh": "男妳快點開電視，我剛剛才看到的。",
+     "py": "Nán nǐ kuàidiǎn kāi diànshì, wǒ gānggāng cái kàndào de."
+    },
+    {
+     "zh": "女我上網看過新聞了，可是沒看到什麼可怕的消息。",
+     "py": "Nǚ wǒ shàngwǎng kànguò xīnwén le, kěshì méi kàndào shénme kěpà de xiāoxī."
+    },
+    {
+     "zh": "男請問這位先生從哪裡知道可怕的消息？",
+     "py": "Nán qǐngwèn zhèwèi xiānsheng cóng nǎlǐ zhīdào kěpà de xiāoxī?"
+    }
+   ]
+  },
+  "39": {
+   "transcript": [
+    {
+     "zh": "男妳想吃什麼?",
+     "py": "Nán nǐ xiǎng chī shénme?"
+    },
+    {
+     "zh": "女聽說這裡的北京烤鴨很好吃。",
+     "py": "Nǚ tīngshuō zhèlǐ de běijīngkǎoyā hěn hǎochī."
+    },
+    {
+     "zh": "男我們點一隻烤鴨，一碗酸辣湯，怎麼樣？",
+     "py": "Nán wǒmen diǎn yìzhī kǎoyā, yìwǎn Suānlàtāng, zěnmeyàng?"
+    },
+    {
+     "zh": "女再點一個糖醋魚吧！",
+     "py": "Nǚ zàidiǎn yí ge tángcùyú ba!"
+    },
+    {
+     "zh": "男請問他們應該在什麼地方？",
+     "py": "Nán qǐngwèn tāmen yīnggāi zài shénme dìfāng?"
+    }
+   ]
+  },
+  "40": {
+   "transcript": [
+    {
+     "zh": "男已經很晚了，妳怎麼還在這裡？",
+     "py": "Nán yǐjīng hěn wǎn le, nǐ zěnme hái zài zhèlǐ?"
+    },
+    {
+     "zh": "女經理說明天要和他一起討論，我今天一定要準備好。",
+     "py": "Nǚjīnglǐ shuō míngtiān yào hé tā yìqǐ tǎolùn, wǒ jīntiān yídìng yào zhǔnbèi hǎo."
+    },
+    {
+     "zh": "男我不放心妳一個人回家，還是等會兒我開車送妳回去。",
+     "py": "Nán wǒ bù fàngxīn nǐ yí ge rén huíjiā, háishì děnghuìer wǒ kāichē sòng nǐ huíqù."
+    },
+    {
+     "zh": "女謝謝你！但是我今天晚上打算睡在公司裡。",
+     "py": "Nǚ Xièxiè nǐ! Dànshì wǒ jīntiān wǎnshàng dǎsuàn shuì zài gōngsī lǐ."
+    },
+    {
+     "zh": "男請問這位小姐今天晚上打算做什麼？",
+     "py": "Nán qǐngwèn zhèwèi Xiǎojiě jīntiān wǎnshàng dǎsuàn zuò shénme?"
+    }
+   ]
+  },
+  "41": {
+   "options": {
+    "A": {
+     "zh": "因為他想睡覺",
+     "py": "Yīnwèi tā xiǎng shuìjiào"
+    },
+    "B": {
+     "zh": "因為他想運動",
+     "py": "Yīnwèi tā xiǎng yùndòng"
+    },
+    "C": {
+     "zh": "因為他不想上班",
+     "py": "Yīnwèi tā bùxiǎng shàngbān"
+    },
+    "D": {
+     "zh": "因為他起不了床",
+     "py": "Yīnwèi tā qǐ bùliǎo chuáng"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男我昨天運動了一整天。",
+     "py": "Nán wǒ zuótiān yùndòng le yìzhěngtiān."
+    },
+    {
+     "zh": "女你看你，累到說不了話了？",
+     "py": "Nǚ nǐ kàn nǐ, lèidào shuō bùliǎo huà le?"
+    },
+    {
+     "zh": "男喔，不是因為運動，是因為我早上五點就起床了，所以想睡覺。",
+     "py": "Nán ō, búshì yīnwèi yùndòng, shìyīnwèi wǒ zǎoshàng wǔdiǎn jiù qǐchuáng le, suǒyǐ xiǎng shuìjiào."
+    },
+    {
+     "zh": "女你這樣沒辦法上班，我幫你請假，你快回去睡吧！",
+     "py": "Nǚ nǐ zhèyàng méi bànfǎ shàngbān, wǒ bāng nǐ qǐngjià, nǐ kuàihuíqù shuì ba!"
+    },
+    {
+     "zh": "男請問這位小姐為什麼要幫這位先生請假？",
+     "py": "Nán qǐngwèn zhèwèi Xiǎojiě wèishénme yào bāng zhèwèi xiānsheng qǐngjià?"
+    }
+   ]
+  },
+  "42": {
+   "options": {
+    "A": {
+     "zh": "她旅行時不小心掉了東西",
+     "py": "Tā lǚxíng shí bù xiǎoxīn diào le Dōngxi"
+    },
+    "B": {
+     "zh": "她旅行時有些想去的地方沒去",
+     "py": "Tā lǚxíng shí yǒuxiē xiǎngqù de dìfāng méi qù"
+    },
+    "C": {
+     "zh": "她覺得旅行時最麻煩的是交通",
+     "py": "Tā juéde lǚxíng shí zuì máfán de shì jiāotōng"
+    },
+    "D": {
+     "zh": "她覺得旅行最重要的是風景漂亮",
+     "py": "Tā juéde lǚxíng zuì zhòngyào de shì fēngjǐng piàoliang"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男妳上個禮拜的旅行怎麼樣？",
+     "py": "Nán nǐ shàng gè Lǐbài de lǚxíng zěnmeyàng?"
+    },
+    {
+     "zh": "女還不錯。交通方便、風景漂亮，我想去的地方都去了。",
+     "py": "Nǚ hái búcuò. Jiāotōng fāngbiàn, fēngjǐng piàoliang, wǒ xiǎngqù de dìfāng dōu qù le."
+    },
+    {
+     "zh": "男那真是個開心的旅行。",
+     "py": "Nán nà zhēnshì gè kāixīn de lǚxíng."
+    },
+    {
+     "zh": "女嗯，雖然每件事都不錯，但是我回國的時候，把錢包掉在旅館了。",
+     "py": "Nǚ ń, suīrán měijiànshì dōu búcuò, dànshì wǒ Huíguó de shíhòu, bǎ qiánbāo diào zài lǚguǎn le."
+    },
+    {
+     "zh": "男關於這位小姐，下面哪一個是對的？",
+     "py": "Nán guānyú zhèwèi Xiǎojiě, xiàmiàn nǎ yí ge shì duì de?"
+    }
+   ]
+  },
+  "43": {
+   "options": {
+    "A": {
+     "zh": "她怕考得不好",
+     "py": "Tā pà kǎodé bùhǎo"
+    },
+    "B": {
+     "zh": "她的成績不好",
+     "py": "Tā de chéngjì bùhǎo"
+    },
+    "C": {
+     "zh": "她沒參加考試",
+     "py": "Tā méi cānjiākǎoshì"
+    },
+    "D": {
+     "zh": "她怕題目寫不完",
+     "py": "Tā pà tímù xiě bù wán"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男妳怎麼了？好像不太開心的樣子。",
+     "py": "Nán nǐ zěnme le? Hǎoxiàng bù tài kāixīn de yàngzi."
+    },
+    {
+     "zh": "女我沒事，我每次考試的時候就會這樣。",
+     "py": "Nǚ wǒ méishì, wǒ měicì kǎoshì de shíhòu jiù huì zhèyàng."
+    },
+    {
+     "zh": "男可是昨天不是已經考完了嗎？",
+     "py": "Nán kěshì zuótiān búshì yǐjīng kǎowán le ma?"
+    },
+    {
+     "zh": "女是啊，可是我很擔心沒考好。",
+     "py": "Nǚ shì a, kěshì wǒ hěn dānxīn méikǎo hǎo."
+    },
+    {
+     "zh": "男這位小姐為什麼不開心？",
+     "py": "Nán zhèwèi Xiǎojiě wèishénme bù kāixīn?"
+    }
+   ]
+  },
+  "44": {
+   "options": {
+    "A": {
+     "zh": "想請他搬家",
+     "py": "Xiǎng qǐng tā bānjiā"
+    },
+    "B": {
+     "zh": "想請他吃飯",
+     "py": "Xiǎng qǐng tā chīfàn"
+    },
+    "C": {
+     "zh": "介紹女朋友給他",
+     "py": "Jièshào nǚpéngyǒu gěi tā"
+    },
+    "D": {
+     "zh": "請他注意聲音的大小",
+     "py": "Qǐng tā zhùyì shēngyīn de dàxiǎo"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "女王先生嗎？您好，我是住在您家樓下的陳太太。",
+     "py": "Nǚwáng xiānsheng ma? Nínhǎo, wǒ shì zhù zài nín jiā lóuxià de Chéntàitai."
+    },
+    {
+     "zh": "男請問有什麼事嗎？",
+     "py": "Nán qǐngwèn yǒu shénme shì ma?"
+    },
+    {
+     "zh": "女我總是聽到您走路的聲音，有時還聽到您與女朋友大聲地講話。我找您好",
+     "py": "Nǚ wǒ zǒngshì tīngdào nín zǒulù de shēngyīn, yǒushí hái tīngdào nín yǔ nǚpéngyǒu dàshēng dì jiǎnghuà. Wǒ zhǎo nínhǎo"
+    },
+    {
+     "zh": "幾次了，可是您都不在家。",
+     "py": "Jǐcì le, kěshì nín dōu bù zàijiā."
+    },
+    {
+     "zh": "男啊！不好意思，不好意思，我會注意的。",
+     "py": "Nán a! Bùhǎoyìsī, bùhǎoyìsī, wǒhuì zhùyì de."
+    },
+    {
+     "zh": "女陳太太為什麼找王先生？",
+     "py": "Nǚ Chéntàitai wèishénme zhǎo Wángxiānsheng?"
+    }
+   ]
+  },
+  "45": {
+   "options": {
+    "A": {
+     "zh": "她習慣在不同的時間睡覺",
+     "py": "Tā xíguàn zài bùtóng de shíjiān shuìjiào"
+    },
+    "B": {
+     "zh": "她每天都是這個時間起床",
+     "py": "Tā měitiān dōu shì zhè ge shíjiān qǐchuáng"
+    },
+    "C": {
+     "zh": "她認為睡覺對健康有影響",
+     "py": "Tā rènwéi shuìjiào duì jiànkāng yǒu yǐngxiǎng"
+    },
+    "D": {
+     "zh": "她不覺得自己很晚才睡覺",
+     "py": "Tā bù juéde zìjǐ hěn wǎncái shuìjiào"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男妳昨天怎麼那麼晚才睡？",
+     "py": "Nán nǐ zuótiān zěnme nàme wǎncái shuì?"
+    },
+    {
+     "zh": "女我昨天十二點多睡的，我不覺得晚啊！",
+     "py": "Nǚ wǒ zuótiān shíèrdiǎn duō shuì de, wǒ bù juéde wǎn a!"
+    },
+    {
+     "zh": "男都半夜了，還不晚？這麼晚才睡覺對身體很不好。",
+     "py": "Nán dōu bànyè le, hái bù wǎn? Zhèmewǎn cái shuìjiào duì shēntǐ hěn bùhǎo."
+    },
+    {
+     "zh": "女還好吧？我一直都是這個時間睡覺，也沒生什麼病。",
+     "py": "Nǚ háihǎo ba? Wǒ yìzhí dōu shì zhè ge shíjiān shuìjiào, yě méishēng shénme bìng."
+    },
+    {
+     "zh": "女請問這位小姐的意思是什麼？",
+     "py": "Nǚ qǐngwèn zhèwèi Xiǎojiě de yìsi shì shénme?"
+    }
+   ]
+  },
+  "46": {
+   "options": {
+    "A": {
+     "zh": "他剛從海邊回來",
+     "py": "Tā gāng cóng hǎibiān huílái"
+    },
+    "B": {
+     "zh": "他喜歡夏天去海邊玩",
+     "py": "Tā xǐhuān xiàtiān qù hǎibiān wán"
+    },
+    "C": {
+     "zh": "他給這位小姐買了褲子",
+     "py": "Tā gěi zhèwèi Xiǎojiě mǎi le kùzi"
+    },
+    "D": {
+     "zh": "他約了這位小姐明天去運動",
+     "py": "Tā yuē le zhèwèi Xiǎojiě míngtiān qù yùndòng"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男夏天到了，我們明天去海邊吧！",
+     "py": "Nán xiàtiān dào le, wǒmen míngtiān qù hǎibiān ba!"
+    },
+    {
+     "zh": "女好啊！你覺得我應該穿短裙好呢？還是短褲好呢？",
+     "py": "Nǚ hǎo a! Nǐ juéde wǒ yīnggāi chuān duǎnqún hǎo ne? Háishì duǎnkù hǎo ne?"
+    },
+    {
+     "zh": "男我覺得妳應該穿短褲，因為我們要在沙灘上打球。",
+     "py": "Nán wǒ juéde nǐ yīnggāi chuān duǎnkù, yīnwèi wǒmen yào zài Shātān shàng dǎqiú."
+    },
+    {
+     "zh": "女好啊，明天見。",
+     "py": "Nǚ hǎo a, míngtiān jiàn."
+    },
+    {
+     "zh": "女請問這位先生說了什麼？",
+     "py": "Nǚ qǐngwèn zhèwèi xiānsheng shuō le shénme?"
+    }
+   ]
+  },
+  "47": {
+   "options": {
+    "A": {
+     "zh": "她不想請這位先生吃蛋糕",
+     "py": "Tā bùxiǎng qǐng zhèwèi xiānsheng chī dàngāo"
+    },
+    "B": {
+     "zh": "她想幫這位先生慶祝生日",
+     "py": "Tā xiǎng bāng zhèwèi xiānsheng qìngzhù shēngrì"
+    },
+    "C": {
+     "zh": "她要朋友來參加舞會就好",
+     "py": "Tā yào péngyǒu lái cānjiā wǔhuì jiù hǎo"
+    },
+    "D": {
+     "zh": "她想要大家一起唱生日歌",
+     "py": "Tā xiǎngyào dàjiā yìqǐ chàng shēngrìgē"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男為了妳的生日，我想請妳吃蛋糕。",
+     "py": "Nán wèile nǐ de shēngrì, wǒ xiǎng qǐng nǐ chī dàngāo."
+    },
+    {
+     "zh": "女你人來我就很開心了，蛋糕，我來準備就好了。",
+     "py": "Nǚ nǐ rén lái wǒ jiù hěn kāixīn le, dàngāo, wǒ lái zhǔnbèi jiù hǎo le."
+    },
+    {
+     "zh": "男這是為了感謝妳請我參加明天的生日舞會，或是妳有更想要的禮物嗎？",
+     "py": "Nán zhè shì wèile gǎnxiè nǐ qǐng wǒ cānjiā míngtiān de shēngrìwǔhuì, huòshì nǐyǒu gèng xiǎngyào de lǐwù ma?"
+    },
+    {
+     "zh": "女你太客氣了。吃蛋糕和收禮物都不是最重要的事。",
+     "py": "Nǚ nǐ tài kèqì le. Chī dàngāo hé shōu lǐwù dōu búshì zuì zhòngyào de shì."
+    },
+    {
+     "zh": "女請問這位小姐的意思是什麼？",
+     "py": "Nǚ qǐngwèn zhèwèi Xiǎojiě de yìsi shì shénme?"
+    }
+   ]
+  },
+  "48": {
+   "options": {
+    "A": {
+     "zh": "她想拿商店送的東西",
+     "py": "Tā xiǎng ná shāngdiàn sòng de Dōngxi"
+    },
+    "B": {
+     "zh": "她最近很想花錢買東西",
+     "py": "Tā zuìjìn hěn xiǎng Huāqiánmǎi Dōngxi"
+    },
+    "C": {
+     "zh": "她想要這位先生送她禮物",
+     "py": "Tā xiǎngyào zhèwèi xiānsheng sòng tā lǐwù"
+    },
+    "D": {
+     "zh": "她想和這位先生一起去逛街",
+     "py": "Tā xiǎng hé zhèwèi xiānsheng yìqǐ qù guàngjiē"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男我要去逛百貨公司，要一起嗎？",
+     "py": "Nán wǒ yào qùguàng bǎihuògōngsī, yào yìqǐ ma?"
+    },
+    {
+     "zh": "女我最近花了太多錢了，還是不要吧。",
+     "py": "Nǚ wǒ zuìjìn huā le tài duō qián le, háishì búyào ba."
+    },
+    {
+     "zh": "男最近百貨公司有活動，很多商品不但很便宜，還會給很多試用的東西。",
+     "py": "Nán zuìjìn bǎihuògōngsī yǒu huódòng, hěnduō shāngpǐn búdàn hěn piányi, hái huì gěi hěnduō shìyòng de Dōngxi."
+    },
+    {
+     "zh": "女喔，有不用花錢的啊！那我們快走吧！",
+     "py": "Nǚ ō, yǒu búyòng huāqián de a! Nà wǒmen kuài zǒu ba!"
+    },
+    {
+     "zh": "女為什麼這位小姐想去百貨公司？",
+     "py": "Nǚ wèishénme zhèwèi Xiǎojiě xiǎng qù bǎihuògōngsī?"
+    }
+   ]
+  },
+  "49": {
+   "options": {
+    "A": {
+     "zh": "這位先生今天想留在家裡",
+     "py": "Zhèwèi xiānsheng jīntiān xiǎng liúzài jiālǐ"
+    },
+    "B": {
+     "zh": "這位小姐怕自己太晚回家",
+     "py": "Zhèwèi Xiǎojiě pà zìjǐ Tàiwǎn huíjiā"
+    },
+    "C": {
+     "zh": "他們兩人今天都想看棒球比賽",
+     "py": "Tāmen liǎng rén jīntiān dōu xiǎng kàn bàngqiú bǐsài"
+    },
+    "D": {
+     "zh": "他們已經買完衣服回家休息了",
+     "py": "Tāmen yǐjīng mǎiwán yīfú huíjiā xiūxí le"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男今天天氣好熱，我們在家吹冷氣多好，還是不要去買衣服了。",
+     "py": "Nán jīntiāntiānqì hǎo rè, wǒmen zàijiā chuīlěngqì duō hǎo, háishì búyào qù mǎi yīfú le."
+    },
+    {
+     "zh": "女不行，你昨天答應我今天要出門買衣服。",
+     "py": "Nǚ bùxíng, nǐ zuótiān dāyìng wǒ jīntiān yào chūmén mǎi yīfú."
+    },
+    {
+     "zh": "男可是妳沒發現衣服已經很多了嗎？",
+     "py": "Nán kěshì nǐ méi fāxiàn yīfú yǐjīng hěnduō le ma?"
+    },
+    {
+     "zh": "女我覺得，你只是怕太晚回家，沒辦法看棒球比賽！",
+     "py": "Nǚ wǒ juéde, nǐ zhǐshì pà Tàiwǎn huíjiā, méi bànfǎ kàn bàngqiú bǐsài!"
+    },
+    {
+     "zh": "女請問下面哪一個是對的？",
+     "py": "Nǚ qǐngwèn xiàmiàn nǎ yí ge shì duì de?"
+    }
+   ]
+  },
+  "50": {
+   "options": {
+    "A": {
+     "zh": "她要把錢還給客人",
+     "py": "Tā yào bǎ qián huángěi kèrén"
+    },
+    "B": {
+     "zh": "東西賣出去就不能換了",
+     "py": "Dōngxi màichūqù jiù bùnéng huàn le"
+    },
+    "C": {
+     "zh": "她沒有東西可以換給客人",
+     "py": "Tā méiyǒu Dōngxi kěyǐ huàn gěi kèrén"
+    },
+    "D": {
+     "zh": "沒有發票，就不能換東西",
+     "py": "Méiyǒu fāpiào, jiù bùnéng Huàn Dōngxi"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男小姐，這是昨天跟你們買的牛奶，味道有點奇怪，我想換一瓶新的。",
+     "py": "Nán Xiǎojiě, zhè shì zuótiān gēn nǐmen mǎi de niúnǎi, wèidào yǒudiǎn qíguài, wǒ xiǎnghuàn yìpíng xīn de."
+    },
+    {
+     "zh": "女請問您帶了發票嗎？",
+     "py": "Nǚ qǐngwèn nín dài le fāpiào ma?"
+    },
+    {
+     "zh": "男喔，我沒帶來。",
+     "py": "Nán ō, wǒ méi dàilái."
+    },
+    {
+     "zh": "女我們要看到發票，才能換東西，不好意思。",
+     "py": "Nǚ wǒmen yào kàndào fāpiào, cáinéng Huàn Dōngxi, bùhǎoyìsī."
+    },
+    {
+     "zh": "女這位小姐的意思是什麼？",
+     "py": "Nǚ zhèwèi Xiǎojiě de yìsi shì shénme?"
+    }
+   ]
+  }
+ }
+}

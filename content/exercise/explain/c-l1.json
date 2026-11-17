@@ -1,0 +1,2233 @@
+{
+ "testId": "c-l1",
+ "segments": 438,
+ "englishComplete": false,
+ "questions": {
+  "1": {
+   "options": {
+    "A": {
+     "zh": "盡快搬家",
+     "py": "Jǐnkuài bānjiā"
+    },
+    "B": {
+     "zh": "不付房租",
+     "py": "Búfù fángzū"
+    },
+    "C": {
+     "zh": "繼續住下去",
+     "py": "Jìxù zhù xiàqù"
+    },
+    "D": {
+     "zh": "找人一起租",
+     "py": "Zhǎo rén yìqǐ zū"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這段對話，然後回答下面的兩個問題。",
+     "py": "Qǐng tīng zhèduàn duìhuà, ránhòu huídá xiàmiàn de liǎng ge wèntí."
+    },
+    {
+     "zh": "男：小青，你最近是不是有心事啊？經常愁眉苦臉的。",
+     "py": "Nán: Xiǎoqīng, nǐ zuìjìn shìbúshì yǒu xīnshì a? Jīngcháng chóuméikǔliǎn de."
+    },
+    {
+     "zh": "女：我房東最近老說要漲我的房租。本來想重找一間算了，但得先準備兩個月的",
+     "py": "Nǚ: Wǒ fángdōng zuìjìn lǎo shuō yào zhǎng wǒ de fángzū. Běnlái xiǎng zhòng zhǎo yìjiān suànle, dàn dé xiān zhǔnbèi liǎng ge yuè de"
+    },
+    {
+     "zh": "押金，再加上當月的房租，實在讓人吃不消。我最近手頭很緊，只好作罷。",
+     "py": "Yājīn, zài jiāshàng dàngyuè de fángzū, shízài ràng rén chībùxiāo. Wǒ zuìjìn shǒutóu hěn jǐn, zhǐhǎo zuòbà."
+    },
+    {
+     "zh": "男：我的房東也好不到哪去。那台洗衣機，已經用了不知道多少年了，最後壞了",
+     "py": "Nán: Wǒ de fángdōng yěhǎo bù dàonǎqù. Nà tái xǐyījī, yǐjīng yòng le bù zhīdào duōshǎo nián le, zuìhòu huài le"
+    },
+    {
+     "zh": "也怪到我頭上，不但叫我搬走，還說要用我的押金來賠償，真是豈有此理！",
+     "py": "Yě guài dào wǒ tóushàng, búdàn jiào wǒ bānzǒu, hái shuō yào yòng wǒ de yājīn lái péicháng, zhēnshì qǐyǒucǐlǐ!"
+    },
+    {
+     "zh": "女：那你想怎麼做？",
+     "py": "Nǚ: Nà nǐ xiǎng zěnme zuò?"
+    },
+    {
+     "zh": "男：我啊，房東一天不退押金給我，我就一天不搬家。",
+     "py": "Nán: Wǒ a, fángdōng yìtiān bù tuì yājīn gěi wǒ, wǒ jiù yìtiān bù bānjiā."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "這位小姐打算怎麼辦？",
+     "py": "Zhèwèi Xiǎojiě dǎsuàn zěnmebàn?"
+    }
+   ]
+  },
+  "2": {
+   "options": {
+    "A": {
+     "zh": "他不要押金了",
+     "py": "Tā búyào yājīn le"
+    },
+    "B": {
+     "zh": "他決定再住一天就搬家",
+     "py": "Tā juédìng zài zhù yìtiān jiù bānjiā"
+    },
+    "C": {
+     "zh": "他要押金，但不打算搬家",
+     "py": "Tā yào yājīn, dàn bù dǎsuàn bānjiā"
+    },
+    "D": {
+     "zh": "他拿到押金以後才要搬家",
+     "py": "Tā nádào yājīn yǐhòu cái yào bānjiā"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這位先生打算怎麼辦？",
+     "py": "Zhèwèi xiānsheng dǎsuàn zěnmebàn?"
+    }
+   ]
+  },
+  "3": {
+   "options": {
+    "A": {
+     "zh": "能克服天生的障礙",
+     "py": "Néngkèfú tiānshēng de zhàngài"
+    },
+    "B": {
+     "zh": "專門為殘障兒童作曲",
+     "py": "Zhuānmén wèi cánzhàngértóng zuòqǔ"
+    },
+    "C": {
+     "zh": "文章寫得比作家還好",
+     "py": "Wénzhāng xiě dé bǐ zuòjiā háihǎo"
+    },
+    "D": {
+     "zh": "將父親的作品寫成曲子",
+     "py": "Jiāng fùqīn de zuòpǐn xiěchéng qǔzi"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這段對話，然後回答下面的兩個問題。",
+     "py": "Qǐng tīng zhèduàn duìhuà, ránhòu huídá xiàmiàn de liǎng ge wèntí."
+    },
+    {
+     "zh": "男：我剛讀完大江先生的作品，他真是個了不起的作家。",
+     "py": "Nán: Wǒ gāng dúwán Dàjiāng xiānsheng de zuòpǐn, tā zhēnshì gè liǎobùqǐ de zuòjiā."
+    },
+    {
+     "zh": "女：啊，我沒看過他的書，不過，卻是他兒子的樂迷。聽說他兒子出生的時候腦",
+     "py": "Nǚ: A, wǒ méi kànguò tā de shū, búguò, quèshì tā érzi de Yuèmí. Tīngshuō tā érzi chūshēng de shíhòu nǎo"
+    },
+    {
+     "zh": "部殘障，在語言上沒辦法正常發展，但他並沒有因此自暴自棄，憑著獨特的",
+     "py": "Bù cánzhàng, zài yǔyán shàng méi bànfǎ zhèngcháng fāzhǎn, dàn tā bìng méiyǒu yīncǐ zìbàozìqì, píng zhù dútè de"
+    },
+    {
+     "zh": "音樂天分出了好幾張個人專輯呢！",
+     "py": "Yīnyuè tiān fēnchū le hǎojǐzhāng gèrénzhuānjí ne!"
+    },
+    {
+     "zh": "男：是這樣嗎？我想大江先生一定以他兒子為榮！",
+     "py": "Nán: Shì zhèyàng ma? Wǒ xiǎng Dàjiāng xiānsheng yídìng yǐ tā érzi wèi Róng!"
+    },
+    {
+     "zh": "女：那是一定的。我記得，大江先生曾經在演講中對聽眾說：「有人告訴我，我",
+     "py": "Nǚ: Nà shì yídìng de. Wǒ jìde, Dàjiāng xiānsheng céngjīng zài yǎnjiǎng zhōng duì tīngzhòng shuō: “Yǒurén gàosù wǒ, wǒ"
+    },
+    {
+     "zh": "兒子的音樂之所以很受歡迎，是因為它非常柔和，具有催眠曲的效果。如果",
+     "py": "Érzi de yīnyuè zhīsuǒyǐ hěn shòuhuānyíng, shìyīnwèi tā fēicháng róuhé, jùyǒu cuīmiánqǔ de xiàoguǒ. Rúguǒ"
+    },
+    {
+     "zh": "有人聽了我兒子的作品以後，還是睡不著，那就來看看我寫的書吧！」哈哈！",
+     "py": "Yǒurén tīng le wǒ érzi de zuòpǐn yǐhòu, háishì shuì búzhù, nà jiù lái kànkàn wǒ xiě de shūba!” hāhā!"
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "這位小姐說大江先生的兒子怎麼樣？",
+     "py": "Zhèwèi Xiǎojiě shuō Dàjiāng xiānsheng de érzi zěnmeyàng?"
+    }
+   ]
+  },
+  "4": {
+   "options": {
+    "A": {
+     "zh": "會讓人想睡覺",
+     "py": "Huì ràng rén xiǎng shuìjiào"
+    },
+    "B": {
+     "zh": "能幫助人們創作音樂",
+     "py": "Néng bāngzhù rénmen chuàngzuò yīnyuè"
+    },
+    "C": {
+     "zh": "會讓人們忘了要睡覺",
+     "py": "Huì ràng rénmen wàng le yào shuìjiào"
+    },
+    "D": {
+     "zh": "會介紹他兒子的音樂",
+     "py": "Huì jièshào tā érzi de yīnyuè"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "在演講中，大江先生說他自己的書怎麼樣？",
+     "py": "Zài yǎnjiǎng zhōng, Dàjiāng xiānsheng shuō tā zìjǐ de shū zěnmeyàng?"
+    }
+   ]
+  },
+  "5": {
+   "passage": [
+    {
+     "zh": "最近南部的醫院推出一項新措施來服務民眾。請聽這段對話，然後回答下面三個問題：",
+     "py": "Zuìjìn nánbù de yīyuàn tuīchū yíxiàng xīn cuòshī lái fúwù mínzhòng. Qǐng tīng zhèduàn duìhuà, ránhòu huídá xiàmiàn sān ge wèntí:"
+    }
+   ],
+   "stem": {
+    "zh": "這項服務有什麼優點？",
+    "py": "Zhèxiàng fúwù yǒu shénme yōudiǎn?"
+   },
+   "options": {
+    "A": {
+     "zh": "可降低醫療費用",
+     "py": "Kě jiàngdī yīliáo fèiyòng"
+    },
+    "B": {
+     "zh": "可維護病人隱私",
+     "py": "Kě wéihù bìngrén yǐnsī"
+    },
+    "C": {
+     "zh": "可指定醫生看診",
+     "py": "Kě zhǐdìng yīshēng kànzhěn"
+    },
+    "D": {
+     "zh": "看病可事先預約",
+     "py": "Kànbìng kě shìxiān yùyuē"
+    }
+   },
+   "intro": [
+    {
+     "zh": "最近南部的醫院推出一項新措施來服務民眾。請聽這段對話，然後回答下面三個",
+     "py": "Zuìjìn nánbù de yīyuàn tuīchū yíxiàng xīn cuòshī lái fúwù mínzhòng. Qǐng tīng zhèduàn duìhuà, ránhòu huídá xiàmiàn sān ge"
+    },
+    {
+     "zh": "問題：",
+     "py": "Wèntí:"
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "這項服務有什麼優點？",
+     "py": "Zhèxiàng fúwù yǒu shénme yōudiǎn?"
+    }
+   ]
+  },
+  "6": {
+   "stem": {
+    "zh": "這項服務改善了哪種現象？",
+    "py": "Zhèxiàng fúwù gǎishàn le nǎzhǒng xiànxiàng?"
+   },
+   "options": {
+    "A": {
+     "zh": "病人掛不到號的困境",
+     "py": "Bìngrén guà búdào hào de kùnjìng"
+    },
+    "B": {
+     "zh": "候診間過度擁擠的狀況",
+     "py": "Hòuzhěn jiān guòdù yōngjǐ de zhuàngkuàng"
+    },
+    "C": {
+     "zh": "病人遍尋不著診間的情況",
+     "py": "Bìngrén biànxún búzhù zhěnjiān de qíngkuàng"
+    },
+    "D": {
+     "zh": "舒緩了病人候診時的焦慮",
+     "py": "Shūhuǎn le bìngrén hòuzhěn shí de jiāolǜ"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這項服務改善了哪種現象？",
+     "py": "Zhèxiàng fúwù gǎishàn le nǎzhǒng xiànxiàng?"
+    }
+   ]
+  },
+  "7": {
+   "stem": {
+    "zh": "關於這項服務，哪一個是對的？ 現在請聽對話。",
+    "py": "Guānyú zhèxiàng fúwù, nǎ yí ge shì duì de? Xiànzài qǐng tīng duìhuà."
+   },
+   "options": {
+    "A": {
+     "zh": "所有門診都會提供",
+     "py": "Suǒyǒu ménzhěn dōu huì tígōng"
+    },
+    "B": {
+     "zh": "使用對象以老人為主",
+     "py": "Shǐyòng duìxiàng yǐ lǎorén wéizhǔ"
+    },
+    "C": {
+     "zh": "器材用完即丟，不怕傳染",
+     "py": "Qìcái yòng wán jí diū, búpà chuánrǎn"
+    },
+    "D": {
+     "zh": "考慮到視障、聽障人士的需求",
+     "py": "Kǎolǜ dào shìzhàng, tīngzhàng rénshì de xūqiú"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "關於這項服務，哪一個是對的？",
+     "py": "Guānyú zhèxiàng fúwù, nǎ yí ge shì duì de?"
+    }
+   ]
+  },
+  "8": {
+   "passage": [
+    {
+     "zh": "兩位研究生正在討論近年來在各地監獄所實施的新政策。",
+     "py": "Liǎngwèi yánjiūshēng zhèngzài tǎolùn jìnniánlái zài gèdì jiānyù suǒ shíshī de xīn zhèngcè."
+    },
+    {
+     "zh": "請聽這段對話，然後回答下面三個問題：",
+     "py": "Qǐng tīng zhèduàn duìhuà, ránhòu huídá xiàmiàn sān ge wèntí:"
+    }
+   ],
+   "stem": {
+    "zh": "關於實施這項政策，下面哪一個是對的？",
+    "py": "Guānyú shíshī zhèxiàng zhèngcè, xiàmiàn nǎ yí ge shì duì de?"
+   },
+   "options": {
+    "A": {
+     "zh": "食品類等產品較不受歡迎",
+     "py": "Shípǐnlèi děng chǎnpǐn jiào bù shòuhuānyíng"
+    },
+    "B": {
+     "zh": "大多數監獄生產手工藝品",
+     "py": "Dàduōshù jiānyù shēngchǎn shǒugōngyìpǐn"
+    },
+    "C": {
+     "zh": "同時考量了長期服刑的人",
+     "py": "Tóngshí kǎoliáng le chángqī fúxíng de rén"
+    },
+    "D": {
+     "zh": "有餐飲背景的受刑人才能參加",
+     "py": "Yǒu cānyǐn bèijǐng de shòuxíngrén cáinéng cānjiā"
+    }
+   },
+   "intro": [
+    {
+     "zh": "現在請聽對話。",
+     "py": "Xiànzài qǐng tīng duìhuà."
+    },
+    {
+     "zh": "男：哈哈，你看到這個新聞沒？現在去醫院看病，不用等護士小姐叫你的名字了。",
+     "py": "Nán: Hāhā, nǐ kàndào zhè ge xīnwén méi? Xiànzài qù yīyuàn kànbìng, búyòng děng hùshì Xiǎojiě jiào nǐ de míngzi le."
+    },
+    {
+     "zh": "醫院會發給你一個呼叫器，呼叫器響的時候就表示輪到你了，可以直接進入",
+     "py": "Yīyuàn huì fāgěinǐ yí ge hūjiàoqì, hūjiàoqì xiǎng de shíhòu jiù biǎoshì lúndào nǐ le, kěyǐ zhíjiē jìnrù"
+    },
+    {
+     "zh": "診間看病。",
+     "py": "Zhěnjiān kànbìng."
+    },
+    {
+     "zh": "女：幹嘛這麼麻煩？護士小姐直接叫名字也很清楚啊！",
+     "py": "Nǚ: Gànmá zhème máfán? Hùshì Xiǎojiě zhíjiē jiào míngzi yě hěn qīngchǔ a!"
+    },
+    {
+     "zh": "男：可有時候，我就是不希望別人知道我生什麼病、看哪科醫生啊！照以前的作",
+     "py": "Nán: Kě yǒushíhòu, wǒ jiùshì bù xīwàng biérén zhīdào wǒ shēng shénme bìng, kàn nǎkē yīshēng a! Zhào yǐqián de zuò"
+    },
+    {
+     "zh": "法，護士小姐一叫我的名字，所有候診室的人都會聽到，如果沒有人認識我",
+     "py": "Fǎ, hùshì Xiǎojiě yī jiào wǒ de míngzi, suǒyǒu hòuzhěnshì de rén dōu huì tīngdào, rúguǒ méiyǒu rén rènshi wǒ"
+    },
+    {
+     "zh": "也就算了，要是碰到認識的人，知道我生什麼病，會讓我覺得很難堪的！",
+     "py": "Yě jiùsuàn le, yàoshì pèngdào rènshi de rén, zhīdào wǒ shēng shénme bìng, huì ràng wǒ juéde hěn nánkān de!"
+    },
+    {
+     "zh": "女：我不介意這種事。但是平常看病，候診室到處都是人，有了這個服務，我應",
+     "py": "Nǚ: Wǒ bújièyì zhèzhǒng shì. Dànshì píngcháng kànbìng, hòuzhěnshì dàochù dōu shì rén, yǒu le zhè ge fúwù, wǒ yīng"
+    },
+    {
+     "zh": "該可以到醫院附近走走，不用老是等在那兒了吧！",
+     "py": "Gāi kěyǐ dào yīyuàn fùjìn zǒuzǒu, búyòng lǎo shì děng zài nàér le ba!"
+    },
+    {
+     "zh": "男：是啊，不過因為這個服務的成本比較高，現在只在一些病人容易感到尷尬的",
+     "py": "Nán: Shì a, búguò yīnwèi zhè ge fúwù de chéngběn bǐjiào gāo, xiànzài zhǐ zài yìxiē bìngrén róngyì gǎndào gāngà de"
+    },
+    {
+     "zh": "門診實施，像是婦產科、泌尿科等等，並不是所有的門診都有。",
+     "py": "Ménzhěn shíshī, xiàngshì fùchǎnkē, Mìniàokē děngděng, bìng búshì suǒyǒu de ménzhěn dōu yǒu."
+    },
+    {
+     "zh": "女：那，像我爸爸年紀大，耳朵有問題，聽不見呼叫器的聲音怎麼辦？",
+     "py": "Nǚ: Nà, xiàng wǒ bàba niánjì dà, ěrduǒ yǒu wèntí, tīngbújiàn hūjiàoqì de shēngyīn zěnmebàn?"
+    },
+    {
+     "zh": "男：這你別擔心，呼叫器的設計有各種變化，會發亮、會震動、還有音樂聲，就",
+     "py": "Nán: Zhè nǐ bié dānxīn, hūjiàoqì de shèjì yǒu gèzhǒng biànhuà, huì fāliàng, huì zhèndòng, háiyǒu yīnyuèshēng, jiù"
+    },
+    {
+     "zh": "算是視障或聽障的病患都可以使用，而且用完之後，醫護人員還會回收、用",
+     "py": "Suànshì shìzhàng huò tīngzhàng de bìnghuàn dōu kěyǐ shǐyòng, érqiě yòng wán zhīhòu, yīhùrényuán hái huì huíshōu, yòng"
+    },
+    {
+     "zh": "酒精消毒，防止病毒傳染，貼心得不得了呢！",
+     "py": "Jiǔjīng xiāodú, fángzhǐ bìngdú chuánrǎn, tiēxīn dé bùdéle ne!"
+    },
+    {
+     "zh": "兩位研究生正在討論近年來在各地監獄所實施的新政策。請聽這段對話，然後回",
+     "py": "Liǎngwèi yánjiūshēng zhèngzài tǎolùn jìnniánlái zài gèdì jiānyù suǒ shíshī de xīn zhèngcè. Qǐng tīng zhèduàn duìhuà, ránhòu huí"
+    },
+    {
+     "zh": "答下面三個問題：",
+     "py": "Dá xiàmiàn sān ge wèntí:"
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "關於實施這項政策，下面哪一個是對的？",
+     "py": "Guānyú shíshī zhèxiàng zhèngcè, xiàmiàn nǎ yí ge shì duì de?"
+    }
+   ]
+  },
+  "9": {
+   "stem": {
+    "zh": "這位小姐用統計資料來說明哪一個現象？",
+    "py": "Zhèwèi Xiǎojiě yòng tǒngjìzīliào lái shuōmíng nǎ yí ge xiànxiàng?"
+   },
+   "options": {
+    "A": {
+     "zh": "入獄的人數跟過去差不多",
+     "py": "Rùyù de rénshù gēn guòqù chàbuduō"
+    },
+    "B": {
+     "zh": "有專長的人入獄的比例較低",
+     "py": "Yǒu zhuāncháng de rén rùyù de bǐlì jiào dī"
+    },
+    "C": {
+     "zh": "監獄生產的商品頗受大眾喜愛",
+     "py": "Jiānyù shēngchǎn de shāngpǐn pǒshòu dàzhòng xǐài"
+    },
+    "D": {
+     "zh": "出獄後的再犯率和過去差不多",
+     "py": "Chūyù hòu de zàifàn lǜ hé guòqù chàbuduō"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這位小姐用統計資料來說明哪一個現象？",
+     "py": "Zhèwèi Xiǎojiě yòng tǒngjìzīliào lái shuōmíng nǎ yí ge xiànxiàng?"
+    }
+   ]
+  },
+  "10": {
+   "stem": {
+    "zh": "根據對話，使出獄的人再度犯罪的主要因素是什麼？ 現在請聽對話。",
+    "py": "Gēnjù duìhuà, shǐ chūyù de rén zàidù fànzuì de zhǔyào yīnsù shì shénme? Xiànzài qǐng tīng duìhuà."
+   },
+   "options": {
+    "A": {
+     "zh": "經濟不景氣",
+     "py": "Jīngjì bùjǐngqì"
+    },
+    "B": {
+     "zh": "社會接受度不高",
+     "py": "Shèhuì jiēshòudù bù gāo"
+    },
+    "C": {
+     "zh": "缺乏謀生的技能",
+     "py": "Quēfá móushēng de jìnéng"
+    },
+    "D": {
+     "zh": "拿不到社會補助",
+     "py": "Ná búdào shèhuì bǔzhù"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "根據對話，使出獄的人再度犯罪的主要因素是什麼？",
+     "py": "Gēnjù duìhuà, shǐ chūyù de rén zàidù fànzuì de zhǔyào yīnsù shì shénme?"
+    }
+   ]
+  },
+  "11": {
+   "passage": [
+    {
+     "zh": "林教授在樹木研討會上發表她的研究成果，以下是植物實驗園區的張主任，針對她所發表的內容，兩人進行的討論。",
+     "py": "Lín jiàoshòu zài shùmù yántǎohuì shàng fābiǎo tā de yánjiūchéngguǒ, yǐxià shì zhíwù shíyàn yuánqū de Zhāng zhǔrèn, zhēnduì tā suǒ fābiǎo de nèiróng, liǎng rén jìnxíng de tǎolùn."
+    },
+    {
+     "zh": "請聽這段討論，然後回答下面三個問題。",
+     "py": "Qǐng tīng zhèduàn tǎolùn, ránhòu huídá xiàmiàn sān ge wèntí."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "因為揭開了沉香成形的祕密",
+     "py": "Yīnwèi jiēkāi le chénxiāng chéngxíng de mìmì"
+    },
+    "B": {
+     "zh": "因為找到了沉香不受蟲害的方法",
+     "py": "Yīnwèi zhǎodào le chénxiāng bù shòu chónghài de fāngfǎ"
+    },
+    "C": {
+     "zh": "因為發現了提高沉香產量的方法",
+     "py": "Yīnwèi fāxiàn le tígāo chénxiāng chǎnliàng de fāngfǎ"
+    },
+    "D": {
+     "zh": "因為打破了不能人工種植沉香的想法",
+     "py": "Yīnwèi dǎpò le bùnéng réngōng zhòngzhí chénxiāng de xiǎngfǎ"
+    }
+   },
+   "intro": [
+    {
+     "zh": "現在請聽對話。",
+     "py": "Xiànzài qǐng tīng duìhuà."
+    },
+    {
+     "zh": "男：我很認同你剛才提到的政策，也就是政府鼓勵各個監獄自行開發有特色的產",
+     "py": "Nán: Wǒ hěn rèntóng nǐ gāngcái tídào de zhèngcè, yě jiùshì zhèngfǔ gǔlì gè ge jiānyù zìxíng kāifā yǒu tèsè de chǎn"
+    },
+    {
+     "zh": "品。有的專門教導受刑人做傳統醬油，有的教導受刑人做手工巧克力，這樣",
+     "py": "Pǐn. Yǒu de zhuānmén jiàodǎo shòuxíngrén zuò chuántǒng jiàngyóu, yǒu de jiàodǎo shòuxíngrén zuò shǒugōng Qiǎokèlì, zhèyàng"
+    },
+    {
+     "zh": "不但能增加監獄的收入，也能提供受刑人良好的教育訓練。",
+     "py": "Búdàn néng zēngjiā jiānyù de shōurù, yě néng tígōng shòuxíngrén liánghǎo de jiàoyù xùnliàn."
+    },
+    {
+     "zh": "女：是啊，通常一般監獄選擇開發的產品，以經濟實惠、適合送禮的食品類最多，",
+     "py": "Nǚ: Shì a, tōngcháng yìbān jiānyù xuǎnzé kāifā de chǎnpǐn, yǐ jīngjì shíhuì, shìhé sònglǐ de shípǐnlèi zuì duō,"
+    },
+    {
+     "zh": "很受大眾歡迎。不過，也有的監獄別出心裁，特別開發需要長期訓練，需要",
+     "py": "Hěn shòu dàzhòng huānyíng. Búguò, yě yǒu de jiānyù biéchūxīncái, tèbié kāifā xūyào chángqī xùnliàn, xūyào"
+    },
+    {
+     "zh": "高度技巧的手工藝品，雖然費時又費力，卻很適合刑期較長的犯人。",
+     "py": "Gāodù jìqiǎo de shǒugōngyìpǐn, suīrán fèishí yòu fèilì, què hěn shìhé xíngqī jiào zhǎng de fànrén."
+    },
+    {
+     "zh": "男：我想，無論是哪一種產品，只要能幫助受刑人學得一技之長，出獄後能自立",
+     "py": "Nán: Wǒ xiǎng, wúlùnshì nǎ yìzhǒng chǎnpǐn, zhǐyào néng bāngzhù shòuxíng rénxué dé yíjìzhīcháng, chūyù hòu néng zìlì"
+    },
+    {
+     "zh": "更生就好。",
+     "py": "Gēngshēng jiù hǎo."
+    },
+    {
+     "zh": "女：當然，這也是當初制訂政策時的理念，可惜根據我手中的統計資料，受刑人",
+     "py": "Nǚ: Dāngrán, zhè yě shì dāngchū zhìdìng zhèngcè shí de lǐniàn, kěxī gēnjù wǒ shǒuzhōng de tǒngjìzīliào, shòuxíngrén"
+    },
+    {
+     "zh": "出獄後，再度犯罪的比例還是跟過去不相上下，沒有顯著的降低。",
+     "py": "Chūyù hòu, zàidù fànzuì de bǐlì háishì gēn guòqù bùxiāngshàngxià, méiyǒu xiǎnzhù de jiàngdī."
+    },
+    {
+     "zh": "男：為什麼呢？",
+     "py": "Nán: Wèishénme ne?"
+    },
+    {
+     "zh": "女：我想，除了受刑人本身的因素之外，主要還是社會大眾對坐過牢的人有一定",
+     "py": "Nǚ: Wǒ xiǎng, chúle shòuxíngrén běnshēn de yīnsù zhīwài, zhǔyào háishì shèhuì dàzhòng duì zuò guò láo de rén yǒu yídìng"
+    },
+    {
+     "zh": "的疑慮，所以即使他們有一技之長，但到了求職時還是到處碰壁，最後在生",
+     "py": "De yílǜ, suǒyǐ jíshǐ tāmen yǒu yíjìzhīcháng, dàn dào le qiúzhí shí háishì dàochù pèngbì, zuìhòu zài shēng"
+    },
+    {
+     "zh": "活的壓力下，只好重操舊業，走上不歸路。",
+     "py": "Huó de yālì xià, zhǐhǎo chóngcāojiùyè, zǒushàng bùguīlù."
+    },
+    {
+     "zh": "林教授在樹木研討會上發表她的研究成果，以下是植物實驗園區的張主任，針對",
+     "py": "Lín jiàoshòu zài shùmù yántǎohuì shàng fābiǎo tā de yánjiūchéngguǒ, yǐxià shì zhíwù shíyàn yuánqū de Zhāng zhǔrèn, zhēnduì"
+    },
+    {
+     "zh": "她所發表的內容，兩人進行的討論。請聽這段討論，然後回答下面三個問題。",
+     "py": "Tā suǒ fābiǎo de nèiróng, liǎng rén jìnxíng de tǎolùn. Qǐng tīng zhèduàn tǎolùn, ránhòu huídá xiàmiàn sān ge wèntí."
+    },
+    {
+     "zh": "現在請聽討論。",
+     "py": "Xiànzài qǐng tīng tǎolùn."
+    },
+    {
+     "zh": "男：林教授，您好，您剛剛和我們分享的研究，非常精彩。我想請教幾個問題，",
+     "py": "Nán: Lín jiàoshòu, nínhǎo, nín gānggāng hé wǒmen fēnxiǎng de yánjiū, fēicháng jīngcǎi. Wǒ xiǎng qǐngjiào jǐ ge wèntí,"
+    },
+    {
+     "zh": "一是，您的研究在提高沉香產量上，有著非常驚人的發現，但是這麼完整的",
+     "py": "Yī shì, nín de yánjiū zài tígāo chénxiāng chǎnliàng shàng, yǒuzhù fēicháng jīngrén de fāxiàn, dànshì zhème wánzhěng de"
+    },
+    {
+     "zh": "研究只用了一年的時間！這實在太…太驚人了！您真的只用一年的時間，就",
+     "py": "Yánjiū zhǐyòng le yìnián de shíjiān! Zhè shízài tài… tài jīngrén le! Nín zhēnde zhǐyòng yìnián de shíjiān, jiù"
+    },
+    {
+     "zh": "發現提高沉香產量的關鍵了嗎？另外，這項研究已經引起大眾的關注，對農",
+     "py": "Fāxiàn tígāo chénxiāng chǎnliàng de guānjiàn le ma? Lìngwài, zhèxiàng yánjiū yǐjīng yǐnqǐ dàzhòng de guānzhù, duì nóng"
+    },
+    {
+     "zh": "民也有極大的幫助，請問您接下來的規劃是什麼？",
+     "py": "Mín yě yǒu jídà de bāngzhù, qǐngwèn nín jiēxiàlái de guīhuà shì shénme?"
+    },
+    {
+     "zh": "女：張主任是明眼人，一般來說，這確實不是短時間內可以完成的，但是，在場",
+     "py": "Nǚ: Zhāng zhǔrèn shì míngyǎnrén, yìbānláishuō, zhè quèshí búshì duǎnshíjiān nèi kěyǐ wánchéng de, dànshì, zàichǎng"
+    },
+    {
+     "zh": "的學者都清楚，我長期關注植物面對蟲害、或微生物傷害時，所啟動的自我",
+     "py": "De xuézhě dōu qīngchǔ, wǒ chángqī guānzhù zhíwù miànduì chónghài, huò wēishēngwù shānghài shí, suǒ qǐdòng de zìwǒ"
+    },
+    {
+     "zh": "防禦機制，而這次能在一年內提出成果，應該算是我這十幾年來的努力吧。",
+     "py": "Fángyùjīzhì, ér zhècì néng zài yìnián nèi tíchū chéngguǒ, yīnggāi suànshì wǒ zhè shíjǐniánlái de nǔlì ba."
+    },
+    {
+     "zh": "至於目前這項研究的後續，主任，您是為農民請願嗎？放心，我會將研究成",
+     "py": "Zhìyú mùqián zhèxiàng yánjiū de hòuxù, zhǔrèn, nín shì wèi nóngmín qǐngyuàn ma? Fàngxīn, wǒhuì jiāng yánjiū chéng"
+    },
+    {
+     "zh": "果優先提供給本地農民，希望對農民有所幫助。",
+     "py": "Guǒ yōuxiān tígōng gěi běndì nóngmín, xīwàng duì nóngmín yǒusuǒ bāngzhù."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "林教授的研究，為什麼引起大家的關注？",
+     "py": "Lín jiàoshòu de yánjiū, wèishénme yǐnqǐ dàjiā de guānzhù?"
+    }
+   ]
+  },
+  "12": {
+   "options": {
+    "A": {
+     "zh": "他懷疑研究結果",
+     "py": "Tā huáiyí yánjiū jiéguǒ"
+    },
+    "B": {
+     "zh": "他讚賞研究發現",
+     "py": "Tā zànshǎng yánjiū fāxiàn"
+    },
+    "C": {
+     "zh": "他肯定研究的方法",
+     "py": "Tā kěndìng yánjiū de fāngfǎ"
+    },
+    "D": {
+     "zh": "他質疑研究的動機",
+     "py": "Tā zhìyí yánjiū de dòngjī"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "根據張主任的提問，可以知道他對這項研究的看法為何？",
+     "py": "Gēnjù zhāng zhǔrèn de tíwèn, kěyǐ zhīdào tā duì zhèxiàng yánjiū de kànfǎ wèihé?"
+    }
+   ]
+  },
+  "13": {
+   "options": {
+    "A": {
+     "zh": "研究時間不只一年",
+     "py": "Yánjiū shíjiān bù zhǐ yìnián"
+    },
+    "B": {
+     "zh": "需要進行相關實驗",
+     "py": "Xūyào jìnxíng xiāngguān shíyàn"
+    },
+    "C": {
+     "zh": "後續需要張主任的幫忙",
+     "py": "Hòuxù xūyào zhāng zhǔrèn de bāngmáng"
+    },
+    "D": {
+     "zh": "她會長期關注之後的發展",
+     "py": "Tā huì chángqī guānzhù zhīhòu de fāzhǎn"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "關於張主任提的問題，林教授的回應是什麼？",
+     "py": "Guānyú zhāng zhǔrèn tí de wèntí, lín jiàoshòu de huíyìng shì shénme?"
+    }
+   ]
+  },
+  "14": {
+   "passage": [
+    {
+     "zh": "下面這段對話提到了人們對於「免費」的迷思。請聽這段對話，然後回答下面四個問題：",
+     "py": "Xiàmiàn zhè duàn duìhuà tídào le rénmen duìyú “Miǎnfèi” de mísī. Qǐng tīng zhèduàn duìhuà, ránhòu huídá xiàmiàn sì ge wèntí:"
+    }
+   ],
+   "stem": {
+    "zh": "對話中提到，這家網路書店早期所使用的策略是什麼？",
+    "py": "Duìhuà zhōng tídào, zhèjiā wǎnglù shūdiàn zǎoqī suǒ shǐyòng de cèlüè shì shénme?"
+   },
+   "options": {
+    "A": {
+     "zh": "只購買一本書就免運費",
+     "py": "Zhǐ gòumǎi yī běnshū jiù miǎn yùnfèi"
+    },
+    "B": {
+     "zh": "將運費包含在書籍的售價中",
+     "py": "Jiāng yùnfèi bāohán zài shūjí de shòujià zhōng"
+    },
+    "C": {
+     "zh": "運費隨著消費金額提高而增加",
+     "py": "Yùnfèi suízhù xiāofèi jīné tígāo ér zēngjiā"
+    },
+    "D": {
+     "zh": "消費一定的金額，享有低廉運費",
+     "py": "Xiāofèi yídìng de jīné, xiǎngyǒu dīlián yùnfèi"
+    }
+   },
+   "intro": [
+    {
+     "zh": "下面這段對話提到了人們對於「免費」的迷思。請聽這段對話，然後回答下面四",
+     "py": "Xiàmiàn zhè duàn duìhuà tídào le rénmen duìyú “Miǎnfèi” de mísī. Qǐng tīng zhèduàn duìhuà, ránhòu huídá xiàmiàn sì"
+    },
+    {
+     "zh": "個問題：",
+     "py": "Gè wèntí:"
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "對話中提到，這家網路書店早期所使用的策略是什麼？",
+     "py": "Duìhuà zhōng tídào, zhèjiā wǎnglù shūdiàn zǎoqī suǒ shǐyòng de cèlüè shì shénme?"
+    }
+   ]
+  },
+  "15": {
+   "stem": {
+    "zh": "這家網路書店如何改變策略？",
+    "py": "Zhèjiā wǎnglù shūdiàn rúhé gǎibiàn cèlüè?"
+   },
+   "options": {
+    "A": {
+     "zh": "無條件提供免運費服務",
+     "py": "Wútiáojiàn tígōng miǎn yùnfèi fúwù"
+    },
+    "B": {
+     "zh": "加入會員就能享有免運費服務",
+     "py": "Jiārù huìyuán jiù néng xiǎngyǒu miǎn yùnfèi fúwù"
+    },
+    "C": {
+     "zh": "提高享有免運費服務的購物金額",
+     "py": "Tígāo xiǎngyǒu miǎn yùnfèi fúwù de gòuwù jīné"
+    },
+    "D": {
+     "zh": "購買指定書籍可享有免運費服務",
+     "py": "Gòumǎi zhǐdìng shūjí kě xiǎngyǒu miǎn yùnfèi fúwù"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這家網路書店如何改變策略？",
+     "py": "Zhèjiā wǎnglù shūdiàn rúhé gǎibiàn cèlüè?"
+    }
+   ]
+  },
+  "16": {
+   "stem": {
+    "zh": "這位先生提到的汽水和零食有什麼特色？",
+    "py": "Zhèwèi xiānsheng tídào de qìshuǐ hé língshí yǒu shénme tèsè?"
+   },
+   "options": {
+    "A": {
+     "zh": "都送贈品",
+     "py": "Dōu sòng zèngpǐn"
+    },
+    "B": {
+     "zh": "都是免費的",
+     "py": "Dōu shì miǎnfèi de"
+    },
+    "C": {
+     "zh": "降低廠商生產成本",
+     "py": "Jiàngdī chǎngshāng shēngchǎnchéngběn"
+    },
+    "D": {
+     "zh": "讓消費者以為沒有負擔",
+     "py": "Ràng xiāofèizhě yǐwéi méiyǒu fùdān"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這位先生提到的汽水和零食有什麼特色？",
+     "py": "Zhèwèi xiānsheng tídào de qìshuǐ hé língshí yǒu shénme tèsè?"
+    }
+   ]
+  },
+  "17": {
+   "stem": {
+    "zh": "這位先生認為免費的贈品或服務怎麼樣？ 現在請聽對話。",
+    "py": "Zhèwèi xiānsheng rènwéi miǎnfèi de zèngpǐn huò fúwù zěnmeyàng? Xiànzài qǐng tīng duìhuà."
+   },
+   "options": {
+    "A": {
+     "zh": "不見得划算",
+     "py": "Bújiànde huásuàn"
+    },
+    "B": {
+     "zh": "能造福消費者",
+     "py": "Néng zàofú xiāofèizhě"
+    },
+    "C": {
+     "zh": "品質一定不好",
+     "py": "Pǐnzhì yídìng bùhǎo"
+    },
+    "D": {
+     "zh": "消費者不一定喜歡",
+     "py": "Xiāofèizhě bù yídìng xǐhuān"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這位先生認為免費的贈品或服務怎麼樣？",
+     "py": "Zhèwèi xiānsheng rènwéi miǎnfèi de zèngpǐn huò fúwù zěnmeyàng?"
+    }
+   ]
+  },
+  "18": {
+   "passage": [
+    {
+     "zh": "下面這段對話提到了一個有趣的網站。請聽這段對話，然後回答下面四個問題：",
+     "py": "Xiàmiàn zhè duàn duìhuà tídào le yí ge yǒuqù de wǎngzhàn. Qǐng tīng zhèduàn duìhuà, ránhòu huídá xiàmiàn sì ge wèntí:"
+    }
+   ],
+   "stem": {
+    "zh": "這個網站能讓人做什麼？",
+    "py": "Zhè ge wǎngzhàn néng ràng rén zuò shénme?"
+   },
+   "options": {
+    "A": {
+     "zh": "開個玩笑輕鬆一下",
+     "py": "Kāi gè wánxiào qīngsōng yíxià"
+    },
+    "B": {
+     "zh": "投票選出最出名的人",
+     "py": "Tóupiào xuǎnchū zuì chūmíng de rén"
+    },
+    "C": {
+     "zh": "認識很多有成就的人",
+     "py": "Rènshi hěnduō yǒu chéngjiù de rén"
+    },
+    "D": {
+     "zh": "把自己介紹給網路上的朋友",
+     "py": "Bǎ zìjǐ jièshào gěi wǎnglùshàng de péngyǒu"
+    }
+   },
+   "intro": [
+    {
+     "zh": "現在請聽對話。",
+     "py": "Xiànzài qǐng tīng duìhuà."
+    },
+    {
+     "zh": "女：國強，我經常在台北市忠孝東路附近停車，停一個小時要 50 元，但如果我",
+     "py": "Nǚ: Guó qiáng, wǒ jīngcháng zài Táiběishì Zhōngxiàodōnglù fùjìn tíngchē, tíng yí ge xiǎoshí yào 50 yuán, dàn rúguǒ wǒ"
+    },
+    {
+     "zh": "購物消費滿 200 元，就可以免費停車一小時，所以我常為了這個優惠，花費",
+     "py": "Gòuwù xiāofèi mǎn 200 yuán, jiù kěyǐ miǎnfèi tíngchē yī xiǎoshí, suǒyǐ wǒ cháng wèile zhè ge yōuhuì, huāfèi"
+    },
+    {
+     "zh": "更多。",
+     "py": "Gèng duō."
+    },
+    {
+     "zh": "男：美珍，這一點都不奇怪，因為你掉進了「免費」的陷阱裡。我舉個例子吧，",
+     "py": "Nán: Měizhēn, zhè yìdiǎn dōu bù qíguài, yīnwèi nǐ diào jìn le “Miǎnfèi” de xiànjǐng lǐ. Wǒ jǔ gè lìzi ba,"
+    },
+    {
+     "zh": "你知道那家知名的網路書店吧，聽說早期他們所使用的策略跟現在不一樣。",
+     "py": "Nǐ zhīdào nà jiā zhīmíng de wǎnglù shūdiàn ba, tīngshuō zǎoqī tāmen suǒ shǐyòng de cèlüè gēn xiànzài bù yíyàng."
+    },
+    {
+     "zh": "那時候，只要你的訂單金額達到…嗯，假設是一千塊，那麼運費其實都只要",
+     "py": "Nà shíhòu, zhǐyào nǐ de dìngdān jīné dádào… ń, jiǎshè shì yīqiānkuài, nàme yùnfèi qíshí dōu zhǐyào"
+    },
+    {
+     "zh": "五十塊而已。但即使運費是這麼地少，它的吸引力還是不如免運費，後來他",
+     "py": "Wǔshíkuài éryǐ. Dàn jíshǐ yùnfèi shì zhème dìshǎo, tā de xīyǐnlì háishì bùrú miǎn yùnfèi, hòulái tā"
+    },
+    {
+     "zh": "們索性提高門檻，改成購物滿兩千塊就可以免運費，結果銷售量反而大大增",
+     "py": "Men suǒxìng tígāo ménkǎn, gǎichéng gòuwùmǎn liǎngqiānkuài jiù kěyǐ miǎn yùnfèi, jiéguǒ xiāoshòuliàng fǎnér dà dàzēng"
+    },
+    {
+     "zh": "加了！你看，其實你是花了更多的錢！",
+     "py": "Jiā le! Nǐ kàn, qíshí nǐ shì huā le gèng duō de qián!"
+    },
+    {
+     "zh": "女：有時候，真搞不懂我們消費者的心態啊！",
+     "py": "Nǚ: Yǒushíhòu, zhēn gǎobùdǒng wǒmen xiāofèizhě de xīntài a!"
+    },
+    {
+     "zh": "男：其實在大部分的情況下，拿免費的東西完全合理，不拿白不拿嘛！但是如果",
+     "py": "Nán: Qíshí zài dàbùfèn de qíngkuàng xià, ná miǎnfèi de Dōngxi wánquán hélǐ, bù ná bái bù ná ma! Dànshì rúguǒ"
+    },
+    {
+     "zh": "拿這個免費的東西是有條件的，大家就會有種貪小便宜的心理，大家都會",
+     "py": "Ná zhè ge miǎnfèi de Dōngxi shì yǒu tiáojiàn de, dàjiā jiù huì yǒuzhǒng tānxiǎopiányí de xīnlǐ, dàjiā dōu huì"
+    },
+    {
+     "zh": "想，不花一毛錢怎麼可能有損失呢？所以一定會選擇免費的方案，反而忘記",
+     "py": "Xiǎng, bù huā yìmáoqián zěnme kěnéng yǒu sǔnshī ne? Suǒyǐ yídìng huì xuǎnzé miǎnfèi de fāngàn, fǎnér wàngjì"
+    },
+    {
+     "zh": "自己為了這個免費的權利付出更多。許多廠商也是看準這個心理，推出什麼",
+     "py": "Zìjǐ wèile zhè ge miǎnfèi de quánlì fùchū gèng duō. Xǔduō chǎngshāng yě shì kànzhǔn zhè ge xīnlǐ, tuīchū shénme"
+    },
+    {
+     "zh": "「零熱量」汽水、「零卡路里」餅乾，結果呢，消費者就忘了自己其實是想",
+     "py": "“Líng rèliàng” qìshuǐ, “Líng kǎlùlǐ” bǐnggān, jiéguǒ ne, xiāofèizhě jiù wàng le zìjǐ qíshí shì xiǎng"
+    },
+    {
+     "zh": "減肥的，反而喝得更多，吃得更多。",
+     "py": "Jiǎnféi de, fǎnér hē dé gèng duō, chī dé gèng duō."
+    },
+    {
+     "zh": "下面這段對話提到了一個有趣的網站。請聽這段對話，然後回答下面四個問題：",
+     "py": "Xiàmiàn zhè duàn duìhuà tídào le yí ge yǒuqù de wǎngzhàn. Qǐng tīng zhèduàn duìhuà, ránhòu huídá xiàmiàn sì ge wèntí:"
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "這個網站能讓人做什麼？",
+     "py": "Zhè ge wǎngzhàn néng ràng rén zuò shénme?"
+    }
+   ]
+  },
+  "19": {
+   "stem": {
+    "zh": "關於這個網站所提供的檔案，哪一個是對的？",
+    "py": "Guānyú zhè ge wǎngzhàn suǒ tígōng de dàngàn, nǎ yí ge shì duì de?"
+   },
+   "options": {
+    "A": {
+     "zh": "具有法律效力",
+     "py": "Jùyǒu fǎlǜxiàolì"
+    },
+    "B": {
+     "zh": "可以免費改變風格",
+     "py": "Kěyǐ miǎnfèi gǎibiàn fēnggé"
+    },
+    "C": {
+     "zh": "一年內可以隨時申請",
+     "py": "Yìnián nèi kěyǐ suíshí shēnqǐng"
+    },
+    "D": {
+     "zh": "只有公益團體可以申請",
+     "py": "Zhǐyǒu gōngyì tuántǐ kěyǐ shēnqǐng"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "關於這個網站所提供的檔案，哪一個是對的？",
+     "py": "Guānyú zhè ge wǎngzhàn suǒ tígōng de dàngàn, nǎ yí ge shì duì de?"
+    }
+   ]
+  },
+  "20": {
+   "stem": {
+    "zh": "這個網站怎麼利用賺到的錢？",
+    "py": "Zhè ge wǎngzhàn zěnme lìyòng zhuàndào de qián?"
+   },
+   "options": {
+    "A": {
+     "zh": "平均分給各個公益團體",
+     "py": "Píngjūn fēngěi gè ge gōngyì tuántǐ"
+    },
+    "B": {
+     "zh": "給最受歡迎的公益團體",
+     "py": "Gěi zuì shòuhuānyíng de gōngyì tuántǐ"
+    },
+    "C": {
+     "zh": "成立國際性的公益團體",
+     "py": "Chénglì guójìxìng de gōngyì tuántǐ"
+    },
+    "D": {
+     "zh": "請名人來幫公益團體募款",
+     "py": "Qǐng míngrén lái bāng gōngyì tuántǐ mùkuǎn"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這個網站怎麼利用賺到的錢？",
+     "py": "Zhè ge wǎngzhàn zěnme lìyòng zhuàndào de qián?"
+    }
+   ]
+  },
+  "21": {
+   "stem": {
+    "zh": "這位小姐為什麼希望網站不要公布票選結果？ 現在請聽對話。",
+    "py": "Zhèwèi Xiǎojiě wèishénme xīwàng wǎngzhàn búyào gōngbù piàoxuǎn jiéguǒ? Xiànzài qǐng tīng duìhuà."
+   },
+   "options": {
+    "A": {
+     "zh": "擔心網站侵吞捐款",
+     "py": "Dānxīn wǎngzhàn qīntūn juānkuǎn"
+    },
+    "B": {
+     "zh": "擔心慈善捐款分配不均",
+     "py": "Dānxīn Císhàn juānkuǎn fēnpèi bùjūn"
+    },
+    "C": {
+     "zh": "不願網站藉此打知名度",
+     "py": "Bù yuàn wǎngzhàn jiècǐ dǎ zhīmíngdù"
+    },
+    "D": {
+     "zh": "不願讓別人覺得沒有面子",
+     "py": "Bù yuàn ràng biérén juéde méiyǒu miànzi"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這位小姐為什麼希望網站不要公布票選結果？",
+     "py": "Zhèwèi Xiǎojiě wèishénme xīwàng wǎngzhàn búyào gōngbù piàoxuǎn jiéguǒ?"
+    }
+   ]
+  },
+  "22": {
+   "passage": [
+    {
+     "zh": "兩位學生正針對「物競天擇、適者生存」的概念進行辯論，請聽這段對話，然後回答下面四個問題。",
+     "py": "Liǎngwèi xuéshēng zhèng zhēnduì “Wùjìngtiānzé, shìzhěshēngcún” de gàiniàn jìnxíng biànlùn, qǐng tīng zhèduàn duìhuà, ránhòu huídá xiàmiàn sì ge wèntí."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "繁衍後代和物種進化是否有關",
+     "py": "Fányǎn hòudài hé wùzhǒng jìnhuà shìfǒu yǒuguān"
+    },
+    "B": {
+     "zh": "進化的目的是否和適應環境有關",
+     "py": "Jìnhuà de mùdì shìfǒu hé shìyìnghuánjìng yǒuguān"
+    },
+    "C": {
+     "zh": "所有物種是否只有一套進化機制",
+     "py": "Suǒyǒu wùzhǒng shìfǒu zhǐyǒu yítào jìnhuà jīzhì"
+    },
+    "D": {
+     "zh": "物種進化是否要考量人為的操作",
+     "py": "Wùzhǒng jìnhuà shìfǒu yào kǎoliáng rénwéi de cāozuò"
+    }
+   },
+   "intro": [
+    {
+     "zh": "現在請聽對話。",
+     "py": "Xiànzài qǐng tīng duìhuà."
+    },
+    {
+     "zh": "男：小晴，你快過來看看這個網站！它上面說這是「全世界最知名的網站」！",
+     "py": "Nán: Xiǎoqíng, nǐ kuài guòlái kànkàn zhè ge wǎngzhàn! Tā shàngmiàn shuō zhè shì “Quánshìjiè zuì zhīmíng de wǎngzhàn”!"
+    },
+    {
+     "zh": "女：網路上每天新增的網站不知道有多少，有誰敢說自己的網站是全世界最有名",
+     "py": "Nǚ: Wǎnglùshàng měitiān xīnzēng de wǎngzhàn bù zhīdào yǒu duōshǎo, yǒu shuí gǎn shuō zìjǐ de wǎngzhàn shì quánshìjiè zuì yǒumíng"
+    },
+    {
+     "zh": "的，這根本就是吹牛嘛！",
+     "py": "De, zhè gēnběnjiùshì chuīniú ma!"
+    },
+    {
+     "zh": "男：等等，你如果仔細看一下它的遊戲規則，就會發現它這樣說不是沒有道理的",
+     "py": "Nán: Děngděng, nǐ rúguǒ zǐxì kàn yíxià tā de yóuxìguīzé, jiù huì fāxiàn tā zhèyàng shuō búshì méiyǒu dàolǐ de"
+    },
+    {
+     "zh": "喔！它說，在這一年內，你可以隨時上網去登記你的名字和名號。要什麼名",
+     "py": "Ō! Tā shuō, zài zhè yìnián nèi, nǐ kěyǐ suíshí shàngwǎng qù dēngjì nǐ de míngzi hé mínghào. Yào shénme míng"
+    },
+    {
+     "zh": "號隨你選，你可以是「全地球最有名的小孩」、也可以是「全世界最體貼的",
+     "py": "Hào suí nǐ xuǎn, nǐ kěyǐ shì “Quán dìqiú zuì yǒumíng de xiǎohái”, yě kěyǐ shì “Quánshìjiè zuì tǐtiē de"
+    },
+    {
+     "zh": "老公」。然後，你只要付一塊美金，網站就會寄給你一個檔案。把這個檔案",
+     "py": "Lǎogōng”. Ránhòu, nǐ zhǐyào fù yíkuài měijīn, wǎngzhàn jiù huì jìgěi nǐ yí ge dàngàn. Bǎ zhè ge dàngàn"
+    },
+    {
+     "zh": "印出來就是一張設計好的獎狀，上面有你的名字和名號，你可以把這張獎狀",
+     "py": "Yìnchūlái jiùshì yìzhāng shèjì hǎo de jiǎngzhuàng, shàngmiàn yǒu nǐ de míngzi hé mínghào, nǐ kěyǐ bǎ zhè zhāng jiǎngzhuàng"
+    },
+    {
+     "zh": "拿給別人看，好好地炫耀一下！如果你不喜歡它的風格，還可以選擇加錢換",
+     "py": "Nágěi biérén kàn, hǎohǎo dì xuànyào yíxià! Rúguǒ nǐ bù xǐhuān tā de fēnggé, hái kěyǐ xuǎnzé jiāqián huàn"
+    },
+    {
+     "zh": "字體或換照片！",
+     "py": "Zìtǐ huò huàn zhàopiān!"
+    },
+    {
+     "zh": "女：聽起來是蠻好玩兒，不過說穿了還不就是個騙錢的玩意兒。",
+     "py": "Nǚ: Tīng qǐlái shì mán hǎowánér, búguò shuōchuān le hái bù jiùshì gè piànqián de wányìér."
+    },
+    {
+     "zh": "男：你付的錢，其實是有意義的。在你拿到獎狀之前，網站會先請你投票給某一",
+     "py": "Nán: Nǐ fù de qián, qíshí shì yǒu yìyì de. Zài nǐ nádào jiǎngzhuàng zhīqián, wǎngzhàn huì xiān qǐng nǐ tóupiào gěi mǒuyī"
+    },
+    {
+     "zh": "家公益團體。列在上面的都是國際性的公益組織或慈善機構。活動結束之",
+     "py": "Jiā gōngyì tuántǐ. Liè zài shàngmiàn de dōu shì guójìxìng de gōngyì zǔzhī huò císhànjīgòu. Huódòng jiéshù zhī"
+    },
+    {
+     "zh": "後，網站就會統計哪個組織得到最多票，然後將募得款項的 80%，都捐給這",
+     "py": "Hòu, wǎngzhàn jiù huì tǒngjì nǎ ge zǔzhī dédào zuì duō piào, ránhòu jiāng mùdé kuǎnxiàng de 80 %, dōu juāngěi zhè"
+    },
+    {
+     "zh": "家機構，所以其實算是個公益活動呢！",
+     "py": "Jiā jīgòu, suǒyǐ qíshí suànshì gè gōngyìhuódòng ne!"
+    },
+    {
+     "zh": "女：哈哈，這還算有良心，不過，要是我是公益團體的負責人，我可不希望它公",
+     "py": "Nǚ: Hāhā, zhè hái suànyǒu liángxīn, búguò, yàoshì wǒ shì gōngyì tuántǐ de fùzérén, wǒ kěbù xīwàng tā gōng"
+    },
+    {
+     "zh": "布結果。",
+     "py": "Bù jiéguǒ."
+    },
+    {
+     "zh": "男：為什麼呢？這可稱得上是「世界最知名的公益團體」啊！",
+     "py": "Nán: Wèishénme ne? Zhè kě chēngdeshàng shì “Shìjiè zuì zhīmíng de gōngyì tuántǐ” a!"
+    },
+    {
+     "zh": "女：可是有了一家知名度最高的公益團體，就容易出現大部分的捐款都集中到那",
+     "py": "Nǚ: Kěshì yǒu le yìjiā zhīmíngdù zuìgāo de gōngyì tuántǐ, jiù róngyì chūxiàn dàbùfèn de juānkuǎn dōu jízhōng dào nà"
+    },
+    {
+     "zh": "一家的情形，那麼其他慈善團體所能拿到的捐款就相對地減少了，反而更不",
+     "py": "Yìjiā de qíngxíng, nàme qítā Císhàn tuántǐ suǒ néng nádào de juānkuǎn jiù xiāngduì dì jiǎnshǎo le, fǎnér gèng bù"
+    },
+    {
+     "zh": "容易生存下去啊！",
+     "py": "Róngyì shēngcún xiàqù a!"
+    },
+    {
+     "zh": "兩位學生正針對「物競天擇、適者生存」的概念進行辯論，請聽這段對話，然後",
+     "py": "Liǎngwèi xuéshēng zhèng zhēnduì “Wùjìngtiānzé, shìzhěshēngcún” de gàiniàn jìnxíng biànlùn, qǐng tīng zhèduàn duìhuà, ránhòu"
+    },
+    {
+     "zh": "回答下面四個問題。",
+     "py": "Huídá xiàmiàn sì ge wèntí."
+    },
+    {
+     "zh": "現在請聽對話。",
+     "py": "Xiànzài qǐng tīng duìhuà."
+    },
+    {
+     "zh": "男：19 世紀的達爾文認為，物種不是天生完美，而是經過生存競爭以後，漸漸",
+     "py": "Nán: 19 shìjì de Dáěrwén rènwéi, wùzhǒng búshì tiānshēng wánměi, érshì jīngguò shēngcúnjìngzhēng yǐhòu, jiànjiàn"
+    },
+    {
+     "zh": "完美，所以他提出了「物競天擇，適者生存」的演化論，同時強調這是演",
+     "py": "Wánměi, suǒyǐ tā tíchū le “Wùjìngtiānzé, shìzhěshēngcún” de yǎnhuàlùn, tóngshí qiángdiào zhè shì yǎn"
+    },
+    {
+     "zh": "化的唯一機制。",
+     "py": "Huà de wéiyī jīzhì."
+    },
+    {
+     "zh": "女：物競天擇是演化的唯一機制？這個說法，不要說我反對，就連同期的生物學",
+     "py": "Nǚ: Wùjìngtiānzé shì yǎnhuà de wéiyī jīzhì? Zhè ge shuōfǎ, búyào shuō wǒ fǎnduì, jiù lián tóngqī de shēngwùxué"
+    },
+    {
+     "zh": "家，也多抱持著質疑的態度，舉例來說：孔雀華麗的尾巴，在危難時，往",
+     "py": "Jiā, yě duō bàochí zhù zhìyí de tàidù, jǔlìláishuō: Kǒngquè Huálì de wěiba, zài wēinàn shí, wǎng"
+    },
+    {
+     "zh": "往妨礙它逃命，既然「物競天擇、適者生存」，又怎麼會演化出危害生存",
+     "py": "Wǎng fángài tā táomìng, jìrán “Wùjìngtiānzé, shìzhěshēngcún”, yòu zěnme huì yǎnhuàchū wēihài shēngcún"
+    },
+    {
+     "zh": "的特性呢？因此，「物競天擇」怎麼可能是演化的唯一機制！",
+     "py": "De tèxìng ne? Yīncǐ, “Wùjìngtiānzé” zěnme kěnéng shì yǎnhuà de wéiyī jīzhì!"
+    },
+    {
+     "zh": "男：為了解釋這個矛盾，補足「演化論」的缺失，達爾文另外提出了「性擇論」，",
+     "py": "Nán: Wèile jiěshì zhè ge máodùn, bǔzú “Yǎnhuàlùn” de quēshī, Dáěrwén lìngwài tíchū le “Xìngzélùn”,"
+    },
+    {
+     "zh": "雌性動物會依據雄性動物身上的裝飾擇偶。孔雀鮮豔的尾巴就是最好的例",
+     "py": "Cíxìng dòngwù huì yījù xióngxìng dòngwù shēnshàng de zhuāngshì zéǒu. Kǒngquè xiānyàn de wěiba jiùshì zuìhǎo de lì"
+    },
+    {
+     "zh": "子，數學家費雪也以數學模型支持「性擇論」。",
+     "py": "Zi, shùxuéjiā Fèixuě yě yǐ shùxuémóxíng zhīchí “Xìngzélùn”."
+    },
+    {
+     "zh": "女：「性擇論」，完全無法說服學界，像是與達爾文同時建立生物演化學說的華萊",
+     "py": "Nǚ: “Xìngzélùn”, wánquán wúfǎ shuōfú xuéjiè, xiàngshì yǔ Dáěrwén tóngshí jiànlì shēngwù yǎnhuà xuéshuō de Huálái"
+    },
+    {
+     "zh": "士就強烈反對「性擇」學說。即使到了現代，仍有學者認為「演化論」無",
+     "py": "Shì jiù qiángliè fǎnduì “Xìngzé” xuéshuō. Jíshǐ dào le xiàndài, réng yǒu xuézhě rènwéi “Yǎnhuàlùn” wú"
+    },
+    {
+     "zh": "法解釋演化的社會性，例如：控制生育性別與人工墮胎等，這些行為就和",
+     "py": "Fǎ jiěshì yǎnhuà de shèhuìxìng, lìrú: Kòngzhì shēngyù xìngbié yǔ réngōng duòtāi děng, zhèxiē xíngwéi jiù hé"
+    },
+    {
+     "zh": "「物競天擇」一點關係都沒有。",
+     "py": "“Wùjìngtiānzé” yìdiǎn guānxì dōu méiyǒu."
+    },
+    {
+     "zh": "男：等一下，人工墮胎？人為刻意操作的結果，怎能和自然演化機制相提並論呢？",
+     "py": "Nán: Děng yíxià, réngōng duòtāi? Rénwéi kèyì cāozuò de jiéguǒ, zěn néng hé zìrán yǎnhuà jīzhì xiāngtíbìnglùn ne?"
+    },
+    {
+     "zh": "所以，我認為演化的機制就是「物競天擇，適者生存」。",
+     "py": "Suǒyǐ, wǒ rènwéi yǎnhuà de jīzhì jiùshì “Wùjìngtiānzé, shìzhěshēngcún”."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "這一場辯論的主題是什麼？",
+     "py": "Zhè yìcháng biànlùn de zhǔtí shì shénme?"
+    }
+   ]
+  },
+  "23": {
+   "options": {
+    "A": {
+     "zh": "深信不疑",
+     "py": "Shēnxìnbùyí"
+    },
+    "B": {
+     "zh": "質疑問難",
+     "py": "Zhìyíwènnàn"
+    },
+    "C": {
+     "zh": "嗤之以鼻",
+     "py": "Chīzhīyǐbí"
+    },
+    "D": {
+     "zh": "同聲讚美",
+     "py": "Tóngshēng Zànměi"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "根據這位小姐的說法，當時的生物學家對「演化論」看法為何？",
+     "py": "Gēnjù zhèwèi Xiǎojiě de shuōfǎ, dāngshí de shēngwùxuéjiā duì “Yǎnhuàlùn” kànfǎ wèihé?"
+    }
+   ]
+  },
+  "24": {
+   "options": {
+    "A": {
+     "zh": "學者對「性擇論」的反彈更大",
+     "py": "Xuézhě duì “Xìngzélùn” de fǎntán gèng dà"
+    },
+    "B": {
+     "zh": "有學者用數學模型導出理論的不足",
+     "py": "Yǒu xuézhě yòng shùxuémóxíng dǎochū lǐlùn de bùzú"
+    },
+    "C": {
+     "zh": "學者們認為補足了「演化論」的缺失",
+     "py": "Xuézhě men rènwéi bǔzú le “Yǎnhuàlùn” de quēshī"
+    },
+    "D": {
+     "zh": "有些學者認為還能解釋演化的社會性",
+     "py": "Yǒuxiē xuézhě rènwéi hái néng jiěshì yǎnhuà de shèhuìxìng"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "根據這位小姐的說法，當時的學者對「性擇論」看法為何？",
+     "py": "Gēnjù zhèwèi Xiǎojiě de shuōfǎ, dāngshí de xuézhě duì “Xìngzélùn” kànfǎ wèihé?"
+    }
+   ]
+  },
+  "25": {
+   "options": {
+    "A": {
+     "zh": "這位小姐無法說服對方",
+     "py": "Zhèwèi Xiǎojiě wúfǎ shuōfú duìfāng"
+    },
+    "B": {
+     "zh": "這位小姐讓對方無法招架",
+     "py": "Zhèwèi Xiǎojiě ràng duìfāng wúfǎ zhāojià"
+    },
+    "C": {
+     "zh": "這位小姐有效地反擊對方",
+     "py": "Zhèwèi Xiǎojiě yǒuxiào dì fǎnjī duìfāng"
+    },
+    "D": {
+     "zh": "這位小姐讓對方啞口無言",
+     "py": "Zhèwèi Xiǎojiě ràng duìfāng yǎkǒuwúyán"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這一場辯論的結果是什麼？",
+     "py": "Zhè yìcháng biànlùn de jiéguǒ shì shénme?"
+    }
+   ]
+  },
+  "26": {
+   "options": {
+    "A": {
+     "zh": "寄送速度快",
+     "py": "Jìsòng sùdù kuài"
+    },
+    "B": {
+     "zh": "免費寄送郵件",
+     "py": "Miǎnfèi jìsòng yóujiàn"
+    },
+    "C": {
+     "zh": "只能寄信給自己",
+     "py": "Zhǐnéng jìxìn gěi zìjǐ"
+    },
+    "D": {
+     "zh": "寄送時間很有彈性",
+     "py": "Jìsòng shíjiān hěn yǒu tánxìng"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這一段報導，然後回答下面兩個問題。",
+     "py": "Qǐng tīng zhè yíduàn bàodǎo, ránhòu huídá xiàmiàn liǎng ge wèntí."
+    },
+    {
+     "zh": "這年頭，凡事都講求效率，尤其是快遞公司，快還要更快，但在中國北京，",
+     "py": "Zhèniántóu, fánshì dōu jiǎngqiú xiàolǜ, yóuqí shì kuàidì gōngsī, kuài háiyào gèng kuài, dàn zài Zhōngguó Běijīng,"
+    },
+    {
+     "zh": "一家公司卻反其道而行，做起了慢遞生意。這家公司，從開張以來，已經收到兩",
+     "py": "Yìjiā gōngsī què fǎnqídào ér xíng, zuòqǐ le màn dì shēngyì. Zhèjiā gōngsī, cóng kāizhāng yǐlái, yǐjīng shōudào liǎng"
+    },
+    {
+     "zh": "萬多封郵件。上門的客人將充滿情感的信件託付給這家公司，指定一個投遞日，",
+     "py": "Wànduō fēng yóujiàn. Shàngmén de kèrén jiāng chōngmǎn qínggǎn de xìnjiàn tuōfùgěi zhèjiā gōngsī, zhǐdìng yí ge tóudì rì,"
+    },
+    {
+     "zh": "付清費用後就離開。原來所謂的慢遞服務做的是未來的生意，收信人可以是自",
+     "py": "Fùqīng fèiyòng hòu jiù líkāi. Yuánlái suǒwèi demàn dì fúwù zuò de shì wèilái de shēngyì, shōuxìnrén kěyǐ shì zì"
+    },
+    {
+     "zh": "己，也可以是他人，慢遞公司會在寄件人指定的時間，將信件送達。不過，作為",
+     "py": "Jǐ, yě kěyǐ shì tārén, màn dì gōngsī huì zài jìjiànrén zhǐdìng de shíjiān, jiāng xìnjiàn sòngdá. Búguò, zuòwéi"
+    },
+    {
+     "zh": "一個消費者，可能得祈禱這家慢遞公司的生意越做越好，不要在寄送時間到之前",
+     "py": "Yí ge xiāofèizhě, kěnéng dé qídǎo zhèjiā màn dì gōngsī de shēngyì yuèzuòyuè hǎo, búyào zài jìsòng shíjiān dào zhīqián"
+    },
+    {
+     "zh": "就倒閉了。",
+     "py": "Jiù dǎobì le."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "這家公司的特色是什麼？",
+     "py": "Zhèjiā gōngsī de tèsè shì shénme?"
+    }
+   ]
+  },
+  "27": {
+   "options": {
+    "A": {
+     "zh": "信被寄丟了",
+     "py": "Xìnbèi jì diū le"
+    },
+    "B": {
+     "zh": "信沒辦法立刻寄到",
+     "py": "Xìn méi bànfǎ lìkè jì dào"
+    },
+    "C": {
+     "zh": "公司生意太好，影響效率",
+     "py": "Gōngsī shēngyì tài hǎo, yǐngxiǎng xiàolǜ"
+    },
+    "D": {
+     "zh": "到了約定的時間，卻沒人寄信",
+     "py": "Dào le yuēdìng de shíjiān, què méirén jìxìn"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "報導最後指出，消費者該擔心什麼？",
+     "py": "Bàodǎo zuìhòu zhǐchū, xiāofèizhě gāi dānxīn shénme?"
+    }
+   ]
+  },
+  "28": {
+   "passage": [
+    {
+     "zh": "請聽這個故事，然後回答下面三個問題：",
+     "py": "Qǐng tīng zhè ge gùshì, ránhòu huídá xiàmiàn sān ge wèntí:"
+    }
+   ],
+   "stem": {
+    "zh": "朱熹一開始聽到買「東西」時，他的反應是什麼？",
+    "py": "Zhūxī yī kāishǐ tīngdào mǎi “Dōngxi” shí, tā de fǎnyìng shì shénme?"
+   },
+   "options": {
+    "A": {
+     "zh": "一頭霧水",
+     "py": "Yìtóuwùshuǐ"
+    },
+    "B": {
+     "zh": "旁徵博引",
+     "py": "Pángzhēngbóyǐn"
+    },
+    "C": {
+     "zh": "胸有成竹",
+     "py": "Xiōngyǒuchéngzhú"
+    },
+    "D": {
+     "zh": "手足無措",
+     "py": "Shǒuzúwúcuò"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這個故事，然後回答下面三個問題：",
+     "py": "Qǐng tīng zhè ge gùshì, ránhòu huídá xiàmiàn sān ge wèntí:"
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "朱熹一開始聽到買「東西」時，他的反應是什麼？",
+     "py": "Zhūxī yī kāishǐ tīngdào mǎi “Dōngxi” shí, tā de fǎnyìng shì shénme?"
+    }
+   ]
+  },
+  "29": {
+   "stem": {
+    "zh": "朋友從什麼角度來回答朱熹的問題？",
+    "py": "Péngyǒu cóng shénme jiǎodù lái huídá Zhūxī de wèntí?"
+   },
+   "options": {
+    "A": {
+     "zh": "貨品的產地",
+     "py": "Huòpǐn de chǎndì"
+    },
+    "B": {
+     "zh": "方位的屬性",
+     "py": "Fāngwèi de shǔxìng"
+    },
+    "C": {
+     "zh": "籃子的材料",
+     "py": "Lánzi de cáiliào"
+    },
+    "D": {
+     "zh": "市場的位置",
+     "py": "Shìchǎng de wèizhì"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "朋友從什麼角度來回答朱熹的問題？",
+     "py": "Péngyǒu cóng shénme jiǎodù lái huídá Zhūxī de wèntí?"
+    }
+   ]
+  },
+  "30": {
+   "stem": {
+    "zh": "最後，根據朱熹的說法， 「東西」各代表什麼？ 現在請聽故事。",
+    "py": "Zuìhòu, gēnjù Zhūxī de shuōfǎ, “Dōngxi” gè dàibiǎo shénme? Xiànzài qǐng tīng gùshì."
+   },
+   "options": {
+    "A": {
+     "zh": "金和火",
+     "py": "Jīnhé huǒ"
+    },
+    "B": {
+     "zh": "木和水",
+     "py": "Mù hé shuǐ"
+    },
+    "C": {
+     "zh": "木和金",
+     "py": "Mùhéjīn"
+    },
+    "D": {
+     "zh": "水和火",
+     "py": "Shuǐ hé huǒ"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "最後，根據朱熹的說法，「東西」各代表什麼？",
+     "py": "Zuìhòu, gēnjù Zhūxī de shuōfǎ, “Dōngxi” gè dàibiǎo shénme?"
+    }
+   ]
+  },
+  "31": {
+   "passage": [
+    {
+     "zh": "請聽這一段服務介紹，然後回答下面三個問題。",
+     "py": "Qǐng tīng zhè yíduàn fúwù jièshào, ránhòu huídá xiàmiàn sān ge wèntí."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "因為無法消滅網路病毒",
+     "py": "Yīnwèi wúfǎ xiāomiè wǎnglù bìngdú"
+    },
+    "B": {
+     "zh": "因為不知何時面臨死亡",
+     "py": "Yīnwèi bùzhī héshí miànlín sǐwáng"
+    },
+    "C": {
+     "zh": "因為不了解網路投資的風險",
+     "py": "Yīnwèi bù liǎojiě wǎnglù tóuzī de fēngxiǎn"
+    },
+    "D": {
+     "zh": "因為想知道自己的帳號是否被盜用",
+     "py": "Yīnwèi xiǎng zhīdào zìjǐ de zhànghào shìfǒu bèidào yòng"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這一段服務介紹，然後回答下面三個問題。",
+     "py": "Qǐng tīng zhè yíduàn fúwù jièshào, ránhòu huídá xiàmiàn sān ge wèntí."
+    },
+    {
+     "zh": "現在請聽這段話。",
+     "py": "Xiànzài qǐng tīng zhèduànhuà."
+    },
+    {
+     "zh": "隨著科技發達與網路普及，電子信箱、網路銀行、社群交友網站及線上即",
+     "py": "Suízhù kējì fādá yǔ wǎnglù Pǔjí, diànzixìnxiāng, wǎnglù yínháng, shèqún jiāoyǒu wǎngzhàn jí xiàn shàng jí"
+    },
+    {
+     "zh": "時通訊早已成為現代人的生活重心。舉凡信件往來、生活寫真、公司業務，甚至",
+     "py": "Shí Tōngxùn zǎoyǐ chéngwéi xiàndàirén de shēnghuó zhòngxīn. Jǔfán xìnjiàn wǎnglái, shēnghuó xiězhēn, gōngsī yèwù, shènzhì"
+    },
+    {
+     "zh": "財務資料，多半都儲存在使用者的網路帳號中。但這種需要密碼才能登入的網路",
+     "py": "Cáiwù zīliào, duōbàn dōu chǔcún zài shǐyòngzhě de wǎnglù zhànghào zhōng. Dàn zhèzhǒng xūyào mìmǎ cáinéng dēngrù de wǎnglù"
+    },
+    {
+     "zh": "服務，一旦使用者突然死亡，他原本受個人帳號保護的各種隱私，是否可能曝光",
+     "py": "Fúwù, yídàn shǐyòngzhě tūrán sǐwáng, tā yuánběn shòu gèrén zhànghào bǎohù de gèzhǒng yǐnsī, shìfǒu kěnéng Bàoguāng"
+    },
+    {
+     "zh": "呢？死者的家屬，是否有資格取得這些資料呢？",
+     "py": "Ne? Sǐzhě de jiāshǔ, shìfǒu yǒu zīgé qǔdé zhèxiē zīliào ne?"
+    },
+    {
+     "zh": "為了解決這些疑慮和考量，不少經營代管網路帳號的公司便應運而生。使用",
+     "py": "Wèile jiějué zhèxiē yílǜ hé kǎoliáng, bùshǎo jīngyíng dàiguǎn wǎnglù zhànghào de gōngsī biàn yìngyùnérshēng. Shǐyòng"
+    },
+    {
+     "zh": "者可以在繳費之後，將各種密碼存在管理公司的資料庫，也可以像分配財產一",
+     "py": "Zhě kěyǐ zài jiǎofèi zhīhòu, jiāng gèzhǒng mìmǎ cúnzài guǎnlǐ gōngsī de zīliàokù, yě kěyǐ xiàng fēnpèi cáichǎn yī"
+    },
+    {
+     "zh": "樣，指定不同的人繼承不同帳號的密碼。一旦使用者過世，公司透過律師、家人",
+     "py": "Yàng, zhǐdìng bùtóng de rén jìchéng bùtóng zhànghào de mìmǎ. Yídàn shǐyòngzhě guòshì, gōngsī tòuguò lǜshī, jiārén"
+    },
+    {
+     "zh": "確定之後，就會將這些資料交給使用者生前指定的「受益人」，或是依指示關閉",
+     "py": "Quèdìng zhīhòu, jiù huì jiāng zhèxiē zīliào jiāogěi shǐyòngzhě shēngqián zhǐdìng de “Shòuyìrén”, huòshì yī zhǐshì guānbì"
+    },
+    {
+     "zh": "帳號。",
+     "py": "Zhànghào."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "人們為什麼需要這項服務？",
+     "py": "Rénmen wèishénme xūyào zhèxiàng fúwù?"
+    }
+   ]
+  },
+  "32": {
+   "options": {
+    "A": {
+     "zh": "幫客戶做好電腦備份",
+     "py": "Bāng kèhù zuòhǎo diànnǎo bèifèn"
+    },
+    "B": {
+     "zh": "協助客戶淘汰很少使用的帳號",
+     "py": "Xiézhù kèhù táotài hěnshǎo shǐyòng de zhànghào"
+    },
+    "C": {
+     "zh": "讓客戶隨時能和家人分享資料",
+     "py": "Ràng kèhù suíshí néng hé jiārén fēnxiǎng zīliào"
+    },
+    "D": {
+     "zh": "幫客戶將帳號資料當作遺產處理",
+     "py": "Bāng kèhù jiāng zhànghào zīliào dàngzuò yíchǎn chǔlǐ"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這項服務的重心是什麼？",
+     "py": "Zhèxiàng fúwù de zhòngxīn shì shénme?"
+    }
+   ]
+  },
+  "33": {
+   "options": {
+    "A": {
+     "zh": "可以免費使用",
+     "py": "Kěyǐ miǎnfèi shǐyòng"
+    },
+    "B": {
+     "zh": "可預防電腦中毒",
+     "py": "Kě yùfáng diànnǎo Zhòngdú"
+    },
+    "C": {
+     "zh": "密碼只能給同一個人",
+     "py": "Mìmǎ zhǐnéng gěi tóngyí ge rén"
+    },
+    "D": {
+     "zh": "可請管理公司代為關閉帳號",
+     "py": "Kěqǐng guǎnlǐ gōngsī dàiwéi guānbì zhànghào"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "客戶使用這項服務時，哪一個是對的？",
+     "py": "Kèhù shǐyòng zhèxiàng fúwù shí, nǎ yí ge shì duì de?"
+    }
+   ]
+  },
+  "34": {
+   "passage": [
+    {
+     "zh": "請聽這一位生態學家帕梅森所提出的主張，然後回答下面四個問題：",
+     "py": "Qǐng tīng zhè yíwèi shēngtàixuéjiā Pà Méisēn suǒ tíchū de zhǔzhāng, ránhòu huídá xiàmiàn sì ge wèntí:"
+    }
+   ],
+   "stem": {
+    "zh": "帕梅森提出什麼方法來拯救動植物？",
+    "py": "Pà Méisēn tíchū shénme fāngfǎ lái zhěngjiù dòngzhíwù?"
+   },
+   "options": {
+    "A": {
+     "zh": "設立保護區",
+     "py": "Shèlì bǎohùqū"
+    },
+    "B": {
+     "zh": "減輕暖化現象",
+     "py": "Jiǎnqīng nuǎn huà xiànxiàng"
+    },
+    "C": {
+     "zh": "幫動植物搬家",
+     "py": "Bāng dòngzhíwù bānjiā"
+    },
+    "D": {
+     "zh": "改善當地的環境",
+     "py": "Gǎishàn dāngdì de huánjìng"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這一位生態學家帕梅森所提出的主張，然後回答下面四個問題。",
+     "py": "Qǐng tīng zhè yíwèi shēngtàixuéjiā Pà Méisēn suǒ tíchū de zhǔzhāng, ránhòu huídá xiàmiàn sì ge wèntí."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "帕梅森提出什麼方法來拯救動植物？",
+     "py": "Pà Méisēn tíchū shénme fāngfǎ lái zhěngjiù dòngzhíwù?"
+    }
+   ]
+  },
+  "35": {
+   "stem": {
+    "zh": "帕梅森為什麼想透過這個方式來拯救動植物？",
+    "py": "Pà Méisēn wèishénme xiǎng tòuguò zhè ge fāngshì lái zhěngjiù dòngzhíwù?"
+   },
+   "options": {
+    "A": {
+     "zh": "因為最有功效",
+     "py": "Yīnwèi zuì yǒu gōngxiào"
+    },
+    "B": {
+     "zh": "因為十分經濟",
+     "py": "Yīnwèi shífēn jīngjì"
+    },
+    "C": {
+     "zh": "因為能顧及多數物種",
+     "py": "Yīnwèi néng gùjí duōshù wùzhǒng"
+    },
+    "D": {
+     "zh": "因為對生物界的傷害最小",
+     "py": "Yīnwèi duì shēngwùjiè de shānghài zuìxiǎo"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "帕梅森為什麼想透過這個方式來拯救動植物？",
+     "py": "Pà Méisēn wèishénme xiǎng tòuguò zhè ge fāngshì lái zhěngjiù dòngzhíwù?"
+    }
+   ]
+  },
+  "36": {
+   "stem": {
+    "zh": "為什麼不少生物學家反對帕梅森提出的方法？",
+    "py": "Wèishénme bùshǎo shēngwùxuéjiā fǎnduì Pà Méisēn tíchū de fāngfǎ?"
+   },
+   "options": {
+    "A": {
+     "zh": "會破壞生態平衡",
+     "py": "Huì pòhuài shēngtàipínghéng"
+    },
+    "B": {
+     "zh": "會影響氣候變化",
+     "py": "Huì yǐngxiǎng qìhòubiànhuà"
+    },
+    "C": {
+     "zh": "人類會大量捕殺砍伐動植物",
+     "py": "Rénlèi huì dàliàng bǔshā kǎnfá dòngzhíwù"
+    },
+    "D": {
+     "zh": "拯救這些動植物無法改善環境問題",
+     "py": "Zhěngjiù zhèxiē dòngzhíwù wúfǎ gǎishàn huánjìng wèntí"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "為什麼不少生物學家反對帕梅森提出的方法？",
+     "py": "Wèishénme bùshǎo shēngwùxuéjiā fǎnduì Pà Méisēn tíchū de fāngfǎ?"
+    }
+   ]
+  },
+  "37": {
+   "stem": {
+    "zh": "學者們認為帕梅森的方法比較能拯救哪些動植物？",
+    "py": "Xuézhě men rènwéi Pà Méisēn de fāngfǎ bǐjiào néng zhěngjiù nǎxiē dòngzhíwù?"
+   },
+   "options": {
+    "A": {
+     "zh": "能自行遷徙的動植物",
+     "py": "Néng zìxíng qiānxǐ de dòngzhíwù"
+    },
+    "B": {
+     "zh": "經濟效益低的動植物",
+     "py": "Jīngjìxiàoyì dī de dòngzhíwù"
+    },
+    "C": {
+     "zh": "沒有絕種危機的動植物",
+     "py": "Méiyǒu juézhǒng wēijī de dòngzhíwù"
+    },
+    "D": {
+     "zh": "人類認為有價值的動植物",
+     "py": "Rénlèi rènwéi yǒu jiàzhí de dòngzhíwù"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "學者們認為帕梅森的方法比較能拯救哪些動植物？",
+     "py": "Xuézhě men rènwéi Pà Méisēn de fāngfǎ bǐjiào néng zhěngjiù nǎxiē dòngzhíwù?"
+    }
+   ]
+  },
+  "38": {
+   "passage": [
+    {
+     "zh": "請聽這一段和腦細胞移植有關的研究說明，然後回答下面四個問題。",
+     "py": "Qǐng tīng zhè yíduàn hé nǎoxìbāo yízhí yǒuguān de yánjiū shuōmíng, ránhòu huídá xiàmiàn sì ge wèntí."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "腦細胞的大小和智商高低無關",
+     "py": "Nǎoxìbāo de dàxiǎo hé zhìshāng gāodī wúguān"
+    },
+    "B": {
+     "zh": "腦細胞一出生就已經發展完備",
+     "py": "Nǎoxìbāo yī chūshēng jiù yǐjīng fāzhǎn wánbèi"
+    },
+    "C": {
+     "zh": "比其他細胞更快速地進行汰換",
+     "py": "Bǐ qítā xìbāo gèng kuàisù dì jìnxíng tàihuàn"
+    },
+    "D": {
+     "zh": "存活的時間不受軀體存活限制",
+     "py": "Cúnhuó de shíjiān bù shòu qūtǐ cúnhuó xiànzhì"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這一段和腦細胞移植有關的研究說明，然後回答下面四個問題。",
+     "py": "Qǐng tīng zhè yíduàn hé nǎoxìbāo yízhí yǒuguān de yánjiū shuōmíng, ránhòu huídá xiàmiàn sì ge wèntí."
+    },
+    {
+     "zh": "現在請聽這段說明。",
+     "py": "Xiànzài qǐng tīng zhèduàn shuōmíng."
+    },
+    {
+     "zh": "義大利科學家的研究顯示，一個生命體的腦細胞若移植到另一個生命體，可",
+     "py": "Yìdàlì kēxuéjiā de yánjiū xiǎnshì, yí ge shēngmìngtǐ de nǎoxìbāo ruò yízhí dào lìng yí ge shēngmìngtǐ, kě"
+    },
+    {
+     "zh": "以存活到另一個生命體老死為止。研究員因此指出，腦神經細胞沒有固定的壽",
+     "py": "Yǐ cúnhuó dào lìng yí ge shēngmìngtǐ lǎosǐ wéizhǐ. Yánjiūyuán yīncǐ zhǐchū, nǎo shénjīngxìbāo méiyǒu gùdìng de shòu"
+    },
+    {
+     "zh": "命，這項研究結果對於人類腦神經的移植，及如何應用在阿茲海默症或帕金森氏",
+     "py": "Mìng, zhèxiàng yánjiū jiéguǒ duìyú rénlèi nǎoshénjīng de yízhí, jí rúhé yìngyòng zài Āzīhǎi Mòzhèng huò Pàjīnsēnshì"
+    },
+    {
+     "zh": "症的治療，深具意義。",
+     "py": "Zhèng de zhìliáo, shēn jù yìyì."
+    },
+    {
+     "zh": "研究人員利用家鼠，進行這項實驗，小家鼠的壽命平均只有 18 個月，而大",
+     "py": "Yánjiū rényuán lìyòng jiāshǔ, jìnxíng zhèxiàng shíyàn, Xiǎojiāshǔ de shòumìng píngjūn zhǐyǒu 18 gè yuè, ér dà"
+    },
+    {
+     "zh": "家鼠壽命通常是小家鼠的 2 倍。研究員先取出小家鼠的腦細胞，然後植入 60 隻",
+     "py": "Jiāshǔ shòumìng tōngcháng shì Xiǎojiāshǔ de 2 bèi. Yánjiūyuán xiān qǔchū Xiǎojiāshǔ de nǎoxìbāo, ránhòu zhírù 60 zhǐ"
+    },
+    {
+     "zh": "大家鼠胎兒的腦部裡。接著讓大家鼠長大，直到牠們年老垂死，剩下壽命預估不",
+     "py": "Dàjiāshǔ tāiér de nǎobù lǐ. Jiēzhù ràng dàjiāshǔ Zhǎngdà, zhídào tā men niánlǎo chuísǐ, shèngxià shòumìng yùgū bù"
+    },
+    {
+     "zh": "到 2 天的時間，研究員再觀察牠們的腦部。",
+     "py": "Dào 2 tiān de shíjiān, yánjiūyuán zài guānchá tā men de nǎobù."
+    },
+    {
+     "zh": "研究員發現，實驗裡的大家鼠可完全正常地成長，而且年老時沒有產生任何",
+     "py": "Yánjiūyuán fāxiàn, shíyàn lǐ de dàjiāshǔ kě wánquán zhèngcháng dì chéngzhǎng, érqiě niánlǎo shí méiyǒu chǎnshēng rènhé"
+    },
+    {
+     "zh": "的腦神經問題。雖然牠們的腦細胞較多，但是卻沒有比較聰明。另外，在大家鼠",
+     "py": "De nǎoshénjīng wèntí. Suīrán tā men de nǎoxìbāo jiào duō, dànshì què méiyǒu bǐjiào cōngmíng. Lìngwài, zài dàjiāshǔ"
+    },
+    {
+     "zh": "死後，小家鼠的腦神經依然活著。科學家因此推論，如果腦細胞是移植到壽命更",
+     "py": "Sǐ hòu, Xiǎojiāshǔ de nǎoshénjīng yīrán huózhù. Kēxuéjiā yīncǐ tuīlùn, rúguǒ nǎoxìbāo shì yízhí dào shòumìng gèng"
+    },
+    {
+     "zh": "長的生物，小家鼠的腦細胞壽命也會跟著延長。",
+     "py": "Zhǎng de shēngwù, Xiǎojiāshǔ de nǎoxìbāo shòumìng yě huì gēnzhù yáncháng."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "這項腦細胞研究的主要發現是什麼？",
+     "py": "Zhèxiàng nǎoxìbāo yánjiū de zhǔyào fāxiàn shì shénme?"
+    }
+   ]
+  },
+  "39": {
+   "options": {
+    "A": {
+     "zh": "腦神經醫療",
+     "py": "Nǎoshénjīng yīliáo"
+    },
+    "B": {
+     "zh": "腦年齡診斷",
+     "py": "Nǎo niánlíng zhěnduàn"
+    },
+    "C": {
+     "zh": "腦中風治療",
+     "py": "Nǎozhòngfēng zhìliáo"
+    },
+    "D": {
+     "zh": "腦功能檢測",
+     "py": "Nǎo gōngnéng jiǎncè"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "研究的結果，在哪方面深具意義？",
+     "py": "Yánjiū de jiéguǒ, zài nǎ fāngmiàn shēn jù yìyì?"
+    }
+   ]
+  },
+  "40": {
+   "options": {
+    "A": {
+     "zh": "先培育腦細胞，再植入小家鼠腦中",
+     "py": "Xiān péiyù nǎoxìbāo, zài zhírù Xiǎojiāshǔ nǎo zhōng"
+    },
+    "B": {
+     "zh": "將小家鼠的腦細胞，植入年幼大家鼠中",
+     "py": "Jiāng Xiǎojiāshǔ de nǎoxìbāo, zhírù niányòu dàjiāshǔ zhōng"
+    },
+    "C": {
+     "zh": "將成年大家鼠的腦細胞，植入小家鼠中",
+     "py": "Jiāng chéngnián dàjiāshǔ de nǎoxìbāo, zhírù Xiǎojiāshǔ zhōng"
+    },
+    "D": {
+     "zh": "將腦細胞植入壽命只剩兩天的小家鼠中",
+     "py": "Jiāng nǎoxìbāo zhírù shòumìng zhǐ shèng liǎngtiān de Xiǎojiāshǔ zhōng"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "研究人員如何進行實驗？",
+     "py": "Yánjiū rényuán rúhé jìnxíng shíyàn?"
+    }
+   ]
+  },
+  "41": {
+   "options": {
+    "A": {
+     "zh": "大家鼠的腦神經逐漸萎縮",
+     "py": "Dàjiāshǔ de nǎoshénjīng zhújiàn wēisuō"
+    },
+    "B": {
+     "zh": "小家鼠的壽命比大家鼠長",
+     "py": "Xiǎojiāshǔ de shòumìng bǐ dàjiāshǔ zhǎng"
+    },
+    "C": {
+     "zh": "大家鼠沒有實驗後的後遺症",
+     "py": "Dàjiāshǔ méiyǒu shíyàn hòu de hòuyízhèng"
+    },
+    "D": {
+     "zh": "小家鼠的腦細胞和大家鼠一樣多",
+     "py": "Xiǎojiāshǔ de nǎoxìbāo hé dàjiāshǔ yíyàng duō"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "關於研究中的家鼠，下面敘述哪一項正確？",
+     "py": "Guānyú yánjiū zhōng de jiāshǔ, xiàmiàn xùshù nǎ yíxiàng zhèngquè?"
+    }
+   ]
+  },
+  "42": {
+   "passage": [
+    {
+     "zh": "請聽這一段和跨國農地買賣有關的報導，然後回答下面四個問題：",
+     "py": "Qǐng tīng zhè yíduàn hé kuàguó nóngdì mǎimài yǒuguān de bàodǎo, ránhòu huídá xiàmiàn sì ge wèntí:"
+    }
+   ],
+   "stem": {
+    "zh": "《南半球跨國農用土地交易》報告，提出了哪方面的問題？",
+    "py": "«Nánbànqiú kuàguó nóngyòng tǔdìjiāoyì» bàogào, tíchū le nǎ fāngmiàn de wèntí?"
+   },
+   "options": {
+    "A": {
+     "zh": "跨國貿易衍生的糾紛",
+     "py": "Kuàguó màoyì yǎnshēng de jiūfēn"
+    },
+    "B": {
+     "zh": "跨國農地交易的合理性",
+     "py": "Kuàguó nóngdì jiāoyì de hélǐxìng"
+    },
+    "C": {
+     "zh": "投資者購買農地的權利保障",
+     "py": "Tóuzīzhě gòumǎi nóngdì de quánlì bǎozhàng"
+    },
+    "D": {
+     "zh": "農地交易能否有效提高糧食產量",
+     "py": "Nóngdì jiāoyì néngfǒu yǒuxiào tígāo liángshíchǎnliàng"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這一段和跨國農地買賣有關的報導，然後回答下面四個問題：",
+     "py": "Qǐng tīng zhè yíduàn hé kuàguó nóngdì mǎimài yǒuguān de bàodǎo, ránhòu huídá xiàmiàn sì ge wèntí:"
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "《南半球跨國農用土地交易》報告，提出了哪方面的問題？",
+     "py": "«Nánbànqiú kuàguó nóngyòng tǔdìjiāoyì» bàogào, tíchū le nǎ fāngmiàn de wèntí?"
+    }
+   ]
+  },
+  "43": {
+   "stem": {
+    "zh": "投資者對於跨國土地投資的看法是什麼？",
+    "py": "Tóuzīzhě duìyú kuàguó tǔdì tóuzī de kànfǎ shì shénme?"
+   },
+   "options": {
+    "A": {
+     "zh": "宣稱可增加全球糧食產量",
+     "py": "Xuānchēng kě zēngjiā quánqiú liángshíchǎnliàng"
+    },
+    "B": {
+     "zh": "可以讓提供農地的國家免於飢荒",
+     "py": "Kěyǐ ràng tígōng nóngdì de guójiā miǎnyú jīhuāng"
+    },
+    "C": {
+     "zh": "有助於提昇當地居民的生活水準",
+     "py": "Yǒuzhùyú tíshēng dāngdì jūmín de shēnghuóshuǐzhǔn"
+    },
+    "D": {
+     "zh": "能解決地主國糧食生產不足問題",
+     "py": "Néng jiějué dìzhǔguó liángshí shēngchǎn bùzú wèntí"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "投資者對於跨國土地投資的看法是什麼？",
+     "py": "Tóuzīzhě duìyú kuàguó tǔdì tóuzī de kànfǎ shì shénme?"
+    }
+   ]
+  },
+  "44": {
+   "stem": {
+    "zh": "說話者對於這些問題的看法是什麼？",
+    "py": "Shuōhuà zhě duìyú zhèxiē wèntí de kànfǎ shì shénme?"
+   },
+   "options": {
+    "A": {
+     "zh": "應該開放貧窮國家的土地買賣",
+     "py": "Yīnggāi kāifàng pínqióng guójiā de tǔdì mǎimài"
+    },
+    "B": {
+     "zh": "貧窮國家想脫貧的心態可以理解",
+     "py": "Pínqióng guójiā xiǎng tuōpín de xīntài kěyǐ lǐjiě"
+    },
+    "C": {
+     "zh": "土地交易存在太多強欺弱的問題",
+     "py": "Tǔdìjiāoyì cúnzài Tàiduōqiáng qīruò de wèntí"
+    },
+    "D": {
+     "zh": "開墾荒地將對當地環境造成傷害",
+     "py": "Kāi kěnhuāngdì jiāng duì dāngdì huánjìng zàochéng shānghài"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "說話者對於這些問題的看法是什麼？",
+     "py": "Shuōhuà zhě duìyú zhèxiē wèntí de kànfǎ shì shénme?"
+    }
+   ]
+  },
+  "45": {
+   "stem": {
+    "zh": "這篇報導指出，一旦發生交易糾紛，地主國能怎麼做？ 現在請聽報導。",
+    "py": "Zhè piān bàodǎo zhǐchū, yídàn fāshēng jiāoyì jiūfēn, dìzhǔguó néng zěnme zuò? Xiànzài qǐng tīng bàodǎo."
+   },
+   "options": {
+    "A": {
+     "zh": "主動中斷投資計畫",
+     "py": "Zhǔdòng Zhōngduàn tóuzī jìhuà"
+    },
+    "B": {
+     "zh": "只能選擇賠錢了事",
+     "py": "Zhǐnéng xuǎnzé péiqián le shì"
+    },
+    "C": {
+     "zh": "得先訴諸國際輿論",
+     "py": "Dé xiān sùzhū guójìyúlùn"
+    },
+    "D": {
+     "zh": "無法為自己爭取權益",
+     "py": "Wúfǎ wèi zìjǐ zhēngqǔ quányì"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這篇報導指出，一旦發生交易糾紛，地主國能怎麼做？",
+     "py": "Zhè piān bàodǎo zhǐchū, yídàn fāshēng jiāoyì jiūfēn, dìzhǔguó néng zěnme zuò?"
+    }
+   ]
+  },
+  "46": {
+   "passage": [
+    {
+     "zh": "請聽這一段矮靈祭典的故事，然後回答下面五個問題。",
+     "py": "Qǐng tīng zhè yíduàn ǎi líng jìdiǎn de gùshì, ránhòu huídá xiàmiàn wǔ ge wèntí."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "因為矮人暴躁易怒",
+     "py": "Yīnwèi ǎi rén bàozào Yìnù"
+    },
+    "B": {
+     "zh": "因為矮人善於巫術",
+     "py": "Yīnwèi ǎi rén shànyú wūshù"
+    },
+    "C": {
+     "zh": "因為矮人擅長打仗",
+     "py": "Yīnwèi ǎi rén shàncháng dǎzhàng"
+    },
+    "D": {
+     "zh": "因為矮人非常團結",
+     "py": "Yīnwèi ǎi rén fēicháng tuánjié"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這一段矮靈祭典的故事，然後回答下面五個問題。",
+     "py": "Qǐng tīng zhè yíduàn ǎi líng jìdiǎn de gùshì, ránhòu huídá xiàmiàn wǔ ge wèntí."
+    },
+    {
+     "zh": "現在請聽故事。",
+     "py": "Xiànzài qǐng tīng gùshì."
+    },
+    {
+     "zh": "矮靈祭典是賽夏人最重要的祭典，舉辦的時間，大約是農曆十月，賽夏人稱",
+     "py": "Ǎi líng jìdiǎn shì sài xià rén zuì zhòngyào de jìdiǎn, jǔbàn de shíjiān, dàyuē shì nónglì shíyuè, Sàixià rénchēng"
+    },
+    {
+     "zh": "這祭典為「巴斯答愛」。相傳在很久以前，有一群居住在山裡的矮人，身高只有",
+     "py": "Zhè jìdiǎn wèi “Bāsī dáài”. Xiāngchuán zài hěnjiǔyǐqián, yǒu yìqún jūzhù zài shānlǐ de ǎirén, shēngāo zhǐyǒu"
+    },
+    {
+     "zh": "三尺，但臂力很強，擅長法術，所以賽夏人很怕他們。",
+     "py": "Sānchǐ, dàn bìlì hěn qiáng, shàncháng fǎshù, suǒyǐ Sàixià rén hěn pà tāmen."
+    },
+    {
+     "zh": "不過，由於矮人能歌善舞，所以賽夏人每年到了豐年祭，都會邀請矮人一同",
+     "py": "Búguò, yóuyú ǎi rén nénggēshànwǔ, suǒyǐ Sàixiàrén měinián dào le fēngniánjì, dōu huì yāoqǐng ǎi rén yìtóng"
+    },
+    {
+     "zh": "唱歌跳舞。只是，矮人卻趁這個機會侵犯賽夏族的婦女，在祭典過後，賽夏人才",
+     "py": "Chànggētiàowǔ. Zhǐshì, ǎi rén què chèn zhè ge jīhuì qīnfàn Sài Xiàzú de fùnǚ, zài jìdiǎn guòhòu, Sàixià réncái"
+    },
+    {
+     "zh": "發現族裡許多婦女都懷孕了。因此，賽夏人越來越怨恨矮人。直到有一年的祭典，",
+     "py": "Fāxiàn zú lǐ xǔduō fùnǚ dōu huáiyùn le. Yīncǐ, Sàixiàrén yuèláiyuè yuànhèn ǎi rén. Zhídào yǒu yìnián de jìdiǎn,"
+    },
+    {
+     "zh": "矮人又調戲賽夏族的婦女時，恰巧被賽夏人看見，賽夏人決定給矮人一個教訓，",
+     "py": "Ǎi rén yòu tiáoxì Sài Xiàzú de fùnǚ shí, qiàqiǎo bèi Sàixiàrén kànjiàn, Sàixiàrén juédìng gěi ǎi rén yí ge jiàoxùn,"
+    },
+    {
+     "zh": "於是，他們暗中埋伏在矮人回去的路上，設下陷阱，讓矮人們一個一個跌落深淵",
+     "py": "Yúshì, tāmen ànzhōng máifú zài ǎi rén huíqù de lùshàng, shè xià xiànjǐng, ràng ǎi rénmen yí ge yí ge diēluò Shēnyuān"
+    },
+    {
+     "zh": "而死，矮人傷亡慘重，只有兩人倖免於難。",
+     "py": "Ér sǐ, ǎi rén shāngwángcǎnzhòng, zhǐyǒu liǎng rén xìngmiǎnyúnán."
+    },
+    {
+     "zh": "這兩位矮人知道是自己咎由自取，便決定離開，離開前，還將祭歌與舞步教",
+     "py": "Zhè liǎngwèi ǎi rén zhīdào shì zìjǐ jiùyóuzìqǔ, biàn juédìng líkāi, líkāi qián, hái jiāng jì gē yǔ wǔbù jiào"
+    },
+    {
+     "zh": "授給賽夏人。只是，賽夏人雖然除去了心頭大患，內心卻感到不安，於是開始祭",
+     "py": "Shòugěi sàixià rén. Zhǐshì, Sàixiàrén suīrán chúqù le xīntóu dà huàn, nèixīn què gǎndào bùān, yúshì kāishǐ jì"
+    },
+    {
+     "zh": "祀矮人，安撫他們的靈魂，希望化解彼此的仇恨。",
+     "py": "Sì ǎi rén, Ānfǔ tāmen de línghún, xīwàng huàjiě bǐcǐ de chóuhèn."
+    },
+    {
+     "zh": "從此以後，就在秋收冬藏之際的月圓夜裡，賽夏人不斷地唱著、跳著，邀請",
+     "py": "Cóngcǐyǐhòu, jiù zài Qiūshōudōngcáng zhījì de yuèyuányè lǐ, Sàixiàrén búduàn dì chàngzhù, tiàozhù, yāoqǐng"
+    },
+    {
+     "zh": "矮靈歸來，再一次與賽夏人同樂，並在歌聲中請求矮靈的原諒與賜福。",
+     "py": "Ǎi líng guīlái, zài yícì yǔ Sàixiàrén tónglè, bìng zài gēshēng zhōng qǐngqiú ǎilíng de Yuánliàng yǔ cìfú."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "根據故事，為什麼賽夏人懼怕矮人？",
+     "py": "Gēnjù gùshì, wèishénme Sàixiàrén jùpà ǎi rén?"
+    }
+   ]
+  },
+  "47": {
+   "options": {
+    "A": {
+     "zh": "掠奪矮人的土地",
+     "py": "Lüèduó ǎi rén de tǔdì"
+    },
+    "B": {
+     "zh": "設計陷阱殺害矮人",
+     "py": "Shèjì xiànjǐng shāhài ǎi rén"
+    },
+    "C": {
+     "zh": "讓矮人的婦女懷孕",
+     "py": "Ràng ǎi rén de fùnǚ huáiyùn"
+    },
+    "D": {
+     "zh": "使用巫術讓矮人懼怕",
+     "py": "Shǐyòng wūshù ràng ǎi rén jùpà"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "賽夏人用什麼方法報復矮人？",
+     "py": "Sàixiàrén yòng shénme fāngfǎ bàofù ǎi rén?"
+    }
+   ]
+  },
+  "48": {
+   "options": {
+    "A": {
+     "zh": "以牙還牙",
+     "py": "Yǐyáhuányá"
+    },
+    "B": {
+     "zh": "忍氣吞聲",
+     "py": "Rěnqìtūnshēng"
+    },
+    "C": {
+     "zh": "遠走他鄉",
+     "py": "Yuǎnzǒutāxiāng"
+    },
+    "D": {
+     "zh": "搖尾乞憐",
+     "py": "Yáowěiqǐlián"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "矮人對於賽夏人的攻擊，有什麼反應？",
+     "py": "Ǎi rén duìyú Sàixiàrén de gōngjī, yǒu shénme fǎnyìng?"
+    }
+   ]
+  },
+  "49": {
+   "options": {
+    "A": {
+     "zh": "慶祝戰鬥的勝利",
+     "py": "Qìngzhù zhàndòu de shènglì"
+    },
+    "B": {
+     "zh": "祈求仇人的諒解",
+     "py": "Qíqiú chóurén de liàngjiě"
+    },
+    "C": {
+     "zh": "悼念族裡死去的戰士",
+     "py": "Dàoniàn zú lǐ sǐqù de zhànshì"
+    },
+    "D": {
+     "zh": "將族中婦女獻給矮人",
+     "py": "Jiāngzú zhōng fùnǚ xiàngěi ǎi rén"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "為什麼賽夏人要舉辦這個祭典？",
+     "py": "Wèishénme Sàixià rén yào jǔbàn zhè ge jìdiǎn?"
+    }
+   ]
+  },
+  "50": {
+   "options": {
+    "A": {
+     "zh": "春耕之後",
+     "py": "Chūngēng zhīhòu"
+    },
+    "B": {
+     "zh": "夏種之後",
+     "py": "Xiàzhòng zhīhòu"
+    },
+    "C": {
+     "zh": "秋收之後",
+     "py": "Qiūshōu zhīhòu"
+    },
+    "D": {
+     "zh": "冬藏之後",
+     "py": "Dōngcáng zhīhòu"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這個祭典什麼時候舉辦？",
+     "py": "Zhè ge jìdiǎn shénme shíhòu jǔbàn?"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,1255 @@
+{
+ "testId": "b-r3",
+ "segments": 255,
+ "englishComplete": false,
+ "questions": {
+  "1": {
+   "passage": [
+    {
+     "zh": "（一）",
+     "py": "(Yī)"
+    },
+    {
+     "zh": "昨天我在整理書桌的時候，發現了一本很久沒 1 到的書。",
+     "py": "Zuótiān wǒ zài zhěnglǐ shūzhuō de shíhòu, fāxiàn le yìběn hěnjiǔméi 1 dào de shū."
+    },
+    {
+     "zh": "那本書是幾年 2 我父親送給我的。",
+     "py": "Nàběnshū shì jǐnián 2 wǒ fùqīn sònggěi wǒ de."
+    },
+    {
+     "zh": "我打開那本書，裡面有一 3 卡片，那是父親給我的。",
+     "py": "Wǒ dǎkāi Nàběnshū, lǐmiàn yǒu yī 3 Kǎpiàn, nà shì fùqīn gěi wǒ de."
+    },
+    {
+     "zh": "卡片裡他 4 ：「爸爸想送你最特別的十八歲生日禮物，看了好幾家店以後， 5 你買了這本書。",
+     "py": "Kǎpiàn lǐ tā 4: “Bàba xiǎng sòng nǐ zuì tèbié de shíbāsuì shēngrìlǐwù, kàn le hǎojǐjiā diàn yǐhòu, 5 nǐ mǎi le zhè běnshū."
+    },
+    {
+     "zh": "希望這本書能",
+     "py": "Xīwàng zhè běnshū néng"
+    },
+    {
+     "zh": "6 你明白一些道理。」看完卡片，我又把書讀了一遍。",
+     "py": "6 nǐ Míngbái yìxiē dàolǐ.” kàn wán Kǎpiàn, wǒ yòu bǎ shū dú le yíbiàn."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "開",
+     "py": "Kāi"
+    },
+    "B": {
+     "zh": "查",
+     "py": "Chá"
+    },
+    "C": {
+     "zh": "看",
+     "py": "Kàn"
+    },
+    "D": {
+     "zh": "遇",
+     "py": "Yù"
+    }
+   }
+  },
+  "2": {
+   "options": {
+    "A": {
+     "zh": "中",
+     "py": "Zhōng"
+    },
+    "B": {
+     "zh": "上",
+     "py": "Shàng"
+    },
+    "C": {
+     "zh": "前",
+     "py": "Qián"
+    },
+    "D": {
+     "zh": "後",
+     "py": "Hòu"
+    }
+   }
+  },
+  "3": {
+   "options": {
+    "A": {
+     "zh": "頁",
+     "py": "Yè"
+    },
+    "B": {
+     "zh": "張",
+     "py": "Zhāng"
+    },
+    "C": {
+     "zh": "份",
+     "py": "Fèn"
+    },
+    "D": {
+     "zh": "片",
+     "py": "Piàn"
+    }
+   }
+  },
+  "4": {
+   "options": {
+    "A": {
+     "zh": "寫著",
+     "py": "Xiězhù"
+    },
+    "B": {
+     "zh": "說過",
+     "py": "Shuō guò"
+    },
+    "C": {
+     "zh": "讀著",
+     "py": "Dúzhù"
+    },
+    "D": {
+     "zh": "念過",
+     "py": "Niàn guò"
+    }
+   }
+  },
+  "5": {
+   "options": {
+    "A": {
+     "zh": "對",
+     "py": "Duì"
+    },
+    "B": {
+     "zh": "要",
+     "py": "Yào"
+    },
+    "C": {
+     "zh": "給",
+     "py": "Gěi"
+    },
+    "D": {
+     "zh": "向",
+     "py": "Xiàng"
+    }
+   }
+  },
+  "6": {
+   "options": {
+    "A": {
+     "zh": "讓",
+     "py": "Ràng"
+    },
+    "B": {
+     "zh": "把",
+     "py": "Bǎ"
+    },
+    "C": {
+     "zh": "被",
+     "py": "Bèi"
+    },
+    "D": {
+     "zh": "為",
+     "py": "Wèi"
+    }
+   }
+  },
+  "7": {
+   "passage": [
+    {
+     "zh": "（二）",
+     "py": "(Èr)"
+    },
+    {
+     "zh": "李明的車子壞了，所以他最近 7 開車上班。",
+     "py": "Lǐmíng de chēzi huài le, suǒyǐ tā zuìjìn 7 kāichē shàngbān."
+    },
+    {
+     "zh": "李明的家 8 公司很遠，要是沒有車子的話，是很不 9 的。",
+     "py": "Lǐmíng de jiā 8 gōngsī hěn yuǎn, yàoshì méiyǒu chēzi dehuà, shì hěn bù 9 de."
+    },
+    {
+     "zh": "這個星期，李明每天早上得先坐公共汽車， 10 坐電車，才能到公司。",
+     "py": "Zhè ge xīngqī, Lǐmíng měitiān zǎoshàng dé xiān zuò Gōnggòngqìchē, 10 zuò diànchē, cáinéng dào gōngsī."
+    },
+    {
+     "zh": "11 三、四天，李明覺得可以接受，但是久了他就覺得麻煩，才 12 汽車公司借他一台車，讓他能夠開車上、下班，汽車公司也答應了。",
+     "py": "11 sān, sìtiān, Lǐmíng juéde kěyǐ jiēshòu, dànshì jiǔ le tā jiù juéde máfán, cái 12 qìchē gōngsī jiè tā yìtái chē, ràng tā nénggòu kāichē shàng, xiàbān, qìchē gōngsī yě dāyìng le."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "最好",
+     "py": "Zuìhǎo"
+    },
+    "B": {
+     "zh": "不能",
+     "py": "Bùnéng"
+    },
+    "C": {
+     "zh": "還是",
+     "py": "Háishì"
+    },
+    "D": {
+     "zh": "沒空",
+     "py": "Méikòng"
+    }
+   }
+  },
+  "8": {
+   "options": {
+    "A": {
+     "zh": "從",
+     "py": "Cóng"
+    },
+    "B": {
+     "zh": "比",
+     "py": "Bǐ"
+    },
+    "C": {
+     "zh": "離",
+     "py": "Lí"
+    },
+    "D": {
+     "zh": "往",
+     "py": "Wǎng"
+    }
+   }
+  },
+  "9": {
+   "options": {
+    "A": {
+     "zh": "滿意",
+     "py": "Mǎnyì"
+    },
+    "B": {
+     "zh": "容易",
+     "py": "Róngyì"
+    },
+    "C": {
+     "zh": "放心",
+     "py": "Fàngxīn"
+    },
+    "D": {
+     "zh": "方便",
+     "py": "Fāngbiàn"
+    }
+   }
+  },
+  "10": {
+   "options": {
+    "A": {
+     "zh": "然後",
+     "py": "Ránhòu"
+    },
+    "B": {
+     "zh": "後來",
+     "py": "Hòulái"
+    },
+    "C": {
+     "zh": "以後",
+     "py": "Yǐhòu"
+    },
+    "D": {
+     "zh": "結果",
+     "py": "Jiéguǒ"
+    }
+   }
+  },
+  "11": {
+   "options": {
+    "A": {
+     "zh": "第",
+     "py": "Dì"
+    },
+    "B": {
+     "zh": "頭",
+     "py": "Tóu"
+    },
+    "C": {
+     "zh": "先",
+     "py": "Xiān"
+    },
+    "D": {
+     "zh": "早",
+     "py": "Zǎo"
+    }
+   }
+  },
+  "12": {
+   "options": {
+    "A": {
+     "zh": "計畫",
+     "py": "Jìhuà"
+    },
+    "B": {
+     "zh": "忘記",
+     "py": "Wàngjì"
+    },
+    "C": {
+     "zh": "安排",
+     "py": "Ānpái"
+    },
+    "D": {
+     "zh": "要求",
+     "py": "Yāoqiú"
+    }
+   }
+  },
+  "13": {
+   "passage": [
+    {
+     "zh": "（三）",
+     "py": "(Sān)"
+    },
+    {
+     "zh": "我家附近有一家書店。",
+     "py": "Wǒjiā fùjìn yǒu yìjiā shūdiàn."
+    },
+    {
+     "zh": "這家書店的客人不多， 13 書很多。",
+     "py": "Zhèjiā shūdiàn de kèrén bù duō, 13 shū hěnduō."
+    },
+    {
+     "zh": "書店老闆人很好，對客人總是很 14 。",
+     "py": "Shūdiàn lǎobǎn rén hěn hǎo, duì kèrén zǒngshì hěn 14."
+    },
+    {
+     "zh": "去那裡不一定要買書，也",
+     "py": "Qù nàlǐ bù yídìng yào mǎi shū, yě"
+    },
+    {
+     "zh": "15 只是看看書。",
+     "py": "15 zhǐshì kànkànshū."
+    },
+    {
+     "zh": "在那裡看書， 16 看多久都行，沒有人會來吵你。",
+     "py": "Zài nàlǐ kànshū, 16 kàn duōjiǔ dōuxíng, méiyǒu rénhuì lái chǎo nǐ."
+    },
+    {
+     "zh": "記得有一次，書店剛開門，我 17 進去看書，不知道看了多久，",
+     "py": "Jìde yǒu yícì, shūdiàn gāng kāimén, wǒ 17 jìnqù kànshū, bù zhīdào kàn le duōjiǔ,"
+    },
+    {
+     "zh": "18 頭往外一看，才發現天都已經黑了。",
+     "py": "18 tóu wǎngwài yíkàn, cái fāxiàn tiān dōu yǐjīng hēi le."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "卻",
+     "py": "Què"
+    },
+    "B": {
+     "zh": "又",
+     "py": "Yòu"
+    },
+    "C": {
+     "zh": "但是",
+     "py": "Dànshì"
+    },
+    "D": {
+     "zh": "不但",
+     "py": "Búdàn"
+    }
+   }
+  },
+  "14": {
+   "options": {
+    "A": {
+     "zh": "客氣",
+     "py": "Kèqì"
+    },
+    "B": {
+     "zh": "自由",
+     "py": "Zìyóu"
+    },
+    "C": {
+     "zh": "感謝",
+     "py": "Gǎnxiè"
+    },
+    "D": {
+     "zh": "高興",
+     "py": "Gāoxìng"
+    }
+   }
+  },
+  "15": {
+   "options": {
+    "A": {
+     "zh": "會",
+     "py": "Huì"
+    },
+    "B": {
+     "zh": "可以",
+     "py": "Kěyǐ"
+    },
+    "C": {
+     "zh": "不必",
+     "py": "Búbì"
+    },
+    "D": {
+     "zh": "不該",
+     "py": "Bùgāi"
+    }
+   }
+  },
+  "16": {
+   "options": {
+    "A": {
+     "zh": "要是",
+     "py": "Yàoshì"
+    },
+    "B": {
+     "zh": "所以",
+     "py": "Suǒyǐ"
+    },
+    "C": {
+     "zh": "可能",
+     "py": "Kěnéng"
+    },
+    "D": {
+     "zh": "不管",
+     "py": "Bùguǎn"
+    }
+   }
+  },
+  "17": {
+   "options": {
+    "A": {
+     "zh": "還",
+     "py": "Hái"
+    },
+    "B": {
+     "zh": "才",
+     "py": "Cái"
+    },
+    "C": {
+     "zh": "再",
+     "py": "Zài"
+    },
+    "D": {
+     "zh": "就",
+     "py": "Jiù"
+    }
+   }
+  },
+  "18": {
+   "options": {
+    "A": {
+     "zh": "抬",
+     "py": "Tái"
+    },
+    "B": {
+     "zh": "抽",
+     "py": "Chōu"
+    },
+    "C": {
+     "zh": "扔",
+     "py": "Rēng"
+    },
+    "D": {
+     "zh": "提",
+     "py": "Tí"
+    }
+   }
+  },
+  "19": {
+   "passage": [
+    {
+     "zh": "（一）",
+     "py": "(Yī)"
+    }
+   ],
+   "stem": {
+    "zh": "安安要從台北坐火車去台中，他和朋友約十點三十分在台中站見 面，他應該坐幾點的火車，才不會太早到或遲到？",
+    "py": "Ānān yào cóng Táiběi zuòhuǒchē qù táizhōng, tā hé péngyǒu yuē shídiǎn sānshífēn zài táizhōng zhàn jiàn miàn, tā yīnggāi zuò jǐdiǎn de huǒchē, cái búhuì tài zǎo dào huò chídào?"
+   },
+   "options": {
+    "A": {
+     "zh": "早上六點四分",
+     "py": "Zǎoshàng liùdiǎn sìfēn"
+    },
+    "B": {
+     "zh": "早上七點五十五分",
+     "py": "Zǎoshàng qīdiǎn wǔshí wǔfēn"
+    },
+    "C": {
+     "zh": "早上八點三十七分",
+     "py": "Zǎoshàng bādiǎn sānshíqī fēn"
+    },
+    "D": {
+     "zh": "早上十點三十一分",
+     "py": "Zǎoshàng shídiǎn sānshíyī fēn"
+    }
+   }
+  },
+  "20": {
+   "passage": [
+    {
+     "zh": "（二）",
+     "py": "(Èr)"
+    }
+   ],
+   "stem": {
+    "zh": "根據廣告內容，下面哪一個不對？",
+    "py": "Gēnjù guǎnggào nèiróng, xiàmiàn nǎ yí ge bù duì?"
+   },
+   "options": {
+    "A": {
+     "zh": "要和別人共用浴室",
+     "py": "Yào hé biérén gòngyòng yùshì"
+    },
+    "B": {
+     "zh": "套房附近交通方便",
+     "py": "Tàofáng fùjìn jiāotōng fāngbiàn"
+    },
+    "C": {
+     "zh": "房間裡沒有洗衣機",
+     "py": "Fángjiān lǐ méiyǒu xǐyījī"
+    },
+    "D": {
+     "zh": "8000 元不包括水、電費",
+     "py": "8000 yuán bù bāokuò shuǐ, diànfèi"
+    }
+   }
+  },
+  "21": {
+   "stem": {
+    "zh": "這間套房的房東能接受下面哪個房客？",
+    "py": "Zhè jiān tàofáng de fángdōng néng jiēshòu xiàmiàn nǎ ge fángkè?"
+   },
+   "options": {
+    "A": {
+     "zh": "陳先生夫婦",
+     "py": "Chénxiānsheng fūfù"
+    },
+    "B": {
+     "zh": "未婚的林小姐",
+     "py": "Wèihūn de Línxiǎojiě"
+    },
+    "C": {
+     "zh": "吳小姐和她的女兒",
+     "py": "Wúxiǎojiě hé tā de nǚér"
+    },
+    "D": {
+     "zh": "李先生和他的女朋友",
+     "py": "Lǐxiānsheng hé tā de nǚpéngyǒu"
+    }
+   }
+  },
+  "22": {
+   "passage": [
+    {
+     "zh": "（三）",
+     "py": "(Sān)"
+    }
+   ],
+   "stem": {
+    "zh": "要怎麼開始使用這部機器？",
+    "py": "Yào zěnme kāishǐ shǐyòng zhèbù jīqì?"
+   },
+   "options": {
+    "A": {
+     "zh": "先按「開始」",
+     "py": "Xiān àn “Kāishǐ”"
+    },
+    "B": {
+     "zh": "先按號碼「1」",
+     "py": "Xiān àn hàomǎ “1”"
+    },
+    "C": {
+     "zh": "先按著「0」兩秒",
+     "py": "Xiān ànzhù “0” liǎngmiǎo"
+    },
+    "D": {
+     "zh": "先輸入數字「157」",
+     "py": "Xiān shūrù shùzì “157”"
+    }
+   }
+  },
+  "23": {
+   "stem": {
+    "zh": "使用這部機器的時候要注意什麼事？",
+    "py": "Shǐyòng zhèbù jīqì de shíhòu yào zhùyì shénme shì?"
+   },
+   "options": {
+    "A": {
+     "zh": "最多只能借五天",
+     "py": "Zuì duō zhǐnéng jiè wǔtiān"
+    },
+    "B": {
+     "zh": "別把機器掛在身上",
+     "py": "Bié bǎ jīqì guà zài shēnshàng"
+    },
+    "C": {
+     "zh": "不能讓帅稚園的孩子用",
+     "py": "Bùnéng ràng shuài zhìyuán de háizi yòng"
+    },
+    "D": {
+     "zh": "假日借用時間到下午五點",
+     "py": "Jiàrì jièyòng shíjiān dào xiàwǔ wǔdiǎn"
+    }
+   }
+  },
+  "24": {
+   "passage": [
+    {
+     "zh": "（四）",
+     "py": "(Sì)"
+    }
+   ],
+   "stem": {
+    "zh": "根據這個調查結果，下面哪一項是錯的？",
+    "py": "Gēnjù zhè ge diàochájiéguǒ, xiàmiàn nǎ yíxiàng shì cuò de?"
+   },
+   "options": {
+    "A": {
+     "zh": "賺多少錢是選擇工作時最重要的因素",
+     "py": "Zhuàn duōshǎo qián shì xuǎnzé gōngzuò shí zuì zhòngyào de yīnsù"
+    },
+    "B": {
+     "zh": "重視工作是否讓人心情愉快的人占五分之一",
+     "py": "Zhòngshì gōngzuò shìfǒu ràng rén xīnqíngyúkuài de rén zhàn wǔfēnzhīyī"
+    },
+    "C": {
+     "zh": "在工作上是否受到尊敬是最不被重視的條件之一",
+     "py": "Zài gōngzuò shàng shìfǒu shòudào zūnjìng shì zuì bù bèi zhòngshì de tiáojiàn zhīyī"
+    },
+    "D": {
+     "zh": "認為工作性質最好跟自己的專業有關的人不到五分之一",
+     "py": "Rènwéi gōngzuò xìngzhì zuìhǎo gēn zìjǐ de zhuānyè yǒuguān de rén búdào wǔfēnzhīyī"
+    }
+   }
+  },
+  "25": {
+   "stem": {
+    "zh": "根據這個調查結果，下面哪一項因素被最多年輕人視為理想工作 的條件？",
+    "py": "Gēnjù zhè ge diàochájiéguǒ, xiàmiàn nǎ yíxiàng yīnsù bèi zuìduō niánqīngrén shìwèi lǐxiǎng gōngzuò de tiáojiàn?"
+   },
+   "options": {
+    "A": {
+     "zh": "收入是否合理",
+     "py": "Shōurù shìfǒu hélǐ"
+    },
+    "B": {
+     "zh": "自己的能力是否被肯定",
+     "py": "Zìjǐ de nénglì shìfǒu bèi kěndìng"
+    },
+    "C": {
+     "zh": "自己所學是否與工作內容有關",
+     "py": "Zìjǐ suǒxué shìfǒu yǔ gōngzuò nèiróng yǒuguān"
+    },
+    "D": {
+     "zh": "是否可以同時扮演好職員和父母的角色",
+     "py": "Shìfǒu kěyǐ tóngshí bànyǎn hǎo zhíyuán hé fùmǔ de juésè"
+    }
+   }
+  },
+  "26": {
+   "passage": [
+    {
+     "zh": "（五）",
+     "py": "(Wǔ)"
+    }
+   ],
+   "stem": {
+    "zh": "關於這家報社的報紙，下面哪一個是對的？",
+    "py": "Guānyú zhèjiā bàoshè de bàozhǐ, xiàmiàn nǎ yí ge shì duì de?"
+   },
+   "options": {
+    "A": {
+     "zh": "春節期間不出版",
+     "py": "Chūnjié qījiān bù chūbǎn"
+    },
+    "B": {
+     "zh": "帄時售價一份 10 元",
+     "py": "Dīng shí shòujià yífèn 10 yuán"
+    },
+    "C": {
+     "zh": "帄時每份數量有三大張",
+     "py": "Dīng shí měifèn shùliàng yǒu sān dàzhāng"
+    },
+    "D": {
+     "zh": "春節時在指定商店才買得到",
+     "py": "Chūnjié shí zài zhǐdìng shāngdiàn cái mǎi dédào"
+    }
+   }
+  },
+  "27": {
+   "stem": {
+    "zh": "這家報社在春節期間打算做什麼？",
+    "py": "Zhèjiā bàoshè zài chūnjié qījiān dǎsuàn zuò shénme?"
+   },
+   "options": {
+    "A": {
+     "zh": "免費贈送報紙",
+     "py": "Miǎnfèi zèngsòng bàozhǐ"
+    },
+    "B": {
+     "zh": "暫時停止送報五天",
+     "py": "Zànshí tíngzhǐ sòngbào wǔtiān"
+    },
+    "C": {
+     "zh": "補送報紙給已經訂報紙的人",
+     "py": "Bǔsòng bàozhǐ gěi yǐjīng dìng bàozhǐ de rén"
+    },
+    "D": {
+     "zh": "到便利商店買報紙就能得到兌換券",
+     "py": "Dào biànlìshāngdiàn mǎi bàozhǐ jiù néng dédào duìhuànquàn"
+    }
+   }
+  },
+  "28": {
+   "stem": {
+    "zh": "文章中提到的實驗是怎麼進行的？",
+    "py": "Wénzhāng zhōng tídào de shíyàn shì zěnme jìnxíng de?"
+   },
+   "options": {
+    "A": {
+     "zh": "用儀器讓嬰兒說話",
+     "py": "Yòng yíqì ràng yīngér shuōhuà"
+    },
+    "B": {
+     "zh": "每天讓嬰兒聽同樣的音樂",
+     "py": "Měitiān ràng yīngér tīng tóngyàng de yīnyuè"
+    },
+    "C": {
+     "zh": "讓懷孕的母親每天反覆聽單字",
+     "py": "Ràng huáiyùn de mǔqīn měitiān fǎnfù tīng dānzì"
+    },
+    "D": {
+     "zh": "嬰兒出生後，每天播放一個單字",
+     "py": "Yīngér chūshēng hòu, měitiān bōfàng yí ge dānzì"
+    }
+   }
+  },
+  "29": {
+   "stem": {
+    "zh": "根據文章，下面哪一項是對的？",
+    "py": "Gēnjù wénzhāng, xiàmiàn nǎ yíxiàng shì duì de?"
+   },
+   "options": {
+    "A": {
+     "zh": "越早學習語言，記憶力越好",
+     "py": "Yuè zǎo xuéxí yǔyán, jìyìlì yuè hǎo"
+    },
+    "B": {
+     "zh": "母親看連續劇，嬰兒比較聰明",
+     "py": "Mǔqīn kàn liánxùjù, yīngér bǐjiào cōngmíng"
+    },
+    "C": {
+     "zh": "這項研究結果跟以前的互相矛盾",
+     "py": "Zhèxiàng yánjiū jiéguǒ gēn yǐqián de hùxiāngmáodùn"
+    },
+    "D": {
+     "zh": "語言專家寇兒對研究結果感到驚訝",
+     "py": "Yǔyán zhuānjiā Kòuér duì yánjiū jiéguǒ gǎndào jīngyà"
+    }
+   }
+  },
+  "30": {
+   "stem": {
+    "zh": "這篇短文屬於以下哪一類的研究？",
+    "py": "Zhè piān duǎnwén shǔyú yǐxià nǎ yílèi de yánjiū?"
+   },
+   "options": {
+    "A": {
+     "zh": "人類的早期教育",
+     "py": "Rénlèi de zǎoqījiàoyù"
+    },
+    "B": {
+     "zh": "聽力障礙的症狀",
+     "py": "Tīnglì zhàngài de zhèngzhuàng"
+    },
+    "C": {
+     "zh": "音樂對人的影響",
+     "py": "Yīnyuè duì rén de yǐngxiǎng"
+    },
+    "D": {
+     "zh": "懷孕期間的變化",
+     "py": "Huáiyùn qījiān de biànhuà"
+    }
+   }
+  },
+  "31": {
+   "stem": {
+    "zh": "這篇短文主要想傳達什麼思想？",
+    "py": "Zhè piān duǎnwén zhǔyào xiǎng chuándá shénme sīxiǎng?"
+   },
+   "options": {
+    "A": {
+     "zh": "看電影和聽故事都不必太認真",
+     "py": "Kàn diànyǐng hé tīng gùshì dōu búbì tài rènzhēn"
+    },
+    "B": {
+     "zh": "人們應該完全像小孩一樣活著",
+     "py": "Rénmen yīnggāi wánquán xiàng xiǎohái yíyàng huózhù"
+    },
+    "C": {
+     "zh": "成長過程中要保持單純不容易",
+     "py": "Chéngzhǎng guòchéng zhōngyào bǎochí dānchún bù róngyì"
+    },
+    "D": {
+     "zh": "既然長大就應該提早面對現實",
+     "py": "Jìrán Zhǎngdà jiù yīnggāi tízǎo miànduìxiànshí"
+    }
+   }
+  },
+  "32": {
+   "stem": {
+    "zh": "請問下面哪一段文字最符合第二段中所說的「主題」？",
+    "py": "Qǐngwèn xiàmiàn nǎ yíduàn wénzì zuì fúhé dìèrduàn zhōng suǒshuō de “Zhǔtí”?"
+   },
+   "options": {
+    "A": {
+     "zh": "睡前聽故事",
+     "py": "Shuì qián tīng gùshì"
+    },
+    "B": {
+     "zh": "孝順父母親",
+     "py": "Xiàoshùnfùmǔ qīn"
+    },
+    "C": {
+     "zh": "失去的童心",
+     "py": "Shīqù de tóngxīn"
+    },
+    "D": {
+     "zh": "哲學的智慧",
+     "py": "Zhéxué de Zhìhuì"
+    }
+   }
+  },
+  "33": {
+   "stem": {
+    "zh": "根據短文，為什麼小兒子後來和父親的關係不好？",
+    "py": "Gēnjù duǎnwén, wèishénme Xiǎoérzi hòulái hé fùqīn de guānxì bùhǎo?"
+   },
+   "options": {
+    "A": {
+     "zh": "他一直都誤會父親",
+     "py": "Tā yìzhí dōu wùhuì fùqīn"
+    },
+    "B": {
+     "zh": "他覺得父親不關心他",
+     "py": "Tā juéde fùqīn bù guānxīn tā"
+    },
+    "C": {
+     "zh": "他父親很少再和他講故事",
+     "py": "Tā fùqīn hěnshǎo zài hé tā jiǎnggùshì"
+    },
+    "D": {
+     "zh": "他父親是個不切實際的人",
+     "py": "Tā fùqīn shì gè bùqiēshíjì de rén"
+    }
+   }
+  },
+  "34": {
+   "stem": {
+    "zh": "這則「問與答」主要討論什麼？",
+    "py": "Zhè zé “Wènyǔdá” zhǔyào tǎolùn shénme?"
+   },
+   "options": {
+    "A": {
+     "zh": "預防近視的正確觀念",
+     "py": "Yùfáng jìnshì de zhèngquè guānniàn"
+    },
+    "B": {
+     "zh": "睡眠與視力之間的關係",
+     "py": "Shuìmián yǔ shìlì zhījiān de guānxì"
+    },
+    "C": {
+     "zh": "減輕眼睛不舒服的方法",
+     "py": "Jiǎnqīng yǎnjīng bù shūfú de fāngfǎ"
+    },
+    "D": {
+     "zh": "改善眼睛疲勞的小技巧",
+     "py": "Gǎishàn yǎnjīng píláo de xiǎo jìqiǎo"
+    }
+   }
+  },
+  "35": {
+   "stem": {
+    "zh": "針對陳先生的問題來源，任醫師認為下面哪種情況是原因之一？",
+    "py": "Zhēnduì Chénxiānsheng de wèntí láiyuán, rèn yīshī rènwéi xiàmiàn nǎ zhǒng qíngkuàng shì yuányīn zhīyī?"
+   },
+   "options": {
+    "A": {
+     "zh": "視力開始退化",
+     "py": "Shìlì kāishǐ tuìhuà"
+    },
+    "B": {
+     "zh": "眼睛的淚水過多",
+     "py": "Yǎnjīng de lèishuǐ guò duō"
+    },
+    "C": {
+     "zh": "沒有充足的睡眠",
+     "py": "Méiyǒu chōngzú de shuìmián"
+    },
+    "D": {
+     "zh": "生活環境中有人抽菸",
+     "py": "Shēnghuó huánjìng zhōng yǒurén chōuyān"
+    }
+   }
+  },
+  "36": {
+   "stem": {
+    "zh": "關於任醫師的建議，下列哪一項正確？",
+    "py": "Guānyú rèn yīshī de jiànyì, xiàliè nǎ yíxiàng zhèngquè?"
+   },
+   "options": {
+    "A": {
+     "zh": "太晚治療容易傳染他人",
+     "py": "Tàiwǎn zhìliáo róngyì chuánrǎn tārén"
+    },
+    "B": {
+     "zh": "眼睛一有血絲應立刻就醫",
+     "py": "Yǎnjīng yī yǒu xuèsī yīng lìkè jiùyī"
+    },
+    "C": {
+     "zh": "每次冷敷眼睛至少五分鐘",
+     "py": "Měicì Lěngfū yǎnjīng zhìshǎo wǔfēnzhōng"
+    },
+    "D": {
+     "zh": "觀察症狀的變化以一週為原則",
+     "py": "Guānchá zhèngzhuàng de biànhuà yǐ yìzhōu wèi yuánzé"
+    }
+   }
+  },
+  "37": {
+   "stem": {
+    "zh": "作者覺得美式早餐的特色是什麼？",
+    "py": "Zuòzhě juéde měishì zǎocān de tèsè shì shénme?"
+   },
+   "options": {
+    "A": {
+     "zh": "量多",
+     "py": "Liàng duō"
+    },
+    "B": {
+     "zh": "味道佳",
+     "py": "Wèidào jiā"
+    },
+    "C": {
+     "zh": "作法精緻",
+     "py": "Zuòfǎ jīngzhì"
+    },
+    "D": {
+     "zh": "環境優雅",
+     "py": "Huánjìng yōuyǎ"
+    }
+   }
+  },
+  "38": {
+   "stem": {
+    "zh": "作者認為義大利式連鎖咖啡店的早餐缺少了什麼？",
+    "py": "Zuòzhě rènwéi Yìdàlìshì liánsuǒ kāfēidiàn de zǎocān quēshǎo le shénme?"
+   },
+   "options": {
+    "A": {
+     "zh": "豐富的配料",
+     "py": "Fēngfù de pèiliào"
+    },
+    "B": {
+     "zh": "漂亮的裝飾",
+     "py": "Piàoliang de zhuāngshì"
+    },
+    "C": {
+     "zh": "熱鬧的感覺",
+     "py": "Rènào de gǎnjué"
+    },
+    "D": {
+     "zh": "廣闊的用餐環境",
+     "py": "Guǎngkuò de yòngcān huánjìng"
+    }
+   }
+  },
+  "39": {
+   "stem": {
+    "zh": "這篇文章的作者主要想說明什麼？",
+    "py": "Zhè piānwénzhāng de zuòzhě zhǔyào xiǎng shuōmíng shénme?"
+   },
+   "options": {
+    "A": {
+     "zh": "飲食文化的轉變",
+     "py": "Yǐnshíwénhuà de zhuǎnbiàn"
+    },
+    "B": {
+     "zh": "選擇早餐的標準",
+     "py": "Xuǎnzé zǎocān de biāozhǔn"
+    },
+    "C": {
+     "zh": "現付人的飲食習慣",
+     "py": "Xiànfù rén de yǐnshíxíguàn"
+    },
+    "D": {
+     "zh": "早餐店成功的秘訣",
+     "py": "Zǎocān diàn chénggōng de mìjué"
+    }
+   }
+  },
+  "40": {
+   "stem": {
+    "zh": "小張買了一枚戒指，希望他的太太能在明年的結婚週年紀念日當 天收到，他應該注意什麼事？",
+    "py": "Xiǎozhāng mǎi le yìméi jièzhǐ, xīwàng tā de tàitai néng zài míngnián de jiéhūn zhōunián jìniànrì dāng tiān shōudào, tā yīnggāi zhùyì shénme shì?"
+   },
+   "options": {
+    "A": {
+     "zh": "不可將戒指寄到國外",
+     "py": "Bùkě jiāng jièzhǐ jì dào guówài"
+    },
+    "B": {
+     "zh": "不可連同其他物品寄送",
+     "py": "Bùkě liántóng qítā wùpǐn jìsòng"
+    },
+    "C": {
+     "zh": "戒指的價格不可高於一萬",
+     "py": "Jièzhǐ de jiàgé bùkě gāoyú yíwàn"
+    },
+    "D": {
+     "zh": "一旦決定寄達時間則不可更改",
+     "py": "Yídàn juédìng jìdá shíjiān zé bùkě gēnggǎi"
+    }
+   }
+  },
+  "41": {
+   "stem": {
+    "zh": "明美打算透過這項服務在年底送朋友一個特別的禮物，下列哪一 項符合郵寄規定？",
+    "py": "Míngměi dǎsuàn tòuguò zhèxiàng fúwù zài niándǐ sòng péngyǒu yí ge tèbié de lǐwù, xiàliè nǎ yī xiàngfúhé yóujì guīdìng?"
+   },
+   "options": {
+    "A": {
+     "zh": "當季鮮美的水果",
+     "py": "Dāngjì xiānměi de shuǐguǒ"
+    },
+    "B": {
+     "zh": "名貴的進口刀具",
+     "py": "Míngguì de jìnkǒu dāojù"
+    },
+    "C": {
+     "zh": "清晨現撈的海產",
+     "py": "Qīngchén xiànlāo de hǎichǎn"
+    },
+    "D": {
+     "zh": "湖邊撿到的石頭",
+     "py": "Húbiān jiǎn dào de shítou"
+    }
+   }
+  },
+  "42": {
+   "stem": {
+    "zh": "榮恩想在指定時間寄送現金及物品給客戶，下列哪一項正確？",
+    "py": "Róngēn xiǎng zài zhǐdìng shíjiān jìsòng xiànjīn jí wùpǐn gěi kèhù, xiàliè nǎ yíxiàng zhèngquè?"
+   },
+   "options": {
+    "A": {
+     "zh": "若兩者併寄，總價值不得高於五千元",
+     "py": "Ruò liǎngzhě bìng jì, zǒngjiàzhí bùdé gāoyú wǔqiānyuán"
+    },
+    "B": {
+     "zh": "若兩者併寄，現金金額以一萬元為限",
+     "py": "Ruò liǎngzhě bìng jì, xiànjīn jīné yǐ yíwànyuán wèi xiàn"
+    },
+    "C": {
+     "zh": "若單寄物件，物品價值頇高於一萬元",
+     "py": "Ruò Dānjì wùjiàn, wùpǐn jiàzhí hān gāoyú yíwànyuán"
+    },
+    "D": {
+     "zh": "若單寄現金，金額頇介於一萬至五萬元",
+     "py": "Ruò Dānjì xiànjīn, jīné hān jièyú yíwàn zhì wǔwànyuán"
+    }
+   }
+  },
+  "43": {
+   "stem": {
+    "zh": "作者認為這部電影吸引人的地方是什麼？",
+    "py": "Zuòzhě rènwéi zhèbù diànyǐng xīyǐn rén de dìfāng shì shénme?"
+   },
+   "options": {
+    "A": {
+     "zh": "主要演員驚人的演技",
+     "py": "Zhǔyàoyǎnyuán jīngrén de yǎnjì"
+    },
+    "B": {
+     "zh": "導演盧貝松十分有名氣",
+     "py": "Dǎoyǎn Lúbèisōng shífēn yǒumíngqì"
+    },
+    "C": {
+     "zh": "片中的真實人物正率領人民打仗",
+     "py": "Piànzhōng de zhēnshí rénwù zhèng shuàilǐng rénmín dǎzhàng"
+    },
+    "D": {
+     "zh": "故事主角為了維護和帄而失去生命",
+     "py": "Gùshì zhǔjué wèile wéihù hé dīng ér shīqù shēngmìng"
+    }
+   }
+  },
+  "44": {
+   "stem": {
+    "zh": "關於演員楊紫瓊，下面哪一個是對的？",
+    "py": "Guānyú yǎnyuán Yángzǐqióng, xiàmiàn nǎ yí ge shì duì de?"
+   },
+   "options": {
+    "A": {
+     "zh": "她的身材本來有點胖",
+     "py": "Tā de shēncái běnlái yǒudiǎn pàng"
+    },
+    "B": {
+     "zh": "她要求參與這部電影",
+     "py": "Tā yāoqiú cānyù zhèbù diànyǐng"
+    },
+    "C": {
+     "zh": "她本來就會說緬甸話",
+     "py": "Tā běnlái jiù huì shuō Miǎndiān huà"
+    },
+    "D": {
+     "zh": "導演花四年才找到她",
+     "py": "Dǎoyǎn huā sìnián cái zhǎodào tā"
+    }
+   }
+  },
+  "45": {
+   "stem": {
+    "zh": "根據本文，在拍電影期間，楊紫瓊做了什麼事？",
+    "py": "Gēnjù běnwén, zài pāidiànyǐng qījiān, Yángzǐqióng zuò le shénme shì?"
+   },
+   "options": {
+    "A": {
+     "zh": "當緬甸的軍人",
+     "py": "Dāng Miǎndiān de jūnrén"
+    },
+    "B": {
+     "zh": "讓體重快速上升",
+     "py": "Ràng tǐzhòng kuàisù shàngshēng"
+    },
+    "C": {
+     "zh": "和翁山蘇姬見面",
+     "py": "Hé Wēngshān Sūjī jiànmiàn"
+    },
+    "D": {
+     "zh": "在緬甸發表中文演講",
+     "py": "Zài Miǎndiān fābiǎo Zhōngwén yǎnjiǎng"
+    }
+   }
+  },
+  "46": {
+   "stem": {
+    "zh": "第二段主要在說什麼事？",
+    "py": "Dìèrduàn zhǔyào zài shuō shénme shì?"
+   },
+   "options": {
+    "A": {
+     "zh": "楊紫瓊是演員兼任導演",
+     "py": "Yángzǐqióng shì yǎnyuán jiānrèn dǎoyǎn"
+    },
+    "B": {
+     "zh": "翁山蘇姬的生帄與事蹟",
+     "py": "Wēngshān Sūjī de shēng dīng yǔ shìjì"
+    },
+    "C": {
+     "zh": "楊紫瓊爭取飾演翁山蘇姬的原因",
+     "py": "Yángzǐqióng zhēngqǔ shìyǎn Wēngshān Sūjī de yuányīn"
+    },
+    "D": {
+     "zh": "楊紫瓊為演出翁山蘇姬所下的功夫",
+     "py": "Yángzǐqióng wèi yǎnchū Wēngshān Sūjī suǒ xià de gōngfu"
+    }
+   }
+  },
+  "47": {
+   "stem": {
+    "zh": "關於國王想推廣馬鈴薯的原因，沒提到下面哪一項？",
+    "py": "Guānyú guówáng xiǎng tuīguǎng mǎlíngshǔ de yuányīn, méi tídào xiàmiàn nǎ yíxiàng?"
+   },
+   "options": {
+    "A": {
+     "zh": "能當作主要的食物",
+     "py": "Néng dàngzuò zhǔyào de shíwù"
+    },
+    "B": {
+     "zh": "味道和麵包非常搭配",
+     "py": "Wèidào hé miànbāo fēicháng dāpèi"
+    },
+    "C": {
+     "zh": "不必花太多力氣照顧",
+     "py": "Búbì Huātàiduō lìqì zhàogù"
+    },
+    "D": {
+     "zh": "希望讓人民少用麵粉",
+     "py": "Xīwàng ràng rénmín shǎo yòng miànfěn"
+    }
+   }
+  },
+  "48": {
+   "stem": {
+    "zh": "第二段中的「市場反應」指的是什麼？",
+    "py": "Dìèrduàn zhōng de “Shìchǎng fǎnyìng” zhǐ de shì shénme?"
+   },
+   "options": {
+    "A": {
+     "zh": "一般人吃不起馬鈴薯",
+     "py": "Yìbān rén chībùqǐ mǎlíngshǔ"
+    },
+    "B": {
+     "zh": "沒有人願意賣馬鈴薯",
+     "py": "Méiyǒu rén yuànyì mài mǎlíngshǔ"
+    },
+    "C": {
+     "zh": "農民認為馬鈴薯不容易種",
+     "py": "Nóngmín rènwéi mǎlíngshǔ bù róngyì zhǒng"
+    },
+    "D": {
+     "zh": "人民認為馬鈴薯無法取付麵包",
+     "py": "Rénmín rènwéi mǎlíngshǔ wúfǎ qǔfù miànbāo"
+    }
+   }
+  },
+  "49": {
+   "stem": {
+    "zh": "國王能推廣成功，主要是對人民使用了哪種策略？",
+    "py": "Guówáng néng tuīguǎng chénggōng, zhǔyào shì duì rénmín shǐyòng le nǎzhǒng cèlüè?"
+   },
+   "options": {
+    "A": {
+     "zh": "強調吃馬鈴薯的好處",
+     "py": "Qiángdiào chī mǎlíngshǔ de hǎochù"
+    },
+    "B": {
+     "zh": "強迫他們不得不接受命仙",
+     "py": "Qiǎngpò tāmen bùdébù jiēshòu mìngxiān"
+    },
+    "C": {
+     "zh": "引起人民對馬鈴薯的好奇心",
+     "py": "Yǐnqǐ rénmín duì mǎlíngshǔ de hàoqíxīn"
+    },
+    "D": {
+     "zh": "強調小麥不足如何影響生活",
+     "py": "Qiángdiào xiǎomài bùzú rúhé yǐngxiǎng shēnghuó"
+    }
+   }
+  },
+  "50": {
+   "stem": {
+    "zh": "這個故事主要在說明什麼？",
+    "py": "Zhè ge gùshì zhǔyào zài shuōmíng shénme?"
+   },
+   "options": {
+    "A": {
+     "zh": "馬鈴薯開始流行的原因",
+     "py": "Mǎlíngshǔ kāishǐ liúxíng de yuányīn"
+    },
+    "B": {
+     "zh": "人民改變飲食習慣的目的",
+     "py": "Rénmín gǎibiàn yǐnshíxíguàn de mùdì"
+    },
+    "C": {
+     "zh": "馬鈴薯對歐洲人民有什麼好處",
+     "py": "Mǎlíngshǔ duì Ōuzhōu rénmín yǒu shénme hǎochù"
+    },
+    "D": {
+     "zh": "國王對食物的愛好如何影響人民",
+     "py": "Guówáng duì shíwù de àihào rúhé yǐngxiǎng rénmín"
+    }
+   }
+  }
+ }
+}

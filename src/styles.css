@@ -240,7 +240,13 @@ details summary::marker { color: var(--brand); }
 .crop { margin: .7rem 0; background: #fffdf8; border: 1px solid var(--line); border-radius: var(--r-sm); padding: .5rem; }
 [data-theme="dark"] .crop, [data-theme="dark"] .page img { filter: brightness(.92) sepia(.08); }
 .crop img { display: block; margin: 0 auto; }
-details.orig { margin: .5rem 0; font-size: .9rem; }
+details.orig { margin: .7rem 0; font-size: .9rem; border: 1px solid var(--line); border-radius: var(--r-sm); background: var(--surface); }
+details.orig > summary { cursor: pointer; padding: .55rem .9rem; font-weight: 600; color: var(--brand); list-style-position: inside; }
+details.orig[open] > summary { border-bottom: 1px dashed var(--line); }
+details.orig > .orig-note { margin: .6rem .9rem 0; }
+details.orig > .crop { margin: .6rem .9rem; }
+details.orig > .crop + .crop { margin-top: -.2rem; }
+.crop img { max-width: 100%; height: auto; }
 .opts { border: 0; padding: 0; margin: .7rem 0 0; display: grid; gap: .5rem; }
 .opt { display: flex; align-items: center; gap: .7rem; padding: .7rem .9rem; border: 1.5px solid var(--line); border-radius: 12px; cursor: pointer; background: var(--surface); min-height: 50px; transition: border-color .12s, background .12s; }
 .opt:hover { border-color: var(--brand); background: #fffcf6; }
@@ -384,3 +390,17 @@ body::after { content: "ReyZ TOCFL · Reynard Agahari"; position: fixed; right: 
 .checklist { list-style: none; padding: 0; display: grid; gap: .4rem; }
 .tone-cell { font-size: 1.6rem; line-height: 1.2; letter-spacing: .15em; font-family: "Segoe UI Symbol", "Noto Sans", var(--font-zh), sans-serif; }
 .dlg-note { font-style: italic; color: var(--muted); margin: .2rem 0; font-weight: 600; }
+
+/* Exercise explanations: Chinese + pinyin + English */
+details.explain { margin: 1rem 0 .4rem; border: 1px solid var(--line); border-radius: var(--r-sm); background: var(--surface); }
+details.explain > summary { cursor: pointer; padding: .6rem .95rem; font-weight: 650; color: var(--brand); }
+details.explain[open] > summary { border-bottom: 1px dashed var(--line); }
+.ex-group { padding: .35rem .95rem .2rem; }
+.ex-group h4 { margin: .5rem 0 .35rem; font-size: .8rem; letter-spacing: .02em; color: var(--muted); font-weight: 650; }
+.ex-line { padding: .5rem 0; border-bottom: 1px solid var(--line); }
+.ex-group .ex-line:last-child { border-bottom: 0; }
+.ex-zh { display: flex; align-items: baseline; gap: .5rem; flex-wrap: wrap; font-size: 1.08rem; line-height: 1.6; }
+.ex-mark { font-weight: 700; color: var(--brand); font-family: var(--font-display); min-width: 2.4em; }
+.ex-py { color: var(--brand); font-size: .92rem; line-height: 1.5; margin-top: .1rem; }
+.ex-en { color: var(--ink-2, var(--text)); font-size: .93rem; line-height: 1.5; margin-top: .1rem; }
+.ex-note, .ex-pending { padding: .2rem .95rem .7rem; margin: 0; }

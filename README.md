@@ -46,6 +46,10 @@ Everything in `content` and `media/{ex,study}` is generated from your PDFs. Run 
 ```bash
 SRC="D:\Material For TOCFL Website Claude"
 python pipeline/parse_mock.py   "$SRC" .     # 30 mock tests -> content/exercise + question crops
+python pipeline/fix_novice.py .              # verified text corrections for the Novice tests (pinyin-annotated booklet)
+python pipeline/build_layouts.py "$SRC" .    # reading: "original question book layout" images (passage + question, no choices)
+for t in content/exercise/*-[rl][0-9].json; do python pipeline/explain_tool.py merge $(basename $t .json); done
+                                              # explanations: pinyin for all Chinese + English from pipeline/explain_src
 python pipeline/parse_study.py  "$SRC" .     # books/lessons/audio links -> content/study
 python pipeline/render_pages.py "$SRC" . 100 # every book page -> media/study/<book>/pNNN.webp
 python pipeline/parse_partbank.py "$SRC" . 25   # per-question bank ("Per Part" folders) -> practice sets
@@ -54,6 +58,7 @@ python scripts/report.py                     # regenerate reports/COMPLETENESS.m
 npm run sync-media -- "$SRC"
 ```
 
+- **Exercise explanations:** `python pipeline/explain_tool.py sheet <testId>` lists every Chinese segment (passages, questions, every choice, listening scripts) with an id. Put the English for each id in `pipeline/explain_src/<testId>.json` (`"img:<n>": [[zh, en], ...]` for text printed inside pictures, `"_images_done": true` once pictures are checked), then run `merge`. Pinyin is generated (`pipeline/pinyin_util.py`, needs `pip install pypinyin jieba opencc-python-reimplemented`).
 - **Adding a mock test:** add an entry to `pipeline/mock_catalog.py` (folder, file names, audio track list), then re-run `parse_mock.py` and `finalize.py`.
 - **Migrating a lesson to web text:** create `content/study/lessons/<lessonId>.json`. Use `a1-te-l01.json` as the template; block types are `heading`, `dialogue`, `vocab`, `text`, `note`, and `"track": "01-03"` puts that track's player on the block. Then re-run `parse_study.py` (it sets `migrated`) and `npm run build-index`. Hand-written lesson files are never overwritten.
 - **Wrong lesson boundary:** add it to `BOUNDARY_OVERRIDES` in `pipeline/parse_study.py`.

@@ -1,0 +1,2239 @@
+{
+ "testId": "c-l4",
+ "segments": 456,
+ "englishComplete": false,
+ "questions": {
+  "1": {
+   "options": {
+    "A": {
+     "zh": "原來小張出國工作了",
+     "py": "Yuánlái xiǎozhāng chūguó gōngzuò le"
+    },
+    "B": {
+     "zh": "原來小張去環遊世界了",
+     "py": "Yuánlái xiǎozhāng qù huányóushìjiè le"
+    },
+    "C": {
+     "zh": "原來小張最近都忙著工作",
+     "py": "Yuánlái xiǎozhāng zuìjìn dōu máng zhù gōngzuò"
+    },
+    "D": {
+     "zh": "原來小張年底要離開公司",
+     "py": "Yuánlái xiǎozhāng niándǐ yào líkāi gōngsī"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男：小張為了公司年底的世界展覽，不得不犧牲假期跟同事們到公司開會做最後",
+     "py": "Nán: Xiǎozhāng wèile gōngsī niándǐ de shìjiè zhǎnlǎn, bùdébù xīshēng jiàqī gēn tóngshì men dào gōngsī kāihuì zuò zuìhòu"
+    },
+    {
+     "zh": "的準備。",
+     "py": "De zhǔnbèi."
+    },
+    {
+     "zh": "女：難怪最近都看不到他。",
+     "py": "Nǚ: Nánguài zuìjìn dōu kànbúdào tā."
+    },
+    {
+     "zh": "男：這位小姐的意思是什麼？",
+     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?"
+    }
+   ]
+  },
+  "2": {
+   "options": {
+    "A": {
+     "zh": "開別人玩笑會讓人生氣",
+     "py": "Kāi biérén wánxiào huì ràng rén shēngqì"
+    },
+    "B": {
+     "zh": "這位先生講的笑話不好笑",
+     "py": "Zhèwèi xiānsheng jiǎng de xiàohuà bùhǎo xiào"
+    },
+    "C": {
+     "zh": "這位先生不必為了玩笑而生氣",
+     "py": "Zhèwèi xiānsheng búbì wèile wánxiào ér shēngqì"
+    },
+    "D": {
+     "zh": "她不想被別人當成開玩笑的對象",
+     "py": "Tā bùxiǎng bèi biérén dàngchéng kāiwánxiào de duìxiàng"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男：妳不要再拿我開玩笑了，否則我就跟妳翻臉！",
+     "py": "Nán: Nǐ búyào zài ná wǒ kāiwánxiào le, fǒuzé wǒ jiù gēn nǐ fānliǎn!"
+    },
+    {
+     "zh": "女：我只不過跟你開個玩笑，幹嘛發那麼大的脾氣啊！",
+     "py": "Nǚ: Wǒ zhǐbúguò gēn nǐ kāi gè wánxiào, gànmá fā nàme dà de píqì a!"
+    },
+    {
+     "zh": "男：這位小姐的意思是什麼？",
+     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?"
+    }
+   ]
+  },
+  "3": {
+   "options": {
+    "A": {
+     "zh": "要小李放棄追求那位美女",
+     "py": "Yào xiǎo Lǐ fàngqì zhuīqiú nàwèi měinǚ"
+    },
+    "B": {
+     "zh": "想追求那位美女的話，得趕快行動",
+     "py": "Xiǎng zhuīqiú nàwèi měinǚ dehuà, dé gǎnkuài xíngdòng"
+    },
+    "C": {
+     "zh": "小李必須多存點錢，才能追到那位美女",
+     "py": "Xiǎo Lǐ bìxū duō cúndiǎn qián, cáinéng zhuī dào nàwèi měinǚ"
+    },
+    "D": {
+     "zh": "要小李直接去找那位美女，不要透過電話",
+     "py": "Yào xiǎo Lǐ zhíjiē qù zhǎo nàwèi měinǚ, búyào tòuguò diànhuà"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男：那位小姐真迷人，妳可以幫我問她的電話號碼嗎？",
+     "py": "Nán: Nàwèi Xiǎojiě zhēn mírén, nǐ kěyǐ bāng wǒ wèn tā de diànhuàhàomǎ ma?"
+    },
+    {
+     "zh": "女：小李，我看你就省省吧！像她這種美女，追求她的人至少有半打，她怎麼可",
+     "py": "Nǚ: Xiǎo Lǐ, wǒ kàn nǐ jiù shěng shěng ba! Xiàng tā zhèzhǒng měinǚ, zhuīqiú tā de rén zhìshǎo yǒu bàndǎ, tā zěnme kě"
+    },
+    {
+     "zh": "能會看上你？",
+     "py": "Nénghuì kànshàng nǐ?"
+    },
+    {
+     "zh": "男：這位小姐的意思是什麼？",
+     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?"
+    }
+   ]
+  },
+  "4": {
+   "options": {
+    "A": {
+     "zh": "教練不可能不急",
+     "py": "Jiàoliàn bù kěnéng bù jí"
+    },
+    "B": {
+     "zh": "看不出來教練很急",
+     "py": "Kànbùchūlái jiàoliàn hěn jí"
+    },
+    "C": {
+     "zh": "情況越來越糟，教練很擔心",
+     "py": "Qíngkuàng yuèláiyuè zāo, jiàoliàn hěn dānxīn"
+    },
+    "D": {
+     "zh": "教練有教練的打算，用不著操心",
+     "py": "Jiàoliàn yǒu jiàoliàn de dǎsuàn, yòng búzhù cāoxīn"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男：哎呦！教練怎麼還不把十號換下來，再這樣下去就要輸球了。",
+     "py": "Nán: Āi yōu! Jiàoliàn zěnme hái bù bǎ shíhào huànxiàlái, zài zhèyàng xiàqù jiùyào shūqiú le."
+    },
+    {
+     "zh": "女：你這是皇帝不急，急死太監。",
+     "py": "Nǚ: Nǐ zhè shì huángdì bù jí, jí sǐ tàijiàn."
+    },
+    {
+     "zh": "男：這位小姐的意思是什麼？",
+     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?"
+    }
+   ]
+  },
+  "5": {
+   "options": {
+    "A": {
+     "zh": "他很受學生歡迎",
+     "py": "Tā hěn shòu xuéshēng huānyíng"
+    },
+    "B": {
+     "zh": "他不准學生失敗",
+     "py": "Tā bùzhǔn xuéshēng shībài"
+    },
+    "C": {
+     "zh": "學生很難見得到他",
+     "py": "Xuéshēng hěn nán jiàn dédào tā"
+    },
+    "D": {
+     "zh": "像他這樣的人不算少",
+     "py": "Xiàng tā zhèyàng de rén búsuàn shǎo"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男：方老師教學認真又風趣，常跟學生打成一片，他還鼓勵學生多嘗試，不要怕",
+     "py": "Nán: Fāng lǎoshī jiàoxué rènzhēn yòu fēngqù, cháng gēn xuéshēng dǎchéngyípiàn, tā hái gǔlì xuéshēng duō chángshì, búyào pà"
+    },
+    {
+     "zh": "失敗，下課時總見一群學生圍繞在他身邊。",
+     "py": "Shībài, xiàkèshí zǒngjiàn yìqún xuéshēng wéirào zài tā shēnbiān."
+    },
+    {
+     "zh": "女：他真是一位難得一見的好老師。",
+     "py": "Nǚ: Tā zhēnshì yíwèi nándéyíjiàn de hǎo lǎoshī."
+    },
+    {
+     "zh": "男：關於方老師，下列哪一個是對的？",
+     "py": "Nán: Guānyú fāng lǎoshī, xiàliè nǎ yí ge shì duì de?"
+    }
+   ]
+  },
+  "6": {
+   "options": {
+    "A": {
+     "zh": "難得參加活動",
+     "py": "Nándé cānjiā huódòng"
+    },
+    "B": {
+     "zh": "竟然參加活動",
+     "py": "Jìngrán cānjiā huódòng"
+    },
+    "C": {
+     "zh": "像他這麼熱心的人不多了",
+     "py": "Xiàng tā zhème rèxīn de rén bù duō le"
+    },
+    "D": {
+     "zh": "應該像他一樣地熱心才對",
+     "py": "Yīnggāi xiàng tā yíyàng dì rèxīn cái duì"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男：只要有任何公益活動，總是見得到吳先生的身影。",
+     "py": "Nán: Zhǐyào yǒu rènhé gōngyìhuódòng, zǒngshì jiàn dédào Wúxiānsheng de shēnyǐng."
+    },
+    {
+     "zh": "女：在這個社會中，他算是非常難得的。",
+     "py": "Nǚ: Zài zhè ge shèhuì zhōng, tā suànshì fēicháng nándé de."
+    },
+    {
+     "zh": "男：這位小姐說吳先生怎麼了？",
+     "py": "Nán: Zhèwèi Xiǎojiě shuō Wúxiānsheng zěnme le?"
+    }
+   ]
+  },
+  "7": {
+   "options": {
+    "A": {
+     "zh": "有一位團員不能準時抵達",
+     "py": "Yǒu yíwèi tuányuán bùnéng zhǔnshí dǐdá"
+    },
+    "B": {
+     "zh": "有一位團員下午三點才會到",
+     "py": "Yǒu yíwèi tuányuán xiàwǔ sāndiǎn cái huì dào"
+    },
+    "C": {
+     "zh": "訪問團的團員無法在下午三點抵達",
+     "py": "Fǎngwèntuán de tuányuán wúfǎ zài xiàwǔ sāndiǎn dǐdá"
+    },
+    "D": {
+     "zh": "團員人數比這位先生預期的少一位",
+     "py": "Tuányuán rénshù bǐ zhèwèi xiānsheng yùqī de shǎo yíwèi"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男：美國派出的六人訪問團，預計今天下午三點將會抵達倫敦機場。",
+     "py": "Nán: Měiguó pàichū de liùrén fǎngwèntuán, yùjì Jīntiānxiàwǔ sāndiǎn jiāng huì dǐdá Lúndūn jīchǎng."
+    },
+    {
+     "zh": "女：是的，他們將會準時到達，不過訪問團人數倒不是六個人，而是五個人。",
+     "py": "Nǚ: Shì de, tāmen jiāng huì zhǔnshídàodá, búguò fǎngwèntuán rénshù dào búshì liù ge rén, érshì wǔ ge rén."
+    },
+    {
+     "zh": "男：這位小姐的意思是什麼？",
+     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?"
+    }
+   ]
+  },
+  "8": {
+   "options": {
+    "A": {
+     "zh": "狠狠地教訓小陳一頓就夠了",
+     "py": "Hěnhěn dì jiàoxùn xiǎo Chén yídùn jiù gòu le"
+    },
+    "B": {
+     "zh": "不要再把車借給小陳就好了",
+     "py": "Búyào zài bǎ chē jiègěi xiǎo Chén jiù hǎo le"
+    },
+    "C": {
+     "zh": "與其生氣，不如跟小陳溝通",
+     "py": "Yǔqí shēngqì, bùrú gēn xiǎo Chén gōutōng"
+    },
+    "D": {
+     "zh": "先確定車子是不是小陳開走的再說",
+     "py": "Xiān quèdìng chēzi shìbúshì xiǎo Chén kāizǒu de zàishuō"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男：小陳竟然沒交代一聲就把車子開走，害我現在沒車可用，等一下他回來我一",
+     "py": "Nán: Xiǎo Chén jìngrán méi jiāodài yìshēng jiù bǎ chēzi kāizǒu, hài wǒ xiànzài méichē kěyòng, děng yíxià tā huílái wǒ yī"
+    },
+    {
+     "zh": "定要罵他一頓。",
+     "py": "Dìngyào mà tā yídùn."
+    },
+    {
+     "zh": "女：他可能有什麼急事吧，等他回來再好好跟他說就好了，用不著發那麼大的脾",
+     "py": "Nǚ: Tā kěnéng yǒu shénme jíshì ba, děng tā huílái zài hǎohǎo gēn tā shuō jiù hǎo le, yòng búzhù fā nàme dà de pí"
+    },
+    {
+     "zh": "氣。",
+     "py": "Qì."
+    },
+    {
+     "zh": "男：面對這種情況，這位小姐的建議是什麼？",
+     "py": "Nán: Miànduì zhèzhǒng qíngkuàng, zhèwèi Xiǎojiě de jiànyì shì shénme?"
+    },
+    {
+     "zh": "以下這段討論和古典詩詞有關，討論中提到陳子昂與他的詩作《登幽州臺歌》。",
+     "py": "Yǐxià zhè duàn tǎolùn hé Gǔdiǎn shīcí yǒuguān, tǎolùn zhōng tídào Chénziáng yǔ tā de shīzuò «Dēng yōuzhōu táigē»."
+    }
+   ]
+  },
+  "9": {
+   "passage": [
+    {
+     "zh": "以下這段討論和古典詩詞有關，討論中提到陳子昂與他的詩作《登幽州臺歌》。",
+     "py": "Yǐxià zhè duàn tǎolùn hé Gǔdiǎn shīcí yǒuguān, tǎolùn zhōng tídào Chénziáng yǔ tā de shīzuò «Dēng yōuzhōu táigē»."
+    },
+    {
+     "zh": "請聽這段討論，然後回答三個問題。",
+     "py": "Qǐng tīng zhèduàn tǎolùn, ránhòu huídá sān ge wèntí."
+    },
+    {
+     "zh": "現在請聽討論。",
+     "py": "Xiànzài qǐng tīng tǎolùn."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "他不喜歡背誦古典詩詞",
+     "py": "Tā bù xǐhuān bèisòng Gǔdiǎn shīcí"
+    },
+    "B": {
+     "zh": "他覺得詩人太容易感慨",
+     "py": "Tā juéde shīrén tài róngyì gǎnkǎi"
+    },
+    "C": {
+     "zh": "他覺得自己沒有同理心",
+     "py": "Tā juéde zìjǐ méiyǒu tónglǐ xīn"
+    },
+    "D": {
+     "zh": "他覺得古典詩詞太拗口",
+     "py": "Tā juéde Gǔdiǎn shīcí tài àokǒu"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這段討論，然後回答三個問題。",
+     "py": "Qǐng tīng zhèduàn tǎolùn, ránhòu huídá sān ge wèntí."
+    },
+    {
+     "zh": "現在請聽討論。",
+     "py": "Xiànzài qǐng tīng tǎolùn."
+    },
+    {
+     "zh": "男：你老說古典詩詞的文句美，但等我細細讀過，我卻只覺「不知所云，讓人好",
+     "py": "Nán: Nǐlǎo shuō Gǔdiǎn shīcí de wénjù Měi, dàn děng wǒ xìxì dú guò, wǒ què zhǐ jué “Bùzhīsuǒyún, ràng rén hǎo"
+    },
+    {
+     "zh": "生不耐啊！」",
+     "py": "Shēngbúnài a!”"
+    },
+    {
+     "zh": "女：古人高興就跳舞，悲傷就寫詩。不怪你，誰叫你「鐵石心腸」。",
+     "py": "Nǚ: Gǔrén gāoxìng jiù tiàowǔ, bēishāng jiù xiěshī. Búguài nǐ, shuí jiào nǐ “Tiěshíxīncháng”."
+    },
+    {
+     "zh": "男：你這是拐著彎罵我沒同理心。你瞧這些詩不是愁就是悲，我讀多了能不麻痺",
+     "py": "Nán: Nǐ zhè shì guǎizhù wānmà wǒ méi tónglǐ xīn. Nǐ qiáo zhèxiē shī búshì chóu jiùshì bēi, wǒ dú duō le néng bù mábì"
+    },
+    {
+     "zh": "嗎？不然，你聽聽這首詩，「啊！我往前看沒有人，我往後看也沒有人，這",
+     "py": "Ma? Bùrán, nǐ tīngtīng zhè shǒushī, “A! Wǒ wǎngqián kàn méiyǒu rén, wǒ wǎnghòu kàn yě méiyǒu rén, zhè"
+    },
+    {
+     "zh": "世界怎麼這麼大，於是我哭了。」我真不知道他哭什麼啊！",
+     "py": "Shìjiè zěnme zhème dà, yúshì wǒ kū le.” wǒ zhēnbùzhīdào tā kū shénme a!"
+    },
+    {
+     "zh": "女：這是陳子昂的《登幽州臺歌》。你這詩讀的「只知其一」啊！陳子昂的感慨",
+     "py": "Nǚ: Zhè shì Chénziáng de «Dēng yōuzhōu táigē». Nǐ zhè shī dú de “Zhǐzhīqíyī” a! Chénziáng de gǎnkǎi"
+    },
+    {
+     "zh": "其來有自，他是個怎樣的人？寫這首詩的時空背景是什麼，你讀詩鑑文前，",
+     "py": "Qí lái yǒu zì, tā shì gè zěnyàng de rén? Xiě zhè shǒushī de shíkōng bèijǐng shì shénme, nǐ dúshī Jiànwén qián,"
+    },
+    {
+     "zh": "應該先理解理解。",
+     "py": "Yīnggāi xiān lǐjiě lǐjiě."
+    },
+    {
+     "zh": "男：古典詩詞之於你，那是清麗美人，才貌兼備；古典詩詞之於我，那是傷風的",
+     "py": "Nán: Gǔdiǎn shīcí zhīyú nǐ, nà shì qīnglì měi rén, cáimào jiānbèi; Gǔdiǎn shīcí zhīyú wǒ, nà shì shāngfēng de"
+    },
+    {
+     "zh": "林黛玉，多念兩句，我就感冒了。",
+     "py": "Líndàiyù, duō niàn liǎngjù, wǒ jiù gǎnmào le."
+    },
+    {
+     "zh": "女：唉！你！朽木啊！",
+     "py": "Nǚ: Āi! Nǐ! Xiǔmù a!"
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "這位先生為什麼對誦讀古典詩詞感到不耐煩？",
+     "py": "Zhèwèi xiānsheng wèishénme duì sòngdú Gǔdiǎn shīcí gǎndào búnàifán?"
+    }
+   ]
+  },
+  "10": {
+   "options": {
+    "A": {
+     "zh": "作者的生平事蹟",
+     "py": "Zuòzhě de shēngpíngshìjì"
+    },
+    "B": {
+     "zh": "賞析詩文的方法",
+     "py": "Shǎngxī shīwén de fāngfǎ"
+    },
+    "C": {
+     "zh": "詩文的翻譯內容",
+     "py": "Shīwén de fānyì nèiróng"
+    },
+    "D": {
+     "zh": "註解詩文的名家",
+     "py": "Zhùjiě shīwén de míngjiā"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "關於《登幽州臺歌》，這位小姐提到什麼？",
+     "py": "Guānyú «Dēng yōuzhōu táigē», zhèwèi Xiǎojiě tídào shénme?"
+    }
+   ]
+  },
+  "11": {
+   "options": {
+    "A": {
+     "zh": "當代詩人應競相模仿",
+     "py": "Dāngdài shīrén yīng jìngxiāng mófǎng"
+    },
+    "B": {
+     "zh": "寫詩之人的感受力強",
+     "py": "Xiěshī zhīrén de gǎnshòulì qiáng"
+    },
+    "C": {
+     "zh": "詩詞文句如錦繡華服",
+     "py": "Shīcí wénjù rú jǐnxiù Huáfú"
+    },
+    "D": {
+     "zh": "詩詞內容多悲風秋月",
+     "py": "Shīcí nèiróng duō bēifēng qiūyuè"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這兩個人對於古典詩詞的看法，有何一致之處？",
+     "py": "Zhè liǎng ge rén duìyú Gǔdiǎn shīcí de kànfǎ, yǒuhé yízhì zhī chù?"
+    }
+   ]
+  },
+  "12": {
+   "passage": [
+    {
+     "zh": "「閱讀」粉絲團成立已經四年多，目前共有七十萬名粉絲，是台灣閱讀書籍類粉絲團的第一名。",
+     "py": "“Yuèdú” fěnsītuán chénglì yǐjīng sìnián duō, mùqián gòngyǒu qīshíwàn míng fěnsī, shì Táiwān yuèdú shūjí lèi fěnsītuán de dìyìmíng."
+    },
+    {
+     "zh": "創辦人日前接受了記者訪問，暢談創辦的心路歷程。",
+     "py": "Chuàngbànrén rìqián jiēshòu le jìzhě fǎngwèn, chàngtán chuàngbàn de xīnlùlìchéng."
+    },
+    {
+     "zh": "請聽這段訪談，然後回答四個問題。",
+     "py": "Qǐng tīng zhèduàn fǎngtán, ránhòu huídá sì ge wèntí."
+    },
+    {
+     "zh": "現在請聽訪談。",
+     "py": "Xiànzài qǐng tīng fǎngtán."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "不置一詞",
+     "py": "Búzhìyìcí"
+    },
+    "B": {
+     "zh": "曲高和寡",
+     "py": "Qǔgāohèguǎ"
+    },
+    "C": {
+     "zh": "有口皆碑",
+     "py": "Yǒukǒujiēbēi"
+    },
+    "D": {
+     "zh": "曇花一現",
+     "py": "Tánhuāyíxiàn"
+    }
+   },
+   "intro": [
+    {
+     "zh": "「閱讀」粉絲團成立已經四年多，目前共有七十萬名粉絲，是台灣閱讀書籍類粉",
+     "py": "“Yuèdú” fěnsītuán chénglì yǐjīng sìnián duō, mùqián gòngyǒu qīshíwàn míng fěnsī, shì Táiwān yuèdú shūjí lèifěn"
+    },
+    {
+     "zh": "絲團的第一名。創辦人日前接受了記者訪問，暢談創辦的心路歷程。請聽這段訪",
+     "py": "Sītuán de dìyìmíng. Chuàngbànrén rìqián jiēshòu le jìzhě fǎngwèn, chàngtán chuàngbàn de xīnlùlìchéng. Qǐng tīng zhèduàn fǎng"
+    },
+    {
+     "zh": "談，然後回答四個問題。",
+     "py": "Tán, ránhòu huídá sì ge wèntí."
+    },
+    {
+     "zh": "現在請聽訪談。",
+     "py": "Xiànzài qǐng tīng fǎngtán."
+    },
+    {
+     "zh": "女：「閱讀」，是一個專門介紹書籍、和讓人投稿的網站，既沒有名人光環，也沒",
+     "py": "Nǚ: “Yuèdú”, shì yí ge zhuānmén jièshào shūjí, hé ràng rén tóugǎo de wǎngzhàn, jì méiyǒu míngrén guānghuán, yě méi"
+    },
+    {
+     "zh": "有贈獎活動，卻擁有極高的點閱率。每隔幾天就會出現一則近萬人分享的文",
+     "py": "Yǒu zèngjiǎng huódòng, què yōngyǒu jígāo de diǎnyuè lǜ. Měigé jǐtiān jiù huì chūxiàn yìzé jìn wàn rén fēnxiǎng de wén"
+    },
+    {
+     "zh": "章，比起不少新聞媒體擁有豐厚的行銷資源，還不時有促銷訊息及抽獎活動，",
+     "py": "Zhāng, bǐqǐ bùshǎo xīnwénméitǐ yōngyǒu fēnghòu de xíngxiāo zīyuán, hái bùshí yǒu cùxiāo xùnxī jí Chōujiǎng huódòng,"
+    },
+    {
+     "zh": "但每則貼文只有十多人轉貼，可以說是高下立判。請問創辦人能不能和我們",
+     "py": "Dàn měi zé tiē wén zhǐyǒu shíduōrén zhuǎntiē, kěyǐ shuō shì gāoxià lìpàn. Qǐngwèn chuàngbànrén néng bùnéng hé wǒmen"
+    },
+    {
+     "zh": "分享您成功的經驗呢？",
+     "py": "Fēnxiǎng nín chénggōng de jīngyàn ne?"
+    },
+    {
+     "zh": "男：不敢當。我想大概是因為我們提供了質量並重的內容、創新多元的形式，還",
+     "py": "Nán: Bùgǎndāng. Wǒ xiǎng dàgài shìyīnwèi wǒmen tígōng le zhìliàng bìngzhòng de nèiróng, chuàngxīn duōyuán de xíngshì, hái"
+    },
+    {
+     "zh": "有我們始終如一的主張。",
+     "py": "Yǒu wǒmen shǐzhōngrúyī de zhǔzhāng."
+    },
+    {
+     "zh": "女：始終如一的主張？這部分您可以和我們談談嗎？",
+     "py": "Nǚ: Shǐzhōngrúyī de zhǔzhāng? Zhèbùfèn nín kěyǐ hé wǒmen tántán ma?"
+    },
+    {
+     "zh": "男：我們拒絕過許多尋求合作的廣告，為的就是不希望閱讀網頁充斥著一大堆的",
+     "py": "Nán: Wǒmen jùjué guò xǔduō xúnqiú hézuò de guǎnggào, wèi de jiùshì bù xīwàng yuèdú wǎngyè chōngchì zhù yídàduī de"
+    },
+    {
+     "zh": "商業廣告，而失去了原本單純閱讀的意義。雖然因此損失數十萬元以上的利",
+     "py": "Shāngyèguǎnggào, ér shīqù le yuánběn dānchún yuèdú de yìyì. Suīrán yīncǐ sǔnshī shùshíwànyuán yǐshàng de lì"
+    },
+    {
+     "zh": "益，但是我們始終堅持不走向商業化。另外，為了推廣閱讀，我們不僅經營",
+     "py": "Yì, dànshì wǒmen shǐzhōng jiānchí bù zǒuxiàng shāngyèhuà. Lìngwài, wèile tuīguǎng yuèdú, wǒmen bùjǐn jīngyíng"
+    },
+    {
+     "zh": "粉絲團，也舉辦交換書籍，以及讀書會等活動。",
+     "py": "Fěnsītuán, yě jǔbàn jiāohuàn shūjí, yǐjí dúshūhuì děng huódòng."
+    },
+    {
+     "zh": "女：網站經營這麼成功，不知道您對於未來有什麼規劃？",
+     "py": "Nǚ: Wǎngzhàn jīngyíng zhème chénggōng, bù zhīdào nín duìyú wèilái yǒu shénme guīhuà?"
+    },
+    {
+     "zh": "男：目前已經有企業委託我們帶領讀書會，我們也計劃辦理文學獎，未來還會跨",
+     "py": "Nán: Mùqián yǐjīng yǒu qǐyè wěituō wǒmen dàilǐng dúshūhuì, wǒmen yě jìhuà bànlǐ Wénxuéjiǎng, wèilái hái huì kuà"
+    },
+    {
+     "zh": "足電子書與實體出版等。",
+     "py": "Zú diànzishū yǔ shítǐ chūbǎn děng."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "記者對於「閱讀」網站的評價為何？",
+     "py": "Jìzhě duìyú “Yuèdú” wǎngzhàn de píngjià wèihé?"
+    }
+   ]
+  },
+  "13": {
+   "options": {
+    "A": {
+     "zh": "高明的行銷技巧",
+     "py": "Gāomíng de xíngxiāo jìqiǎo"
+    },
+    "B": {
+     "zh": "刊登內容嚴格把關",
+     "py": "Kāndēng nèiróng Yángébǎguān"
+    },
+    "C": {
+     "zh": "積極和廣告商合作",
+     "py": "Jījí hé guǎnggàoshāng hézuò"
+    },
+    "D": {
+     "zh": "不定期舉辦各類抽獎活動",
+     "py": "Búdìngqī jǔbàn gèlèi Chōujiǎng huódòng"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "根據創辦人的說法，「閱讀」網站成功的原因是什麼？",
+     "py": "Gēnjù chuàngbànrén de shuōfǎ, “Yuèdú” wǎngzhàn chénggōng de yuányīn shì shénme?"
+    }
+   ]
+  },
+  "14": {
+   "options": {
+    "A": {
+     "zh": "不對大眾開放",
+     "py": "Bù duì dàzhòng kāifàng"
+    },
+    "B": {
+     "zh": "不舉辦任何活動",
+     "py": "Bù jǔbàn rènhé huódòng"
+    },
+    "C": {
+     "zh": "不擴大網站規模",
+     "py": "Bù kuòdà wǎngzhàn guīmó"
+    },
+    "D": {
+     "zh": "不以營利為目的",
+     "py": "Bù yǐ yínglì wèi mùdì"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "「閱讀」網站的主張為何？",
+     "py": "“Yuèdú” wǎngzhàn de zhǔzhāng wèihé?"
+    }
+   ]
+  },
+  "15": {
+   "options": {
+    "A": {
+     "zh": "尋找贊助商",
+     "py": "Xúnzhǎo zànzhùshāng"
+    },
+    "B": {
+     "zh": "增加文章量",
+     "py": "Zēngjiā wénzhāng liàng"
+    },
+    "C": {
+     "zh": "多元化經營",
+     "py": "Duōyuánhuà jīngyíng"
+    },
+    "D": {
+     "zh": "和公益團體合作",
+     "py": "Hé gōngyì tuántǐ hézuò"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "根據訪談，「閱讀」網站的未來規劃如何？",
+     "py": "Gēnjù fǎngtán, “Yuèdú” wǎngzhàn de wèilái guīhuà rúhé?"
+    }
+   ]
+  },
+  "16": {
+   "passage": [
+    {
+     "zh": "請聽這段和「過動症」有關的討論，然後回答四個問題。現在請聽討論。",
+     "py": "Qǐng tīng zhè duàn hé “Guòdòngzhèng” yǒuguān de tǎolùn, ránhòu huídá sì ge wèntí. Xiànzài qǐng tīng tǎolùn."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "評估「過動症」的量表有重大瑕疵",
+     "py": "Pínggū “Guòdòngzhèng” de liàngbiǎo yǒu zhòngdà xiácī"
+    },
+    "B": {
+     "zh": "「過動症」患者的病徵與外在表現",
+     "py": "“Guòdòngzhèng” huànzhě de bìngzhēng yǔwài zài biǎoxiàn"
+    },
+    "C": {
+     "zh": "確診「過動症」的患者以兒童居多",
+     "py": "Quèzhěn “Guòdòngzhèng” de huànzhě yǐ értóng jūduō"
+    },
+    "D": {
+     "zh": "大眾對「過動症」患者的刻板印象",
+     "py": "Dàzhòng duì “Guòdòngzhèng” huànzhě de kèbǎn yìnxiàng"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這段和「過動症」有關的討論，然後回答四個問題。",
+     "py": "Qǐng tīng zhè duàn hé “Guòdòngzhèng” yǒuguān de tǎolùn, ránhòu huídá sì ge wèntí."
+    },
+    {
+     "zh": "現在請聽討論。",
+     "py": "Xiànzài qǐng tīng tǎolùn."
+    },
+    {
+     "zh": "男：在我教書的 30 多年裡，不乏有學生在課堂上無法集中注意力聽講、與人對",
+     "py": "Nán: Zài wǒ jiāoshū de 30 duōnián lǐ, bùfá yǒu xuéshēng zài kètáng shàng wúfǎ jízhōng zhùyìlì tīngjiǎng, yǔ rén duì"
+    },
+    {
+     "zh": "話心不在焉、寫作業時無法注意細節等等。但是近幾年這類型的學生卻被醫",
+     "py": "Huà xīnbúzàiyān, xiě zuòyè shí wúfǎ zhùyì xìjié děngděng. Dànshì jìnjǐnián zhè lèixíng de xuéshēng què bèi yī"
+    },
+    {
+     "zh": "療機構貼上「過動症」的標籤。真有這個病症嗎？",
+     "py": "Liáo jīgòu tiē shàng “Guòdòngzhèng” de biāoqiān. Zhēn yǒu zhè ge bìngzhèng ma?"
+    },
+    {
+     "zh": "女：「過動症」是醫學診斷的結果，主要和無法集中注意力有關。屬於精神醫學",
+     "py": "Nǚ: “Guòdòngzhèng” shì yīxué zhěnduàn de jiéguǒ, zhǔyào hé wúfǎ jízhōng zhùyìlì yǒuguān. Shǔyú jīngshén yīxué"
+    },
+    {
+     "zh": "範疇。隨著精神醫學日益發達，許多病症也開始受人關注。「過動症」就是",
+     "py": "Fànchóu. Suízhù jīngshén yīxué rìyì fādá, xǔduō bìngzhèng yě kāishǐ shòu rén guānzhù. “Guòdòngzhèng” jiùshì"
+    },
+    {
+     "zh": "其中一項。近年來，許多學童的家長都透過早期診斷、早期治療，使孩子在",
+     "py": "Qízhōng yíxiàng. Jìnniánlái, xǔduō xuétóng de jiāzhǎng dōu tòuguò zǎoqī zhěnduàn, zǎoqī zhìliáo, shǐ háizi zài"
+    },
+    {
+     "zh": "不同的場合能有適合的舉止表現。",
+     "py": "Bùtóng de chǎnghé néng yǒu shìhé de jǔzhǐ biǎoxiàn."
+    },
+    {
+     "zh": "男：但是，「不專心」這個問題貼個過動標籤就可以解決了嗎？有沒有可能是課",
+     "py": "Nán: Dànshì, “Bù zhuānxīn” zhè ge wèntí tiē gè guòdòng biāoqiān jiù kěyǐ jiějué le ma? Yǒuméiyǒu kěnéng shì kè"
+    },
+    {
+     "zh": "程太過枯燥乏味？或是出作業的老師過度要求細節？這些學生有他們的獨",
+     "py": "Chéngtài guò kūzàofáwèi? Huòshì chū zuòyè de lǎoshī guòdù yāoqiú xìjié? Zhèxiē xuéshēng yǒu tāmen de dú"
+    },
+    {
+     "zh": "特性，我們是不是過度強調團體教育裡的一致性，而抹殺了個體差異？我不",
+     "py": "Tèxìng, wǒmen shìbúshì guòdù qiángdiào tuántǐ jiàoyù lǐ de yízhìxìng, ér mǒshā le gètǐchāyì? Wǒ bù"
+    },
+    {
+     "zh": "反對從醫學來理解，但是我反對只從醫學來解決。也許我們應該更活化課堂",
+     "py": "Fǎnduì cóng yīxué lái lǐjiě, dànshì wǒ fǎnduì zhǐ cóng yīxué lái jiějué. Yěxǔ wǒmen yīnggāi gèng huóhuà kètáng"
+    },
+    {
+     "zh": "教學才是。",
+     "py": "Jiàoxué cái shì."
+    },
+    {
+     "zh": "女：醫學診斷是為了「治療」存在的，醫生要做的就是根據症狀開立處方。你的",
+     "py": "Nǚ: Yīxué zhěnduàn shì wèile “Zhìliáo” cúnzài de, yīshēng yào zuò de jiùshì gēnjù zhèngzhuàng kāilì chǔfāng. Nǐ de"
+    },
+    {
+     "zh": "想法確實很好，所以，你可以回你班上甚至是你的學校，實踐你的做法。",
+     "py": "Xiǎngfǎ quèshí hěn hǎo, suǒyǐ, nǐ kěyǐ huí nǐ bānshàng shènzhì shì nǐ de xuéxiào, shíjiàn nǐ de zuòfǎ."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "這位先生一開始提到什麼？",
+     "py": "Zhèwèi xiānsheng yī kāishǐ tídào shénme?"
+    }
+   ]
+  },
+  "17": {
+   "options": {
+    "A": {
+     "zh": "家長仍舊刻意忽視此病症",
+     "py": "Jiāzhǎng réngjiù kèyì hūshì cǐ bìngzhèng"
+    },
+    "B": {
+     "zh": "目前醫學仍無法解釋病症成因",
+     "py": "Mùqián yīxué réng wúfǎjiěshì bìngzhèng chéngyīn"
+    },
+    "C": {
+     "zh": "透過診斷，病童能獲得適當治療",
+     "py": "Tòuguò zhěnduàn, bìngtóng néng huòdé shìdàng zhìliáo"
+    },
+    "D": {
+     "zh": "此病症讓精神醫學往前跨一大步",
+     "py": "Cǐ bìngzhèng ràng jīngshén yīxué wǎngqián kuà yídàbù"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這位小姐對「過動症」的看法是什麼？",
+     "py": "Zhèwèi Xiǎojiě duì “Guòdòngzhèng” de kànfǎ shì shénme?"
+    }
+   ]
+  },
+  "18": {
+   "options": {
+    "A": {
+     "zh": "質疑團體教育已經不合時宜",
+     "py": "Zhìyí tuántǐ jiàoyù yǐjīng bùhéshíyí"
+    },
+    "B": {
+     "zh": "反對從醫學角度理解這個病症",
+     "py": "Fǎnduì cóng yīxué jiǎodù lǐjiě zhè ge bìngzhèng"
+    },
+    "C": {
+     "zh": "批評家長只會讓患者吃藥了事",
+     "py": "Pīpíng jiāzhǎng zhǐ huì ràng huànzhě chīyào le shì"
+    },
+    "D": {
+     "zh": "認為應該從教學著手改善的方法",
+     "py": "Rènwéi yīnggāi cóng jiàoxué zhùshǒu gǎishàn de fāngfǎ"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這位先生對「過動症」的看法為何？",
+     "py": "Zhèwèi xiānsheng duì “Guòdòngzhèng” de kànfǎ wèihé?"
+    }
+   ]
+  },
+  "19": {
+   "options": {
+    "A": {
+     "zh": "指出家長過度依賴醫學診斷",
+     "py": "Zhǐchū jiāzhǎng guòdù yīlài yīxué zhěnduàn"
+    },
+    "B": {
+     "zh": "說明醫生僅能從醫學診療著手",
+     "py": "Shuōmíng yīshēng jǐn néng cóng yīxué zhěnliáo zhùshǒu"
+    },
+    "C": {
+     "zh": "質疑這位先生對特殊學童的態度",
+     "py": "Zhìyí zhèwèi xiānsheng duì tèshū xuétóng de tàidù"
+    },
+    "D": {
+     "zh": "批評這位先生扭曲了醫學的本義",
+     "py": "Pīpíng zhèwèi xiānsheng niǔqū le yīxué de běnyì"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這位小姐為什麼提到「醫學診斷」？",
+     "py": "Zhèwèi Xiǎojiě wèishénme tídào “Yīxué zhěnduàn”?"
+    }
+   ]
+  },
+  "20": {
+   "passage": [
+    {
+     "zh": "請聽這段和「平均壽命」有關的討論，然後回答四個問題。現在請聽討論。",
+     "py": "Qǐng tīng zhè duàn hé “Píngjūnshòumìng” yǒuguān de tǎolùn, ránhòu huídá sì ge wèntí. Xiànzài qǐng tīng tǎolùn."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "延長壽命的方法",
+     "py": "Yáncháng shòumìng de fāngfǎ"
+    },
+    "B": {
+     "zh": "平均壽命延長的原因",
+     "py": "Píngjūnshòumìng yáncháng de yuányīn"
+    },
+    "C": {
+     "zh": "平均壽命計算的方式",
+     "py": "Píngjūnshòumìng jìsuàn de fāngshì"
+    },
+    "D": {
+     "zh": "全球男女的平均壽命值",
+     "py": "Quánqiú nánnǚ de píngjūnshòumìng zhí"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這段和「平均壽命」有關的討論，然後回答四個問題。",
+     "py": "Qǐng tīng zhè duàn hé “Píngjūnshòumìng” yǒuguān de tǎolùn, ránhòu huídá sì ge wèntí."
+    },
+    {
+     "zh": "現在請聽討論。",
+     "py": "Xiànzài qǐng tīng tǎolùn."
+    },
+    {
+     "zh": "男：我跟你說個好消息。根據內政部統計資料顯示，我國男性與女性的平均壽命",
+     "py": "Nán: Wǒ gēn nǐ shuō gè hǎoxiāoxī. Gēnjù Nèizhèngbù tǒngjìzīliào xiǎnshì, wǒguó nánxìng yǔ nǚxìng de píngjūnshòumìng"
+    },
+    {
+     "zh": "都比全球平均壽命高出很多，這與我國醫療環境極佳和保險制度成熟有關。",
+     "py": "Dōu bǐ quánqiú píngjūnshòumìng gāochū hěnduō, zhè yǔ wǒguó yīliáo huánjìng jíjiā hé bǎoxiǎnzhìdù chéngshú yǒuguān."
+    },
+    {
+     "zh": "女：嗯，聽起來似乎是個好消息，可是這則消息只說其一，未說其二。你知道這",
+     "py": "Nǚ: ń, tīng qǐlái sìhū shì gè hǎoxiāoxī, kěshì zhè zé xiāoxī zhǐ shuō qíyī, wèi shuō qíèr. Nǐ zhīdào zhè"
+    },
+    {
+     "zh": "多出來的壽命很有可能都是躺在床上度過的。依據衛福部的資料顯示，國人",
+     "py": "Duō chūlái de shòumìng hěn yǒu kěnéng dōu shì tǎng zài chuángshàng dùguò de. Yījù Wèifúbù de zīliào xiǎnshì, guórén"
+    },
+    {
+     "zh": "一生中需要長期照護的時段大約是 7.3 年。你看，壽命是延長了，但是只能",
+     "py": "Yìshēng zhōng xūyào chángqī zhàohù de shíduàn dàyuē shì 7.3 nián. Nǐ kàn, shòumìng shì yáncháng le, dànshì zhǐnéng"
+    },
+    {
+     "zh": "靠呼吸器活著，你覺得這樣的壽命有意義嗎？",
+     "py": "Kào hūxīqì huózhù, nǐ juéde zhèyàng de shòumìng yǒu yìyì ma?"
+    },
+    {
+     "zh": "男：這麼糟糕？感覺就是延長了壽命，但卻犧牲掉了生活品質。我聽說，目前老",
+     "py": "Nán: Zhème zāogāo? Gǎnjué jiùshì yáncháng le shòumìng, dàn què xīshēng diào le shēnghuópǐnzhì. Wǒ tīngshuō, mùqián lǎo"
+    },
+    {
+     "zh": "年失智的人口逐年攀升，若是老了以後卻無法自由活動，這不是苟延殘喘",
+     "py": "Nián shīzhì de rénkǒu zhúnián pānshēng, ruò shì lǎo le yǐhòu què wúfǎ zìyóu huódòng, zhè búshì gǒuyáncánchuǎn"
+    },
+    {
+     "zh": "嗎？",
+     "py": "Ma?"
+    },
+    {
+     "zh": "女：對啊！所以不要聽到壽命延長就高興。我們既然要活，就要活得有面子也有",
+     "py": "Nǚ: Duì a! Suǒyǐ búyào tīngdào shòumìng yáncháng jiù gāoxìng. Wǒmen jìrán yào huó, jiùyào huódé yǒu miànzi yě yǒu"
+    },
+    {
+     "zh": "裡子。首先，我們先了解目前政府已規劃好「照顧老齡生活」的政策；然後，",
+     "py": "Lǐzi. Shǒuxiān, wǒmen xiān liǎojiě mùqián zhèngfǔ yǐ guīhuà hǎo “Zhàogù lǎolíng shēnghuó” de zhèngcè; ránhòu,"
+    },
+    {
+     "zh": "要預防老年失智，你就別老待在家裡，我們要多去外面走走、運動，把老本",
+     "py": "Yào yùfáng lǎonián shīzhì, nǐ jiùbié lǎo dàizàijiālǐ, wǒmen yào duō qù wàimiàn zǒuzǒu, yùndòng, bǎ lǎoběn"
+    },
+    {
+     "zh": "先養好。",
+     "py": "Xiānyǎng hǎo."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "關於我國壽命，這位先生一開始說了什麼？",
+     "py": "Guānyú wǒguó shòumìng, zhèwèi xiānsheng yī kāishǐ shuō le shénme?"
+    }
+   ]
+  },
+  "21": {
+   "options": {
+    "A": {
+     "zh": "令人愉悅",
+     "py": "Lìngrén yúyuè"
+    },
+    "B": {
+     "zh": "不值一提",
+     "py": "Bùzhíyìtí"
+    },
+    "C": {
+     "zh": "內容不完全",
+     "py": "Nèiróng bù wánquán"
+    },
+    "D": {
+     "zh": "可信度令人懷疑",
+     "py": "Kěxìndù Lìngrén huáiyí"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這位小姐對於這則消息的看法為何？",
+     "py": "Zhèwèi Xiǎojiě duìyú zhè zé xiāoxī de kànfǎ wèihé?"
+    }
+   ]
+  },
+  "22": {
+   "options": {
+    "A": {
+     "zh": "醫療品質",
+     "py": "Yīliáo pǐnzhì"
+    },
+    "B": {
+     "zh": "保險制度",
+     "py": "Bǎoxiǎnzhìdù"
+    },
+    "C": {
+     "zh": "長照體系",
+     "py": "Zhǎng zhào tǐxì"
+    },
+    "D": {
+     "zh": "老齡生活",
+     "py": "Lǎolíng shēnghuó"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "在對話中，這位先生用「苟延殘喘」形容什麼？",
+     "py": "Zài duìhuà zhōng, zhèwèi xiānsheng yòng “Gǒuyáncánchuǎn” xíngróng shénme?"
+    }
+   ]
+  },
+  "23": {
+   "options": {
+    "A": {
+     "zh": "開始全面關照老年失智的問題",
+     "py": "Kāishǐ quánmiàn guānzhào lǎonián shīzhì de wèntí"
+    },
+    "B": {
+     "zh": "已經擬定好年長者的照護制度",
+     "py": "Yǐjīng nǐdìng hǎo niánzhǎngzhě de zhàohù zhìdù"
+    },
+    "C": {
+     "zh": "已經開始著手興建大型養老院",
+     "py": "Yǐjīng kāishǐ zhùshǒu xīngjiàn dàxíng Yǎnglǎoyuàn"
+    },
+    "D": {
+     "zh": "投入大量經費，優化醫療環境",
+     "py": "Tóurù dàliàng jīngfèi, yōuhuà yīliáo huánjìng"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "根據對話，目前政府做了什麼事？",
+     "py": "Gēnjù duìhuà, mùqián zhèngfǔ zuò le shénme shì?"
+    }
+   ]
+  },
+  "24": {
+   "passage": [
+    {
+     "zh": "兩位大學生針對「虛與委蛇」這個成語，在課堂上爭辯了起來，以下是他們討論的內容，請聽完後回答四個問題。",
+     "py": "Liǎngwèi dàxuéshēng zhēnduì “Xūyǔwēiyí” zhè ge chéngyǔ, zài kètáng shàng zhēngbiàn le qǐlái, yǐxià shì tāmen tǎolùn de nèiróng, qǐng tīng wán hòu huídá sì ge wèntí."
+    },
+    {
+     "zh": "現在請聽討論。",
+     "py": "Xiànzài qǐng tīng tǎolùn."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "虛情假意",
+     "py": "Xūqíngjiǎyì"
+    },
+    "B": {
+     "zh": "肝膽相照",
+     "py": "Gāndǎnxiāngzhào"
+    },
+    "C": {
+     "zh": "委曲求全",
+     "py": "Wěiqūqiúquán"
+    },
+    "D": {
+     "zh": "杯弓蛇影",
+     "py": "Bēigōngshéyǐng"
+    }
+   },
+   "intro": [
+    {
+     "zh": "兩位大學生針對「虛與委蛇」這個成語，在課堂上爭辯了起來，以下是他們討論",
+     "py": "Liǎngwèi dàxuéshēng zhēnduì “Xūyǔwēiyí” zhè ge chéngyǔ, zài kètáng shàng zhēngbiàn le qǐlái, yǐxià shì tāmen tǎolùn"
+    },
+    {
+     "zh": "的內容，請聽完後回答四個問題。",
+     "py": "De nèiróng, qǐng tīng wán hòu huídá sì ge wèntí."
+    },
+    {
+     "zh": "現在請聽討論。",
+     "py": "Xiànzài qǐng tīng tǎolùn."
+    },
+    {
+     "zh": "男：當年清朝因為戰敗一事，派李鴻章與戰勝國家議和時，告知李鴻章，不論對",
+     "py": "Nán: Dāngnián qīngcháo yīnwèi zhànbài yíshì, pài Lǐhóngzhāng yǔ zhànshèng guójiā yìhé shí, gàozhī Lǐhóngzhāng, búlùn duì"
+    },
+    {
+     "zh": "方提出什麼要求，虛與委蛇就好，不用真的跟對方談出什麼。「虛與委蛇」",
+     "py": "Fāng tíchū shénme yāoqiú, xūyǔwēiyí jiù hǎo, búyòng zhēnde gēn duìfāng tán chū shénme. “Xūyǔwēiyí”"
+    },
+    {
+     "zh": "根據國語辭典的解釋就是敷衍應酬。",
+     "py": "Gēnjù Guóyǔ cídiǎn de jiěshì jiùshì fūyǎn yìngchóu."
+    },
+    {
+     "zh": "女：追本溯源。「虛與委蛇」語出《莊子》。話說，在當時的鄭國有位很厲害的神",
+     "py": "Nǚ: Zhuīběnsùyuán. “Xūyǔwēiyí” yǔ chū «Zhuāngzi». Huà shuō, zài dāngshí de Zhèng guóyǒu wèi hěn lìhài de shén"
+    },
+    {
+     "zh": "巫，算命極準。這時有位也是算命大師的壺子就來挑戰神巫。他連續四天裝",
+     "py": "Wū, suànmìng jízhǔn. Zhèshí yǒuwèi yě shì suànmìng dàshī de húzi jiù lái tiǎozhàn shénwū. Tā liánxù sìtiān zhuāng"
+    },
+    {
+     "zh": "出四種不同的氣色，先是死氣沈沈、再來生氣盎然、接著深不可測、最後飄",
+     "py": "Chū sìzhǒng bùtóng de qìsè, xiānshì Sǐqìshěnshěn, zài lái shēngqì àngrán, jiēzhù shēnbùkěcè, zuìhòu piāo"
+    },
+    {
+     "zh": "忽不定，「虛與委蛇」說的正是最後一天的狀態。強調的是心境空虛寂靜，",
+     "py": "Hū búdìng, “Xūyǔwēiyí” shuō de zhèngshì zuìhòu yìtiān de zhuàngtài. Qiángdiào de shì xīnjìng kōngxū jìjìng,"
+    },
+    {
+     "zh": "隨物變化。和你剛說的意思相差不止十萬八千里了。",
+     "py": "Suíwù biànhuà. Hé nǐ gāng shuō de yìsi xiāngchà bùzhǐ shíwànbāqiānlǐ le."
+    },
+    {
+     "zh": "男：嗯，追本溯源，確實有你剛提的意思，但是，你也說了「隨物變化」。這不",
+     "py": "Nán: ń, zhuīběnsùyuán, quèshí yǒu nǐ gāng tí de yìsi, dànshì, nǐ yě shuō le “Suíwù biànhuà”. Zhè bù"
+    },
+    {
+     "zh": "就是我剛說的，只要附和對方說的話就好了，萬法歸一嘛！",
+     "py": "Jiùshì wǒ gāng shuō de, zhǐyào fùhè duìfāng shuō dehuà jiù hǎo le, wàn fǎ guī yī ma!"
+    },
+    {
+     "zh": "女：歸哪啊？我剛說了，「心境空虛寂靜」這句話吧！要能先無欲無求才能空虛",
+     "py": "Nǚ: Guī nǎ a? Wǒ gāng shuō le, “Xīnjìng kōngxū jìjìng” zhè jù huà ba! Yàonéng xiānwúyùwúqiú cáinéng kōngxū"
+    },
+    {
+     "zh": "寂靜，才能順著萬物變化而變化，強調的是本心的澄澈，也同時凸顯老莊的",
+     "py": "Jìjìng, cáinéng shùnzhù wànwù biànhuà ér biànhuà, qiángdiào de shì běnxīn de chéngchè, yě tóngshí tūxiǎn Lǎozhuāng de"
+    },
+    {
+     "zh": "「無欲而求」的哲學思想…你聽話聽一半，真是不求甚解啊！",
+     "py": "“Wúyùérqiú” de zhéxuésīxiǎng… nǐ tīnghuà tīng yíbàn, zhēnshì bùqiúshènjiě a!"
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "這位先生提到的「虛與委蛇」，意思和下面哪一個相近？",
+     "py": "Zhèwèi xiānsheng tídào de “Xūyǔwēiyí”, yìsi hé xiàmiàn nǎ yí ge xiāngjìn?"
+    }
+   ]
+  },
+  "25": {
+   "options": {
+    "A": {
+     "zh": "舉辭典例句來解釋",
+     "py": "Jǔ cídiǎn lìjù lái jiěshì"
+    },
+    "B": {
+     "zh": "從詞語的出處來解釋",
+     "py": "Cóng cíyǔ de chūchǔ lái jiěshì"
+    },
+    "C": {
+     "zh": "從現代人的用法來解釋",
+     "py": "Cóng xiàndàirén de yòngfǎ lái jiěshì"
+    },
+    "D": {
+     "zh": "逐字解釋每個字的意思",
+     "py": "Zhúzì jiěshì měi ge zì de yìsi"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這位小姐怎麼解釋「虛與委蛇」？",
+     "py": "Zhèwèi Xiǎojiě zěnme jiěshì “Xūyǔwēiyí”?"
+    }
+   ]
+  },
+  "26": {
+   "options": {
+    "A": {
+     "zh": "音讀",
+     "py": "Yīndú"
+    },
+    "B": {
+     "zh": "出處",
+     "py": "Chūchǔ"
+    },
+    "C": {
+     "zh": "詞性",
+     "py": "Cíxìng"
+    },
+    "D": {
+     "zh": "語意",
+     "py": "Yǔyì"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這位先生與這位小姐對於這個成語的分歧點是什麼？",
+     "py": "Zhèwèi xiānsheng yǔ zhèwèi Xiǎojiě duìyú zhè ge chéngyǔ de fēnqídiǎn shì shénme?"
+    }
+   ]
+  },
+  "27": {
+   "options": {
+    "A": {
+     "zh": "他斷章取義",
+     "py": "Tā duànzhāngqǔyì"
+    },
+    "B": {
+     "zh": "他考證不實",
+     "py": "Tā kǎozhèng bù shí"
+    },
+    "C": {
+     "zh": "他沒有旁徵博引",
+     "py": "Tā méiyǒu pángzhēngbóyǐn"
+    },
+    "D": {
+     "zh": "他沒有舉一反三",
+     "py": "Tā méiyǒu jǔyìfǎnsān"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這位小姐最後為什麼認為這位先生「不求甚解」？",
+     "py": "Zhèwèi Xiǎojiě zuìhòu wèishénme rènwéi zhèwèi xiānsheng “Bùqiúshènjiě”?"
+    }
+   ]
+  },
+  "28": {
+   "passage": [
+    {
+     "zh": "「鑽石恆久遠，一顆就破產」，這是一句打趣的話，但是也透露出「鑽石」的身價不菲。",
+     "py": "“Zuànshí héngjiǔyuǎn, yìkē jiù pòchǎn”, zhè shì yíjù dǎqù dehuà, dànshì yě tòulù chū “Zuànshí” de shēnjià bùfēi."
+    },
+    {
+     "zh": "請聽這段和此有關的報導，然後回答四個問題。",
+     "py": "Qǐng tīng zhè duàn hé cǐ yǒuguān de bàodǎo, ránhòu huídá sì ge wèntí."
+    },
+    {
+     "zh": "現在請聽報導。",
+     "py": "Xiànzài qǐng tīng bàodǎo."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "能降低採礦成本",
+     "py": "Néng jiàngdī cǎikuàng chéngběn"
+    },
+    "B": {
+     "zh": "能避免血汗勞動爭議",
+     "py": "Néng bìmiǎn xuèhàn láodòng zhēngyì"
+    },
+    "C": {
+     "zh": "人造鑽石將被大量製造",
+     "py": "Rénzào zuànshí jiāng bèi dàliàng zhìzào"
+    },
+    "D": {
+     "zh": "人造鑽石完全能以假亂真",
+     "py": "Rénzào zuànshí wánquán néng yǐjiǎluànzhēn"
+    }
+   },
+   "intro": [
+    {
+     "zh": "「鑽石恆久遠，一顆就破產」，這是一句打趣的話，但是也透露出「鑽石」的身",
+     "py": "“Zuànshí héngjiǔyuǎn, yìkē jiù pòchǎn”, zhè shì yíjù dǎqù dehuà, dànshì yě tòulù chū “Zuànshí” de shēn"
+    },
+    {
+     "zh": "價不菲。請聽這段和此有關的報導，然後回答四個問題。",
+     "py": "Jià bùfēi. Qǐng tīng zhè duàn hé cǐ yǒuguān de bàodǎo, ránhòu huídá sì ge wèntí."
+    },
+    {
+     "zh": "現在請聽報導。",
+     "py": "Xiànzài qǐng tīng bàodǎo."
+    },
+    {
+     "zh": "研究團隊宣稱，只要幾天時間，他們就能在實驗室「養」出一顆 1 克拉鑽石。",
+     "py": "Yánjiū tuánduì xuānchēng, zhǐyào jǐtiān shíjiān, tāmen jiù néng zài shíyànshì “Yǎng” chū yìkē 1 Kèlā zuànshí."
+    },
+    {
+     "zh": "而且跟在地球深處躺了幾百萬年的鑽石沒有任何區別。因為沒有大費周章挖礦開",
+     "py": "Érqiě gēn zài dìqiú shēnchù tǎng le jǐbǎiwànnián de zuànshí méiyǒu rènhé qūbié. Yīnwèi méiyǒu dàfèizhōuzhāng wākuàng kāi"
+    },
+    {
+     "zh": "採的昂貴成本，這些人造鑽石在市場上的售價比天然鑽石低 20%到 40%不等，",
+     "py": "Cǎi de ángguì chéngběn, zhèxiē rénzào zuànshí zài shìchǎng shàng de shòujià bǐ tiānrán zuànshí dī 20 % dào 40 % bù děng,"
+    },
+    {
+     "zh": "對囊中羞澀的小情侶來說非常有吸引力。隨著技術的成熟與市場需求，將會讓開",
+     "py": "Duì nángzhōngxiūsè de xiǎo qínglǚ láishuō fēicháng yǒu xīyǐnlì. Suízhù jìshù de chéngshú yǔ shìchǎngxūqiú, jiāng huì ràngkāi"
+    },
+    {
+     "zh": "發成本降低，而價格的優勢也將益發顯著。",
+     "py": "Fā chéngběn jiàngdī, ér jiàgé de yōushì yě jiāng Yìfā xiǎnzhù."
+    },
+    {
+     "zh": "但是，鑽石生產商協會的首席執行官對此不以為然。他表示，在人們眼裡，",
+     "py": "Dànshì, zuànshí shēngchǎnshāng xiéhuì de shǒuxí zhíxíngguān duìcǐ bùyǐwéirán. Tā biǎoshì, zài rénmen yǎnlǐ,"
+    },
+    {
+     "zh": "天然鑽石是帶有情感價值的，而人造鑽石只是廉價的工業複製品。英國珠寶商也",
+     "py": "Tiānrán zuànshí shì dàiyǒu qínggǎn jiàzhí de, ér rénzào zuànshí zhǐshì liánjià de gōngyè fùzhìpǐn. Yīngguó Zhūbǎoshāng yě"
+    },
+    {
+     "zh": "表示，情感無法被量化，所以多數人還是會選擇買天然鑽石。",
+     "py": "Biǎoshì, qínggǎn wúfǎ bèi liànghuà, suǒyǐ duōshù rén háishì huì xuǎnzé mǎi tiānrán zuànshí."
+    },
+    {
+     "zh": "高不可攀的鑽石售價，源自於 1947 年的廣告詞「鑽石恆久遠，一顆永留傳」，",
+     "py": "Gāobùkěpān de zuànshí shòujià, yuánzì yú 1947 nián de guǎnggàocí “Zuànshí héngjiǔyuǎn, yìkē Yǒng liúchuán”,"
+    },
+    {
+     "zh": "讓鑽石業者成功的利用鑽石，綁架了婚姻裡幸福的承諾。成功的行銷伎倆使得鑽",
+     "py": "Ràng zuànshí yèzhě chénggōng de lìyòng zuànshí, bǎngjià le hūnyīn lǐ xìngfú de chéngnuò. Chénggōng de xíngxiāo jìliǎng shǐde zuān"
+    },
+    {
+     "zh": "石身價一路飆漲，終至閃耀璀璨光芒。",
+     "py": "Shí shēnjià yílù biāozhǎng, zhōngzhì shǎnyào cuǐcàn guāngmáng."
+    },
+    {
+     "zh": "而對於珠寶商的說辭，該研究團隊僅簡單回應：這兩顆石頭根本沒有任何區",
+     "py": "Ér duìyú Zhūbǎoshāng de shuōcí, gāi yánjiū tuánduì jǐn jiǎndān huíyìng: Zhè liǎngkē shítou gēnběn méiyǒu rènhé qū"
+    },
+    {
+     "zh": "別，都是「碳原子」。",
+     "py": "Bié, dōu shì “Tànyuánzi”."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "研究團隊提到「技術的成熟與市場需求」，其意為何？",
+     "py": "Yánjiū tuánduì tídào “Jìshù de chéngshú yǔ shìchǎngxūqiú”, qíyì wèihé?"
+    }
+   ]
+  },
+  "29": {
+   "options": {
+    "A": {
+     "zh": "將掀起市場的價格戰",
+     "py": "Jiāng xiānqǐ shìchǎng de jiàgézhàn"
+    },
+    "B": {
+     "zh": "無法與人類的情感相互共鳴",
+     "py": "Wúfǎ yǔ rénlèi de qínggǎn xiānghù gòngmíng"
+    },
+    "C": {
+     "zh": "將改變多數人對鑽石的印象",
+     "py": "Jiāng gǎibiàn duōshù rén duì zuànshí de yìnxiàng"
+    },
+    "D": {
+     "zh": "人們會更關注天然鑽石的稀有性",
+     "py": "Rénmen huì gèng guānzhù tiānrán zuànshí de xīyǒuxìng"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "鑽石生產商協會的首席執行官對人造鑽石的看法為何？",
+     "py": "Zuànshí shēngchǎnshāng xiéhuì de shǒuxí zhíxíngguān duì rénzào zuànshí de kànfǎ wèihé?"
+    }
+   ]
+  },
+  "30": {
+   "options": {
+    "A": {
+     "zh": "批判一般人盲目從眾的心理狀態",
+     "py": "Pīpàn yìbān rén mángmù cóngzhòng de xīnlǐ zhuàngtài"
+    },
+    "B": {
+     "zh": "指出人們對「美好概念」的嚮往",
+     "py": "Zhǐchū rénmen duì “Měihǎo gàiniàn” de xiàngwǎng"
+    },
+    "C": {
+     "zh": "困惑高單價產品和成本間的關係",
+     "py": "Kùnhuò gāo dānjià chǎnpǐn hé chéngběn jiān de guānxì"
+    },
+    "D": {
+     "zh": "諷刺天然鑽石價值已被過度吹捧",
+     "py": "Fěngcì tiānrán zuànshí jiàzhí yǐ bèi guòdù chuīpěng"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "說話的人提到「鑽石恆久遠」廣告詞，主要想表達什麼？",
+     "py": "Shuōhuà de rén tídào “Zuànshí héngjiǔyuǎn” guǎnggàocí, zhǔyào xiǎng biǎodá shénme?"
+    }
+   ]
+  },
+  "31": {
+   "options": {
+    "A": {
+     "zh": "價格天差地遠",
+     "py": "Jiàgé tiānchādìyuǎn"
+    },
+    "B": {
+     "zh": "本質始終如一",
+     "py": "Běnzhì shǐzhōngrúyī"
+    },
+    "C": {
+     "zh": "人造鑽石，幾可亂真",
+     "py": "Rénzào zuànshí, jǐ kě luànzhēn"
+    },
+    "D": {
+     "zh": "天然鑽石，沽名釣譽",
+     "py": "Tiānrán zuànshí, gūmíngdiàoyù"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "研究團隊對於兩種鑽石的看法為何？",
+     "py": "Yánjiū tuánduì duìyú liǎngzhǒng zuànshí de kànfǎ wèihé?"
+    }
+   ]
+  },
+  "32": {
+   "passage": [
+    {
+     "zh": "人們進行道德判斷時，是出於直覺、本能？",
+     "py": "Rénmen jìnxíng Dàodé pànduàn shí, shì chūyú zhíjué, běnnéng?"
+    },
+    {
+     "zh": "還是經過理性分析？",
+     "py": "Háishì jīngguò lǐxìngfēnxī?"
+    },
+    {
+     "zh": "有研究生將人們判斷時的心理活動歸納出「行動原則」與「意圖原則」，並進行分析。",
+     "py": "Yǒu yánjiūshēng jiāng rénmen pànduàn shí de xīnlǐ huódòng guīnà chū “Xíngdòng yuánzé” yǔ “Yìtú yuánzé”, bìng jìnxíng fēnxī."
+    },
+    {
+     "zh": "以下是授課教授對此份報告提出的評論，請聽完後回答四個問題。",
+     "py": "Yǐxià shì shòukè jiàoshòu duìcǐ fèn bàogào tíchū de pínglùn, qǐng tīng wán hòu huídá sì ge wèntí."
+    },
+    {
+     "zh": "現在請聽評論。",
+     "py": "Xiànzài qǐng tīng pínglùn."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "因為多數人會採取行動",
+     "py": "Yīnwèi duōshù rénhuì cǎiqǔxíngdòng"
+    },
+    "B": {
+     "zh": "因為善意是經過學習而來的",
+     "py": "Yīnwèi shànyì shì jīngguò xuéxí érlái de"
+    },
+    "C": {
+     "zh": "因為救人的思維與步驟具因果關係",
+     "py": "Yīnwèi jiùrén de sīwéi yǔ bùzhòu jù yīnguǒguānxì"
+    },
+    "D": {
+     "zh": "因為人們可以清楚說明救人的依據",
+     "py": "Yīnwèi rénmen kěyǐ qīngchǔ shuōmíng jiùrén de yījù"
+    }
+   },
+   "intro": [
+    {
+     "zh": "人們進行道德判斷時，是出於直覺、本能？還是經過理性分析？有研究生將人們",
+     "py": "Rénmen jìnxíng Dàodé pànduàn shí, shì chūyú zhíjué, běnnéng? Háishì jīngguò lǐxìngfēnxī? Yǒu yánjiūshēng jiāng rénmen"
+    },
+    {
+     "zh": "判斷時的心理活動歸納出「行動原則」與「意圖原則」，並進行分析。以下是授",
+     "py": "Pànduàn shí de xīnlǐ huódòng guīnà chū “Xíngdòng yuánzé” yǔ “Yìtú yuánzé”, bìng jìnxíng fēnxī. Yǐxià shì shòu"
+    },
+    {
+     "zh": "課教授對此份報告提出的評論，請聽完後回答四個問題。",
+     "py": "Kè jiàoshòu duìcǐ fèn bàogào tíchū de pínglùn, qǐng tīng wán hòu huídá sì ge wèntí."
+    },
+    {
+     "zh": "現在請聽評論。",
+     "py": "Xiànzài qǐng tīng pínglùn."
+    },
+    {
+     "zh": "根據這份研究的結論，「意圖原則」一致性最低、「行動原則」的一致性最高。",
+     "py": "Gēnjù zhèfèn yánjiū de jiélùn, “Yìtú yuánzé” yízhìxìng zuìdī, “Xíngdòng yuánzé” de yízhìxìng zuìgāo."
+    },
+    {
+     "zh": "研究者認為，越多人趨向某一使用原則，就表示此原則是經過個人理性分析後得",
+     "py": "Yánjiūzhě rènwéi, yuè duō rén qūxiàng mǒu yī shǐyòng yuánzé, jiù biǎoshì cǐ yuánzé shì jīngguò gèrén lǐxìngfēnxī hòu dé"
+    },
+    {
+     "zh": "出的結果，所以「道德判斷」不是出於「直覺」而是理性判斷後的結果。因此，",
+     "py": "Chū de jiéguǒ, suǒyǐ “Dàodé pànduàn” búshì chūyú “Zhíjué” érshì lǐxìng pànduàn hòu de jiéguǒ. Yīncǐ,"
+    },
+    {
+     "zh": "善意應該時刻被砥礪。",
+     "py": "Shànyì yīnggāi shíkè bèi dǐlì."
+    },
+    {
+     "zh": "我注意到在這份報告中，許多受訪者表示，當情勢危急時，自己一定會救人，",
+     "py": "Wǒ zhùyì dào zài zhèfèn bàogào zhōng, xǔduō shòufǎngzhě biǎoshì, dāng qíngshì wēijí shí, zìjǐ yídìng huì jiùrén,"
+    },
+    {
+     "zh": "但是無法判斷會做出什麼行動？當下也無法思考該行動是否是最有效的方法？",
+     "py": "Dànshì wúfǎ pànduàn huì zuòchū shénme xíngdòng? Dāngxià yě wúfǎ sīkǎo gāi xíngdòng shìfǒushì zuì yǒuxiào de fāngfǎ?"
+    },
+    {
+     "zh": "我不認同研究者將「大眾的趨向」等同於「理性」，所以我不認同「道德判",
+     "py": "Wǒ bù rèntóng yánjiūzhě jiāng “Dàzhòng de qūxiàng” děngtóngyú “Lǐxìng”, suǒyǐ wǒ bù rèntóng “Dàodé pàn"
+    },
+    {
+     "zh": "斷」是出於理性分析。從受訪者的反應顯示，每個人在面對緊急情況時，本能的",
+     "py": "Duàn” shì chūyú lǐxìngfēnxī. Cóng shòufǎngzhě de fǎnyìng xiǎnshì, měi ge rén zài miànduì jǐnjíqíngkuàng shí, běnnéng de"
+    },
+    {
+     "zh": "有所做為，才有「行動原則」較具一致性的結果。而「意圖原則」指的是做決定",
+     "py": "Yǒusuǒ zuò wèi, cái yǒu “Xíngdòng yuánzé” jiào jù yízhìxìng de jiéguǒ. Ér “Yìtú yuánzé” zhǐ de shì zuò juédìng"
+    },
+    {
+     "zh": "的當下，所考量的方方面面。正因為人各有異，理性分析以後，結果不盡相同，",
+     "py": "De dāngxià, suǒ kǎoliáng de fāngfāngmiànmiàn. Zhèng yīnwèi rén gè yǒu yì, lǐxìngfēnxī yǐhòu, jiéguǒ bújìnxiāngtóng,"
+    },
+    {
+     "zh": "才較不具一致性。所以，我認為，「道德判斷是出於本能」。",
+     "py": "Cái jiào bújù yízhìxìng. Suǒyǐ, wǒ rènwéi, “Dàodé pànduàn shì chūyú běnnéng”."
+    },
+    {
+     "zh": "人類意識中本能的善意，使人能毫不遲疑的救人於水火之中。但是我認同報",
+     "py": "Rénlèi yìshí zhōng běnnéng de shànyì, shǐ rén néng háobùchíyí de jiùrén yú shuǐhuǒzhīzhōng. Dànshì wǒ rèntóng bào"
+    },
+    {
+     "zh": "告中提出的，「善意」確實是需要被時刻提醒與實踐的。",
+     "py": "Gàozhōng tíchū de, “Shànyì” quèshí shì xūyào bèi shíkè tíxǐng yǔ shíjiàn de."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "研究生為什麼認為人們進行道德判斷時，是經過理性的分析？",
+     "py": "Yánjiūshēng wèishénme rènwéi rénmen jìnxíng Dàodé pànduàn shí, shì jīngguò lǐxìng de fēnxī?"
+    }
+   ]
+  },
+  "33": {
+   "options": {
+    "A": {
+     "zh": "反駁研究報告的結論",
+     "py": "Fǎnbó yánjiū bàogào de jiélùn"
+    },
+    "B": {
+     "zh": "補充研究者提出的原則",
+     "py": "Bǔchōng yánjiūzhě tíchū de yuánzé"
+    },
+    "C": {
+     "zh": "總結研究者提出的論點",
+     "py": "Zǒngjié yánjiūzhě tíchū de lùndiǎn"
+    },
+    "D": {
+     "zh": "主要說明研究報告的內容",
+     "py": "Zhǔyào shuōmíng yánjiū bàogào de nèiróng"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "說話者為什麼引用受訪者訪談的內容？",
+     "py": "Shuōhuà zhě wèishénme yǐnyòng shòufǎngzhě fǎngtán de nèiróng?"
+    }
+   ]
+  },
+  "34": {
+   "options": {
+    "A": {
+     "zh": "因為意圖本身無法被驗證",
+     "py": "Yīnwèi yìtú běnshēn wúfǎ bèi yànzhèng"
+    },
+    "B": {
+     "zh": "因為善意是經由後天培養",
+     "py": "Yīnwèi shànyì shì jīngyóu hòutiān péiyǎng"
+    },
+    "C": {
+     "zh": "因為每個人思考的面向不一",
+     "py": "Yīnwèi měi ge rén sīkǎo de miànxiàng bù yī"
+    },
+    "D": {
+     "zh": "因為每個人對意圖的解釋不同",
+     "py": "Yīnwèi měi ge rén duì yìtú de jiěshì bùtóng"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "說話者認為，為何多數人在「意圖原則」上一致性較低？",
+     "py": "Shuōhuà zhě rènwéi, wèihé duōshù rén zài “Yìtú yuánzé” shàng yízhìxìng jiào dī?"
+    }
+   ]
+  },
+  "35": {
+   "options": {
+    "A": {
+     "zh": "人善被人欺",
+     "py": "Rén shàn bèi rén qī"
+    },
+    "B": {
+     "zh": "為善不欲人知",
+     "py": "Wèi shànbúyùrénzhī"
+    },
+    "C": {
+     "zh": "勿以善小而不為",
+     "py": "Wù yǐ shànxiǎoér bù wèi"
+    },
+    "D": {
+     "zh": "人無善與不善之分",
+     "py": "Rén wúshàn yǔ búshàn zhī fēn"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "說話者與研究生都認同下面哪一句話？",
+     "py": "Shuōhuà zhě yǔ yánjiūshēng dōu rèntóng xiàmiàn nǎ yíjù huà?"
+    }
+   ]
+  },
+  "36": {
+   "passage": [
+    {
+     "zh": "武則天，中國第一位也是唯一的一位女皇帝，在中國歷史上卻是毀譽參半，她在丈夫過世兩年後，以一首短詩「如意娘」，贏得新任君主的青睞，而成為新君的后妃，最後登上帝位。",
+     "py": "Wǔzétiān, Zhōngguó dìyíwèi yě shì wéiyī de yíwèi nǚ huángdì, zài Zhōngguó lìshǐ shàng quèshì huǐyùcānbàn, tā zài zhàngfū guòshì liǎngnián hòu, yǐ yìshǒu duǎnshī “Rúyì niáng”, yíngdé xīnrèn jūnzhǔ de qīnglài, ér chéngwéi xīn jūn de hòufēi, zuìhòu dēngshàng dìwèi."
+    },
+    {
+     "zh": "請聽這段和此相關的評論，然後回答下面五個問題。",
+     "py": "Qǐng tīng zhè duàn hé cǐ xiāngguān de pínglùn, ránhòu huídá xiàmiàn wǔ ge wèntí."
+    },
+    {
+     "zh": "現在請聽這段評論。",
+     "py": "Xiànzài qǐng tīng zhèduàn pínglùn."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "她文采洋溢",
+     "py": "Tā wéncǎi yángyì"
+    },
+    "B": {
+     "zh": "她足智多謀",
+     "py": "Tā zúzhìduōmóu"
+    },
+    "C": {
+     "zh": "她擁有傾國之姿",
+     "py": "Tā yōngyǒu qīngguó zhī zī"
+    },
+    "D": {
+     "zh": "她在宮中樹大根深",
+     "py": "Tā zài gōngzhōng shùdàgēnshēn"
+    }
+   },
+   "intro": [
+    {
+     "zh": "武則天，中國第一位也是唯一的一位女皇帝，在中國歷史上卻是毀譽參半，她在",
+     "py": "Wǔzétiān, Zhōngguó dìyíwèi yě shì wéiyī de yíwèi nǚ huángdì, zài Zhōngguó lìshǐ shàng quèshì huǐyùcānbàn, tā zài"
+    },
+    {
+     "zh": "丈夫過世兩年後，以一首短詩「如意娘」，贏得新任君主的青睞，而成為新君的",
+     "py": "Zhàngfū guòshì liǎngnián hòu, yǐ yìshǒu duǎnshī “Rúyì niáng”, yíngdé xīnrèn jūnzhǔ de qīnglài, ér chéngwéi xīn jūn de"
+    },
+    {
+     "zh": "后妃，最後登上帝位。請聽這段和此相關的評論，然後回答下面五個問題。",
+     "py": "Hòufēi, zuìhòu dēngshàng dìwèi. Qǐng tīng zhè duàn hé cǐ xiāngguān de pínglùn, ránhòu huídá xiàmiàn wǔ ge wèntí."
+    },
+    {
+     "zh": "現在請聽這段評論。",
+     "py": "Xiànzài qǐng tīng zhèduàn pínglùn."
+    },
+    {
+     "zh": "武則天要擺脫原本常伴青燈的生活，並不只是單純的遞了一首短詩，就能重",
+     "py": "Wǔzétiān yào bǎituō yuánběn chángbàn qīngdēng de shēnghuó, bìng bù zhǐshì dānchún de dì le yìshǒu duǎnshī, jiù néng zhòng"
+    },
+    {
+     "zh": "回宮中。從佛寺到皇宮的這一段路，武則天得要反覆推敲、運籌帷幄、打通關節",
+     "py": "Huí gōngzhōng. Cóng Fósì dào huánggōng de zhè yíduànlù, Wǔzétiān dé yào fǎnfùtuīqiāo, yùnchóuwéiwò, dǎtōng guānjié"
+    },
+    {
+     "zh": "才能成功。",
+     "py": "Cáinéng chénggōng."
+    },
+    {
+     "zh": "好不容易，得以入宮，成為新君后妃。但此時的她要在宮中生存，勢必比任",
+     "py": "Hǎobùróngyì, déyǐ Rùgōng, chéngwéi xīn jūn hòufēi. Dàn cǐshí de tā yào zài gōngzhōng shēngcún, shìbì bǐrèn"
+    },
+    {
+     "zh": "何人都難。",
+     "py": "Hérén dōu nán."
+    },
+    {
+     "zh": "所以她從 28 歲一路生孩子到 40 歲，期間共生了 4 男 2 女，除了一名",
+     "py": "Suǒyǐ tā cóng 28 suì yílù shēng háizi dào 40 suì, qījiān gòngshēng le 4 nán 2 nǚ, chúle yìmíng"
+    },
+    {
+     "zh": "夭折以外，其餘都康健活到成年。可是要站穩腳步，哪有這麼簡單？她要照顧自",
+     "py": "Yāozhé yǐwài, qíyú dōu Kāngjiàn huó dào chéngnián. Kěshì yào zhànwěnjiǎobù, nǎ yǒu zhème jiǎndān? Tā yào zhàogù zì"
+    },
+    {
+     "zh": "己的子女，跟夫家的長輩妯娌打好關係，時不時的舉辦宴會，同時也要替地方的",
+     "py": "Jǐ de zǐnǚ, gēn fūjiā de zhǎngbèi zhóulǐ dǎ hǎo guānxì, shíbùshí de jǔbàn yànhuì, tóngshí yě yào tì dìfāng de"
+    },
+    {
+     "zh": "婆婆媽媽們爭取福利，抬高「母親」在人們心中的地位，並在丈夫病弱的時候，",
+     "py": "Pópómāmā men zhēngqǔ Fúlì, táigāo “Mǔqīn” zài rénmen xīnzhōng de dìwèi, bìng zài zhàngfū bìngruò de shíhòu,"
+    },
+    {
+     "zh": "協助分擔朝政。",
+     "py": "Xiézhù fēndān cháozhèng."
+    },
+    {
+     "zh": "從客觀角度來說，她盡了一切為人母、為人妻的努力，在丈夫刻意扶持下，",
+     "py": "Cóng kèguān jiǎodù láishuō, tā jǐn le yíqiè wèi rénmǔ, wèi rénqī de nǔlì, zài zhàngfū kèyì fúchí xià,"
+    },
+    {
+     "zh": "最終成為帝國主宰，但是，不論是皇后或是母親，在當時的中國，都不是獨立的",
+     "py": "Zuìzhōng chéngwéi dìguó zhǔzǎi, dànshì, búlùnshì huánghòu huòshì mǔqīn, zài dāngshí de Zhōngguó, dōu búshì dúlì de"
+    },
+    {
+     "zh": "主體。皇后依附著君王而生；母親依附著子女而活；妻子仰望著丈夫的鼻息。",
+     "py": "Zhǔtǐ. Huánghòu yīfù zhù Jūnwáng ér shēng; mǔqīn yīfù zhù zǐnǚ ér huó; qīzǐ yǎngwàng zhù zhàngfū de bíxī."
+    },
+    {
+     "zh": "當武則天意識到橫亙在她與帝位之間是一道無法跨越的現實鴻溝時，她的憤",
+     "py": "Dāng Wǔzétiān yìshí dào hénggèn zài tā yǔ dìwèi zhījiān shì yídào wúfǎ kuàyuè de xiànshí hónggōu shí, tā de fèn"
+    },
+    {
+     "zh": "怒是可想而知的。登基後的她，歷史評價「一意孤行，人格丕變」甚至大殺夫家",
+     "py": "Nù shì kěxiǎngérzhī de. Dēngjī hòu de tā, lìshǐ píngjià “Yíyìgūxíng, réngé pī biàn” shènzhì dà shā fūjiā"
+    },
+    {
+     "zh": "的家人。也許，她圖的不過是萬人之上時，能擺脫這些侷促。",
+     "py": "De jiārén. Yěxǔ, tā tú de búguò shì wànrénzhīshàng shí, néng bǎituō zhèxiē júcù."
+    },
+    {
+     "zh": "但等她的後代當上太后時，不僅拒絕攝政，還對群臣說：「你們以為我是武",
+     "py": "Dàn děng tā de hòudài dāng shàng Tàihòu shí, bùjǐn jùjué shèzhèng, hái duì qúnchén shuō: “Nǐmen yǐwéi wǒ shì wǔ"
+    },
+    {
+     "zh": "則天嗎？」。",
+     "py": "Zé tiān ma?”."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "說話者認為，武則天成為新君后妃的關鍵是什麼？",
+     "py": "Shuōhuà zhě rènwéi, Wǔzétiān chéngwéi xīn jūn hòufēi de guānjiàn shì shénme?"
+    }
+   ]
+  },
+  "37": {
+   "options": {
+    "A": {
+     "zh": "見風轉舵",
+     "py": "Jiànfēngzhuǎnduò"
+    },
+    "B": {
+     "zh": "長袖善舞",
+     "py": "Chángxiùshànwǔ"
+    },
+    "C": {
+     "zh": "臥薪嘗膽",
+     "py": "Wòxīnchángdǎn"
+    },
+    "D": {
+     "zh": "韜光養晦",
+     "py": "Tāoguāngyǎnghuì"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "下面那一句話可以形容武則天重返宮裡後的生活？",
+     "py": "Xiàmiàn nà yíjù huà kěyǐ xíngróng Wǔzétiān chóngfǎn gōnglǐ hòu de shēnghuó?"
+    }
+   ]
+  },
+  "38": {
+   "options": {
+    "A": {
+     "zh": "十分稱職",
+     "py": "Shífēn chènzhí"
+    },
+    "B": {
+     "zh": "個性溫婉",
+     "py": "Gèxìng wēnwǎn"
+    },
+    "C": {
+     "zh": "過於固執",
+     "py": "Guòyú gùzhí"
+    },
+    "D": {
+     "zh": "言語粗鄙",
+     "py": "Yányǔ cūbǐ"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "說話者對武則天的評價為何？",
+     "py": "Shuōhuà zhě duì Wǔzétiān de píngjià wèihé?"
+    }
+   ]
+  },
+  "39": {
+   "options": {
+    "A": {
+     "zh": "她受不了摯愛丈夫的辭世",
+     "py": "Tā shòubùliǎo zhìài zhàngfū de císhì"
+    },
+    "B": {
+     "zh": "囿於丈夫對她長久的壓迫",
+     "py": "Yòuyú zhàngfū duì tā chángjiǔ de yāpò"
+    },
+    "C": {
+     "zh": "肇因於她想登上帝位的想法",
+     "py": "Zhàoyīn yú tā xiǎng dēngshàng dìwèi de xiǎngfǎ"
+    },
+    "D": {
+     "zh": "她無法接受世人對她的指指點點",
+     "py": "Tā wúfǎ jiēshòu shìrén duì tā de zhǐzhǐdiǎndiǎn"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "歷史評價武則天性格丕變，說話者認為主因是什麼？",
+     "py": "Lìshǐ píngjià Wǔzétiān xìnggé pī biàn, shuōhuà zhě rènwéi zhǔyīn shì shénme?"
+    }
+   ]
+  },
+  "40": {
+   "options": {
+    "A": {
+     "zh": "同情武則天一生坎坷的際遇",
+     "py": "Tóngqíng Wǔzétiān yìshēng kǎnkě de jìyù"
+    },
+    "B": {
+     "zh": "說明武則天的後世以她為榮",
+     "py": "Shuōmíng Wǔzétiān de hòushì yǐ tā wèi Róng"
+    },
+    "C": {
+     "zh": "讚許武則天勇敢地展現了自我",
+     "py": "Zànxǔ Wǔzétiān yǒnggǎn dì zhǎnxiàn le zìwǒ"
+    },
+    "D": {
+     "zh": "指出武則天的作為無法被認同",
+     "py": "Zhǐchū Wǔzétiān de zuòwéi wúfǎ bèi rèntóng"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "說話者提到武則天後代說的話，主要想表達什麼？",
+     "py": "Shuōhuà zhě tídào Wǔzétiān hòudài shuō dehuà, zhǔyào xiǎng biǎodá shénme?"
+    }
+   ]
+  },
+  "41": {
+   "passage": [
+    {
+     "zh": "全人醫療是一種非傳統醫療照護方式，宗旨是反對一般西方醫學採取侵入性物理治療、著重處理局部病灶的簡化做法。",
+     "py": "Quán rén yīliáo shì yìzhǒng fēichuántǒng yīliáo zhàohù fāngshì, zōngzhǐ shì fǎnduì yìbān xīfāng yīxué cǎiqǔ qīnrù xìng wùlǐ zhìliáo, zhùzhòng chǔlǐ júbù bìngzào de jiǎnhuà zuòfǎ."
+    },
+    {
+     "zh": "全人醫療傾向從心理甚至靈性角度探討病因並治療，以下是與此有關的報導，聽完後請回答五個問題。",
+     "py": "Quán rén yīliáo qīngxiàng cóng xīnlǐ shènzhì língxìng jiǎodù tàntǎo bìngyīn bìng zhìliáo, yǐxià shì yǔcǐyǒuguān de bàodǎo, tīngwán hòu qǐng huídá wǔ ge wèntí."
+    },
+    {
+     "zh": "現在請聽報導。",
+     "py": "Xiànzài qǐng tīng bàodǎo."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "擯棄一切作為，和疾病和平共處",
+     "py": "Bìnqì yíqiè zuòwéi, hé jíbìng Hépínggòngchǔ"
+    },
+    "B": {
+     "zh": "相信醫師的專業，就是健康的保障",
+     "py": "Xiāngxìn yīshī de zhuānyè, jiùshì jiànkāng de bǎozhàng"
+    },
+    "C": {
+     "zh": "疾病是種厄運，要以超自然力量驅逐",
+     "py": "Jíbìng shì zhǒng èyùn, yào yǐ chāozìrán lìliàng qūzhú"
+    },
+    "D": {
+     "zh": "鍛鍊心靈的力量，能突破治療的侷限",
+     "py": "Duànliàn xīnlíng de lìliàng, néng tūpò zhìliáo de júxiàn"
+    }
+   },
+   "intro": [
+    {
+     "zh": "全人醫療是一種非傳統醫療照護方式，宗旨是反對一般西方醫學採取侵入性物理",
+     "py": "Quán rén yīliáo shì yìzhǒng fēichuántǒng yīliáo zhàohù fāngshì, zōngzhǐ shì fǎnduì yìbān xīfāng yīxué cǎiqǔ qīnrù xìng wùlǐ"
+    },
+    {
+     "zh": "治療、著重處理局部病灶的簡化做法。全人醫療傾向從心理甚至靈性角度探討病",
+     "py": "Zhìliáo, zhùzhòng chǔlǐ júbù bìngzào de jiǎnhuà zuòfǎ. Quán rén yīliáo qīngxiàng cóng xīnlǐ shènzhì língxìng jiǎodù tàntǎo bìng"
+    },
+    {
+     "zh": "因並治療，以下是與此有關的報導，聽完後請回答五個問題。",
+     "py": "Yīn bìng zhìliáo, yǐxià shì yǔcǐyǒuguān de bàodǎo, tīngwán hòu qǐng huídá wǔ ge wèntí."
+    },
+    {
+     "zh": "現在請報導。",
+     "py": "Xiànzài qǐng bàodǎo."
+    },
+    {
+     "zh": "近年許多傾向另類療法的民眾，提倡「全人醫療」的觀念。他們認為許多疾",
+     "py": "Jìnnián xǔduō qīngxiàng lìnglèi liáofǎ de mínzhòng, tíchàng “Quán rén yīliáo” de guānniàn. Tāmen rènwéi xǔduō jí"
+    },
+    {
+     "zh": "病源自於身、心、靈的「失衡」，著重點應是「整個人的平衡」而非局部器官病",
+     "py": "Bìng yuánzì yú shēn, xīn, líng de “Shīhéng”, zhù zhòngdiǎn yīng shì “Zhěng ge rén de pínghéng” ér fēi júbù qìguān bìng"
+    },
+    {
+     "zh": "症，所以全人醫療強調以一套預防性養生的做法，如透過冥想、瑜伽、正念想像",
+     "py": "Zhèng, suǒyǐ quán rén yīliáo qiángdiào yǐ yítào yùfángxìng yǎngshēng de zuòfǎ, rú tòuguò míngxiǎng, yújiā, zhèngniàn xiǎngxiàng"
+    },
+    {
+     "zh": "練習等方式提升心靈的力量預防並療癒疾病，同時鼓勵病人成為醫療過程的主導",
+     "py": "Liànxí děng fāngshì tíshēng xīnlíng de lìliàng yùfáng bìngliáo yù jíbìng, tóngshí gǔlì bìngrén chéngwéi yīliáo guòchéng de zhǔdǎo"
+    },
+    {
+     "zh": "者。",
+     "py": "Zhě."
+    },
+    {
+     "zh": "的確，重視預防勝過治療的做法是明智的，病人本身主動瞭解自身狀況，甚",
+     "py": "Díquè, zhòngshì yùfáng shèngguò zhìliáo de zuòfǎ shì Míngzhì de, bìngrén běnshēn zhǔdòng liǎojiě zìshēn zhuàngkuàng, shèn"
+    },
+    {
+     "zh": "至當個消費者，蒐集、選擇自身的治療方向，也有機會補足醫生可能的盲點。但",
+     "py": "Zhì dāng ge xiāofèizhě, sōují, xuǎnzé zìshēn de zhìliáo fāngxiàng, yě yǒu jīhuì bǔzú yīshēng kěnéng de mángdiǎn. Dàn"
+    },
+    {
+     "zh": "若深思全人醫療的名言「重點不是罹患哪種疾病，而是自己是哪種病人。」或「如",
+     "py": "Ruò shēnsī quán rén yīliáo de míngyán “Zhòngdiǎn búshì líhuàn nǎ zhǒng jíbìng, érshì zìjǐ shì nǎzhǒng bìngrén.” huò “Rú"
+    },
+    {
+     "zh": "果不發揮潛能，就容易罹患疾病。」，就不能忽視其中隱含著以罹病事實譴責病",
+     "py": "Guǒbù fāhuī qiánnéng, jiù róngyì líhuàn jíbìng.”, jiù bùnéng hūshì qízhōng yǐnhán zhùyǐ líbìng shìshí qiǎnzé bìng"
+    },
+    {
+     "zh": "患的態度，暗指是個人的選擇或錯誤的心態導向了疾病，這是種危險的傾向，不",
+     "py": "Huàn de tàidù, ànzhǐ shì gèrén de xuǎnzé huò cuòwù de xīntài dǎoxiàng le jíbìng, zhè shì zhǒng wēixiǎn de qīngxiàng, bù"
+    },
+    {
+     "zh": "僅允許他人對病患投以異樣眼光，也加深病患本身的自責。",
+     "py": "Jǐn yǔnxǔ tārén duì bìnghuàn tóuyǐ yìyàng yǎnguāng, yě jiāshēn bìnghuàn běnshēn de zìzé."
+    },
+    {
+     "zh": "美國評論家蘇珊．桑塔格在《疾病的隱喻》一書中指出的，有些人認為心理",
+     "py": "Měiguó pínglùnjiā Sūshān. Sāngtǎgé zài «Jíbìng de yǐnyù» yī shū zhōng zhǐchū de, yǒuxiē rén rènwéi xīnlǐ"
+    },
+    {
+     "zh": "狀態能導致疾病，意志力則能治療疾病的態度，反映我們對疾病的生理層面依然",
+     "py": "Zhuàngtài néng dǎozhì jíbìng, yìzhìlì zé néng zhìliáo jíbìng de tàidù, fǎnyìng wǒmen duì jíbìng de shēnglǐ céngmiàn yīrán"
+    },
+    {
+     "zh": "了解不足，一如發現結核桿菌為真實病因前，肺結核病患也飽受社會的指責與歧",
+     "py": "Liǎojiě bùzú, yìrú fāxiàn jiéhégǎnjūn wèi zhēnshí bìngyīn qián, fèijiéhé bìnghuàn yě bǎoshòu shèhuì de zhǐzé yǔ qí"
+    },
+    {
+     "zh": "視。因此在醫學對心理狀態與疾病的關連仍莫衷一是的今天，我們不妨在澈底釐",
+     "py": "Shì. Yīncǐ zài yīxué duì xīnlǐ zhuàngtài yǔ jíbìng de guānlián réng mòzhōngyíshì de jīntiān, wǒmen bùfáng zài Chèdǐ lí"
+    },
+    {
+     "zh": "清前，採取審慎保守的態度。",
+     "py": "Qīngqián, cǎiqǔ shěnshèn bǎoshǒu de tàidù."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "下面哪個想法最合乎「全人醫療」的理念?",
+     "py": "Xiàmiàn nǎ ge xiǎngfǎ zuì héhū “Quán rén yīliáo” de lǐniàn?"
+    }
+   ]
+  },
+  "42": {
+   "options": {
+    "A": {
+     "zh": "加強疾病預防的意識",
+     "py": "Jiāqiáng jíbìng yùfáng de yìshí"
+    },
+    "B": {
+     "zh": "提高病患對醫師的信任",
+     "py": "Tígāo bìnghuàn duì yīshī de xìnrèn"
+    },
+    "C": {
+     "zh": "加速醫學新技術的突破",
+     "py": "Jiāsù yīxué xīn jìshù de tūpò"
+    },
+    "D": {
+     "zh": "減低維護個人健康的壓力",
+     "py": "Jiǎndī wéihù gèrén jiànkāng de yālì"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "說話者認為接納全人醫療的觀念有何好處？",
+     "py": "Shuōhuà zhě rènwéi jiēnà quán rén yīliáo de guānniàn yǒuhé hǎochù?"
+    }
+   ]
+  },
+  "43": {
+   "options": {
+    "A": {
+     "zh": "促使病患濫用醫療資源",
+     "py": "Cùshǐ bìnghuàn lànyòng yīliáo zīyuán"
+    },
+    "B": {
+     "zh": "可能導致醫病關係的衝突",
+     "py": "Kěnéng dǎozhì yībìng guānxì de chōngtū"
+    },
+    "C": {
+     "zh": "病患可能因疾病而受到批判",
+     "py": "Bìnghuàn kěnéng yīn jíbìng ér shòudào pīpàn"
+    },
+    "D": {
+     "zh": "病患容易選擇錯誤的治療方向",
+     "py": "Bìnghuàn róngyì xuǎnzé cuòwù de zhìliáo fāngxiàng"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "報導中認為全人醫療可能造成哪類負面影響？",
+     "py": "Bàodǎo zhōng rènwéi quán rén yīliáo kěnéng zàochéng nǎlèi fùmiànyǐngxiǎng?"
+    }
+   ]
+  },
+  "44": {
+   "options": {
+    "A": {
+     "zh": "指出一般人對健康的漠視",
+     "py": "Zhǐchū yìbān rén duì jiànkāng de mòshì"
+    },
+    "B": {
+     "zh": "再次強調全人醫療的缺陷",
+     "py": "Zàicì qiángdiào quán rén yīliáo de quēxiàn"
+    },
+    "C": {
+     "zh": "鼓勵全人醫療的擴大應用",
+     "py": "Gǔlì quán rén yīliáo de kuòdà yìngyòng"
+    },
+    "D": {
+     "zh": "說明心理因素如何造成疾病",
+     "py": "Shuōmíng xīnlǐyīnsù rúhé zàochéng jíbìng"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "說話者為何引用蘇珊．桑塔格的想法？",
+     "py": "Shuōhuà zhě wèihé yǐnyòng Sūshān. Sāngtǎgé de xiǎngfǎ?"
+    }
+   ]
+  },
+  "45": {
+   "options": {
+    "A": {
+     "zh": "可以觀察，但切勿盲從",
+     "py": "Kěyǐ guānchá, dàn qièwù mángcóng"
+    },
+    "B": {
+     "zh": "其優點被太多誤解掩蓋",
+     "py": "Qí yōudiǎn bèi Tàiduō wùjiě yǎngài"
+    },
+    "C": {
+     "zh": "突破性的觀念應得到推廣",
+     "py": "Tūpòxìng de guānniàn yīng dédào tuīguǎng"
+    },
+    "D": {
+     "zh": "社會應嚴禁偽科學的傳播",
+     "py": "Shèhuì yīng yánjìn wěikēxué de chuánbō"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "下面何者最接近說話者對全人醫療的態度？",
+     "py": "Xiàmiàn hézhě zuì jiējìn shuōhuà zhě duì quánrén yīliáo de tàidù?"
+    }
+   ]
+  },
+  "46": {
+   "passage": [
+    {
+     "zh": "在這個島嶼的南方旅行，有個地名叫「鲲溟里」，「鯤溟」，這總讓我想起莊子〈逍遙遊〉裡的「鯤」——北冥有魚，其名為鯤。",
+     "py": "Zài zhè ge dǎoyǔ de nánfāng lǚxíng, yǒu ge dì míngjiào “Kūnmíng lǐ”, “Kūnmíng”, zhè zǒng ràng wǒ xiǎngqǐ Zhuāngzi 〈 xiāoyáoyóu 〉 lǐ de “Kūn”—— Běimíng yǒu yú, qí míngwèi kūn."
+    },
+    {
+     "zh": "以下節錄這位教授廣播的內容，請聽完後回答五個問題。",
+     "py": "Yǐxià jiélù zhèwèi jiàoshòu guǎngbō de nèiróng, qǐng tīng wán hòu huídá wǔ ge wèntí."
+    },
+    {
+     "zh": "現在請聽廣播。",
+     "py": "Xiànzài qǐng tīng guǎngbō."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "地貌",
+     "py": "Dìmào"
+    },
+    "B": {
+     "zh": "生態",
+     "py": "Shēngtài"
+    },
+    "C": {
+     "zh": "水文",
+     "py": "Shuǐwén"
+    },
+    "D": {
+     "zh": "氣候",
+     "py": "Qìhòu"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽完後回答五個問題。",
+     "py": "Qǐng tīng wán hòu huídá wǔ ge wèntí."
+    },
+    {
+     "zh": "現在請聽廣播。",
+     "py": "Xiànzài qǐng tīng guǎngbō."
+    },
+    {
+     "zh": "「鯤」是大魚的意思。古代的人們把島嶼叫作「鯤島」，因為島嶼長長的，",
+     "py": "“Kūn” shì dàyú de yìsi. Gǔdài de rénmen bǎ dǎoyǔ jiàozuò “Kūndǎo”, yīnwèi dǎoyǔ chángchángde,"
+    },
+    {
+     "zh": "萬頃波濤，遠遠看，像一條大魚伏在海裡，露出突起的背部。而這條大魚的棲息",
+     "py": "Wànqǐng Bōtāo, yuǎnyuǎn kàn, xiàng yìtiáo dàyú fú zài hǎilǐ, lùchū tūqǐ de bèibù. Ér zhètiáo dàyú de qīxī"
+    },
+    {
+     "zh": "地——北冥，我一直理解成荒漠寒冷的北極海洋。當然，考證癖的教授會立刻糾",
+     "py": "Dì—— Běimíng, wǒ yìzhí lǐjiě chéng huāngmò hánlěng de Běijí Hǎiyáng. Dāngrán, kǎozhèng pǐ de jiàoshòu huì lìkè jiū"
+    },
+    {
+     "zh": "正你：「莊子沒有可能去過北極」。",
+     "py": "Zhèng nǐ: “Zhuāngzi méiyǒu kěnéng qùguò Běijí”."
+    },
+    {
+     "zh": "《莊子》不能考證，最好也別讓教授注解。考證太多，一套又一套的歷史辯",
+     "py": "«Zhuāngzi» bùnéng kǎozhèng, zuìhǎo yěbié ràng jiàoshòu zhùjiě. Kǎozhèng tài duō, yítào yòu yítào de lìshǐ biàn"
+    },
+    {
+     "zh": "證，最終只會讓鯤死在北冥，無法演化成鵬。神話裡的生物，在辯證的邏輯裡，",
+     "py": "Zhèng, zuìzhōng zhǐ huì ràng kūnsǐ zài Běimíng, wúfǎ yǎnhuàchéng Péng. Shénhuà lǐ de shēngwù, zài biànzhèng de luójí lǐ,"
+    },
+    {
+     "zh": "只是供人玩賞，最終奄奄一息。就算真真正正演化成大鵬，這些教授也只會吹鬍",
+     "py": "Zhǐshì gōng rén wánshǎng, zuìzhōng yǎnyǎnyìxī. Jiùsuàn Zhēnzhēnzhèngzhèng yǎnhuàchéng Dàpéng, zhèxiē jiàoshòu yě zhǐ huì chuī Hú"
+    },
+    {
+     "zh": "子瞪眼的說：一派胡言。在人類歷史之前，是漫長的神話。而人類歷史時間太短，",
+     "py": "Zi dèngyǎn de shuō: Yípàihúyán. Zài rénlèi lìshǐ zhīqián, shì màncháng de shénhuà. Ér rénlèi lìshǐ shíjiān tàiduǎn,"
+    },
+    {
+     "zh": "如何考證神話？無法考證不代表不存在，北冥裡的鯤就是悠游於神話時間的魚。",
+     "py": "Rúhé kǎozhèng shénhuà? Wúfǎ kǎozhèng bù dàibiǎo bù cúnzài, Běimínglǐ de kūn jiùshì yōuyóu yú shénhuà shíjiān de yú."
+    },
+    {
+     "zh": "鯤，牠在無始無終的時間裡冥想：能不能沒有這個身體？牠想離開這個身體，",
+     "py": "Kūn, tā zài wúshǐwúzhōng de shíjiān lǐ míngxiǎng: Néng bùnéng méiyǒu zhè ge shēntǐ? Tā xiǎng líkāi zhè ge shēntǐ,"
+    },
+    {
+     "zh": "牠望著無邊無際的空白，牠想飛起來。牠鼓動鰓，嘗試搧動自己的鰭，牠的鰭立",
+     "py": "Tā wàng zhù wúbiānwújì de kòngbái, tā xiǎng fēi qǐlái. Tā gǔdòng sāi, chángshì shāndòng zìjǐ de qí, tā de qí lì"
+    },
+    {
+     "zh": "了起來，像一座山，搧動。也許，好幾億年過去，牠的鰭，在搧動的風裡慢慢變",
+     "py": "Le qǐlái, xiàng yízuò shān, shāndòng. Yěxǔ, hǎo jǐyìnián guòqù, tā de qí, zài shāndòng de fēnglǐ mànmàn biàn"
+    },
+    {
+     "zh": "成了巨大的翅翼。鰭翅的軟骨最終演化成羽翼。牠搧動演化成的翅翼，有一種狂",
+     "py": "Chéng le jùdà de chìyì. Qí chì de ruǎngǔ zuìzhōng yǎnhuàchéng yǔyì. Tā shāndòng yǎnhuàchéng de chìyì, yǒu yìzhǒng kuáng"
+    },
+    {
+     "zh": "喜吧！",
+     "py": "Xǐ ba!"
+    },
+    {
+     "zh": "「怒而飛」，莊子只用了三個字，敘述魚飛起來的情景。「怒」是心情的激",
+     "py": "“Nùérfēi”, Zhuāngzi zhǐyòng le sān ge zì, xùshù Yúfēi qǐlái de qíngjǐng. “Nù” shì xīnqíng de jī"
+    },
+    {
+     "zh": "動。牠一振翅，天空彷彿被劈開一般，大魚終於成了一隻翱翔空中的大鳥。",
+     "py": "Dòng. Tā yī zhènchì, tiānkōng fǎngfú bèi pīkāi yìbān, dàyú zhōngyú chéng le yìzhī áoxiáng kōngzhōng de dàniǎo."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "說話者一開始指出將「鯤」比喻成島嶼，是因為哪個因素？",
+     "py": "Shuōhuà zhě yī kāishǐ zhǐchū jiāng “Kūn” bǐyù chéng dǎoyǔ, shìyīnwèi nǎ ge yīnsù?"
+    }
+   ]
+  },
+  "47": {
+   "options": {
+    "A": {
+     "zh": "因為莊子為人荒誕不經",
+     "py": "Yīnwèi Zhuāngzi wèi rén huāngdànbùjīng"
+    },
+    "B": {
+     "zh": "因為莊子真沒去過北極",
+     "py": "Yīnwèi Zhuāngzi zhēn méi qùguò Běijí"
+    },
+    "C": {
+     "zh": "他覺得考證的內容毫無邏輯",
+     "py": "Tā juéde kǎozhèng de nèiróng háowú luójí"
+    },
+    "D": {
+     "zh": "書裡有很多歷史無法追溯的內容",
+     "py": "Shū lǐ yǒu hěnduō lìshǐ wúfǎ zhuīsù de nèiróng"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "為什麼說話者認為《莊子》一書不能考證？",
+     "py": "Wèishénme shuōhuà zhě rènwéi «Zhuāngzi» yī shū bùnéng kǎozhèng?"
+    }
+   ]
+  },
+  "48": {
+   "options": {
+    "A": {
+     "zh": "指出先民對大魚的崇拜",
+     "py": "Zhǐchū xiānmín duì dàyú de Chóngbài"
+    },
+    "B": {
+     "zh": "凸顯「鯤」存活的時間漫長",
+     "py": "Tūxiǎn “Kūn” cúnhuó de shíjiān màncháng"
+    },
+    "C": {
+     "zh": "辯證「魚」與「鳥」的演化關係",
+     "py": "Biànzhèng “Yú” yǔ “Niǎo” de yǎnhuà guānxì"
+    },
+    "D": {
+     "zh": "說明他對「鯤」存在與否的看法",
+     "py": "Shuōmíng tā duì “Kūn” cúnzài yǔfǒu de kànfǎ"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "說話者為什麼提到「這條魚就是神話時間裡的魚」？",
+     "py": "Shuōhuà zhě wèishénme tídào “Zhètiáo yú jiùshì shénhuà shíjiān lǐ de yú”?"
+    }
+   ]
+  },
+  "49": {
+   "options": {
+    "A": {
+     "zh": "他想強調這個生物的現實性",
+     "py": "Tā xiǎng qiángdiào zhè ge shēngwù de xiànshíxìng"
+    },
+    "B": {
+     "zh": "他想重新定義「演化」的意涵",
+     "py": "Tā xiǎng chóngxīn dìngyì “Yǎnhuà” de yìhán"
+    },
+    "C": {
+     "zh": "他希望考證學家解釋神話的緣起",
+     "py": "Tā xīwàng kǎozhèngxuéjiā jiěshì shénhuà de yuánqǐ"
+    },
+    "D": {
+     "zh": "他想附和教授們「無法考證」的觀點",
+     "py": "Tā xiǎng fùhè jiàoshòu men “Wúfǎ kǎozhèng” de guāndiǎn"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "說話者為什麼一再使用「演化」這個詞，說明鯤轉化成鵬的過程？",
+     "py": "Shuōhuà zhě wèishénme yízài shǐyòng “Yǎnhuà” zhè ge cí, shuōmíng kūn zhuǎnhuàchéng Péng de guòchéng?"
+    }
+   ]
+  },
+  "50": {
+   "options": {
+    "A": {
+     "zh": "大魚的心理狀態",
+     "py": "Dàyú de xīnlǐ zhuàngtài"
+    },
+    "B": {
+     "zh": "形容一飛沖天的聲響",
+     "py": "Xíngróng yìfēichōngtiān de shēngxiǎng"
+    },
+    "C": {
+     "zh": "其他動物的情緒反應",
+     "py": "Qítā dòngwù de qíngxùfǎnyìng"
+    },
+    "D": {
+     "zh": "大自然生機勃勃的狀態",
+     "py": "Dàzìrán shēngjībóbó de zhuàngtài"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "說話者認為「怒而飛」的「怒」是什麼？",
+     "py": "Shuōhuà zhě rènwéi “Nùérfēi” de “Nù” shì shénme?"
+    }
+   ]
+  }
+ }
+}

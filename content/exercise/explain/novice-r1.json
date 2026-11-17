@@ -1,0 +1,456 @@
+{
+ "testId": "novice-r1",
+ "segments": 45,
+ "englishComplete": true,
+ "questions": {
+  "1": {
+   "stem": {
+    "zh": "妹妹的書",
+    "py": "Mèimei de shū",
+    "en": "Younger sister's book"
+   }
+  },
+  "2": {
+   "stem": {
+    "zh": "五百二十八元",
+    "py": "Wǔbǎi èrshíbā yuán",
+    "en": "Five hundred twenty-eight dollars"
+   },
+   "image": [
+    {
+     "zh": "愛國一路",
+     "py": "Àiguó yílù",
+     "en": "Aiguo 1st Road (address plate)"
+    },
+    {
+     "zh": "往台中",
+     "py": "Wǎng táizhōng",
+     "en": "To Taichung (bus destination sign)"
+    }
+   ]
+  },
+  "3": {
+   "stem": {
+    "zh": "他在開車",
+    "py": "Tā zài kāichē",
+    "en": "He is driving a car."
+   }
+  },
+  "4": {
+   "stem": {
+    "zh": "九點四十分",
+    "py": "Jiǔdiǎn sì shífēn",
+    "en": "Nine forty (9:40)"
+   }
+  },
+  "5": {
+   "stem": {
+    "zh": "他們在看電影",
+    "py": "Tāmen zài kàn diànyǐng",
+    "en": "They are watching a movie."
+   }
+  },
+  "6": {
+   "stem": {
+    "zh": "這是他的名字",
+    "py": "Zhè shì tā de míngzi",
+    "en": "This is his name."
+   },
+   "image": [
+    {
+     "zh": "王天易",
+     "py": "Wángtiānyì",
+     "en": "Wang Tianyi (a name, picture A)"
+    },
+    {
+     "zh": "台北大學",
+     "py": "Táiběi dàxué",
+     "en": "Taipei University (picture B)"
+    }
+   ]
+  },
+  "7": {
+   "stem": {
+    "zh": "她在練習寫字",
+    "py": "Tā zài liànxí xiězì",
+    "en": "She is practicing writing characters."
+   }
+  },
+  "8": {
+   "stem": {
+    "zh": "我帶了衣服",
+    "py": "Wǒ dài le yīfú",
+    "en": "I brought clothes."
+   }
+  },
+  "9": {
+   "stem": {
+    "zh": "漂亮的房子",
+    "py": "Piàoliang de fángzi",
+    "en": "A beautiful house"
+   }
+  },
+  "10": {
+   "stem": {
+    "zh": "她覺得很熱",
+    "py": "Tā juéde hěn rè",
+    "en": "She feels very hot."
+   }
+  },
+  "11": {
+   "stem": {
+    "zh": "他在餐廳吃東西",
+    "py": "Tā zài cāntīng chī Dōngxi",
+    "en": "He is eating in a restaurant."
+   }
+  },
+  "12": {
+   "stem": {
+    "zh": "這裡有一些蘋果",
+    "py": "Zhèlǐ yǒu yìxiē píngguǒ",
+    "en": "There are some apples here."
+   }
+  },
+  "13": {
+   "stem": {
+    "zh": "爸爸想買手機",
+    "py": "Bàba xiǎng mǎishǒujī",
+    "en": "Dad wants to buy a cell phone."
+   }
+  },
+  "14": {
+   "stem": {
+    "zh": "她和朋友一起運動",
+    "py": "Tā hé péngyǒu yìqǐ yùndòng",
+    "en": "She exercises together with a friend."
+   }
+  },
+  "15": {
+   "stem": {
+    "zh": "我一個星期上兩次英文課",
+    "py": "Wǒ yí ge xīngqī shàng liǎngcì Yīngwénkè",
+    "en": "I take English class twice a week."
+   },
+   "image": [
+    {
+     "zh": "一",
+     "py": "Yī",
+     "en": "Monday"
+    },
+    {
+     "zh": "二",
+     "py": "Èr",
+     "en": "Tuesday"
+    },
+    {
+     "zh": "三",
+     "py": "Sān",
+     "en": "Wednesday"
+    },
+    {
+     "zh": "四",
+     "py": "Sì",
+     "en": "Thursday"
+    },
+    {
+     "zh": "五",
+     "py": "Wǔ",
+     "en": "Friday"
+    },
+    {
+     "zh": "六",
+     "py": "Liù",
+     "en": "Saturday"
+    },
+    {
+     "zh": "日",
+     "py": "Rì",
+     "en": "Sunday"
+    },
+    {
+     "zh": "英文",
+     "py": "Yīngwén",
+     "en": "English (class)"
+    },
+    {
+     "zh": "中文",
+     "py": "Zhōngwén",
+     "en": "Chinese (class)"
+    }
+   ]
+  },
+  "16": {
+   "options": {
+    "A": {
+     "zh": "這個東西六百零五元。",
+     "py": "Zhè ge Dōngxi liùbǎi líng wǔyuán.",
+     "en": "This item costs six hundred and five dollars."
+    },
+    "B": {
+     "zh": "這個東西六百五十元。",
+     "py": "Zhè ge Dōngxi liùbǎiwǔshí yuán.",
+     "en": "This item costs six hundred fifty dollars."
+    },
+    "C": {
+     "zh": "這個東西八百五十元。",
+     "py": "Zhè ge Dōngxi bābǎi wǔshíyuán.",
+     "en": "This item costs eight hundred fifty dollars."
+    }
+   }
+  },
+  "17": {
+   "options": {
+    "A": {
+     "zh": "他在洗東西。",
+     "py": "Tā zài xǐ Dōngxi.",
+     "en": "He is washing something."
+    },
+    "B": {
+     "zh": "他在找東西。",
+     "py": "Tā zài zhǎo Dōngxi.",
+     "en": "He is looking for something."
+    },
+    "C": {
+     "zh": "他在買東西。",
+     "py": "Tā zài mǎi Dōngxi.",
+     "en": "He is buying something."
+    }
+   }
+  },
+  "18": {
+   "options": {
+    "A": {
+     "zh": "她覺得考試很難。",
+     "py": "Tā juéde kǎoshì hěn nán.",
+     "en": "She thinks the exam is very difficult."
+    },
+    "B": {
+     "zh": "她覺得考試很有趣。",
+     "py": "Tā juéde kǎoshì hěn yǒuqù.",
+     "en": "She thinks the exam is very interesting."
+    },
+    "C": {
+     "zh": "她覺得考試很容易。",
+     "py": "Tā juéde kǎoshì hěn róngyì.",
+     "en": "She thinks the exam is very easy."
+    }
+   }
+  },
+  "19": {
+   "options": {
+    "A": {
+     "zh": "這裡不可以看書。",
+     "py": "Zhèlǐ bù kěyǐ kànshū.",
+     "en": "You may not read books here."
+    },
+    "B": {
+     "zh": "這裡不可以說話。",
+     "py": "Zhèlǐ bù kěyǐ shuōhuà.",
+     "en": "You may not talk here."
+    },
+    "C": {
+     "zh": "這裡不可以喝東西。",
+     "py": "Zhèlǐ bù kěyǐ hē Dōngxi.",
+     "en": "You may not drink (anything) here."
+    }
+   }
+  },
+  "20": {
+   "options": {
+    "A": {
+     "zh": "爸爸沒穿鞋子。",
+     "py": "Bàba méi chuān xiézi.",
+     "en": "Dad isn't wearing shoes."
+    },
+    "B": {
+     "zh": "媽媽沒穿鞋子。",
+     "py": "Māma méi chuān xiézi.",
+     "en": "Mom isn't wearing shoes."
+    },
+    "C": {
+     "zh": "弟弟沒穿鞋子。",
+     "py": "Dìdi méi chuān xiézi.",
+     "en": "Younger brother isn't wearing shoes."
+    }
+   }
+  },
+  "21": {
+   "options": {
+    "A": {
+     "zh": "這個人下午吃飯。",
+     "py": "Zhè ge rén xiàwǔ chīfàn.",
+     "en": "This person eats in the afternoon."
+    },
+    "B": {
+     "zh": "這個人早上打電話。",
+     "py": "Zhè ge rén zǎoshàng dǎdiànhuà.",
+     "en": "This person makes a phone call in the morning."
+    },
+    "C": {
+     "zh": "這個人中午在學習。",
+     "py": "Zhè ge rén zhōngwǔ zài xuéxí.",
+     "en": "This person is studying at noon."
+    }
+   },
+   "image": [
+    {
+     "zh": "7:45給媽媽打電話",
+     "py": "7: 45 gěi māma dǎdiànhuà",
+     "en": "7:45 call Mom"
+    },
+    {
+     "zh": "12:00-12:30到餐廳吃飯",
+     "py": "12: 00 - 12: 30 dào cāntīng chīfàn",
+     "en": "12:00–12:30 go to the restaurant to eat"
+    },
+    {
+     "zh": "15:30-17:00到圖書館學習",
+     "py": "15: 30 - 17: 00 dào túshūguǎn xuéxí",
+     "en": "15:30–17:00 go to the library to study"
+    }
+   ]
+  },
+  "22": {
+   "options": {
+    "A": {
+     "zh": "學生給老師一張票。",
+     "py": "Xuéshēng gěi lǎoshī yìzhāng piào.",
+     "en": "The student gives the teacher a ticket."
+    },
+    "B": {
+     "zh": "老師在聽學生唱歌。",
+     "py": "Lǎoshī zài tīng xuéshēng chànggē.",
+     "en": "The teacher is listening to the student sing."
+    },
+    "C": {
+     "zh": "學生在問老師問題。",
+     "py": "Xuéshēng zài wèn lǎoshī wèntí.",
+     "en": "The student is asking the teacher a question."
+    }
+   }
+  },
+  "23": {
+   "options": {
+    "A": {
+     "zh": "醫院在餐廳和圖書館的中間。",
+     "py": "Yīyuàn zài cāntīng hé túshūguǎn de zhōngjiān.",
+     "en": "The hospital is between the restaurant and the library."
+    },
+    "B": {
+     "zh": "圖書館在餐廳和醫院的中間。",
+     "py": "Túshūguǎn zài cāntīng hé yīyuàn de zhōngjiān.",
+     "en": "The library is between the restaurant and the hospital."
+    },
+    "C": {
+     "zh": "餐廳在圖書館和醫院的中間。",
+     "py": "Cāntīng zài túshūguǎn hé yīyuàn de zhōngjiān.",
+     "en": "The restaurant is between the library and the hospital."
+    }
+   },
+   "image": [
+    {
+     "zh": "法國餐廳",
+     "py": "Fǎguó cāntīng",
+     "en": "French Restaurant"
+    },
+    {
+     "zh": "台北圖書館",
+     "py": "Táiběi túshūguǎn",
+     "en": "Taipei Library"
+    },
+    {
+     "zh": "新新醫院",
+     "py": "Xīn xīn yīyuàn",
+     "en": "Xinxin Hospital"
+    }
+   ]
+  },
+  "24": {
+   "options": {
+    "A": {
+     "zh": "他們都一樣大。",
+     "py": "Tāmen dōu yíyàng dà.",
+     "en": "They are both the same age."
+    },
+    "B": {
+     "zh": "他們都是學生。",
+     "py": "Tāmen dōu shì xuéshēng.",
+     "en": "They are both students."
+    },
+    "C": {
+     "zh": "他們都會英文。",
+     "py": "Tāmen dōu huì Yīngwén.",
+     "en": "They can both speak English."
+    }
+   },
+   "image": [
+    {
+     "zh": "二十六歲",
+     "py": "Èrshíliùsuì",
+     "en": "26 years old"
+    },
+    {
+     "zh": "音樂老師",
+     "py": "Yīnyuè lǎoshī",
+     "en": "Music teacher"
+    },
+    {
+     "zh": "說英文、中文",
+     "py": "Shuō Yīngwén, Zhōngwén",
+     "en": "Speaks English and Chinese"
+    },
+    {
+     "zh": "十九歲",
+     "py": "Shíjiǔsuì",
+     "en": "19 years old"
+    },
+    {
+     "zh": "大學二年級",
+     "py": "Dàxué èrniánjí",
+     "en": "University sophomore (second year)"
+    },
+    {
+     "zh": "說日文、英文",
+     "py": "Shuō rìwén, Yīngwén",
+     "en": "Speaks Japanese and English"
+    }
+   ]
+  },
+  "25": {
+   "options": {
+    "A": {
+     "zh": "酒比茶便宜。",
+     "py": "Jiǔ bǐ chá piányi.",
+     "en": "Wine is cheaper than tea."
+    },
+    "B": {
+     "zh": "咖啡比酒便宜。",
+     "py": "Kāfēi bǐ jiǔ piányi.",
+     "en": "Coffee is cheaper than wine."
+    },
+    "C": {
+     "zh": "茶比咖啡便宜。",
+     "py": "Chá bǐ kāfēi piányi.",
+     "en": "Tea is cheaper than coffee."
+    }
+   },
+   "image": [
+    {
+     "zh": "茶 85元",
+     "py": "Chá 85 yuán",
+     "en": "Tea NT$85"
+    },
+    {
+     "zh": "咖啡 55元",
+     "py": "Kāfēi 55 yuán",
+     "en": "Coffee NT$55"
+    },
+    {
+     "zh": "酒 50元",
+     "py": "Jiǔ 50 yuán",
+     "en": "Wine NT$50"
+    }
+   ]
+  }
+ }
+}

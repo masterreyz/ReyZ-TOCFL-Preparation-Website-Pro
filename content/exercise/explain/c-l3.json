@@ -1,0 +1,2109 @@
+{
+ "testId": "c-l3",
+ "segments": 403,
+ "englishComplete": false,
+ "questions": {
+  "1": {
+   "options": {
+    "A": {
+     "zh": "她沒聽說文華去賭博",
+     "py": "Tā méi tīngshuō Wénhuá qù dǔbó"
+    },
+    "B": {
+     "zh": "文華不抽煙，但是愛賭博",
+     "py": "Wénhuá bù chōuyān, dànshì ài dǔbó"
+    },
+    "C": {
+     "zh": "文華喝酒以後，就不說話",
+     "py": "Wénhuá hējiǔ yǐhòu, jiù bù shuōhuà"
+    },
+    "D": {
+     "zh": "她不能忍受文華的壞習慣",
+     "py": "Tā bùnéng rěnshòu Wénhuá de huàixíguàn"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這段對話，然後回答兩個問題。",
+     "py": "Qǐng tīng zhèduàn duìhuà, ránhòu huídá liǎng ge wèntí."
+    },
+    {
+     "zh": "男：小妹，文華呢？怎麼沒來？",
+     "py": "Nán: Xiǎomèi, Wénhuá ne? Zěnme méi lái?"
+    },
+    {
+     "zh": "女：我們協議分居了。他抽菸、喝酒不說，竟然還跑去賭博。",
+     "py": "Nǚ: Wǒmen xiéyì fēnjū le. Tā chōuyān, hējiǔ bù shuō, jìngrán hái pǎo qù dǔbó."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "這位小姐的意思是什麼？",
+     "py": "Zhèwèi Xiǎojiě de yìsi shì shénme?"
+    }
+   ]
+  },
+  "2": {
+   "options": {
+    "A": {
+     "zh": "親戚",
+     "py": "Qīnqī"
+    },
+    "B": {
+     "zh": "父女",
+     "py": "Fùnǚ"
+    },
+    "C": {
+     "zh": "兄妹",
+     "py": "Xiōngmèi"
+    },
+    "D": {
+     "zh": "夫妻",
+     "py": "Fūqī"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這位小姐和文華是什麼關係？",
+     "py": "Zhèwèi Xiǎojiě hé Wénhuá shì shénme guānxì?"
+    }
+   ]
+  },
+  "3": {
+   "options": {
+    "A": {
+     "zh": "他以為小倩要領養小孩",
+     "py": "Tā yǐwéi Xiǎoqiàn yào lǐngyǎng xiǎohái"
+    },
+    "B": {
+     "zh": "他未滿二十歲無法領養",
+     "py": "Tā wèimǎn èrshísuì wúfǎ lǐngyǎng"
+    },
+    "C": {
+     "zh": "他想了解認養小孩的權益",
+     "py": "Tā xiǎng liǎojiě rènyǎng xiǎohái de quányì"
+    },
+    "D": {
+     "zh": "他對領養這件事不甚瞭解",
+     "py": "Tā duì lǐngyǎng zhèjiàn shì búshènliǎojiě"
+    }
+   },
+   "intro": [
+    {
+     "zh": "小倩要認一位好姊妹的小孩做乾女兒，正在準備所需要的東西，小志看見了很好",
+     "py": "Xiǎoqiàn yào rèn yíwèi hǎozǐmèi de xiǎohái zuò Gànnǚér, zhèngzài zhǔnbèi suǒ xūyào de Dōngxi, Xiǎozhì kànjiàn le hěnhǎo"
+    },
+    {
+     "zh": "奇。以下是他們的對話。請聽這段對話，然後回答三個問題。",
+     "py": "Qí. Yǐxià shì tāmen de duìhuà. Qǐng tīng zhèduàn duìhuà, ránhòu huídá sān ge wèntí."
+    },
+    {
+     "zh": "現在請聽對話。",
+     "py": "Xiànzài qǐng tīng duìhuà."
+    },
+    {
+     "zh": "男：喔，這套嬰兒服是給小寶寶的吧！顏色真漂亮！但是…茶——壺是怎麼回事",
+     "py": "Nán: Ō, zhè tào yīngér fú shì gěi Xiǎobǎobǎo de ba! Yánsè zhēn piàoliang! Dànshì… chá—— hú shì zěnmehuíshì"
+    },
+    {
+     "zh": "啊？",
+     "py": "A?"
+    },
+    {
+     "zh": "女：小志，在中國人的習俗裡，認乾女兒要講禮數的喔，簡單來說，這茶壺裡裝",
+     "py": "Nǚ: Xiǎozhì, zài Zhōngguó rén de xísú lǐ, rèn Gànnǚér yào jiǎng lǐshù de ō, jiǎndān láishuō, zhè cháhú lǐ zhuāng"
+    },
+    {
+     "zh": "上米和水送給小寶寶，這樣尌表示我收了個乾女兒。",
+     "py": "Shàngmǐhéshuǐ sònggěi Xiǎobǎobǎo, zhèyàng shù biǎoshì wǒ shōu le gè Gànnǚér."
+    },
+    {
+     "zh": "男：喔！是領養嗎？孩子要跟妳一起住嗎？嗯，以領養來說，法律規定，領養人",
+     "py": "Nán: Ō! Shì lǐngyǎng ma? Háizi yào gēn nǐ yìqǐ zhù ma? ń, yǐ lǐngyǎng láishuō, fǎlǜ guīdìng, lǐngyǎngrén"
+    },
+    {
+     "zh": "得要比小孩兒至少年長二十歲以上。如果是夫妻，只要有一方不符規定，尌",
+     "py": "Dé yào bǐ xiǎoháiér zhìshǎo niánzhǎng èrshísuì yǐshàng. Rúguǒ shì fūqī, zhǐyào yǒu yìfāng bùfú guīdìng, shù"
+    },
+    {
+     "zh": "無效，妳確定要這麼做嗎？妳的條件不太符合耶！",
+     "py": "Wúxiào, nǐ quèdìng yào zhème zuò ma? Nǐ de tiáojiàn bù tài fúhé Yé!"
+    },
+    {
+     "zh": "女：唉唷，認乾女兒哪有這麼複雜？不用經過什麼法律程序。小孩還是跟自己的",
+     "py": "Nǚ: Āi yō, rèn Gànnǚér nǎ yǒu zhème fùzá? Búyòng jīngguò shénme fǎlǜ chéngxù. Xiǎohái háishì gēn zìjǐ de"
+    },
+    {
+     "zh": "爮爮媽媽住，只是彼此認定，感覺像是多了一位親人吧！",
+     "py": "Páo páo māma zhù, zhǐshì bǐcǐ rèndìng, gǎnjué xiàngshì duō le yíwèi qīnrén ba!"
+    },
+    {
+     "zh": "男：也尌是說，沒有法律保障？很多人都這麼做嗎？完全不走法律程序？這麼一",
+     "py": "Nán: Yě shù shì shuō, méiyǒu fǎlǜ bǎozhàng? Hěnduō rén dōu zhème zuò ma? Wánquán bù zǒu fǎlǜ chéngxù? Zhème yī"
+    },
+    {
+     "zh": "來，根本沒有「領養」這回事，那妳幹嘛準備這麼多東西啊？",
+     "py": "Lái, gēnběn méiyǒu “Lǐngyǎng” zhè huíshì, nà nǐ gànmá zhǔnbèi zhème duō Dōngxi a?"
+    },
+    {
+     "zh": "女：小志，你完全誤會了，認乾兒子、乾女兒，並不是要撫養對方的小孩，而是",
+     "py": "Nǚ: Xiǎozhì, nǐ wánquán wùhuì le, rèn gānérzi, Gànnǚér, bìng búshì yào fǔyǎng duìfāng de xiǎohái, érshì"
+    },
+    {
+     "zh": "因為和朋友交情匪淺，願意把他們的孩子當作自己的孩子一樣疼愛的一種表",
+     "py": "Yīnwèi hé péngyǒu jiāoqíng fěi qiǎn, yuànyì bǎ tāmen de háizi dàngzuò zìjǐ de háizi yíyàng téngài de yìzhǒng biǎo"
+    },
+    {
+     "zh": "示。",
+     "py": "Shì."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "根據對話，小志為什麼提到領養小孩的事？",
+     "py": "Gēnjù duìhuà, Xiǎozhì wèishénme tídào lǐngyǎng xiǎohái de shì?"
+    }
+   ]
+  },
+  "4": {
+   "options": {
+    "A": {
+     "zh": "複雜的領養儀式",
+     "py": "Fùzá de lǐngyǎng yíshì"
+    },
+    "B": {
+     "zh": "法律的先後順序",
+     "py": "Fǎlǜ de xiānhòushùnxù"
+    },
+    "C": {
+     "zh": "領養與認乾女兒的不同",
+     "py": "Lǐngyǎng yǔ rèn Gànnǚér de bùtóng"
+    },
+    "D": {
+     "zh": "親生父母與孩子的關係",
+     "py": "Qīnshēngfùmǔ yǔ háizi de guānxì"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "小志對什麼感到疑惑？",
+     "py": "Xiǎozhì duì shénme gǎndào yíhuò?"
+    }
+   ]
+  },
+  "5": {
+   "options": {
+    "A": {
+     "zh": "程序複雜不合乎常理",
+     "py": "Chéngxù fùzá bù héhū chánglǐ"
+    },
+    "B": {
+     "zh": "應遵照法律程序辦理",
+     "py": "Yīng zūnzhào fǎlǜ chéngxù bànlǐ"
+    },
+    "C": {
+     "zh": "建議立法給予合理的保障",
+     "py": "Jiànyì lìfǎ jǐyǔ hélǐ de bǎozhàng"
+    },
+    "D": {
+     "zh": "沒有實質效益，多此一舉",
+     "py": "Méiyǒu shízhì xiàoyì, duōcǐyìjǔ"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "最後，小志覺得認乾女兒這件事怎麼樣？",
+     "py": "Zuìhòu, Xiǎozhì juéde rèn Gànnǚér zhèjiàn shì zěnmeyàng?"
+    }
+   ]
+  },
+  "6": {
+   "passage": [
+    {
+     "zh": "下面是一段「對口相聲」的表演，請聽完後，回答下面四個問題：",
+     "py": "Xiàmiàn shì yíduàn “Duìkǒuxiàngshēng” de biǎoyǎn, qǐng tīng wán hòu, huídá xiàmiàn sì ge wèntí:"
+    }
+   ],
+   "stem": {
+    "zh": "這位先生說的故事裡面有什麼角色？",
+    "py": "Zhèwèi xiānsheng shuō de gùshì lǐmiàn yǒu shénme juésè?"
+   },
+   "options": {
+    "A": {
+     "zh": "秀才",
+     "py": "Xiùcái"
+    },
+    "B": {
+     "zh": "瘦馬",
+     "py": "Shòumǎ"
+    },
+    "C": {
+     "zh": "佳人",
+     "py": "Jiārén"
+    },
+    "D": {
+     "zh": "肥羊",
+     "py": "Féiyáng"
+    }
+   },
+   "intro": [
+    {
+     "zh": "下面是一段「對口相聲」的表演，請聽完後，回答下面四個問題：",
+     "py": "Xiàmiàn shì yíduàn “Duìkǒuxiàngshēng” de biǎoyǎn, qǐng tīng wán hòu, huídá xiàmiàn sì ge wèntí:"
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "這位先生說的故事裡面有什麼角色？",
+     "py": "Zhèwèi xiānsheng shuō de gùshì lǐmiàn yǒu shénme juésè?"
+    }
+   ]
+  },
+  "7": {
+   "stem": {
+    "zh": "當這位小姐諷刺這位先生是「酸秀才」時，他怎麼回應？",
+    "py": "Dāng zhèwèi Xiǎojiě fěngcì zhèwèi xiānsheng shì “Suān xiùcái” shí, tā zěnme huíyìng?"
+   },
+   "options": {
+    "A": {
+     "zh": "幽默詼諧",
+     "py": "Yōumòhuīxié"
+    },
+    "B": {
+     "zh": "勃然大怒",
+     "py": "Bórándànù"
+    },
+    "C": {
+     "zh": "置之不理",
+     "py": "Zhìzhībùlǐ"
+    },
+    "D": {
+     "zh": "反脣相譏",
+     "py": "Fǎnchúnxiāngjī"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "當這位小姐諷刺這位先生是「酸秀才」時，他怎麼回應？",
+     "py": "Dāng zhèwèi Xiǎojiě fěngcì zhèwèi xiānsheng shì “Suān xiùcái” shí, tā zěnme huíyìng?"
+    }
+   ]
+  },
+  "8": {
+   "stem": {
+    "zh": "這位小姐原本期待怎樣的故事？",
+    "py": "Zhèwèi Xiǎojiě yuánběn qīdài zěnyàng de gùshì?"
+   },
+   "options": {
+    "A": {
+     "zh": "惹人遐想的愛情故事",
+     "py": "Rě rén xiáxiǎng de àiqínggùshì"
+    },
+    "B": {
+     "zh": "匪夷所思的懸疑故事",
+     "py": "Fěiyísuǒsī de xuányí gùshì"
+    },
+    "C": {
+     "zh": "歷經風霜的勵志故事",
+     "py": "Lìjīng fēngshuāng de lìzhì gùshì"
+    },
+    "D": {
+     "zh": "風趣幽默的古城遊記",
+     "py": "Fēngqù yōumò de Gǔchéng yóujì"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這位小姐原本期待怎樣的故事？",
+     "py": "Zhèwèi Xiǎojiě yuánběn qīdài zěnyàng de gùshì?"
+    }
+   ]
+  },
+  "9": {
+   "stem": {
+    "zh": "關於這位先生說的「故事」，下面哪一個是對的？",
+    "py": "Guānyú zhèwèi xiānsheng shuō de “Gùshì”, xiàmiàn nǎ yí ge shì duì de?"
+   },
+   "options": {
+    "A": {
+     "zh": "故事內容和考試有關",
+     "py": "Gùshì nèiróng hé kǎoshì yǒuguān"
+    },
+    "B": {
+     "zh": "故事發生的背景在現代",
+     "py": "Gùshì fāshēng de bèijǐng zài xiàndài"
+    },
+    "C": {
+     "zh": "故事並未交代主角怎麼受傷的",
+     "py": "Gùshì bìngwèi jiāodài zhǔjué zěnme shòushāng de"
+    },
+    "D": {
+     "zh": "故事結局和這位小姐的想法一致",
+     "py": "Gùshì jiéjú hé zhèwèi Xiǎojiě de xiǎngfǎ yízhì"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "關於這位先生說的「故事」，下面哪一個是對的？",
+     "py": "Guānyú zhèwèi xiānsheng shuō de “Gùshì”, xiàmiàn nǎ yí ge shì duì de?"
+    }
+   ]
+  },
+  "10": {
+   "passage": [
+    {
+     "zh": "最近正值市長選舉期間，許多政治名嘴紛紛上節目表達他們對候選人的看法。",
+     "py": "Zuìjìn zhèngzhí shìzhǎng xuǎnjǔ qījiān, xǔduō zhèngzhì míngzuǐ fēnfēn shàng jiémù biǎodá tāmen duì hòuxuǎnrén de kànfǎ."
+    },
+    {
+     "zh": "某政論節目主持人董振華先生邀請來賓—資深媒體人黃月華小姐，討論二號候選人李光明博士的競選理念與政見。",
+     "py": "Mǒu zhènglùn jiémù zhǔchírén Dǒng Zhènhuá xiānsheng yāoqǐng láibīn— zīshēn méitǐ rén Huáng yuèhuá Xiǎojiě, tǎolùn èrhào hòuxuǎnrén Lǐ guāngmíng bóshì de jìngxuǎn lǐniàn yǔ zhèngjiàn."
+    },
+    {
+     "zh": "請聽完對話後，回答四個問題。",
+     "py": "Qǐng tīng wán duìhuà hòu, huídá sì ge wèntí."
+    },
+    {
+     "zh": "現在請聽對話。",
+     "py": "Xiànzài qǐng tīng duìhuà."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "居住安全",
+     "py": "Jūzhù ānquán"
+    },
+    "B": {
+     "zh": "大眾運輸",
+     "py": "Dàzhòng yùnshū"
+    },
+    "C": {
+     "zh": "環境保護",
+     "py": "Huánjìngbǎohù"
+    },
+    "D": {
+     "zh": "土地開發",
+     "py": "Tǔdì kāifā"
+    }
+   },
+   "intro": [
+    {
+     "zh": "現在請聽這段表演。",
+     "py": "Xiànzài qǐng tīng zhèduàn biǎoyǎn."
+    },
+    {
+     "zh": "男：好久好久以前，春秋戰國，一條羊腸古道，古道上有匹瘦馬，西風徐吹。",
+     "py": "Nán: Hǎojiǔhǎojiǔ yǐqián, Chūnqiūzhànguó, yìtiáo yángcháng gǔdào, gǔdào shàngyǒu pǐ Shòumǎ, Xīfēng Xúchuī."
+    },
+    {
+     "zh": "女：唉呦！敢情是古道西風瘦馬，苦命呦這馬；哈哈！瞧你穿著長袍馬掛—酸秀",
+     "py": "Nǚ: Āi yōu! Gǎnqíngshì gǔdào Xīfēng Shòumǎ, kǔmìng yōu zhè mǎ; hāhā! Qiáo nǐ chuānzhù chángpáo mǎ guà— suānxiù"
+    },
+    {
+     "zh": "才。",
+     "py": "Cái."
+    },
+    {
+     "zh": "男：不酸，我剛吃糖！",
+     "py": "Nán: Bù suān, wǒ gāng chītáng!"
+    },
+    {
+     "zh": "女：我還沒聽過甜書生呢！呦！您這身打扮，我知道了，您該不會要說一位秀才",
+     "py": "Nǚ: Wǒ hái méi tīng guò tián shūshēng ne! Yōu! Nín zhèshēn dǎbàn, wǒ zhīdào le, nín gāi búhuì yàoshuō yíwèi xiùcái"
+    },
+    {
+     "zh": "進京趕考，然後…遇到辣妹，接著一時天雷勾動地火、一發不可收拾的故事",
+     "py": "Jìnjīng gǎnkǎo, ránhòu… yùdào làmèi, jiēzhù yìshí tiānléi gōudòng dìhuǒ, yìfā bùkěshōushí de gùshì"
+    },
+    {
+     "zh": "吧！",
+     "py": "Ba!"
+    },
+    {
+     "zh": "男：瞧你那垂涎樣兒，省省吧！我剛不說了這是個春秋戰國的故事。這春秋戰國",
+     "py": "Nán: Qiáo nǐ nà chuíxián yàngér, shěng shěng ba! Wǒ gāng bù shuō le zhè shì gè Chūnqiūzhànguó de gùshì. Zhè Chūnqiūzhànguó"
+    },
+    {
+     "zh": "哪來的科舉考詴啊？再說，我剛剛哪句話談到了秀才啊？",
+     "py": "Nǎ lái de kējǔ kǎo wēi a? Zàishuō, wǒ gānggāng nǎjù huà tándào le xiùcái a?"
+    },
+    {
+     "zh": "女：哈，不好意思，秀才是我說的。但這故事幹嘛要遠到春秋戰國啊？",
+     "py": "Nǚ: Hā, bùhǎoyìsī, xiùcái shì wǒ shuō de. Dàn zhè gùshì gànmá yào yuǎn dào Chūnqiūzhànguó a?"
+    },
+    {
+     "zh": "男：因為「好久好久以前」，這一路呢，尌到了春秋戰國。喂，這言歸正傳，你",
+     "py": "Nán: Yīnwèi “Hǎojiǔhǎojiǔ yǐqián”, zhè yílù ne, shù dào le Chūnqiūzhànguó. Wèi, zhè yánguīzhèngzhuàn, nǐ"
+    },
+    {
+     "zh": "剛不說了「古道西風瘦馬」嗎？這下句呢？",
+     "py": "Gāng bù shuō le “Gǔdào Xīfēng Shòumǎ” ma? Zhè xià jù ne?"
+    },
+    {
+     "zh": "女：「斷腸人在天涯」啊！",
+     "py": "Nǚ: “Duànchángrén zài tiānyá” a!"
+    },
+    {
+     "zh": "男：錯，這斷腸人應該在醫院，這腸都斷了，還不趕緊送醫啊！",
+     "py": "Nán: Cuò, zhè duànchángrén yīnggāi zài yīyuàn, zhè cháng dōu duàn le, hái bù gǎnjǐn sòngyī a!"
+    },
+    {
+     "zh": "女：欸，你走哪兒去啊？",
+     "py": "Nǚ: Āi, nǐ zǒu nǎér qù a?"
+    },
+    {
+     "zh": "男：主角都送醫了，還能不結束嗎？",
+     "py": "Nán: Zhǔjué dōu sòngyī le, hái néng bù jiéshù ma?"
+    },
+    {
+     "zh": "女：欸，什麼啊！你等等我呀…",
+     "py": "Nǚ: Āi, shénme a! Nǐ děngděng wǒ ya…"
+    },
+    {
+     "zh": "6. 這位先生說的故事裡面有什麼角色？",
+     "py": "6. Zhèwèi xiānsheng shuō de gùshì lǐmiàn yǒu shénme juésè?"
+    },
+    {
+     "zh": "7. 當這位小姐諷刺這位先生是「酸秀才」時，他怎麼回應？",
+     "py": "7. Dāng zhèwèi Xiǎojiě fěngcì zhèwèi xiānsheng shì “Suān xiùcái” shí, tā zěnme huíyìng?"
+    },
+    {
+     "zh": "8. 這位小姐原本期待怎樣的故事？",
+     "py": "8. Zhèwèi Xiǎojiě yuánběn qīdài zěnyàng de gùshì?"
+    },
+    {
+     "zh": "9. 關於這位先生說的「故事」，下面哪一個是對的？",
+     "py": "9. Guānyú zhèwèi xiānsheng shuō de “Gùshì”, xiàmiàn nǎ yí ge shì duì de?"
+    },
+    {
+     "zh": "最近正值市長選舉期間，許多政治名嘴紛紛上節目表達他們對候選人的看法。某",
+     "py": "Zuìjìn zhèngzhí shìzhǎng xuǎnjǔ qījiān, xǔduō zhèngzhì míngzuǐ fēnfēn shàng jiémù biǎodá tāmen duì hòuxuǎnrén de kànfǎ. Mǒu"
+    },
+    {
+     "zh": "政論節目主持人董振華先生邀請來賓—資深媒體人黃月華小姐，討論二號候選人",
+     "py": "Zhènglùn jiémù zhǔchírén Dǒng Zhènhuá xiānsheng yāoqǐng láibīn— zīshēn méitǐ rén Huáng yuèhuá Xiǎojiě, tǎolùn èrhào hòuxuǎnrén"
+    },
+    {
+     "zh": "李光明博士的競選理念與政見。請聽完對話後，回答四個問題。",
+     "py": "Lǐ guāngmíng bóshì de jìngxuǎn lǐniàn yǔ zhèngjiàn. Qǐng tīng wán duìhuà hòu, huídá sì ge wèntí."
+    },
+    {
+     "zh": "現在請聽對話。",
+     "py": "Xiànzài qǐng tīng duìhuà."
+    },
+    {
+     "zh": "男：候選人李光明博士指出，這個城市還在發展，他規劃在未來兩年內升級道路",
+     "py": "Nán: Hòuxuǎnrén Lǐ guāngmíng bóshì zhǐchū, zhè ge Chéngshì hái zài fāzhǎn, tā guīhuà zài wèilái liǎngnián nèi shēngjí dàolù"
+    },
+    {
+     "zh": "並建立防洪系統，將目前郊區廢置的空地採用與企業合作的方式，規劃成商",
+     "py": "Bìng jiànlì fánghóng xìtǒng, jiāng mùqián jiāoqū fèizhì de kòngdì cǎiyòng yǔ qǐyè hézuò de fāngshì, guīhuà chéngshāng"
+    },
+    {
+     "zh": "業區及購物商城，希望吸引更多資金注入本市。李博士的規劃，讓我們看見",
+     "py": "Yèqū jí gòuwù Shāngchéng, xīwàng xīyǐn gèng duō zījīn zhùrù běnshì. Lǐbóshì de guīhuà, ràng wǒmen kànjiàn"
+    },
+    {
+     "zh": "了這個城市的願景，月華你怎麼看？",
+     "py": "Le zhè ge Chéngshì de yuànjǐng, yuèhuá nǐ zěnme kàn?"
+    },
+    {
+     "zh": "女：地方繁榮或許能提高房產價值，但是隨之而來的房價飆升，最後真正得利的",
+     "py": "Nǚ: Dìfāng fánróng huòxǔ néng tígāo fángchǎn jiàzhí, dànshì suízhīérlái de fángjià biāoshēng, zuìhòu zhēnzhèng délì de"
+    },
+    {
+     "zh": "是財團？還是居民？至於剛剛提到的城市建設、願景，我只想說，所有的願",
+     "py": "Shì cáituán? Háishì jūmín? Zhìyú gānggāng tídào de Chéngshì jiànshè, yuànjǐng, wǒ zhǐ xiǎng shuō, suǒyǒu de yuàn"
+    },
+    {
+     "zh": "景背後若是沒有龐大財團支撐，那才叫畫餅充飢！",
+     "py": "Jǐng bèihòu ruò shì méiyǒu pángdà cáituán zhīchēng, nà cái jiào huàbǐngchōngjī!"
+    },
+    {
+     "zh": "男：財團，我懂妳的意思，畢竟李博士不可能叫居民多繳稅來達成他的願景。",
+     "py": "Nán: Cáituán, wǒ dǒng nǐ de yìsi, bìjìng Lǐbóshì bù kěnéng jiào jūmín duō jiǎoshuì lái dáchéng tā de yuànjǐng."
+    },
+    {
+     "zh": "女：李博士提到了打擊犯罪或是創造尌業機會了嗎？沒有，他連提都沒提，為什",
+     "py": "Nǚ: Lǐbóshì tídào le dǎjīfànzuì huòshì chuàngzào shù yè jīhuì le ma? Méiyǒu, tā lián tí dōu méi tí, wèi shén"
+    },
+    {
+     "zh": "麼？大家或許可以思考一下，這兩件事有沒有經濟效益可言。",
+     "py": "Me? Dàjiā huòxǔ kěyǐ sīkǎo yíxià, zhè liǎngjiànshì yǒuméiyǒu jīngjìxiàoyì kěyán."
+    },
+    {
+     "zh": "男：哇，經妳這麼一說，我想李博士恐怕是拿不到我手中那一票了，哈哈哈！",
+     "py": "Nán: Wa, jīng nǐ zhème yī shuō, wǒ xiǎng Lǐbóshì kǒngpà shì ná búdào wǒ shǒuzhōng nà yípiào le, hāhāhā!"
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "根據對話，這位候選人著重城市哪方面的發展？",
+     "py": "Gēnjù duìhuà, zhèwèi hòuxuǎnrén zhùzhòng Chéngshì nǎ fāngmiàn de fāzhǎn?"
+    }
+   ]
+  },
+  "11": {
+   "options": {
+    "A": {
+     "zh": "他預備提高居民賦稅",
+     "py": "Tā yùbèi tígāo jūmín fùshuì"
+    },
+    "B": {
+     "zh": "他想將空地全部標售",
+     "py": "Tā xiǎng jiāng kòngdì quánbù biāoshòu"
+    },
+    "C": {
+     "zh": "他打算和企業共同開發",
+     "py": "Tā dǎsuàn hé qǐyè gòngtóngkāifā"
+    },
+    "D": {
+     "zh": "他準備打擊飆升的房價",
+     "py": "Tā zhǔnbèi dǎjī biāoshēng de fángjià"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "根據對話，下面哪一項是這位候選人所提出的？",
+     "py": "Gēnjù duìhuà, xiàmiàn nǎ yíxiàng shì zhèwèi hòuxuǎnrén suǒ tíchū de?"
+    }
+   ]
+  },
+  "12": {
+   "options": {
+    "A": {
+     "zh": "十分實際",
+     "py": "Shífēn shíjì"
+    },
+    "B": {
+     "zh": "頗有遠見",
+     "py": "Pǒ yǒuyuǎnjiàn"
+    },
+    "C": {
+     "zh": "毫無章法",
+     "py": "Háowú zhāngfǎ"
+    },
+    "D": {
+     "zh": "別有居心",
+     "py": "Bié yǒu jūxīn"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "月華對於候選人提出的政見，有什麼看法？",
+     "py": "Yuèhuá duìyú hòuxuǎnrén tíchū de zhèngjiàn, yǒu shénme kànfǎ?"
+    }
+   ]
+  },
+  "13": {
+   "options": {
+    "A": {
+     "zh": "他被月華說服了",
+     "py": "Tā bèi yuèhuá shuōfú le"
+    },
+    "B": {
+     "zh": "他贊同李博士的想法",
+     "py": "Tā zàntóng Lǐbóshì de xiǎngfǎ"
+    },
+    "C": {
+     "zh": "他想知道月華會投票給誰",
+     "py": "Tā xiǎng zhīdào yuèhuá huì tóupiào gěi shuí"
+    },
+    "D": {
+     "zh": "他想進一步了解李博士的看法",
+     "py": "Tā xiǎng jìnyíbù liǎojiě Lǐbóshì de kànfǎ"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "主持人最後的意思是什麼？",
+     "py": "Zhǔchírén zuìhòu de yìsi shì shénme?"
+    }
+   ]
+  },
+  "14": {
+   "passage": [
+    {
+     "zh": "一位業餘攝影師跑遍世界各地，透過鏡頭發表了他對「圈養」的看法。",
+     "py": "Yíwèi yèyú shèyǐngshī pǎobiàn shìjiègèdì, tòuguò jìngtóu fābiǎo le tā duì “Quānyǎng” de kànfǎ."
+    },
+    {
+     "zh": "請聽這段記者與攝影師的訪談，然後回答四個問題。",
+     "py": "Qǐng tīng zhèduàn jìzhě yǔ shèyǐngshī de fǎngtán, ránhòu huídá sì ge wèntí."
+    },
+    {
+     "zh": "現在請聽訪談。",
+     "py": "Xiànzài qǐng tīng fǎngtán."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "拍攝動物靜止不動的姿態",
+     "py": "Pāishè dòngwù jìngzhǐbúdòng de zītài"
+    },
+    "B": {
+     "zh": "捕捉動物獵食的瞬間畫面",
+     "py": "Bǔzhuō dòngwù lièshí de shùnjiān huàmiàn"
+    },
+    "C": {
+     "zh": "主角都是患病的野生動物",
+     "py": "Zhǔjué dōu shì huànbìng de yěshēngdòngwù"
+    },
+    "D": {
+     "zh": "呈現動物在移動中的速度",
+     "py": "Chéngxiàn dòngwù zài yídòng zhōng de sùdù"
+    }
+   },
+   "intro": [
+    {
+     "zh": "一位業餘攝影師跑遍世界各地，透過鏡頭發表了他對「圈養」的看法。請聽這段",
+     "py": "Yíwèi yèyú shèyǐngshī pǎobiàn shìjiègèdì, tòuguò jìngtóu fābiǎo le tā duì “Quānyǎng” de kànfǎ. Qǐng tīng zhèduàn"
+    },
+    {
+     "zh": "記者與攝影師的訪談，然後回答四個問題。",
+     "py": "Jìzhě yǔ shèyǐngshī de fǎngtán, ránhòu huídá sì ge wèntí."
+    },
+    {
+     "zh": "現在請聽訪談。",
+     "py": "Xiànzài qǐng tīng fǎngtán."
+    },
+    {
+     "zh": "女：一連兩個星期的動物攝影展引起騷動，讓不少入場參觀的民眾留言表示討厭",
+     "py": "Nǚ: Yìlián liǎng ge xīngqī de dòngwù shèyǐngzhǎn yǐnqǐ sāodòng, ràng bùshǎo rùchǎng cānguān de mínzhòng liúyán biǎoshì tǎoyàn"
+    },
+    {
+     "zh": "動物園！可否跟我們談談，是什麼促使您有不一樣的發想？",
+     "py": "Dòngwùyuán! Kěfǒu gēn wǒmen tántán, shì shénme cùshǐ nín yǒu bù yíyàng de fāxiǎng?"
+    },
+    {
+     "zh": "男：唉！決定這些動物待遇的永遠都是票房，只要能夠讓大家掏錢買票進場，分",
+     "py": "Nán: Āi! Juédìng zhèxiē dòngwù dàiyù de Yǒngyuǎndōushì piàofáng, zhǐyào nénggòu ràng dàjiā tāoqián mǎipiào jìnchǎng, fēn"
+    },
+    {
+     "zh": "配到的空間尌大些。這樣的念頭讓我決定拍攝這一系列動物作品，呈現動物",
+     "py": "Pèidào de kōngjiān shù dà xiē. Zhèyàng de niàntou ràng wǒ juédìng pāishè zhè yíxìliè dòngwù zuòpǐn, chéngxiàn dòngwù"
+    },
+    {
+     "zh": "們靜止、動也不動地靜態畫面。",
+     "py": "Men jìngzhǐ, dòng yě búdòng dì jìngtài huàmiàn."
+    },
+    {
+     "zh": "女：嗯…動物園的展示手法，會因為國家或是民族文化而有差異嗎？",
+     "py": "Nǚ: ń… dòngwùyuán de zhǎnshì shǒufǎ, huì yīnwèi guójiā huòshì mínzú wénhuà ér yǒu chāyì ma?"
+    },
+    {
+     "zh": "男：雖然展示手法不同，也不排除文化影響的可能性，但是影響力並沒有想像中",
+     "py": "Nán: Suīrán zhǎnshì shǒufǎ bùtóng, yě bù páichú wénhuà yǐngxiǎng de kěnéngxìng, dànshì yǐngxiǎnglì bìng méiyǒu xiǎngxiàngzhōng"
+    },
+    {
+     "zh": "的大。大抵上，不是石灰玻璃，尌是沒有綠意的小方盒子，不見天日。",
+     "py": "De dà. Dàdǐ shàng, búshì shíhuī bōlí, shù shì méiyǒu lǜyì de xiǎofāng hézi, bújiàntiānrì."
+    },
+    {
+     "zh": "女：為何作品中的動物總是看起來特別沮喪，這是故意的嗎？我記得當中有面壁",
+     "py": "Nǚ: Wèihé zuòpǐn zhōng de dòngwù zǒngshì kànqǐlái tèbié jǔsàng, zhè shì gùyì de ma? Wǒ jìde dāngzhōng yǒu miànbì"
+    },
+    {
+     "zh": "沉思的禿鷹，看起來帄靜又憂鬱。",
+     "py": "Chénsī de tūyīng, kànqǐlái dīng jìng yòu yōuyù."
+    },
+    {
+     "zh": "男：假設是妳，妳覺得怎麼樣？換做我啊，寧可到羅馬競技場鬥個你死我活，至",
+     "py": "Nán: Jiǎshè shì nǐ, nǐ juéde zěnmeyàng? Huàn zuò wǒ a, Nìngkě dào Luómǎ jìngjìchǎng dòu gè nǐsǐwǒhuó, zhì"
+    },
+    {
+     "zh": "少痛快一些。在引進任何一種動物以前，都應該先評估環境是否適合，否則",
+     "py": "Shǎo tòngkuài yìxiē. Zài yǐnjìn rènhé yìzhǒng dòngwù yǐqián, dōu yīnggāi xiān pínggū huánjìng shìfǒu shìhé, fǒuzé"
+    },
+    {
+     "zh": "寧可都不要。",
+     "py": "Nìngkě dōu búyào."
+    },
+    {
+     "zh": "女：要評估現有動物園的環境，從中制訂出一套標準恐怕遙不可及。或許先幫這",
+     "py": "Nǚ: Yào pínggū xiànyǒu dòngwùyuán de huánjìng, cóngzhōng zhìdìng chū yítào biāozhǔn kǒngpà yáobùkějí. Huòxǔ xiān bāng zhè"
+    },
+    {
+     "zh": "些牢籠裡的動物，找回適合的環境，還比較實際。",
+     "py": "Xiē láolóng lǐ de dòngwù, zhǎohuí shìhé de huánjìng, hái bǐjiào shíjì."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "這一系列作品有何獨特之處？",
+     "py": "Zhè yíxìliè zuòpǐn yǒuhé dútè zhī chù?"
+    }
+   ]
+  },
+  "15": {
+   "options": {
+    "A": {
+     "zh": "動物園以票房決定展覽的主題",
+     "py": "Dòngwùyuán yǐ piàofáng juédìng zhǎnlǎn de zhǔtí"
+    },
+    "B": {
+     "zh": "動物園所擁有的動物來歷不明",
+     "py": "Dòngwùyuán suǒ yōngyǒu de dòngwù láilìbùmíng"
+    },
+    "C": {
+     "zh": "民眾體認作品所要表達的意涵",
+     "py": "Mínzhòng tǐrèn zuòpǐn suǒ yào biǎodá de yìhán"
+    },
+    "D": {
+     "zh": "民眾不滿作品擺設及參觀的路線",
+     "py": "Mínzhòng bùmǎn zuòpǐn bǎishè jí cānguān de lùxiàn"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "造成參觀攝影展民眾對動物園反感的主要原因是什麼？",
+     "py": "Zàochéng cānguān shèyǐngzhǎn mínzhòng duì dòngwùyuán fǎngǎn de zhǔyào yuányīn shì shénme?"
+    }
+   ]
+  },
+  "16": {
+   "options": {
+    "A": {
+     "zh": "指出動物一向被囚禁",
+     "py": "Zhǐchū dòngwù yíxiàng bèi qiújìn"
+    },
+    "B": {
+     "zh": "說明動物圈養的歷史",
+     "py": "Shuōmíng dòngwù quānyǎng de lìshǐ"
+    },
+    "C": {
+     "zh": "舉例說明動物的用途",
+     "py": "Jǔlìshuōmíng dòngwù de yòngtú"
+    },
+    "D": {
+     "zh": "表示寧願為生存而戰",
+     "py": "Biǎoshì nìngyuàn wèi shēngcún ér zhàn"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這位先生為什麼提到羅馬競技場？",
+     "py": "Zhèwèi xiānsheng wèishénme tídào Luómǎ jìngjìchǎng?"
+    }
+   ]
+  },
+  "17": {
+   "options": {
+    "A": {
+     "zh": "關閉不符合規定的動物園",
+     "py": "Guānbì bù fúhéguīdìng de dòngwùyuán"
+    },
+    "B": {
+     "zh": "調整動物的活動空間配置",
+     "py": "Tiáozhěng dòngwù de huódòng kōngjiān pèizhì"
+    },
+    "C": {
+     "zh": "重新思考引進動物的方法",
+     "py": "Chóngxīn sīkǎo yǐnjìn dòngwù de fāngfǎ"
+    },
+    "D": {
+     "zh": "模擬自然生態的生存機制",
+     "py": "Mónǐ zìránshēngtài de shēngcún jīzhì"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這位小姐最後提出什麼建議？",
+     "py": "Zhèwèi Xiǎojiě zuìhòu tíchū shénme jiànyì?"
+    }
+   ]
+  },
+  "18": {
+   "options": {
+    "A": {
+     "zh": "宣布吸收石油價差",
+     "py": "Xuānbù xīshōu shíyóu jiàchà"
+    },
+    "B": {
+     "zh": "鼓勵大家多去加油",
+     "py": "Gǔlì dàjiā duō qù jiāyóu"
+    },
+    "C": {
+     "zh": "預告天然氣將漲價",
+     "py": "Yùgào tiānránqì jiāng zhǎngjià"
+    },
+    "D": {
+     "zh": "說明石油漲價幅度",
+     "py": "Shuōmíng shíyóu zhǎngjià fúdù"
+    }
+   },
+   "intro": [
+    {
+     "zh": "以下是石油公司記者會上的部分對話，請聽對話，然後回答四個問題。",
+     "py": "Yǐxià shì shíyóu gōngsī jìzhěhuì shàng de bùfèn duìhuà, qǐng tīng duìhuà, ránhòu huídá sì ge wèntí."
+    },
+    {
+     "zh": "現在請聽對話。",
+     "py": "Xiànzài qǐng tīng duìhuà."
+    },
+    {
+     "zh": "男：自明日凌晨零時起，本月家用桶裝瓦斯、車用液化石油氣每公升調漲 0.8 元；",
+     "py": "Nán: Zì míngrì língchén língshí qǐ, běnyuè jiāyòng tǒngzhuāng Wǎsī, chēyòng yèhuà shíyóuqì měi gōngshēng diàozhǎng 0.8 yuán;"
+    },
+    {
+     "zh": "至於天然氣價格則不予調整。",
+     "py": "Zhìyú tiānránqì jiàgé zé bùyǔ tiáozhěng."
+    },
+    {
+     "zh": "女：請問這次石油漲價，是不是預告天然氣價格將會跟進呢？",
+     "py": "Nǚ: Qǐngwèn zhècì shíyóu zhǎngjià, shìbúshì yùgào tiānránqì jiàgé jiāng huì gēnjìn ne?"
+    },
+    {
+     "zh": "男：由於全年進口氣源成本穩定，依政府核定的天然氣計價公式計算後，本月份",
+     "py": "Nán: Yóuyú quánnián jìnkǒu qìyuán chéngběn wěndìng, yī zhèngfǔ hédìng de tiānránqì jìjià gōngshì jìsuàn hòu, běnyuèfèn"
+    },
+    {
+     "zh": "天然氣價格不予調整，詳情可參考公告的天然氣牌價表。",
+     "py": "Tiānránqì jiàgé bùyǔ tiáozhěng, xiángqíng kě cānkǎo gōnggào de tiānránqì páijià biǎo."
+    },
+    {
+     "zh": "女：石油價格一漲再漲，連帶造成物價波動。現階段石油公司會不會考慮，自行",
+     "py": "Nǚ: Shíyóujiàgé yī zhǎng zài zhǎng, liándài zàochéng wùjià bōdòng. Xiànjiēduàn shíyóu gōngsī huì búhuì kǎolǜ, zìxíng"
+    },
+    {
+     "zh": "吸收小幅調漲的價差，或採取其他配套措施？",
+     "py": "Xīshōu xiǎofú diàozhǎng de jiàchà, huò cǎiqǔ qítā pèitàocuòshī?"
+    },
+    {
+     "zh": "男：石油價格部分，主要受到近期中東緊張情勢增溫、軍事衝突擴大的影響，本",
+     "py": "Nán: Shíyóujiàgé bùfèn, zhǔyào shòudào jìnqī Zhōngdōng jǐnzhāng qíngshì zēngwēn, jūnshìchōngtū kuòdà de yǐngxiǎng, běn"
+    },
+    {
+     "zh": "月份液化石油氣國際合約價格較上個月上漲。本公司先前為配合政府穩定物",
+     "py": "Yuèfèn yèhuà shíyóuqì guójì héyuē jiàgé jiào shànggèyuè shàngzhǎng. Běn gōngsī xiānqián wèi pèihé zhèngfǔ wěndìng wù"
+    },
+    {
+     "zh": "價及照顧民生政策，每公升已吸收 2.65 元。國際油氣價格有漲有跌，請大",
+     "py": "Jià jí zhàogù mínshēng zhèngcè, měi gōngshēng yǐ xīshōu 2.65 yuán. Guójì yóuqì jiàgé yǒu zhǎng yǒu diē, qǐng dà"
+    },
+    {
+     "zh": "家體認全球能源有限的事實，珍惜能源。",
+     "py": "Jiā tǐrèn quánqiú néngyuán yǒuxiàn de shìshí, zhēnxī néngyuán."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "這個記者會主要目的是什麼？",
+     "py": "Zhè ge jìzhěhuì zhǔyào mùdì shì shénme?"
+    }
+   ]
+  },
+  "19": {
+   "options": {
+    "A": {
+     "zh": "進口成本波動",
+     "py": "Jìnkǒuchéngběn bōdòng"
+    },
+    "B": {
+     "zh": "本月份價格不變",
+     "py": "Běnyuèfèn jiàgé búbiàn"
+    },
+    "C": {
+     "zh": "將調整計價公式",
+     "py": "Jiāng tiáozhěng jìjià gōngshì"
+    },
+    "D": {
+     "zh": "依進口價換算牌價",
+     "py": "Yī jìnkǒu jià huànsuàn páijià"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "有關天然氣價格的敘述，何者正確？",
+     "py": "Yǒuguān tiānránqì jiàgé de xùshù, hézhě zhèngquè?"
+    }
+   ]
+  },
+  "20": {
+   "options": {
+    "A": {
+     "zh": "預告一整年的價格",
+     "py": "Yùgào yī zhěngnián de jiàgé"
+    },
+    "B": {
+     "zh": "負擔部分漲價價差",
+     "py": "Fùdān bùfèn zhǎngjià jiàchà"
+    },
+    "C": {
+     "zh": "承諾天然氣不調漲",
+     "py": "Chéngnuò tiānránqì bù diàozhǎng"
+    },
+    "D": {
+     "zh": "配合政府穩定物價",
+     "py": "Pèihé zhèngfǔ wěndìngwùjià"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這位小姐認為石油公司應該做什麼？",
+     "py": "Zhèwèi Xiǎojiě rènwéi shíyóu gōngsī yīnggāi zuò shénme?"
+    }
+   ]
+  },
+  "21": {
+   "options": {
+    "A": {
+     "zh": "同意停止調漲油價",
+     "py": "Tóngyì tíngzhǐ diàozhǎng yóujià"
+    },
+    "B": {
+     "zh": "表明公司將宣布破產",
+     "py": "Biǎomíng gōngsī jiāng xuānbù pòchǎn"
+    },
+    "C": {
+     "zh": "解釋必須漲價的理由",
+     "py": "Jiěshì bìxū zhǎngjià de lǐyóu"
+    },
+    "D": {
+     "zh": "告知國際油氣的價格",
+     "py": "Gàozhī guójì yóuqì de jiàgé"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "石油公司針對記者的問題有什麼回應？",
+     "py": "Shíyóu gōngsī zhēnduì jìzhě de wèntí yǒu shénme huíyìng?"
+    }
+   ]
+  },
+  "22": {
+   "passage": [
+    {
+     "zh": "在一場記者會上，台北市長提出了一項新措施。請聽這段對話，然後回答下面四個問題：",
+     "py": "Zài yìcháng jìzhěhuì shàng, Táiběi shìzhǎng tíchū le yíxiàng xīn cuòshī. Qǐng tīng zhèduàn duìhuà, ránhòu huídá xiàmiàn sì ge wèntí:"
+    }
+   ],
+   "stem": {
+    "zh": "這項新措施的內容是什麼？",
+    "py": "Zhèxiàng xīn cuòshī de nèiróng shì shénme?"
+   },
+   "options": {
+    "A": {
+     "zh": "民眾可要求警方貼身保護",
+     "py": "Mínzhòng kě yāoqiú jǐngfāng tiēshēn bǎohù"
+    },
+    "B": {
+     "zh": "民眾可透過電腦及手機報案",
+     "py": "Mínzhòng kě tòuguò diànnǎo jí shǒujī bàoàn"
+    },
+    "C": {
+     "zh": "民眾可查詢各區的治安狀況",
+     "py": "Mínzhòng kě cháxún gèqū de zhìānzhuàngkuàng"
+    },
+    "D": {
+     "zh": "民眾可請求搬出犯罪率高的地區",
+     "py": "Mínzhòng kě qǐngqiú bānchū fànzuìlǜ gāo de dìqū"
+    }
+   },
+   "intro": [
+    {
+     "zh": "在一場記者會上，台北市長提出了一項新措施。請聽這段對話，然後回答下面四",
+     "py": "Zài yìcháng jìzhěhuì shàng, Táiběi shìzhǎng tíchū le yíxiàng xīn cuòshī. Qǐng tīng zhèduàn duìhuà, ránhòu huídá xiàmiàn sì"
+    },
+    {
+     "zh": "個問題：",
+     "py": "Gè wèntí:"
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "這項新措施的內容是什麼？",
+     "py": "Zhèxiàng xīn cuòshī de nèiróng shì shénme?"
+    }
+   ]
+  },
+  "23": {
+   "stem": {
+    "zh": "女記者指出，這項措施可能造成什麼問題？",
+    "py": "Nǚ jìzhě zhǐchū, zhèxiàng cuòshī kěnéng zàochéng shénme wèntí?"
+   },
+   "options": {
+    "A": {
+     "zh": "犯罪者集中到犯罪熱區",
+     "py": "Fànzuìzhě jízhōng dào fànzuì rèqū"
+    },
+    "B": {
+     "zh": "犯罪者改到其他地方作案",
+     "py": "Fànzuìzhě gǎi dào qítā dìfāng zuòàn"
+    },
+    "C": {
+     "zh": "警察無法控制犯罪熱區的治安",
+     "py": "Jǐngchá Wúfǎkòngzhì fànzuì rèqū de Zhìān"
+    },
+    "D": {
+     "zh": "警察只能抓到小偷之類的罪犯",
+     "py": "Jǐngchá zhǐnéng zhuā dào xiǎotōu zhīlèi de zuìfàn"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "女記者指出，這項措施可能造成什麼問題？",
+     "py": "Nǚ jìzhě zhǐchū, zhèxiàng cuòshī kěnéng zàochéng shénme wèntí?"
+    }
+   ]
+  },
+  "24": {
+   "stem": {
+    "zh": "針對女記者提出的疑慮，市長提出什麼辦法？",
+    "py": "Zhēnduì nǚ jìzhě tíchū de yílǜ, shìzhǎng tíchū shénme bànfǎ?"
+   },
+   "options": {
+    "A": {
+     "zh": "大幅提高警察破案獎金",
+     "py": "Dàfútígāo jǐngchá pòàn jiǎngjīn"
+    },
+    "B": {
+     "zh": "隨時更新各區犯罪情形",
+     "py": "Suíshí gēngxīn gèqū fànzuì qíngxíng"
+    },
+    "C": {
+     "zh": "只公布犯罪率最高的地方",
+     "py": "Zhǐ gōngbù fànzuìlǜ zuìgāo de dìfāng"
+    },
+    "D": {
+     "zh": "獎勵民眾在第一時間報案",
+     "py": "Jiǎnglì mínzhòng zài dìyī shíjiān bàoàn"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "針對女記者提出的疑慮，市長提出什麼辦法？",
+     "py": "Zhēnduì nǚ jìzhě tíchū de yílǜ, shìzhǎng tíchū shénme bànfǎ?"
+    }
+   ]
+  },
+  "25": {
+   "stem": {
+    "zh": "市長為什麼認為這項措施對房價的影響不大？ 現在請聽對話。",
+    "py": "Shìzhǎng wèishénme rènwéi zhèxiàng cuòshī duì fángjià de yǐngxiǎng bù dà? Xiànzài qǐng tīng duìhuà."
+   },
+   "options": {
+    "A": {
+     "zh": "因為民眾買房比較在乎便利性",
+     "py": "Yīnwèi mínzhòng mǎifáng bǐjiào zàihū biànlìxìng"
+    },
+    "B": {
+     "zh": "因為民眾買房最重視治安環境",
+     "py": "Yīnwèi mínzhòng mǎifáng zuì zhòngshì Zhìān huánjìng"
+    },
+    "C": {
+     "zh": "因為犯罪情形都集中在某一區",
+     "py": "Yīnwèi fànzuì qíngxíng dōu jízhōng zài mǒuyī qū"
+    },
+    "D": {
+     "zh": "因為警方會針對某區加強巡邏",
+     "py": "Yīnwèi jǐngfāng huì zhēnduì mǒuqū jiāqiáng xúnluó"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "市長為什麼認為這項措施對房價的影響不大？",
+     "py": "Shìzhǎng wèishénme rènwéi zhèxiàng cuòshī duì fángjià de yǐngxiǎng bù dà?"
+    }
+   ]
+  },
+  "26": {
+   "options": {
+    "A": {
+     "zh": "美國棒球隊要求他回國發展",
+     "py": "Měiguó bàngqiúduì yāoqiú tā Huíguó fāzhǎn"
+    },
+    "B": {
+     "zh": "日本球員的表現比他好得多",
+     "py": "Rìběn qiúyuán de biǎoxiàn bǐ tā hǎodéduō"
+    },
+    "C": {
+     "zh": "球團已經找到年輕球員遞補",
+     "py": "Qiútuán yǐjīng zhǎodào niánqīng qiúyuán dìbǔ"
+    },
+    "D": {
+     "zh": "家人及自己未來發展的問題",
+     "py": "Jiārén jí zìjǐ wèilái fāzhǎn de wèntí"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這一段話，然後回答下面的問題。",
+     "py": "Qǐng tīng zhè yíduànhuà, ránhòu huídá xiàmiàn de wèntí."
+    },
+    {
+     "zh": "已經為日本球隊效力三年的投手大衛，昨天以家庭因素以及孩子的教育問題",
+     "py": "Yǐjīng wèi Rìběn qiúduì xiàolì sānnián de tóushǒu dàwèi, zuótiān yǐ jiātíng yīnsù yǐjí háizi de jiàoyù wèntí"
+    },
+    {
+     "zh": "為由，向球團提出離開球隊的要求。大衛同時也表示想回美國尋求發展，球團基",
+     "py": "Wèi yóu, xiàng qiútuán tíchū líkāi qiúduì de yāoqiú. Dàwèi tóngshí yě biǎoshì xiǎng huí Měiguó xúnqiú fāzhǎn, qiútuán jī"
+    },
+    {
+     "zh": "於尊重球員的意願，原則上已同意讓他離隊，他的位置將由年輕一輩的球員遞",
+     "py": "Yú zūnzhòng qiúyuán de yìyuàn, yuánzéshàng yǐ tóngyì ràng tā líduì, tā de wèizhì jiāng yóu niánqīng yíbèi de qiúyuán dì"
+    },
+    {
+     "zh": "補。",
+     "py": "Bǔ."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "從上面的這段話，大衛離開球隊的原因是什麼？",
+     "py": "Cóng shàngmiàn de zhèduànhuà, dàwèi líkāi qiúduì de yuányīn shì shénme?"
+    }
+   ]
+  },
+  "27": {
+   "options": {
+    "A": {
+     "zh": "能降低生病的機率",
+     "py": "Néng jiàngdī shēngbìng de jīlǜ"
+    },
+    "B": {
+     "zh": "比較適合生病的人吃",
+     "py": "Bǐjiào shìhé shēngbìng de rén chī"
+    },
+    "C": {
+     "zh": "最好在消化不良的時候吃",
+     "py": "Zuìhǎo zài xiāohuàbùliáng de shíhòu chī"
+    },
+    "D": {
+     "zh": "並非是保養身體的好方法",
+     "py": "Bìngfēi shì bǎoyǎng shēntǐ de hǎo fāngfǎ"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽下面一段廣播，然後回答兩個問題。",
+     "py": "Qǐng tīng xiàmiàn yíduàn guǎngbō, ránhòu huídá liǎng ge wèntí."
+    },
+    {
+     "zh": "對多數的消費者而言，吃綜合維他命是提高身體免疫力的一種方式，但根據",
+     "py": "Duì duōshù de xiāofèizhě éryán, chī zōnghé Wéitāmìng shì tígāo shēntǐ miǎnyìlì de yìzhǒng fāngshì, dàn gēnjù"
+    },
+    {
+     "zh": "一項國外研究發現，綜合維他命無法真正防止疾病發生，該研究甚至指出，每天",
+     "py": "Yíxiàng guówài yánjiū fāxiàn, zōnghé Wéitāmìng wúfǎ zhēnzhèng fángzhǐ jíbìng fāshēng, gāi yánjiū shènzhì zhǐchū, měitiān"
+    },
+    {
+     "zh": "吃綜合維他命的人，反而會提高生病的機率。因此，美國營養專家已經不以綜合",
+     "py": "Chī zōnghé Wéitāmìng de rén, fǎnér huì tígāo shēngbìng de jīlǜ. Yīncǐ, Měiguó yíngyǎng zhuānjiā yǐjīng bù yǐ zōnghé"
+    },
+    {
+     "zh": "維他命作為日常保養身體的食品，也不推薦病人使用。究竟要如何正確地選擇維",
+     "py": "Wéitāmìng zuòwéi rìcháng bǎoyǎng shēntǐ de shípǐn, yě bù tuījiàn bìngrén shǐyòng. Jiūjìng yào rúhé zhèngquè dì xuǎnzé wéi"
+    },
+    {
+     "zh": "他命，怎麼吃才對？不同年齡要怎麼吃？還有，放假期間吃個不停，當身體出現",
+     "py": "Tā mìng, zěnme chī cái duì? Bùtóng niánlíng yào zěnme chī? Háiyǒu, fàngjià qījiān chī gè bùtíng, dāng shēntǐ chūxiàn"
+    },
+    {
+     "zh": "狀況，而醫院又休息時，又該如何自我處理？更多實用的小常識，都在這個月的",
+     "py": "Zhuàngkuàng, ér yīyuàn yòu xiūxí shí, yòu gāi rúhé zìwǒ chǔlǐ? Gèng duō shíyòng de xiǎochángshí, dōu zài zhè ge yuè de"
+    },
+    {
+     "zh": "健康雜誌裡。",
+     "py": "Jiànkāng zázhì lǐ."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "營養專家對每日吃綜合維他命有什麼看法？",
+     "py": "Yíngyǎng zhuānjiā duì měirì chī zōnghé Wéitāmìng yǒu shénme kànfǎ?"
+    }
+   ]
+  },
+  "28": {
+   "options": {
+    "A": {
+     "zh": "推銷健康藥品",
+     "py": "Tuīxiāo jiànkāng yàopǐn"
+    },
+    "B": {
+     "zh": "宣傳雜誌的廣告",
+     "py": "Xuānchuán zázhì de guǎnggào"
+    },
+    "C": {
+     "zh": "強調維他命優點的報導",
+     "py": "Qiángdiào Wéitāmìng yōudiǎn de bàodǎo"
+    },
+    "D": {
+     "zh": "介紹如何保持健康的節目",
+     "py": "Jièshào rúhé bǎochí jiànkāng de jiémù"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這是一段什麼樣的廣播？",
+     "py": "Zhè shì yíduàn shénmeyàng de guǎngbō?"
+    }
+   ]
+  },
+  "29": {
+   "passage": [
+    {
+     "zh": "以下這段報導介紹了一個實驗。請聽這段報導，然後回答下面三個問題：",
+     "py": "Yǐxià zhè duàn bàodǎo jièshào le yí ge shíyàn. Qǐng tīng zhèduàn bàodǎo, ránhòu huídá xiàmiàn sān ge wèntí:"
+    }
+   ],
+   "stem": {
+    "zh": "這個實驗怎麼進行？",
+    "py": "Zhè ge shíyàn zěnme jìnxíng?"
+   },
+   "options": {
+    "A": {
+     "zh": "讓小孩練習畫不同的圖形",
+     "py": "Ràng xiǎohái liànxí huà bùtóng de túxíng"
+    },
+    "B": {
+     "zh": "讓小孩看情節簡單的影片",
+     "py": "Ràng xiǎohái kàn qíngjié jiǎndān de yǐngpiàn"
+    },
+    "C": {
+     "zh": "讓小孩玩不同造型的玩具",
+     "py": "Ràng xiǎohái wán bùtóng zàoxíng de wánjù"
+    },
+    "D": {
+     "zh": "讓小孩跟研究人員一起玩球",
+     "py": "Ràng xiǎohái gēn yánjiū rényuán yìqǐ wánqiú"
+    }
+   },
+   "intro": [
+    {
+     "zh": "以下這段報導介紹了一個實驗。請聽這段報導，然後回答下面三個問題：",
+     "py": "Yǐxià zhè duàn bàodǎo jièshào le yí ge shíyàn. Qǐng tīng zhèduàn bàodǎo, ránhòu huídá xiàmiàn sān ge wèntí:"
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "這個實驗怎麼進行？",
+     "py": "Zhè ge shíyàn zěnme jìnxíng?"
+    }
+   ]
+  },
+  "30": {
+   "stem": {
+    "zh": "這個實驗證明了什麼？",
+    "py": "Zhè ge shíyàn zhèngmíng le shénme?"
+   },
+   "options": {
+    "A": {
+     "zh": "小孩長大以後才能分辨善惡",
+     "py": "Xiǎohái Zhǎngdà yǐhòu cáinéng fēnbiànshànè"
+    },
+    "B": {
+     "zh": "受過教育的小孩較有道德感",
+     "py": "Shòuguò jiàoyù de xiǎohái jiào yǒu Dàodégǎn"
+    },
+    "C": {
+     "zh": "人類的道德感可能是天生的",
+     "py": "Rénlèi de Dàodégǎn kěnéng shì tiānshēng de"
+    },
+    "D": {
+     "zh": "成人的道德觀會影響小孩子",
+     "py": "Chéngrén de Dàodéguān huì yǐngxiǎng xiǎoháizi"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這個實驗證明了什麼？",
+     "py": "Zhè ge shíyàn zhèngmíng le shénme?"
+    }
+   ]
+  },
+  "31": {
+   "stem": {
+    "zh": "這項報導為什麼提到過去心理學家們的看法？",
+    "py": "Zhèxiàng bàodǎo wèishénme tídào guòqù xīnlǐxuéjiā men de kànfǎ?"
+   },
+   "options": {
+    "A": {
+     "zh": "表示實驗結果符合過去的看法",
+     "py": "Biǎoshì shíyàn jiéguǒ fúhé guòqù de kànfǎ"
+    },
+    "B": {
+     "zh": "指出未來研究打算進行的方向",
+     "py": "Zhǐchū wèilái yánjiū dǎsuàn jìnxíng de fāngxiàng"
+    },
+    "C": {
+     "zh": "指出這項研究設計不良的地方",
+     "py": "Zhǐchū zhèxiàng yánjiū shèjì bùliáng de dìfāng"
+    },
+    "D": {
+     "zh": "指出研究結果不支持舊的理論",
+     "py": "Zhǐchū yánjiū jiéguǒ bù zhīchí jiù de lǐlùn"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這項報導為什麼提到過去心理學家們的看法？",
+     "py": "Zhèxiàng bàodǎo wèishénme tídào guòqù xīnlǐxuéjiā men de kànfǎ?"
+    }
+   ]
+  },
+  "32": {
+   "passage": [
+    {
+     "zh": "請聽這個故事，然後回答下面三個問題：",
+     "py": "Qǐng tīng zhè ge gùshì, ránhòu huídá xiàmiàn sān ge wèntí:"
+    }
+   ],
+   "stem": {
+    "zh": "「奇想病人」這齣戲描寫的是哪一種人？",
+    "py": "“Qíxiǎng bìngrén” zhè chūxì miáoxiě de shì nǎ yìzhǒng rén?"
+   },
+   "options": {
+    "A": {
+     "zh": "很想當演員的人",
+     "py": "Hěn xiǎng dāng yǎnyuán de rén"
+    },
+    "B": {
+     "zh": "沒有錢看病的人",
+     "py": "Méiyǒu qián kànbìng de rén"
+    },
+    "C": {
+     "zh": "有病卻不看醫生的人",
+     "py": "Yǒu bìng què bù kàn yīshēng de rén"
+    },
+    "D": {
+     "zh": "老以為自己生病的人",
+     "py": "Lǎo yǐwéi zìjǐ shēngbìng de rén"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這個故事，然後回答下面三個問題：",
+     "py": "Qǐng tīng zhè ge gùshì, ránhòu huídá xiàmiàn sān ge wèntí:"
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "「奇想病人」這齣戲描寫的是哪一種人？",
+     "py": "“Qíxiǎng bìngrén” zhè chūxì miáoxiě de shì nǎ yìzhǒng rén?"
+    }
+   ]
+  },
+  "33": {
+   "stem": {
+    "zh": "這天晚上，這位在台上演出的演員怎麼樣？",
+    "py": "Zhètiān wǎnshàng, zhèwèi zài táishàng yǎnchū de yǎnyuán zěnmeyàng?"
+   },
+   "options": {
+    "A": {
+     "zh": "很會騙人",
+     "py": "Hěn huì piànrén"
+    },
+    "B": {
+     "zh": "真的生病",
+     "py": "Zhēnde shēngbìng"
+    },
+    "C": {
+     "zh": "害死了別人",
+     "py": "Hàisǐ le biérén"
+    },
+    "D": {
+     "zh": "一點病都沒有",
+     "py": "Yìdiǎn bìng dōu méiyǒu"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這天晚上，這位在台上演出的演員怎麼樣？",
+     "py": "Zhètiān wǎnshàng, zhèwèi zài táishàng yǎnchū de yǎnyuán zěnmeyàng?"
+    }
+   ]
+  },
+  "34": {
+   "stem": {
+    "zh": "關於這個故事，哪一個是對的？",
+    "py": "Guānyú zhè ge gùshì, nǎ yí ge shì duì de?"
+   },
+   "options": {
+    "A": {
+     "zh": "作家最後死了",
+     "py": "Zuòjiā zuìhòu sǐ le"
+    },
+    "B": {
+     "zh": "演員最後沒死",
+     "py": "Yǎnyuán zuìhòu méi sǐ"
+    },
+    "C": {
+     "zh": "作家的太太上台演出",
+     "py": "Zuòjiā de tàitai Shàngtái yǎnchū"
+    },
+    "D": {
+     "zh": "觀眾覺得演員演得很差",
+     "py": "Guānzhòng juéde yǎnyuán yǎndé hěn chà"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "關於這個故事，哪一個是對的？",
+     "py": "Guānyú zhè ge gùshì, nǎ yí ge shì duì de?"
+    }
+   ]
+  },
+  "35": {
+   "passage": [
+    {
+     "zh": "以下是一位先生正表達他對記者的看法。請聽這段話，然後回答下面四個問題：",
+     "py": "Yǐxià shì yíwèi xiānsheng zhèng biǎodá tā duì jìzhě de kànfǎ. Qǐng tīng zhèduànhuà, ránhòu huídá xiàmiàn sì ge wèntí:"
+    }
+   ],
+   "stem": {
+    "zh": "這位先生認為台灣記者怎麼樣？",
+    "py": "Zhèwèi xiānsheng rènwéi Táiwān jìzhě zěnmeyàng?"
+   },
+   "options": {
+    "A": {
+     "zh": "有些自大",
+     "py": "Yǒuxiē zìdà"
+    },
+    "B": {
+     "zh": "缺乏信心",
+     "py": "Quēfá xìnxīn"
+    },
+    "C": {
+     "zh": "非常專業",
+     "py": "Fēicháng zhuānyè"
+    },
+    "D": {
+     "zh": "很有道德",
+     "py": "Hěn yǒu Dàodé"
+    }
+   },
+   "intro": [
+    {
+     "zh": "以下是一位先生正表達他對記者的看法。請聽這段話，然後回答下面四個問題：",
+     "py": "Yǐxià shì yíwèi xiānsheng zhèng biǎodá tā duì jìzhě de kànfǎ. Qǐng tīng zhèduànhuà, ránhòu huídá xiàmiàn sì ge wèntí:"
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "這位先生認為台灣記者怎麼樣？",
+     "py": "Zhèwèi xiānsheng rènwéi Táiwān jìzhě zěnmeyàng?"
+    }
+   ]
+  },
+  "36": {
+   "stem": {
+    "zh": "這段話為什麼用老虎來形容記者？",
+    "py": "Zhèduànhuà wèishénme yòng Lǎohǔ lái xíngróng jìzhě?"
+   },
+   "options": {
+    "A": {
+     "zh": "能不畏強權，堅持事實",
+     "py": "Néng búwèiqiángquán, jiānchí shìshí"
+    },
+    "B": {
+     "zh": "能寫出一流的頭條新聞",
+     "py": "Néng xiěchū yìliú de tóutiáoxīnwén"
+    },
+    "C": {
+     "zh": "不管消息真假，什麼都報導",
+     "py": "Bùguǎn xiāoxī zhēnjiǎ, shénme dōu bàodǎo"
+    },
+    "D": {
+     "zh": "文筆不好，讀者閱讀有困難",
+     "py": "Wénbǐ bùhǎo, dúzhě yuèdú yǒu kùnnán"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這段話為什麼用老虎來形容記者？",
+     "py": "Zhèduànhuà wèishénme yòng Lǎohǔ lái xíngróng jìzhě?"
+    }
+   ]
+  },
+  "37": {
+   "stem": {
+    "zh": "這段話為什麼用狗來形容記者？",
+    "py": "Zhèduànhuà wèishénme yòng gǒu lái xíngróng jìzhě?"
+   },
+   "options": {
+    "A": {
+     "zh": "能忠實報導各種新聞",
+     "py": "Néng zhōngshí bàodǎo gèzhǒng xīnwén"
+    },
+    "B": {
+     "zh": "追查線索，相當仔細",
+     "py": "Zhuīchá xiànsuǒ, xiāngdāng zǐxì"
+    },
+    "C": {
+     "zh": "報導不公，向權勢低頭",
+     "py": "Bàodǎo bùgōng, xiàng quánshì dītóu"
+    },
+    "D": {
+     "zh": "只報導地方新聞，沒有遠見",
+     "py": "Zhǐ bàodǎo dìfāng xīnwén, méiyǒu yuǎnjiàn"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這段話為什麼用狗來形容記者？",
+     "py": "Zhèduànhuà wèishénme yòng gǒu lái xíngróng jìzhě?"
+    }
+   ]
+  },
+  "38": {
+   "stem": {
+    "zh": "最後這位先生舉了一個例子，裡頭的記者犯了什麼錯？",
+    "py": "Zuìhòu zhèwèi xiānsheng jǔ le yí ge lìzi, lǐtou de jìzhě fàn le shénme cuò?"
+   },
+   "options": {
+    "A": {
+     "zh": "報導寫得太短",
+     "py": "Bàodǎo xiě dé tàiduǎn"
+    },
+    "B": {
+     "zh": "只報導財經新聞",
+     "py": "Zhǐ bàodǎo cáijīngxīnwén"
+    },
+    "C": {
+     "zh": "只報導不重要的部分",
+     "py": "Zhǐ bàodǎo bù zhòngyào de bùfèn"
+    },
+    "D": {
+     "zh": "報導內容前後不一致",
+     "py": "Bàodǎo nèiróng qiánhòu bù yízhì"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "最後這位先生舉了一個例子，裡頭的記者犯了什麼錯？",
+     "py": "Zuìhòu zhèwèi xiānsheng jǔ le yí ge lìzi, lǐtou de jìzhě fàn le shénme cuò?"
+    }
+   ]
+  },
+  "39": {
+   "passage": [
+    {
+     "zh": "以下是一段關於社交網站的報告。請你在聽完這段報告後，回答下面四個問題：",
+     "py": "Yǐxià shì yíduàn guānyú shèjiāo wǎngzhàn de bàogào. Qǐng nǐ zài tīngwán zhèduàn bàogào hòu, huídá xiàmiàn sì ge wèntí:"
+    }
+   ],
+   "stem": {
+    "zh": "根據這段話，關於社交網站，下面哪一個是對的？",
+    "py": "Gēnjù zhèduànhuà, guānyú shèjiāo wǎngzhàn, xiàmiàn nǎ yí ge shì duì de?"
+   },
+   "options": {
+    "A": {
+     "zh": "提供推銷自己的機會",
+     "py": "Tígōng tuīxiāo zìjǐ de jīhuì"
+    },
+    "B": {
+     "zh": "保證能最快找到工作",
+     "py": "Bǎozhèng néng zuìkuài zhǎodào gōngzuò"
+    },
+    "C": {
+     "zh": "社會經濟越好越流行",
+     "py": "Shèhuì jīngjì yuèhǎo yuè liúxíng"
+    },
+    "D": {
+     "zh": "能解決多數失業問題",
+     "py": "Néng jiějué duōshù shīyèwèntí"
+    }
+   },
+   "intro": [
+    {
+     "zh": "以下是一段關於社交網站的報告。請你在聽完這段報告後，回答下面四個問題：",
+     "py": "Yǐxià shì yíduàn guānyú shèjiāo wǎngzhàn de bàogào. Qǐng nǐ zài tīngwán zhèduàn bàogào hòu, huídá xiàmiàn sì ge wèntí:"
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "根據這段話，關於社交網站，下面哪一個是對的？",
+     "py": "Gēnjù zhèduànhuà, guānyú shèjiāo wǎngzhàn, xiàmiàn nǎ yí ge shì duì de?"
+    }
+   ]
+  },
+  "40": {
+   "stem": {
+    "zh": "根據這段話，為什麼社交網站有助於求職？",
+    "py": "Gēnjù zhèduànhuà, wèishénme shèjiāo wǎngzhàn yǒuzhùyú qiúzhí?"
+   },
+   "options": {
+    "A": {
+     "zh": "能快速累積創業資金",
+     "py": "Néng kuàisù lěijī chuàngyèzījīn"
+    },
+    "B": {
+     "zh": "能大量刊登求職廣告",
+     "py": "Néng dàliàng kāndēng qiúzhí guǎnggào"
+    },
+    "C": {
+     "zh": "能培養人脈、爭取機會",
+     "py": "Néng péiyǎng rén mài, zhēngqǔ jīhuì"
+    },
+    "D": {
+     "zh": "能學習他人求職的經驗",
+     "py": "Néng xuéxí tārén qiúzhí de jīngyàn"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "根據這段話，為什麼社交網站有助於求職？",
+     "py": "Gēnjù zhèduànhuà, wèishénme shèjiāo wǎngzhàn yǒuzhùyú qiúzhí?"
+    }
+   ]
+  },
+  "41": {
+   "stem": {
+    "zh": "關於專家提供的求職建議，下面哪一項是對的？",
+    "py": "Guānyú zhuānjiā tígōng de qiúzhí jiànyì, xiàmiàn nǎ yíxiàng shì duì de?"
+   },
+   "options": {
+    "A": {
+     "zh": "使用關鍵字增加曝光率",
+     "py": "Shǐyòng guānjiànzì zēngjiā Bàoguānglǜ"
+    },
+    "B": {
+     "zh": "介紹內容簡單明瞭就好",
+     "py": "Jièshào nèiróng jiǎndānmíngliǎo jiù hǎo"
+    },
+    "C": {
+     "zh": "一開始加入越多網站越好",
+     "py": "Yī kāishǐ jiārù yuè duō wǎngzhàn yuè hǎo"
+    },
+    "D": {
+     "zh": "用網站求職只適用於特定職業",
+     "py": "Yòng wǎngzhàn qiúzhí zhǐ shìyòng yú tèdìng zhíyè"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "關於專家提供的求職建議，下面哪一項是對的？",
+     "py": "Guānyú zhuānjiā tígōng de qiúzhí jiànyì, xiàmiàn nǎ yíxiàng shì duì de?"
+    }
+   ]
+  },
+  "42": {
+   "stem": {
+    "zh": "根據這段話，投資型社交網站有什麼缺點？",
+    "py": "Gēnjù zhèduànhuà, tóuzī xíng shèjiāo wǎngzhàn yǒu shénme quēdiǎn?"
+   },
+   "options": {
+    "A": {
+     "zh": "無法掌握投資狀況",
+     "py": "Wúfǎ zhǎngwò tóuzī zhuàngkuàng"
+    },
+    "B": {
+     "zh": "使用者多半是失業族",
+     "py": "Shǐyòngzhě duōbàn shì shīyè zú"
+    },
+    "C": {
+     "zh": "投資虧損的金額過高",
+     "py": "Tóuzī kuīsǔn de jīné guò gāo"
+    },
+    "D": {
+     "zh": "消息來源不完全可靠",
+     "py": "Xiāoxīláiyuán bù wánquán kěkào"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "根據這段話，投資型社交網站有什麼缺點？",
+     "py": "Gēnjù zhèduànhuà, tóuzī xíng shèjiāo wǎngzhàn yǒu shénme quēdiǎn?"
+    }
+   ]
+  },
+  "43": {
+   "passage": [
+    {
+     "zh": "以下是一則有關黑洞的科學報導，請聽完後，回答下面的四個問題：",
+     "py": "Yǐxià shì yìzé yǒuguān Hēidòng de kēxué bàodǎo, qǐng tīng wán hòu, huídá xiàmiàn de sì ge wèntí:"
+    }
+   ],
+   "stem": {
+    "zh": "為什麼這篇報導說黑洞是終極食客？",
+    "py": "Wèishénme zhè piān bàodǎo shuō Hēidòng shì zhōngjí shíkè?"
+   },
+   "options": {
+    "A": {
+     "zh": "因為黑洞能影響生命存在",
+     "py": "Yīnwèi Hēidòng néng yǐngxiǎng shēngmìng cúnzài"
+    },
+    "B": {
+     "zh": "因為黑洞連自己都會吞噬",
+     "py": "Yīnwèi Hēidòng Lián zìjǐ dōu huì tūnshì"
+    },
+    "C": {
+     "zh": "因為黑洞瘋狂吸收周遭物質",
+     "py": "Yīnwèi Hēidòng fēngkuáng xīshōu zhōuzāo wùzhì"
+    },
+    "D": {
+     "zh": "因為黑洞存在於每個星系中",
+     "py": "Yīnwèi Hēidòng cúnzài yú měi ge xīngxì zhōng"
+    }
+   },
+   "intro": [
+    {
+     "zh": "以下是一則有關黑洞的科學報導，請聽完後，回答下面的四個問題：",
+     "py": "Yǐxià shì yìzé yǒuguān Hēidòng de kēxué bàodǎo, qǐng tīng wán hòu, huídá xiàmiàn de sì ge wèntí:"
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "為什麼這篇報導說黑洞是終極食客？",
+     "py": "Wèishénme zhè piān bàodǎo shuō Hēidòng shì zhōngjí shíkè?"
+    }
+   ]
+  },
+  "44": {
+   "stem": {
+    "zh": "說話者認為「洗衣機」在哪方面足以比擬「負載循環」原理？",
+    "py": "Shuōhuà zhě rènwéi “Xǐyījī” zài nǎ fāngmiàn zúyǐ bǐnǐ “Fùzài xúnhuán” yuánlǐ?"
+   },
+   "options": {
+    "A": {
+     "zh": "兩者運行狀態相似",
+     "py": "Liǎngzhě yùnxíng zhuàngtài xiāngsì"
+    },
+    "B": {
+     "zh": "兩者都會高速旋轉",
+     "py": "Liǎngzhě dōu huì gāosùxuánzhuǎn"
+    },
+    "C": {
+     "zh": "兩者都會排出物體",
+     "py": "Liǎngzhě dōu huì páichū wùtǐ"
+    },
+    "D": {
+     "zh": "兩者都具有洗滌功能",
+     "py": "Liǎngzhě dōu jùyǒu xǐdí gōngnéng"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "說話者認為「洗衣機」在哪方面足以比擬「負載循環」原理？",
+     "py": "Shuōhuà zhě rènwéi “Xǐyījī” zài nǎ fāngmiàn zúyǐ bǐnǐ “Fùzài xúnhuán” yuánlǐ?"
+    }
+   ]
+  },
+  "45": {
+   "stem": {
+    "zh": "說話者以排水過程說明黑洞的何種狀態？",
+    "py": "Shuōhuà zhě yǐ páishuǐ guòchéng shuōmíng Hēidòng de hézhǒng zhuàngtài?"
+   },
+   "options": {
+    "A": {
+     "zh": "聲波產生的原因",
+     "py": "Shēngbō chǎnshēng de yuányīn"
+    },
+    "B": {
+     "zh": "物質撞擊的情況",
+     "py": "Wùzhì zhuàngjī de qíngkuàng"
+    },
+    "C": {
+     "zh": "黑洞爆炸的成因",
+     "py": "Hēidòng bàozhà de chéngyīn"
+    },
+    "D": {
+     "zh": "黑洞噴射物質的現象",
+     "py": "Hēidòng pēnshè wùzhì de xiànxiàng"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "說話者以排水過程說明黑洞的何種狀態？",
+     "py": "Shuōhuà zhě yǐ páishuǐ guòchéng shuōmíng Hēidòng de hézhǒng zhuàngtài?"
+    }
+   ]
+  },
+  "46": {
+   "stem": {
+    "zh": "這個報導的重點是什麼？ 現在請聽報導。",
+    "py": "Zhè ge bàodǎo de zhòngdiǎn shì shénme? Xiànzài qǐng tīng bàodǎo."
+   },
+   "options": {
+    "A": {
+     "zh": "黑洞形成的原因",
+     "py": "Hēidòng xíngchéng de yuányīn"
+    },
+    "B": {
+     "zh": "黑洞運動的狀態",
+     "py": "Hēidòng yùndòng de zhuàngtài"
+    },
+    "C": {
+     "zh": "黑洞毀滅的成因",
+     "py": "Hēidòng huǐmiè de chéngyīn"
+    },
+    "D": {
+     "zh": "黑洞吞噬物質的原理",
+     "py": "Hēidòng tūnshì wùzhì de yuánlǐ"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這個報導的重點是什麼？",
+     "py": "Zhè ge bàodǎo de zhòngdiǎn shì shénme?"
+    }
+   ]
+  },
+  "47": {
+   "passage": [
+    {
+     "zh": "發跡於舊金山的腦神經研究團隊是該研究領域的佼佼者。",
+     "py": "Fājì yú Jiùjīnshān de nǎoshénjīng yánjiū tuánduì shì gāi yánjiū lǐngyù de jiǎojiǎozhě."
+    },
+    {
+     "zh": "以下是他們其中一項產品的部分介紹。",
+     "py": "Yǐxià shì tāmen qízhōng yíxiàng chǎnpǐn de bùfèn jièshào."
+    },
+    {
+     "zh": "請聽這段介紹，然後回答四個問題。",
+     "py": "Qǐng tīng zhèduàn jièshào, ránhòu huídá sì ge wèntí."
+    },
+    {
+     "zh": "現在請聽介紹。",
+     "py": "Xiànzài qǐng tīng jièshào."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "一般大眾",
+     "py": "Yìbān dàzhòng"
+    },
+    "B": {
+     "zh": "神經心理學家",
+     "py": "Shénjīng xīnlǐxuéjiā"
+    },
+    "C": {
+     "zh": "腦部重症病患",
+     "py": "Nǎobù zhòngzhèng bìnghuàn"
+    },
+    "D": {
+     "zh": "實驗室研究員",
+     "py": "Shíyànshì yánjiūyuán"
+    }
+   },
+   "intro": [
+    {
+     "zh": "現在請聽報導。",
+     "py": "Xiànzài qǐng tīng bàodǎo."
+    },
+    {
+     "zh": "有許多孙宙現象能影響生命的存在，擁有獨特本質的黑洞尌是其中之一。黑",
+     "py": "Yǒu xǔduō Sūnzhòu xiànxiàng néng yǐngxiǎng shēngmìng de cúnzài, yōngyǒu dútè běnzhì de Hēidòng shù shì qízhōng zhīyī. Hēi"
+    },
+    {
+     "zh": "洞是孙宙裡最強大的終極食客，它們誘捕物質，且狼吞虎嚥地吞食著。這個能力，",
+     "py": "Dòng shì Sūn Zhòulǐ zuì qiángdà de zhōngjí shíkè, tāmen yòubǔ wùzhì, qiě lángtūnhǔyàn dì tūnshí zhù. Zhè ge nénglì,"
+    },
+    {
+     "zh": "在孙宙中無與倫比。",
+     "py": "Zài Sūnzhòu zhōng wúyǔlúnbǐ."
+    },
+    {
+     "zh": "當天文學家談到黑洞吞食的現象時，他們稱此現象為「負載循環」，尌像洗",
+     "py": "Dāng tiānwénxuéjiā tándào Hēidòng tūnshí de xiànxiàng shí, tāmen chēng cǐ xiànxiàng wèi “Fùzài xúnhuán”, shù xiàng xǐ"
+    },
+    {
+     "zh": "衣機洗衣服一樣。洗衣過程中，一會兒靜止，一會兒高速轉動，這斷斷續續的晃",
+     "py": "Yījī xǐyīfú yíyàng. Xǐyī guòchéng zhōng, yíhuìer jìngzhǐ, yíhuìer gāosù zhuǎndòng, zhè duànduànxùxù de huǎng"
+    },
+    {
+     "zh": "動，正足以解釋，黑洞吞食物質的狀態與頻率。",
+     "py": "Dòng, zhèng zúyǐ jiěshì, Hēidòng tūnshí wùzhì de zhuàngtài yǔ pínlǜ."
+    },
+    {
+     "zh": "墜入黑洞的物質並不是一片寂靜。即使黑洞正處於靜止狀態，這些物質仍會",
+     "py": "Zhuìrù Hēidòng de wùzhì bìng búshì yípiàn jìjìng. Jíshǐ Hēidòng zhèng chǔyú jìngzhǐ zhuàngtài, zhèxiē wùzhì réng huì"
+    },
+    {
+     "zh": "以極高的速度運動著。若黑洞正在旋轉，它們更會在其周邊隨著更高速旋轉。一",
+     "py": "Yǐ jígāo de sùdù yùndòng zhù. Ruò Hēidòng zhèngzài xuánzhuǎn, tāmen gèng huì zài qí zhōubiān suízhù gèng gāosùxuánzhuǎn. Yī"
+    },
+    {
+     "zh": "旦這些運動中的物質遭遇並撞擊擋在路徑上的任何東西，所釋放出來的巨大動能",
+     "py": "Dàn zhèxiē yùndòng zhōng de wùzhì zāoyù bìng zhuàngjī dǎng zài lùjìng shàng de rènhé Dōngxi, suǒ shìfàngchūlái de jùdà dòngnéng"
+    },
+    {
+     "zh": "尌可以轉化為原子與粒子的運動，以及電磁輻射。",
+     "py": "Shù kěyǐ zhuǎnhuà wèi yuánzi yǔ lìzi de yùndòng, yǐjí diàncífúshè."
+    },
+    {
+     "zh": "黑洞不僅捕捉物質，它還將物質以光速彈出到數萬光年之外。這個彈出的原",
+     "py": "Hēidòng bùjǐn bǔzhuō wùzhì, tā hái jiāng wùzhì yǐ guāngsù dàn chūdào shùwàn guāngnián zhīwài. Zhè ge dànchū de yuán"
+    },
+    {
+     "zh": "理可以用浴缸裡嘈雜的排水過程來比擬，當液體墜入排水管時，水會猛烈撞擊空",
+     "py": "Lǐ kěyǐ yòng yùgāng lǐ cáozá de páishuǐ guòchéng lái bǐnǐ, dāng yètǐ zhuìrù páishuǐguǎn shí, shuǐhuì měngliè zhuàngjī kōng"
+    },
+    {
+     "zh": "氣分子，使得某些旋轉動能轉化成聲波。由於聲波速度比水快，它們可逃離排水",
+     "py": "Qì fènzǐ, shǐde mǒuxiē xuánzhuǎn dòngnéng zhuǎnhuàchéng shēngbō. Yóuyú shēngbō sùdù bǐshuǐ kuài, tāmen kě táolí páishuǐ"
+    },
+    {
+     "zh": "孔。",
+     "py": "Kǒng."
+    },
+    {
+     "zh": "天文學家推估銀河系中心黑洞的負載循環，恰好與星系的整體特質息息相關。",
+     "py": "Tiānwénxuéjiā tuīgū yínhéxì zhōngxīn Hēidòng de fùzài xúnhuán, qiàhǎo yǔ xīngxì de zhěngtǐ tèzhì xīxīxiāngguān."
+    },
+    {
+     "zh": "它也對太陽系為何能夠支持生命的存在，提供了引人入勝的線索。",
+     "py": "Tā yě duì tàiyángxì wèihé nénggòu zhīchí shēngmìng de cúnzài, tígōng le yǐnrénrùshèng de xiànsuǒ."
+    },
+    {
+     "zh": "43. 為什麼這篇報導說黑洞是終極食客？",
+     "py": "43. Wèishénme zhè piān bàodǎo shuō Hēidòng shì zhōngjí shíkè?"
+    },
+    {
+     "zh": "44. 說話者認為「洗衣機」在哪方面足以比擬「負載循環」原理？",
+     "py": "44. Shuōhuà zhě rènwéi “Xǐyījī” zài nǎ fāngmiàn zúyǐ bǐnǐ “Fùzài xúnhuán” yuánlǐ?"
+    },
+    {
+     "zh": "45. 說話者以排水過程說明黑洞的何種狀態？",
+     "py": "45. Shuōhuà zhě yǐ páishuǐ guòchéng shuōmíng Hēidòng de hézhǒng zhuàngtài?"
+    },
+    {
+     "zh": "46. 這個報導的重點是什麼？",
+     "py": "46. Zhè ge bàodǎo de zhòngdiǎn shì shénme?"
+    },
+    {
+     "zh": "發跡於舊金山的腦神經研究團隊是該研究領域的佼佼者。以下是他們其中一項產",
+     "py": "Fājì yú Jiùjīnshān de nǎoshénjīng yánjiū tuánduì shì gāi yánjiū lǐngyù de jiǎojiǎozhě. Yǐxià shì tāmen qízhōng yíxiàng chǎn"
+    },
+    {
+     "zh": "品的部分介紹。請聽這段介紹，然後回答四個問題。",
+     "py": "Pǐn de bùfèn jièshào. Qǐng tīng zhèduàn jièshào, ránhòu huídá sì ge wèntí."
+    },
+    {
+     "zh": "現在請聽介紹。",
+     "py": "Xiànzài qǐng tīng jièshào."
+    },
+    {
+     "zh": "本公司奠基於腦神經及認知領域的研究，是學界與業界眾多腦力訓練研究中",
+     "py": "Běn gōngsī diànjī yú nǎoshénjīng jí rènzhī lǐngyù de yánjiū, shì xuéjiè yǔ yèjiè zhòngduō nǎolì xùnliàn yánjiū zhōng"
+    },
+    {
+     "zh": "的權威。集結了各界專家學者，致力開發既有趣又有效的大腦訓練程式。秉持研",
+     "py": "De Quánwēi. Jíjié le gèjiè zhuānjiāxuézhě, zhìlì kāifā jì yǒuqù yòu yǒuxiào de dànǎo xùnliàn chéngshì. Bǐngchí yán"
+    },
+    {
+     "zh": "究應該融入生活，並整合學術理論與實務經驗的原則，我們將所有產品結合神經",
+     "py": "Jiū yīnggāi róngrù shēnghuó, bìng zhěnghé xuéshù lǐlùn yǔ shíwù jīngyàn de yuánzé, wǒmen jiāng suǒyǒu chǎnpǐn jiéhé shénjīng"
+    },
+    {
+     "zh": "心理學家的臨床詴驗結果，與頂尖遊戲設計團隊合作，除了提供學界更多實證研",
+     "py": "Xīnlǐxuéjiā de línchuáng wēi yàn jiéguǒ, yǔ dǐngjiān yóuxì shèjì tuánduì hézuò, chúle tígōng xuéjiè gèng duō shízhèng yán"
+    },
+    {
+     "zh": "究數據外，也讓末端使用者有更便捷的選擇。",
+     "py": "Jiū shùjù wài, yě ràng mòduān shǐyòngzhě yǒu gèng biànjié de xuǎnzé."
+    },
+    {
+     "zh": "這套取名 40 +的軟體，顧名思義，擁有 40 多款線上遊戲，於 2011 年首次推",
+     "py": "Zhè tào qǔmíng 40 + de ruǎntǐ, Gùmíngsīyì, yōngyǒu 40 duōkuǎn xiàn shàng yóuxì, yú 2011 nián shǒucì tuī"
+    },
+    {
+     "zh": "出。當時隨機抽樣的十三位產品使用者在連續使用五個星期後，注意力提升了",
+     "py": "Chū. Dāngshí suíjīchōuyàng de shísānwèi chǎnpǐn shǐyòngzhě zài liánxù shǐyòng wǔ ge xīngqī hòu, zhùyìlì tíshēng le"
+    },
+    {
+     "zh": "20%。",
+     "py": "20 %."
+    },
+    {
+     "zh": "此外，在 2014 年，我們也邀請了 21 位癌症病患連續使用 12 星期，結果",
+     "py": "Cǐwài, zài 2014 nián, wǒmen yě yāoqǐng le 21 wèi áizhèngbìnghuàn liánxù shǐyòng 12 xīngqī, jiéguǒ"
+    },
+    {
+     "zh": "顯示他們在各方面的帄均表現都優於對照組。",
+     "py": "Xiǎnshì tāmen zài gè fāngmiàn de dīng jūn biǎoxiàn dōu yōuyú duìzhàozǔ."
+    },
+    {
+     "zh": "40 +能自動依據您的使用進展調整，隨時提供您有趣又具挑戰性的遊戲。",
+     "py": "40 + néng zìdòng yījù nín de shǐyòng jìnzhǎn tiáozhěng, suíshí tígōng nín yǒuqù yòu jù tiǎozhànxìng de yóuxì."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "根據介紹，這項產品的設計對象為何？",
+     "py": "Gēnjù jièshào, zhèxiàng chǎnpǐn de shèjì duìxiàng wèihé?"
+    }
+   ]
+  },
+  "48": {
+   "options": {
+    "A": {
+     "zh": "他們比較專注科學試驗",
+     "py": "Tāmen bǐjiào zhuānzhù kēxuéshìyàn"
+    },
+    "B": {
+     "zh": "所有產品皆經過科學測試",
+     "py": "Suǒyǒu chǎnpǐn jiē jīngguò kēxué cèshì"
+    },
+    "C": {
+     "zh": "設計團隊成員皆為科學家",
+     "py": "Shèjì tuánduì chéngyuán jiē wèi kēxuéjiā"
+    },
+    "D": {
+     "zh": "產品依使用者的回饋調校修正",
+     "py": "Chǎnpǐn yī shǐyòngzhě de huíkuì diàoxiào Xiūzhèng"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "根據介紹，這間公司有何特色？",
+     "py": "Gēnjù jièshào, zhè jiān gōngsī yǒuhé tèsè?"
+    }
+   ]
+  },
+  "49": {
+   "options": {
+    "A": {
+     "zh": "才剛上市推出",
+     "py": "Cáigāng Shàngshì tuīchū"
+    },
+    "B": {
+     "zh": "尚未通過臨床研究分析",
+     "py": "Shàngwèi tōngguò línchuáng yánjiū fēnxī"
+    },
+    "C": {
+     "zh": "能依用戶的能力自動調整",
+     "py": "Néng yī yònghù de nénglì zìdòng tiáozhěng"
+    },
+    "D": {
+     "zh": "使用有效期為五至十二星期",
+     "py": "Shǐyòng yǒuxiàoqī wèi wǔ zhì shíèr xīngqī"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "有關這套遊戲軟體的敘述何者正確？",
+     "py": "Yǒuguān zhè tào yóuxì ruǎntǐ de xùshù hézhě zhèngquè?"
+    }
+   ]
+  },
+  "50": {
+   "options": {
+    "A": {
+     "zh": "說明研發過程嚴謹",
+     "py": "Shuōmíng yánfā guòchéng yánjǐn"
+    },
+    "B": {
+     "zh": "強調使用族群普及",
+     "py": "Qiángdiào shǐyòng zúqún Pǔjí"
+    },
+    "C": {
+     "zh": "凸顯公司財力雄厚",
+     "py": "Tūxiǎn gōngsī cáilìxiónghòu"
+    },
+    "D": {
+     "zh": "舉證軟體效果顯著",
+     "py": "Jǔzhèng ruǎntǐ xiàoguǒxiǎnzhù"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "為何提及使用者使用的結果？",
+     "py": "Wèihé tíjí shǐyòngzhě shǐyòng de jiéguǒ?"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,2081 @@
+{
+ "testId": "b-l4",
+ "segments": 425,
+ "englishComplete": false,
+ "questions": {
+  "1": {
+   "options": {
+    "A": {
+     "zh": "在戶外運動比較健康",
+     "py": "Zài Hùwàiyùndòng bǐjiào jiànkāng"
+    },
+    "B": {
+     "zh": "下雨天運動，很不方便",
+     "py": "Xiàyǔtiān yùndòng, hěn bù fāngbiàn"
+    },
+    "C": {
+     "zh": "不管天氣怎樣，都可以運動",
+     "py": "Bùguǎn tiānqì zěnyàng, dōu kěyǐ yùndòng"
+    },
+    "D": {
+     "zh": "天氣不好也要去公園動一動",
+     "py": "Tiānqì bùhǎo yě yào qù gōngyuán dòngyídòng"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男：最近老是下雨，我都不能去外面運動。",
+     "py": "Nán: Zuìjìn lǎo shì xiàyǔ, wǒ dōu bùnéng qù wàimiàn yùndòng."
+    },
+    {
+     "zh": "女：下雨天，就去運動中心裡面運動啊！",
+     "py": "Nǚ: Xiàyǔtiān, jiù qù yùndòng zhōngxīn lǐmiàn yùndòng a!"
+    },
+    {
+     "zh": "男：這位小姐的意思是什麼？",
+     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?"
+    }
+   ]
+  },
+  "2": {
+   "options": {
+    "A": {
+     "zh": "他非常喜歡運動",
+     "py": "Tā fēicháng xǐhuān yùndòng"
+    },
+    "B": {
+     "zh": "他什麼角色都能演",
+     "py": "Tā shénme juésè dōu néng yǎn"
+    },
+    "C": {
+     "zh": "他不太熟悉這個角色",
+     "py": "Tā Bútàishúxī zhè ge juésè"
+    },
+    "D": {
+     "zh": "他這次的表演十分精彩",
+     "py": "Tā zhècì de biǎoyǎn shífēn jīngcǎi"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男：你看，大明這次表演得可真生動。",
+     "py": "Nán: Nǐ kàn, Dàmíng zhècì biǎoyǎn dé kě zhēn shēngdòng."
+    },
+    {
+     "zh": "女：對啊，這次是他最拿手的角色，他當然發揮得很好。",
+     "py": "Nǚ: Duì a, zhècì shì tā zuì náshǒu de juésè, tā dāngrán fāhuī dé hěn hǎo."
+    },
+    {
+     "zh": "男：請問大明怎麼樣？",
+     "py": "Nán: Qǐngwèn Dàmíng zěnmeyàng?"
+    }
+   ]
+  },
+  "3": {
+   "options": {
+    "A": {
+     "zh": "新婚的夫妻",
+     "py": "Xīnhūn de fūqī"
+    },
+    "B": {
+     "zh": "剛交往的人",
+     "py": "Gāng jiāowǎng de rén"
+    },
+    "C": {
+     "zh": "剛畢業的人",
+     "py": "Gāng bìyè de rén"
+    },
+    "D": {
+     "zh": "新進公司的員工",
+     "py": "Xīn jìn gōngsī de yuángōng"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男：聽說公司的主管決定讓剛加入公司的職員接受基礎訓練。",
+     "py": "Nán: Tīngshuō gōngsī de zhǔguǎn juédìng ràng gāng jiārù gōngsī de zhíyuán jiēshòu jīchǔxùnliàn."
+    },
+    {
+     "zh": "女：嗯！這樣才能讓新人馬上進入情況啊！",
+     "py": "Nǚ: ń! Zhèyàng cáinéng ràng xīnrén mǎshàng jìnrù qíngkuàng a!"
+    },
+    {
+     "zh": "男：這位小姐提到的「新人」，指的是什麼？",
+     "py": "Nán: Zhèwèi Xiǎojiě tídào de “Xīnrén”, zhǐ de shì shénme?"
+    }
+   ]
+  },
+  "4": {
+   "options": {
+    "A": {
+     "zh": "這位先生還是別買了吧",
+     "py": "Zhèwèi xiānsheng háishì bié mǎi le ba"
+    },
+    "B": {
+     "zh": "她要送給這位先生一雙鞋",
+     "py": "Tā yào sònggěi zhèwèi xiānsheng yìshuāng xié"
+    },
+    "C": {
+     "zh": "這位先生可以先用她的錢買",
+     "py": "Zhèwèi xiānsheng kěyǐ xiān yòng tā de qián mǎi"
+    },
+    "D": {
+     "zh": "這位先生可以先拿回去再付錢",
+     "py": "Zhèwèi xiānsheng kěyǐ xiān náhuíqù zài fùqián"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男：我想買這雙鞋，可是我帶的錢不夠。",
+     "py": "Nán: Wǒ xiǎng mǎi zhè shuāngxié, kěshì wǒ dài de qián búgòu."
+    },
+    {
+     "zh": "女：放心吧！我可以借給你。",
+     "py": "Nǚ: Fàngxīn ba! Wǒ kěyǐ jiègěi nǐ."
+    },
+    {
+     "zh": "男：這位小姐的意思是什麼？",
+     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?"
+    }
+   ]
+  },
+  "5": {
+   "options": {
+    "A": {
+     "zh": "她不隨便吃東西",
+     "py": "Tā bù suíbiàn chī Dōngxi"
+    },
+    "B": {
+     "zh": "她只想吃一點東西",
+     "py": "Tā zhǐ xiǎng chī yìdiǎn Dōngxi"
+    },
+    "C": {
+     "zh": "她不想給這位先生方便",
+     "py": "Tā bùxiǎng gěi zhèwèi xiānsheng fāngbiàn"
+    },
+    "D": {
+     "zh": "她不想讓這位先生太麻煩",
+     "py": "Tā bùxiǎng ràng zhèwèi xiānsheng tài máfán"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男：今天我請客，妳想吃什麼都隨便妳。",
+     "py": "Nán: Jīntiān wǒ qǐngkè, nǐ xiǎng chī shénme dōu suíbiàn nǐ."
+    },
+    {
+     "zh": "女：我什麼都吃，雖然我很餓，但是只要你方便就好了。",
+     "py": "Nǚ: Wǒ shénme dōu chī, suīrán wǒ hěn è, dànshì zhǐyào nǐ fāngbiàn jiù hǎo le."
+    },
+    {
+     "zh": "男：請問這位小姐的意思是什麼？",
+     "py": "Nán: Qǐngwèn zhèwèi Xiǎojiě de yìsi shì shénme?"
+    }
+   ]
+  },
+  "6": {
+   "options": {
+    "A": {
+     "zh": "向這位先生借傘",
+     "py": "Xiàng zhèwèi xiānsheng jièsǎn"
+    },
+    "B": {
+     "zh": "請這位先生還她傘",
+     "py": "Qǐng zhèwèi xiānsheng hái tā sǎn"
+    },
+    "C": {
+     "zh": "拿了這位先生的傘",
+     "py": "Ná le zhèwèi xiānsheng de sǎn"
+    },
+    "D": {
+     "zh": "把這位先生的傘弄丟了",
+     "py": "Bǎ zhèwèi xiānsheng de sǎn nòng diū le"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男：小姐，不好意思。妳手上那把雨傘好像是我的。",
+     "py": "Nán: Xiǎojiě, bùhǎoyìsī. Nǐ shǒushàng nà bǎ yǔsǎn hǎoxiàng shì wǒ de."
+    },
+    {
+     "zh": "女：啊，真抱歉，這傘跟我的很像。",
+     "py": "Nǚ: A, zhēn bàoqiàn, zhè sǎn gēn wǒ de hěn xiàng."
+    },
+    {
+     "zh": "男：這位小姐做了什麼？",
+     "py": "Nán: Zhèwèi Xiǎojiě zuò le shénme?"
+    }
+   ]
+  },
+  "7": {
+   "options": {
+    "A": {
+     "zh": "她一直覺得做這件事很困難",
+     "py": "Tā yìzhí juéde zuò zhèjiàn shì hěn kùnnán"
+    },
+    "B": {
+     "zh": "她一開始以為只是小事一件",
+     "py": "Tā yī kāishǐ yǐwéi zhǐshì xiǎoshì yíjiàn"
+    },
+    "C": {
+     "zh": "她一開始就把東西準備好了",
+     "py": "Tā yī kāishǐ jiù bǎ Dōngxi zhǔnbèi hǎo le"
+    },
+    "D": {
+     "zh": "她覺得事情沒有她想的複雜",
+     "py": "Tā juéde shìqing méiyǒu tā xiǎng de fùzá"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男：唉！終於把報告都弄好了。",
+     "py": "Nán: Āi! Zhōngyú bǎ bàogào dōu nòng hǎo le."
+    },
+    {
+     "zh": "女：是啊！誰知道要準備的東西那麼多。",
+     "py": "Nǚ: Shì a! Shuí zhīdào yào zhǔnbèi de Dōngxi nàme duō."
+    },
+    {
+     "zh": "男：這位小姐的意思是什麼？",
+     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?"
+    }
+   ]
+  },
+  "8": {
+   "options": {
+    "A": {
+     "zh": "活動的時間太長",
+     "py": "Huódòng de shíjiān tài zhǎng"
+    },
+    "B": {
+     "zh": "活動安排得不好",
+     "py": "Huódòng ānpái dé bùhǎo"
+    },
+    "C": {
+     "zh": "不滿意活動的地點",
+     "py": "Bù mǎnyì huódòng de dìdiǎn"
+    },
+    "D": {
+     "zh": "覺得參加活動的人太多",
+     "py": "Juéde cānjiā huódòng de rén tài duō"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男：妳看起來不太開心，是不是不喜歡今天的活動？",
+     "py": "Nán: Nǐ kànqǐlái bù tài kāixīn, shìbúshì bù xǐhuān jīntiān de huódòng?"
+    },
+    {
+     "zh": "女：活動的安排我很滿意，只是在人多的地方，我就會覺得不自在。",
+     "py": "Nǚ: Huódòng de ānpái wǒ hěn mǎnyì, zhǐshì zài rén duō de dìfāng, wǒ jiù huì juéde búzìzài."
+    },
+    {
+     "zh": "男：這位小姐為什麼不太開心？",
+     "py": "Nán: Zhèwèi Xiǎojiě wèishénme bù tài kāixīn?"
+    }
+   ]
+  },
+  "9": {
+   "options": {
+    "A": {
+     "zh": "拼命洗澡會傷害皮膚",
+     "py": "Pīnmìng xǐzǎo huì shānghài pífū"
+    },
+    "B": {
+     "zh": "要按照醫生說的方法洗澡",
+     "py": "Yào ànzhào yīshēng shuō de fāngfǎ xǐzǎo"
+    },
+    "C": {
+     "zh": "精神不好的時候，就去洗澡",
+     "py": "Jīngshén bùhǎo de shíhòu, jiù qù xǐzǎo"
+    },
+    "D": {
+     "zh": "要這位先生提供保養皮膚的方式",
+     "py": "Yào zhèwèi xiānsheng tígōng bǎoyǎng pífū de fāngshì"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男：我的皮膚最近變得很乾，還紅紅的，我得去看醫生。",
+     "py": "Nán: Wǒ de pífū zuìjìn biàndé hěn gàn, hái hónghóngde, wǒ dé qù kàn yīshēng."
+    },
+    {
+     "zh": "女：不必！你別一天洗太多次澡就好了。雖然洗澡讓你精神好，但是對皮膚很不",
+     "py": "Nǚ: Búbì! Nǐ bié yìtiān Xǐtài duōcì zǎo jiù hǎo le. Suīrán xǐzǎo ràng nǐ jīngshén hǎo, dànshì duì pífū hěn bù"
+    },
+    {
+     "zh": "好。",
+     "py": "Hǎo."
+    },
+    {
+     "zh": "男：這位小姐的意思是什麼？",
+     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?"
+    }
+   ]
+  },
+  "10": {
+   "options": {
+    "A": {
+     "zh": "太慢了吧",
+     "py": "Tàimàn le ba"
+    },
+    "B": {
+     "zh": "慢一點比較好",
+     "py": "Màn yìdiǎn bǐjiào hǎo"
+    },
+    "C": {
+     "zh": "慢慢來沒關係",
+     "py": "Mànmànlái méiguānxì"
+    },
+    "D": {
+     "zh": "太快了，慢一點吧",
+     "py": "Tài kuài le, màn yìdiǎn ba"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男：可能還要再等十分鐘，飯才會煮好。",
+     "py": "Nán: Kěnéng háiyào zài děng shífēnzhōng, fàn cái huì zhǔ hǎo."
+    },
+    {
+     "zh": "女：怎麼那麼慢啊！",
+     "py": "Nǚ: Zěnme nàme màn a!"
+    },
+    {
+     "zh": "男：這位小姐的意思是什麼？",
+     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?"
+    }
+   ]
+  },
+  "11": {
+   "options": {
+    "A": {
+     "zh": "這位小姐不想白跑一趟",
+     "py": "Zhèwèi Xiǎojiě bùxiǎng báipǎoyítàng"
+    },
+    "B": {
+     "zh": "這位先生希望有人可以幫他",
+     "py": "Zhèwèi xiānsheng xīwàng yǒurén kěyǐ bāng tā"
+    },
+    "C": {
+     "zh": "這位先生找這位小姐要資料",
+     "py": "Zhèwèi xiānsheng zhǎo zhèwèi Xiǎojiě yào zīliào"
+    },
+    "D": {
+     "zh": "這位小姐打電話要這位先生回家",
+     "py": "Zhèwèi Xiǎojiě dǎdiànhuà yào zhèwèi xiānsheng huíjiā"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男：喂，小玲，我忙不過來了，我帶些資料過去給妳，妳幫我整理一下好不好？",
+     "py": "Nán: Wèi, Xiǎolíng, wǒ mángbúguòlái le, wǒ dài xiē zīliào guòqù gěi nǐ, nǐ bāng wǒ zhěnglǐ yíxià hǎobùhǎo?"
+    },
+    {
+     "zh": "女：好啊！可是我現在不在家，你要過來時，先打電話給我，免得白跑一趟。",
+     "py": "Nǚ: Hǎo a! Kěshì wǒ xiànzài bù zàijiā, nǐ yào guòlái shí, xiān dǎdiànhuà gěi wǒ, miǎnde báipǎoyítàng."
+    },
+    {
+     "zh": "男：請問下面哪一個是對的？",
+     "py": "Nán: Qǐngwèn xiàmiàn nǎ yí ge shì duì de?"
+    }
+   ]
+  },
+  "12": {
+   "options": {
+    "A": {
+     "zh": "聽這位先生的建議",
+     "py": "Tīng zhèwèi xiānsheng de jiànyì"
+    },
+    "B": {
+     "zh": "不改變放床的地方",
+     "py": "Bù gǎibiàn fàngchuáng de dìfāng"
+    },
+    "C": {
+     "zh": "選樣子更好看的床",
+     "py": "Xuǎn yàngzi gènghǎo kàn de chuáng"
+    },
+    "D": {
+     "zh": "詢問其他人的想法",
+     "py": "Xúnwèn qítārén de xiǎngfǎ"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男：妳選的這些家具品質跟顏色都很好，真有眼光。但是床舖放的位置有一點奇",
+     "py": "Nán: Nǐ xuǎn de zhèxiē jiājù pǐnzhì gēn yánsè dōu hěn hǎo, zhēn yǒu yǎnguāng. Dànshì chuáng pù fàng de wèizhì yǒu yìdiǎn qí"
+    },
+    {
+     "zh": "怪，改變一下會更好。",
+     "py": "Guài, gǎibiàn yíxià huì gènghǎo."
+    },
+    {
+     "zh": "女：謝謝你的建議，不過我聽說家具怎麼放跟運氣有關係，所以我要維持現在的",
+     "py": "Nǚ: Xièxiè nǐ de jiànyì, búguò wǒ tīngshuō jiājù zěnme fàng gēn yùnqì yǒu guānxì, suǒyǐ wǒ yào wéichí xiànzài de"
+    },
+    {
+     "zh": "樣子。",
+     "py": "Yàngzi."
+    },
+    {
+     "zh": "男：這位小姐打算怎麼做？",
+     "py": "Nán: Zhèwèi Xiǎojiě dǎsuàn zěnme zuò?"
+    }
+   ]
+  },
+  "13": {
+   "options": {
+    "A": {
+     "zh": "她覺得坐火車太慢了",
+     "py": "Tā juéde zuòhuǒchē tàimàn le"
+    },
+    "B": {
+     "zh": "她不想坐太便宜的火車",
+     "py": "Tā bùxiǎng zuò tài piányi de huǒchē"
+    },
+    "C": {
+     "zh": "她覺得坐火車也不太安全",
+     "py": "Tā juéde zuòhuǒchē yě bù tài ānquán"
+    },
+    "D": {
+     "zh": "她認為坐火車的好處很多",
+     "py": "Tā rènwéi zuòhuǒchē de hǎochù hěnduō"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男：坐飛機不是比坐火車快嗎？",
+     "py": "Nán: Zuòfēijī búshì bǐ zuòhuǒchē kuài ma?"
+    },
+    {
+     "zh": "女：火車雖然慢，但是比較安全，也比較便宜，還可以慢慢看風景，這樣不是很",
+     "py": "Nǚ: Huǒchē suīrán màn, dànshì bǐjiào ānquán, yě bǐjiào piányi, hái kěyǐ mànmàn kàn fēngjǐng, zhèyàng búshì hěn"
+    },
+    {
+     "zh": "好嗎？",
+     "py": "Hǎo ma?"
+    },
+    {
+     "zh": "男：這位小姐的意思是什麼？",
+     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?"
+    }
+   ]
+  },
+  "14": {
+   "options": {
+    "A": {
+     "zh": "她想找人成立資訊技術團隊",
+     "py": "Tā xiǎng zhǎo rén chénglì zīxùn jìshù tuánduì"
+    },
+    "B": {
+     "zh": "這項計畫案裡要有她公司的人",
+     "py": "Zhèxiàng jìhuààn lǐ yào yǒu tā gōngsī de rén"
+    },
+    "C": {
+     "zh": "她沒有搞清楚整體產業的需求",
+     "py": "Tā méiyǒu gǎoqīngchǔ zhěngtǐ chǎnyè de xūqiú"
+    },
+    "D": {
+     "zh": "這位先生的報告不符合她的期待",
+     "py": "Zhèwèi xiānsheng de bàogào bù fúhé tā de qīdài"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男：聽完我們的報告，不知道貴公司能否讓我們參與這項計畫？",
+     "py": "Nán: Tīng wán wǒmen de bàogào, bù zhīdào guì gōngsī néngfǒu ràng wǒmen cānyù zhèxiàng jìhuà?"
+    },
+    {
+     "zh": "女：如果是你們剛提的那些資訊技術，我的團隊就能做到了。",
+     "py": "Nǚ: Rúguǒ shì nǐmen gāng tí de nàxiē zīxùn jìshù, wǒ de tuánduì jiù néng zuòdào le."
+    },
+    {
+     "zh": "男：這位小姐的意思是什麼？",
+     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?"
+    }
+   ]
+  },
+  "15": {
+   "options": {
+    "A": {
+     "zh": "這位小姐覺得外食對身體不好",
+     "py": "Zhèwèi Xiǎojiě juéde wàishí duì shēntǐ bùhǎo"
+    },
+    "B": {
+     "zh": "這位先生覺得外食的口味不好",
+     "py": "Zhèwèi xiānsheng juéde wàishí de kǒuwèi bùhǎo"
+    },
+    "C": {
+     "zh": "這位小姐覺得出門吃飯太麻煩了",
+     "py": "Zhèwèi Xiǎojiě juéde chūmén chīfàn tài máfán le"
+    },
+    "D": {
+     "zh": "這位先生覺得這位小姐想換口味",
+     "py": "Zhèwèi xiānsheng juéde zhèwèi Xiǎojiě xiǎng Huànkǒuwèi"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男：我們去外面吃飯吧！比較方便。",
+     "py": "Nán: Wǒmen qù wàimiàn chīfàn ba! Bǐjiào fāngbiàn."
+    },
+    {
+     "zh": "女：外面的食物哪有家裡自己做的營養衛生啊？",
+     "py": "Nǚ: Wàimiàn de shíwù nǎ yǒu jiālǐ zìjǐ zuò de yíngyǎngwèishēng a?"
+    },
+    {
+     "zh": "男：偶爾吃一次，換換口味嘛！",
+     "py": "Nán: Ǒuěr chī yícì, huànhuàn kǒuwèi ma!"
+    },
+    {
+     "zh": "女：不行，這樣久了也會傷害健康。",
+     "py": "Nǚ: Bùxíng, zhèyàng jiǔ le yě huì shānghài jiànkāng."
+    },
+    {
+     "zh": "男：請問下面哪一個是對的？",
+     "py": "Nán: Qǐngwèn xiàmiàn nǎ yí ge shì duì de?"
+    }
+   ]
+  },
+  "16": {
+   "options": {
+    "A": {
+     "zh": "她要把錢還給客人",
+     "py": "Tā yào bǎ qián huángěi kèrén"
+    },
+    "B": {
+     "zh": "東西賣出去就不能換了",
+     "py": "Dōngxi màichūqù jiù bùnéng huàn le"
+    },
+    "C": {
+     "zh": "她沒有東西可以換給客人",
+     "py": "Tā méiyǒu Dōngxi kěyǐ huàn gěi kèrén"
+    },
+    "D": {
+     "zh": "沒有發票，就不能換東西",
+     "py": "Méiyǒu fāpiào, jiù bùnéng Huàn Dōngxi"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男：小姐，這是昨天跟你們買的牛奶，味道有點奇怪，我想換一瓶新的。",
+     "py": "Nán: Xiǎojiě, zhè shì zuótiān gēn nǐmen mǎi de niúnǎi, wèidào yǒudiǎn qíguài, wǒ xiǎnghuàn yìpíng xīn de."
+    },
+    {
+     "zh": "女：請問您帶了發票嗎？",
+     "py": "Nǚ: Qǐngwèn nín dài le fāpiào ma?"
+    },
+    {
+     "zh": "男：喔，我沒帶來。",
+     "py": "Nán: Ō, wǒ méi dàilái."
+    },
+    {
+     "zh": "女：我們要看到發票，才能換東西，不好意思。",
+     "py": "Nǚ: Wǒmen yào kàndào fāpiào, cáinéng Huàn Dōngxi, bùhǎoyìsī."
+    },
+    {
+     "zh": "男：這位小姐的意思是什麼？",
+     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?"
+    }
+   ]
+  },
+  "17": {
+   "options": {
+    "A": {
+     "zh": "環境很不好",
+     "py": "Huánjìng hěn bùhǎo"
+    },
+    "B": {
+     "zh": "位置還不錯",
+     "py": "Wèizhì hái búcuò"
+    },
+    "C": {
+     "zh": "價格太昂貴",
+     "py": "Jiàgé tài ángguì"
+    },
+    "D": {
+     "zh": "舞蹈課程多",
+     "py": "Wǔdǎo kèchéng duō"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "男：這間健身房的設備很好。",
+     "py": "Nán: Zhè jiān jiànshēnfáng de shèbèi hěn hǎo."
+    },
+    {
+     "zh": "女：可是我不喜歡他們的舞蹈課程。",
+     "py": "Nǚ: Kěshì wǒ bù xǐhuān tāmen de wǔdǎo kèchéng."
+    },
+    {
+     "zh": "男：看在交通方便、價錢也還可以的份上，我們就加入會員吧！",
+     "py": "Nán: Kàn zài jiāotōng fāngbiàn, jiàqián yě hái kěyǐ de fènshàng, wǒmen jiù jiārù huìyuán ba!"
+    },
+    {
+     "zh": "女：等等，你先別急，我還要考慮考慮。",
+     "py": "Nǚ: Děngděng, nǐ xiān biéjí, wǒ háiyào kǎolǜ kǎolǜ."
+    },
+    {
+     "zh": "男：關於這間健身房，這位先生覺得怎麼樣？",
+     "py": "Nán: Guānyú zhè jiān jiànshēnfáng, zhèwèi xiānsheng juéde zěnmeyàng?"
+    }
+   ]
+  },
+  "18": {
+   "options": {
+    "A": {
+     "zh": "要先把畫畫學好",
+     "py": "Yào xiān bǎ huàhuà xuéhǎo"
+    },
+    "B": {
+     "zh": "學得越久，寫得越好",
+     "py": "Xué dé yuè jiǔ, xiě dé yuèhǎo"
+    },
+    "C": {
+     "zh": "要具備空間分佈的概念",
+     "py": "Yào jùbèi kōngjiān fēnbù de gàiniàn"
+    },
+    "D": {
+     "zh": "要知道寫一個字的順序",
+     "py": "Yào zhīdào xiě yí ge zì de shùnxù"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這段和書法有關的對話，然後回答兩個問題。",
+     "py": "Qǐng tīng zhè duàn hé shūfǎ yǒuguān de duìhuà, ránhòu huídá liǎng ge wèntí."
+    },
+    {
+     "zh": "男：唉，我這次參加比賽還是沒有得名。為了再進步一些，我決定每天把這些大",
+     "py": "Nán: Āi, wǒ zhècì cānjiā bǐsài háishì méiyǒu démíng. Wèile zài jìnbù yìxiē, wǒ juédìng měitiān bǎ zhèxiē dà"
+    },
+    {
+     "zh": "師寫的字都練習一遍。",
+     "py": "Shī xiě de zì dōu liànxí yíbiàn."
+    },
+    {
+     "zh": "女：書法就像畫畫一樣，字寫得好不好，要看空間的安排，比如空白的比例、顏",
+     "py": "Nǚ: Shūfǎ jiù xiàng huàhuà yíyàng, zì xiě dé hǎobùhǎo, yào kàn kōngjiān de ānpái, bǐrú kòngbái de bǐlì, Yán"
+    },
+    {
+     "zh": "色的濃淡都會影響一幅作品的評價。",
+     "py": "Sè de nóngdàn dōu huì yǐngxiǎng yìfú zuòpǐn de píngjià."
+    },
+    {
+     "zh": "男：這幾個部分我認為我做得很好啊！你看我寫的這些。",
+     "py": "Nán: Zhè jǐ ge bùfèn wǒ rènwéi wǒ zuò dé hěn hǎo a! Nǐ kàn wǒ xiě de zhèxiē."
+    },
+    {
+     "zh": "女：哇，沒想到你寫得這麼棒，幾乎跟大師寫的一模一樣。",
+     "py": "Nǚ: Wa, méixiǎngdào nǐ xiě dé zhème bàng, jīhū gēn dàshī xiě de yìmúyíyàng."
+    },
+    {
+     "zh": "男：所以我也不知道為什麼我沒有得獎。",
+     "py": "Nán: Suǒyǐ wǒ yě bù zhīdào wèishénme wǒ méiyǒu déjiǎng."
+    },
+    {
+     "zh": "女：是不是因為缺乏自我風格呢？你不如練習寫自己的字，不要練習寫大師的字",
+     "py": "Nǚ: Shìbúshì yīnwèi quēfá zìwǒ fēnggé ne? Nǐ bùrú liànxí xiě zìjǐ de zì, búyào liànxí xiě dàshī de zì"
+    },
+    {
+     "zh": "了。",
+     "py": "Le."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "這位小姐對寫書法這件事有什麼看法？",
+     "py": "Zhèwèi Xiǎojiě duì xiě shūfǎ zhèjiàn shì yǒu shénme kànfǎ?"
+    }
+   ]
+  },
+  "19": {
+   "options": {
+    "A": {
+     "zh": "看不出有什麼技巧",
+     "py": "Kànbùchū yǒu shénme jìqiǎo"
+    },
+    "B": {
+     "zh": "要再多和大師學習",
+     "py": "Yào zài duō hé dàshī xuéxí"
+    },
+    "C": {
+     "zh": "沒有什麼藝術價值",
+     "py": "Méiyǒu shénme yìshù jiàzhí"
+    },
+    "D": {
+     "zh": "要發展自己的特色",
+     "py": "Yào fāzhǎn zìjǐ de tèsè"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這位小姐覺得這位先生的作品怎麼樣？",
+     "py": "Zhèwèi Xiǎojiě juéde zhèwèi xiānsheng de zuòpǐn zěnmeyàng?"
+    }
+   ]
+  },
+  "20": {
+   "options": {
+    "A": {
+     "zh": "因為只有這位小姐有點數",
+     "py": "Yīnwèi zhǐyǒu zhèwèi Xiǎojiě yǒudiǎn shù"
+    },
+    "B": {
+     "zh": "因為點數不能用來換折扣",
+     "py": "Yīnwèi diǎnshù bùnéng yònglái Huàn zhékòu"
+    },
+    "C": {
+     "zh": "因為只有這位小姐有折扣",
+     "py": "Yīnwèi zhǐyǒu zhèwèi Xiǎojiě yǒu zhékòu"
+    },
+    "D": {
+     "zh": "因為這位小姐不幫他付錢",
+     "py": "Yīnwèi zhèwèi Xiǎojiě bù bāng tā fùqián"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這段和結帳有關的對話，然後回答兩個問題。",
+     "py": "Qǐng tīng zhè duàn hé jiézhàng yǒuguān de duìhuà, ránhòu huídá liǎng ge wèntí."
+    },
+    {
+     "zh": "女：我要的東西都挑好了，我們一起結帳吧！",
+     "py": "Nǚ: Wǒ yào de Dōngxi dōu tiāohǎo le, wǒmen yìqǐ jiézhàng ba!"
+    },
+    {
+     "zh": "男：不必幫我付，分開算就行了，喔，這是我的會員卡。",
+     "py": "Nán: Búbì bāng wǒ fù, fēnkāi suàn jiùxíngle, ō, zhè shì wǒ de huìyuánkǎ."
+    },
+    {
+     "zh": "女：你的會員卡可沒我這張卡厲害，今天刷我這張信用卡，可以拿到兩倍點數喔！",
+     "py": "Nǚ: Nǐ de huìyuánkǎ kěméi wǒ zhè Zhāngkǎ lìhài, jīntiān shuā wǒ zhè zhāng xìnyòngkǎ, kěyǐ nádào liǎngbèi diǎnshù ō!"
+    },
+    {
+     "zh": "先讓我一起刷卡，你再算算你買的部分要給我多少錢。",
+     "py": "Xiān ràng wǒ yìqǐ shuākǎ, nǐ zài suànsuàn nǐ mǎi de bùfèn yào gěi wǒ duōshǎo qián."
+    },
+    {
+     "zh": "男：點數可以做什麼？打折嗎？",
+     "py": "Nán: Diǎnshù kěyǐ zuò shénme? Dǎzhé ma?"
+    },
+    {
+     "zh": "女：點數不是用來抵折扣的。你每刷一次卡都會產生點數，有了一定點數以後，",
+     "py": "Nǚ: Diǎnshù búshì yònglái dǐ zhékòu de. Nǐ měi shuā yícì kǎ dōu huì chǎnshēng diǎnshù, yǒu le yídìng diǎnshù yǐhòu,"
+    },
+    {
+     "zh": "就可以換禮品。你看，這個購物袋就是用這些點數換來的。",
+     "py": "Jiù kěyǐ Huàn lǐpǐn. Nǐ kàn, zhè ge gòuwùdài jiùshì yòng zhèxiē diǎnshù huànlái de."
+    },
+    {
+     "zh": "男：沒想到有這種好處啊，那讓你刷卡，我不就損失了嗎！下次我可要帶張信用",
+     "py": "Nán: Méixiǎngdào yǒu zhèzhǒng hǎochù a, nà ràng nǐ shuākǎ, wǒ bù jiù sǔnshī le ma! Xiàcì wǒ kě yào dài Zhāng xìnyòng"
+    },
+    {
+     "zh": "卡來買。",
+     "py": "Kǎlái mǎi."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "為什麼這位先生覺得損失了？",
+     "py": "Wèishénme zhèwèi xiānsheng juéde sǔnshī le?"
+    }
+   ]
+  },
+  "21": {
+   "options": {
+    "A": {
+     "zh": "今天刷卡會送購物袋",
+     "py": "Jīntiān shuākǎ huì sòng gòuwùdài"
+    },
+    "B": {
+     "zh": "他們買東西是各付各的",
+     "py": "Tāmen mǎi Dōngxi shì gè fù gè de"
+    },
+    "C": {
+     "zh": "加入商店會員有很多好處",
+     "py": "Jiārù shāngdiàn huìyuán yǒu hěnduō hǎochù"
+    },
+    "D": {
+     "zh": "這位先生也想要辦信用卡",
+     "py": "Zhèwèi xiānsheng yě xiǎngyào bàn xìnyòngkǎ"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "從對話中可以知道什麼？",
+     "py": "Cóng duìhuà zhōng kěyǐ zhīdào shénme?"
+    }
+   ]
+  },
+  "22": {
+   "options": {
+    "A": {
+     "zh": "小孩生病就是要吃藥",
+     "py": "Xiǎohái shēngbìng jiùshì yào chīyào"
+    },
+    "B": {
+     "zh": "小孩子不可以吃大人的藥",
+     "py": "Xiǎoháizi bù kěyǐ chī dàrén de yào"
+    },
+    "C": {
+     "zh": "就算沒有水，也可以吃藥",
+     "py": "Jiùsuàn méiyǒu shuǐ, yě kěyǐ chīyào"
+    },
+    "D": {
+     "zh": "不可以隨便調整吃藥的時間",
+     "py": "Bù kěyǐ suíbiàn tiáozhěng chīyào de shíjiān"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這段和吃藥有關的對話，然後回答兩個問題。",
+     "py": "Qǐng tīng zhè duàn hé chīyào yǒuguān de duìhuà, ránhòu huídá liǎng ge wèntí."
+    },
+    {
+     "zh": "女：老公，你把水壺放在哪裡？該餵孩子吃藥了。",
+     "py": "Nǚ: Lǎogōng, nǐ bǎ shuǐhú fàngzài nǎlǐ? Gāi wèi háizi chīyào le."
+    },
+    {
+     "zh": "男：你不是都隨身帶著一瓶水的嗎？",
+     "py": "Nán: Nǐ búshì dōu suíshēndài zhù yìpíng shuǐ de ma?"
+    },
+    {
+     "zh": "女：我不是跟你說我今天不帶，要你在車上放個水壺嗎？因為那個瓶子關不緊，",
+     "py": "Nǚ: Wǒ búshì gēn nǐ shuō wǒ jīntiān bù dài, yào nǐ zài chēshàng fàng gè shuǐhú ma? Yīnwèi nà ge píngzi guānbùjǐn,"
+    },
+    {
+     "zh": "還把我的背包都弄濕了呀！",
+     "py": "Hái bǎ wǒ de bēibāo dōu nòngshī le ya!"
+    },
+    {
+     "zh": "男：對不起，我忘了。就用果汁吧，等我一下，我找找……我明明記得果汁放在",
+     "py": "Nán: Duìbùqǐ, wǒ wàng le. Jiù yòng guǒzhī ba, děng wǒ yíxià, wǒ zhǎo zhǎo…… wǒ míngmíng jìde guǒzhī fàngzài"
+    },
+    {
+     "zh": "後面……",
+     "py": "Hòumiàn……"
+    },
+    {
+     "zh": "女：你竟然想用果汁配藥吃？吃藥配水，才是最正確的方式。等一會兒看到便利",
+     "py": "Nǚ: Nǐ jìngrán xiǎng yòng guǒzhī pèiyào chī? Chīyào pèishuǐ, cái shì zuì zhèngquè de fāngshì. Děng yíhuìer kàndào biànlì"
+    },
+    {
+     "zh": "商店，你下車買一瓶水吧！",
+     "py": "Shāngdiàn, nǐ xiàchē mǎi yìpíng shuǐba!"
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "這位先生對吃藥這件事的想法是什麼？",
+     "py": "Zhèwèi xiānsheng duì chīyào zhèjiàn shì de xiǎngfǎ shì shénme?"
+    }
+   ]
+  },
+  "23": {
+   "options": {
+    "A": {
+     "zh": "沒帶水瓶的原因",
+     "py": "Méi dài shuǐpíng de yuányīn"
+    },
+    "B": {
+     "zh": "到便利商店的方向",
+     "py": "Dào biànlìshāngdiàn de fāngxiàng"
+    },
+    "C": {
+     "zh": "醫生交代的吃藥方式",
+     "py": "Yīshēng jiāodài de chīyào fāngshì"
+    },
+    "D": {
+     "zh": "小孩生病不舒服的狀況",
+     "py": "Xiǎohái shēngbìng bù shūfú de zhuàngkuàng"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "在對話中，這位小姐提到什麼？",
+     "py": "Zài duìhuà zhōng, zhèwèi Xiǎojiě tídào shénme?"
+    }
+   ]
+  },
+  "24": {
+   "options": {
+    "A": {
+     "zh": "他的生活很辛苦",
+     "py": "Tā de shēnghuó hěn xīnkǔ"
+    },
+    "B": {
+     "zh": "他娛樂支出很多",
+     "py": "Tā yúlè zhīchū hěnduō"
+    },
+    "C": {
+     "zh": "父母的收入很高",
+     "py": "Fùmǔ de shōurù hěn gāo"
+    },
+    "D": {
+     "zh": "父母沒給生活費",
+     "py": "Fùmǔ méi gěi shēnghuófèi"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這一段和孩子用錢觀念有關的對話，然後回答兩個問題。",
+     "py": "Qǐng tīng zhè yíduàn hé háizi yòngqián guānniàn yǒuguān de duìhuà, ránhòu huídá liǎng ge wèntí."
+    },
+    {
+     "zh": "男：我不是才剛給大明生活費用嗎？怎麼又缺錢了？",
+     "py": "Nán: Wǒ búshì cáigāng gěi Dàmíng shēnghuófèiyòng ma? Zěnme yòu quēqián le?"
+    },
+    {
+     "zh": "女：他的娛樂活動不少，花費當然不小。他要就給、他要就給，我們不都一直這",
+     "py": "Nǚ: Tā de yúlèhuódòng bùshǎo, huāfèi dāngrán bùxiǎo. Tā yào jiù gěi, tā yào jiù gěi, wǒmen bù dōu yìzhí zhè"
+    },
+    {
+     "zh": "麼做嗎？",
+     "py": "Me zuò ma?"
+    },
+    {
+     "zh": "男：我每天辛苦賺錢，希望能滿足一家人的物質生活，但是像大明這種花錢方式，",
+     "py": "Nán: Wǒ měitiān xīnkǔ zhuànqián, xīwàng néng mǎnzú yìjiārén de wùzhì shēnghuó, dànshì xiàng Dàmíng zhèzhǒng huāqián fāngshì,"
+    },
+    {
+     "zh": "我實在不贊同。",
+     "py": "Wǒ shízài bù zàntóng."
+    },
+    {
+     "zh": "女：你怎麼現在態度忽然改變了？",
+     "py": "Nǚ: Nǐ zěnme xiànzài tàidù hūrán gǎibiàn le?"
+    },
+    {
+     "zh": "男：現在他長大了，不該老是伸手要錢，他得學習靠自己的勞力賺錢，才能在社",
+     "py": "Nán: Xiànzài tā Zhǎngdà le, bùgāi lǎo shì shēnshǒu yàoqián, tā dé xuéxí kào zìjǐ de láolì zhuànqián, cáinéng zài shè"
+    },
+    {
+     "zh": "會上生存。",
+     "py": "Huìshàng shēngcún."
+    },
+    {
+     "zh": "女：那我們跟大明好好溝通這個觀念吧！",
+     "py": "Nǚ: Nà wǒmen gēn Dàmíng hǎohǎo gōutōng zhè ge guānniàn ba!"
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "這位小姐認為大明伸手要錢的原因是什麼？",
+     "py": "Zhèwèi Xiǎojiě rènwéi Dàmíng shēnshǒu yàoqián de yuányīn shì shénme?"
+    }
+   ]
+  },
+  "25": {
+   "options": {
+    "A": {
+     "zh": "現在大明應該自己賺錢",
+     "py": "Xiànzài Dàmíng yīnggāi zìjǐ zhuànqián"
+    },
+    "B": {
+     "zh": "父親給多少錢就可花多少",
+     "py": "Fùqīn gěi duōshǎo qián jiù kě huā duōshǎo"
+    },
+    "C": {
+     "zh": "大明每天只會玩，不會養家",
+     "py": "Dàmíng měitiān zhǐ huì wán, búhuì yǎngjiā"
+    },
+    "D": {
+     "zh": "大明應該從小培養存錢的習慣",
+     "py": "Dàmíng yīnggāi cóngxiǎo péiyǎng cúnqián de xíguàn"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這位先生對於大明的看法是什麼？",
+     "py": "Zhèwèi xiānsheng duìyú Dàmíng de kànfǎ shì shénme?"
+    }
+   ]
+  },
+  "26": {
+   "options": {
+    "A": {
+     "zh": "因為想在網路上找朋友",
+     "py": "Yīnwèi xiǎng zài wǎnglùshàng zhǎo péngyǒu"
+    },
+    "B": {
+     "zh": "因為對寫文章很有興趣",
+     "py": "Yīnwèi duì xiěwénzhāng hěn yǒu xìngqù"
+    },
+    "C": {
+     "zh": "因為要訓練自己的表達能力",
+     "py": "Yīnwèi yào xùnliàn zìjǐ de biǎodánénglì"
+    },
+    "D": {
+     "zh": "因為能增加得到工作的機會",
+     "py": "Yīnwèi néng zēngjiā dédào gōngzuò de jīhuì"
+    }
+   },
+   "intro": [
+    {
+     "zh": "下面是兩個同學之間的對話。請你在聽完這段對話後，回答下面三個問題：",
+     "py": "Xiàmiàn shì liǎng ge tóngxué zhījiān de duìhuà. Qǐng nǐ zài tīngwán zhèduàn duìhuà hòu, huídá xiàmiàn sān ge wèntí:"
+    },
+    {
+     "zh": "Ⅰ. 這位女生為什麼要開始寫網路日記？",
+     "py": "Ⅰ. Zhèwèi nǚshēng wèishénme yào kāishǐ xiě wǎnglù rìjì?"
+    },
+    {
+     "zh": "Ⅱ. 這位女生認為網路日記有什麼功能？",
+     "py": "Ⅱ. Zhèwèi nǚshēng rènwéi wǎnglù rìjì yǒu shénme gōngnéng?"
+    },
+    {
+     "zh": "Ⅲ. 這位男生覺得網路日記怎麼樣？",
+     "py": "Ⅲ. Zhèwèi nánshēng juéde wǎnglù rìjì zěnmeyàng?"
+    },
+    {
+     "zh": "現在請聽對話。",
+     "py": "Xiànzài qǐng tīng duìhuà."
+    },
+    {
+     "zh": "女：你可以推薦我一個功能比較多的網路日記網站嗎？",
+     "py": "Nǚ: Nǐ kěyǐ tuījiàn wǒ yí ge gōngnéng bǐjiào duō de wǎnglù rìjì wǎngzhàn ma?"
+    },
+    {
+     "zh": "男：好啊！不過，你不是不愛寫文章的嗎？怎麼突然要開始寫日記？",
+     "py": "Nán: Hǎo a! Búguò, nǐ búshì bù ài xiěwénzhāng de ma? Zěnme tūrán yào kāishǐ xiěrìjì?"
+    },
+    {
+     "zh": "女：昨天新聞報導不是說了，現在很多企業找人，會到這個人的網路日記裡觀察",
+     "py": "Nǚ: Zuótiān xīnwénbàodǎo búshì shuō le, xiànzài hěnduō qǐyè zhǎo rén, huì dào zhè ge rén de wǎnglù rìjì lǐ guānchá"
+    },
+    {
+     "zh": "他個性好不好、專業知識夠不夠，也會看他一般文章寫得怎麼樣。",
+     "py": "Tā gèxìng hǎobùhǎo, zhuānyèzhīshí gòubúgòu, yě huì kàn tā yìbān wénzhāng xiě dé zěnmeyàng."
+    },
+    {
+     "zh": "男：所以你打算利用它來找工作嗎？",
+     "py": "Nán: Suǒyǐ nǐ dǎsuàn lìyòng tā lái zhǎo gōngzuò ma?"
+    },
+    {
+     "zh": "女：是啊！我又沒什麼工作經驗，也不是反應很快的人。透過文字跟圖片是比較",
+     "py": "Nǚ: Shì a! Wǒ yòu méishénme gōngzuò jīngyàn, yě búshì fǎnyìng hěnkuài de rén. Tòuguò wénzì gēn túpiàn shì bǐjiào"
+    },
+    {
+     "zh": "能表現自己的方法。不愛也得強迫自己寫。",
+     "py": "Néng biǎoxiàn zìjǐ de fāngfǎ. Bù ài yě dé qiǎngpò zìjǐ xiě."
+    },
+    {
+     "zh": "男：說的也是，而且發現錯了隨時能更改。不過我可要提醒你一件事。網路日記",
+     "py": "Nán: Shuō de yě shì, érqiě fāxiàn cuò le suíshí néng gēnggǎi. Búguò wǒ kěyào tíxǐng nǐ yíjiàn shì. Wǎnglù rìjì"
+    },
+    {
+     "zh": "是公開的文章，不是私人的記事本。",
+     "py": "Shì gōngkāi de wénzhāng, búshì sīrén de jìshìběn."
+    },
+    {
+     "zh": "女：那是什麼意思？",
+     "py": "Nǚ: Nà shì shénme yìsi?"
+    },
+    {
+     "zh": "男：就是別在你的網路日記上亂抱怨，如果老闆看到你在日記裡抱怨工作或同事，",
+     "py": "Nán: Jiùshì bié zài nǐ de wǎnglù rìjì shàngluàn bàoyuàn, rúguǒ lǎobǎn kàndào nǐ zài rìjì lǐ bàoyuàn gōngzuò huò tóngshì,"
+    },
+    {
+     "zh": "對你就有扣分作用，還是小心一點好。",
+     "py": "Duì nǐ jiù yǒu kòufēn zuòyòng, háishì xiǎoxīn yìdiǎn hǎo."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "這位女生為什麼要開始寫網路日記？",
+     "py": "Zhèwèi nǚshēng wèishénme yào kāishǐ xiě wǎnglù rìjì?"
+    }
+   ]
+  },
+  "27": {
+   "options": {
+    "A": {
+     "zh": "可以增加不同的專業知識",
+     "py": "Kěyǐ zēngjiā bùtóng de zhuānyèzhīshí"
+    },
+    "B": {
+     "zh": "可以清楚地表現個性特色",
+     "py": "Kěyǐ qīngchǔ dì biǎoxiàn gèxìng tèsè"
+    },
+    "C": {
+     "zh": "可以改變自己的寫作習慣",
+     "py": "Kěyǐ gǎibiàn zìjǐ de xiězuò xíguàn"
+    },
+    "D": {
+     "zh": "可以設定條件來尋找工作",
+     "py": "Kěyǐ shèdìng tiáojiàn lái xúnzhǎo gōngzuò"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這位女生認為網路日記有什麼功能？",
+     "py": "Zhèwèi nǚshēng rènwéi wǎnglù rìjì yǒu shénme gōngnéng?"
+    }
+   ]
+  },
+  "28": {
+   "options": {
+    "A": {
+     "zh": "不適合用來找工作",
+     "py": "Bù shìhé yònglái zhǎo gōngzuò"
+    },
+    "B": {
+     "zh": "無法觀察出專業看法",
+     "py": "Wúfǎ guānchá chū zhuānyè kànfǎ"
+    },
+    "C": {
+     "zh": "要小心發表時的態度",
+     "py": "Yào xiǎoxīn fābiǎo shí de tàidù"
+    },
+    "D": {
+     "zh": "要了解網路讀者的反應",
+     "py": "Yào liǎojiě wǎnglù dúzhě de fǎnyìng"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這位男生覺得網路日記怎麼樣？",
+     "py": "Zhèwèi nánshēng juéde wǎnglù rìjì zěnmeyàng?"
+    }
+   ]
+  },
+  "29": {
+   "options": {
+    "A": {
+     "zh": "補助金額偏低",
+     "py": "Bǔzhù jīné piāndī"
+    },
+    "B": {
+     "zh": "申請程序便利",
+     "py": "Shēnqǐng chéngxù biànlì"
+    },
+    "C": {
+     "zh": "實施時間應該提前",
+     "py": "Shíshī shíjiān yīnggāi tíqián"
+    },
+    "D": {
+     "zh": "申請對象應限制年齡",
+     "py": "Shēnqǐng duìxiàng yīng xiànzhì niánlíng"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這一段和政府補助金有關的討論，然後回答三個問題：",
+     "py": "Qǐng tīng zhè yíduàn hé zhèngfǔ bǔzhùjīn yǒuguān de tǎolùn, ránhòu huídá sān ge wèntí:"
+    },
+    {
+     "zh": "Ⅰ. 民眾覺得這項政策怎麼樣？",
+     "py": "Ⅰ. Mínzhòng juéde zhèxiàng zhèngcè zěnmeyàng?"
+    },
+    {
+     "zh": "Ⅱ. 下面哪一個是政府提供補助金的對象？",
+     "py": "Ⅱ. Xiàmiàn nǎ yí ge shì zhèngfǔ tígōng bǔzhùjīn de duìxiàng?"
+    },
+    {
+     "zh": "Ⅲ. 關於對話中的兩個人，目前的狀況如何？",
+     "py": "Ⅲ. Guānyú duìhuà zhōng de liǎng ge rén, mùqián de zhuàngkuàng rúhé?"
+    },
+    {
+     "zh": "現在請聽討論。",
+     "py": "Xiànzài qǐng tīng tǎolùn."
+    },
+    {
+     "zh": "男：最近失業的問題越來越嚴重，政府上個月三號和專家學者，開了一個會，討",
+     "py": "Nán: Zuìjìn shīyè de wèntí yuèláiyuè yánzhòng, zhèngfǔ shànggèyuè sānhào hé zhuānjiāxuézhě, kāi le yí ge huì, tǎo"
+    },
+    {
+     "zh": "論出一些新辦法和新措施。",
+     "py": "Lùnchū yìxiē xīn bànfǎ hé xīn cuòshī."
+    },
+    {
+     "zh": "女：我也聽說了。這個政策要從元旦開始實施。如果失業超過三個月，政府就每",
+     "py": "Nǚ: Wǒ yě tīngshuō le. Zhè ge zhèngcè yào cóng yuándàn kāishǐ shíshī. Rúguǒ shīyè chāoguò sān ge yuè, zhèngfǔ jiù měi"
+    },
+    {
+     "zh": "個月補助六千元。",
+     "py": "Gè yuè bǔzhù liùqiānyuán."
+    },
+    {
+     "zh": "男：六千塊的補助金額恐怕還是不夠。尤其是中年人口，大多數都還要照顧年老",
+     "py": "Nán: Liùqiānkuài de bǔzhù jīné kǒngpà háishì búgòu. Yóuqí shì zhōngnián rénkǒu, dàduōshù dōu háiyào zhàogù niánlǎo"
+    },
+    {
+     "zh": "父母跟還沒獨立的小孩。我看，光是繳孩子的教育費用，就一點也不剩了吧！",
+     "py": "Fùmǔ gēn hái méi dúlì de xiǎohái. Wǒ kàn, guāngshì jiǎo háizi de jiàoyù fèiyòng, jiù yìdiǎn yě búshèng le ba!"
+    },
+    {
+     "zh": "女：你說得對，這就是為什麼政府才剛把消息公布出來，就受到民眾的批評。最",
+     "py": "Nǚ: Nǐ shuōdéduì, zhè jiùshì wèishénme zhèngfǔ cáigāng bǎ xiāoxī gōngbùchūlái, jiù shòudào mínzhòng de pīpíng. Zuì"
+    },
+    {
+     "zh": "麻煩的是，失業的人還要親自到相關單位填申請表，交出自己失業的資料。",
+     "py": "Máfán de shì, shīyè de rén háiyào qīnzì dào xiāngguān dānwèi tián shēnqǐngbiǎo, jiāochū zìjǐ shīyè de zīliào."
+    },
+    {
+     "zh": "男：你知道得可真多，我現在才曉得你這麼關心社會大眾的相關問題呢。",
+     "py": "Nán: Nǐ zhīdào dé kě zhēnduō, wǒ xiànzài cái xiǎode nǐ zhème guānxīn shèhuì dàzhòng de xiāngguān wèntí ne."
+    },
+    {
+     "zh": "女：還好啦！誰叫我下個禮拜就要陪我的丈夫去申請補助呢，不把這些條件讀熟",
+     "py": "Nǚ: Háihǎo la! Shuí jiào wǒ xià gè Lǐbài jiùyào péi wǒ de zhàngfū qù shēnqǐng bǔzhù ne, bù bǎ zhèxiē tiáojiàn dúshú"
+    },
+    {
+     "zh": "一點可不行啊！",
+     "py": "Yìdiǎn kě bùxíng a!"
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "民眾覺得這項政策怎麼樣？",
+     "py": "Mínzhòng juéde zhèxiàng zhèngcè zěnmeyàng?"
+    }
+   ]
+  },
+  "30": {
+   "options": {
+    "A": {
+     "zh": "年紀超過 65 歲的人",
+     "py": "Niánjì chāoguò 65 suì de rén"
+    },
+    "B": {
+     "zh": "沒有工作超過三個月的人",
+     "py": "Méiyǒu gōngzuò chāoguò sān ge yuè de rén"
+    },
+    "C": {
+     "zh": "家中小孩未滿三個月的父母",
+     "py": "Jiāzhōng xiǎohái wèimǎn sān ge yuè de fùmǔ"
+    },
+    "D": {
+     "zh": "全家一年收入不到三十萬的家庭",
+     "py": "Quánjiā yìnián shōurù búdào sānshíwàn de jiātíng"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "下面哪一個是政府提供補助金的對象？",
+     "py": "Xiàmiàn nǎ yí ge shì zhèngfǔ tígōng bǔzhùjīn de duìxiàng?"
+    }
+   ]
+  },
+  "31": {
+   "options": {
+    "A": {
+     "zh": "這位先生沒工作",
+     "py": "Zhèwèi xiānsheng méi gōngzuò"
+    },
+    "B": {
+     "zh": "這位小姐的先生失業了",
+     "py": "Zhèwèi Xiǎojiě de xiānsheng shīyè le"
+    },
+    "C": {
+     "zh": "這位先生在經濟上需要政府協助",
+     "py": "Zhèwèi xiānsheng zàijīngjìshàng xūyào zhèngfǔ xiézhù"
+    },
+    "D": {
+     "zh": "這位小姐符合申請補助金的條件",
+     "py": "Zhèwèi Xiǎojiě fúhé shēnqǐng bǔzhùjīn de tiáojiàn"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "關於對話中的兩個人，目前的狀況如何？",
+     "py": "Guānyú duìhuà zhōng de liǎng ge rén, mùqián de zhuàngkuàng rúhé?"
+    }
+   ]
+  },
+  "32": {
+   "options": {
+    "A": {
+     "zh": "避免浪費",
+     "py": "Bìmiǎnlàngfèi"
+    },
+    "B": {
+     "zh": "沒時間買東西",
+     "py": "Méi shíjiān mǎi Dōngxi"
+    },
+    "C": {
+     "zh": "數現金比較有意思",
+     "py": "Shù xiànjīn bǐjiào yǒuyìsi"
+    },
+    "D": {
+     "zh": "在國外買東西都能退換",
+     "py": "Zài guówài mǎi Dōngxi dōu néng tuìhuàn"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這一段話，然後回答下面的問題。",
+     "py": "Qǐng tīng zhè yíduànhuà, ránhòu huídá xiàmiàn de wèntí."
+    },
+    {
+     "zh": "這次出國旅行，我決定不帶信用卡出門了。因為刷卡實在是太方便了，讓我",
+     "py": "Zhècì chūguó lǚxíng, wǒ juédìng bù dài xìnyòngkǎ chūmén le. Yīnwèi shuākǎ shízài shì tài fāngbiàn le, ràng wǒ"
+    },
+    {
+     "zh": "花錢的時候一點兒感覺都沒有，不像用現金時還得一張一張數。以前每次出國都",
+     "py": "Huāqián de shíhòu yìdiǎnér gǎnjué dōu méiyǒu, bù xiàng yòng xiànjīn shí hái dé yìzhāng yìzhāng shù. Yǐqián měicì chūguó dōu"
+    },
+    {
+     "zh": "會亂買一大堆不實用的東西，一回到家馬上就後悔了，結果既不能退也不能換，",
+     "py": "Huì luàn mǎi yídàduī bù shíyòng de Dōngxi, yī huídào jiā mǎshàng jiù hòuhuǐ le, jiéguǒ jì bùnéng tuì yě bùnéng Huàn,"
+    },
+    {
+     "zh": "真是浪費錢又浪費時間！",
+     "py": "Zhēnshì làngfèi qián yòu làngfèishíjiān!"
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "這個人為什麼決定不帶信用卡出國？",
+     "py": "Zhè ge rén wèishénme juédìng bù dài xìnyòngkǎ chūguó?"
+    }
+   ]
+  },
+  "33": {
+   "options": {
+    "A": {
+     "zh": "鄉下人比較不客氣",
+     "py": "Xiāngxiàrén bǐjiào bù kèqì"
+    },
+    "B": {
+     "zh": "城市裡的人都不客氣",
+     "py": "Chéngshì lǐ de rén dōu bù kèqì"
+    },
+    "C": {
+     "zh": "現在的人都很不客氣",
+     "py": "Xiànzài de rén dōu hěn bù kèqì"
+    },
+    "D": {
+     "zh": "鄉下人不一定比較客氣",
+     "py": "Xiāngxiàrén bù yídìng bǐjiào kèqì"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這一段話，然後回答下面的問題。",
+     "py": "Qǐng tīng zhè yíduànhuà, ránhòu huídá xiàmiàn de wèntí."
+    },
+    {
+     "zh": "我是一個鄉下人，去大城市讀書以前，有人告訴我城市裡的人都很不客氣，",
+     "py": "Wǒ shì yí ge xiāngxiàrén, qù Dàchéngshì dúshū yǐqián, yǒurén gàosù wǒ Chéngshì lǐ de rén dōu hěn bù kèqì,"
+    },
+    {
+     "zh": "鄉下的人客氣多了。但是在城市住了三年以後，我覺得不一定是這樣，因為鄉下",
+     "py": "Xiāngxià de rén kèqì duō le. Dànshì zài Chéngshì zhù le sānnián yǐhòu, wǒ juéde bù yídìng shì zhèyàng, yīnwèi xiāngxià"
+    },
+    {
+     "zh": "也有不客氣的人，城市裡也有客氣的人。",
+     "py": "Yě yǒu bù kèqì de rén, Chéngshì lǐ yě yǒu kèqì de rén."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "說話的人的想法是什麼？",
+     "py": "Shuōhuà de rén de xiǎngfǎ shì shénme?"
+    }
+   ]
+  },
+  "34": {
+   "options": {
+    "A": {
+     "zh": "坐計程車",
+     "py": "Zuò jìchéngchē"
+    },
+    "B": {
+     "zh": "坐公車或走路",
+     "py": "Zuògōngchē huò zǒulù"
+    },
+    "C": {
+     "zh": "坐公車，再走路",
+     "py": "Zuògōngchē, zài zǒulù"
+    },
+    "D": {
+     "zh": "坐計程車或公車",
+     "py": "Zuò jìchéngchē huò gōngchē"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這一段話，然後回答下面的問題。",
+     "py": "Qǐng tīng zhè yíduànhuà, ránhòu huídá xiàmiàn de wèntí."
+    },
+    {
+     "zh": "中山足球場離這兒不遠，你不必坐計程車。我告訴你啊，你往前一直走，到",
+     "py": "Zhōngshān zúqiúchǎng lí zhèér bùyuǎn, nǐ búbì zuò jìchéngchē. Wǒ gàosù nǐ a, nǐ wǎngqián yìzhí zǒu, dào"
+    },
+    {
+     "zh": "第一個路口左轉，再走十多分鐘就到了；不想走路的話，在這裡搭公車也行，坐",
+     "py": "Dìyí ge lùkǒu Zuǒzhuǎn, zài zǒu shíduōfēnzhōng jiù dào le; bùxiǎng zǒulù dehuà, zài zhèlǐ dāgōngchē yě xíng, zuò"
+    },
+    {
+     "zh": "兩站，在中山足球場那一站下車，大概只要五分鐘。",
+     "py": "Liǎngzhàn, zài Zhōngshān zúqiúchǎng nà yízhàn xiàchē, dàgài zhǐyào wǔfēnzhōng."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "說話的人覺得用什麼方法到足球場比較好？",
+     "py": "Shuōhuà de rén juéde yòng shénme fāngfǎ dào zúqiúchǎng bǐjiào hǎo?"
+    }
+   ]
+  },
+  "35": {
+   "options": {
+    "A": {
+     "zh": "下星期少出門",
+     "py": "Xiàxīngqī shǎo chūmén"
+    },
+    "B": {
+     "zh": "這幾天空氣不好",
+     "py": "Zhè jǐtiān kōngqì bùhǎo"
+    },
+    "C": {
+     "zh": "進門後要記得關窗戶",
+     "py": "Jìnmén hòu yào jìde Guānchuānghù"
+    },
+    "D": {
+     "zh": "幾天以後天氣會變差",
+     "py": "Jǐtiān yǐhòu tiānqì huì biànchà"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這一段電視新聞，然後回答下面的問題。",
+     "py": "Qǐng tīng zhè yíduàn diànshìxīnwén, ránhòu huídá xiàmiàn de wèntí."
+    },
+    {
+     "zh": "因為天氣的關係，最近的空氣很髒，大家出門以前，記得把窗戶關上；進門",
+     "py": "Yīnwèi tiānqì de guānxì, zuìjìn de kōngqì hěnzāng, dàjiā chūmén yǐqián, jìde bǎ chuānghù guānshàng; jìnmén"
+    },
+    {
+     "zh": "以前，先把帽子或外套脫下來，再進到屋內。沒事的話，最好留在家裡別出去。",
+     "py": "Yǐqián, xiān bǎ màozi huò wàitào tuōxiàlái, zài jìndào wūnèi. Méishì dehuà, zuìhǎo liúzài jiālǐ biéchūqù."
+    },
+    {
+     "zh": "這幾天的天氣大概都是這樣子，下星期空氣就會好一點兒了。",
+     "py": "Zhè jǐtiān de tiānqì dàgài dōu shì zhè yàngzi, xiàxīngqī kōngqì jiù huì hǎo yìdiǎnér le."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "這段新聞主要告訴大家什麼？",
+     "py": "Zhè duàn xīnwén zhǔyào gàosù dàjiā shénme?"
+    }
+   ]
+  },
+  "36": {
+   "options": {
+    "A": {
+     "zh": "小高的溫柔與體貼",
+     "py": "Xiǎo gāo de wēnróu yǔ tǐtiē"
+    },
+    "B": {
+     "zh": "小高心中理想的愛情",
+     "py": "Xiǎogāo xīnzhōng lǐxiǎng de àiqíng"
+    },
+    "C": {
+     "zh": "小高在行為上的改變",
+     "py": "Xiǎo gāo zài xíngwéi shàng de gǎibiàn"
+    },
+    "D": {
+     "zh": "小高是怎麼交到女朋友的",
+     "py": "Xiǎo gāo shì zěnme jiāodào nǚpéngyǒu de"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這段和小高有關的話，然後回答兩個問題。",
+     "py": "Qǐng tīng zhè duàn hé xiǎo gāo yǒuguān dehuà, ránhòu huídá liǎng ge wèntí."
+    },
+    {
+     "zh": "小高本來是一個很隨便的人，但自從跟女朋友交往以後，變得有點兒不一樣。",
+     "py": "Xiǎogāo běnlái shì yí ge hěn suíbiàn de rén, dàn zìcóng gēn nǚpéngyǒu jiāowǎng yǐhòu, biàndé yǒudiǎnér bù yíyàng."
+    },
+    {
+     "zh": "他開始注意自己的打扮，出門時還要打領帶。甚至在吃的方面也越來越講究，例",
+     "py": "Tā kāishǐ zhùyì zìjǐ de dǎbàn, chūménshí háiyào dǎlǐngdài. Shènzhì zài chī de fāngmiàn yě yuèláiyuè jiǎngjiū, lì"
+    },
+    {
+     "zh": "如，昨天他就批評我們吃太多肉對身體不好，不跟我們一起去吃炸雞。今天因為",
+     "py": "Rú, zuótiān tā jiù pīpíng wǒmen chī tài duō ròu duì shēntǐ bùhǎo, bù gēn wǒmen yìqǐ qù chī zhàjī. Jīntiān yīnwèi"
+    },
+    {
+     "zh": "他女朋友回鄉下去照顧媽媽了，在我們幾個朋友面前，馬上恢復原來的樣子跟態",
+     "py": "Tā nǚpéngyǒu huíxiāng xiàqù zhàogù māma le, zài wǒmen jǐ ge péngyǒu miànqián, mǎshàng huīfù yuánlái de yàngzi gēn tài"
+    },
+    {
+     "zh": "度。唉！我只能說，愛情的影響力真的好大啊！",
+     "py": "Dù. Āi! Wǒ zhǐnéng shuō, àiqíng de yǐngxiǎnglì zhēnde hǎo dà a!"
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "這段話主要提到小高哪一方面的事？",
+     "py": "Zhèduànhuà zhǔyào tídào Xiǎogāo nǎyìfāngmiàn de shì?"
+    }
+   ]
+  },
+  "37": {
+   "options": {
+    "A": {
+     "zh": "對生活很講究",
+     "py": "Duì shēnghuó hěn jiǎngjiū"
+    },
+    "B": {
+     "zh": "很在意自己穿什麼",
+     "py": "Hěn zàiyì zìjǐ chuān shénme"
+    },
+    "C": {
+     "zh": "沒有信心交到女朋友",
+     "py": "Méiyǒu xìnxīn jiāodào nǚpéngyǒu"
+    },
+    "D": {
+     "zh": "對很多事情覺得無所謂",
+     "py": "Duì hěnduō shìqing juéde wúsuǒwèi"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "交女朋友以前，小高是一個怎麼樣的人？",
+     "py": "Jiāo nǚpéngyǒu yǐqián, xiǎo gāo shì yí ge zěnmeyàng de rén?"
+    }
+   ]
+  },
+  "38": {
+   "options": {
+    "A": {
+     "zh": "他找工作的經驗",
+     "py": "Tā zhǎo gōngzuò de jīngyàn"
+    },
+    "B": {
+     "zh": "他對工作的期待",
+     "py": "Tā duì gōngzuò de qīdài"
+    },
+    "C": {
+     "zh": "他對讀大學的想法",
+     "py": "Tā duìdú dàxué de xiǎngfǎ"
+    },
+    "D": {
+     "zh": "他對現在大學生的看法",
+     "py": "Tā duì xiànzài dàxuéshēng de kànfǎ"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這段和學業有關的話，然後回答兩個問題。",
+     "py": "Qǐng tīng zhè duàn hé xuéyè yǒuguān dehuà, ránhòu huídá liǎng ge wèntí."
+    },
+    {
+     "zh": "在我那個年代，高中沒畢業的人也可以找到不錯的工作，所以我的同學們都",
+     "py": "Zài wǒ nà ge niándài, gāozhōng méi bìyè de rén yě kěyǐ zhǎodào búcuò de gōngzuò, suǒyǐ wǒ de tóngxué men dōu"
+    },
+    {
+     "zh": "不願意去讀大學，認為不僅浪費時間又要花很多錢，還說在大學裡學到的東西對",
+     "py": "Bù yuànyì qù dú dàxué, rènwéi bùjǐn làngfèishíjiān yòu yào huā hěnduō qián, hái shuō zài dàxué lǐ xuédào de Dōngxi duì"
+    },
+    {
+     "zh": "工作沒有用。但我那時候覺得，要是我也不讀大學，不就跟別人一樣了嗎？以後",
+     "py": "Gōngzuò méiyǒu yòng. Dàn wǒ nà shíhòu juéde, yàoshì wǒ yě bùdú dàxué, bù jiù gēn biérén yíyàng le ma? Yǐhòu"
+    },
+    {
+     "zh": "我會有競爭力嗎？所以我選了另一條路。現在時代變了，當時很多笑我笨的人，",
+     "py": "Wǒhuì yǒu jìngzhēnglì ma? Suǒyǐ wǒ xuǎn le lìng yìtiáo lù. Xiànzài shídài biàn le, dāngshí hěnduō xiào wǒ bèn de rén,"
+    },
+    {
+     "zh": "反而因為自己找工作時的資料不如我，開始後悔當年怎麼不跟我做一樣的選擇。",
+     "py": "Fǎnér yīnwèi zìjǐ zhǎo gōngzuò shí de zīliào bùrú wǒ, kāishǐ hòuhuǐ dāngnián zěnme bù gēn wǒ zuò yíyàng de xuǎnzé."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "說話的人一開始提到什麼事？",
+     "py": "Shuōhuà de rén yī kāishǐ tídào shénme shì?"
+    }
+   ]
+  },
+  "39": {
+   "options": {
+    "A": {
+     "zh": "越來越重視學歷",
+     "py": "Yuèláiyuè zhòngshì xuélì"
+    },
+    "B": {
+     "zh": "越來越重視經驗",
+     "py": "Yuèláiyuè zhòngshì jīngyàn"
+    },
+    "C": {
+     "zh": "越來越多人搶同一份工作",
+     "py": "Yuèláiyuè duō rén qiǎngtóng yífèn gōngzuò"
+    },
+    "D": {
+     "zh": "大學學位變得越來越沒有用",
+     "py": "Dàxué xuéwèi biàndé yuèláiyuè méiyǒu yòng"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "根據這段話，現在找工作會遇到什麼情況？",
+     "py": "Gēnjù zhèduànhuà, xiànzài zhǎo gōngzuò huì yùdào shénme qíngkuàng?"
+    }
+   ]
+  },
+  "40": {
+   "options": {
+    "A": {
+     "zh": "行為",
+     "py": "Xíngwéi"
+    },
+    "B": {
+     "zh": "血型",
+     "py": "Xuèxíng"
+    },
+    "C": {
+     "zh": "朋友",
+     "py": "Péngyǒu"
+    },
+    "D": {
+     "zh": "興趣",
+     "py": "Xìngqù"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這段和人的個性有關的話，然後回答兩個問題。",
+     "py": "Qǐng tīng zhè duàn hé rén de gèxìng yǒuguān dehuà, ránhòu huídá liǎng ge wèntí."
+    },
+    {
+     "zh": "我常聽別人從血型來解釋性格，或是從生日來判斷一個人的脾氣，但是我覺",
+     "py": "Wǒ cháng tīng biérén cóng xuèxíng lái jiěshì xìnggé, huò shìcóng shēngrì lái pànduàn yí ge rén de píqì, dànshì wǒ jué"
+    },
+    {
+     "zh": "得這不僅沒道理，也太片面了。",
+     "py": "Dé zhè bùjǐn méidàolǐ, yě tài piànmiàn le."
+    },
+    {
+     "zh": "從一個人常做什麼、交什麼朋友、喜歡什麼事物等，來觀察一個人的個性，",
+     "py": "Cóng yí ge rén cháng zuò shénme, jiāo shénme péngyǒu, xǐhuān shénme shìwù děng, lái guānchá yí ge rén de gèxìng,"
+    },
+    {
+     "zh": "或許比較客觀。像是有人分別分析了喜歡養貓與養狗的人，他們的性格，得出了",
+     "py": "Huòxǔ bǐjiào kèguān. Xiàngshì yǒurén fēnbié fēnxī le xǐhuān yǎngmāo yǔ Yǎnggǒu de rén, tāmen de xìnggé, déchū le"
+    },
+    {
+     "zh": "養狗的人喜歡交朋友，養貓的人喜歡一個人努力。透過觀察得出的結果，我認為",
+     "py": "Yǎnggǒu de rén xǐhuān jiāopéngyǒu, yǎngmāo de rén xǐhuān yí ge rén nǔlì. Tòuguò guānchá déchū de jiéguǒ, wǒ rènwéi"
+    },
+    {
+     "zh": "是比較有道理的。",
+     "py": "Shì bǐjiào yǒu dàolǐ de."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "說話的人覺得，透過什麼方式了解個性是沒道理的？",
+     "py": "Shuōhuà de rén juéde, tòuguò shénme fāngshì liǎojiě gèxìng shì méidàolǐ de?"
+    }
+   ]
+  },
+  "41": {
+   "options": {
+    "A": {
+     "zh": "喜歡動物的人個性比較開朗",
+     "py": "Xǐhuān dòngwù de rén gèxìng bǐjiào Kāilǎng"
+    },
+    "B": {
+     "zh": "一個人的個性和家庭背景有關",
+     "py": "Yí ge rén de gèxìng hé jiātíng bèijǐng yǒuguān"
+    },
+    "C": {
+     "zh": "可以透過觀察來了解一個人的個性",
+     "py": "Kěyǐ tòuguò guānchá lái liǎojiě yí ge rén de gèxìng"
+    },
+    "D": {
+     "zh": "沒有一個人可以真正了解另一個人",
+     "py": "Méiyǒu yí ge rén kěyǐ zhēnzhèng liǎojiě lìng yí ge rén"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "說話的人對於「個性」有什麼想法？",
+     "py": "Shuōhuà de rén duìyú “Gèxìng” yǒu shénme xiǎngfǎ?"
+    }
+   ]
+  },
+  "42": {
+   "options": {
+    "A": {
+     "zh": "不清楚自己已經生病了",
+     "py": "Bù qīngchǔ zìjǐ yǐjīng shēngbìng le"
+    },
+    "B": {
+     "zh": "身體狀況會一天比一天好",
+     "py": "Shēntǐzhuàngkuàng huì yìtiān bǐ yìtiān hǎo"
+    },
+    "C": {
+     "zh": "因為身體不好，心情不好",
+     "py": "Yīnwèi shēntǐ bùhǎo, xīnqíng bùhǎo"
+    },
+    "D": {
+     "zh": "需要立即轉送大醫院看病",
+     "py": "Xūyào lìjí zhuǎnsòng dà yīyuàn kànbìng"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這段和治療照顧有關的話，然後回答兩個問題。",
+     "py": "Qǐng tīng zhè duàn hé zhìliáo zhàogù yǒuguān dehuà, ránhòu huídá liǎng ge wèntí."
+    },
+    {
+     "zh": "小姐，開完刀以後，您父親身體的情況已經改善了不少，會慢慢恢復健康的。",
+     "py": "Xiǎojiě, kāiwán dāo yǐhòu, nín fùqīn shēntǐ de qíngkuàng yǐjīng gǎishàn le bùshǎo, huì mànmàn huīfùjiànkāng de."
+    },
+    {
+     "zh": "但是因為開刀而造成的傷口比較大，過程中也流了不少血，所以這幾天還是建議",
+     "py": "Dànshì yīnwèi kāidāo ér zàochéng de shāngkǒu bǐjiào dà, guòchéng zhōng yě liú le bùshǎo xuè, suǒyǐ zhè jǐtiān háishì jiànyì"
+    },
+    {
+     "zh": "安排他留在我們這裡繼續觀察，等恢復體力後再回家。當然如果您有時間細心照",
+     "py": "Ānpái tā liúzài wǒmen zhèlǐ jìxù guānchá, děng huīfù tǐlì hòu zài huíjiā. Dāngrán rúguǒ nín yǒu shíjiān xìxīn zhào"
+    },
+    {
+     "zh": "顧他，也可以今天就辦手續離開，不過一旦開刀的地方又再痛起來，請立刻帶他",
+     "py": "Gù tā, yě kěyǐ jīntiān jiù bànshǒuxù líkāi, búguò yídàn kāidāo de dìfāng yòu zài tòngqǐlái, qǐng lìkè dài tā"
+    },
+    {
+     "zh": "回來讓我們檢查。",
+     "py": "Huílái ràng wǒmen jiǎnchá."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "根據這段話，病人怎麼了？",
+     "py": "Gēnjù zhèduànhuà, bìngrén zěnme le?"
+    }
+   ]
+  },
+  "43": {
+   "options": {
+    "A": {
+     "zh": "接受更詳細的檢查",
+     "py": "Jiēshòu gèng xiángxì de jiǎnchá"
+    },
+    "B": {
+     "zh": "快一點辦出院手續",
+     "py": "Kuài yìdiǎn bàn chūyuàn shǒuxù"
+    },
+    "C": {
+     "zh": "最好再多住院幾天",
+     "py": "Zuìhǎo zài duō zhùyuàn jǐtiān"
+    },
+    "D": {
+     "zh": "吃維他命補充體力",
+     "py": "Chī Wéitāmìng bǔchōng tǐlì"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "醫生有什麼建議？",
+     "py": "Yīshēng yǒu shénme jiànyì?"
+    }
+   ]
+  },
+  "44": {
+   "options": {
+    "A": {
+     "zh": "想買房子的人",
+     "py": "Xiǎng mǎifángzi de rén"
+    },
+    "B": {
+     "zh": "想蓋房子的人",
+     "py": "Xiǎng Gàifángzi de rén"
+    },
+    "C": {
+     "zh": "想租房子的人",
+     "py": "Xiǎng zūfángzi de rén"
+    },
+    "D": {
+     "zh": "想賣房子的人",
+     "py": "Xiǎng màifángzi de rén"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這段介紹，然後回答兩個問題。",
+     "py": "Qǐng tīng zhèduàn jièshào, ránhòu huídá liǎng ge wèntí."
+    },
+    {
+     "zh": "歡迎您今天來看我們的預售樣品屋。我們預計明年房子和停車場都會蓋好。",
+     "py": "Huānyíngnín jīntiān láikàn wǒmen de yùshòu yàngpǐnwū. Wǒmen yùjì míngnián fángzi hé tíngchēchǎng dōu huì gài hǎo."
+    },
+    {
+     "zh": "住在這裡，您可以享受便利的生活機能，這裡距離高鐵站開車只需要十分鐘。不",
+     "py": "Zhù zài zhèlǐ, nín kěyǐ xiǎngshòu biànlì de shēnghuó jīnéng, zhèlǐ jùlí gāotiě zhàn kāichē zhǐ xūyào shífēnzhōng. Bù"
+    },
+    {
+     "zh": "論是要到外地出差，還是帶小孩回老家，都非常方便。另外，這裡每一樓都有浴",
+     "py": "Lùn shì yào dào wàidì chūchāi, háishì dài xiǎohái huílǎojiā, dōu fēicháng fāngbiàn. Lìngwài, zhèlǐ měi yìlóu dōu yǒu yù"
+    },
+    {
+     "zh": "室，不用擔心孩子搶著洗澡的問題。一樓有一個大房間，很適合給家裡的老人住。",
+     "py": "Shì, búyòng dānxīn háizi qiǎngzhù xǐzǎo de wèntí. Yìlóu yǒu yí ge dà fángjiān, hěn shìhé gěi jiālǐ de lǎorén zhù."
+    },
+    {
+     "zh": "三樓的陽台還可以欣賞美景。接下來請您自由參觀，參觀完了以後，如果有興趣",
+     "py": "Sān lóu de yángtái hái kěyǐ xīnshǎng měijǐng. Jiēxiàlái qǐng nín zìyóu cānguān, cānguān wán le yǐhòu, rúguǒ yǒu xìngqù"
+    },
+    {
+     "zh": "預訂，請留下您的聯絡方式。",
+     "py": "Yùdìng, qǐngliúxià nín de liánluò fāngshì."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "說話的人在向誰介紹？",
+     "py": "Shuōhuà de rén zài xiàng shuí jièshào?"
+    }
+   ]
+  },
+  "45": {
+   "options": {
+    "A": {
+     "zh": "每層樓都有浴室",
+     "py": "Měi cénglóu dōu yǒu yùshì"
+    },
+    "B": {
+     "zh": "二樓有個大陽台",
+     "py": "Èrlóu yǒu ge dà yángtái"
+    },
+    "C": {
+     "zh": "適合養小狗或小貓",
+     "py": "Shìhé yǎng Xiǎogǒu huò xiǎomāo"
+    },
+    "D": {
+     "zh": "帶小孩去上學很方便",
+     "py": "Dài xiǎohái qù shàngxué hěn fāngbiàn"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "關於這個房子，說話的人提到什麼？",
+     "py": "Guānyú zhè ge fángzi, shuōhuà de rén tídào shénme?"
+    }
+   ]
+  },
+  "46": {
+   "options": {
+    "A": {
+     "zh": "希望假期越長越好",
+     "py": "Xīwàng jiàqī Yuèzhǎngyuè hǎo"
+    },
+    "B": {
+     "zh": "和朋友分享愉快的時光",
+     "py": "Hé péngyǒu fēnxiǎng yúkuài de shíguāng"
+    },
+    "C": {
+     "zh": "總想試試自己一個人度過",
+     "py": "Zǒng xiǎng shìshì zìjǐ yí ge rén dùguò"
+    },
+    "D": {
+     "zh": "放假就是要四處走走看看",
+     "py": "Fàngjià jiùshì yào sìchù zǒuzǒukànkàn"
+    }
+   },
+   "intro": [
+    {
+     "zh": "請聽這段和放假有關的話，然後回答兩個問題。",
+     "py": "Qǐng tīng zhè duàn hé fàngjià yǒuguān dehuà, ránhòu huídá liǎng ge wèntí."
+    },
+    {
+     "zh": "因為人們總是在意他人的眼光，所以即使多數人在假日時，只想好好和自己",
+     "py": "Yīnwèi rénmen zǒngshì zàiyì tārén de yǎnguāng, suǒyǐ jíshǐ duōshù rén zài jiàrì shí, zhǐ xiǎng hǎohǎo hé zìjǐ"
+    },
+    {
+     "zh": "相處，但是在害怕自己沒完成朋友或同事推薦的假日旅遊方式，或是害怕自己做",
+     "py": "Xiāngchǔ, dànshì zài hàipà zìjǐ méi wánchéng péngyǒu huò tóngshì tuījiàn de jiàrì lǚyóu fāngshì, huòshì hàipà zìjǐ zuò"
+    },
+    {
+     "zh": "的事不被他人關心的心理壓力下，使得人們在享受假日時，還是不斷地拿起手機",
+     "py": "De shì bù bèi tārén guānxīn de xīnlǐyālì xià, shǐde rénmen zài xiǎngshòu jiàrì shí, háishì búduàn dì náqǐ shǒujī"
+    },
+    {
+     "zh": "等待朋友與同事的留言。",
+     "py": "Děngdài péngyǒu yǔ tóngshì de liúyán."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "這段話提到人們對假日的想法是什麼？",
+     "py": "Zhèduànhuà tídào rénmen duì jiàrì de xiǎngfǎ shì shénme?"
+    }
+   ]
+  },
+  "47": {
+   "options": {
+    "A": {
+     "zh": "人們不願休假的心態",
+     "py": "Rénmen bù yuàn xiūjià de xīntài"
+    },
+    "B": {
+     "zh": "人們過度依賴網路的心理",
+     "py": "Rénmen guòdù yīlài wǎnglù de xīnlǐ"
+    },
+    "C": {
+     "zh": "人們在乎別人對自己的看法",
+     "py": "Rénmen zàihū biérén duì zìjǐ de kànfǎ"
+    },
+    "D": {
+     "zh": "人們對假期旅行的規劃方式",
+     "py": "Rénmen duì jiàqī lǚxíng de guīhuà fāngshì"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "這段話主要提到什麼？",
+     "py": "Zhèduànhuà zhǔyào tídào shénme?"
+    }
+   ]
+  },
+  "48": {
+   "options": {
+    "A": {
+     "zh": "他抱持著樂觀的態度",
+     "py": "Tā bàochí zhù lèguān de tàidù"
+    },
+    "B": {
+     "zh": "他覺得這種心態令人害怕",
+     "py": "Tā juéde zhèzhǒng xīntài Lìngrén hàipà"
+    },
+    "C": {
+     "zh": "他覺得是考慮太多的結果",
+     "py": "Tā juéde shì kǎolǜ tài duō de jiéguǒ"
+    },
+    "D": {
+     "zh": "他不能理解矛盾產生的原因",
+     "py": "Tā bùnéng lǐjiě máodùn chǎnshēng de yuányīn"
+    }
+   },
+   "intro": [
+    {
+     "zh": "有時候我們會幻想心愛的人死去。科學家表示，這是當我們在乎、關愛某些人時",
+     "py": "Yǒushíhòu wǒmen huì huànxiǎng xīnài de rén sǐqù. Kēxuéjiā biǎoshì, zhè shì dāng wǒmen zàihū, guānài mǒuxiē rén shí"
+    },
+    {
+     "zh": "必然會經歷的矛盾心理。請聽這段話，然後回答三個問題：",
+     "py": "Bìrán huì jīnglì de máodùn xīnlǐ. Qǐng tīng zhèduànhuà, ránhòu huídá sān ge wèntí:"
+    },
+    {
+     "zh": "Ⅰ. 說話的人對這種矛盾情緒的想法怎麼樣？",
+     "py": "Ⅰ. Shuōhuà de rén duì zhèzhǒng máodùn qíngxù de xiǎngfǎ zěnmeyàng?"
+    },
+    {
+     "zh": "Ⅱ. 為什麼會產生這種矛盾的心態？",
+     "py": "Ⅱ. Wèishénme huì chǎnshēng zhèzhǒng máodùn de xīntài?"
+    },
+    {
+     "zh": "Ⅲ. 說話的人最後的態度是什麼？",
+     "py": "Ⅲ. Shuōhuà de rén zuìhòu de tàidù shì shénme?"
+    },
+    {
+     "zh": "現在請聽這段話。",
+     "py": "Xiànzài qǐng tīng zhèduànhuà."
+    },
+    {
+     "zh": "對人類來說，家人與朋友十分重要，人們關心他們、想要他們陪伴左右，同",
+     "py": "Duì rénlèi láishuō, jiārén yǔ péngyǒu shífēn zhòngyào, rénmen guānxīn tāmen, xiǎngyào tāmen péibàn zuǒyòu, tóng"
+    },
+    {
+     "zh": "時希望日子過得順心如意。這些對所愛之人的感情，讓人們產生正面與負面情緒",
+     "py": "Shí xīwàng rìzi guò dé shùnxīnrúyì. Zhèxiē duì suǒài zhī rén de gǎnqíng, ràng rénmen chǎnshēng zhèngmiàn yǔ fùmiàn qíngxù"
+    },
+    {
+     "zh": "夾雜在一起的矛盾心理，例如，有時候我們會幻想心愛的人死去。對你越重要的",
+     "py": "Jiāzá zài yìqǐ de máodùn xīnlǐ, lìrú, yǒushíhòu wǒmen huì huànxiǎng xīnài de rén sǐqù. Duì nǐ yuè zhòngyào de"
+    },
+    {
+     "zh": "人，你對他們的矛盾情緒就會越強烈。",
+     "py": "Rén, nǐ duì tāmen de máodùn qíngxù jiù huì yuè qiángliè."
+    },
+    {
+     "zh": "因為「愛一個人免不了會有挫折」，與所愛的人一起生活有時並不是一件容",
+     "py": "Yīnwèi “Ài yí ge rén miǎnbùliǎo huì yǒu cuòzhé”, yǔ suǒài de rén yìqǐ shēnghuó yǒushí bìng búshì yíjiàn róng"
+    },
+    {
+     "zh": "易的事。人們無法忍受，應該帶給自己歡樂的人，有時竟造成自己莫大的痛苦。",
+     "py": "Yì de shì. Rénmen wúfǎrěnshòu, yīnggāi dàigěi zìjǐ huānlè de rén, yǒushí jìng zàochéng zìjǐ Mòdà de tòngkǔ."
+    },
+    {
+     "zh": "所以，人們才會對心愛的人產生這種令人不安、甚至近於黑暗的小小願望。",
+     "py": "Suǒyǐ, rénmen cái huì duì xīnài de rén chǎnshēng zhèzhǒng lìngrénbùān, shènzhì jìnyú hēiàn de xiǎoxiǎo yuànwàng."
+    },
+    {
+     "zh": "但換個角度想，人生中能有帶給你這些感受的人，也是一種幸運與福氣。說不定",
+     "py": "Dàn huàn gè jiǎodù xiǎng, rénshēng zhōngnéng yǒu dàigěi nǐ zhèxiē gǎnshòu de rén, yě shì yìzhǒng xìngyùn yǔ fúqì. Shuōbúdìng"
+    },
+    {
+     "zh": "你所愛的人也正在幻想你被一輛快速開過的公車壓得扁扁的。",
+     "py": "Nǐ suǒài de rén yě zhèngzài huànxiǎng nǐ bèi yíliàng kuàisù kāiguò de gōngchē yā dé biǎnbiǎnde."
+    }
+   ],
+   "transcript": [
+    {
+     "zh": "說話的人對這種矛盾情緒的想法怎麼樣？",
+     "py": "Shuōhuà de rén duì zhèzhǒng máodùn qíngxù de xiǎngfǎ zěnmeyàng?"
+    }
+   ]
+  },
+  "49": {
+   "options": {
+    "A": {
+     "zh": "因為所愛之人不再愛自己",
+     "py": "Yīnwèi suǒài zhī rén búzài ài zìjǐ"
+    },
+    "B": {
+     "zh": "因為有時相處的不太順利",
+     "py": "Yīnwèi yǒushí xiāngchǔ de bù tài shùnlì"
+    },
+    "C": {
+     "zh": "因為人們總是見不得別人好",
+     "py": "Yīnwèi rénmen zǒngshì jiàn bùdé biérén hǎo"
+    },
+    "D": {
+     "zh": "因為無法忍受失去親人的痛苦",
+     "py": "Yīnwèi wúfǎrěnshòu shīqù qīnrén de tòngkǔ"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "為什麼會產生這種矛盾的心態？",
+     "py": "Wèishénme huì chǎnshēng zhèzhǒng máodùn de xīntài?"
+    }
+   ]
+  },
+  "50": {
+   "options": {
+    "A": {
+     "zh": "幽默",
+     "py": "Yōumò"
+    },
+    "B": {
+     "zh": "煩惱",
+     "py": "Fánnǎo"
+    },
+    "C": {
+     "zh": "感動",
+     "py": "Gǎndòng"
+    },
+    "D": {
+     "zh": "激動",
+     "py": "Jīdòng"
+    }
+   },
+   "transcript": [
+    {
+     "zh": "說話的人最後的態度是什麼？",
+     "py": "Shuōhuà de rén zuìhòu de tàidù shì shénme?"
+    }
+   ]
+  }
+ }
+}

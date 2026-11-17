@@ -1,0 +1,1231 @@
+{
+ "testId": "c-r4",
+ "segments": 253,
+ "englishComplete": false,
+ "questions": {
+  "1": {
+   "passage": [
+    {
+     "zh": "（一）",
+     "py": "(Yī)"
+    },
+    {
+     "zh": "在北美的城市街頭，經常可見販賣小吃的餐車。這些餐車小吃",
+     "py": "Zài Běiměi de Chéngshì jiētóu, jīngcháng kějiàn fànmài xiǎochī de cānchē. Zhèxiē cānchē xiǎochī"
+    },
+    {
+     "zh": "1 平價 1 美味，深受一般民眾喜愛，生意也 2 。",
+     "py": "1 píngjià 1 Měiwèi, shēnshòu yìbān mínzhòng xǐài, shēngyì yě 2."
+    },
+    {
+     "zh": "隨著餐車飲食日益風行，政府單位決定加強管理。",
+     "py": "Suízhù cānchē yǐnshí rìyì fēngxíng, zhèngfǔ dānwèi juédìng jiāqiáng guǎnlǐ."
+    },
+    {
+     "zh": "一項新的規定指出，",
+     "py": "Yíxiàng xīn de guīdìng zhǐchū,"
+    },
+    {
+     "zh": "3 業者清楚標示每種小吃的熱量及營養成分， 3 將無法取得營業許可。",
+     "py": "3 yèzhě qīngchǔ biāoshì měizhǒng xiǎochī de rèliàng jí yíngyǎngchéngfèn, 3 jiāng wúfǎ qǔdé yíngyè Xǔkě."
+    },
+    {
+     "zh": "4 這項規定立意良好，不少民眾卻認為政府 5 。",
+     "py": "4 zhèxiàng guīdìng lìyì liánghǎo, bùshǎo mínzhòng què rènwéi zhèngfǔ 5."
+    },
+    {
+     "zh": "他們認為，不好的餐車自然會被市場 6 ，政府沒有必要干預。",
+     "py": "Tāmen rènwéi, bùhǎo de cānchē zìrán huì bèi shìchǎng 6, zhèngfǔ méiyǒu bìyào gānyù."
+    },
+    {
+     "zh": "有人說，要是因為新規定而吃不到美食，那損失可就大了。",
+     "py": "Yǒurén shuō, yào shìyīnwèi xīn guīdìng ér chī búdào měishí, nà sǔnshī kě jiù dà le."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "一…就…",
+     "py": "Yī… jiù…"
+    },
+    "B": {
+     "zh": "既…又…",
+     "py": "Jì… yòu…"
+    },
+    "C": {
+     "zh": "若…就…",
+     "py": "Ruò… jiù…"
+    },
+    "D": {
+     "zh": "再…也…",
+     "py": "Zài… yě…"
+    }
+   }
+  },
+  "2": {
+   "options": {
+    "A": {
+     "zh": "揮金如土",
+     "py": "Huījīnrútǔ"
+    },
+    "B": {
+     "zh": "一落千丈",
+     "py": "Yíluòqiānzhàng"
+    },
+    "C": {
+     "zh": "不翼而飛",
+     "py": "Búyìérfēi"
+    },
+    "D": {
+     "zh": "蒸蒸日上",
+     "py": "Zhēngzhēngrìshàng"
+    }
+   }
+  },
+  "3": {
+   "options": {
+    "A": {
+     "zh": "無論…都…",
+     "py": "Wúlùn… dōu…"
+    },
+    "B": {
+     "zh": "不僅…還…",
+     "py": "Bùjǐn… hái…"
+    },
+    "C": {
+     "zh": "除非…否則…",
+     "py": "Chúfēi… fǒuzé…"
+    },
+    "D": {
+     "zh": "雖然…但是…",
+     "py": "Suīrán… dànshì…"
+    }
+   }
+  },
+  "4": {
+   "options": {
+    "A": {
+     "zh": "儘管",
+     "py": "Jǐnguǎn"
+    },
+    "B": {
+     "zh": "由於",
+     "py": "Yóuyú"
+    },
+    "C": {
+     "zh": "既然",
+     "py": "Jìrán"
+    },
+    "D": {
+     "zh": "除非",
+     "py": "Chúfēi"
+    }
+   }
+  },
+  "5": {
+   "options": {
+    "A": {
+     "zh": "無能為力",
+     "py": "Wúnéngwéilì"
+    },
+    "B": {
+     "zh": "多管閒事",
+     "py": "Duōguǎnxiánshì"
+    },
+    "C": {
+     "zh": "隨機應變",
+     "py": "Suíjīyìngbiàn"
+    },
+    "D": {
+     "zh": "改過自新",
+     "py": "Gǎiguòzìxīn"
+    }
+   }
+  },
+  "6": {
+   "options": {
+    "A": {
+     "zh": "壓迫",
+     "py": "Yāpò"
+    },
+    "B": {
+     "zh": "包圍",
+     "py": "Bāowéi"
+    },
+    "C": {
+     "zh": "淪陷",
+     "py": "Lúnxiàn"
+    },
+    "D": {
+     "zh": "淘汰",
+     "py": "Táotài"
+    }
+   }
+  },
+  "7": {
+   "passage": [
+    {
+     "zh": "（二）",
+     "py": "(Èr)"
+    },
+    {
+     "zh": "亞非文明起源於大河，歷史上 7 此為「大河文明」。",
+     "py": "Yàfēi Wénmíng qǐyuányú Dàhé, lìshǐ shàng 7 cǐ wèi “Dàhé Wénmíng”."
+    },
+    {
+     "zh": "因為這些地方氣候溫和，適合 8 生長，為人們創造良好的生存條件，農耕是大河文明基本的經濟 9 。",
+     "py": "Yīnwèi zhèxiē dìfāng qìhòu wēnhé, shìhé 8 shēngzhǎng, wèi rénmen chuàngzào liánghǎo de shēngcúntiáojiàn, Nónggēng shì Dàhé Wénmíng jīběn de jīngjì 9."
+    },
+    {
+     "zh": "古代居民很早 10 在這些地區勞動、生息繁衍，由於 11 豐饒，人民生活富庶，大河 12 成為人類文明的發源地，古埃及、古巴比倫、古印度和古代中國皆屬之。",
+     "py": "Gǔdài jūmín hěnzǎo 10 zài zhèxiē dìqū láodòng, shēngxīfányǎn, yóuyú 11 fēngráo, rénmín shēnghuó fùshù, Dàhé 12 chéngwéi rénlèiwénmíng de fāyuándì, Gǔāijí, Gǔbābǐlún, gǔyìndù hé gǔdài Zhōngguó jiē shǔ zhī."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "創",
+     "py": "Chuàng"
+    },
+    "B": {
+     "zh": "辯",
+     "py": "Biàn"
+    },
+    "C": {
+     "zh": "廢",
+     "py": "Fèi"
+    },
+    "D": {
+     "zh": "稱",
+     "py": "Chēng"
+    }
+   }
+  },
+  "8": {
+   "options": {
+    "A": {
+     "zh": "病菌",
+     "py": "Bìngjūn"
+    },
+    "B": {
+     "zh": "作物",
+     "py": "Zuòwù"
+    },
+    "C": {
+     "zh": "天敵",
+     "py": "Tiāndí"
+    },
+    "D": {
+     "zh": "品種",
+     "py": "Pǐnzhǒng"
+    }
+   }
+  },
+  "9": {
+   "options": {
+    "A": {
+     "zh": "型態",
+     "py": "Xíngtài"
+    },
+    "B": {
+     "zh": "性情",
+     "py": "Xìngqíng"
+    },
+    "C": {
+     "zh": "取樣",
+     "py": "Qǔyàng"
+    },
+    "D": {
+     "zh": "格式",
+     "py": "Géshì"
+    }
+   }
+  },
+  "10": {
+   "options": {
+    "A": {
+     "zh": "好",
+     "py": "Hǎo"
+    },
+    "B": {
+     "zh": "便",
+     "py": "Biàn"
+    },
+    "C": {
+     "zh": "將",
+     "py": "Jiāng"
+    },
+    "D": {
+     "zh": "老",
+     "py": "Lǎo"
+    }
+   }
+  },
+  "11": {
+   "options": {
+    "A": {
+     "zh": "財團",
+     "py": "Cáituán"
+    },
+    "B": {
+     "zh": "物產",
+     "py": "Wùchǎn"
+    },
+    "C": {
+     "zh": "報酬",
+     "py": "Bàochóu"
+    },
+    "D": {
+     "zh": "待遇",
+     "py": "Dàiyù"
+    }
+   }
+  },
+  "12": {
+   "options": {
+    "A": {
+     "zh": "流域",
+     "py": "Liúyù"
+    },
+    "B": {
+     "zh": "邊界",
+     "py": "Biānjiè"
+    },
+    "C": {
+     "zh": "場面",
+     "py": "Chǎngmiàn"
+    },
+    "D": {
+     "zh": "地表",
+     "py": "Dìbiǎo"
+    }
+   }
+  },
+  "13": {
+   "passage": [
+    {
+     "zh": "（三）",
+     "py": "(Sān)"
+    },
+    {
+     "zh": "細妹仔仰頭看了今天耀眼的陽光，一聲嘆息，挨著細妹仔呼吸時的那口氣， 13 進了她的心裡。",
+     "py": "Xìmèi zǎi yǎngtóu kàn le jīntiān yàoyǎn de Yángguāng, yìshēng tànxī, āizhù xìmèi zǎi hūxī shí de nà kǒuqì, 13 jìn le tā de xīnlǐ."
+    },
+    {
+     "zh": "她一向跟晴天合不來，晴天， 14 著她慘了、要 15 了。",
+     "py": "Tā yíxiàng gēn Qíngtiān hébùlái, Qíngtiān, 14 zhù tā cǎn le, yào 15 le."
+    },
+    {
+     "zh": "因為太過晴朗的天空，會讓她阿母想拿出棉被過陽光。",
+     "py": "Yīnwèi tài guò qínglǎng de tiānkōng, huì ràng tā Āmǔ xiǎng náchū miánbèi guò Yángguāng."
+    },
+    {
+     "zh": "而每 16 細妹仔想幫她阿母忙時，不是碰壞家裡花瓶、就是不小心讓棉被掉進水缸， 17 勞動的代價就是被她阿母關進後院的小黑屋裡。",
+     "py": "Ér měi 16 xìmèi zǎi xiǎng bāng tā Āmǔ máng shí, búshì pènghuài jiālǐ huāpíng, jiùshì bù xiǎoxīn ràng miánbèi diào jìn shuǐgāng, 17 láodòng de dàijià jiùshì bèi tā Āmǔ guānjìn hòuyuàn de xiǎohēi wūlǐ."
+    },
+    {
+     "zh": "等細妹仔終於能從小黑屋出來時，天氣通常已經由晴",
+     "py": "Děng xìmèi zǎi zhōngyú néng cóngxiǎo hēiwū chūlái shí, tiānqì tōngcháng yǐjīng Yóuqíng"
+    },
+    {
+     "zh": "18 陰了，眼看快要下雨，阿母需要人手收棉被，才又想起了她。",
+     "py": "18 yīn le, yǎnkàn kuàiyào xiàyǔ, Āmǔ xūyào rénshǒu shōu miánbèi, cái yòu xiǎngqǐ le tā."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "鑽",
+     "py": "Zuān"
+    },
+    "B": {
+     "zh": "按",
+     "py": "Àn"
+    },
+    "C": {
+     "zh": "促",
+     "py": "Cù"
+    },
+    "D": {
+     "zh": "剝",
+     "py": "Bō"
+    }
+   }
+  },
+  "14": {
+   "options": {
+    "A": {
+     "zh": "迎合",
+     "py": "Yínghé"
+    },
+    "B": {
+     "zh": "懊惱",
+     "py": "Àonǎo"
+    },
+    "C": {
+     "zh": "憧憬",
+     "py": "Chōngjǐng"
+    },
+    "D": {
+     "zh": "意味",
+     "py": "Yìwèi"
+    }
+   }
+  },
+  "15": {
+   "options": {
+    "A": {
+     "zh": "混淆",
+     "py": "Hùnxiáo"
+    },
+    "B": {
+     "zh": "倒楣",
+     "py": "Dàoméi"
+    },
+    "C": {
+     "zh": "恍惚",
+     "py": "Huǎnghū"
+    },
+    "D": {
+     "zh": "放蕩",
+     "py": "Fàngdàng"
+    }
+   }
+  },
+  "16": {
+   "options": {
+    "A": {
+     "zh": "回",
+     "py": "Huí"
+    },
+    "B": {
+     "zh": "步",
+     "py": "Bù"
+    },
+    "C": {
+     "zh": "道",
+     "py": "Dào"
+    },
+    "D": {
+     "zh": "列",
+     "py": "Liè"
+    }
+   }
+  },
+  "17": {
+   "options": {
+    "A": {
+     "zh": "雖說",
+     "py": "Suīshuō"
+    },
+    "B": {
+     "zh": "倘若",
+     "py": "Tǎngruò"
+    },
+    "C": {
+     "zh": "縱使",
+     "py": "Zòngshǐ"
+    },
+    "D": {
+     "zh": "以致",
+     "py": "Yǐzhì"
+    }
+   }
+  },
+  "18": {
+   "options": {
+    "A": {
+     "zh": "向",
+     "py": "Xiàng"
+    },
+    "B": {
+     "zh": "成",
+     "py": "Chéng"
+    },
+    "C": {
+     "zh": "轉",
+     "py": "Zhuǎn"
+    },
+    "D": {
+     "zh": "化",
+     "py": "Huà"
+    }
+   }
+  },
+  "19": {
+   "passage": [
+    {
+     "zh": "（一）",
+     "py": "(Yī)"
+    },
+    {
+     "zh": "自 1994 年開放國外盤期貨交易以來，期貨商一直處於虧損累累的經營狀況，直到 1998 年開放國內市場之後，投資人開始認識期貨商品，部分期貨商終於開始獲利。",
+     "py": "Zì 1994 nián kāifàng guówài pán qīhuòjiāoyì yǐlái, qīhuò shāng yìzhí chǔyú kuīsǔnlěilěi de jīngyíng zhuàngkuàng, zhídào 1998 nián kāifàng guónèi shìchǎng zhīhòu, tóuzīrén kāishǐ rènshi qīhuò shāngpǐn, bùfèn qīhuò shāng zhōngyú kāishǐ huòlì."
+    },
+    {
+     "zh": "去年股市走大空頭，證券商減薪、裁員不斷，股市走勢波動震盪加劇讓期貨市場麻雀變鳳凰，市場成交量較 1994年高出近三十倍，一掃過去無人聞問的陰霾。",
+     "py": "Qùnián gǔshì zǒu dà kōngtóu, zhèngquànshāng jiǎnxīn, cáiyuán búduàn, gǔshì zǒushì bōdòng zhèndàng jiājù ràng qīhuòshìchǎng máquè biànfènghuáng, shìchǎng chéngjiāoliàng jiào 1994 nián gāochū jìn sānshíbèi, yī sǎoguòqù wúrén wénwèn de yīnmái."
+    }
+   ],
+   "stem": {
+    "zh": "期貨交易初期，期貨商的經營狀況如何？",
+    "py": "Qīhuòjiāoyì chūqī, qīhuò shāng de jīngyíng zhuàngkuàng rúhé?"
+   },
+   "options": {
+    "A": {
+     "zh": "賠很多錢",
+     "py": "Péi hěnduō qián"
+    },
+    "B": {
+     "zh": "不賠不賺",
+     "py": "Bùpéi bù zhuàn"
+    },
+    "C": {
+     "zh": "業績大幅成長",
+     "py": "Yèjì dàfú chéngzhǎng"
+    },
+    "D": {
+     "zh": "業績呈穩定成長",
+     "py": "Yèjì chéng wěndìng chéngzhǎng"
+    }
+   }
+  },
+  "20": {
+   "stem": {
+    "zh": "根據這篇報導，去年期貨的表現如何？",
+    "py": "Gēnjù zhè piān bàodǎo, qùnián qīhuò de biǎoxiàn rúhé?"
+   },
+   "options": {
+    "A": {
+     "zh": "無人投資",
+     "py": "Wúrén tóuzī"
+    },
+    "B": {
+     "zh": "大幅成長",
+     "py": "Dàfú chéngzhǎng"
+    },
+    "C": {
+     "zh": "大起大落",
+     "py": "Dàqǐdàluò"
+    },
+    "D": {
+     "zh": "跌落谷底",
+     "py": "Diēluò gǔdǐ"
+    }
+   }
+  },
+  "21": {
+   "passage": [
+    {
+     "zh": "（二）",
+     "py": "(Èr)"
+    },
+    {
+     "zh": "某知名品牌推出環保購物袋，一上市竟然引發搶購熱潮，輿論提出不少的批評與省思，主要都是在攻擊國人崇尚名牌的虛榮心。",
+     "py": "Mǒu zhīmíngpǐnpái tuīchū huánbǎo gòuwùdài, yī Shàngshì jìngrán yǐnfā qiǎnggòu rècháo, yúlùn tíchū bùshǎo de pīpíng yǔ shěngsī, zhǔyào dōu shì zài gōngjī guórén Chóngshàng míngpái de xūróngxīn."
+    },
+    {
+     "zh": "事實上，民眾對名牌的狂熱豈止是環保袋而已？",
+     "py": "Shìshíshàng, mínzhòng duì míngpái de kuángrè qǐzhǐ shì huánbǎo dài éryǐ?"
+    },
+    {
+     "zh": "「名牌」在我們生活中已經無孔不入，舉凡帶有「名」字的事物──名醫、名校、名店……必定會引起瘋狂競爭心理，誰都想搶先一步，因此長久以來大排長龍、整夜等候的奇觀，早已是一種見怪不怪的全民運動，即使是環保袋，仍然脫離不了「標籤主義」的作祟。",
+     "py": "“Míngpái” zài wǒmen shēnghuó zhōng yǐjīng wúkǒngbúrù, jǔfán dàiyǒu “Míng” zì de shìwù ─ ─ míngyī, míngxiào, míngdiàn…… bìdìnghuì yǐnqǐ fēngkuáng jìngzhēng xīnlǐ, shuí dōu xiǎng qiǎngxiānyíbù, yīncǐ chángjiǔyǐlái dàpáizhǎnglóng, zhěngyè děnghòu de qíguān, zǎoyǐ shì yìzhǒng jiànguàibúguài de Quánmínyùndòng, jíshǐ shì huánbǎo dài, réngrán tuōlí bùliǎo “Biāoqiān zhǔyì” de zuòsuì."
+    }
+   ],
+   "stem": {
+    "zh": "本文的主旨是什麼？",
+    "py": "Běnwén de zhǔzhǐ shì shénme?"
+   },
+   "options": {
+    "A": {
+     "zh": "到處都買得到名牌商品",
+     "py": "Dàochù dōu mǎi dédào míngpáishāngpǐn"
+    },
+    "B": {
+     "zh": "全民一起響應環保運動",
+     "py": "Quánmín yìqǐ xiǎngyìng huánbǎo yùndòng"
+    },
+    "C": {
+     "zh": "要享用名牌就得耐心排隊購買",
+     "py": "Yào xiǎngyòng míngpái jiù dé nàixīn páiduì gòumǎi"
+    },
+    "D": {
+     "zh": "民眾多崇拜具知名度的人事物",
+     "py": "Mínzhòng duō Chóngbài jù zhīmíngdù de rén shìwù"
+    }
+   }
+  },
+  "22": {
+   "stem": {
+    "zh": "根據本文，以下哪一項正確？",
+    "py": "Gēnjù běnwén, yǐxià nǎ yíxiàng zhèngquè?"
+   },
+   "options": {
+    "A": {
+     "zh": "提倡環保的同時，也要兼顧時尚流行",
+     "py": "Tíchàng huánbǎo de tóngshí, yě yào jiāngù shíshàng liúxíng"
+    },
+    "B": {
+     "zh": "環保意識的高漲帶動了環保袋的流行",
+     "py": "Huánbǎo yìshí de gāozhǎng dàidòng le huánbǎo dài de liúxíng"
+    },
+    "C": {
+     "zh": "排隊購買名牌商品是一種很普遍的現象",
+     "py": "Páiduì gòumǎi míngpáishāngpǐn shì yìzhǒng hěn pǔbiàn de xiànxiàng"
+    },
+    "D": {
+     "zh": "名牌商品掛上了環保標籤才會引起搶購",
+     "py": "Míngpáishāngpǐn guàshàng le huánbǎo biāoqiān cái huì yǐnqǐ qiǎnggòu"
+    }
+   }
+  },
+  "23": {
+   "stem": {
+    "zh": "在這則說明中，提到什麼時候要換引擎機油？",
+    "py": "Zài zhè zé shuōmíng zhōng, tídào shénme shíhòu yàohuàn yǐnqíng jīyóu?"
+   },
+   "options": {
+    "A": {
+     "zh": "每次騎乘機車時",
+     "py": "Měicì qíchéng jīchē shí"
+    },
+    "B": {
+     "zh": "更換指示器燈亮時",
+     "py": "Gēnghuàn zhǐshìqì dēngliàng shí"
+    },
+    "C": {
+     "zh": "騎乘至固定里程數時",
+     "py": "Qíchéng zhì gùdìng lǐchéng shù shí"
+    },
+    "D": {
+     "zh": "加油指示標線達下限時",
+     "py": "Jiāyóu zhǐshì biāoxiàn dá xiàxiàn shí"
+    }
+   }
+  },
+  "24": {
+   "stem": {
+    "zh": "關於檢查引擎機油量，下列哪一項符合說明？",
+    "py": "Guānyú jiǎnchá yǐnqíng jīyóu liàng, xiàliè nǎ yíxiàng fúhé shuōmíng?"
+   },
+   "options": {
+    "A": {
+     "zh": "車身必須平穩且靜止不動",
+     "py": "Chēshēn bìxū píngwěn qiě jìngzhǐbúdòng"
+    },
+    "B": {
+     "zh": "機油加油蓋以順時針方向旋出",
+     "py": "Jīyóu jiāyóu gài yǐ shùnshízhēn fāngxiàng xuánchū"
+    },
+    "C": {
+     "zh": "等引擎完全冷卻後，才可檢查",
+     "py": "Děng yǐnqíng wánquán lěngquè hòu, cái kě jiǎnchá"
+    },
+    "D": {
+     "zh": "檢查時，機油加油蓋必須確實鎖緊",
+     "py": "Jiǎnchá shí, jīyóu jiāyóu gài bìxū quèshí suǒjǐn"
+    }
+   }
+  },
+  "25": {
+   "stem": {
+    "zh": "根據說明，下面哪一個東西在檢查時要注意損壞的狀況？",
+    "py": "Gēnjù shuōmíng, xiàmiàn nǎ yí ge Dōngxi zài jiǎnchá shí yào zhùyì sǔnhuài de zhuàngkuàng?"
+   },
+   "options": {
+    "A": {
+     "zh": "量油尺",
+     "py": "Liàngyóuchǐ"
+    },
+    "B": {
+     "zh": "加油蓋",
+     "py": "Jiāyóu gài"
+    },
+    "C": {
+     "zh": "護油圈",
+     "py": "Hùyóuquān"
+    },
+    "D": {
+     "zh": "主支架",
+     "py": "Zhǔ zhījià"
+    }
+   }
+  },
+  "26": {
+   "stem": {
+    "zh": "「花間一壺酒，獨酌無相親」表達出李白的心情怎麼樣？",
+    "py": "“Huājiān yìhújiǔ, dúzhuó wú xiāngqīn” biǎodá chū Lǐbái de xīnqíng zěnmeyàng?"
+   },
+   "options": {
+    "A": {
+     "zh": "漠然",
+     "py": "Mòrán"
+    },
+    "B": {
+     "zh": "舒暢",
+     "py": "Shūchàng"
+    },
+    "C": {
+     "zh": "孤寂",
+     "py": "Gūjì"
+    },
+    "D": {
+     "zh": "哀痛",
+     "py": "Āitòng"
+    }
+   }
+  },
+  "27": {
+   "stem": {
+    "zh": "根據本文第二段描述，讓李白手舞足蹈的原因是什麼？",
+    "py": "Gēnjù běnwén dìèrduàn miáoshù, ràng Lǐbái shǒuwǔzúdǎo de yuányīn shì shénme?"
+   },
+   "options": {
+    "A": {
+     "zh": "因為他自在的個性",
+     "py": "Yīnwèi tā zìzài de gèxìng"
+    },
+    "B": {
+     "zh": "因為他和月亮的約定",
+     "py": "Yīnwèi tā hé yuèliàng de yuēdìng"
+    },
+    "C": {
+     "zh": "因為他醉後就想跳舞",
+     "py": "Yīnwèi tā zuì hòu jiù xiǎng tiàowǔ"
+    },
+    "D": {
+     "zh": "因為他想看影子的流動",
+     "py": "Yīnwèi tā xiǎng kàn yǐngzi de liúdòng"
+    }
+   }
+  },
+  "28": {
+   "stem": {
+    "zh": "本文第三段提到，「詩裡行間的風景」，作者指的是什麼？",
+    "py": "Běnwén dìsānduàn tídào, “Shī lǐ hángjiān de fēngjǐng”, zuòzhě zhǐ de shì shénme?"
+   },
+   "options": {
+    "A": {
+     "zh": "李白對自然的讚嘆",
+     "py": "Lǐbái duì zìrán de zàntàn"
+    },
+    "B": {
+     "zh": "李白對官場的感慨",
+     "py": "Lǐbái duì guānchǎng de gǎnkǎi"
+    },
+    "C": {
+     "zh": "李白對人生的領悟",
+     "py": "Lǐbái duì rénshēng de lǐngwù"
+    },
+    "D": {
+     "zh": "李白對詩詞的看法",
+     "py": "Lǐbái duì shīcí de kànfǎ"
+    }
+   }
+  },
+  "29": {
+   "stem": {
+    "zh": "根據文本，作者咀嚼於舌尖的「況味」，是一種什麼味道？",
+    "py": "Gēnjù wénběn, zuòzhě jǔjué yú shéjiān de “Kuàngwèi”, shì yìzhǒng shénme wèidào?"
+   },
+   "options": {
+    "A": {
+     "zh": "甘味",
+     "py": "Gānwèi"
+    },
+    "B": {
+     "zh": "鮮味",
+     "py": "Xiānwèi"
+    },
+    "C": {
+     "zh": "辛味",
+     "py": "Xīnwèi"
+    },
+    "D": {
+     "zh": "苦味",
+     "py": "Kǔwèi"
+    }
+   }
+  },
+  "30": {
+   "stem": {
+    "zh": "根據本文，關於「超大質量黑洞」描述，下列何者正確？",
+    "py": "Gēnjù běnwén, guānyú “Chāodà zhìliàng Hēidòng” miáoshù, xiàliè hézhě zhèngquè?"
+   },
+   "options": {
+    "A": {
+     "zh": "在宿主星系遊蕩",
+     "py": "Zài sùzhǔ xīngxì yóudàng"
+    },
+    "B": {
+     "zh": "只存在於已經死亡的星系裡",
+     "py": "Zhǐ cúnzài yú yǐjīng sǐwáng de xīngxì lǐ"
+    },
+    "C": {
+     "zh": "天文學家預測僅存在銀河系中",
+     "py": "Tiānwénxuéjiā yùcè jǐn cúnzài yínhéxì zhōng"
+    },
+    "D": {
+     "zh": "天文學家無法證實其存在星系邊緣",
+     "py": "Tiānwénxuéjiā wúfǎ zhèngshí qí cúnzài xīngxì biānyuán"
+    }
+   }
+  },
+  "31": {
+   "stem": {
+    "zh": "天文學家為什麼提到「星系合併」？",
+    "py": "Tiānwénxuéjiā wèishénme tídào “Xīngxì hébìng”?"
+   },
+   "options": {
+    "A": {
+     "zh": "主要說明黑洞的位置",
+     "py": "Zhǔyào shuōmíng Hēidòng de wèizhì"
+    },
+    "B": {
+     "zh": "解釋超大黑洞發生的時間",
+     "py": "Jiěshì chāodà Hēidòng fāshēng de shíjiān"
+    },
+    "C": {
+     "zh": "強調太陽系仍在膨脹壯大中",
+     "py": "Qiángdiào tàiyángxì réng zài péngzhàng zhuàngdà zhōng"
+    },
+    "D": {
+     "zh": "從合併過程說明宇宙氣體的重要性",
+     "py": "Cóng hébìng guòchéng shuōmíng yǔzhòu qìtǐ de zhòngyàoxìng"
+    }
+   }
+  },
+  "32": {
+   "stem": {
+    "zh": "關於超大質量黑洞，《天體物理學雜誌快報》預測了什麼？",
+    "py": "Guānyú chāodà zhìliàng Hēidòng, «Tiāntǐ wùlǐxué zázhì kuàibào» yùcè le shénme?"
+   },
+   "options": {
+    "A": {
+     "zh": "黑洞影響太陽星系的時間",
+     "py": "Hēidòng yǐngxiǎng Tàiyáng xīngxì de shíjiān"
+    },
+    "B": {
+     "zh": "超大質量黑洞運行的軌跡",
+     "py": "Chāodà zhìliàng Hēidòng yùnxíng de guǐjì"
+    },
+    "C": {
+     "zh": "數個超大質量黑洞的存在",
+     "py": "Shù ge chāodà zhìliàng Hēidòng de cúnzài"
+    },
+    "D": {
+     "zh": "「恆星暈」形成的可能因素",
+     "py": "“Héngxīng yūn” xíngchéng de kěnéng yīnsù"
+    }
+   }
+  },
+  "33": {
+   "stem": {
+    "zh": "根據本文，研究員認為間接推斷其他星系黑洞存在的限制是什麼？",
+    "py": "Gēnjù běnwén, yánjiūyuán rènwéi jiànjiē tuīduàn qítā xīngxì Hēidòng cúnzài de xiànzhì shì shénme?"
+   },
+   "options": {
+    "A": {
+     "zh": "超大質量黑洞無法靠近「恆星暈」",
+     "py": "Chāodà zhìliàng Hēidòng wúfǎ kàojìn “Héngxīng yūn”"
+    },
+    "B": {
+     "zh": "觀測工具無法觀測那麼遠的距離",
+     "py": "Guāncè gōngjù wúfǎ guāncè nàme yuǎn de jùlí"
+    },
+    "C": {
+     "zh": "無法證明銀河系邊緣存在著黑洞",
+     "py": "Wúfǎ zhèngmíng yínhéxì biānyuán cúnzài zhù Hēidòng"
+    },
+    "D": {
+     "zh": "宇宙時間無垠，而人類時間有限",
+     "py": "Yǔzhòu shíjiān wúyín, ér rénlèi shíjiān yǒuxiàn"
+    }
+   }
+  },
+  "34": {
+   "stem": {
+    "zh": "根據第一段，關於美沙酮，哪一個是對的？",
+    "py": "Gēnjù dìyíduàn, guānyú Měishātóng, nǎ yí ge shì duì de?"
+   },
+   "options": {
+    "A": {
+     "zh": "毒性跟海洛因一樣高",
+     "py": "Dúxìng gēn Hǎiluòyīn yíyàng gāo"
+    },
+    "B": {
+     "zh": "會讓使用者感到極度痛苦",
+     "py": "Huì ràng shǐyòngzhě gǎndào jídù tòngkǔ"
+    },
+    "C": {
+     "zh": "能暫時克制吸毒者的毒癮",
+     "py": "Néng zànshí kèzhì xīdúzhě de dúyǐn"
+    },
+    "D": {
+     "zh": "完全戒除毒癮的人才能使用",
+     "py": "Wánquán jièchú dúyǐn de réncái néng shǐyòng"
+    }
+   }
+  },
+  "35": {
+   "stem": {
+    "zh": "根據第二段，為什麼台灣沒有立刻使用美沙酮？",
+    "py": "Gēnjù dìèrduàn, wèishénme Táiwān méiyǒu lìkè shǐyòng Měishātóng?"
+   },
+   "options": {
+    "A": {
+     "zh": "使用美沙酮也會讓人上癮",
+     "py": "Shǐyòng Měishātóng yě huì ràng rén shàngyǐn"
+    },
+    "B": {
+     "zh": "有毒癮的人無法接受美沙酮",
+     "py": "Yǒu dúyǐn de rén wúfǎ jiēshòu Měishātóng"
+    },
+    "C": {
+     "zh": "使用美沙酮需搭配許多藥品",
+     "py": "Shǐyòng Měishātóng xū dāpèi xǔduō yàopǐn"
+    },
+    "D": {
+     "zh": "當時只有 5%的病患需要治療",
+     "py": "Dāngshí zhǐyǒu 5 % de bìnghuàn xūyào zhìliáo"
+    }
+   }
+  },
+  "36": {
+   "stem": {
+    "zh": "第三段指出下面哪件事？",
+    "py": "Dìsānduàn zhǐchū xiàmiàn nǎjiàn shì?"
+   },
+   "options": {
+    "A": {
+     "zh": "使用美沙酮會導致毒品氾濫",
+     "py": "Shǐyòng Měishātóng huì dǎozhì dúpǐn fànlàn"
+    },
+    "B": {
+     "zh": "使用美沙酮能減少毒品犯罪事件",
+     "py": "Shǐyòng Měishātóng néng jiǎnshǎo dúpǐn fànzuì shìjiàn"
+    },
+    "C": {
+     "zh": "吸毒者經常販賣美沙酮來取得毒品",
+     "py": "Xīdúzhě jīngcháng fànmài Měishātóng lái qǔdé dúpǐn"
+    },
+    "D": {
+     "zh": "吸毒者經常同時使用海洛因及美沙酮",
+     "py": "Xīdúzhě jīngcháng tóngshí shǐyòng Hǎiluòyīn jí Měishātóng"
+    }
+   }
+  },
+  "37": {
+   "stem": {
+    "zh": "第三段為什麼提到愛滋病？",
+    "py": "Dìsānduàn wèishénme tídào àizībìng?"
+   },
+   "options": {
+    "A": {
+     "zh": "指出美沙酮可治療愛滋",
+     "py": "Zhǐchū Měishātóng kě zhìliáo Àizī"
+    },
+    "B": {
+     "zh": "指出使用美沙酮的風險很高",
+     "py": "Zhǐchū shǐyòng Měishātóng de fēngxiǎn hěn gāo"
+    },
+    "C": {
+     "zh": "指出美沙酮不適合愛滋患者",
+     "py": "Zhǐchū Měishātóng bù shìhé Àizī huànzhě"
+    },
+    "D": {
+     "zh": "指出美沙酮能防止愛滋傳播",
+     "py": "Zhǐchū Měishātóng néng fángzhǐ Àizī chuánbō"
+    }
+   }
+  },
+  "38": {
+   "stem": {
+    "zh": "使用美沙酮的社會怎麼看待吸毒或毒品？",
+    "py": "Shǐyòng Měishātóng de shèhuì zěnme kàndài xīdú huò dúpǐn?"
+   },
+   "options": {
+    "A": {
+     "zh": "吸毒者無藥可救",
+     "py": "Xīdúzhě wúyào kějiù"
+    },
+    "B": {
+     "zh": "吸毒是一種疾病",
+     "py": "Xīdú shì yìzhǒng jíbìng"
+    },
+    "C": {
+     "zh": "應提高吸毒者的刑期",
+     "py": "Yīng tígāo xīdúzhě de xíngqī"
+    },
+    "D": {
+     "zh": "應放鬆對毒品的管制",
+     "py": "Yīng fàngsōng duì dúpǐn de guǎnzhì"
+    }
+   }
+  },
+  "39": {
+   "stem": {
+    "zh": "關於文章中的主角，下面哪一個是對的？",
+    "py": "Guānyú wénzhāng zhōng de zhǔjué, xiàmiàn nǎ yí ge shì duì de?"
+   },
+   "options": {
+    "A": {
+     "zh": "她找好救兵準備上戰場",
+     "py": "Tā zhǎo hǎo jiùbīng zhǔnbèi shàng zhànchǎng"
+    },
+    "B": {
+     "zh": "她跟著一大隊人馬求援",
+     "py": "Tā gēnzhù yī dàduìrénmǎ qiúyuán"
+    },
+    "C": {
+     "zh": "她的武功已是出神入化",
+     "py": "Tā de Wǔgōng yǐ shì chūshénrùhuà"
+    },
+    "D": {
+     "zh": "她的狀態現是生死未卜",
+     "py": "Tā de zhuàngtài xiàn shì shēngsǐwèibǔ"
+    }
+   }
+  },
+  "40": {
+   "stem": {
+    "zh": "文章中的主角與攻擊她的人，以前是什麼關係？",
+    "py": "Wénzhāng zhōng de zhǔjué yǔ gōngjī tā de rén, yǐqián shì shénme guānxì?"
+   },
+   "options": {
+    "A": {
+     "zh": "舊識",
+     "py": "Jiùshí"
+    },
+    "B": {
+     "zh": "親家",
+     "py": "Qìngjia"
+    },
+    "C": {
+     "zh": "陌路",
+     "py": "Mòlù"
+    },
+    "D": {
+     "zh": "對頭",
+     "py": "Duìtóu"
+    }
+   }
+  },
+  "41": {
+   "stem": {
+    "zh": "文章第三段提及主角有些惱怒，她在惱怒什麼？",
+    "py": "Wénzhāng dìsānduàn tíjí zhǔjué yǒuxiē nǎonù, tā zài nǎonù shénme?"
+   },
+   "options": {
+    "A": {
+     "zh": "她覺得自己的能力不如男子",
+     "py": "Tā juéde zìjǐ de nénglì bùrú nánzi"
+    },
+    "B": {
+     "zh": "她害怕自己無法完成此趟任務",
+     "py": "Tā hàipà zìjǐ wúfǎ wánchéng cǐ tàng rènwù"
+    },
+    "C": {
+     "zh": "她覺得長途跋涉的旅程太過疲憊",
+     "py": "Tā juéde chángtúbáshè de lǚchéng tài guò píbèi"
+    },
+    "D": {
+     "zh": "她覺得自己不該被一些聲響嚇到",
+     "py": "Tā juéde zìjǐ bùgāi bèi yìxiē shēngxiǎng xià dào"
+    }
+   }
+  },
+  "42": {
+   "stem": {
+    "zh": "文中，心「提到了嗓子眼兒，堵得呼吸都倍顯艱難」，是怎樣的情 緒？",
+    "py": "Wénzhōng, xīn “Tídào le sǎngziyǎnér, dǔdé hūxī dōu bèi xiǎn jiānnán”, shì zěnyàng de qíng xù?"
+   },
+   "options": {
+    "A": {
+     "zh": "氣憤",
+     "py": "Qìfèn"
+    },
+    "B": {
+     "zh": "尷尬",
+     "py": "Gāngà"
+    },
+    "C": {
+     "zh": "緊張",
+     "py": "Jǐnzhāng"
+    },
+    "D": {
+     "zh": "鬱鬱",
+     "py": "Yùyù"
+    }
+   }
+  },
+  "43": {
+   "stem": {
+    "zh": "文章最後一段提及，主角和敵人對戰的情況怎麼樣？",
+    "py": "Wénzhāng zuìhòu yíduàn tíjí, zhǔjué hé dírén duìzhàn de qíngkuàng zěnmeyàng?"
+   },
+   "options": {
+    "A": {
+     "zh": "她落於下風",
+     "py": "Tā luòyú xiàfēng"
+    },
+    "B": {
+     "zh": "她最終反敗為勝",
+     "py": "Tā zuìzhōng fǎnbàiwéishèng"
+    },
+    "C": {
+     "zh": "她與對方勢均力敵",
+     "py": "Tā yǔ duìfāng shìjūnlìdí"
+    }
+   }
+  },
+  "44": {
+   "stem": {
+    "zh": "下面哪一個句子可以用來描述攻擊的人？",
+    "py": "Xiàmiàn nǎ yí ge jùzi kěyǐ yònglái miáoshù gōngjī de rén?"
+   },
+   "options": {
+    "A": {
+     "zh": "相貌玉樹臨風",
+     "py": "Xiàngmào Yùshùlínfēng"
+    },
+    "B": {
+     "zh": "出手趕盡殺絕",
+     "py": "Chūshǒu gǎnjìnshājué"
+    },
+    "C": {
+     "zh": "招式拖泥帶水",
+     "py": "Zhāoshì tuōnídàishuǐ"
+    },
+    "D": {
+     "zh": "神色恍恍惚惚",
+     "py": "Shénsè huǎnghuǎnghūhū"
+    }
+   }
+  },
+  "45": {
+   "stem": {
+    "zh": "根據文章，「官山海」的稅賦來源為何？",
+    "py": "Gēnjù wénzhāng, “Guānshān hǎi” de shuìfù láiyuán wèihé?"
+   },
+   "options": {
+    "A": {
+     "zh": "百工作坊",
+     "py": "Bǎi gōngzuōfang"
+    },
+    "B": {
+     "zh": "富商大賈",
+     "py": "Fùshāngdàgǔ"
+    },
+    "C": {
+     "zh": "農林漁牧",
+     "py": "Nónglín yúmù"
+    },
+    "D": {
+     "zh": "屬國歲貢",
+     "py": "Shǔguó suìgòng"
+    }
+   }
+  },
+  "46": {
+   "stem": {
+    "zh": "導致食鹽販售官、私兩分的起因為何？",
+    "py": "Dǎozhì shíyán fànshòu guān, sī liǎngfēn de qǐyīn wèihé?"
+   },
+   "options": {
+    "A": {
+     "zh": "百姓對食鹽需求日增",
+     "py": "Bǎixìng duì shíyán xūqiú Rìzēng"
+    },
+    "B": {
+     "zh": "朝廷想獨攬食鹽收益",
+     "py": "Cháotíng xiǎng dúlǎn shíyán shōuyì"
+    },
+    "C": {
+     "zh": "朝廷疏忽，外流製鹽技術",
+     "py": "Cháotíng shūhū, wàiliú zhìyán jìshù"
+    },
+    "D": {
+     "zh": "收成不利，百姓鋌而走險",
+     "py": "Shōuchéng búlì, bǎixìng tǐngérzǒuxiǎn"
+    }
+   }
+  },
+  "47": {
+   "stem": {
+    "zh": "作者認為，朝廷與販售私鹽者之間的關係為何？",
+    "py": "Zuòzhě rènwéi, Cháotíng yǔ fànshòu sīyán zhě zhījiān de guānxì wèihé?"
+   },
+   "options": {
+    "A": {
+     "zh": "私相授受",
+     "py": "Sīxiāngshòushòu"
+    },
+    "B": {
+     "zh": "鷸蚌相爭",
+     "py": "Yùbàngxiāngzhēng"
+    },
+    "C": {
+     "zh": "勢如水火",
+     "py": "Shìrúshuǐhuǒ"
+    },
+    "D": {
+     "zh": "旗鼓相當",
+     "py": "Qígǔxiāngdāng"
+    }
+   }
+  },
+  "48": {
+   "stem": {
+    "zh": "本文提及有關「黃巢之亂」的什麼事？",
+    "py": "Běnwén tíjí yǒuguān “Huángcháozhī luàn” de shénme shì?"
+   },
+   "options": {
+    "A": {
+     "zh": "黃巢最終的下場",
+     "py": "Huángcháo zuìzhōng de xiàchǎng"
+    },
+    "B": {
+     "zh": "朝廷剿匪的過程",
+     "py": "Cháotíng jiǎofěi de guòchéng"
+    },
+    "C": {
+     "zh": "黃巢發家致富的過程",
+     "py": "Huángcháo fājiāzhìfù de guòchéng"
+    },
+    "D": {
+     "zh": "百姓被民亂波及的程度",
+     "py": "Bǎixìng bèi mínluàn Bōjí de chéngdù"
+    }
+   }
+  },
+  "49": {
+   "stem": {
+    "zh": "若要將「後世並未以此戒鑑」一句插入文中，下列哪個位置最恰當？",
+    "py": "Ruòyào jiāng “Hòushì bìngwèi yǐcǐ jièjiàn” yíjù chārù wénzhōng, xiàliè nǎ ge wèizhì zuì qiàdàng?"
+   }
+  },
+  "50": {
+   "stem": {
+    "zh": "本文引了四句話，作者用哪一句話來評論「普天之下，莫非王土」 的思維？",
+    "py": "Běnwén yǐn le sìjù huà, zuòzhě yòng nǎ yíjù huà lái pínglùn “Pǔtiānzhīxià, Mòfēi Wángtǔ” de sīwéi?"
+   },
+   "options": {
+    "A": {
+     "zh": "靠山吃山，靠海吃海",
+     "py": "Kàoshānchīshān, kàohǎichīhǎi"
+    },
+    "B": {
+     "zh": "與民爭利，惟敗已矣",
+     "py": "Yǔmínzhēnglì, wéibàiyǐ yǐ"
+    },
+    "C": {
+     "zh": "天下賦利，鹽利居半",
+     "py": "Tiānxià fùlì, yánlì jū bàn"
+    },
+    "D": {
+     "zh": "以古為鏡，可知興替",
+     "py": "Yǐgǔwéijìng, kězhī xīngtì"
+    }
+   }
+  }
+ }
+}

@@ -3,11 +3,45 @@ import { t, BAND_LABEL, BAND_DESC } from '../i18n.js';
 import { store } from '../store.js';
 import { grade } from '../grading.js';
 import { AudioPlayer, stopAll, originalAudio } from '../audio.js';
-import { TtsPlayer } from '../tts.js';
+import { TtsPlayer, SpeakButton } from '../tts.js';
 import { progressBar, scoreClass } from './home.js';
 
 const loadTest = (id) => getJson(`content/exercise/${id}.json`);
 const SKILL = { listening: 'Listening', reading: 'Reading' };
+const loadExplain = (id) => getJson(`content/exercise/explain/${id}.json`).catch(() => null);
+
+// One Chinese line with its pinyin and English translation.
+function explainLine(seg, mark = '') {
+  return h('div', { class: 'ex-line' },
+    h('div', { class: 'ex-zh' }, mark ? h('span', { class: 'ex-mark' }, mark) : null, h('span', { lang: 'zh-Hant' }, seg.zh), SpeakButton(seg.zh, 'Dengarkan')),
+    h('div', { class: 'ex-py', lang: 'zh-Latn-pinyin' }, seg.py),
+    seg.en ? h('div', { class: 'ex-en', lang: 'en' }, seg.en) : null);
+}
+const explainGroup = (title, segs) => segs?.length ? h('section', { class: 'ex-group' }, h('h4', {}, title), ...segs) : null;
+
+// Explanation shown after submitting: every Chinese text of the question with pinyin and English.
+function explainPanel(test, q, ex, given) {
+  if (!ex) return null;
+  const all = ex.questions;
+  const e = all[q.n] || {};
+  const leadN = q.cloze ? q.groupLead : (q.group ? Number(q.group.slice(1)) : null);
+  const lead = leadN && leadN !== q.n ? all[leadN] || {} : null;
+  const passage = e.passage || lead?.passage;
+  const image = e.image || lead?.image;
+  const introN = q.transcriptLead && q.transcriptLead !== q.n ? q.transcriptLead : null;
+  const intro = e.intro || (introN ? all[introN]?.intro : null);
+  const opts = e.options ? Object.keys(e.options).sort().map((L) => explainLine(e.options[L], `(${L})${L === q.answer ? ' ✓' : (L === given ? ' ✗' : '')}`)) : [];
+  return h('details', { class: 'explain', open: true },
+    h('summary', {}, 'Penjelasan: pinyin & terjemahan Inggris'),
+    explainGroup(passage && lead && !e.passage ? `Teks bacaan (bersama soal ${leadN})` : 'Teks bacaan', passage?.map((x) => explainLine(x))),
+    explainGroup('Teks di dalam gambar', image?.map((x) => explainLine(x))),
+    explainGroup('Pengantar audio', intro?.map((x) => explainLine(x))),
+    explainGroup('Transkrip audio', e.transcript?.map((x) => explainLine(x))),
+    explainGroup('Soal', e.stem ? [explainLine(e.stem)] : null),
+    explainGroup('Pilihan jawaban', opts),
+    ex.englishComplete ? null : h('p', { class: 'small ex-pending' }, 'Terjemahan Inggris untuk tes ini sedang ditambahkan bertahap; pinyin sudah lengkap untuk semua teks.'),
+    h('p', { class: 'small muted ex-note' }, 'Pinyin (Hanyu Pinyin) dibuat otomatis dan diperiksa; terjemahan Inggris disusun untuk situs ini, bukan terjemahan resmi TOCFL.'));
+}
 
 // Speech-synthesis segments for one question, built from the official listening script.
 function ttsSegments(test, q, { withIntro = true, number = false } = {}) {
@@ -173,13 +207,20 @@ export function questionBody(test, q, { selected, onSelect, review, result } = {
   const passage = ctxText && !isPicture ? h('div', { class: 'passage zh', ...lang, html: escBr(ctxText) }) : null;
   const cropImg = (src, alt) => h('figure', { class: 'crop' }, h('img', { src: mediaUrl(`ex/${test.id}/${src}`), alt, loading: 'lazy' }));
   const showCropNow = isPicture || q.spokenOptions || (!optsHaveText && !ctxText);
+  // Reading: every question offers the booklet layout (passage + question only; choices are the buttons below).
+  const layout = test.skill === 'reading' ? (q.layout || []) : [];
+  const origView = layout.length
+    ? h('details', { class: 'orig' }, h('summary', {}, 'Lihat tampilan asli dari buku soal'),
+      h('p', { class: 'small muted orig-note' }, 'Teks bacaan dan soal persis seperti di buku soal. Pilihan jawaban tidak ditampilkan di sini; gunakan tombol pilihan di bawah.'),
+      ...layout.map((src, i) => cropImg(src, layout.length > 1 && i === 0 ? `Teks bacaan untuk soal ${q.n} — tampilan asli` : `Soal ${q.n} — tampilan asli (tanpa pilihan jawaban)`)))
+    : (!showCropNow && crop ? h('details', { class: 'orig' }, h('summary', {}, 'Lihat tampilan asli dari buku soal'), cropImg(crop, `Soal ${q.n} — tampilan asli`)) : null);
   const spokenNote = q.spokenOptions ? h('p', { class: 'small muted' }, 'Pilihan jawaban dibacakan di audio (tidak tercetak di buku soal).') : null;
   return h('div', { class: 'q-body' },
     leadCrop && !ctxText ? cropImg(leadCrop, `Teks soal ${lead.n} (tampilan asli)`) : null,
     passage,
     q.stem && !isPicture ? h('p', { class: 'stem zh', ...lang }, q.stem) : null,
     showCropNow && crop ? cropImg(crop, `Soal ${q.n} — gambar/tampilan asli dari buku soal`) : null,
-    !showCropNow && crop ? h('details', { class: 'orig' }, h('summary', {}, 'Lihat tampilan asli dari buku soal'), cropImg(crop, `Soal ${q.n} — tampilan asli`)) : null,
+    origView,
     spokenNote,
     h('fieldset', { class: 'opts' }, h('legend', { class: 'sr-only' }, `Pilihan jawaban soal ${q.n}`), ...optionEls));
 }
@@ -299,6 +340,7 @@ export async function resultView({ attempt: aid }, query) {
   const a = store.attempt(aid);
   if (!a) return h('div', { class: 'wrap' }, h('h1', {}, 'Hasil tidak ditemukan'), h('p', {}, 'Percobaan ini tidak ada di browser ini.'));
   const test = await loadTest(a.testId);
+  const ex = await loadExplain(test.id);
   const useOrig = test.skill === 'listening' && await originalAudio();
   const filter = query.get('f') || 'all';
   const shown = a.results.filter((r) => filter === 'all' || (filter === 'wrong' ? r.status === 'incorrect' || r.status === 'unanswered' : r.status === filter));
@@ -320,6 +362,7 @@ export async function resultView({ attempt: aid }, query) {
       r.status === 'ungradable' ? h('p', { class: 'note small' }, 'Kunci jawaban untuk soal ini tidak dapat diverifikasi, sehingga tidak dihitung dalam skor.') : null,
       questionBody(test, q, { review: true, result: r }),
       audio,
+      explainPanel(test, q, ex, r.given),
       test.skill === 'listening' ? h('details', { class: 'transcript', open: r.status !== 'correct' || null },
         h('summary', {}, t('transcript') + ' (dari naskah resmi)'),
         q.transcriptIntro ? h('div', { class: 'zh tr-intro', lang: 'zh-Hant', html: escBr(q.transcriptIntro) }) : (leadQ?.transcriptIntro ? h('div', { class: 'zh tr-intro', lang: 'zh-Hant', html: escBr(leadQ.transcriptIntro) }) : null),

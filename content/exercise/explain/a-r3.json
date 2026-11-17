@@ -1,0 +1,981 @@
+{
+ "testId": "a-r3",
+ "segments": 150,
+ "englishComplete": false,
+ "questions": {
+  "1": {
+   "stem": {
+    "zh": "弟弟今天很累，什麼事都不想做。",
+    "py": "Dìdi jīntiān hěn lèi, shénme shì dōu bùxiǎng zuò."
+   }
+  },
+  "2": {
+   "stem": {
+    "zh": "他拿著手機幫朋友照相。",
+    "py": "Tā názhù shǒujī bāng péngyǒu zhàoxiàng."
+   }
+  },
+  "3": {
+   "stem": {
+    "zh": "這杯飲料太甜了，小林想加一點水。",
+    "py": "Zhè bēi yǐnliào tài tián le, Xiǎolín xiǎng jiāyìdiǎn shuǐ."
+   }
+  },
+  "4": {
+   "stem": {
+    "zh": "林小姐昨天晚上睡覺以前喝了一杯牛奶。",
+    "py": "Línxiǎojiě zuótiānwǎnshàng shuìjiào yǐqián hē le yìbēi niúnǎi."
+   }
+  },
+  "5": {
+   "stem": {
+    "zh": "他今天很晚才起床，所以起床以後，就吃午餐。",
+    "py": "Tā jīntiān hěn wǎncái qǐchuáng, suǒyǐ qǐchuáng yǐhòu, jiù chī wǔcān."
+   }
+  },
+  "6": {
+   "stem": {
+    "zh": "房間的門跟窗戶都是關著的。",
+    "py": "Fángjiān de mén gēn chuānghù dōu shì guānzhù de."
+   }
+  },
+  "7": {
+   "stem": {
+    "zh": "大明昨天很晚睡覺，因為電影太好看了。",
+    "py": "Dàmíng zuótiān hěn wǎn shuìjiào, yīnwèi diànyǐng tài hǎokàn le."
+   }
+  },
+  "8": {
+   "stem": {
+    "zh": "經過兩個路口以後，就會看見公園旁邊的車站。",
+    "py": "Jīngguò liǎng ge lùkǒu yǐhòu, jiù huì kànjiàn gōngyuán pángbiān de chēzhàn."
+   }
+  },
+  "9": {
+   "stem": {
+    "zh": "她已經寫完作業，正在聽音樂。",
+    "py": "Tā yǐjīng xiě wán zuòyè, zhèngzài tīng yīnyuè."
+   }
+  },
+  "10": {
+   "stem": {
+    "zh": "他看書看得太累了，所以躺在床上就睡著了。",
+    "py": "Tā kànshū kàn dé tài lèi le, suǒyǐ tǎng zài chuángshàng jiù shuìzhù le."
+   }
+  },
+  "11": {
+   "stem": {
+    "zh": "他們都先穿襪子，再穿褲子。",
+    "py": "Tāmen dōu xiān chuān wàzi, zài chuān kùzi."
+   }
+  },
+  "12": {
+   "stem": {
+    "zh": "媽媽每天七點起床，但是今天比較晚。",
+    "py": "Māma měitiān qīdiǎn qǐchuáng, dànshì jīntiān bǐjiào wǎn."
+   }
+  },
+  "13": {
+   "stem": {
+    "zh": "他的車子壞了，所以今天坐計程車上班。",
+    "py": "Tā de chēzi huài le, suǒyǐ jīntiān zuò jìchéngchē shàngbān."
+   }
+  },
+  "14": {
+   "stem": {
+    "zh": "她用電腦練習寫字。",
+    "py": "Tā yòng diànnǎo liànxí xiězì."
+   }
+  },
+  "15": {
+   "stem": {
+    "zh": "很多人正在排隊掛號。",
+    "py": "Hěnduō rén zhèngzài páiduì guàhào."
+   }
+  },
+  "16": {
+   "options": {
+    "A": {
+     "zh": "外面出太陽。",
+     "py": "Wàimiàn chū Tàiyáng."
+    },
+    "B": {
+     "zh": "他們在看電視。",
+     "py": "Tāmen zài kàndiànshì."
+    },
+    "C": {
+     "zh": "水果放在椅子上。",
+     "py": "Shuǐguǒ fàngzài yǐzi shàng."
+    }
+   }
+  },
+  "17": {
+   "options": {
+    "A": {
+     "zh": "弟弟的眼鏡壞了。",
+     "py": "Dìdi de yǎnjìng huài le."
+    },
+    "B": {
+     "zh": "弟弟找不到眼鏡。",
+     "py": "Dìdi zhǎo búdào yǎnjìng."
+    },
+    "C": {
+     "zh": "弟弟戴著眼鏡睡覺。",
+     "py": "Dìdi Dàizhù yǎnjìng shuìjiào."
+    }
+   }
+  },
+  "18": {
+   "options": {
+    "A": {
+     "zh": "這裡是機場。",
+     "py": "Zhèlǐ shì jīchǎng."
+    },
+    "B": {
+     "zh": "有位女生在打球。",
+     "py": "Yǒuwèi nǚshēng zài dǎqiú."
+    },
+    "C": {
+     "zh": "小男孩正在騎腳踏車。",
+     "py": "Xiǎonánhái zhèngzài qí jiǎotàchē."
+    }
+   }
+  },
+  "19": {
+   "options": {
+    "A": {
+     "zh": "小華有三天語法課。",
+     "py": "Xiǎohuá yǒu sāntiān yǔfǎ kè."
+    },
+    "B": {
+     "zh": "小華星期三上音樂課。",
+     "py": "Xiǎohuá xīngqīsān shàng yīnyuèkè."
+    },
+    "C": {
+     "zh": "小華星期二會用電腦。",
+     "py": "Xiǎohuá xīngqīèr huì yòng diànnǎo."
+    }
+   }
+  },
+  "20": {
+   "options": {
+    "A": {
+     "zh": "美美要大華帶禮物來。",
+     "py": "Měiměi yào Dàhuá dài lǐwù lái."
+    },
+    "B": {
+     "zh": "美美要請小芳到餐廳吃飯。",
+     "py": "Měiměi yào qǐng Xiǎofāng dào cāntīng chīfàn."
+    },
+    "C": {
+     "zh": "小芳請大華一起到美美的家。",
+     "py": "Xiǎofāng qǐng Dàhuá yìqǐ dào Měiměi de jiā."
+    }
+   }
+  },
+  "21": {
+   "options": {
+    "A": {
+     "zh": "全票比半票貴兩百元。",
+     "py": "Quánpiào bǐ bànpiào guì liǎngbǎiyuán."
+    },
+    "B": {
+     "zh": "晚上八點可以看電影。",
+     "py": "Wǎnshàng bādiǎn kěyǐ kàn diànyǐng."
+    },
+    "C": {
+     "zh": "中午以前的電影有兩場。",
+     "py": "Zhōngwǔ yǐqián de diànyǐng yǒu liǎngchǎng."
+    }
+   }
+  },
+  "22": {
+   "options": {
+    "A": {
+     "zh": "星期一可能要帶雨傘。",
+     "py": "Xīngqīyī kěnéng yào dài yǔsǎn."
+    },
+    "B": {
+     "zh": "星期二天氣可能不好。",
+     "py": "Xīngqīèr tiānqì kěnéng bùhǎo."
+    },
+    "C": {
+     "zh": "星期二比星期一涼快。",
+     "py": "Xīngqīèr bǐ xīngqīyī liángkuài."
+    }
+   }
+  },
+  "23": {
+   "options": {
+    "A": {
+     "zh": "大家都吃完飯了。",
+     "py": "Dàjiā dōu chīwánfàn le."
+    },
+    "B": {
+     "zh": "全部的人都拿著杯子。",
+     "py": "Quánbù de rén dōu názhù bēizi."
+    },
+    "C": {
+     "zh": "四個人坐在圓桌前面。",
+     "py": "Sì ge rén zuòzài yuánzhuō qiánmiàn."
+    }
+   }
+  },
+  "24": {
+   "options": {
+    "A": {
+     "zh": "每個人都戴著帽子。",
+     "py": "Měi ge rén dōu dài zhù màozi."
+    },
+    "B": {
+     "zh": "大家都在唱歌和跳舞。",
+     "py": "Dàjiā dōu zài chànggē hé tiàowǔ."
+    },
+    "C": {
+     "zh": "蛋糕旁邊有一些禮物。",
+     "py": "Dàngāo pángbiān yǒu yìxiē lǐwù."
+    }
+   }
+  },
+  "25": {
+   "options": {
+    "A": {
+     "zh": "她只用一條腿站著。",
+     "py": "Tā zhǐyòng yìtiáo tuǐ zhànzhù."
+    },
+    "B": {
+     "zh": "她的手放在身體前面。",
+     "py": "Tā de shǒu fàngzài shēntǐ qiánmiàn."
+    },
+    "C": {
+     "zh": "她戴著一頂漂亮的帽子。",
+     "py": "Tā dài zhù yìdǐng piàoliang de màozi."
+    }
+   }
+  },
+  "26": {
+   "options": {
+    "A": {
+     "zh": "來這家公司只能租一種車。",
+     "py": "Lái zhèjiā gōngsī zhǐnéng zū yìzhǒng chē."
+    },
+    "B": {
+     "zh": "想搭計程車可以打電話給這家公司。",
+     "py": "Xiǎng dā jìchéngchē kěyǐ dǎdiànhuà gěi zhèjiā gōngsī."
+    },
+    "C": {
+     "zh": "租車的價格，一天最少一千二百元。",
+     "py": "Zūchē de jiàgé, yìtiān zuìshǎo yīqiānèrbǎiyuán."
+    }
+   }
+  },
+  "27": {
+   "options": {
+    "A": {
+     "zh": "醫院離他最遠。",
+     "py": "Yīyuàn lí tā zuìyuǎn."
+    },
+    "B": {
+     "zh": "今天商店都開門。",
+     "py": "Jīntiān shāngdiàn dōu kāimén."
+    },
+    "C": {
+     "zh": "公車站在飲料店前面。",
+     "py": "Gōngchēzhàn zài yǐnliàodiàn qiánmiàn."
+    }
+   }
+  },
+  "28": {
+   "options": {
+    "A": {
+     "zh": "林心心跟王老師學中文。",
+     "py": "Línxīnxīn gēn Wánglǎoshī xué Zhōngwén."
+    },
+    "B": {
+     "zh": "卡片是王老師寫給林心心的。",
+     "py": "Kǎpiàn shì Wánglǎoshī xiěgěi Línxīnxīn de."
+    },
+    "C": {
+     "zh": "他們約好還要再上三個月的課。",
+     "py": "Tāmen yuē hǎo háiyào zài shàng sān ge yuè de kè."
+    }
+   }
+  },
+  "29": {
+   "options": {
+    "A": {
+     "zh": "十月只有兩間房間比較便宜。",
+     "py": "Shíyuè zhǐyǒu liǎngjiān fángjiān bǐjiào piányi."
+    },
+    "B": {
+     "zh": "十月五日住兩人房可以得到禮物。",
+     "py": "Shíyuè wǔrì zhù liǎng rénfáng kěyǐ dédào lǐwù."
+    },
+    "C": {
+     "zh": "來來旅館每個月都有特別的活動。",
+     "py": "Lái lái lǚguǎn měi ge yuè dōu yǒu tèbié de huódòng."
+    }
+   }
+  },
+  "30": {
+   "options": {
+    "A": {
+     "zh": "去這家店喝紅茶，就送早餐。",
+     "py": "Qù zhèjiā diàn hē Hóngchá, jiù sòng zǎocān."
+    },
+    "B": {
+     "zh": "在這家店吃早餐，就送一杯飲料。",
+     "py": "Zài zhèjiā diàn chī zǎocān, jiù sòng yìbēi yǐnliào."
+    },
+    "C": {
+     "zh": "這家店早上七點關門，下午兩點開門。",
+     "py": "Zhèjiā diàn zǎoshàng qīdiǎn guānmén, xiàwǔ liǎngdiǎn kāimén."
+    }
+   }
+  },
+  "31": {
+   "stem": {
+    "zh": "屋子裡一個人 沒有。",
+    "py": "Wūzilǐ yí ge rén méiyǒu."
+   },
+   "options": {
+    "A": {
+     "zh": "就",
+     "py": "Jiù"
+    },
+    "B": {
+     "zh": "也",
+     "py": "Yě"
+    },
+    "C": {
+     "zh": "些",
+     "py": "Xiē"
+    }
+   }
+  },
+  "32": {
+   "stem": {
+    "zh": "花瓶裡 很多漂亮的花。",
+    "py": "Huāpíng lǐ hěnduō piàoliang de huā."
+   },
+   "options": {
+    "A": {
+     "zh": "有",
+     "py": "Yǒu"
+    },
+    "B": {
+     "zh": "掛",
+     "py": "Guà"
+    },
+    "C": {
+     "zh": "換",
+     "py": "Huàn"
+    }
+   }
+  },
+  "33": {
+   "stem": {
+    "zh": "小狗在桌子下睡得很 。",
+    "py": "Xiǎogǒu zài zhuōzi xià shuì dé hěn."
+   },
+   "options": {
+    "A": {
+     "zh": "隨便",
+     "py": "Suíbiàn"
+    },
+    "B": {
+     "zh": "方便",
+     "py": "Fāngbiàn"
+    },
+    "C": {
+     "zh": "舒服",
+     "py": "Shūfú"
+    }
+   }
+  },
+  "34": {
+   "stem": {
+    "zh": "兩隻貓一起在沙發 玩兒。",
+    "py": "Liǎngzhǐ māo yìqǐ zài Shāfā wánér."
+   },
+   "options": {
+    "A": {
+     "zh": "上面",
+     "py": "Shàngmiàn"
+    },
+    "B": {
+     "zh": "下面",
+     "py": "Xiàmiàn"
+    },
+    "C": {
+     "zh": "裡面",
+     "py": "Lǐmiàn"
+    }
+   }
+  },
+  "35": {
+   "stem": {
+    "zh": "王先生一家人一個小時後 回來。",
+    "py": "Wángxiānsheng yìjiārén yí ge xiǎoshí hòu huílái."
+   },
+   "options": {
+    "A": {
+     "zh": "再",
+     "py": "Zài"
+    },
+    "B": {
+     "zh": "才",
+     "py": "Cái"
+    },
+    "C": {
+     "zh": "常",
+     "py": "Cháng"
+    }
+   }
+  },
+  "36": {
+   "passage": [
+    {
+     "zh": "我今天跟我的台灣朋友一起去百貨公司。台灣的百貨公司",
+     "py": "Wǒ jīntiān gēn wǒ de Táiwān péngyǒu yìqǐ qù bǎihuògōngsī. Táiwān de bǎihuògōngsī"
+    },
+    {
+     "zh": "（36），裡面（37）。我買了幾件毛衣，還有",
+     "py": "(36), lǐmiàn (37). Wǒ mǎi le jǐjiàn máoyī, háiyǒu"
+    },
+    {
+     "zh": "（38）。我們（39），就到（40），雖然有一點貴，但是大家還是吃得很開心。",
+     "py": "(38). Wǒmen (39), jiù dào (40), suīrán yǒu yìdiǎn guì, dànshì dàjiā háishì chī dé hěn kāixīn."
+    },
+    {
+     "zh": "我不上課的時候，只要有空就找工作做，所以（41）。",
+     "py": "Wǒ bù shàngkè de shíhòu, zhǐyào yǒukòng jiù zhǎo gōngzuò zuò, suǒyǐ (41)."
+    },
+    {
+     "zh": "在這些工作裡，（42）就是在書店工作。",
+     "py": "Zài zhèxiē gōngzuò lǐ, (42) jiùshì zài shūdiàn gōngzuò."
+    },
+    {
+     "zh": "第一是因為我很愛看書，第二是因為那裡的客人比較有禮貌，工作的時候，",
+     "py": "Dìyī shìyīnwèi wǒ hěn ài kànshū, dìèr shìyīnwèi nàlǐ de kèrén bǐjiào yǒu lǐmào, gōngzuò de shíhòu,"
+    },
+    {
+     "zh": "（43）。",
+     "py": "(43)."
+    },
+    {
+     "zh": "可是我不太喜歡新書的味道，要是沒有那種奇怪的味道，（44）。",
+     "py": "Kěshì wǒ bù tài xǐhuān xīnshū de wèidào, yàoshì méiyǒu nàzhǒng qíguài de wèidào, (44)."
+    },
+    {
+     "zh": "雖然有這樣的問題，（45）到書店工作。",
+     "py": "Suīrán yǒu zhèyàng de wèntí, (45) dào shūdiàn gōngzuò."
+    }
+   ],
+   "options": {
+    "A": {
+     "zh": "我最喜歡的",
+     "py": "Wǒ zuì xǐhuān de"
+    },
+    "B": {
+     "zh": "我還是願意",
+     "py": "Wǒ háishì yuànyì"
+    },
+    "C": {
+     "zh": "那就更好了",
+     "py": "Nà jiù gènghǎo le"
+    },
+    "D": {
+     "zh": "心情總是特別好",
+     "py": "Xīnqíng zǒngshì tèbié hǎo"
+    },
+    "E": {
+     "zh": "心情總是特別壞",
+     "py": "Xīnqíng zǒngshì tèbié huài"
+    },
+    "F": {
+     "zh": "有很多工作經驗",
+     "py": "Yǒu hěnduō gōngzuò jīngyàn"
+    }
+   }
+  },
+  "37": {
+   "options": {
+    "A": {
+     "zh": "我最喜歡的",
+     "py": "Wǒ zuì xǐhuān de"
+    },
+    "B": {
+     "zh": "我還是願意",
+     "py": "Wǒ háishì yuànyì"
+    },
+    "C": {
+     "zh": "那就更好了",
+     "py": "Nà jiù gènghǎo le"
+    },
+    "D": {
+     "zh": "心情總是特別好",
+     "py": "Xīnqíng zǒngshì tèbié hǎo"
+    },
+    "E": {
+     "zh": "心情總是特別壞",
+     "py": "Xīnqíng zǒngshì tèbié huài"
+    },
+    "F": {
+     "zh": "有很多工作經驗",
+     "py": "Yǒu hěnduō gōngzuò jīngyàn"
+    }
+   }
+  },
+  "38": {
+   "options": {
+    "A": {
+     "zh": "我最喜歡的",
+     "py": "Wǒ zuì xǐhuān de"
+    },
+    "B": {
+     "zh": "我還是願意",
+     "py": "Wǒ háishì yuànyì"
+    },
+    "C": {
+     "zh": "那就更好了",
+     "py": "Nà jiù gènghǎo le"
+    },
+    "D": {
+     "zh": "心情總是特別好",
+     "py": "Xīnqíng zǒngshì tèbié hǎo"
+    },
+    "E": {
+     "zh": "心情總是特別壞",
+     "py": "Xīnqíng zǒngshì tèbié huài"
+    },
+    "F": {
+     "zh": "有很多工作經驗",
+     "py": "Yǒu hěnduō gōngzuò jīngyàn"
+    }
+   }
+  },
+  "39": {
+   "options": {
+    "A": {
+     "zh": "我最喜歡的",
+     "py": "Wǒ zuì xǐhuān de"
+    },
+    "B": {
+     "zh": "我還是願意",
+     "py": "Wǒ háishì yuànyì"
+    },
+    "C": {
+     "zh": "那就更好了",
+     "py": "Nà jiù gènghǎo le"
+    },
+    "D": {
+     "zh": "心情總是特別好",
+     "py": "Xīnqíng zǒngshì tèbié hǎo"
+    },
+    "E": {
+     "zh": "心情總是特別壞",
+     "py": "Xīnqíng zǒngshì tèbié huài"
+    },
+    "F": {
+     "zh": "有很多工作經驗",
+     "py": "Yǒu hěnduō gōngzuò jīngyàn"
+    }
+   }
+  },
+  "40": {
+   "options": {
+    "A": {
+     "zh": "我最喜歡的",
+     "py": "Wǒ zuì xǐhuān de"
+    },
+    "B": {
+     "zh": "我還是願意",
+     "py": "Wǒ háishì yuànyì"
+    },
+    "C": {
+     "zh": "那就更好了",
+     "py": "Nà jiù gènghǎo le"
+    },
+    "D": {
+     "zh": "心情總是特別好",
+     "py": "Xīnqíng zǒngshì tèbié hǎo"
+    },
+    "E": {
+     "zh": "心情總是特別壞",
+     "py": "Xīnqíng zǒngshì tèbié huài"
+    },
+    "F": {
+     "zh": "有很多工作經驗",
+     "py": "Yǒu hěnduō gōngzuò jīngyàn"
+    }
+   }
+  },
+  "41": {
+   "options": {
+    "A": {
+     "zh": "我最喜歡的",
+     "py": "Wǒ zuì xǐhuān de"
+    },
+    "B": {
+     "zh": "我還是願意",
+     "py": "Wǒ háishì yuànyì"
+    },
+    "C": {
+     "zh": "那就更好了",
+     "py": "Nà jiù gènghǎo le"
+    },
+    "D": {
+     "zh": "心情總是特別好",
+     "py": "Xīnqíng zǒngshì tèbié hǎo"
+    },
+    "E": {
+     "zh": "心情總是特別壞",
+     "py": "Xīnqíng zǒngshì tèbié huài"
+    },
+    "F": {
+     "zh": "有很多工作經驗",
+     "py": "Yǒu hěnduō gōngzuò jīngyàn"
+    }
+   }
+  },
+  "42": {
+   "options": {
+    "A": {
+     "zh": "我最喜歡的",
+     "py": "Wǒ zuì xǐhuān de"
+    },
+    "B": {
+     "zh": "我還是願意",
+     "py": "Wǒ háishì yuànyì"
+    },
+    "C": {
+     "zh": "那就更好了",
+     "py": "Nà jiù gènghǎo le"
+    },
+    "D": {
+     "zh": "心情總是特別好",
+     "py": "Xīnqíng zǒngshì tèbié hǎo"
+    },
+    "E": {
+     "zh": "心情總是特別壞",
+     "py": "Xīnqíng zǒngshì tèbié huài"
+    },
+    "F": {
+     "zh": "有很多工作經驗",
+     "py": "Yǒu hěnduō gōngzuò jīngyàn"
+    }
+   }
+  },
+  "43": {
+   "options": {
+    "A": {
+     "zh": "我最喜歡的",
+     "py": "Wǒ zuì xǐhuān de"
+    },
+    "B": {
+     "zh": "我還是願意",
+     "py": "Wǒ háishì yuànyì"
+    },
+    "C": {
+     "zh": "那就更好了",
+     "py": "Nà jiù gènghǎo le"
+    },
+    "D": {
+     "zh": "心情總是特別好",
+     "py": "Xīnqíng zǒngshì tèbié hǎo"
+    },
+    "E": {
+     "zh": "心情總是特別壞",
+     "py": "Xīnqíng zǒngshì tèbié huài"
+    },
+    "F": {
+     "zh": "有很多工作經驗",
+     "py": "Yǒu hěnduō gōngzuò jīngyàn"
+    }
+   }
+  },
+  "44": {
+   "options": {
+    "A": {
+     "zh": "我最喜歡的",
+     "py": "Wǒ zuì xǐhuān de"
+    },
+    "B": {
+     "zh": "我還是願意",
+     "py": "Wǒ háishì yuànyì"
+    },
+    "C": {
+     "zh": "那就更好了",
+     "py": "Nà jiù gènghǎo le"
+    },
+    "D": {
+     "zh": "心情總是特別好",
+     "py": "Xīnqíng zǒngshì tèbié hǎo"
+    },
+    "E": {
+     "zh": "心情總是特別壞",
+     "py": "Xīnqíng zǒngshì tèbié huài"
+    },
+    "F": {
+     "zh": "有很多工作經驗",
+     "py": "Yǒu hěnduō gōngzuò jīngyàn"
+    }
+   }
+  },
+  "45": {
+   "options": {
+    "A": {
+     "zh": "我最喜歡的",
+     "py": "Wǒ zuì xǐhuān de"
+    },
+    "B": {
+     "zh": "我還是願意",
+     "py": "Wǒ háishì yuànyì"
+    },
+    "C": {
+     "zh": "那就更好了",
+     "py": "Nà jiù gènghǎo le"
+    },
+    "D": {
+     "zh": "心情總是特別好",
+     "py": "Xīnqíng zǒngshì tèbié hǎo"
+    },
+    "E": {
+     "zh": "心情總是特別壞",
+     "py": "Xīnqíng zǒngshì tèbié huài"
+    },
+    "F": {
+     "zh": "有很多工作經驗",
+     "py": "Yǒu hěnduō gōngzuò jīngyàn"
+    }
+   }
+  },
+  "46": {
+   "passage": [
+    {
+     "zh": "(一)",
+     "py": "(Yī)"
+    },
+    {
+     "zh": "小明的爸爸對小明說：「這裡有十元，你到郵局買兩張郵票，然後把這兩封信寄出去，這一封是給王伯伯的，另外一封是給李伯伯的。」",
+     "py": "Xiǎomíng de bàba duì xiǎo míngshuō: “Zhèlǐ yǒu shíyuán, nǐ dào yóujú mǎi liǎngzhāng yóupiào, ránhòu bǎ zhè liǎngfēngxìn jìchūqù, zhè yìfēng shì gěi Wáng Bóbo de, lìngwài yìfēng shì gěi Lǐ Bóbo de.”"
+    },
+    {
+     "zh": "小明回來以後，還給爸爸五塊錢。",
+     "py": "Xiǎomíng huílái yǐhòu, huángěi bàba wǔkuài qián."
+    },
+    {
+     "zh": "爸爸問小明：「怎麼還剩五塊錢呢？」",
+     "py": "Bàba Wènxiǎomíng: “Zěnme hái shèng wǔkuài qián ne?”"
+    },
+    {
+     "zh": "小明回答：「我把給王伯伯的信裝在給李伯伯的信裡面，這樣就不必多花五塊錢啊！」",
+     "py": "Xiǎomíng huídá: “Wǒ bǎ gěi Wáng Bóbo de xìnzhuāng zài gěi Lǐ Bóbo de xìn lǐmiàn, zhèyàng jiù búbì duō huā wǔkuài qián a!”"
+    }
+   ],
+   "stem": {
+    "zh": "小明把信寄出去以後，會發生什麼事？",
+    "py": "Xiǎomíng bǎ xìn jìchūqù yǐhòu, huì fāshēng shénme shì?"
+   },
+   "options": {
+    "A": {
+     "zh": "王伯伯收到兩封信",
+     "py": "Wáng Bóbo shōudào liǎngfēngxìn"
+    },
+    "B": {
+     "zh": "李伯伯收到兩封信",
+     "py": "Lǐ Bóbo shōudào liǎngfēngxìn"
+    },
+    "C": {
+     "zh": "李伯伯要到王伯伯家拿信",
+     "py": "Lǐ Bóbo yào dào Wáng Bóbo jiā ná xìn"
+    },
+    "D": {
+     "zh": "王伯伯和李伯伯都沒收到信",
+     "py": "Wáng Bóbo hé Lǐ Bóbo dōu mòshōu dào xìn"
+    }
+   }
+  },
+  "47": {
+   "passage": [
+    {
+     "zh": "(二)",
+     "py": "(Èr)"
+    },
+    {
+     "zh": "最近越來越流行上網買東西，不論是吃的、穿的還是用的，只要輕鬆點幾下滑鼠就買得到，還能到處比較價錢再買。",
+     "py": "Zuìjìn yuèláiyuè liúxíng shàngwǎng mǎi Dōngxi, búlùnshì chī de, chuān de háishì yòng de, zhǐyào qīngsōng diǎn jǐxià huáshǔ jiù mǎi dédào, hái néng dàochù bǐjiào jiàqián zài mǎi."
+    },
+    {
+     "zh": "不過上網買東西也有一些問題，像是衣服不能先試穿，或是一不小心就被「買一送一」、「滿兩千送一百」的廣告吸引，買了一堆本來不必買的東西。",
+     "py": "Búguò shàngwǎng mǎi Dōngxi yě yǒu yìxiē wèntí, xiàngshì yīfú bùnéng xiān shìchuān, huòshì yíbùxiǎoxīn jiù bèi “Mǎiyísòngyī”, “Mǎn liǎngqiān sòng yìbǎi” de guǎnggào xīyǐn, mǎi le yìduī běnlái búbì mǎi de Dōngxi."
+    },
+    {
+     "zh": "這樣看來，上網買東西雖然方便，卻不一定省錢。",
+     "py": "Zhèyàng kànlái, shàngwǎng mǎi Dōngxi suīrán fāngbiàn, què bù yídìng shěngqián."
+    }
+   ],
+   "stem": {
+    "zh": "寫這段短文的人覺得上網買東西怎麼樣？",
+    "py": "Xiě zhèduàn duǎnwén de rén juéde shàngwǎng mǎi Dōngxi zěnmeyàng?"
+   },
+   "options": {
+    "A": {
+     "zh": "可以少花一些錢",
+     "py": "Kěyǐ shǎohuā yìxiē qián"
+    },
+    "B": {
+     "zh": "容易買太多東西",
+     "py": "Róngyì mǎi tài duō Dōngxi"
+    },
+    "C": {
+     "zh": "能買到最流行的衣服",
+     "py": "Néng mǎidào zuì liúxíng de yīfú"
+    },
+    "D": {
+     "zh": "不像大家說的那麼方便",
+     "py": "Bù xiàng dàjiā shuō de nàme fāngbiàn"
+    }
+   }
+  },
+  "48": {
+   "passage": [
+    {
+     "zh": "(三)",
+     "py": "(Sān)"
+    },
+    {
+     "zh": "我最近學會一道臺灣菜，叫做「鹹蛋苦瓜」，這道菜是房東陳媽媽教我做的。",
+     "py": "Wǒ zuìjìn xuéhuì yídào Táiwān cài, jiàozuò “Xiándàn kǔguā”, zhè dàocài shì fángdōng Chénmāma jiào wǒ zuò de."
+    },
+    {
+     "zh": "以前，我覺得苦瓜吃起來和藥一樣苦，一直不喜歡吃。",
+     "py": "Yǐqián, wǒ juéde kǔguā chī qǐlái hé yào yíyàng kǔ, yìzhí bù xǐhuān chī."
+    },
+    {
+     "zh": "可是陳媽媽教我做的苦瓜一點都不苦，吃起來又香又甜。",
+     "py": "Kěshì Chénmāma jiào wǒ zuò de kǔguā yìdiǎn dōu bùkǔ, chī qǐlái yòu xiāng yòu tián."
+    },
+    {
+     "zh": "而且陳媽媽說，吃沒煮過的苦瓜對身體更好，還說下一次要教我用沒煮過的苦瓜做好喝的果汁，我學會以後，要先做給我的好朋友玉芳喝，希望她和我一樣愛上苦瓜。",
+     "py": "Érqiě Chénmāma shuō, chī méi zhǔ guò de kǔguā duì shēntǐ gènghǎo, hái shuō xià yícì yào jiào wǒ yòng méi zhǔ guò de kǔguā zuòhǎo hē de guǒzhī, wǒ xuéhuì yǐhòu, yào xiān zuò gěi wǒ de hǎo péngyǒu Yùfāng hē, xīwàng tā hé wǒ yíyàng ài shàng kǔguā."
+    }
+   ],
+   "stem": {
+    "zh": "寫這段話的人說了什麼？",
+    "py": "Xiě zhèduànhuà de rén shuō le shénme?"
+   },
+   "options": {
+    "A": {
+     "zh": "他一道臺灣菜也不會做",
+     "py": "Tā yídào Táiwān cài yě búhuì zuò"
+    },
+    "B": {
+     "zh": "陳媽媽和他一樣不吃苦瓜",
+     "py": "Chénmāma hé tā yíyàng bùchī kǔguā"
+    },
+    "C": {
+     "zh": "他發現苦瓜在臺灣是一種藥",
+     "py": "Tā fāxiàn kǔguā zài Táiwān shì yìzhǒng yào"
+    },
+    "D": {
+     "zh": "他的好朋友玉芳也不喜歡苦瓜",
+     "py": "Tā de hǎo péngyǒu Yùfāng yě bù xǐhuān kǔguā"
+    }
+   }
+  },
+  "49": {
+   "passage": [
+    {
+     "zh": "(四)",
+     "py": "(Sì)"
+    },
+    {
+     "zh": "有一天，李先生和陳先生一起聊天。",
+     "py": "Yǒu yìtiān, Lǐxiānsheng hé Chénxiānsheng yìqǐ Liáotiān."
+    },
+    {
+     "zh": "陳先生說：「我每天都很忙，一天要工作二十五個小時。」",
+     "py": "Chénxiānsheng shuō: “Wǒ měitiān dōu hěnmáng, yìtiān yào gōngzuò èrshíwǔ ge xiǎoshí.”"
+    },
+    {
+     "zh": "李先生說：「可是，一天只有二十四小時啊！」",
+     "py": "Lǐxiānsheng shuō: “Kěshì, yìtiān zhǐyǒu èrshísì xiǎoshí a!”"
+    },
+    {
+     "zh": "陳先生回答他：「沒關係，我每天可以早一個小時起床。」",
+     "py": "Chénxiānsheng huídá tā: “Méiguānxì, wǒ měitiān kěyǐ zǎo yí ge xiǎoshí qǐchuáng.”"
+    }
+   ],
+   "stem": {
+    "zh": "這段短文說了什麼事？",
+    "py": "Zhè duàn duǎnwén shuō le shénme shì?"
+   },
+   "options": {
+    "A": {
+     "zh": "陳先生每天幾點起床",
+     "py": "Chénxiānsheng měitiān jǐdiǎn qǐchuáng"
+    },
+    "B": {
+     "zh": "李先生的數學不太好",
+     "py": "Lǐxiānsheng de shùxué bútàihǎo"
+    },
+    "C": {
+     "zh": "陳先生沒有李先生忙",
+     "py": "Chénxiānsheng méiyǒu Lǐxiānsheng máng"
+    },
+    "D": {
+     "zh": "李先生不相信陳先生",
+     "py": "Lǐxiānsheng bù xiāngxìn Chénxiānsheng"
+    }
+   }
+  },
+  "50": {
+   "passage": [
+    {
+     "zh": "(五)",
+     "py": "(Wǔ)"
+    },
+    {
+     "zh": "有三個學生，因為不喜歡每天去餐廳吃飯，開始自己學習做菜。",
+     "py": "Yǒu sān ge xuéshēng, yīnwèi bù xǐhuān měitiān qù cāntīng chīfàn, kāishǐ zìjǐ xuéxí zuòcài."
+    },
+    {
+     "zh": "但是每次做菜的時候，都聞到鄰居家的香味，聞起來比自己煮的香。",
+     "py": "Dànshì měicì zuòcài de shíhòu, dōu wéndào línjūjiā de xiāngwèi, wén qǐlái bǐ zìjǐ zhǔ de xiāng."
+    },
+    {
+     "zh": "所以他們決定開一家網路廚房公司，讓學生可以和會做菜的媽媽們買美食，這家公司負責把食物送到學生宿舍。",
+     "py": "Suǒyǐ tāmen juédìng kāi yìjiā wǎnglù chúfáng gōngsī, ràng xuéshēng kěyǐ hé huì zuòcài de māma men mǎi měishí, zhèjiā gōngsī fùzé bǎ shíwù sòngdào xuéshēngsùshè."
+    },
+    {
+     "zh": "很多媽媽認為，不管煮給幾個人吃，要花的時間差不多，所以願意加入這家公司，讓這家公司的三位老闆也賺了不少錢。",
+     "py": "Hěnduō māma rènwéi, bùguǎn zhǔ gěi jǐ ge rén chī, yàohuā de shíjiān chàbuduō, suǒyǐ yuànyì jiārù zhèjiā gōngsī, ràng zhèjiā gōngsī de sānwèi lǎobǎn yě zhuàn le bùshǎo qián."
+    }
+   ],
+   "stem": {
+    "zh": "這家網路廚房公司有什麼服務？",
+    "py": "Zhèjiā wǎnglù chúfáng gōngsī yǒu shénme fúwù?"
+   },
+   "options": {
+    "A": {
+     "zh": "出租廚房給學生用",
+     "py": "Chūzū chúfáng gěi xuéshēng yòng"
+    },
+    "B": {
+     "zh": "請媽媽們教學生做菜",
+     "py": "Qǐng māma men jiào xuéshēng zuòcài"
+    },
+    "C": {
+     "zh": "幫學生把家人煮的菜送到學校",
+     "py": "Bāng xuéshēng bǎ jiārén zhǔ de cài sòngdào xuéxiào"
+    },
+    "D": {
+     "zh": "讓不太會煮菜的人吃到好吃的菜",
+     "py": "Ràng bútàihuì zhǔcài de rén chī dào hǎochī de cài"
+    }
+   }
+  }
+ }
+}
