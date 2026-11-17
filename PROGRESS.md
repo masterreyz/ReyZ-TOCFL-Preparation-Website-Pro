@@ -77,24 +77,24 @@ Pinyin is generated for every Chinese text. English is written per test in `pipe
 | a-r3 | 150 | ✅ complete |
 | a-r4 | 156 | ✅ complete |
 | a-r5 | 153 | ✅ complete |
-| b-l1 | 370 | ⏭ pinyin only — English to do |
-| b-l2 | 359 | ⏭ pinyin only — English to do |
-| b-l3 | 407 | ⏭ pinyin only — English to do |
-| b-l4 | 425 | ⏭ pinyin only — English to do |
-| b-l5 | 446 | ⏭ pinyin only — English to do |
+| b-l1 | 370 | ✅ complete |
+| b-l2 | 359 | ✅ complete |
+| b-l3 | 407 | ✅ complete |
+| b-l4 | 425 | ✅ complete |
+| b-l5 | 446 | ✅ complete |
 | b-r1 | 319 | ✅ complete |
 | b-r2 | 325 | ✅ complete |
 | b-r3 | 321 | ✅ complete |
-| b-r4 | 319 | ⏭ pinyin only — English to do |
-| b-r5 | 326 | ⏭ pinyin only — English to do |
-| c-l1 | 438 | ⏭ pinyin only — English to do |
-| c-l2 | 463 | ⏭ pinyin only — English to do |
-| c-l3 | 404 | ⏭ pinyin only — English to do |
-| c-l4 | 456 | ⏭ pinyin only — English to do |
-| c-r1 | 347 | ⏭ pinyin only — English to do |
-| c-r2 | 310 | ⏭ pinyin only — English to do |
-| c-r3 | 316 | ⏭ pinyin only — English to do |
-| c-r4 | 345 | ⏭ pinyin only — English to do |
+| b-r4 | 319 | ✅ complete |
+| b-r5 | 326 | ✅ complete |
+| c-l1 | 438 | ✅ complete |
+| c-l2 | 463 | ✅ complete |
+| c-l3 | 404 | ✅ complete |
+| c-l4 | 456 | ✅ complete |
+| c-r1 | 347 | ✅ complete |
+| c-r2 | 310 | ✅ complete |
+| c-r3 | 316 | ✅ complete |
+| c-r4 | 345 | ✅ complete |
 | novice-l1 | 75 | ✅ complete |
 | novice-r1 | 45 | ✅ complete |
 
