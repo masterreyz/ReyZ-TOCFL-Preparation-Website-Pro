@@ -1,25 +1,29 @@
 {
  "testId": "a-l2",
  "segments": 197,
- "englishComplete": false,
+ "englishComplete": true,
  "questions": {
   "1": {
    "transcript": [
     {
      "zh": "爸爸正在做什麼？",
-     "py": "Bàba zhèngzài zuò shénme?"
+     "py": "Bàba zhèngzài zuò shénme?",
+     "en": "What is Dad doing?"
     },
     {
      "zh": "(A) 他正在看報紙",
-     "py": "(A) tā zhèngzài kàn bàozhǐ"
+     "py": "(A) tā zhèngzài kàn bàozhǐ",
+     "en": "(A) He is reading the newspaper."
     },
     {
      "zh": "(B) 他正在洗杯子",
-     "py": "(B) tā zhèngzài xǐ bēizi"
+     "py": "(B) tā zhèngzài xǐ bēizi",
+     "en": "(B) He is washing cups."
     },
     {
      "zh": "(C) 他正在穿衣服",
-     "py": "(C) tā zhèngzài chuānyīfú"
+     "py": "(C) tā zhèngzài chuānyīfú",
+     "en": "(C) He is getting dressed."
     }
    ]
   },
@@ -27,19 +31,23 @@
    "transcript": [
     {
      "zh": "這間屋子裡有什麼？",
-     "py": "Zhè jiān wūzilǐ yǒu shénme?"
+     "py": "Zhè jiān wūzilǐ yǒu shénme?",
+     "en": "What is in this room?"
     },
     {
      "zh": "(A) 電視機",
-     "py": "(A) diànshìjī"
+     "py": "(A) diànshìjī",
+     "en": "(A) A television"
     },
     {
      "zh": "(B) 洗衣機",
-     "py": "(B) xǐyījī"
+     "py": "(B) xǐyījī",
+     "en": "(B) A washing machine"
     },
     {
      "zh": "(C) 冷氣機",
-     "py": "(C) lěngqìjī"
+     "py": "(C) lěngqìjī",
+     "en": "(C) An air conditioner"
     }
    ]
   },
@@ -47,19 +55,23 @@
    "transcript": [
     {
      "zh": "弟弟怎麼去書店？",
-     "py": "Dìdi zěnme qù shūdiàn?"
+     "py": "Dìdi zěnme qù shūdiàn?",
+     "en": "How does younger brother get to the bookstore?"
     },
     {
      "zh": "(A) 他坐火車去",
-     "py": "(A) tā zuòhuǒchē qù"
+     "py": "(A) tā zuòhuǒchē qù",
+     "en": "(A) He takes the train."
     },
     {
      "zh": "(B) 他坐公車去",
-     "py": "(B) tā zuògōngchē qù"
+     "py": "(B) tā zuògōngchē qù",
+     "en": "(B) He takes the bus."
     },
     {
      "zh": "(C) 他坐計程車去",
-     "py": "(C) tā zuò jìchéngchē qù"
+     "py": "(C) tā zuò jìchéngchē qù",
+     "en": "(C) He takes a taxi."
     }
    ]
   },
@@ -67,19 +79,23 @@
    "transcript": [
     {
      "zh": "他們家有幾個人？",
-     "py": "Tāmen jiā yǒu jǐ ge rén?"
+     "py": "Tāmen jiā yǒu jǐ ge rén?",
+     "en": "How many people are in their family?"
     },
     {
      "zh": "(A) 三個人",
-     "py": "(A) sān ge rén"
+     "py": "(A) sān ge rén",
+     "en": "(A) Three people"
     },
     {
      "zh": "(B) 四個人",
-     "py": "(B) sì ge rén"
+     "py": "(B) sì ge rén",
+     "en": "(B) Four people"
     },
     {
      "zh": "(C) 五個人",
-     "py": "(C) wǔ ge rén"
+     "py": "(C) wǔ ge rén",
+     "en": "(C) Five people"
     }
    ]
   },
@@ -87,19 +103,23 @@
    "transcript": [
     {
      "zh": "哥哥今天要做什麼給大家吃？",
-     "py": "Gēge jīntiān yào zuò shénme gěi dàjiā chī?"
+     "py": "Gēge jīntiān yào zuò shénme gěi dàjiā chī?",
+     "en": "What is older brother making for everyone to eat today?"
     },
     {
      "zh": "(A) 麵包",
-     "py": "(A) miànbāo"
+     "py": "(A) miànbāo",
+     "en": "(A) Bread"
     },
     {
      "zh": "(B) 包子",
-     "py": "(B) bāozi"
+     "py": "(B) bāozi",
+     "en": "(B) Baozi (steamed buns)"
     },
     {
      "zh": "(C) 餃子",
-     "py": "(C) jiǎozi"
+     "py": "(C) jiǎozi",
+     "en": "(C) Dumplings"
     }
    ]
   },
@@ -107,19 +127,23 @@
    "transcript": [
     {
      "zh": "這件裙子怎麼樣？",
-     "py": "Zhèjiàn qúnzi zěnmeyàng?"
+     "py": "Zhèjiàn qúnzi zěnmeyàng?",
+     "en": "How is this skirt?"
     },
     {
      "zh": "(A) 太大了",
-     "py": "(A) tài dà le"
+     "py": "(A) tài dà le",
+     "en": "(A) It's too big."
     },
     {
      "zh": "(B) 太髒了",
-     "py": "(B) tài zàng le"
+     "py": "(B) tài zàng le",
+     "en": "(B) It's too dirty."
     },
     {
      "zh": "(C) 太舊了",
-     "py": "(C) Tàijiù le"
+     "py": "(C) Tàijiù le",
+     "en": "(C) It's too old."
     }
    ]
   },
@@ -127,19 +151,23 @@
    "transcript": [
     {
      "zh": "王小姐帶了什麼去旅行？",
-     "py": "Wángxiǎojiě dài le shénme qù lǚxíng?"
+     "py": "Wángxiǎojiě dài le shénme qù lǚxíng?",
+     "en": "What did Miss Wang bring on her trip?"
     },
     {
      "zh": "(A) 手機",
-     "py": "(A) shǒujī"
+     "py": "(A) shǒujī",
+     "en": "(A) A cell phone"
     },
     {
      "zh": "(B) 地圖",
-     "py": "(B) dìtú"
+     "py": "(B) dìtú",
+     "en": "(B) A map"
     },
     {
      "zh": "(C) 電腦",
-     "py": "(C) diànnǎo"
+     "py": "(C) diànnǎo",
+     "en": "(C) A computer"
     }
    ]
   },
@@ -147,19 +175,23 @@
    "transcript": [
     {
      "zh": "這位太太在哪裡？",
-     "py": "Zhèwèi tàitai zài nǎlǐ?"
+     "py": "Zhèwèi tàitai zài nǎlǐ?",
+     "en": "Where is this lady?"
     },
     {
      "zh": "(A) 她在房間",
-     "py": "(A) tā zài fángjiān"
+     "py": "(A) tā zài fángjiān",
+     "en": "(A) She is in the bedroom."
     },
     {
      "zh": "(B) 她在客廳",
-     "py": "(B) tā zài kètīng"
+     "py": "(B) tā zài kètīng",
+     "en": "(B) She is in the living room."
     },
     {
      "zh": "(C) 她在廚房",
-     "py": "(C) tā zài chúfáng"
+     "py": "(C) tā zài chúfáng",
+     "en": "(C) She is in the kitchen."
     }
    ]
   },
@@ -167,19 +199,23 @@
    "transcript": [
     {
      "zh": "媽媽收到什麼東西？",
-     "py": "Māma shōudào shénme Dōngxi?"
+     "py": "Māma shōudào shénme Dōngxi?",
+     "en": "What did Mom receive?"
     },
     {
      "zh": "(A) 她收到信",
-     "py": "(A) tā shōudào xìn"
+     "py": "(A) tā shōudào xìn",
+     "en": "(A) She received a letter."
     },
     {
      "zh": "(B) 她收到書",
-     "py": "(B) tā shōudào shū"
+     "py": "(B) tā shōudào shū",
+     "en": "(B) She received a book."
     },
     {
      "zh": "(C) 她收到電子郵件",
-     "py": "(C) tā shōudào diànziyóujiàn"
+     "py": "(C) tā shōudào diànziyóujiàn",
+     "en": "(C) She received an email."
     }
    ]
   },
@@ -187,19 +223,23 @@
    "transcript": [
     {
      "zh": "學生們在教室裡做什麼？",
-     "py": "Xuéshēng men zài jiàoshì lǐ zuò shénme?"
+     "py": "Xuéshēng men zài jiàoshì lǐ zuò shénme?",
+     "en": "What are the students doing in the classroom?"
     },
     {
      "zh": "(A) 他們在說話",
-     "py": "(A) tāmen zài shuōhuà"
+     "py": "(A) tāmen zài shuōhuà",
+     "en": "(A) They are talking."
     },
     {
      "zh": "(B) 他們在洗窗戶",
-     "py": "(B) tāmen zài xǐ chuānghù"
+     "py": "(B) tāmen zài xǐ chuānghù",
+     "en": "(B) They are washing the windows."
     },
     {
      "zh": "(C) 他們在寫黑板",
-     "py": "(C) tāmen zài xiě hēibǎn"
+     "py": "(C) tāmen zài xiě hēibǎn",
+     "en": "(C) They are writing on the blackboard."
     }
    ]
   },
@@ -207,19 +247,23 @@
    "transcript": [
     {
      "zh": "文華在做什麼？",
-     "py": "Wénhuá zài zuò shénme?"
+     "py": "Wénhuá zài zuò shénme?",
+     "en": "What is Wenhua doing?"
     },
     {
      "zh": "(A) 爬山",
-     "py": "(A) páshān"
+     "py": "(A) páshān",
+     "en": "(A) Hiking (climbing a mountain)"
     },
     {
      "zh": "(B) 游泳",
-     "py": "(B) yóuyǒng"
+     "py": "(B) yóuyǒng",
+     "en": "(B) Swimming"
     },
     {
      "zh": "(C) 打球",
-     "py": "(C) dǎqiú"
+     "py": "(C) dǎqiú",
+     "en": "(C) Playing ball"
     }
    ]
   },
@@ -227,19 +271,23 @@
    "transcript": [
     {
      "zh": "這三個人，哪一個人最矮？",
-     "py": "Zhè sān ge rén, nǎ yí ge rén zuìǎi?"
+     "py": "Zhè sān ge rén, nǎ yí ge rén zuìǎi?",
+     "en": "Of these three people, which one is the shortest?"
     },
     {
      "zh": "(A) 穿短褲的男生最矮",
-     "py": "(A) chuān duǎnkù de nánshēng zuìǎi"
+     "py": "(A) chuān duǎnkù de nánshēng zuìǎi",
+     "en": "(A) The boy in shorts is the shortest."
     },
     {
      "zh": "(B) 穿短褲的女生最矮",
-     "py": "(B) chuān duǎnkù de nǚshēng zuìǎi"
+     "py": "(B) chuān duǎnkù de nǚshēng zuìǎi",
+     "en": "(B) The girl in shorts is the shortest."
     },
     {
      "zh": "(C) 穿長褲的女生最矮",
-     "py": "(C) chuān chángkù de nǚshēng zuìǎi"
+     "py": "(C) chuān chángkù de nǚshēng zuìǎi",
+     "en": "(C) The girl in long pants is the shortest."
     }
    ]
   },
@@ -247,19 +295,23 @@
    "transcript": [
     {
      "zh": "李先生和同事在做什麼？",
-     "py": "Lǐxiānsheng hé tóngshì zài zuò shénme?"
+     "py": "Lǐxiānsheng hé tóngshì zài zuò shénme?",
+     "en": "What are Mr. Li and his colleagues doing?"
     },
     {
      "zh": "(A) 他們在喝酒",
-     "py": "(A) tāmen zài hējiǔ"
+     "py": "(A) tāmen zài hējiǔ",
+     "en": "(A) They are drinking."
     },
     {
      "zh": "(B) 他們在點菜",
-     "py": "(B) tāmen zài diǎncài"
+     "py": "(B) tāmen zài diǎncài",
+     "en": "(B) They are ordering food."
     },
     {
      "zh": "(C) 他們在開會",
-     "py": "(C) tāmen zài kāihuì"
+     "py": "(C) tāmen zài kāihuì",
+     "en": "(C) They are having a meeting."
     }
    ]
   },
@@ -267,19 +319,23 @@
    "transcript": [
     {
      "zh": "弟弟跑步以後，覺得怎麼樣？",
-     "py": "Dìdi pǎobù yǐhòu, juéde zěnmeyàng?"
+     "py": "Dìdi pǎobù yǐhòu, juéde zěnmeyàng?",
+     "en": "How does younger brother feel after running?"
     },
     {
      "zh": "(A) 他覺得很餓",
-     "py": "(A) tā juéde hěn è"
+     "py": "(A) tā juéde hěn è",
+     "en": "(A) He feels very hungry."
     },
     {
      "zh": "(B) 他覺得很累",
-     "py": "(B) tā juéde hěn lèi"
+     "py": "(B) tā juéde hěn lèi",
+     "en": "(B) He feels very tired."
     },
     {
      "zh": "(C) 他覺得很渴",
-     "py": "(C) tā juéde hěnkě"
+     "py": "(C) tā juéde hěnkě",
+     "en": "(C) He feels very thirsty."
     }
    ]
   },
@@ -287,19 +343,23 @@
    "transcript": [
     {
      "zh": "女孩怎麼了？",
-     "py": "Nǚhái zěnme le?"
+     "py": "Nǚhái zěnme le?",
+     "en": "What is the girl doing?"
     },
     {
      "zh": "(A) 她走上樓梯",
-     "py": "(A) tā zǒushàng lóutī"
+     "py": "(A) tā zǒushàng lóutī",
+     "en": "(A) She is walking up the stairs."
     },
     {
      "zh": "(B) 她跑進電梯",
-     "py": "(B) tā pǎo jìn diàntī"
+     "py": "(B) tā pǎo jìn diàntī",
+     "en": "(B) She is running into the elevator."
     },
     {
      "zh": "(C) 她走出電梯",
-     "py": "(C) tā zǒuchū diàntī"
+     "py": "(C) tā zǒuchū diàntī",
+     "en": "(C) She is walking out of the elevator."
     }
    ]
   },
@@ -307,19 +367,23 @@
    "transcript": [
     {
      "zh": "妹妹週末做什麼？",
-     "py": "Mèimei zhōumò zuò shénme?"
+     "py": "Mèimei zhōumò zuò shénme?",
+     "en": "What does younger sister do on weekends?"
     },
     {
      "zh": "(A) 走路",
-     "py": "(A) zǒulù"
+     "py": "(A) zǒulù",
+     "en": "(A) Walking"
     },
     {
      "zh": "(B) 騎車",
-     "py": "(B) qíchē"
+     "py": "(B) qíchē",
+     "en": "(B) Cycling"
     },
     {
      "zh": "(C) 散步",
-     "py": "(C) sànbù"
+     "py": "(C) sànbù",
+     "en": "(C) Taking a stroll"
     }
    ]
   },
@@ -327,19 +391,23 @@
    "transcript": [
     {
      "zh": "房子旁邊有什麼？",
-     "py": "Fángzi pángbiān yǒu shénme?"
+     "py": "Fángzi pángbiān yǒu shénme?",
+     "en": "What is next to the house?"
     },
     {
      "zh": "(A) 餐廳",
-     "py": "(A) cāntīng"
+     "py": "(A) cāntīng",
+     "en": "(A) A restaurant"
     },
     {
      "zh": "(B) 銀行",
-     "py": "(B) yínháng"
+     "py": "(B) yínháng",
+     "en": "(B) A bank"
     },
     {
      "zh": "(C) 公園",
-     "py": "(C) gōngyuán"
+     "py": "(C) gōngyuán",
+     "en": "(C) A park"
     }
    ]
   },
@@ -347,19 +415,23 @@
    "transcript": [
     {
      "zh": "李小姐在哪裡工作？",
-     "py": "Lǐxiǎojiě zài nǎlǐ gōngzuò?"
+     "py": "Lǐxiǎojiě zài nǎlǐ gōngzuò?",
+     "en": "Where does Miss Li work?"
     },
     {
      "zh": "(A) 她在郵局工作",
-     "py": "(A) tā zài yóujú gōngzuò"
+     "py": "(A) tā zài yóujú gōngzuò",
+     "en": "(A) She works at the post office."
     },
     {
      "zh": "(B) 她在醫院工作",
-     "py": "(B) tā zài yīyuàn gōngzuò"
+     "py": "(B) tā zài yīyuàn gōngzuò",
+     "en": "(B) She works at a hospital."
     },
     {
      "zh": "(C) 她在工廠工作",
-     "py": "(C) tā zài gōngchǎng gōngzuò"
+     "py": "(C) tā zài gōngchǎng gōngzuò",
+     "en": "(C) She works in a factory."
     }
    ]
   },
@@ -367,19 +439,23 @@
    "transcript": [
     {
      "zh": "他們在上什麼課？",
-     "py": "Tāmen zài shàng shénme kè?"
+     "py": "Tāmen zài shàng shénme kè?",
+     "en": "What class are they in?"
     },
     {
      "zh": "(A) 數學課",
-     "py": "(A) shùxuékè"
+     "py": "(A) shùxuékè",
+     "en": "(A) Math class"
     },
     {
      "zh": "(B) 音樂課",
-     "py": "(B) yīnyuèkè"
+     "py": "(B) yīnyuèkè",
+     "en": "(B) Music class"
     },
     {
      "zh": "(C) 科學課",
-     "py": "(C) kēxuékè"
+     "py": "(C) kēxuékè",
+     "en": "(C) Science class"
     }
    ]
   },
@@ -387,19 +463,23 @@
    "transcript": [
     {
      "zh": "圖片裡面有什麼？",
-     "py": "Túpiàn lǐmiàn yǒu shénme?"
+     "py": "Túpiàn lǐmiàn yǒu shénme?",
+     "en": "What is in the picture?"
     },
     {
      "zh": "(A) 魚",
-     "py": "(A) yú"
+     "py": "(A) yú",
+     "en": "(A) Fish"
     },
     {
      "zh": "(B) 狗",
-     "py": "(B) gǒu"
+     "py": "(B) gǒu",
+     "en": "(B) A dog"
     },
     {
      "zh": "(C) 鳥",
-     "py": "(C) niǎo"
+     "py": "(C) niǎo",
+     "en": "(C) Birds"
     }
    ]
   },
@@ -407,19 +487,23 @@
    "transcript": [
     {
      "zh": "姊姊的興趣是什麼？",
-     "py": "Zǐzǐ de xìngqù shì shénme?"
+     "py": "Zǐzǐ de xìngqù shì shénme?",
+     "en": "What is older sister's hobby?"
     },
     {
      "zh": "(A) 看雜誌",
-     "py": "(A) kàn zázhì"
+     "py": "(A) kàn zázhì",
+     "en": "(A) Reading magazines"
     },
     {
      "zh": "(B) 學樂器",
-     "py": "(B) xué yuèqì"
+     "py": "(B) xué yuèqì",
+     "en": "(B) Learning a musical instrument"
     },
     {
      "zh": "(C) 寫書法",
-     "py": "(C) xiě shūfǎ"
+     "py": "(C) xiě shūfǎ",
+     "en": "(C) Practicing calligraphy"
     }
    ]
   },
@@ -427,19 +511,23 @@
    "transcript": [
     {
      "zh": "大明計劃暑假的時候做什麼？",
-     "py": "Dàmíng jìhuà shǔjià de shíhòu zuò shénme?"
+     "py": "Dàmíng jìhuà shǔjià de shíhòu zuò shénme?",
+     "en": "What is Daming planning to do during summer vacation?"
     },
     {
      "zh": "(A) 打掃房子",
-     "py": "(A) dǎsǎo fángzi"
+     "py": "(A) dǎsǎo fángzi",
+     "en": "(A) Clean the house"
     },
     {
      "zh": "(B) 參加舞會",
-     "py": "(B) cānjiā wǔhuì"
+     "py": "(B) cānjiā wǔhuì",
+     "en": "(B) Go to a dance party"
     },
     {
      "zh": "(C) 參觀博物館",
-     "py": "(C) cānguān bówùguǎn"
+     "py": "(C) cānguān bówùguǎn",
+     "en": "(C) Visit a museum"
     }
    ]
   },
@@ -447,19 +535,23 @@
    "transcript": [
     {
      "zh": "哪一樣東西比較貴？",
-     "py": "Nǎ yíyàng Dōngxi bǐjiào guì?"
+     "py": "Nǎ yíyàng Dōngxi bǐjiào guì?",
+     "en": "Which item is more expensive?"
     },
     {
      "zh": "(A) 短裙",
-     "py": "(A) duǎnqún"
+     "py": "(A) duǎnqún",
+     "en": "(A) The short skirt"
     },
     {
      "zh": "(B) 短褲",
-     "py": "(B) duǎnkù"
+     "py": "(B) duǎnkù",
+     "en": "(B) The shorts"
     },
     {
      "zh": "(C) 長褲",
-     "py": "(C) chángkù"
+     "py": "(C) chángkù",
+     "en": "(C) The long pants"
     }
    ]
   },
@@ -467,19 +559,23 @@
    "transcript": [
     {
      "zh": "小明怎麼了？",
-     "py": "Xiǎomíng zěnme le?"
+     "py": "Xiǎomíng zěnme le?",
+     "en": "What happened to Xiaoming?"
     },
     {
      "zh": "(A) 他忘了帶東西",
-     "py": "(A) tā wàng le dài Dōngxi"
+     "py": "(A) tā wàng le dài Dōngxi",
+     "en": "(A) He forgot to bring something."
     },
     {
      "zh": "(B) 他買了新錢包",
-     "py": "(B) tā mǎi le xīn qiánbāo"
+     "py": "(B) tā mǎi le xīn qiánbāo",
+     "en": "(B) He bought a new wallet."
     },
     {
      "zh": "(C) 他找到鑰匙了",
-     "py": "(C) tā zhǎodào yàoshi le"
+     "py": "(C) tā zhǎodào yàoshi le",
+     "en": "(C) He found his keys."
     }
    ]
   },
@@ -487,319 +583,378 @@
    "transcript": [
     {
      "zh": "這些人在做什麼？",
-     "py": "Zhèxiē rén zài zuò shénme?"
+     "py": "Zhèxiē rén zài zuò shénme?",
+     "en": "What are these people doing?"
     },
     {
      "zh": "(A) 排隊掛號",
-     "py": "(A) páiduì guàhào"
+     "py": "(A) páiduì guàhào",
+     "en": "(A) Lining up to register (at a clinic)"
     },
     {
      "zh": "(B) 檢查作業",
-     "py": "(B) jiǎnchá zuòyè"
+     "py": "(B) jiǎnchá zuòyè",
+     "en": "(B) Checking homework"
     },
     {
      "zh": "(C) 報告計畫",
-     "py": "(C) bàogào jìhuà"
+     "py": "(C) bàogào jìhuà",
+     "en": "(C) Presenting a plan"
     }
    ]
   },
   "26": {
    "transcript": [
     {
-     "zh": "男你的弟弟比你高嗎？",
-     "py": "Nán nǐ de dìdi bǐ nǐ gāo ma?"
+     "zh": "男：你的弟弟比你高嗎？",
+     "py": "Nán: Nǐ de dìdi bǐ nǐ gāo ma?",
+     "en": "Man: Is your younger brother taller than you?"
     },
     {
-     "zh": "女是啊，我的弟弟比我高，也比我胖。",
-     "py": "Nǚ shì a, wǒ de dìdi bǐ wǒ gāo, yě bǐ wǒ pàng."
+     "zh": "女：是啊，我的弟弟比我高，也比我胖。",
+     "py": "Nǚ: Shì a, wǒ de dìdi bǐ wǒ gāo, yě bǐ wǒ pàng.",
+     "en": "Woman: Yes, my younger brother is taller than me, and heavier too."
     }
    ]
   },
   "27": {
    "transcript": [
     {
-     "zh": "男請問賣照相機的店在哪兒？",
-     "py": "Nán qǐngwèn mài zhàoxiàngjī de diàn zài nǎér?"
+     "zh": "男：請問賣照相機的店在哪兒？",
+     "py": "Nán: Qǐngwèn mài zhàoxiàngjī de diàn zài nǎér?",
+     "en": "Man: Excuse me, where is the camera shop?"
     },
     {
-     "zh": "女十字路口旁邊。",
-     "py": "Nǚ shízìlùkǒu pángbiān."
+     "zh": "女：十字路口旁邊。",
+     "py": "Nǚ: Shízìlùkǒu pángbiān.",
+     "en": "Woman: Next to the intersection."
     }
    ]
   },
   "28": {
    "transcript": [
     {
-     "zh": "男週末一起出去玩好不好？",
-     "py": "Nán zhōumò yìqǐ chūqùwán hǎobùhǎo?"
+     "zh": "男：週末一起出去玩好不好？",
+     "py": "Nán: Zhōumò yìqǐ chūqùwán hǎobùhǎo?",
+     "en": "Man: Let's go out together this weekend, OK?"
     },
     {
-     "zh": "女我很想，可是我要工作。",
-     "py": "Nǚ wǒ hěn xiǎng, kěshì wǒ yào gōngzuò."
+     "zh": "女：我很想，可是我要工作。",
+     "py": "Nǚ: Wǒ hěn xiǎng, kěshì wǒ yào gōngzuò.",
+     "en": "Woman: I'd love to, but I have to work."
     }
    ]
   },
   "29": {
    "transcript": [
     {
-     "zh": "男電影院離這裡遠嗎？",
-     "py": "Nán diànyǐngyuàn lí zhèlǐ yuǎn ma?"
+     "zh": "男：電影院離這裡遠嗎？",
+     "py": "Nán: Diànyǐngyuàn lí zhèlǐ yuǎn ma?",
+     "en": "Man: Is the movie theater far from here?"
     },
     {
-     "zh": "女不遠，就在餐廳樓下。",
-     "py": "Nǚ bùyuǎn, jiù zài cāntīng lóuxià."
+     "zh": "女：不遠，就在餐廳樓下。",
+     "py": "Nǚ: Bùyuǎn, jiù zài cāntīng lóuxià.",
+     "en": "Woman: Not far—it's right downstairs from the restaurant."
     }
    ]
   },
   "30": {
    "transcript": [
     {
-     "zh": "男昨天的表演好看嗎？",
-     "py": "Nán zuótiān de biǎoyǎn hǎokàn ma?"
+     "zh": "男：昨天的表演好看嗎？",
+     "py": "Nán: Zuótiān de biǎoyǎn hǎokàn ma?",
+     "en": "Man: Was yesterday's performance good?"
     },
     {
-     "zh": "女非常有趣，去的人很多。",
-     "py": "Nǚ fēicháng yǒuqù, qù de rén hěnduō."
+     "zh": "女：非常有趣，去的人很多。",
+     "py": "Nǚ: Fēicháng yǒuqù, qù de rén hěnduō.",
+     "en": "Woman: Very entertaining; lots of people went."
     }
    ]
   },
   "31": {
    "transcript": [
     {
-     "zh": "男喂，您好，請問，張小姐在家嗎？",
-     "py": "Nán wèi, nínhǎo, qǐngwèn, zhāng Xiǎojiě zàijiā ma?"
+     "zh": "男：喂，您好，請問，張小姐在家嗎？",
+     "py": "Nán: Wèi, nínhǎo, qǐngwèn, zhāng Xiǎojiě zàijiā ma?",
+     "en": "Man: Hello, is Miss Zhang at home?"
     },
     {
-     "zh": "女喔，她不在，她出去買東西了。",
-     "py": "Nǚ ō, tā bù zài, tā chūqù mǎi Dōngxi le."
+     "zh": "女：喔，她不在，她出去買東西了。",
+     "py": "Nǚ: Ō, tā bù zài, tā chūqù mǎi Dōngxi le.",
+     "en": "Woman: Oh, she's not here; she went out shopping."
     }
    ]
   },
   "32": {
    "transcript": [
     {
-     "zh": "男您好，請問洗手間在哪兒？",
-     "py": "Nán nínhǎo, qǐngwèn xǐshǒujiān zài nǎér?"
+     "zh": "男：您好，請問洗手間在哪兒？",
+     "py": "Nán: Nínhǎo, qǐngwèn xǐshǒujiān zài nǎér?",
+     "en": "Man: Hello, where is the restroom, please?"
     },
     {
-     "zh": "女洗手間在二樓。",
-     "py": "Nǚ xǐshǒujiān zài èrlóu."
+     "zh": "女：洗手間在二樓。",
+     "py": "Nǚ: Xǐshǒujiān zài èrlóu.",
+     "en": "Woman: The restroom is on the second floor."
     }
    ]
   },
   "33": {
    "transcript": [
     {
-     "zh": "男這件毛衣和牛仔褲真好看，你覺得呢？",
-     "py": "Nán zhèjiàn máoyī hé niúzǎikù zhēn hǎokàn, nǐ juéde ne?"
+     "zh": "男：這件毛衣和牛仔褲真好看，你覺得呢？",
+     "py": "Nán: Zhèjiàn máoyī hé niúzǎikù zhēn hǎokàn, nǐ juéde ne?",
+     "en": "Man: This sweater and these jeans look great. What do you think?"
     },
     {
-     "zh": "女我也覺得很好看，我們都買吧！",
-     "py": "Nǚ wǒ yě juéde hěn hǎokàn, wǒmen dōu mǎi ba!"
+     "zh": "女：我也覺得很好看，我們都買吧！",
+     "py": "Nǚ: Wǒ yě juéde hěn hǎokàn, wǒmen dōu mǎi ba!",
+     "en": "Woman: I think they look great too. Let's buy both!"
     }
    ]
   },
   "34": {
    "transcript": [
     {
-     "zh": "男我的錢在旅館不見了！怎麼辦？",
-     "py": "Nán wǒ de qián zài lǚguǎn bújiàn le! Zěnmebàn?"
+     "zh": "男：我的錢在旅館不見了！怎麼辦？",
+     "py": "Nán: Wǒ de qián zài lǚguǎn bújiàn le! Zěnmebàn?",
+     "en": "Man: My money disappeared at the hotel! What should I do?"
     },
     {
-     "zh": "女前面有警察局，我們去找警察幫忙。",
-     "py": "Nǚ qiánmiàn yǒu jǐngchájú, wǒmen qù zhǎo jǐngchá bāngmáng."
+     "zh": "女：前面有警察局，我們去找警察幫忙。",
+     "py": "Nǚ: Qiánmiàn yǒu jǐngchájú, wǒmen qù zhǎo jǐngchá bāngmáng.",
+     "en": "Woman: There's a police station ahead; let's ask the police for help."
     }
    ]
   },
   "35": {
    "transcript": [
     {
-     "zh": "男李小姐為什麼下個月要請假？",
-     "py": "Nán Lǐxiǎojiě wèishénme xiàgèyuè yào qǐngjià?"
+     "zh": "男：李小姐為什麼下個月要請假？",
+     "py": "Nán: Lǐxiǎojiě wèishénme xiàgèyuè yào qǐngjià?",
+     "en": "Man: Why is Miss Li taking leave next month?"
     },
     {
-     "zh": "女你不知道啊？她下個月要結婚了！",
-     "py": "Nǚ nǐ bù zhīdào a? Tā xiàgèyuè yào jiéhūn le!"
+     "zh": "女：你不知道啊？她下個月要結婚了！",
+     "py": "Nǚ: Nǐ bù zhīdào a? Tā xiàgèyuè yào jiéhūn le!",
+     "en": "Woman: You didn't know? She's getting married next month!"
     }
    ]
   },
   "36": {
    "transcript": [
     {
-     "zh": "男你買新鞋啊？這雙鞋子要五百塊吧？",
-     "py": "Nán nǐ mǎi xīnxié a? Zhè shuāng xiézi yào wǔbǎikuài ba?"
+     "zh": "男：你買新鞋啊？這雙鞋子要五百塊吧？",
+     "py": "Nán: Nǐ mǎi xīnxié a? Zhè shuāng xiézi yào wǔbǎikuài ba?",
+     "en": "Man: Did you buy new shoes? These shoes must cost 500 dollars, right?"
     },
     {
-     "zh": "女五百？我可以買兩雙了。",
-     "py": "Nǚ wǔbǎi? Wǒ kěyǐ mǎi liǎngshuāng le."
+     "zh": "女：五百？我可以買兩雙了。",
+     "py": "Nǚ: Wǔbǎi? Wǒ kěyǐ mǎi liǎngshuāng le.",
+     "en": "Woman: Five hundred? I could buy two pairs with that."
     }
    ]
   },
   "37": {
    "transcript": [
     {
-     "zh": "男美美的生日快到了，妳要送什麼禮物給她呢？",
-     "py": "Nán Měiměi de shēngrì kuài dào le, nǐ yào sòng shénme lǐwù gěi tā ne?"
+     "zh": "男：美美的生日快到了，妳要送什麼禮物給她呢？",
+     "py": "Nán: Měiměi de shēngrì kuài dào le, nǐ yào sòng shénme lǐwù gěi tā ne?",
+     "en": "Man: Meimei's birthday is coming. What present are you giving her?"
     },
     {
-     "zh": "女我打算做個蛋糕給她。",
-     "py": "Nǚ wǒ dǎsuàn zuò gè dàngāo gěi tā."
+     "zh": "女：我打算做個蛋糕給她。",
+     "py": "Nǚ: Wǒ dǎsuàn zuò gè dàngāo gěi tā.",
+     "en": "Woman: I'm planning to make her a cake."
     }
    ]
   },
   "38": {
    "transcript": [
     {
-     "zh": "男妳畫畫畫得真好，可不可以幫我在牆上畫一些花？",
-     "py": "Nán nǐ huàhuà huà dé zhēnhǎo, kěbùkěyǐ bāng wǒ zài qiángshàng huà yìxiē huā?"
+     "zh": "男：妳畫畫畫得真好，可不可以幫我在牆上畫一些花？",
+     "py": "Nán: Nǐ huàhuà huà dé zhēnhǎo, kěbùkěyǐ bāng wǒ zài qiángshàng huà yìxiē huā?",
+     "en": "Man: You draw so well. Could you paint some flowers on my wall?"
     },
     {
-     "zh": "女沒問題，我畫一些你家院子裡的花吧！",
-     "py": "Nǚ méi wèntí, wǒ huà yìxiē nǐjiā yuànzi lǐ de huā ba!"
+     "zh": "女：沒問題，我畫一些你家院子裡的花吧！",
+     "py": "Nǚ: Méi wèntí, wǒ huà yìxiē nǐjiā yuànzi lǐ de huā ba!",
+     "en": "Woman: No problem. I'll paint some of the flowers in your yard!"
     }
    ]
   },
   "39": {
    "transcript": [
     {
-     "zh": "男小寶最近吵著要買玩具車，你覺得呢？",
-     "py": "Nán Xiǎobǎo zuìjìn chǎozhù yào mǎi wánjùchē, nǐ juéde ne?"
+     "zh": "男：小寶最近吵著要買玩具車，你覺得呢？",
+     "py": "Nán: Xiǎobǎo zuìjìn chǎozhù yào mǎi wánjùchē, nǐ juéde ne?",
+     "en": "Man: Xiaobao has been pestering us lately to buy him a toy car. What do you think?"
     },
     {
-     "zh": "女他最近很乖，就買給他吧！",
-     "py": "Nǚ tā zuìjìn hěnguāi, jiù mǎi gěi tā ba!"
+     "zh": "女：他最近很乖，就買給他吧！",
+     "py": "Nǚ: Tā zuìjìn hěnguāi, jiù mǎi gěi tā ba!",
+     "en": "Woman: He's been very good lately—let's buy it for him!"
     }
    ]
   },
   "40": {
    "transcript": [
     {
-     "zh": "男新家的環境，你滿意嗎？",
-     "py": "Nán xīnjiā de huánjìng, nǐ mǎnyì ma?"
+     "zh": "男：新家的環境，你滿意嗎？",
+     "py": "Nán: Xīnjiā de huánjìng, nǐ mǎnyì ma?",
+     "en": "Man: Are you satisfied with the surroundings of your new home?"
     },
     {
-     "zh": "女我非常喜歡！打開窗戶就能看見花園。",
-     "py": "Nǚ wǒ fēicháng xǐhuān! Dǎkāi chuānghù jiù néng kànjiàn huāyuán."
+     "zh": "女：我非常喜歡！打開窗戶就能看見花園。",
+     "py": "Nǚ: Wǒ fēicháng xǐhuān! Dǎkāi chuānghù jiù néng kànjiàn huāyuán.",
+     "en": "Woman: I love it! When I open the window I can see the garden."
     }
    ]
   },
   "41": {
    "transcript": [
     {
-     "zh": "男請問，王經理在嗎？",
-     "py": "Nán qǐngwèn, Wángjīnglǐ zài ma?"
+     "zh": "男：請問，王經理在嗎？",
+     "py": "Nán: Qǐngwèn, Wángjīnglǐ zài ma?",
+     "en": "Man: Excuse me, is Manager Wang in?"
     },
     {
-     "zh": "女他正在辦公室和顧客談事情。",
-     "py": "Nǚ tā zhèngzài bàngōngshì hé Gùkè tán shìqing."
+     "zh": "女：他正在辦公室和顧客談事情。",
+     "py": "Nǚ: Tā zhèngzài bàngōngshì hé Gùkè tán shìqing.",
+     "en": "Woman: He's talking with a client in his office."
     },
     {
-     "zh": "男這樣子啊。那麼，請問他的辦公室在哪裡？",
-     "py": "Nán zhè yàngzi a. Nàme, qǐngwèn tā de bàngōngshì zài nǎlǐ?"
+     "zh": "男：這樣子啊。那麼，請問他的辦公室在哪裡？",
+     "py": "Nán: Zhè yàngzi a. Nàme, qǐngwèn tā de bàngōngshì zài nǎlǐ?",
+     "en": "Man: I see. Then where is his office, please?"
     },
     {
-     "zh": "女電梯旁邊第二間，門上掛著一張畫的就是了。",
-     "py": "Nǚ diàntī pángbiān dìèrjiān, ménshàng guàzhù yìzhāng huà de jiùshì le."
+     "zh": "女：電梯旁邊第二間，門上掛著一張畫的就是了。",
+     "py": "Nǚ: Diàntī pángbiān dìèrjiān, ménshàng guàzhù yìzhāng huà de jiùshì le.",
+     "en": "Woman: The second room next to the elevator—the one with a painting hanging on the door."
     },
     {
-     "zh": "男請問王經理的辦公室在哪裡？",
-     "py": "Nán qǐngwèn Wángjīnglǐ de bàngōngshì zài nǎlǐ?"
+     "zh": "男：請問王經理的辦公室在哪裡？",
+     "py": "Nán: Qǐngwèn Wángjīnglǐ de bàngōngshì zài nǎlǐ?",
+     "en": "Man: Where is Manager Wang's office?"
     }
    ]
   },
   "42": {
    "transcript": [
     {
-     "zh": "男冰箱裡有冰淇淋，妳想吃嗎？",
-     "py": "Nán bīngxiāng lǐ yǒu Bīngqílín, nǐ xiǎng chī ma?"
+     "zh": "男：冰箱裡有冰淇淋，妳想吃嗎？",
+     "py": "Nán: Bīngxiāng lǐ yǒu Bīngqílín, nǐ xiǎng chī ma?",
+     "en": "Man: There's ice cream in the fridge. Do you want some?"
     },
     {
-     "zh": "女我想吃一些鹹的點心。",
-     "py": "Nǚ wǒ xiǎng chī yìxiē xián de diǎnxīn."
+     "zh": "女：我想吃一些鹹的點心。",
+     "py": "Nǚ: Wǒ xiǎng chī yìxiē xián de diǎnxīn.",
+     "en": "Woman: I'd like some salty snacks."
     },
     {
-     "zh": "男有鹹的三明治和餅乾，妳想吃哪一種？",
-     "py": "Nán yǒu xián de Sānmíngzhì hé bǐnggān, nǐ xiǎng chī nǎ yìzhǒng?"
+     "zh": "男：有鹹的三明治和餅乾，妳想吃哪一種？",
+     "py": "Nán: Yǒu xián de Sānmíngzhì hé bǐnggān, nǐ xiǎng chī nǎ yìzhǒng?",
+     "en": "Man: There are savory sandwiches and crackers. Which would you like?"
     },
     {
-     "zh": "女我全部都想吃。",
-     "py": "Nǚ wǒ quánbù dōu xiǎng chī."
+     "zh": "女：我全部都想吃。",
+     "py": "Nǚ: Wǒ quánbù dōu xiǎng chī.",
+     "en": "Woman: I want to eat all of them."
     },
     {
-     "zh": "男請問女生想吃什麼？",
-     "py": "Nán qǐngwèn nǚshēng xiǎng chī shénme?"
+     "zh": "男：請問女生想吃什麼？",
+     "py": "Nán: Qǐngwèn nǚshēng xiǎng chī shénme?",
+     "en": "Man: What does the woman want to eat?"
     }
    ]
   },
   "43": {
    "transcript": [
     {
-     "zh": "男小美剛剛留言，請你收傳真！",
-     "py": "Nánxiǎoměi gānggāng liúyán, qǐng nǐ shōu chuánzhēn!"
+     "zh": "男：小美剛剛留言，請你收傳真！",
+     "py": "Nán: Xiǎoměi gānggāng liúyán, qǐng nǐ shōu chuánzhēn!",
+     "en": "Man: Xiaomei just left a message asking you to receive a fax!"
     },
     {
-     "zh": "女好的，她還說了什麼嗎？",
-     "py": "Nǚ hǎo de, tā hái shuō le shénme ma?"
+     "zh": "女：好的，她還說了什麼嗎？",
+     "py": "Nǚ: Hǎo de, tā hái shuō le shénme ma?",
+     "en": "Woman: OK. Did she say anything else?"
     },
     {
-     "zh": "男沒有，但是請妳收傳真的時候，幫我跟王先生借字典，好嗎？",
-     "py": "Nán méiyǒu, dànshì qǐng nǐ shōu chuánzhēn de shíhòu, bāng wǒ gēn Wángxiānsheng jiè zìdiǎn, hǎo ma?"
+     "zh": "男：沒有，但是請妳收傳真的時候，幫我跟王先生借字典，好嗎？",
+     "py": "Nán: Méiyǒu, dànshì qǐng nǐ shōu chuánzhēn de shíhòu, bāng wǒ gēn Wángxiānsheng jiè zìdiǎn, hǎo ma?",
+     "en": "Man: No. But when you receive the fax, could you borrow a dictionary from Mr. Wang for me?"
     },
     {
-     "zh": "女好啊！",
-     "py": "Nǚ hǎo a!"
+     "zh": "女：好啊！",
+     "py": "Nǚ: Hǎo a!",
+     "en": "Woman: Sure!"
     },
     {
-     "zh": "男請問男生請女生幫他做什麼事？",
-     "py": "Nán qǐngwèn nánshēng qǐng nǚshēng bāng tā zuò shénme shì?"
+     "zh": "男：請問男生請女生幫他做什麼事？",
+     "py": "Nán: Qǐngwèn nánshēng qǐng nǚshēng bāng tā zuò shénme shì?",
+     "en": "Man: What does the man ask the woman to do for him?"
     }
    ]
   },
   "44": {
    "transcript": [
     {
-     "zh": "男對不起，房間很髒，我正在打掃。",
-     "py": "Nán duìbùqǐ, fángjiān hěnzāng, wǒ zhèngzài dǎsǎo."
+     "zh": "男：對不起，房間很髒，我正在打掃。",
+     "py": "Nán: Duìbùqǐ, fángjiān hěnzāng, wǒ zhèngzài dǎsǎo.",
+     "en": "Man: Sorry, the room is very dirty; I'm cleaning it."
     },
     {
-     "zh": "女沒關係，這些盒子要放在哪兒?",
-     "py": "Nǚ méiguānxì, zhèxiē hézi yào fàngzài nǎér?"
+     "zh": "女：沒關係，這些盒子要放在哪兒?",
+     "py": "Nǚ: Méiguānxì, zhèxiē hézi yào fàngzài nǎér?",
+     "en": "Woman: That's OK. Where should these boxes go?"
     },
     {
-     "zh": "男麻煩妳把它們搬到浴室門口。",
-     "py": "Nán máfán nǐ bǎ tāmen bān dào yùshì ménkǒu."
+     "zh": "男：麻煩妳把它們搬到浴室門口。",
+     "py": "Nán: Máfán nǐ bǎ tāmen bān dào yùshì ménkǒu.",
+     "en": "Man: Could you please move them to the bathroom door?"
     },
     {
-     "zh": "女浴室門口都是東西，我放在旁邊的樓梯上。",
-     "py": "Nǚyùshì ménkǒu dōu shì Dōngxi, wǒ fàngzài pángbiān de lóutī shàng."
+     "zh": "女：浴室門口都是東西，我放在旁邊的樓梯上。",
+     "py": "Nǚ: Yùshì ménkǒu dōu shì Dōngxi, wǒ fàngzài pángbiān de lóutī shàng.",
+     "en": "Woman: The bathroom doorway is full of stuff; I'll put them on the stairs next to it."
     },
     {
-     "zh": "男請問盒子會被搬到哪兒?",
-     "py": "Nán qǐngwèn hézi huì bèi bāndào nǎér?"
+     "zh": "男：請問盒子會被搬到哪兒?",
+     "py": "Nán: Qǐngwèn hézi huì bèi bāndào nǎér?",
+     "en": "Man: Where will the boxes be moved to?"
     }
    ]
   },
   "45": {
    "transcript": [
     {
-     "zh": "男你怎麼這麼晚才來？",
-     "py": "Nán nǐ zěnme zhèmewǎn cái lái?"
+     "zh": "男：你怎麼這麼晚才來？",
+     "py": "Nán: Nǐ zěnme zhèmewǎn cái lái?",
+     "en": "Man: Why are you so late?"
     },
     {
-     "zh": "女我剛剛和經理在討論工作。",
-     "py": "Nǚ wǒ gānggāng hé jīnglǐ zài tǎolùn gōngzuò."
+     "zh": "女：我剛剛和經理在討論工作。",
+     "py": "Nǚ: Wǒ gānggāng hé jīnglǐ zài tǎolùn gōngzuò.",
+     "en": "Woman: I was just discussing work with the manager."
     },
     {
-     "zh": "男討論什麼呢？",
-     "py": "Nán tǎolùn shénme ne?"
+     "zh": "男：討論什麼呢？",
+     "py": "Nán: Tǎolùn shénme ne?",
+     "en": "Man: Discussing what?"
     },
     {
-     "zh": "女感謝顧客的舞會。",
-     "py": "Nǚ gǎnxiè Gùkè de wǔhuì."
+     "zh": "女：感謝顧客的舞會。",
+     "py": "Nǚ: Gǎnxiè Gùkè de wǔhuì.",
+     "en": "Woman: The customer appreciation party."
     },
     {
-     "zh": "男請問這位小姐為什麼晚到？",
-     "py": "Nán qǐngwèn zhèwèi Xiǎojiě wèishénme wǎn dào?"
+     "zh": "男：請問這位小姐為什麼晚到？",
+     "py": "Nán: Qǐngwèn zhèwèi Xiǎojiě wèishénme wǎn dào?",
+     "en": "Man: Why did this young lady arrive late?"
     }
    ]
   },
@@ -807,41 +962,50 @@
    "options": {
     "A": {
      "zh": "睡得不好",
-     "py": "Shuì dé bùhǎo"
+     "py": "Shuì dé bùhǎo",
+     "en": "Sleeping poorly"
     },
     "B": {
      "zh": "沒有吃藥",
-     "py": "Méiyǒu chīyào"
+     "py": "Méiyǒu chīyào",
+     "en": "Not taking medicine"
     },
     "C": {
      "zh": "天氣變了",
-     "py": "Tiānqì biàn le"
+     "py": "Tiānqì biàn le",
+     "en": "The weather changing"
     },
     "D": {
      "zh": "不常運動",
-     "py": "Bù cháng yùndòng"
+     "py": "Bù cháng yùndòng",
+     "en": "Not exercising often"
     }
    },
    "transcript": [
     {
-     "zh": "男最近我的鼻子不太舒服，晚上都睡不好。可以給我一點藥嗎？",
-     "py": "Nán zuìjìn wǒ de bízi bù tài shūfú, wǎnshàng dōu shuì bùhǎo. Kěyǐ gěi wǒ yìdiǎn yào ma?"
+     "zh": "男：最近我的鼻子不太舒服，晚上都睡不好。可以給我一點藥嗎？",
+     "py": "Nán: Zuìjìn wǒ de bízi bù tài shūfú, wǎnshàng dōu shuì bùhǎo. Kěyǐ gěi wǒ yìdiǎn yào ma?",
+     "en": "Man: Lately my nose has been uncomfortable and I can't sleep well at night. Could you give me some medicine?"
     },
     {
-     "zh": "女我看看。嗯，還不需要吃藥。多運動會讓你覺得好一點。",
-     "py": "Nǚ wǒ kànkàn. ń, hái bù xūyào chīyào. Duō yùndònghuì ràng nǐ juéde hǎo yìdiǎn."
+     "zh": "女：我看看。嗯，還不需要吃藥。多運動會讓你覺得好一點。",
+     "py": "Nǚ: Wǒ kànkàn. ń, hái bù xūyào chīyào. Duō yùndònghuì ràng nǐ juéde hǎo yìdiǎn.",
+     "en": "Woman: Let me take a look. Hmm, you don't need medicine yet. Exercising more will make you feel a bit better."
     },
     {
-     "zh": "男我是不是感冒了？",
-     "py": "Nán wǒ shìbúshì gǎnmào le?"
+     "zh": "男：我是不是感冒了？",
+     "py": "Nán: Wǒ shìbúshì gǎnmào le?",
+     "en": "Man: Do I have a cold?"
     },
     {
-     "zh": "女不是，春天來的時候，很多人都會有這個問題。",
-     "py": "Nǚ búshì, chūntiān lái de shíhòu, hěnduō rén dōu huì yǒu zhè ge wèntí."
+     "zh": "女：不是，春天來的時候，很多人都會有這個問題。",
+     "py": "Nǚ: Búshì, chūntiān lái de shíhòu, hěnduō rén dōu huì yǒu zhè ge wèntí.",
+     "en": "Woman: No, when spring comes, many people have this problem."
     },
     {
-     "zh": "男這位先生的鼻子不舒服和什麼有關係？",
-     "py": "Nán zhèwèi xiānsheng de bízi bù shūfú hé shénme yǒu guānxì?"
+     "zh": "男：這位先生的鼻子不舒服和什麼有關係？",
+     "py": "Nán: Zhèwèi xiānsheng de bízi bù shūfú hé shénme yǒu guānxì?",
+     "en": "Man: What is this gentleman's nose discomfort related to?"
     }
    ]
   },
@@ -849,41 +1013,50 @@
    "options": {
     "A": {
      "zh": "她沒辦法讓鄰居安靜一些",
-     "py": "Tā méi bànfǎ ràng línjū Ānjìng yìxiē"
+     "py": "Tā méi bànfǎ ràng línjū Ānjìng yìxiē",
+     "en": "She can't get her neighbors to be a bit quieter."
     },
     "B": {
      "zh": "她想搬到交通方便的地方",
-     "py": "Tā xiǎng bāndào jiāotōng fāngbiàn de dìfāng"
+     "py": "Tā xiǎng bāndào jiāotōng fāngbiàn de dìfāng",
+     "en": "She wants to move somewhere with convenient transportation."
     },
     "C": {
      "zh": "她打算請警察跟鄰居談談",
-     "py": "Tā dǎsuàn qǐng jǐngchá gēn línjū tántán"
+     "py": "Tā dǎsuàn qǐng jǐngchá gēn línjū tántán",
+     "en": "She plans to ask the police to talk to the neighbors."
     },
     "D": {
      "zh": "她想找喜歡玩樂器的鄰居",
-     "py": "Tā xiǎng zhǎo xǐhuān wán yuèqì de línjū"
+     "py": "Tā xiǎng zhǎo xǐhuān wán yuèqì de línjū",
+     "en": "She wants to find neighbors who like playing instruments."
     }
    },
    "transcript": [
     {
-     "zh": "男這裡交通很方便，為什麼想搬家？",
-     "py": "Nán zhèlǐ jiāotōng hěn fāngbiàn, wèishénme xiǎng bānjiā?"
+     "zh": "男：這裡交通很方便，為什麼想搬家？",
+     "py": "Nán: Zhèlǐ jiāotōng hěn fāngbiàn, wèishénme xiǎng bānjiā?",
+     "en": "Man: Transportation here is very convenient. Why do you want to move?"
     },
     {
-     "zh": "女鄰居夜裡經常玩樂器，吵得不得了。",
-     "py": "Nǚ línjū yèlǐ jīngcháng wán yuèqì, chǎodé bùdéle."
+     "zh": "女：鄰居夜裡經常玩樂器，吵得不得了。",
+     "py": "Nǚ: Línjū yèlǐ jīngcháng wán yuèqì, chǎodé bùdéle.",
+     "en": "Woman: The neighbors often play instruments at night; it's incredibly noisy."
     },
     {
-     "zh": "男不能跟他們談一談嗎？",
-     "py": "Nán bùnéng gēn tāmen tányìtán ma?"
+     "zh": "男：不能跟他們談一談嗎？",
+     "py": "Nán: Bùnéng gēn tāmen tányìtán ma?",
+     "en": "Man: Can't you talk to them?"
     },
     {
-     "zh": "女談過了，也請警察幫忙了，可是一點用也沒有。",
-     "py": "Nǚ tán guò le, yě qǐng jǐngchá bāngmáng le, kěshì yìdiǎn yòng yě méiyǒu."
+     "zh": "女：談過了，也請警察幫忙了，可是一點用也沒有。",
+     "py": "Nǚ: Tán guò le, yě qǐng jǐngchá bāngmáng le, kěshì yìdiǎn yòng yě méiyǒu.",
+     "en": "Woman: I've talked to them, and I've also asked the police for help, but it was no use at all."
     },
     {
-     "zh": "男這位小姐的意思是什麼？",
-     "py": "Nán zhèwèi Xiǎojiě de yìsi shì shénme?"
+     "zh": "男：這位小姐的意思是什麼？",
+     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?",
+     "en": "Man: What does this young lady mean?"
     }
    ]
   },
@@ -891,41 +1064,50 @@
    "options": {
     "A": {
      "zh": "她也不想做學期報告",
-     "py": "Tā yě bùxiǎng zuò xuéqī bàogào"
+     "py": "Tā yě bùxiǎng zuò xuéqī bàogào",
+     "en": "She doesn't want to do the term paper either."
     },
     "B": {
      "zh": "她可以和大明一起討論",
-     "py": "Tā kěyǐ hé Dàmíng yìqǐ tǎolùn"
+     "py": "Tā kěyǐ hé Dàmíng yìqǐ tǎolùn",
+     "en": "She can discuss it together with Daming."
     },
     "C": {
      "zh": "大明不需要這麼快做決定",
-     "py": "Dàmíng bù xūyào zhème kuài zuò juédìng"
+     "py": "Dàmíng bù xūyào zhème kuài zuò juédìng",
+     "en": "Daming doesn't need to decide so quickly."
     },
     "D": {
      "zh": "大明應該告訴她發生什麼事",
-     "py": "Dàmíng yīnggāi gàosù tā fāshēng shénme shì"
+     "py": "Dàmíng yīnggāi gàosù tā fāshēng shénme shì",
+     "en": "Daming should tell her what happened."
     }
    },
    "transcript": [
     {
-     "zh": "男我決定不上這個課了。",
-     "py": "Nán wǒ juédìng búshàng zhè ge kè le."
+     "zh": "男：我決定不上這個課了。",
+     "py": "Nán: Wǒ juédìng búshàng zhè ge kè le.",
+     "en": "Man: I've decided not to take this class."
     },
     {
-     "zh": "女大明，發生什麼事了嗎？",
-     "py": "Nǚ Dàmíng, fāshēng shénme shì le ma?"
+     "zh": "女：大明，發生什麼事了嗎？",
+     "py": "Nǚ: Dàmíng, fāshēng shénme shì le ma?",
+     "en": "Woman: Daming, did something happen?"
     },
     {
-     "zh": "男我不知道學期報告要怎麼做。",
-     "py": "Nán wǒ bù zhīdào xuéqī bàogào yào zěnme zuò."
+     "zh": "男：我不知道學期報告要怎麼做。",
+     "py": "Nán: Wǒ bù zhīdào xuéqī bàogào yào zěnme zuò.",
+     "en": "Man: I don't know how to do the term paper."
     },
     {
-     "zh": "女這個課的報告真的不容易，但我想你可以先找老師討論。",
-     "py": "Nǚ zhè ge kè de bàogào zhēnde bù róngyì, dàn wǒ xiǎng nǐ kěyǐ xiān zhǎo lǎoshī tǎolùn."
+     "zh": "女：這個課的報告真的不容易，但我想你可以先找老師討論。",
+     "py": "Nǚ: Zhè ge kè de bàogào zhēnde bù róngyì, dàn wǒ xiǎng nǐ kěyǐ xiān zhǎo lǎoshī tǎolùn.",
+     "en": "Woman: The paper for this class really isn't easy, but I think you could discuss it with the teacher first."
     },
     {
-     "zh": "男這位小姐的意思是什麼？",
-     "py": "Nán zhèwèi Xiǎojiě de yìsi shì shénme?"
+     "zh": "男：這位小姐的意思是什麼？",
+     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?",
+     "en": "Man: What does this young lady mean?"
     }
    ]
   },
@@ -933,41 +1115,50 @@
    "options": {
     "A": {
      "zh": "她買新褲子了",
-     "py": "Tā mǎi xīn kùzi le"
+     "py": "Tā mǎi xīn kùzi le",
+     "en": "She bought new pants."
     },
     "B": {
      "zh": "她想買新褲子",
-     "py": "Tā xiǎng mǎi xīn kùzi"
+     "py": "Tā xiǎng mǎi xīn kùzi",
+     "en": "She wants to buy new pants."
     },
     "C": {
      "zh": "舊褲子可以丟了",
-     "py": "Jiù kùzi kěyǐ diū le"
+     "py": "Jiù kùzi kěyǐ diū le",
+     "en": "The old pants can be thrown away."
     },
     "D": {
      "zh": "她把褲子洗好了",
-     "py": "Tā bǎ kùzi xǐhǎo le"
+     "py": "Tā bǎ kùzi xǐhǎo le",
+     "en": "She has washed the pants."
     }
    },
    "transcript": [
     {
-     "zh": "男你的牛仔褲髒了！要放進洗衣機洗嗎？",
-     "py": "Nán nǐ de niúzǎikù zàng le! Yào fàngjìn xǐyījī xǐ ma?"
+     "zh": "男：你的牛仔褲髒了！要放進洗衣機洗嗎？",
+     "py": "Nán: Nǐ de niúzǎikù zàng le! Yào fàngjìn xǐyījī xǐ ma?",
+     "en": "Man: Your jeans are dirty! Should I put them in the washing machine?"
     },
     {
-     "zh": "女那件已經很舊了，我需要一件新褲子。",
-     "py": "Nǚ nàjiàn yǐjīng hěn jiù le, wǒ xūyào yíjiàn xīn kùzi."
+     "zh": "女：那件已經很舊了，我需要一件新褲子。",
+     "py": "Nǚ: Nà jiàn yǐjīng hěn jiù le, wǒ xūyào yíjiàn xīn kùzi.",
+     "en": "Woman: Those are already very old; I need a new pair of pants."
     },
     {
-     "zh": "男要幫妳把舊褲子丟了嗎？",
-     "py": "Nán yào bāng nǐ bǎ jiù kùzi diū le ma?"
+     "zh": "男：要幫妳把舊褲子丟了嗎？",
+     "py": "Nán: Yào bāng nǐ bǎ jiù kùzi diū le ma?",
+     "en": "Man: Should I throw away the old pants for you?"
     },
     {
-     "zh": "女先洗一洗吧！我後天才能去買新的。",
-     "py": "Nǚ xiānxǐ yī xǐ ba! Wǒ hòutiān cáinéng qù mǎi xīn de."
+     "zh": "女：先洗一洗吧！我後天才能去買新的。",
+     "py": "Nǚ: Xiānxǐ yī xǐ ba! Wǒ hòutiān cáinéng qù mǎi xīn de.",
+     "en": "Woman: Wash them first! I can't go buy new ones until the day after tomorrow."
     },
     {
-     "zh": "男這位小姐的意思是什麼？",
-     "py": "Nán zhèwèi Xiǎojiě de yìsi shì shénme?"
+     "zh": "男：這位小姐的意思是什麼？",
+     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?",
+     "en": "Man: What does this young lady mean?"
     }
    ]
   },
@@ -975,41 +1166,50 @@
    "options": {
     "A": {
      "zh": "她想請這位先生喝杯飲料",
-     "py": "Tā xiǎng qǐng zhèwèi xiānsheng hēbēi yǐnliào"
+     "py": "Tā xiǎng qǐng zhèwèi xiānsheng hēbēi yǐnliào",
+     "en": "She wants to treat this gentleman to a drink."
     },
     "B": {
      "zh": "她知道這位先生常常遲到",
-     "py": "Tā zhīdào zhèwèi xiānsheng chángcháng chídào"
+     "py": "Tā zhīdào zhèwèi xiānsheng chángcháng chídào",
+     "en": "She knows this gentleman is often late."
     },
     "C": {
      "zh": "她相信這位先生工作很忙",
-     "py": "Tā xiāngxìn zhèwèi xiānsheng gōngzuò hěn máng"
+     "py": "Tā xiāngxìn zhèwèi xiānsheng gōngzuò hěn máng",
+     "en": "She believes this gentleman is very busy with work."
     },
     "D": {
      "zh": "她覺得這位先生應該請客",
-     "py": "Tā juéde zhèwèi xiānsheng yīnggāi qǐngkè"
+     "py": "Tā juéde zhèwèi xiānsheng yīnggāi qǐngkè",
+     "en": "She thinks this gentleman should treat (pay)."
     }
    },
    "transcript": [
     {
-     "zh": "男不好意思，我遲到了。",
-     "py": "Nán bùhǎoyìsī, wǒ chídào le."
+     "zh": "男：不好意思，我遲到了。",
+     "py": "Nán: Bùhǎoyìsī, wǒ chídào le.",
+     "en": "Man: Sorry, I'm late."
     },
     {
-     "zh": "女是不是工作太忙，所以比較晚下班？",
-     "py": "Nǚ shìbúshì gōngzuò tài máng, suǒyǐ bǐjiào wǎn xiàbān?"
+     "zh": "女：是不是工作太忙，所以比較晚下班？",
+     "py": "Nǚ: Shìbúshì gōngzuò tài máng, suǒyǐ bǐjiào wǎn xiàbān?",
+     "en": "Woman: Was work too busy, so you got off late?"
     },
     {
-     "zh": "男不是，是我記錯時間了，真抱歉！",
-     "py": "Nán búshì, shì wǒ jìcuò shíjiān le, zhēn bàoqiàn!"
+     "zh": "男：不是，是我記錯時間了，真抱歉！",
+     "py": "Nán: Búshì, shì wǒ jìcuò shíjiān le, zhēn bàoqiàn!",
+     "en": "Man: No, I got the time wrong. I'm really sorry!"
     },
     {
-     "zh": "女不是因為工作才遲到啊！那你請我喝飲料吧！",
-     "py": "Nǚ búshì yīnwèi gōngzuò cái chídào a! Nà nǐ qǐng wǒ hē yǐnliào ba!"
+     "zh": "女：不是因為工作才遲到啊！那你請我喝飲料吧！",
+     "py": "Nǚ: Búshì yīnwèi gōngzuò cái chídào a! Nà nǐ qǐng wǒ hē yǐnliào ba!",
+     "en": "Woman: So you weren't late because of work! Then you treat me to a drink!"
     },
     {
-     "zh": "男這位小姐的意思是什麼？",
-     "py": "Nán zhèwèi Xiǎojiě de yìsi shì shénme?"
+     "zh": "男：這位小姐的意思是什麼？",
+     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?",
+     "en": "Man: What does this young lady mean?"
     }
    ]
   }

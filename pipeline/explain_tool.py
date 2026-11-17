@@ -30,6 +30,16 @@ def sentences(text):
     return out
 
 
+SPEAKER_RE = re.compile(r'^(男|女)(?![兒生人孩士朋：:])')
+
+
+def speaker(line):
+    """Script lines are printed as 男/女 + speech; show the speaker label as 男：…"""
+    line = re.sub(r'^提問(?![：:])\s*', '提問：', line)
+    line = SPEAKER_RE.sub(r'\1：', line)
+    return re.sub(r'^(男|女)：\s*(\d)\s+', r'\1\2：', line)  # 女：1 … → 女1：…
+
+
 def has_zh(s):
     return bool(re.search(r'[㐀-鿿]', s or ""))
 
@@ -47,9 +57,9 @@ def structure(test):
             if has_zh(o.get("text")):
                 items.append((n, "option", o["label"], o["text"].strip()))
         for s in sentences(q.get("transcriptIntro")) if q.get("transcriptLead") == n else []:
-            items.append((n, "intro", None, s))
+            items.append((n, "intro", None, speaker(s)))
         for s in sentences(q.get("transcript")):
-            items.append((n, "transcript", None, s))
+            items.append((n, "transcript", None, speaker(s)))
     return items
 
 
