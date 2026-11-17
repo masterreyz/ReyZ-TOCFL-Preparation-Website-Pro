@@ -77,16 +77,22 @@ export async function exerciseHome() {
 const sectionAttempts = (testId, set) => store.get().attempts.filter((a) => a.testId === testId && a.range && a.range.from === set.from && a.range.to === set.to);
 const bestPct = (atts) => atts.reduce((m, a) => Math.max(m, a.score.percent ?? pct(a.score.correct, a.score.gradable)), -1);
 
+const loadBank = () => getJson('content/exercise/partbank.json').catch(() => ({}));
+const bankAttempts = (testId) => store.attemptsFor(testId).filter((a) => !a.range);
+
 export async function bandView({ band }) {
-  const [tests, sections] = await Promise.all([getJson('content/exercise/index.json'), getJson('content/exercise/sections.json')]);
+  const [tests, sections, bank] = await Promise.all([getJson('content/exercise/index.json'), getJson('content/exercise/sections.json'), loadBank()]);
   const fullTests = tests.filter((x) => x.band === band && !x.id.startsWith('pb-'));
   const sectionMenu = (skill) => h('div', { class: 'section-menu' }, ...sections.filter((x) => x.band === band && x.skill === skill).map((sec) => {
     const done = sec.sets.filter((st) => sectionAttempts(st.test, st).length).length;
+    const pb = bank[sec.id];
+    const total = sec.questions + (pb?.questions || 0);
     return h('a', { class: 'section-card', href: `#/section/${band}/${sec.id}` },
       h('span', { class: 'sec-zh', lang: 'zh-Hant' }, sec.zh),
       h('span', { class: 'sec-name' }, sec.name),
       h('span', { class: 'sec-desc' }, sec.desc),
-      h('span', { class: 'sec-meta' }, `${sec.questions} soal · ${sec.sets.length} set`, done ? h('span', { class: 'pill good' }, `${done}/${sec.sets.length} dicoba`) : null));
+      h('span', { class: 'sec-meta' }, pb ? `${total} soal · ${pb.questions} bank soal + ${sec.questions} dari tes lengkap` : `${sec.questions} soal · ${sec.sets.length} set`,
+        done ? h('span', { class: 'pill good' }, `${done}/${sec.sets.length} dicoba`) : null));
   }));
   const fullList = (skill) => h('ul', { class: 'test-list' }, ...fullTests.filter((x) => x.skill === skill).map((x) => {
     const atts = store.attemptsFor(x.id).filter((a) => !a.range);
@@ -98,7 +104,7 @@ export async function bandView({ band }) {
   const col = (skill) => h('section', { class: 'skill-col' },
     h('h2', {}, t(skill)),
     h('h3', { class: 'sub-h' }, 'Latihan per bagian'),
-    h('p', { class: 'small muted' }, 'Pilih satu jenis soal untuk berlatih fokus. Setiap bagian berisi soal dari semua seri tes resmi.'),
+    h('p', { class: 'small muted' }, 'Pilih satu jenis soal untuk berlatih fokus. Setiap bagian berisi seluruh bank soal resmi per bagian, ditambah soal bagian itu dari semua tes lengkap.'),
     sectionMenu(skill),
     h('details', { class: 'card full-tests' }, h('summary', {}, `Tes lengkap (${fullTests.filter((x) => x.skill === skill).length} seri, semua bagian sekaligus)`), fullList(skill)));
   return h('div', { class: 'wrap' },
@@ -112,6 +118,7 @@ export async function sectionView({ band, sec: secId }) {
   const sec = sections.find((x) => x.id === secId && x.band === band);
   if (!sec) throw new Error('Bagian latihan tidak ditemukan');
   const first = sec.sets[0];
+  const pb = (await loadBank())[sec.id];
   const useOrig = sec.skill === 'listening' && await originalAudio();
   const timer = h('input', { type: 'number', min: 0, max: 120, step: 5, value: 0, id: 'sec-timer', class: 'num' });
   const rows = sec.sets.map((st) => {
@@ -126,15 +133,31 @@ export async function sectionView({ band, sec: secId }) {
         h('a', { class: 'btn primary small', href: `${base}&mode=practice` }, prog?.mode === 'practice' ? 'Lanjutkan' : 'Latihan'),
         h('button', { class: 'btn small', type: 'button', onclick: () => { location.hash = `${base}&mode=exam&min=${Number(timer.value) || 0}`; } }, 'Simulasi')));
   });
+  const bankRows = (pb?.sets || []).map((st) => {
+    const atts = bankAttempts(st.test);
+    const prog = store.getProgress(st.test);
+    const base = `#/test/${st.test}/run?bank=${sec.id}`;
+    return h('li', { class: 'set-row' },
+      h('div', {}, h('strong', {}, `Set ${st.set}`), h('span', { class: 'muted' }, ` · ${st.questions} soal`),
+        prog ? h('span', { class: 'pill warn' }, 'Sedang dikerjakan') : null,
+        atts.length ? h('span', { class: 'pill' }, `${atts.length}× · terbaik ${bestPct(atts)}%`) : null),
+      h('div', { class: 'set-actions' },
+        h('a', { class: 'btn primary small', href: `${base}&mode=practice` }, prog?.mode === 'practice' ? 'Lanjutkan' : 'Latihan'),
+        h('button', { class: 'btn small', type: 'button', onclick: () => { location.hash = `${base}&mode=exam&min=${Number(timer.value) || 0}`; } }, 'Simulasi')));
+  });
   return h('div', { class: 'wrap narrow' },
     h('nav', { class: 'crumbs' }, h('a', { href: '#/exercise' }, 'TOCFL Exercise'), ' / ', h('a', { href: `#/exercise/${band}` }, BAND_LABEL[band]), ` / ${t(sec.skill)}`),
     h('h1', {}, h('span', { lang: 'zh-Hant' }, sec.zh), ' ', sec.name),
     h('p', { class: 'lead' }, sec.desc),
-    h('p', {}, `${sec.questions} soal dari ${sec.sets.length} seri tes resmi ${BAND_LABEL[band]}. Kunci jawaban, gambar, dan naskah dengar mengikuti tes aslinya.`),
+    pb ? h('p', {}, `${pb.questions + sec.questions} soal: ${pb.questions} soal dari bank soal resmi bagian ini (${pb.items} item, ${pb.sets.length} set) dan ${sec.questions} soal dari ${sec.sets.length} seri tes lengkap. Kunci jawaban mengikuti file kunci resmi.`)
+      : h('p', {}, `${sec.questions} soal dari ${sec.sets.length} seri tes resmi ${BAND_LABEL[band]}. Kunci jawaban, gambar, dan naskah dengar mengikuti tes aslinya.`),
     sec.skill === 'listening' && !useOrig ? h('p', { class: 'note small' }, TTS_NOTE) : null,
     first?.instructions ? h('details', { class: 'card' }, h('summary', {}, 'Petunjuk resmi bagian ini'),
       h('p', { class: 'zh', lang: 'zh-Hant', html: escBr(first.instructions) }), first.instructionsEn ? h('p', { class: 'muted small', lang: 'en' }, first.instructionsEn) : null) : null,
-    h('section', { class: 'card' }, h('h2', { class: 'h3' }, 'Pilih set soal'),
+    pb ? h('section', { class: 'card' }, h('h2', { class: 'h3' }, `Bank soal per bagian (${pb.questions} soal)`),
+      h('p', { class: 'small muted' }, 'Soal resmi per bagian dari folder "Per Part", dikelompokkan per set. Soal ditampilkan persis seperti lembar soal aslinya.'),
+      h('ul', { class: 'set-list' }, ...bankRows)) : null,
+    h('section', { class: 'card' }, h('h2', { class: 'h3' }, pb ? `Dari tes lengkap (${sec.questions} soal)` : 'Pilih set soal'),
       h('ul', { class: 'set-list' }, ...rows),
       h('p', { class: 'small muted' }, h('label', { for: 'sec-timer' }, 'Batas waktu untuk mode Simulasi (menit, 0 = tanpa batas): '), timer)));
 }
@@ -219,7 +242,9 @@ export function questionBody(test, q, { selected, onSelect, review, result } = {
       ...layout.map((src, i) => cropImg(src, layout.length > 1 && i === 0 ? `Teks bacaan untuk soal ${q.n} — tampilan asli` : `Soal ${q.n} — tampilan asli (tanpa pilihan jawaban)`)))
     : (!showCropNow && crop ? h('details', { class: 'orig' }, h('summary', {}, 'Lihat tampilan asli dari buku soal'), cropImg(crop, `Soal ${q.n} — tampilan asli`)) : null);
   const spokenNote = q.spokenOptions ? h('p', { class: 'small muted' }, 'Pilihan jawaban dibacakan di audio (tidak tercetak di buku soal).') : null;
+  const subNote = q.subCount > 1 ? h('p', { class: 'note small sub-note' }, `Item ini berisi ${q.subCount} soal. Soal ini = nomor (${q.sub}) pada teks di bawah.`) : null;
   return h('div', { class: 'q-body' },
+    subNote,
     leadCrop && !ctxText ? cropImg(leadCrop, `Teks soal ${lead.n} (tampilan asli)`) : null,
     passage,
     q.stem && !isPicture ? h('p', { class: 'stem zh', ...lang }, q.stem) : null,
@@ -237,7 +262,8 @@ export async function testRun({ test: id }, query) {
   const test = range ? { ...full, questions: full.questions.filter((q) => q.n >= range.from && q.n <= range.to),
     title: `${full.title} — ${section ? `${section.zh} ${section.name}` : `soal ${range.from}–${range.to}`}` } : full;
   const progKey = range ? `${id}@${range.from}-${range.to}` : id;
-  const qs = range ? `&sec=${range.sec || ''}&from=${range.from}&to=${range.to}` : '';
+  const backSec = range?.sec || full.section || query.get('bank');
+  const qs = range ? `&sec=${range.sec || ''}&from=${range.from}&to=${range.to}` : (full.section ? `&bank=${full.section}` : '');
   const mode = query.get('mode') === 'exam' ? 'exam' : 'practice';
   let prog = store.getProgress(progKey);
   if (!prog || prog.mode !== mode) prog = { mode, answers: {}, startedAt: Date.now(), elapsed: 0, limitMin: Number(query.get('min')) || 0, cur: 0 };
@@ -332,7 +358,7 @@ export async function testRun({ test: id }, query) {
     fullAudio) : null;
   return h('div', { class: 'wrap test-layout' },
     h('div', { class: 'test-top' },
-      h('div', {}, h('a', { href: range?.sec ? `#/section/${full.band}/${range.sec}` : `#/test/${id}`, class: 'small' }, range?.sec ? '← Kembali ke bagian' : '← Petunjuk tes'), h('h1', { class: 'h2' }, test.title), h('span', { class: 'pill' }, mode === 'exam' ? t('exam') : t('practice'))),
+      h('div', {}, h('a', { href: backSec ? `#/section/${full.band}/${backSec}` : `#/test/${id}`, class: 'small' }, backSec ? '← Kembali ke bagian' : '← Petunjuk tes'), h('h1', { class: 'h2' }, test.title), h('span', { class: 'pill' }, mode === 'exam' ? t('exam') : t('practice'))),
       h('div', { class: 'test-status' }, timerEl, counter, h('button', { class: 'btn primary', type: 'button', onclick: submit }, t('submit')))),
     h('div', { class: 'test-grid' },
       h('div', {}, audioBox, qPane),

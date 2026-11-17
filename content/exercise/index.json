@@ -328,5 +328,93 @@
   "gradable": 50,
   "timeMinutes": null,
   "issues": 0
+ },
+ {
+  "id": "pb-n-l1-1",
+  "band": "novice",
+  "skill": "listening",
+  "series": "Set 1",
+  "title": "Bank Soal Novice · Part 1. Listening · Set 1",
+  "kind": "partbank",
+  "section": "n-l1",
+  "questions": 20,
+  "gradable": 20
+ },
+ {
+  "id": "pb-n-l1-2",
+  "band": "novice",
+  "skill": "listening",
+  "series": "Set 2",
+  "title": "Bank Soal Novice · Part 1. Listening · Set 2",
+  "kind": "partbank",
+  "section": "n-l1",
+  "questions": 11,
+  "gradable": 11
+ },
+ {
+  "id": "pb-n-l2-1",
+  "band": "novice",
+  "skill": "listening",
+  "series": "Set 1",
+  "title": "Bank Soal Novice · Part 2. Listening · Set 1",
+  "kind": "partbank",
+  "section": "n-l2",
+  "questions": 20,
+  "gradable": 20
+ },
+ {
+  "id": "pb-n-l2-2",
+  "band": "novice",
+  "skill": "listening",
+  "series": "Set 2",
+  "title": "Bank Soal Novice · Part 2. Listening · Set 2",
+  "kind": "partbank",
+  "section": "n-l2",
+  "questions": 10,
+  "gradable": 10
+ },
+ {
+  "id": "pb-n-l3-1",
+  "band": "novice",
+  "skill": "listening",
+  "series": "Set 1",
+  "title": "Bank Soal Novice · Part 3. Listening · Set 1",
+  "kind": "partbank",
+  "section": "n-l3",
+  "questions": 9,
+  "gradable": 9
+ },
+ {
+  "id": "pb-n-r1-1",
+  "band": "novice",
+  "skill": "reading",
+  "series": "Set 1",
+  "title": "Bank Soal Novice · Part 4. Reading · Set 1",
+  "kind": "partbank",
+  "section": "n-r1",
+  "questions": 20,
+  "gradable": 20
+ },
+ {
+  "id": "pb-n-r1-2",
+  "band": "novice",
+  "skill": "reading",
+  "series": "Set 2",
+  "title": "Bank Soal Novice · Part 4. Reading · Set 2",
+  "kind": "partbank",
+  "section": "n-r1",
+  "questions": 6,
+  "gradable": 6
+ },
+ {
+  "id": "pb-n-r2-1",
+  "band": "novice",
+  "skill": "reading",
+  "series": "Set 1",
+  "title": "Bank Soal Novice · Part 5. Reading · Set 1",
+  "kind": "partbank",
+  "section": "n-r2",
+  "questions": 18,
+  "gradable": 18
  }
 ]

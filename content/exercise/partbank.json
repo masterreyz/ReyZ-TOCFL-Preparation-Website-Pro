@@ -1,0 +1,116 @@
+{
+ "n-l1": {
+  "section": "n-l1",
+  "band": "novice",
+  "skill": "listening",
+  "folder": "1. TOCFL Band Novice Per Part/Part 1. Listening",
+  "items": 31,
+  "questions": 31,
+  "sets": [
+   {
+    "test": "pb-n-l1-1",
+    "set": 1,
+    "questions": 20,
+    "items": 20,
+    "first": "Q00797500",
+    "last": "Q01249100"
+   },
+   {
+    "test": "pb-n-l1-2",
+    "set": 2,
+    "questions": 11,
+    "items": 11,
+    "first": "Q01249200",
+    "last": "Q01250200"
+   }
+  ]
+ },
+ "n-l2": {
+  "section": "n-l2",
+  "band": "novice",
+  "skill": "listening",
+  "folder": "1. TOCFL Band Novice Per Part/Part 2. Listening",
+  "items": 30,
+  "questions": 30,
+  "sets": [
+   {
+    "test": "pb-n-l2-1",
+    "set": 1,
+    "questions": 20,
+    "items": 20,
+    "first": "Q00798500",
+    "last": "Q01250400"
+   },
+   {
+    "test": "pb-n-l2-2",
+    "set": 2,
+    "questions": 10,
+    "items": 10,
+    "first": "Q01250500",
+    "last": "Q01251400"
+   }
+  ]
+ },
+ "n-l3": {
+  "section": "n-l3",
+  "band": "novice",
+  "skill": "listening",
+  "folder": "1. TOCFL Band Novice Per Part/Part 3. Listening",
+  "items": 9,
+  "questions": 9,
+  "sets": [
+   {
+    "test": "pb-n-l3-1",
+    "set": 1,
+    "questions": 9,
+    "items": 9,
+    "first": "Q00799500",
+    "last": "Q01026100"
+   }
+  ]
+ },
+ "n-r1": {
+  "section": "n-r1",
+  "band": "novice",
+  "skill": "reading",
+  "folder": "1. TOCFL Band Novice Per Part/Part 4. Reading",
+  "items": 26,
+  "questions": 26,
+  "sets": [
+   {
+    "test": "pb-n-r1-1",
+    "set": 1,
+    "questions": 20,
+    "items": 20,
+    "first": "Q00804500",
+    "last": "Q01026700"
+   },
+   {
+    "test": "pb-n-r1-2",
+    "set": 2,
+    "questions": 6,
+    "items": 6,
+    "first": "Q01026800",
+    "last": "Q01027300"
+   }
+  ]
+ },
+ "n-r2": {
+  "section": "n-r2",
+  "band": "novice",
+  "skill": "reading",
+  "folder": "1. TOCFL Band Novice Per Part/Part 5. Reading",
+  "items": 18,
+  "questions": 18,
+  "sets": [
+   {
+    "test": "pb-n-r2-1",
+    "set": 1,
+    "questions": 18,
+    "items": 18,
+    "first": "Q00806000",
+    "last": "Q01028100"
+   }
+  ]
+ }
+}
