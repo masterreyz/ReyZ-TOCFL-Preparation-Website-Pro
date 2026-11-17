@@ -1,43 +1,51 @@
 {
  "testId": "c-r1",
  "segments": 347,
- "englishComplete": false,
+ "englishComplete": true,
  "questions": {
   "1": {
    "passage": [
     {
      "zh": "（一）",
-     "py": "(Yī)"
+     "py": "(Yī)",
+     "en": "(1)"
     },
     {
      "zh": "從 15 世紀開始，歐洲便出現了手抄報紙，報導有關政治、戰爭、市場、船期等消息， 1 它突破了傳統私人信件的形式，但傳播的範圍還很小， 2 要等到印刷技術進步，報紙才 3 大量發行。",
-     "py": "Cóng 15 shìjì kāishǐ, Ōuzhōu biàn chūxiàn le shǒuchāo bàozhǐ, bàodǎo yǒuguān zhèngzhì, zhànzhēng, shìchǎng, chuánqī děng xiāoxī, 1 tā tūpò le chuántǒng sīrén xìnjiàn de xíngshì, dàn chuánbō de fànwéi hái hěnxiǎo, 2 yào děngdào yìnshuājìshù jìnbù, bàozhǐ cái 3 dàliàng fāxíng."
+     "py": "Cóng 15 shìjì kāishǐ, Ōuzhōu biàn chūxiàn le shǒuchāo bàozhǐ, bàodǎo yǒuguān zhèngzhì, zhànzhēng, shìchǎng, chuánqī děng xiāoxī, 1 tā tūpò le chuántǒng sīrén xìnjiàn de xíngshì, dàn chuánbō de fànwéi hái hěnxiǎo, 2 yào děngdào yìnshuājìshù jìnbù, bàozhǐ cái 3 dàliàng fāxíng.",
+     "en": "From the 15th century, handwritten newspapers appeared in Europe, reporting news on politics, war, markets, shipping schedules and so on. ___1___ they broke away from the traditional form of private letters, their circulation was still very small; ___2___ printing technology advanced could newspapers ___3___ be published in large numbers."
     },
     {
      "zh": "報紙之所以普及，也跟近代商業的發展 4 關係。",
-     "py": "Bàozhǐ zhīsuǒyǐ Pǔjí, yě gēn jìndài shāngyè de fāzhǎn 4 guānxì."
+     "py": "Bàozhǐ zhīsuǒyǐ Pǔjí, yě gēn jìndài shāngyè de fāzhǎn 4 guānxì.",
+     "en": "The spread of newspapers also ___4___ the development of modern commerce."
     },
     {
      "zh": "經濟快速地成長，使得不同地區、不同國家間的關係更為密切，人們需要互相了解，資訊需要快速傳播，人們對報紙的依賴也就 5 加深，報業因此蓬勃發展。",
-     "py": "Jīngjì kuàisù dì chéngzhǎng, shǐde bùtóng dìqū, bùtóng guójiā jiān de guānxì gèngwéi mìqiè, rénmen xūyào hùxiāng liǎojiě, zīxùn xūyào kuàisù chuánbō, rénmen duì bàozhǐ de yīlài yě jiù 5 jiāshēn, bàoyè yīncǐ péngbófāzhǎn."
+     "py": "Jīngjì kuàisù dì chéngzhǎng, shǐde bùtóng dìqū, bùtóng guójiā jiān de guānxì gèngwéi mìqiè, rénmen xūyào hùxiāng liǎojiě, zīxùn xūyào kuàisù chuánbō, rénmen duì bàozhǐ de yīlài yě jiù 5 jiāshēn, bàoyè yīncǐ péngbófāzhǎn.",
+     "en": "Rapid economic growth brought different regions and countries into closer contact; people needed to understand one another and information needed to spread quickly, so people's dependence on newspapers ___5___ deepened, and the newspaper industry flourished as a result."
     }
    ],
    "options": {
     "A": {
      "zh": "由於",
-     "py": "Yóuyú"
+     "py": "Yóuyú",
+     "en": "(A) because"
     },
     "B": {
      "zh": "儘管",
-     "py": "Jǐnguǎn"
+     "py": "Jǐnguǎn",
+     "en": "(B) although"
     },
     "C": {
      "zh": "既然",
-     "py": "Jìrán"
+     "py": "Jìrán",
+     "en": "(C) since (given that)"
     },
     "D": {
      "zh": "然而",
-     "py": "Ránér"
+     "py": "Ránér",
+     "en": "(D) however"
     }
    }
   },
@@ -45,19 +53,23 @@
    "options": {
     "A": {
      "zh": "一向",
-     "py": "Yíxiàng"
+     "py": "Yíxiàng",
+     "en": "(A) always (up to now)"
     },
     "B": {
      "zh": "一時",
-     "py": "Yìshí"
+     "py": "Yìshí",
+     "en": "(B) for a moment"
     },
     "C": {
      "zh": "一旦",
-     "py": "Yídàn"
+     "py": "Yídàn",
+     "en": "(C) once"
     },
     "D": {
      "zh": "一直",
-     "py": "Yìzhí"
+     "py": "Yìzhí",
+     "en": "(D) all along; until"
     }
    }
   },
@@ -65,19 +77,23 @@
    "options": {
     "A": {
      "zh": "得以",
-     "py": "Déyǐ"
+     "py": "Déyǐ",
+     "en": "(A) be able to; get to"
     },
     "B": {
      "zh": "加以",
-     "py": "Jiāyǐ"
+     "py": "Jiāyǐ",
+     "en": "(B) (to) deal with; apply"
     },
     "C": {
      "zh": "予以",
-     "py": "Yǔyǐ"
+     "py": "Yǔyǐ",
+     "en": "(C) give; grant"
     },
     "D": {
      "zh": "足以",
-     "py": "Zúyǐ"
+     "py": "Zúyǐ",
+     "en": "(D) be enough to"
     }
    }
   },
@@ -85,19 +101,23 @@
    "options": {
     "A": {
      "zh": "免不了",
-     "py": "Miǎnbùliǎo"
+     "py": "Miǎnbùliǎo",
+     "en": "(A) can't avoid; is bound to (have)"
     },
     "B": {
      "zh": "脫不了",
-     "py": "Tuōbùliǎo"
+     "py": "Tuōbùliǎo",
+     "en": "(B) can't escape; is inseparable from"
     },
     "C": {
      "zh": "去不了",
-     "py": "Qù bùliǎo"
+     "py": "Qù bùliǎo",
+     "en": "(C) can't go"
     },
     "D": {
      "zh": "起不了",
-     "py": "Qǐ bùliǎo"
+     "py": "Qǐ bùliǎo",
+     "en": "(D) can't play (a role)"
     }
    }
   },
@@ -105,19 +125,23 @@
    "options": {
     "A": {
      "zh": "極其",
-     "py": "Jíqí"
+     "py": "Jíqí",
+     "en": "(A) extremely"
     },
     "B": {
      "zh": "相當",
-     "py": "Xiāngdāng"
+     "py": "Xiāngdāng",
+     "en": "(B) quite"
     },
     "C": {
      "zh": "日益",
-     "py": "Rìyì"
+     "py": "Rìyì",
+     "en": "(C) increasingly; day by day"
     },
     "D": {
      "zh": "隨後",
-     "py": "Suíhòu"
+     "py": "Suíhòu",
+     "en": "(D) afterwards"
     }
    }
   },
@@ -125,41 +149,50 @@
    "passage": [
     {
      "zh": "（二）",
-     "py": "(Èr)"
+     "py": "(Èr)",
+     "en": "(2)"
     },
     {
      "zh": "目前許多中小學都鼓勵學生利用電腦進行學習，但是成人的電腦讓小孩用， 6 會有各種顧慮，不是擔心重要檔案被小孩刪掉，就是怕小孩亂逛網站造成電腦中毒。",
-     "py": "Mùqián xǔduō zhōngxiǎoxué dōu gǔlì xuéshēng lìyòng diànnǎo jìnxíng xuéxí, dànshì chéngrén de diànnǎo ràng xiǎohái yòng, 6 huì yǒu gèzhǒng gùlǜ, búshì dānxīn zhòngyào dàngàn bèi xiǎohái shāndiào, jiùshì pà xiǎohái luànguàng wǎngzhàn zàochéng diànnǎo Zhòngdú."
+     "py": "Mùqián xǔduō zhōngxiǎoxué dōu gǔlì xuéshēng lìyòng diànnǎo jìnxíng xuéxí, dànshì chéngrén de diànnǎo ràng xiǎohái yòng, 6 huì yǒu gèzhǒng gùlǜ, búshì dānxīn zhòngyào dàngàn bèi xiǎohái shāndiào, jiùshì pà xiǎohái luànguàng wǎngzhàn zàochéng diànnǎo Zhòngdú.",
+     "en": "Many primary and secondary schools now encourage students to learn with computers, but when adults let children use their computers, they ___6___ have all sorts of worries: either that the child will delete important files, or that the child will wander around websites and give the computer a virus."
     },
     {
      "zh": "當然，對父母來說，中毒事小，",
-     "py": "Dāngrán, duì fùmǔ láishuō, Zhòngdú shì xiǎo,"
+     "py": "Dāngrán, duì fùmǔ láishuō, Zhòngdú shì xiǎo,",
+     "en": "Of course, for parents, a virus is a small matter;"
     },
     {
      "zh": "7 小孩逛到色情或賭博網站，那就更糟糕了。",
-     "py": "7 xiǎohái guàngdào sèqíng huò dǔbó wǎngzhàn, nà jiù gèng zāogāo le."
+     "py": "7 xiǎohái guàngdào sèqíng huò dǔbó wǎngzhàn, nà jiù gèng zāogāo le.",
+     "en": "___7___ the child wanders onto pornographic or gambling sites, that would be much worse."
     },
     {
      "zh": "正因為兒童使用電腦的比例逐年增加，有廠商看好這 8 趨勢，推出專為兒童設計的電腦， 9 內建各種學習軟體， 9 可讓父母監控小孩上網的情形，一上市便廣受好評，創造出亮眼的 10 ，廠商也因此大撈一筆。",
-     "py": "Zhèng yīnwèi értóng shǐyòng diànnǎo de bǐlì zhúnián zēngjiā, yǒu chǎngshāng kànhǎo zhè 8 qūshì, tuīchū zhuān wèi értóng shèjì de diànnǎo, 9 nèi jiàn gèzhǒng xuéxí ruǎntǐ, 9 kě ràng fùmǔ jiānkòng xiǎohái shàngwǎng de qíngxíng, yī Shàngshì biàn guǎngshòu hǎopíng, chuàngzào chū liàngyǎn de 10, chǎngshāng yě yīncǐ dà lāo yìbǐ."
+     "py": "Zhèng yīnwèi értóng shǐyòng diànnǎo de bǐlì zhúnián zēngjiā, yǒu chǎngshāng kànhǎo zhè 8 qūshì, tuīchū zhuān wèi értóng shèjì de diànnǎo, 9 nèi jiàn gèzhǒng xuéxí ruǎntǐ, 9 kě ràng fùmǔ jiānkòng xiǎohái shàngwǎng de qíngxíng, yī Shàngshì biàn guǎngshòu hǎopíng, chuàngzào chū liàngyǎn de 10, chǎngshāng yě yīncǐ dà lāo yìbǐ.",
+     "en": "Precisely because the share of children using computers grows every year, some manufacturers, optimistic about this ___8___ trend, launched computers designed especially for children. They ___9___ come with all kinds of learning software built in ___9___ let parents monitor their children's internet use. As soon as they hit the market they were very well received, producing impressive ___10___, and the manufacturers made a fortune."
     }
    ],
    "options": {
     "A": {
      "zh": "居然",
-     "py": "Jūrán"
+     "py": "Jūrán",
+     "en": "(A) unexpectedly"
     },
     "B": {
      "zh": "未必",
-     "py": "Wèibì"
+     "py": "Wèibì",
+     "en": "(B) not necessarily"
     },
     "C": {
      "zh": "難免",
-     "py": "Nánmiǎn"
+     "py": "Nánmiǎn",
+     "en": "(C) unavoidably; inevitably"
     },
     "D": {
      "zh": "哪怕",
-     "py": "Nǎpà"
+     "py": "Nǎpà",
+     "en": "(D) even if"
     }
    }
   },
@@ -167,19 +200,23 @@
    "options": {
     "A": {
      "zh": "恐怕",
-     "py": "Kǒngpà"
+     "py": "Kǒngpà",
+     "en": "(A) I'm afraid"
     },
     "B": {
      "zh": "萬一",
-     "py": "Wànyī"
+     "py": "Wànyī",
+     "en": "(B) if by any chance"
     },
     "C": {
      "zh": "甚至",
-     "py": "Shènzhì"
+     "py": "Shènzhì",
+     "en": "(C) even"
     },
     "D": {
      "zh": "而且",
-     "py": "Érqiě"
+     "py": "Érqiě",
+     "en": "(D) moreover"
     }
    }
   },
@@ -187,19 +224,23 @@
    "options": {
     "A": {
      "zh": "股",
-     "py": "Gǔ"
+     "py": "Gǔ",
+     "en": "(A) 股 (measure word for currents, trends, forces)"
     },
     "B": {
      "zh": "款",
-     "py": "Kuǎn"
+     "py": "Kuǎn",
+     "en": "(B) 款 (measure word for styles / models)"
     },
     "C": {
      "zh": "片",
-     "py": "Piàn"
+     "py": "Piàn",
+     "en": "(C) 片 (measure word for slices, stretches)"
     },
     "D": {
      "zh": "串",
-     "py": "Chuàn"
+     "py": "Chuàn",
+     "en": "(D) 串 (measure word for strings, bunches)"
     }
    }
   },
@@ -207,19 +248,23 @@
    "options": {
     "A": {
      "zh": "雖然…但…",
-     "py": "Suīrán… dàn…"
+     "py": "Suīrán… dàn…",
+     "en": "(A) although … but …"
     },
     "B": {
      "zh": "除非…才…",
-     "py": "Chúfēi… cái…"
+     "py": "Chúfēi… cái…",
+     "en": "(B) only if … then …"
     },
     "C": {
      "zh": "不論…也…",
-     "py": "Búlùn… yě…"
+     "py": "Búlùn… yě…",
+     "en": "(C) no matter … also …"
     },
     "D": {
      "zh": "不僅…還…",
-     "py": "Bùjǐn… hái…"
+     "py": "Bùjǐn… hái…",
+     "en": "(D) not only … but also …"
     }
    }
   },
@@ -227,19 +272,23 @@
    "options": {
     "A": {
      "zh": "客戶",
-     "py": "Kèhù"
+     "py": "Kèhù",
+     "en": "(A) clients"
     },
     "B": {
      "zh": "銷售",
-     "py": "Xiāoshòu"
+     "py": "Xiāoshòu",
+     "en": "(B) sales"
     },
     "C": {
      "zh": "業績",
-     "py": "Yèjì"
+     "py": "Yèjì",
+     "en": "(C) business results; sales figures"
     },
     "D": {
      "zh": "景氣",
-     "py": "Jǐngqì"
+     "py": "Jǐngqì",
+     "en": "(D) economic climate"
     }
    }
   },
@@ -247,49 +296,60 @@
    "passage": [
     {
      "zh": "（三）",
-     "py": "(Sān)"
+     "py": "(Sān)",
+     "en": "(3)"
     },
     {
      "zh": "每每回顧生命歷程，總發現某些當年所 11 的意外、經歷的曲折，後來好像都轉為一種能量和養分。",
-     "py": "Měiměi huígù shēngmìng lìchéng, zǒng fāxiàn mǒuxiē dāngnián suǒ 11 de yìwài, jīnglì de qūzhé, hòulái hǎoxiàng dōu zhuǎnwéi yìzhǒng néngliàng hé yǎngfèn."
+     "py": "Měiměi huígù shēngmìng lìchéng, zǒng fāxiàn mǒuxiē dāngnián suǒ 11 de yìwài, jīnglì de qūzhé, hòulái hǎoxiàng dōu zhuǎnwéi yìzhǒng néngliàng hé yǎngfèn.",
+     "en": "Whenever I look back on my life, I always find that certain accidents I ___11___ and twists I went through back then seem to have later turned into a kind of energy and nourishment."
     },
     {
      "zh": "若 12 這些意外與曲折，我似乎就不會在人生的路上，與難得的人、事相遇；",
-     "py": "Ruò 12 zhèxiē yìwài yǔ qūzhé, wǒ sìhū jiù búhuì zài rénshēng de lùshàng, yǔ nándé de rén, shì xiāngyù;"
+     "py": "Ruò 12 zhèxiē yìwài yǔ qūzhé, wǒ sìhū jiù búhuì zài rénshēng de lùshàng, yǔ nándé de rén, shì xiāngyù;",
+     "en": "Had it ___12___ been for these accidents and twists, I don't think I would have met those rare people and events on life's road;"
     },
     {
      "zh": "而這些人、那些事在時間漸漸 13 一切後，只留下了由歡笑與淚水交織而成的一股暖意。",
-     "py": "Ér zhèxiē rén, nàxiē shì zài shíjiān jiànjiàn 13 yíqiè hòu, zhǐ liúxià le yóu huānxiào yǔ lèishuǐ jiāozhī ér chéng de yìgǔ nuǎnyì."
+     "py": "Ér zhèxiē rén, nàxiē shì zài shíjiān jiànjiàn 13 yíqiè hòu, zhǐ liúxià le yóu huānxiào yǔ lèishuǐ jiāozhī ér chéng de yìgǔ nuǎnyì.",
+     "en": "and after time gradually ___13___ everything, these people and those events left only a warmth woven from laughter and tears."
     },
     {
      "zh": "曾經的悔恨和不滿彷彿都已 14 。",
-     "py": "Céngjīng de huǐhèn hé bùmǎn fǎngfú dōu yǐ 14."
+     "py": "Céngjīng de huǐhèn hé bùmǎn fǎngfú dōu yǐ 14.",
+     "en": "The regrets and resentments I once had seem to have all ___14___."
     },
     {
      "zh": "我經常拿這些人與事向朋友分享，他們鼓勵我將之化為文字， 15 自己帶著回憶走進棺材，",
-     "py": "Wǒ jīngcháng ná zhèxiē rén yǔ shìxiàng péngyǒu fēnxiǎng, tāmen gǔlì wǒ jiāng zhī huàwèi wénzì, 15 zìjǐ dàizhù huíyì zǒujìn guāncái,"
+     "py": "Wǒ jīngcháng ná zhèxiē rén yǔ shìxiàng péngyǒu fēnxiǎng, tāmen gǔlì wǒ jiāng zhī huàwèi wénzì, 15 zìjǐ dàizhù huíyì zǒujìn guāncái,",
+     "en": "I often share these people and events with friends. They encourage me to put them into words: ___15___ take the memories with me into my coffin,"
     },
     {
      "zh": "15 集結成冊，當我有一天什麼都不記得時，至少還有人幫我記得這些人、那些事。",
-     "py": "15 jíjié chéngcè, dāng wǒ yǒu yìtiān shénme dōu bù jìde shí, zhìshǎo háiyǒu rén bāng wǒ jìde zhèxiē rén, nàxiē shì."
+     "py": "15 jíjié chéngcè, dāng wǒ yǒu yìtiān shénme dōu bù jìde shí, zhìshǎo háiyǒu rén bāng wǒ jìde zhèxiē rén, nàxiē shì.",
+     "en": "___15___ collect them into a book, so that one day when I remember nothing, at least someone will remember these people and those events for me."
     }
    ],
    "options": {
     "A": {
      "zh": "盲從",
-     "py": "Mángcóng"
+     "py": "Mángcóng",
+     "en": "(A) follow blindly"
     },
     "B": {
      "zh": "遵循",
-     "py": "Zūnxún"
+     "py": "Zūnxún",
+     "en": "(B) follow; abide by"
     },
     "C": {
      "zh": "叫好",
-     "py": "Jiàohǎo"
+     "py": "Jiàohǎo",
+     "en": "(C) cheer; applaud"
     },
     "D": {
      "zh": "遭遇",
-     "py": "Zāoyù"
+     "py": "Zāoyù",
+     "en": "(D) meet with; suffer"
     }
    }
   },
@@ -297,19 +357,23 @@
    "options": {
     "A": {
      "zh": "未",
-     "py": "Wèi"
+     "py": "Wèi",
+     "en": "(A) not (literary)"
     },
     "B": {
      "zh": "甭",
-     "py": "Béng"
+     "py": "Béng",
+     "en": "(B) no need to"
     },
     "C": {
      "zh": "勿",
-     "py": "Wù"
+     "py": "Wù",
+     "en": "(C) don't (imperative)"
     },
     "D": {
      "zh": "非",
-     "py": "Fēi"
+     "py": "Fēi",
+     "en": "(D) not; un- (= 不是)"
     }
    }
   },
@@ -317,19 +381,23 @@
    "options": {
     "A": {
      "zh": "沖淡",
-     "py": "Chōngdàn"
+     "py": "Chōngdàn",
+     "en": "(A) dilute; wash away"
     },
     "B": {
      "zh": "裁減",
-     "py": "Cáijiǎn"
+     "py": "Cáijiǎn",
+     "en": "(B) cut back; downsize"
     },
     "C": {
      "zh": "消耗",
-     "py": "Xiāohào"
+     "py": "Xiāohào",
+     "en": "(C) consume; use up"
     },
     "D": {
      "zh": "剝削",
-     "py": "Bōxuē"
+     "py": "Bōxuē",
+     "en": "(D) exploit"
     }
    }
   },
@@ -337,19 +405,23 @@
    "options": {
     "A": {
      "zh": "香消玉殞",
-     "py": "Xiāngxiāoyùyǔn"
+     "py": "Xiāngxiāoyùyǔn",
+     "en": "(A) a beautiful woman dies (idiom)"
     },
     "B": {
      "zh": "雲消霧散",
-     "py": "Yúnxiāowùsàn"
+     "py": "Yúnxiāowùsàn",
+     "en": "(B) vanish like clouds and mist (idiom)"
     },
     "C": {
      "zh": "捲土重來",
-     "py": "Juǎntǔchónglái"
+     "py": "Juǎntǔchónglái",
+     "en": "(C) make a comeback (idiom)"
     },
     "D": {
      "zh": "魂飛魄散",
-     "py": "Húnfēipòsàn"
+     "py": "Húnfēipòsàn",
+     "en": "(D) be frightened out of one's wits (idiom)"
     }
    }
   },
@@ -357,19 +429,23 @@
    "options": {
     "A": {
      "zh": "為了…因此…",
-     "py": "Wèile… yīncǐ…"
+     "py": "Wèile… yīncǐ…",
+     "en": "(A) in order to … therefore …"
     },
     "B": {
      "zh": "就算…也能…",
-     "py": "Jiùsuàn… yě néng…"
+     "py": "Jiùsuàn… yě néng…",
+     "en": "(B) even if … can also …"
     },
     "C": {
      "zh": "總得…進而…",
-     "py": "Zǒngděi… jìnér…"
+     "py": "Zǒngděi… jìnér…",
+     "en": "(C) must … and then …"
     },
     "D": {
      "zh": "與其…不如…",
-     "py": "Yǔqí… bùrú…"
+     "py": "Yǔqí… bùrú…",
+     "en": "(D) rather than … better to …"
     }
    }
   },
@@ -377,77 +453,94 @@
    "passage": [
     {
      "zh": "（一）",
-     "py": "(Yī)"
+     "py": "(Yī)",
+     "en": "(1)"
     },
     {
      "zh": "在台灣，男人平均比女人少活約 5 歲。",
-     "py": "Zài Táiwān, nánrén píngjūn bǐ nǚrén shǎo huó yuē 5 suì."
+     "py": "Zài Táiwān, nánrén píngjūn bǐ nǚrén shǎo huó yuē 5 suì.",
+     "en": "In Taiwan, men live on average about 5 years less than women."
     },
     {
      "zh": "不過，男人並沒有因此更加注意健康；",
-     "py": "Búguò, nánrén bìng méiyǒu yīncǐ gèngjiā zhùyì jiànkāng;"
+     "py": "Búguò, nánrén bìng méiyǒu yīncǐ gèngjiā zhùyì jiànkāng;",
+     "en": "But men haven't become more careful about their health because of this;"
     },
     {
      "zh": "就算生病了，也總是以「我很忙」、「沒時間」為藉口，不願到醫院就診。",
-     "py": "Jiùsuàn shēngbìng le, yě zǒngshì yǐ “Wǒ hěnmáng”, “Méi shíjiān” wèi jièkǒu, bù yuàndào yīyuàn jiùzhěn."
+     "py": "Jiùsuàn shēngbìng le, yě zǒngshì yǐ “Wǒ hěnmáng”, “Méi shíjiān” wèi jièkǒu, bù yuàndào yīyuàn jiùzhěn.",
+     "en": "even when sick, they always use \"I'm busy\" or \"I don't have time\" as an excuse and won't go to hospital."
     },
     {
      "zh": "專家指出，這是因為男性經常以「東西勉強可用就不必修理」的心態來面對健康問題，即使身體有小病痛也刻意忽略，害怕一去看醫師就會發現許多毛病，或者就此必須終生吃藥度日。",
-     "py": "Zhuānjiā zhǐchū, zhè shìyīnwèi nánxìng jīngcháng yǐ “Dōngxi miǎnqiǎng kěyòng jiù búbì xiūlǐ” de xīntài lái miànduì jiànkāng wèntí, jíshǐ shēntǐ yǒu xiǎo bìngtòng yě kèyì hūlüè, hàipà yī qù kàn yīshī jiù huì fāxiàn xǔduō máobìng, huòzhě jiùcǐ bìxū zhōngshēng chīyào dùrì."
+     "py": "Zhuānjiā zhǐchū, zhè shìyīnwèi nánxìng jīngcháng yǐ “Dōngxi miǎnqiǎng kěyòng jiù búbì xiūlǐ” de xīntài lái miànduì jiànkāng wèntí, jíshǐ shēntǐ yǒu xiǎo bìngtòng yě kèyì hūlüè, hàipà yī qù kàn yīshī jiù huì fāxiàn xǔduō máobìng, huòzhě jiùcǐ bìxū zhōngshēng chīyào dùrì.",
+     "en": "Experts point out that this is because men often face health problems with the attitude \"if something still more or less works, there's no need to fix it.\" Even when they have minor ailments they deliberately ignore them, afraid that a visit to the doctor will uncover many problems, or that they'll then have to take medicine for the rest of their lives."
     },
     {
      "zh": "壽命長短男女有別，這其中包含了許多如遺傳或體質方面等先天因素。",
-     "py": "Shòumìng chángduǎn nánnǚyǒubié, zhè qízhōng bāohán le xǔduō rú yíchuán huò tǐzhì fāngmiàn děng xiāntiān yīnsù."
+     "py": "Shòumìng chángduǎn nánnǚyǒubié, zhè qízhōng bāohán le xǔduō rú yíchuán huò tǐzhì fāngmiàn děng xiāntiān yīnsù.",
+     "en": "Life expectancy differs between men and women, and this includes many innate factors such as heredity and constitution."
     },
     {
      "zh": "但許多專家認為，與其說這種差距與男性基因有關，倒不如說與男人對健康的態度有關。",
-     "py": "Dàn xǔduō zhuānjiā rènwéi, yǔqíshuō zhèzhǒng chājù yǔ nánxìng jīyīn yǒuguān, dàobùrúshuō yǔ nánrén duì jiànkāng de tàidù yǒuguān."
+     "py": "Dàn xǔduō zhuānjiā rènwéi, yǔqíshuō zhèzhǒng chājù yǔ nánxìng jīyīn yǒuguān, dàobùrúshuō yǔ nánrén duì jiànkāng de tàidù yǒuguān.",
+     "en": "But many experts believe that rather than saying this gap is related to men's genes, it would be better to say it's related to men's attitude toward health."
     }
    ],
    "stem": {
     "zh": "根據本文，男人不願意看醫師的原因是什麼？",
-    "py": "Gēnjù běnwén, nánrén bù yuànyì kàn yīshī de yuányīn shì shénme?"
+    "py": "Gēnjù běnwén, nánrén bù yuànyì kàn yīshī de yuányīn shì shénme?",
+    "en": "According to the article, why are men unwilling to see a doctor?"
    },
    "options": {
     "A": {
      "zh": "沒有時間",
-     "py": "Méiyǒu shíjiān"
+     "py": "Méiyǒu shíjiān",
+     "en": "(A) They have no time."
     },
     "B": {
      "zh": "身體一直都很健康",
-     "py": "Shēntǐ yìzhí dōu hěn jiànkāng"
+     "py": "Shēntǐ yìzhí dōu hěn jiànkāng",
+     "en": "(B) They have always been very healthy."
     },
     "C": {
      "zh": "怕檢查出不少毛病",
-     "py": "Pà jiǎnchá chū bùshǎo máobìng"
+     "py": "Pà jiǎnchá chū bùshǎo máobìng",
+     "en": "(C) They're afraid many problems will be found."
     },
     "D": {
      "zh": "認為醫生只能發現小毛病",
-     "py": "Rènwéi yīshēng zhǐnéng fāxiàn xiǎomáobìng"
+     "py": "Rènwéi yīshēng zhǐnéng fāxiàn xiǎomáobìng",
+     "en": "(D) They think doctors can only find minor problems."
     }
    }
   },
   "17": {
    "stem": {
     "zh": "專家認為男人比女人短命主要是因為什麼？",
-    "py": "Zhuānjiā rènwéi nánrén bǐ nǚrén duǎnmìng zhǔyào shìyīnwèi shénme?"
+    "py": "Zhuānjiā rènwéi nánrén bǐ nǚrén duǎnmìng zhǔyào shìyīnwèi shénme?",
+    "en": "What do experts think is the main reason men die younger than women?"
    },
    "options": {
     "A": {
      "zh": "不重視健康",
-     "py": "Bù zhòngshì jiànkāng"
+     "py": "Bù zhòngshì jiànkāng",
+     "en": "(A) They don't value their health."
     },
     "B": {
      "zh": "與基因有關",
-     "py": "Yǔ jīyīn yǒuguān"
+     "py": "Yǔ jīyīn yǒuguān",
+     "en": "(B) It's related to genes."
     },
     "C": {
      "zh": "工作壓力大",
-     "py": "Gōngzuò yālì dà"
+     "py": "Gōngzuò yālì dà",
+     "en": "(C) Work stress is high."
     },
     "D": {
      "zh": "抵抗力較弱",
-     "py": "Dǐkànglì jiàoruò"
+     "py": "Dǐkànglì jiàoruò",
+     "en": "(D) Their resistance is weaker."
     }
    }
   },
@@ -455,101 +548,123 @@
    "passage": [
     {
      "zh": "（二）",
-     "py": "(Èr)"
+     "py": "(Èr)",
+     "en": "(2)"
     },
     {
      "zh": "有一種鳥叫蜂鳥，是鳥類中最小的鳥，只有拇指大小。",
-     "py": "Yǒu yìzhǒng niǎojiào fēngniǎo, shì niǎolèi zhōng zuìxiǎo de niǎo, zhǐyǒu mǔzhǐ dàxiǎo."
+     "py": "Yǒu yìzhǒng niǎojiào fēngniǎo, shì niǎolèi zhōng zuìxiǎo de niǎo, zhǐyǒu mǔzhǐ dàxiǎo.",
+     "en": "There is a bird called the hummingbird, the smallest of all birds—only the size of a thumb."
     },
     {
      "zh": "這種鳥嘴型細長，專吃花蜜和花上的小昆蟲，產於南美洲，整日盤旋於仙人掌等幾種花間，也許營養太單調，總也吃不大、飛不高。",
-     "py": "Zhèzhǒng niǎozuǐ xíng xìcháng, zhuān chī huāmì Héhuā shàng de xiǎo kūnchóng, chǎnyú Nánměizhōu, zhěngrì pánxuán yú xiānrénzhǎng děng jǐzhǒng huājiān, yěxǔ yíngyǎng tài dāndiào, zǒng yě chī búdà, fēi bù gāo."
+     "py": "Zhèzhǒng niǎozuǐ xíng xìcháng, zhuān chī huāmì Héhuā shàng de xiǎo kūnchóng, chǎnyú Nánměizhōu, zhěngrì pánxuán yú xiānrénzhǎng děng jǐzhǒng huājiān, yěxǔ yíngyǎng tài dāndiào, zǒng yě chī búdà, fēi bù gāo.",
+     "en": "This bird has a long thin beak and feeds only on nectar and small insects on flowers. It comes from South America and hovers all day among a few kinds of flowers such as cactus flowers; perhaps because its diet is too monotonous, it never grows big or flies high."
     },
     {
      "zh": "而有些人讀書做學問的方式，和蜂鳥很相似。",
-     "py": "Ér yǒuxiē rén dúshū zuòxuéwèn de fāngshì, hé fēngniǎo hěn xiāngsì."
+     "py": "Ér yǒuxiē rén dúshū zuòxuéwèn de fāngshì, hé fēngniǎo hěn xiāngsì.",
+     "en": "The way some people study and pursue learning is very similar to the hummingbird."
     },
     {
      "zh": "這些人愛讀書，卻不大會讀書，往往成為書的奴僕，他們埋進書堆，一心只讀自己的書，任天塌下來也不管。",
-     "py": "Zhèxiē rén ài dúshū, què bù dàhuì dúshū, wǎngwǎng chéngwéi shū de núpú, tāmen máijìn shūduī, yìxīn zhǐdú zìjǐ de shū, rèn tiāntāxiàlái yě bùguǎn."
+     "py": "Zhèxiē rén ài dúshū, què bù dàhuì dúshū, wǎngwǎng chéngwéi shū de núpú, tāmen máijìn shūduī, yìxīn zhǐdú zìjǐ de shū, rèn tiāntāxiàlái yě bùguǎn.",
+     "en": "These people love reading but aren't good at reading; they often become slaves of books. They bury themselves in piles of books, single-mindedly reading only their own books, not caring even if the sky falls."
     },
     {
      "zh": "這些人埋頭苦讀，精神可嘉，本無可厚非，然而令人擔心的是鑽進象牙塔出不來。",
-     "py": "Zhèxiē rén máitóu kǔdú, Jīngshénkějiā, běn wúkěhòufēi, ránér lìngréndānxīn de shì zuānjìn Xiàngyátǎ chūbùlái."
+     "py": "Zhèxiē rén máitóu kǔdú, Jīngshénkějiā, běn wúkěhòufēi, ránér lìngréndānxīn de shì zuānjìn Xiàngyátǎ chūbùlái.",
+     "en": "Their dedication to study is admirable and beyond reproach, but the worrying thing is that they burrow into an ivory tower and can't get out."
     },
     {
      "zh": "讀書就像吃飯，不可偏食，印刷的書籍要讀，人生這本大書更得讀。",
-     "py": "Dúshū jiù xiàng chīfàn, bùkě piānshí, yìnshuā de shūjí yàodú, rénshēng zhèběn dàshū gèng dédú."
+     "py": "Dúshū jiù xiàng chīfàn, bùkě piānshí, yìnshuā de shūjí yàodú, rénshēng zhèběn dàshū gèng dédú.",
+     "en": "Reading is like eating: you mustn't be a picky eater. Printed books should be read, and even more the great book of life."
     }
    ],
    "stem": {
     "zh": "作者用蜂鳥來比喻哪一種人？",
-    "py": "Zuòzhě yòng fēngniǎo lái bǐyù nǎ yìzhǒng rén?"
+    "py": "Zuòzhě yòng fēngniǎo lái bǐyù nǎ yìzhǒng rén?",
+    "en": "What kind of person does the author compare to the hummingbird?"
    },
    "options": {
     "A": {
      "zh": "不讀書的人",
-     "py": "Bù dúshū de rén"
+     "py": "Bù dúshū de rén",
+     "en": "(A) People who don't read"
     },
     "B": {
      "zh": "只知讀書的人",
-     "py": "Zhǐ zhī dúshū de rén"
+     "py": "Zhǐ zhī dúshū de rén",
+     "en": "(B) People who only know how to read books"
     },
     "C": {
      "zh": "書讀得少的人",
-     "py": "Shū dú dé shǎo de rén"
+     "py": "Shū dú dé shǎo de rén",
+     "en": "(C) People who've read few books"
     },
     "D": {
      "zh": "假裝讀書的人",
-     "py": "Jiǎzhuāng dúshū de rén"
+     "py": "Jiǎzhuāng dúshū de rén",
+     "en": "(D) People who pretend to read"
     }
    }
   },
   "19": {
    "stem": {
     "zh": "作者說，像蜂鳥的人有什麼問題？",
-    "py": "Zuòzhě shuō, xiàng fēngniǎo de rén yǒu shénme wèntí?"
+    "py": "Zuòzhě shuō, xiàng fēngniǎo de rén yǒu shénme wèntí?",
+    "en": "According to the author, what is the problem with people like the hummingbird?"
    },
    "options": {
     "A": {
      "zh": "不夠專精",
-     "py": "Búgòu zhuānjīng"
+     "py": "Búgòu zhuānjīng",
+     "en": "(A) They're not specialized enough."
     },
     "B": {
      "zh": "不夠認真",
-     "py": "Búgòu rènzhēn"
+     "py": "Búgòu rènzhēn",
+     "en": "(B) They're not serious enough."
     },
     "C": {
      "zh": "不關心世事",
-     "py": "Bù guānxīn shìshì"
+     "py": "Bù guānxīn shìshì",
+     "en": "(C) They don't care about the world."
     },
     "D": {
      "zh": "不在乎品德",
-     "py": "Búzàihū pǐndé"
+     "py": "Búzàihū pǐndé",
+     "en": "(D) They don't care about morality."
     }
    }
   },
   "20": {
    "stem": {
     "zh": "作者對於讀書有什麼看法？",
-    "py": "Zuòzhě duìyú dúshū yǒu shénme kànfǎ?"
+    "py": "Zuòzhě duìyú dúshū yǒu shénme kànfǎ?",
+    "en": "What is the author's view on reading?"
    },
    "options": {
     "A": {
      "zh": "人生不必讀很多書",
-     "py": "Rénshēng bù bìdú hěnduō shū"
+     "py": "Rénshēng bù bìdú hěnduō shū",
+     "en": "(A) You don't need to read many books in life."
     },
     "B": {
      "zh": "吃飯比讀書更為重要",
-     "py": "Chīfàn bǐ dúshū gèngwéizhòngyào"
+     "py": "Chīfàn bǐ dúshū gèngwéizhòngyào",
+     "en": "(B) Eating is more important than reading."
     },
     "C": {
      "zh": "讀書不應受到世事干擾",
-     "py": "Dúshū bù yīng shòudào shìshì gānrǎo"
+     "py": "Dúshū bù yīng shòudào shìshì gānrǎo",
+     "en": "(C) Reading shouldn't be disturbed by worldly affairs."
     },
     "D": {
      "zh": "吸收知識不應該只限於書本",
-     "py": "Xīshōu zhīshí bù yīnggāi zhǐ xiànyú shūběn"
+     "py": "Xīshōu zhīshí bù yīnggāi zhǐ xiànyú shūběn",
+     "en": "(D) Taking in knowledge shouldn't be limited to books."
     }
    }
   },
@@ -557,101 +672,123 @@
    "passage": [
     {
      "zh": "（三）",
-     "py": "(Sān)"
+     "py": "(Sān)",
+     "en": "(3)"
     },
     {
      "zh": "上廁所該用什麼樣的衛生紙呢？",
-     "py": "Shàng cèsuǒ gāi yòng shénmeyàng de wèishēngzhǐ ne?"
+     "py": "Shàng cèsuǒ gāi yòng shénmeyàng de wèishēngzhǐ ne?",
+     "en": "What kind of toilet paper should we use?"
     },
     {
      "zh": "說起來只是小事一樁，對環境而言卻有莫大的影響。",
-     "py": "Shuō qǐlái zhǐshì xiǎoshìyìzhuāng, duì huánjìng éryán què yǒu Mòdà de yǐngxiǎng."
+     "py": "Shuō qǐlái zhǐshì xiǎoshìyìzhuāng, duì huánjìng éryán què yǒu Mòdà de yǐngxiǎng.",
+     "en": "It sounds like a trivial matter, but it has an enormous impact on the environment."
     },
     {
      "zh": "環保專家指出，超柔軟衛生紙儘管用起來舒服，對環境的破壞卻更甚於耗油的汽車或垃圾食物。",
-     "py": "Huánbǎo zhuānjiā zhǐchū, chāo róuruǎn wèishēngzhǐ jǐnguǎn yòng qǐlái shūfú, duì huánjìng de pòhuài què gèng shényú hàoyóu de qìchē huò lājī shíwù."
+     "py": "Huánbǎo zhuānjiā zhǐchū, chāo róuruǎn wèishēngzhǐ jǐnguǎn yòng qǐlái shūfú, duì huánjìng de pòhuài què gèng shényú hàoyóu de qìchē huò lājī shíwù.",
+     "en": "Environmental experts point out that although ultra-soft toilet paper is comfortable to use, it does even more damage to the environment than gas-guzzling cars or junk food."
     },
     {
      "zh": "由於原始木材的長纖維較易展開且膨鬆，易於製造非常柔軟的衛生紙，因此市面上出售的超柔軟衛生紙大多來自原始森林，再加上紙漿製造過程會使用大量的化學藥品，人們若經常使用這類衛生紙，得付出很大的環境成本。",
-     "py": "Yóuyú yuánshǐ mùcái de zhǎng xiānwéi jiàoyì zhǎnkāi qiě péngsōng, yìyú zhìzào fēicháng róuruǎn de wèishēngzhǐ, yīncǐ shìmiànshàng chūshòu de chāo róuruǎn wèishēngzhǐ dàduō láizì Yuánshǐsēnlín, zài jiāshàng zhǐjiāng zhìzào guòchéng huì shǐyòng dàliàng de huàxuéyàopǐn, rénmen ruò jīngcháng shǐyòng zhè lèi wèishēngzhǐ, dé fùchū hěndà de huánjìng chéngběn."
+     "py": "Yóuyú yuánshǐ mùcái de zhǎng xiānwéi jiàoyì zhǎnkāi qiě péngsōng, yìyú zhìzào fēicháng róuruǎn de wèishēngzhǐ, yīncǐ shìmiànshàng chūshòu de chāo róuruǎn wèishēngzhǐ dàduō láizì Yuánshǐsēnlín, zài jiāshàng zhǐjiāng zhìzào guòchéng huì shǐyòng dàliàng de huàxuéyàopǐn, rénmen ruò jīngcháng shǐyòng zhè lèi wèishēngzhǐ, dé fùchū hěndà de huánjìng chéngběn.",
+     "en": "Because the long fibers of virgin wood spread out and fluff up more easily, making very soft toilet paper easy to produce, most ultra-soft toilet paper on the market comes from old-growth forests. On top of that, the pulping process uses large amounts of chemicals, so if people regularly use this kind of toilet paper, a heavy environmental cost must be paid."
     },
     {
      "zh": "其實在歐洲及拉丁美洲，有不少廠商會以回收木材來製造衛生紙，但許多人仍認為用回收品做出的衛生紙品質差、硬如紙板、難以使用，甚至會損傷肌膚，其實這是一種迷思。",
-     "py": "Qíshí zài Ōuzhōu jí Lādīngměizhōu, yǒu bùshǎo chǎngshānghuì yǐ huíshōu mùcái lái zhìzào wèishēngzhǐ, dàn xǔduō rén réng rènwéi yòng huíshōu pǐn zuòchū de wèishēngzhǐ pǐnzhì chà, yìngrú zhǐbǎn, nányǐshǐyòng, shènzhì huì sǔnshāng jīfū, qíshí zhè shì yìzhǒng mísī."
+     "py": "Qíshí zài Ōuzhōu jí Lādīngměizhōu, yǒu bùshǎo chǎngshānghuì yǐ huíshōu mùcái lái zhìzào wèishēngzhǐ, dàn xǔduō rén réng rènwéi yòng huíshōu pǐn zuòchū de wèishēngzhǐ pǐnzhì chà, yìngrú zhǐbǎn, nányǐshǐyòng, shènzhì huì sǔnshāng jīfū, qíshí zhè shì yìzhǒng mísī.",
+     "en": "In fact, in Europe and Latin America many manufacturers make toilet paper from recycled wood, but many people still think toilet paper made from recycled material is poor quality, as hard as cardboard, hard to use and may even damage the skin. In fact this is a myth."
     },
     {
      "zh": "綠色和平組織已發出文宣來抵制紙業公司所宣傳的超柔軟衛生紙，呼籲人們重視衛生紙產品的選擇，畢竟，人們每次使用衛生紙的時間可能只有三秒鐘，實在沒有必要為了所謂的舒適感而犧牲珍貴的生態環境。",
-     "py": "Lǜsè Hépíng zǔzhī yǐ fāchū Wénxuānlái dǐzhì zhǐyègōngsī suǒ xuānchuán de chāo róuruǎn wèishēngzhǐ, hūyù rénmen zhòngshì wèishēngzhǐ chǎnpǐn de xuǎnzé, bìjìng, rénmen měicì shǐyòng wèishēngzhǐ de shíjiān kěnéng zhǐyǒu sānmiǎozhōng, shízài méiyǒu bìyào wèile suǒwèi de Shūshìgǎn ér xīshēng zhēnguì de shēngtàihuánjìng."
+     "py": "Lǜsè Hépíng zǔzhī yǐ fāchū Wénxuānlái dǐzhì zhǐyègōngsī suǒ xuānchuán de chāo róuruǎn wèishēngzhǐ, hūyù rénmen zhòngshì wèishēngzhǐ chǎnpǐn de xuǎnzé, bìjìng, rénmen měicì shǐyòng wèishēngzhǐ de shíjiān kěnéng zhǐyǒu sānmiǎozhōng, shízài méiyǒu bìyào wèile suǒwèi de Shūshìgǎn ér xīshēng zhēnguì de shēngtàihuánjìng.",
+     "en": "Greenpeace has issued publicity material to boycott the ultra-soft toilet paper promoted by paper companies, calling on people to pay attention to their choice of toilet paper products. After all, each time people use toilet paper may be only three seconds; there is really no need to sacrifice the precious ecological environment for so-called comfort."
     }
    ],
    "stem": {
     "zh": "作者建議消費者在購買衛生紙時，考量哪個因素？",
-    "py": "Zuòzhě jiànyì xiāofèizhě zài gòumǎi wèishēngzhǐ shí, kǎoliáng nǎ ge yīnsù?"
+    "py": "Zuòzhě jiànyì xiāofèizhě zài gòumǎi wèishēngzhǐ shí, kǎoliáng nǎ ge yīnsù?",
+    "en": "Which factor does the author suggest consumers consider when buying toilet paper?"
    },
    "options": {
     "A": {
      "zh": "原料",
-     "py": "Yuánliào"
+     "py": "Yuánliào",
+     "en": "(A) Raw materials"
     },
     "B": {
      "zh": "價格",
-     "py": "Jiàgé"
+     "py": "Jiàgé",
+     "en": "(B) Price"
     },
     "C": {
      "zh": "質感",
-     "py": "Zhìgǎn"
+     "py": "Zhìgǎn",
+     "en": "(C) Texture"
     },
     "D": {
      "zh": "廠牌",
-     "py": "Chǎngpái"
+     "py": "Chǎngpái",
+     "en": "(D) Brand"
     }
    }
   },
   "22": {
    "stem": {
     "zh": "本文第二段第三行所提到的「迷思」 ，指的是什麼？",
-    "py": "Běnwén dìèrduàn dìsānxíng suǒ tídào de “Mísī”, zhǐ de shì shénme?"
+    "py": "Běnwén dìèrduàn dìsānxíng suǒ tídào de “Mísī”, zhǐ de shì shénme?",
+    "en": "What does the \"myth\" mentioned in line 3 of the second paragraph refer to?"
    },
    "options": {
     "A": {
      "zh": "使用衛生紙對人體有害",
-     "py": "Shǐyòng wèishēngzhǐ duì réntǐ yǒuhài"
+     "py": "Shǐyòng wèishēngzhǐ duì réntǐ yǒuhài",
+     "en": "(A) Using toilet paper is harmful to the body."
     },
     "B": {
      "zh": "使用衛生紙不會破壞環境",
-     "py": "Shǐyòng wèishēngzhǐ búhuì pòhuài huánjìng"
+     "py": "Shǐyòng wèishēngzhǐ búhuì pòhuài huánjìng",
+     "en": "(B) Using toilet paper doesn't damage the environment."
     },
     "C": {
      "zh": "用回收材料製作的衛生紙不好用",
-     "py": "Yòng huíshōu cáiliào zhìzuò de wèishēngzhǐ bùhǎo yòng"
+     "py": "Yòng huíshōu cáiliào zhìzuò de wèishēngzhǐ bùhǎo yòng",
+     "en": "(C) Toilet paper made from recycled material isn't nice to use."
     },
     "D": {
      "zh": "來自歐洲或拉丁美洲的產品比較好",
-     "py": "Láizì Ōuzhōu huò Lādīngměizhōu de chǎnpǐn bǐjiào hǎo"
+     "py": "Láizì Ōuzhōu huò Lādīngměizhōu de chǎnpǐn bǐjiào hǎo",
+     "en": "(D) Products from Europe or Latin America are better."
     }
    }
   },
   "23": {
    "stem": {
     "zh": "本文主要在說什麼？",
-    "py": "Běnwén zhǔyào zài shuō shénme?"
+    "py": "Běnwén zhǔyào zài shuō shénme?",
+    "en": "What is this article mainly about?"
    },
    "options": {
     "A": {
      "zh": "建議人們停止使用衛生紙",
-     "py": "Jiànyì rénmen tíngzhǐshǐyòng wèishēngzhǐ"
+     "py": "Jiànyì rénmen tíngzhǐshǐyòng wèishēngzhǐ",
+     "en": "(A) Suggesting people stop using toilet paper"
     },
     "B": {
      "zh": "主張回收使用後的衛生紙",
-     "py": "Zhǔzhāng huíshōu shǐyòng hòu de wèishēngzhǐ"
+     "py": "Zhǔzhāng huíshōu shǐyòng hòu de wèishēngzhǐ",
+     "en": "(B) Advocating recycling used toilet paper"
     },
     "C": {
      "zh": "如何改善衛生紙的柔軟度",
-     "py": "Rúhé gǎishàn wèishēngzhǐ de róuruǎndù"
+     "py": "Rúhé gǎishàn wèishēngzhǐ de róuruǎndù",
+     "en": "(C) How to improve the softness of toilet paper"
     },
     "D": {
      "zh": "指出什麼才是環保的衛生紙",
-     "py": "Zhǐchū shénme cái shì huánbǎo de wèishēngzhǐ"
+     "py": "Zhǐchū shénme cái shì huánbǎo de wèishēngzhǐ",
+     "en": "(D) Pointing out what kind of toilet paper is environmentally friendly"
     }
    }
   },
@@ -659,165 +796,202 @@
    "passage": [
     {
      "zh": "（四）",
-     "py": "(Sì)"
+     "py": "(Sì)",
+     "en": "(4)"
     },
     {
      "zh": "自兩億多年前的侏儸紀之初，體型巨大就是陸生動物的普遍特點。",
-     "py": "Zì liǎngyìduōnián qián de zhū luó Jìzhīchū, tǐxíng jùdà jiùshì lùshēngdòngwù de pǔbiàn tèdiǎn."
+     "py": "Zì liǎngyìduōnián qián de zhū luó Jìzhīchū, tǐxíng jùdà jiùshì lùshēngdòngwù de pǔbiàn tèdiǎn.",
+     "en": "Since the beginning of the Jurassic period more than two hundred million years ago, huge size has been a common feature of land animals."
     },
     {
      "zh": "動物為什麼要長成巨無霸呢？",
-     "py": "Dòngwù wèishénme yào zhǎngchéng Jùwúbà ne?"
+     "py": "Dòngwù wèishénme yào zhǎngchéng Jùwúbà ne?",
+     "en": "Why do animals grow into giants?"
     },
     {
      "zh": "有些理由是顯而易見的：身軀愈大愈不易被獵殺，而且還利於撲殺獵物。",
-     "py": "Yǒuxiē lǐyóu shì xiǎnéryìjiàn de: Shēnqū yùdàyù búyì bèi lièshā, érqiě hái lìyú pūshā lièwù."
+     "py": "Yǒuxiē lǐyóu shì xiǎnéryìjiàn de: Shēnqū yùdàyù búyì bèi lièshā, érqiě hái lìyú pūshā lièwù.",
+     "en": "Some reasons are obvious: the bigger the body, the harder it is to be hunted, and it also helps in killing prey."
     },
     {
      "zh": "例如羚羊很容易淪為獅子、土狼和獵犬的獵物；",
-     "py": "Lìrú língyáng hěn róngyì lúnwèi shīzi, tǔláng hé lièquǎn de lièwù;"
+     "py": "Lìrú língyáng hěn róngyì lúnwèi shīzi, tǔláng hé lièquǎn de lièwù;",
+     "en": "For example, antelopes easily fall prey to lions, hyenas and hunting dogs;"
     },
     {
      "zh": "但成象及犀牛則幾乎不受威脅，牠們的子女也因父母體型巨大而得到保護。",
-     "py": "Dàn chéngxiàng jí xīniú zé jīhū bù shòu wēixié, tā men de zǐnǚ yě yīn fùmǔ tǐxíng jùdà ér dédào bǎohù."
+     "py": "Dàn chéngxiàng jí xīniú zé jīhū bù shòu wēixié, tā men de zǐnǚ yě yīn fùmǔ tǐxíng jùdà ér dédào bǎohù.",
+     "en": "but adult elephants and rhinos are almost never threatened, and their young are also protected by their parents' huge size."
     },
     {
      "zh": "對草食動物來說，長得巨大表示「高人一等」，可以吃到更高處的樹葉。",
-     "py": "Duì cǎoshídòngwù láishuō, zhǎng dé jùdà biǎoshì “Gāorényìděng”, kěyǐ chīdào gèng gāochù de shùyè."
+     "py": "Duì cǎoshídòngwù láishuō, zhǎng dé jùdà biǎoshì “Gāorényìděng”, kěyǐ chīdào gèng gāochù de shùyè.",
+     "en": "For herbivores, growing huge means being \"a head taller than others,\" able to eat leaves higher up."
     },
     {
      "zh": "長頸鹿及大象就有長到五公尺高的，而大象尚可利用龐大的身軀推倒高樹。",
-     "py": "Chángjǐnglù jí dàxiàng jiù yǒu zhǎng dào wǔ gōngchǐ gāo de, ér dàxiàng shàngkě lìyòng pángdà de shēnqū tuīdào gāoshù."
+     "py": "Chángjǐnglù jí dàxiàng jiù yǒu zhǎng dào wǔ gōngchǐ gāo de, ér dàxiàng shàngkě lìyòng pángdà de shēnqū tuīdào gāoshù.",
+     "en": "Giraffes and elephants can grow up to five meters tall, and elephants can also use their massive bodies to push over tall trees."
     },
     {
      "zh": "其他重要卻不明顯的理由有：運動消耗的能量會隨體型增大而減少，故一隻五公噸重的大象走一公里路所消耗的能量，比一群總重五公噸的瞪羚走同樣路程要少很多。",
-     "py": "Qítā zhòngyào què bù míngxiǎn de lǐyóu yǒu: Yùndòng xiāohào de néngliàng huì suí tǐxíng zēngdà ér jiǎnshǎo, gù yìzhī wǔ gōngdūn zhòng de dàxiàng zǒu yī gōnglǐ lù suǒ xiāohào de néngliàng, bǐ yìqún zǒng zhòngwǔ gōngdūn de dèng língzǒu tóngyàng lùchéng yào shǎo hěnduō."
+     "py": "Qítā zhòngyào què bù míngxiǎn de lǐyóu yǒu: Yùndòng xiāohào de néngliàng huì suí tǐxíng zēngdà ér jiǎnshǎo, gù yìzhī wǔ gōngdūn zhòng de dàxiàng zǒu yī gōnglǐ lù suǒ xiāohào de néngliàng, bǐ yìqún zǒng zhòngwǔ gōngdūn de dèng língzǒu tóngyàng lùchéng yào shǎo hěnduō.",
+     "en": "Other important but less obvious reasons are: the energy used in movement decreases as body size increases, so a five-ton elephant walking one kilometer uses much less energy than a herd of gazelles weighing five tons in total walking the same distance."
     },
     {
      "zh": "此外，新陳代謝率也會隨體型增大而降低。",
-     "py": "Cǐwài, xīnchéndàixiè lǜ yě huì suí tǐxíng zēngdà ér jiàngdī."
+     "py": "Cǐwài, xīnchéndàixiè lǜ yě huì suí tǐxíng zēngdà ér jiàngdī.",
+     "en": "In addition, metabolic rate also falls as body size increases."
     },
     {
      "zh": "這就是為什麼鼩鼱每天都得吞入超過其體重的食物，而大象只需吃進占體重 5％的食物便足矣。",
-     "py": "Zhè jiùshì wèishénme qú jīng měitiān dōu dé tūnrù chāoguò qí tǐzhòng de shíwù, ér dàxiàng zhǐ xū chī jìnzhàn tǐzhòng 5 ％ de shíwù biàn zúyǐ."
+     "py": "Zhè jiùshì wèishénme qú jīng měitiān dōu dé tūnrù chāoguò qí tǐzhòng de shíwù, ér dàxiàng zhǐ xū chī jìnzhàn tǐzhòng 5 ％ de shíwù biàn zúyǐ.",
+     "en": "This is why a shrew has to eat more than its body weight in food every day, while an elephant needs only food equal to 5% of its body weight."
     },
     {
      "zh": "不僅如此，龐大的身體也具有像隔熱板一樣的保溫作用，讓動物不受環境劇烈溫差的影響。",
-     "py": "Bùjǐnrúcǐ, pángdà de shēntǐ yě jùyǒu xiàng gérèbǎn yíyàng de bǎowēn zuòyòng, ràng dòngwù bù shòu huánjìng jùliè wēnchà de yǐngxiǎng."
+     "py": "Bùjǐnrúcǐ, pángdà de shēntǐ yě jùyǒu xiàng gérèbǎn yíyàng de bǎowēn zuòyòng, ràng dòngwù bù shòu huánjìng jùliè wēnchà de yǐngxiǎng.",
+     "en": "Not only that, a massive body also keeps warm like a heat shield, protecting the animal from sharp swings in environmental temperature."
     },
     {
      "zh": "不過，長得巨大也是有害處的。",
-     "py": "Búguò, zhǎng dé jùdà yě shì yǒu hàichù de."
+     "py": "Búguò, zhǎng dé jùdà yě shì yǒu hàichù de.",
+     "en": "However, growing huge also has drawbacks."
     },
     {
      "zh": "因為大的動物吃得多，其總數自然有限。",
-     "py": "Yīnwèi dà de dòngwù chī dé duō, qí zǒngshù zìrán yǒuxiàn."
+     "py": "Yīnwèi dà de dòngwù chī dé duō, qí zǒngshù zìrán yǒuxiàn.",
+     "en": "Because big animals eat a lot, their total numbers are naturally limited."
     },
     {
      "zh": "非洲的大象及犀牛數目，在人類獵捕之前也不過是以百萬計；",
-     "py": "Fēizhōu de dàxiàng jí xīniú shùmù, zài rénlèi lièbǔ zhīqián yě búguò shì yǐ bǎiwànjì;"
+     "py": "Fēizhōu de dàxiàng jí xīniú shùmù, zài rénlèi lièbǔ zhīqián yě búguò shì yǐ bǎiwànjì;",
+     "en": "Before humans hunted them, African elephants and rhinos numbered only in the millions;"
     },
     {
      "zh": "相對地，齧齒類動物的數量則不知有幾十億。",
-     "py": "Xiāngduì dì, nièchǐlèidòngwù de shùliàng zé bùzhī yǒu jǐshíyì."
+     "py": "Xiāngduì dì, nièchǐlèidòngwù de shùliàng zé bùzhī yǒu jǐshíyì.",
+     "en": "by contrast, rodents number who knows how many billions."
     },
     {
      "zh": "此外，小動物鑽地洞、上樹、飛天等動作，龐然大物也很難望其項背。",
-     "py": "Cǐwài, xiǎo dòngwù zuān dìdòng, shàng shù, fēitiān děng dòngzuò, pángrándàwù yě hěn nán wàngqíxiàngbèi."
+     "py": "Cǐwài, xiǎo dòngwù zuān dìdòng, shàng shù, fēitiān děng dòngzuò, pángrándàwù yě hěn nán wàngqíxiàngbèi.",
+     "en": "In addition, giants can hardly match small animals at burrowing, climbing trees or flying."
     }
    ],
    "stem": {
     "zh": "第一段提到下面哪一件事？",
-    "py": "Dìyíduàn tídào xiàmiàn nǎ yíjiàn shì?"
+    "py": "Dìyíduàn tídào xiàmiàn nǎ yíjiàn shì?",
+    "en": "Which of the following is mentioned in the first paragraph?"
    },
    "options": {
     "A": {
      "zh": "體型大有助於草食動物覓食",
-     "py": "Tǐxíng dà yǒuzhùyú cǎoshídòngwù mìshí"
+     "py": "Tǐxíng dà yǒuzhùyú cǎoshídòngwù mìshí",
+     "en": "(A) Large size helps herbivores find food."
     },
     "B": {
      "zh": "草食動物絕大多數是大型動物",
-     "py": "Cǎoshídòngwù juédàduōshù shì dàxíng dòngwù"
+     "py": "Cǎoshídòngwù juédàduōshù shì dàxíng dòngwù",
+     "en": "(B) The vast majority of herbivores are large animals."
     },
     "C": {
      "zh": "幼小的大象或犀牛最容易受攻擊",
-     "py": "Yòuxiǎo de dàxiàng huò xīniú zuì róngyì shòu gōngjī"
+     "py": "Yòuxiǎo de dàxiàng huò xīniú zuì róngyì shòu gōngjī",
+     "en": "(C) Young elephants or rhinos are the most easily attacked."
     },
     "D": {
      "zh": "獅子、土狼等也會攻擊大型動物",
-     "py": "Shīzi, tǔláng děng yě huì gōngjī dàxíng dòngwù"
+     "py": "Shīzi, tǔláng děng yě huì gōngjī dàxíng dòngwù",
+     "en": "(D) Lions, hyenas and others also attack large animals."
     }
    }
   },
   "25": {
    "stem": {
     "zh": "第一段為什麼提到羚羊？",
-    "py": "Dìyíduàn wèishénme tídào língyáng?"
+    "py": "Dìyíduàn wèishénme tídào língyáng?",
+    "en": "Why does the first paragraph mention antelopes?"
    },
    "options": {
     "A": {
      "zh": "因為牠是大型動物的主食",
-     "py": "Yīnwèi tā shì dàxíng dòngwù de zhǔshí"
+     "py": "Yīnwèi tā shì dàxíng dòngwù de zhǔshí",
+     "en": "(A) Because they're the staple food of large animals"
     },
     "B": {
      "zh": "說明小型動物容易被追殺",
-     "py": "Shuōmíng xiǎoxíng dòngwù róngyì bèi zhuīshā"
+     "py": "Shuōmíng xiǎoxíng dòngwù róngyì bèi zhuīshā",
+     "en": "(B) To show that small animals are easily hunted"
     },
     "C": {
      "zh": "強調大型動物行動比較不方便",
-     "py": "Qiángdiào dàxíng dòngwù xíngdòng bǐjiào bù fāngbiàn"
+     "py": "Qiángdiào dàxíng dòngwù xíngdòng bǐjiào bù fāngbiàn",
+     "en": "(C) To stress that large animals move less easily"
     },
     "D": {
      "zh": "指出大型動物多半是草食性動物",
-     "py": "Zhǐchū dàxíng dòngwù duōbàn shì cǎoshíxìng dòngwù"
+     "py": "Zhǐchū dàxíng dòngwù duōbàn shì cǎoshíxìng dòngwù",
+     "en": "(D) To point out that most large animals are herbivores"
     }
    }
   },
   "26": {
    "stem": {
     "zh": "根據第二段，體型巨大對動物有什麼影響？",
-    "py": "Gēnjù dìèrduàn, tǐxíng jùdà duì dòngwù yǒu shénme yǐngxiǎng?"
+    "py": "Gēnjù dìèrduàn, tǐxíng jùdà duì dòngwù yǒu shénme yǐngxiǎng?",
+    "en": "According to the second paragraph, what effect does huge size have on animals?"
    },
    "options": {
     "A": {
      "zh": "增加新陳代謝",
-     "py": "Zēngjiā xīnchéndàixiè"
+     "py": "Zēngjiā xīnchéndàixiè",
+     "en": "(A) It increases metabolism."
     },
     "B": {
      "zh": "快速消耗能量",
-     "py": "Kuàisù xiāohào néngliàng"
+     "py": "Kuàisù xiāohào néngliàng",
+     "en": "(B) It uses energy quickly."
     },
     "C": {
      "zh": "具有保溫功能",
-     "py": "Jùyǒu bǎowēn gōngnéng"
+     "py": "Jùyǒu bǎowēn gōngnéng",
+     "en": "(C) It keeps them warm."
     },
     "D": {
      "zh": "必須攝取和身體等重的食物",
-     "py": "Bìxū shèqǔ hé shēntǐ děng zhòng de shíwù"
+     "py": "Bìxū shèqǔ hé shēntǐ děng zhòng de shíwù",
+     "en": "(D) They must eat their own weight in food."
     }
    }
   },
   "27": {
    "stem": {
     "zh": "最後一段從哪兩個角度來比較大型動物和小型動物？",
-    "py": "Zuìhòu yíduàn cóng nǎ liǎng ge jiǎodù lái bǐjiào dàxíng dòngwù hé xiǎoxíng dòngwù?"
+    "py": "Zuìhòu yíduàn cóng nǎ liǎng ge jiǎodù lái bǐjiào dàxíng dòngwù hé xiǎoxíng dòngwù?",
+    "en": "From which two perspectives does the last paragraph compare large and small animals?"
    },
    "options": {
     "A": {
      "zh": "數量及靈活度",
-     "py": "Shùliàng jí línghuó dù"
+     "py": "Shùliàng jí línghuó dù",
+     "en": "(A) Numbers and agility"
     },
     "B": {
      "zh": "出生率及死亡率",
-     "py": "Chūshēnglǜ jí sǐwánglǜ"
+     "py": "Chūshēnglǜ jí sǐwánglǜ",
+     "en": "(B) Birth rate and death rate"
     },
     "C": {
      "zh": "飲食和居住習慣",
-     "py": "Yǐnshí hé jūzhù xíguàn"
+     "py": "Yǐnshí hé jūzhù xíguàn",
+     "en": "(C) Eating and living habits"
     },
     "D": {
      "zh": "獵食及逃生技巧",
-     "py": "Lièshí jí táoshēng jìqiǎo"
+     "py": "Lièshí jí táoshēng jìqiǎo",
+     "en": "(D) Hunting and escape skills"
     }
    }
   },
@@ -825,137 +999,167 @@
    "passage": [
     {
      "zh": "（五）",
-     "py": "(Wǔ)"
+     "py": "(Wǔ)",
+     "en": "(5)"
     },
     {
      "zh": "企業在發展過程中，是獨立研發產品比較好？",
-     "py": "Qǐyè zài fāzhǎn guòchéng zhōng, shì dúlì yánfā chǎnpǐn bǐjiào hǎo?"
+     "py": "Qǐyè zài fāzhǎn guòchéng zhōng, shì dúlì yánfā chǎnpǐn bǐjiào hǎo?",
+     "en": "In developing, is it better for a company to develop products independently?"
     },
     {
      "zh": "還是和其他企業聯手開發比較好呢？",
-     "py": "Háishì hé qítā qǐyè liánshǒu kāifā bǐjiào hǎo ne?"
+     "py": "Háishì hé qítā qǐyè liánshǒu kāifā bǐjiào hǎo ne?",
+     "en": "Or is it better to develop them jointly with other companies?"
     },
     {
      "zh": "根據愛薩得商學院的報告，答案主要取決於產品本身的複雜度。",
-     "py": "Gēnjù Àisàdé Shāngxuéyuàn de bàogào, dáàn zhǔyào qǔjuéyú chǎnpǐn běnshēn de fùzádù."
+     "py": "Gēnjù Àisàdé Shāngxuéyuàn de bàogào, dáàn zhǔyào qǔjuéyú chǎnpǐn běnshēn de fùzádù.",
+     "en": "According to a report by INSEAD business school, the answer depends mainly on the complexity of the product itself."
     },
     {
      "zh": "報告指出，複雜度很高或很低的產品，較不適合與他人合作；",
-     "py": "Bàogào zhǐchū, fùzádù hěn gāo huò hěndī de chǎnpǐn, jiào bù shìhé yǔ tārén hézuò;"
+     "py": "Bàogào zhǐchū, fùzádù hěn gāo huò hěndī de chǎnpǐn, jiào bù shìhé yǔ tārén hézuò;",
+     "en": "The report points out that products of very high or very low complexity are less suited to working with others;"
     },
     {
      "zh": "但是複雜度居中的產品，如果與其他企業聯手，可能會比公司本身單打獨鬥來得好。",
-     "py": "Dànshì fùzádù jūzhōng de chǎnpǐn, rúguǒ yǔ qítā qǐyè liánshǒu, kěnéng huì bǐ gōngsī běnshēn dāndǎdúdòu láide hǎo."
+     "py": "Dànshì fùzádù jūzhōng de chǎnpǐn, rúguǒ yǔ qítā qǐyè liánshǒu, kěnéng huì bǐ gōngsī běnshēn dāndǎdúdòu láide hǎo.",
+     "en": "but for products of medium complexity, joining forces with other companies may be better than a company going it alone."
     },
     {
      "zh": "這是因為在開發簡單的產品時，公司本身就能找出最佳的設計方向或是解決技術問題，考慮和其他企業合夥根本是多此一舉；",
-     "py": "Zhè shìyīnwèi zài kāifā jiǎndān de chǎnpǐn shí, gōngsī běnshēn jiù néng zhǎochū zuìjiā de shèjì fāngxiàng huòshì jiějué jìshù wèntí, kǎolǜ hé qítā qǐyè héhuǒ gēnběn shì duōcǐyìjǔ;"
+     "py": "Zhè shìyīnwèi zài kāifā jiǎndān de chǎnpǐn shí, gōngsī běnshēn jiù néng zhǎochū zuìjiā de shèjì fāngxiàng huòshì jiějué jìshù wèntí, kǎolǜ hé qítā qǐyè héhuǒ gēnběn shì duōcǐyìjǔ;",
+     "en": "This is because when developing simple products, the company itself can find the best design direction or solve technical problems, so considering a partnership with other companies is completely superfluous;"
     },
     {
      "zh": "而開發複雜度高的產品，如果和同業合作，可能由於細節繁多，理念差異過大，在研發或行銷過程中經常產生歧見，反而大幅降低效率。",
-     "py": "Ér kāifā fùzádù gāo de chǎnpǐn, rúguǒ hé tóngyè hézuò, kěnéng yóuyú xìjié fánduō, lǐniàn chāyì guò dà, zài yánfā huò xíngxiāo guòchéng zhōng jīngcháng chǎnshēng qíjiàn, fǎnér dàfú jiàngdī xiàolǜ."
+     "py": "Ér kāifā fùzádù gāo de chǎnpǐn, rúguǒ hé tóngyè hézuò, kěnéng yóuyú xìjié fánduō, lǐniàn chāyì guò dà, zài yánfā huò xíngxiāo guòchéng zhōng jīngcháng chǎnshēng qíjiàn, fǎnér dàfú jiàngdī xiàolǜ.",
+     "en": "while for highly complex products, if you work with others in the industry, the many details and big differences in ideas may often cause disagreements during R&D or marketing, greatly lowering efficiency instead."
     },
     {
      "zh": "至於像個人電腦這一類複雜度居中的產品，尋求合作的伙伴往往比閉門造車來得好。",
-     "py": "Zhìyú xiàng gèréndiànnǎo zhè yílèi fùzádù jūzhōng de chǎnpǐn, xúnqiú hézuò de huǒbàn wǎngwǎng bǐ bìménzàochē láide hǎo."
+     "py": "Zhìyú xiàng gèréndiànnǎo zhè yílèi fùzádù jūzhōng de chǎnpǐn, xúnqiú hézuò de huǒbàn wǎngwǎng bǐ bìménzàochē láide hǎo.",
+     "en": "As for products of medium complexity like personal computers, seeking partners is often better than working behind closed doors."
     },
     {
      "zh": "報告指出，在開發這一類產品時，儘管過程中的爭辯、歧見不可避免，但是多聽聽合作伙伴提出的構想，有利於刺激靈感、分享創意，還可以一起進行市場調查、快速掌握消費動向，好處遠遠超過意見不合所產生的負面效應。",
-     "py": "Bàogào zhǐchū, zài kāifā zhè yílèi chǎnpǐn shí, jǐnguǎn guòchéng zhōng de zhēngbiàn, qíjiàn bùkěbìmiǎn, dànshì duō tīngtīng hézuòhuǒbàn tíchū de gòuxiǎng, yǒulìyú cìjī línggǎn, fēnxiǎng chuàngyì, hái kěyǐ yìqǐ jìnxíng shìchǎng diàochá, kuàisù zhǎngwò xiāofèi dòngxiàng, hǎochù yuǎnyuǎn chāoguò yìjiàn bùhé suǒ chǎnshēng de fùmiànxiàoyìng."
+     "py": "Bàogào zhǐchū, zài kāifā zhè yílèi chǎnpǐn shí, jǐnguǎn guòchéng zhōng de zhēngbiàn, qíjiàn bùkěbìmiǎn, dànshì duō tīngtīng hézuòhuǒbàn tíchū de gòuxiǎng, yǒulìyú cìjī línggǎn, fēnxiǎng chuàngyì, hái kěyǐ yìqǐ jìnxíng shìchǎng diàochá, kuàisù zhǎngwò xiāofèi dòngxiàng, hǎochù yuǎnyuǎn chāoguò yìjiàn bùhé suǒ chǎnshēng de fùmiànxiàoyìng.",
+     "en": "The report points out that when developing this kind of product, although arguments and disagreements are unavoidable, listening to partners' ideas helps spark inspiration and share creativity; you can also do market research together and quickly grasp consumer trends. The benefits far outweigh the negative effects of disagreement."
     }
    ],
    "stem": {
     "zh": "第一段主要在說什麼？",
-    "py": "Dìyíduàn zhǔyào zài shuō shénme?"
+    "py": "Dìyíduàn zhǔyào zài shuō shénme?",
+    "en": "What is the first paragraph mainly about?"
    },
    "options": {
     "A": {
      "zh": "如何尋找企業夥伴",
-     "py": "Rúhé xúnzhǎo qǐyè huǒbàn"
+     "py": "Rúhé xúnzhǎo qǐyè huǒbàn",
+     "en": "(A) How to find business partners"
     },
     "B": {
      "zh": "什麼產品較有市場",
-     "py": "Shénme chǎnpǐn jiào yǒu shìchǎng"
+     "py": "Shénme chǎnpǐn jiào yǒu shìchǎng",
+     "en": "(B) What products have more of a market"
     },
     "C": {
      "zh": "為何要維持公司獨立",
-     "py": "Wèihé yào wéichí gōngsī dúlì"
+     "py": "Wèihé yào wéichí gōngsī dúlì",
+     "en": "(C) Why a company should stay independent"
     },
     "D": {
      "zh": "怎樣研發產品最適當",
-     "py": "Zěnyàng yánfā chǎnpǐn zuì shìdàng"
+     "py": "Zěnyàng yánfā chǎnpǐn zuì shìdàng",
+     "en": "(D) What is the most appropriate way to develop products"
     }
    }
   },
   "29": {
    "stem": {
     "zh": "在什麼情況下，公司較適合開發複雜度低的產品？",
-    "py": "Zài shénme qíngkuàng xià, gōngsī jiào shìhé kāifā fùzádù dī de chǎnpǐn?"
+    "py": "Zài shénme qíngkuàng xià, gōngsī jiào shìhé kāifā fùzádù dī de chǎnpǐn?",
+    "en": "Under what circumstances is a company better suited to developing low-complexity products?"
    },
    "options": {
     "A": {
      "zh": "經濟不景氣時",
-     "py": "Jīngjì bùjǐngqì shí"
+     "py": "Jīngjì bùjǐngqì shí",
+     "en": "(A) When the economy is in recession"
     },
     "B": {
      "zh": "找到合作對象時",
-     "py": "Zhǎodào hézuò duìxiàng shí"
+     "py": "Zhǎodào hézuò duìxiàng shí",
+     "en": "(B) When it has found a partner"
     },
     "C": {
      "zh": "能自行解決問題時",
-     "py": "Néng zìxíngjiějué wèntí shí"
+     "py": "Néng zìxíngjiějué wèntí shí",
+     "en": "(C) When it can solve problems on its own"
     },
     "D": {
      "zh": "公司內部意見不合時",
-     "py": "Gōngsī nèibù yìjiàn bùhé shí"
+     "py": "Gōngsī nèibù yìjiàn bùhé shí",
+     "en": "(D) When there is disagreement within the company"
     }
    }
   },
   "30": {
    "stem": {
     "zh": "依作者的看法，當公司決定和其他企業合作開發個人電腦時，將 產生哪種現象？",
-    "py": "Yī zuòzhě de kànfǎ, dāng gōngsī juédìng hé qítā qǐyè hézuòkāifā gèréndiànnǎo shí, jiāng chǎnshēng nǎ zhǒng xiànxiàng?"
+    "py": "Yī zuòzhě de kànfǎ, dāng gōngsī juédìng hé qítā qǐyè hézuòkāifā gèréndiànnǎo shí, jiāng chǎnshēng nǎ zhǒng xiànxiàng?",
+    "en": "In the author's view, when a company decides to develop a personal computer with other companies, what will happen?"
    },
    "options": {
     "A": {
      "zh": "不易產生歧見",
-     "py": "Búyì chǎnshēng qíjiàn"
+     "py": "Búyì chǎnshēng qíjiàn",
+     "en": "(A) Disagreements won't easily arise."
     },
     "B": {
      "zh": "能提高創造力",
-     "py": "Néng tígāo chuàngzàolì"
+     "py": "Néng tígāo chuàngzàolì",
+     "en": "(B) Creativity can be increased."
     },
     "C": {
      "zh": "容易導致市場萎縮",
-     "py": "Róngyì dǎozhì shìchǎngwēisuō"
+     "py": "Róngyì dǎozhì shìchǎngwēisuō",
+     "en": "(C) It easily leads to a shrinking market."
     },
     "D": {
      "zh": "顯示公司面臨困境",
-     "py": "Xiǎnshì gōngsī miànlín kùnjìng"
+     "py": "Xiǎnshì gōngsī miànlín kùnjìng",
+     "en": "(D) It shows the company is in trouble."
     }
    }
   },
   "31": {
    "stem": {
     "zh": "根據本文，一家公司決定獨立開發產品的好處，不包括下面哪一 項？",
-    "py": "Gēnjù běnwén, yìjiā gōngsī juédìng dúlì kāifā chǎnpǐn de hǎochù, bù bāokuò xiàmiàn nǎ yī xiàng?"
+    "py": "Gēnjù běnwén, yìjiā gōngsī juédìng dúlì kāifā chǎnpǐn de hǎochù, bù bāokuò xiàmiàn nǎ yī xiàng?",
+    "en": "According to the article, which of the following is NOT a benefit of a company deciding to develop products independently?"
    },
    "options": {
     "A": {
      "zh": "可以增加效率",
-     "py": "Kěyǐ zēngjiā xiàolǜ"
+     "py": "Kěyǐ zēngjiā xiàolǜ",
+     "en": "(A) It can increase efficiency."
     },
     "B": {
      "zh": "可以避免意見不合",
-     "py": "Kěyǐ bìmiǎn yìjiàn bùhé"
+     "py": "Kěyǐ bìmiǎn yìjiàn bùhé",
+     "en": "(B) It can avoid disagreements."
     },
     "C": {
      "zh": "可以快速掌握市場狀況",
-     "py": "Kěyǐ kuàisù zhǎngwò shìchǎng zhuàngkuàng"
+     "py": "Kěyǐ kuàisù zhǎngwò shìchǎng zhuàngkuàng",
+     "en": "(C) It can quickly grasp the market situation."
     },
     "D": {
      "zh": "適合開發較複雜的產品",
-     "py": "Shìhé kāifā jiào fùzá de chǎnpǐn"
+     "py": "Shìhé kāifā jiào fùzá de chǎnpǐn",
+     "en": "(D) It's suitable for developing more complex products."
     }
    }
   },
@@ -963,285 +1167,348 @@
    "passage": [
     {
      "zh": "（六）",
-     "py": "(Liù)"
+     "py": "(Liù)",
+     "en": "(6)"
     },
     {
      "zh": "自行車重心高、輪胎窄、平衡不易、煞車難，其實是很危險的交通工具。",
-     "py": "Zìxíngchē zhòngxīn gāo, lúntāi zhǎi, pínghéng búyì, shāchē nán, qíshí shì hěn wēixiǎn de jiāotōnggōngjù."
+     "py": "Zìxíngchē zhòngxīn gāo, lúntāi zhǎi, pínghéng búyì, shāchē nán, qíshí shì hěn wēixiǎn de jiāotōnggōngjù.",
+     "en": "Bicycles have a high center of gravity, narrow tires, are hard to balance and hard to brake—they're actually a very dangerous means of transport."
     },
     {
      "zh": "幸好單車靠人力踩踏而前進，一般人要踩出三十公里以上的時速已不容易，要持續高速騎乘更困難，所以單車還算安全。",
-     "py": "Xìnghǎo dānchē kào rénlì cǎità ér qiánjìn, yìbān rén yào cǎichū sānshígōnglǐ yǐshàng de shísù yǐ bù róngyì, yào chíxù gāosù qíchéng gèng kùnnán, suǒyǐ dānchē hái suàn ānquán."
+     "py": "Xìnghǎo dānchē kào rénlì cǎità ér qiánjìn, yìbān rén yào cǎichū sānshígōnglǐ yǐshàng de shísù yǐ bù róngyì, yào chíxù gāosù qíchéng gèng kùnnán, suǒyǐ dānchē hái suàn ānquán.",
+     "en": "Fortunately bicycles move by human pedaling; for most people reaching a speed above 30 km/h is already difficult, and keeping up high speed is even harder, so bicycles are still fairly safe."
     },
     {
      "zh": "變速器的發明，讓踩踏更有效率，也讓人可以騎得更快，爬得更高。",
-     "py": "Biànsùqì de fāmíng, ràng cǎità gèng yǒuxiàolǜ, yě ràng rén kěyǐ qí dé gèngkuài, pá dé gèng gāo."
+     "py": "Biànsùqì de fāmíng, ràng cǎità gèng yǒuxiàolǜ, yě ràng rén kěyǐ qí dé gèngkuài, pá dé gèng gāo.",
+     "en": "The invention of gears made pedaling more efficient and let people ride faster and climb higher."
     },
     {
      "zh": "但是這麼一來，問題就大了。",
-     "py": "Dànshì zhèmeyìlái, wèntí jiù dà le."
+     "py": "Dànshì zhèmeyìlái, wèntí jiù dà le.",
+     "en": "But this created a big problem."
     },
     {
      "zh": "因為下坡的時候，自行車的速度可以直逼汽、機車，可是它的先天條件其實並不適合高速騎乘。",
-     "py": "Yīnwèi Xiàpō de shíhòu, zìxíngchē de sùdù kěyǐ zhíbī qì, jīchē, kěshì tā de xiāntiān tiáojiàn qíshí bìng bù shìhé gāosù qíchéng."
+     "py": "Yīnwèi Xiàpō de shíhòu, zìxíngchē de sùdù kěyǐ zhíbī qì, jīchē, kěshì tā de xiāntiān tiáojiàn qíshí bìng bù shìhé gāosù qíchéng.",
+     "en": "Because downhill, a bicycle's speed can approach that of cars and motorcycles, yet its built-in characteristics really aren't suited to high-speed riding."
     },
     {
      "zh": "轉彎時，一旦減速不及，很容易會因為重心不穩而打滑，不是翻落山崖，就是衝向對向車道，結果當然非死即傷。",
-     "py": "Zhuǎnwān shí, yídàn jiǎnsù bùjí, hěn róngyì huì yīnwèi zhòngxīn bùwěn ér dǎhuá, búshì fānluò Shānyá, jiùshì chōngxiàng duì xiàng chēdào, jiéguǒ dāngrán fēisǐjíshāng."
+     "py": "Zhuǎnwān shí, yídàn jiǎnsù bùjí, hěn róngyì huì yīnwèi zhòngxīn bùwěn ér dǎhuá, búshì fānluò Shānyá, jiùshì chōngxiàng duì xiàng chēdào, jiéguǒ dāngrán fēisǐjíshāng.",
+     "en": "When turning, if you can't slow down in time, you can easily skid because of unstable balance and either fall off a cliff or rush into oncoming traffic—with death or injury the result."
     },
     {
      "zh": "I 這些年來，單車越做越輕，輪胎越變越窄，胎面越來越趨於平滑。",
-     "py": "I zhèxiēniánlái, dānchē yuèzuòyuè qīng, lúntāi yuè biàn yuè zhǎi, tāimiàn yuèláiyuè qūyú pínghuá."
+     "py": "I zhèxiēniánlái, dānchē yuèzuòyuè qīng, lúntāi yuè biàn yuè zhǎi, tāimiàn yuèláiyuè qūyú pínghuá.",
+     "en": "I Over the years, bicycles have become lighter and lighter, tires narrower and narrower, and treads smoother and smoother."
     },
     {
      "zh": "II 照理說，以休閒為目的的一般民眾不需追逐這種競速車，遺憾的是，這偏偏是目前台灣單車市場的主流。",
-     "py": "II zhàolǐshuō, yǐ xiūxián wèi mùdì de yìbān mínzhòng bù xū zhuīzhú zhèzhǒng jìngsù chē, yíhàn de shì, zhè piānpiān shì mùqián Táiwān dānchē shìchǎng de zhǔliú."
+     "py": "II zhàolǐshuō, yǐ xiūxián wèi mùdì de yìbān mínzhòng bù xū zhuīzhú zhèzhǒng jìngsù chē, yíhàn de shì, zhè piānpiān shì mùqián Táiwān dānchē shìchǎng de zhǔliú.",
+     "en": "II Logically, ordinary people who ride for leisure don't need to chase these racing bikes; unfortunately, this is exactly the mainstream of Taiwan's bicycle market today."
     },
     {
      "zh": "III 大家都想比輕、比快，車廠更是樂於提供各式裝備、車型供消費者選擇，想藉此從中大撈一筆。",
-     "py": "III dàjiā dōu xiǎng bǐqīng, bǐkuài, chēchǎng gèngshì lèyú tígōng gèshì zhuāngbèi, chēxíng gōng xiāofèizhě xuǎnzé, xiǎng jiècǐ cóngzhōng dà lāo yìbǐ."
+     "py": "III dàjiā dōu xiǎng bǐqīng, bǐkuài, chēchǎng gèngshì lèyú tígōng gèshì zhuāngbèi, chēxíng gōng xiāofèizhě xuǎnzé, xiǎng jiècǐ cóngzhōng dà lāo yìbǐ.",
+     "en": "III Everyone wants to compare who's lighter and faster, and manufacturers are happy to offer all kinds of equipment and models for consumers to choose from, hoping to make a fortune out of it."
     },
     {
      "zh": "IV",
-     "py": "IV"
+     "py": "IV",
+     "en": "IV"
     }
    ],
    "stem": {
     "zh": "根據第一段，作者認為騎單車的安全性在哪裡？",
-    "py": "Gēnjù dìyíduàn, zuòzhě rènwéi qídānchē de Ānquánxìng zài nǎlǐ?"
+    "py": "Gēnjù dìyíduàn, zuòzhě rènwéi qídānchē de Ānquánxìng zài nǎlǐ?",
+    "en": "According to the first paragraph, where does the author think the safety of cycling lies?"
    },
    "options": {
     "A": {
      "zh": "速度上有限制",
-     "py": "Sùdù shàng yǒu xiànzhì"
+     "py": "Sùdù shàng yǒu xiànzhì",
+     "en": "(A) Its speed is limited."
     },
     "B": {
      "zh": "可以訓練平衡感",
-     "py": "Kěyǐ xùnliàn pínghénggǎn"
+     "py": "Kěyǐ xùnliàn pínghénggǎn",
+     "en": "(B) It can train your sense of balance."
     },
     "C": {
      "zh": "剎車後能馬上停止",
-     "py": "Shāchē hòu néng mǎshàng tíngzhǐ"
+     "py": "Shāchē hòu néng mǎshàng tíngzhǐ",
+     "en": "(C) It stops immediately after braking."
     },
     "D": {
      "zh": "可以短時間內加速",
-     "py": "Kěyǐ duǎnshíjiān nèi jiāsù"
+     "py": "Kěyǐ duǎnshíjiān nèi jiāsù",
+     "en": "(D) It can accelerate in a short time."
     }
    }
   },
   "33": {
    "stem": {
     "zh": "第二段主要在說什麼？",
-    "py": "Dìèrduàn zhǔyào zài shuō shénme?"
+    "py": "Dìèrduàn zhǔyào zài shuō shénme?",
+    "en": "What is the second paragraph mainly about?"
    },
    "options": {
     "A": {
      "zh": "騎車騎得慢不一定安全",
-     "py": "Qíchē qí dé mànbù yídìng ānquán"
+     "py": "Qíchē qí dé mànbù yídìng ānquán",
+     "en": "(A) Riding slowly isn't necessarily safe."
     },
     "B": {
      "zh": "單車的設計不利於高速行駛",
-     "py": "Dānchē de shèjì búlìyú Gāosùxíngshǐ"
+     "py": "Dānchē de shèjì búlìyú Gāosùxíngshǐ",
+     "en": "(B) The design of bicycles isn't suited to high speeds."
     },
     "C": {
      "zh": "騎單車的危險性沒有汽機車高",
-     "py": "Qídānchē de wēixiǎnxìng méiyǒu qìjī Chēgāo"
+     "py": "Qídānchē de wēixiǎnxìng méiyǒu qìjī Chēgāo",
+     "en": "(C) Cycling is less dangerous than cars and motorcycles."
     },
     "D": {
      "zh": "沒有安全裝備是意外發生的主因",
-     "py": "Méiyǒu ānquán zhuāngbèi shì yìwài fāshēng de zhǔyīn"
+     "py": "Méiyǒu ānquán zhuāngbèi shì yìwài fāshēng de zhǔyīn",
+     "en": "(D) Lack of safety equipment is the main cause of accidents."
     }
    }
   },
   "34": {
    "stem": {
     "zh": "在第三段，作者指出目前的單車市場有什麼問題？",
-    "py": "Zài dìsānduàn, zuòzhě zhǐchū mùqián de dānchē shìchǎng yǒu shénme wèntí?"
+    "py": "Zài dìsānduàn, zuòzhě zhǐchū mùqián de dānchē shìchǎng yǒu shénme wèntí?",
+    "en": "In the third paragraph, what problem with today's bicycle market does the author point out?"
    },
    "options": {
     "A": {
      "zh": "休閒性的單車不夠安全",
-     "py": "Xiūxián xìng de dānchē búgòu ānquán"
+     "py": "Xiūxián xìng de dānchē búgòu ānquán",
+     "en": "(A) Leisure bicycles aren't safe enough."
     },
     "B": {
      "zh": "民眾騎休閒性單車來比賽",
-     "py": "Mínzhòng qí xiūxián xìng dānchē lái bǐsài"
+     "py": "Mínzhòng qí xiūxián xìng dānchē lái bǐsài",
+     "en": "(B) People race on leisure bicycles."
     },
     "C": {
      "zh": "民眾偏好買競速型的單車",
-     "py": "Mínzhòng piānhǎo mǎi jìngsù xíng de dānchē"
+     "py": "Mínzhòng piānhǎo mǎi jìngsù xíng de dānchē",
+     "en": "(C) People prefer to buy racing bicycles."
     },
     "D": {
      "zh": "只有休閒性的單車有市場",
-     "py": "Zhǐyǒu xiūxián xìng de dānchē yǒu shìchǎng"
+     "py": "Zhǐyǒu xiūxián xìng de dānchē yǒu shìchǎng",
+     "en": "(D) Only leisure bicycles have a market."
     }
    }
   },
   "35": {
    "stem": {
     "zh": "如果要將「這種以比賽競速為目的的單車，設計上其實與安全原 則背道而馳。」這段話放入第三段，哪個位置最合適？",
-    "py": "Rúguǒ yào jiāng “Zhèzhǒng yǐ bǐsài jìngsù wèi mùdì de dānchē, shèjì shàng qíshí yǔ ānquán yuán zé bèidàoérchí.” zhèduànhuà fàngrù dìsānduàn, nǎ ge wèizhì zuìhéshì?"
+    "py": "Rúguǒ yào jiāng “Zhèzhǒng yǐ bǐsài jìngsù wèi mùdì de dānchē, shèjì shàng qíshí yǔ ānquán yuán zé bèidàoérchí.” zhèduànhuà fàngrù dìsānduàn, nǎ ge wèizhì zuìhéshì?",
+    "en": "If the sentence \"The design of these bicycles built for racing actually runs counter to safety principles\" were to be put into the third paragraph, which position would be most suitable?"
    }
   },
   "36": {
    "passage": [
     {
      "zh": "（七）",
-     "py": "(Qī)"
+     "py": "(Qī)",
+     "en": "(7)"
     },
     {
      "zh": "我常想，住豪宅或是升職、加薪，真能讓人快樂嗎？",
-     "py": "Wǒ cháng xiǎng, zhù háozhái huòshì shēngzhí, Jiāxīn, zhēn néng ràng rén kuàilè ma?"
+     "py": "Wǒ cháng xiǎng, zhù háozhái huòshì shēngzhí, Jiāxīn, zhēn néng ràng rén kuàilè ma?",
+     "en": "I often wonder: can living in a mansion, getting promoted or getting a raise really make people happy?"
     },
     {
      "zh": "讀完鮑教授新作《祝你今年快樂》後，便發覺那都只能算是一閃即逝的喜悅，並非真實而長久。",
-     "py": "Dúwán Bào jiàoshòu xīnzuò «Zhù nǐ jīnnián kuàilè» hòu, biàn fājué nà dōu zhǐnéng suànshì yìshǎnjíshì de xǐyuè, bìngfēi zhēnshí ér chángjiǔ."
+     "py": "Dúwán Bào jiàoshòu xīnzuò «Zhù nǐ jīnnián kuàilè» hòu, biàn fājué nà dōu zhǐnéng suànshì yìshǎnjíshì de xǐyuè, bìngfēi zhēnshí ér chángjiǔ.",
+     "en": "After reading Professor Bao's new book \"Wishing You Happiness This Year,\" I realized those can only count as fleeting joy, not something real and lasting."
     },
     {
      "zh": "誠如書中所言：「快樂是一種遍布在生命之中，滿足和幸福的感受，而喜悅則像煙火，稍縱即逝。」",
-     "py": "Chéngrú shū zhōng suǒ yán: “Kuàilè shì yìzhǒng biànbù zài shēngmìng zhīzhōng, mǎnzú hé xìngfú de gǎnshòu, ér xǐyuè zé xiàng yānhuǒ, shāozòngjíshì.”"
+     "py": "Chéngrú shū zhōng suǒ yán: “Kuàilè shì yìzhǒng biànbù zài shēngmìng zhīzhōng, mǎnzú hé xìngfú de gǎnshòu, ér xǐyuè zé xiàng yānhuǒ, shāozòngjíshì.”",
+     "en": "As the book says: \"Happiness is a feeling of contentment and well-being that pervades life, while joy is like fireworks—gone in an instant.\""
     },
     {
      "zh": "或許你認為這道理誰都懂，然想遠比做容易。",
-     "py": "Huòxǔ nǐ rènwéi zhè dàolǐ shuí dōu dǒng, rán xiǎng yuǎn bǐzuò róngyì."
+     "py": "Huòxǔ nǐ rènwéi zhè dàolǐ shuí dōu dǒng, rán xiǎng yuǎn bǐzuò róngyì.",
+     "en": "Perhaps you think everyone understands this, but thinking is far easier than doing."
     },
     {
      "zh": "這本書告訴我們兩件事：快樂是需要練習的；",
-     "py": "Zhè běnshū gàosù wǒmen liǎngjiànshì: Kuàilè shì xūyào liànxí de;"
+     "py": "Zhè běnshū gàosù wǒmen liǎngjiànshì: Kuàilè shì xūyào liànxí de;",
+     "en": "This book tells us two things: happiness needs practice;"
     },
     {
      "zh": "再則，追兔子的狗，比躺在門廊上睡覺的狗更快樂！",
-     "py": "Zàizé, zhuī tùzi de gǒu, bǐ tǎng zài ménláng shàng shuìjiào de gǒu gèng kuàilè!"
+     "py": "Zàizé, zhuī tùzi de gǒu, bǐ tǎng zài ménláng shàng shuìjiào de gǒu gèng kuàilè!",
+     "en": "and secondly, a dog chasing a rabbit is happier than a dog sleeping on the porch!"
     },
     {
      "zh": "這原理並非為捉到兔子能令人快樂，而是當我們為突破挑戰與困境而忙碌時，往往能從中發現自己的才能，找出更多存在的價值。",
-     "py": "Zhè yuánlǐ bìngfēi wèi zhuōdào tùzi néng Lìngrén kuàilè, érshì dāng wǒmen wèi tūpò tiǎozhàn yǔ kùnjìng ér mánglù shí, wǎngwǎng néng cóngzhōng fāxiànzìjǐ de cáinéng, zhǎochū gèng duō cúnzài de jiàzhí."
+     "py": "Zhè yuánlǐ bìngfēi wèi zhuōdào tùzi néng Lìngrén kuàilè, érshì dāng wǒmen wèi tūpò tiǎozhàn yǔ kùnjìng ér mánglù shí, wǎngwǎng néng cóngzhōng fāxiànzìjǐ de cáinéng, zhǎochū gèng duō cúnzài de jiàzhí.",
+     "en": "The principle isn't that catching the rabbit makes us happy, but that when we're busy breaking through challenges and difficulties, we often discover our own talents and find more value in our existence."
     },
     {
      "zh": "這也說明了為何許多不需要克服難題的有錢人，其實並不快樂。",
-     "py": "Zhè yě shuōmíng le wèihé xǔduō bù xūyào kèfú nántí de yǒuqiánrén, qíshí bìng bù kuàilè."
+     "py": "Zhè yě shuōmíng le wèihé xǔduō bù xūyào kèfú nántí de yǒuqiánrén, qíshí bìng bù kuàilè.",
+     "en": "This also explains why many rich people who don't need to overcome difficulties aren't actually happy."
     },
     {
      "zh": "這讓我想起《國家科學院期刊》一項調查結果，他們發現 50％的快樂，由快樂的設定點決定，生活條件只佔 10％，剩下的 40％則取決於行動。",
-     "py": "Zhè ràng wǒ xiǎngqǐ «Guójiā kēxuéyuàn qīkān» yíxiàng diàochájiéguǒ, tāmen fāxiàn 50 ％ de kuàilè, yóu kuàilè de shèdìng diǎn juédìng, shēnghuó tiáojiàn zhǐ zhàn 10 ％, shèngxià de 40 ％ zé qǔjuéyú xíngdòng."
+     "py": "Zhè ràng wǒ xiǎngqǐ «Guójiā kēxuéyuàn qīkān» yíxiàng diàochájiéguǒ, tāmen fāxiàn 50 ％ de kuàilè, yóu kuàilè de shèdìng diǎn juédìng, shēnghuó tiáojiàn zhǐ zhàn 10 ％, shèngxià de 40 ％ zé qǔjuéyú xíngdòng.",
+     "en": "This reminds me of a survey result in the \"Proceedings of the National Academy of Sciences\": they found that 50% of happiness is determined by a happiness set point, living conditions account for only 10%, and the remaining 40% depends on action."
     },
     {
      "zh": "換言之，快樂是由思維主導的。",
-     "py": "Huànyánzhī, kuàilè shì yóu sīwéi zhǔdǎo de."
+     "py": "Huànyánzhī, kuàilè shì yóu sīwéi zhǔdǎo de.",
+     "en": "In other words, happiness is led by thinking."
     },
     {
      "zh": "鮑教授也在書中舉例，大腦重僅 1.35 公斤，佔人體的比重很小，卻指引全身動作，進而導引人生的發展。",
-     "py": "Bào jiàoshòu yě zài shū zhōng jǔlì, dànǎo zhòngjǐn 1.35 gōngjīn, zhàn réntǐ de bǐzhòng hěnxiǎo, què zhǐyǐn quánshēn dòngzuò, jìnér dǎoyǐn rénshēng de fāzhǎn."
+     "py": "Bào jiàoshòu yě zài shū zhōng jǔlì, dànǎo zhòngjǐn 1.35 gōngjīn, zhàn réntǐ de bǐzhòng hěnxiǎo, què zhǐyǐn quánshēn dòngzuò, jìnér dǎoyǐn rénshēng de fāzhǎn.",
+     "en": "Professor Bao also gives an example in the book: the brain weighs only 1.35 kg, a small proportion of the body, yet it directs the body's every movement and in turn guides the course of life."
     },
     {
      "zh": "就像體重數十公斤的飛行員，卻要駕駛重達數十萬公斤的飛機，飛機雖沉重、力量強大，但只按飛行員導引的方向飛行。",
-     "py": "Jiù xiàng tǐzhòng shùshí gōngjīn de fēixíngyuán, què yào jiàshǐ zhòngdá shùshíwàn gōngjīn de fēijī, fēijī suī chénzhòng, Lìliàngqiángdà, dàn zhǐ àn fēixíngyuán dǎoyǐn de fāngxiàng fēixíng."
+     "py": "Jiù xiàng tǐzhòng shùshí gōngjīn de fēixíngyuán, què yào jiàshǐ zhòngdá shùshíwàn gōngjīn de fēijī, fēijī suī chénzhòng, Lìliàngqiángdà, dàn zhǐ àn fēixíngyuán dǎoyǐn de fāngxiàng fēixíng.",
+     "en": "It's like a pilot weighing a few dozen kilograms flying a plane weighing hundreds of thousands of kilograms: heavy and powerful as the plane is, it flies only in the direction the pilot guides it."
     },
     {
      "zh": "最近我依著鮑教授的建議，開始練習微笑，心中同時想著「我很快樂」，也似乎真找出了環境或生活中讓自己快樂的事，看來此法確實值得大家一試。",
-     "py": "Zuìjìn wǒ yīzhù Bào jiàoshòu de jiànyì, kāishǐ liànxí wēixiào, xīnzhōng tóngshí xiǎngzhù “Wǒ hěn kuàilè”, yě sìhū zhēn zhǎochū le huánjìng huò shēnghuó zhōng ràng zìjǐ kuàilè de shì, kànlái cǐfǎ quèshí zhíde dàjiā yī shì."
+     "py": "Zuìjìn wǒ yīzhù Bào jiàoshòu de jiànyì, kāishǐ liànxí wēixiào, xīnzhōng tóngshí xiǎngzhù “Wǒ hěn kuàilè”, yě sìhū zhēn zhǎochū le huánjìng huò shēnghuó zhōng ràng zìjǐ kuàilè de shì, kànlái cǐfǎ quèshí zhíde dàjiā yī shì.",
+     "en": "Recently, following Professor Bao's advice, I started practicing smiling while thinking \"I'm very happy,\" and I seem to have really found things in my surroundings and life that make me happy. It seems this method is indeed worth everyone trying."
     },
     {
      "zh": "不過據我的實作經驗顯示，有件事得注意，就是千萬別說出「我想要快樂」。",
-     "py": "Búguò jù wǒ de shízuò jīngyàn xiǎnshì, yǒujiànshì dé zhùyì, jiùshì qiānwàn biéshuōchū “Wǒ xiǎngyào kuàilè”."
+     "py": "Búguò jù wǒ de shízuò jīngyàn xiǎnshì, yǒujiànshì dé zhùyì, jiùshì qiānwàn biéshuōchū “Wǒ xiǎngyào kuàilè”.",
+     "en": "But from my own practical experience, there's one thing to watch out for: never say \"I want to be happy.\""
     },
     {
      "zh": "一旦你這麼說，等於承認自己是在不快樂的狀態之下，反而容易弄巧成拙。",
-     "py": "Yídàn nǐ zhème shuō, děngyú chéngrèn zìjǐ shì zài bù kuàilè de zhuàngtài zhīxià, fǎnér róngyì nòngqiǎochéngzhuō."
+     "py": "Yídàn nǐ zhème shuō, děngyú chéngrèn zìjǐ shì zài bù kuàilè de zhuàngtài zhīxià, fǎnér róngyì nòngqiǎochéngzhuō.",
+     "en": "Once you say that, it's like admitting you're in an unhappy state, which can easily backfire."
     }
    ],
    "stem": {
     "zh": "作者在第一段中的「那」，指的是什麼？",
-    "py": "Zuòzhě zài dìyíduàn zhōng de “Nà”, zhǐ de shì shénme?"
+    "py": "Zuòzhě zài dìyíduàn zhōng de “Nà”, zhǐ de shì shénme?",
+    "en": "What does \"those\" in the first paragraph refer to?"
    },
    "options": {
     "A": {
      "zh": "真實、長久的快樂",
-     "py": "Zhēnshí, chángjiǔ de kuàilè"
+     "py": "Zhēnshí, chángjiǔ de kuàilè",
+     "en": "(A) Real, lasting happiness"
     },
     "B": {
      "zh": "心中感到滿足的狀態",
-     "py": "Xīnzhōng gǎndào mǎnzú de zhuàngtài"
+     "py": "Xīnzhōng gǎndào mǎnzú de zhuàngtài",
+     "en": "(B) A state of feeling content"
     },
     "C": {
      "zh": "追求物質的生活目標",
-     "py": "Zhuīqiú wùzhì de shēnghuó mùbiāo"
+     "py": "Zhuīqiú wùzhì de shēnghuó mùbiāo",
+     "en": "(C) Life goals of pursuing material things"
     },
     "D": {
      "zh": "《祝你今年快樂》這本書",
-     "py": "«Zhù nǐ jīnnián kuàilè» zhè běnshū"
+     "py": "«Zhù nǐ jīnnián kuàilè» zhè běnshū",
+     "en": "(D) The book \"Wishing You Happiness This Year\""
     }
    }
   },
   "37": {
    "stem": {
     "zh": "為什麼鮑教授提到了追兔子的狗？",
-    "py": "Wèishénme Bào jiàoshòu tídào le zhuī tùzi de gǒu?"
+    "py": "Wèishénme Bào jiàoshòu tídào le zhuī tùzi de gǒu?",
+    "en": "Why does Professor Bao mention the dog chasing a rabbit?"
    },
    "options": {
     "A": {
      "zh": "強調沒有勇氣就得不到快樂",
-     "py": "Qiángdiào méiyǒuyǒngqì jiù débúdào kuàilè"
+     "py": "Qiángdiào méiyǒuyǒngqì jiù débúdào kuàilè",
+     "en": "(A) To stress that without courage you can't be happy"
     },
     "B": {
      "zh": "指出快樂來自於追求的過程",
-     "py": "Zhǐchū kuàilè láizì yú zhuīqiú de guòchéng"
+     "py": "Zhǐchū kuàilè láizì yú zhuīqiú de guòchéng",
+     "en": "(B) To point out that happiness comes from the process of pursuit"
     },
     "C": {
      "zh": "說明一般人分不清快樂與喜悅",
-     "py": "Shuōmíng yìbān rén fēnbùqīng kuàilè yǔ xǐyuè"
+     "py": "Shuōmíng yìbān rén fēnbùqīng kuàilè yǔ xǐyuè",
+     "en": "(C) To explain that ordinary people can't tell happiness and joy apart"
     },
     "D": {
      "zh": "透露多數現代人的生活漫無目標",
-     "py": "Tòulù duōshù xiàndàirén de shēnghuó mànwú mùbiāo"
+     "py": "Tòulù duōshù xiàndàirén de shēnghuó mànwú mùbiāo",
+     "en": "(D) To reveal that most modern people live aimlessly"
     }
    }
   },
   "38": {
    "stem": {
     "zh": "鮑教授利用飛行員的例子來說明哪件事？",
-    "py": "Bào jiàoshòu lìyòng fēixíngyuán de lìzi lái shuōmíng nǎjiàn shì?"
+    "py": "Bào jiàoshòu lìyòng fēixíngyuán de lìzi lái shuōmíng nǎjiàn shì?",
+    "en": "What does Professor Bao use the example of the pilot to explain?"
    },
    "options": {
     "A": {
      "zh": "快樂是有意識的選擇",
-     "py": "Kuàilè shì yǒuyìshí de xuǎnzé"
+     "py": "Kuàilè shì yǒuyìshí de xuǎnzé",
+     "en": "(A) Happiness is a conscious choice."
     },
     "B": {
      "zh": "快樂不應該分程度大小",
-     "py": "Kuàilè bù yīnggāi fēn chéngdù dàxiǎo"
+     "py": "Kuàilè bù yīnggāi fēn chéngdù dàxiǎo",
+     "en": "(B) Happiness shouldn't be divided by degree."
     },
     "C": {
      "zh": "快樂的來源有半數取決於行動",
-     "py": "Kuàilè de láiyuán yǒu bànshù qǔjuéyú xíngdòng"
+     "py": "Kuàilè de láiyuán yǒu bànshù qǔjuéyú xíngdòng",
+     "en": "(C) Half of the sources of happiness depend on action."
     },
     "D": {
      "zh": "快樂所產生的力量是很強大的",
-     "py": "Kuàilè suǒ chǎnshēng de lìliàng shì hěn qiángdà de"
+     "py": "Kuàilè suǒ chǎnshēng de lìliàng shì hěn qiángdà de",
+     "en": "(D) The power generated by happiness is very great."
     }
    }
   },
   "39": {
    "stem": {
     "zh": "作者讀完《祝你今年快樂》以後有什麼心得？",
-    "py": "Zuòzhě dúwán «Zhù nǐ jīnnián kuàilè» yǐhòu yǒu shénme xīndé?"
+    "py": "Zuòzhě dúwán «Zhù nǐ jīnnián kuàilè» yǐhòu yǒu shénme xīndé?",
+    "en": "What did the author take away from reading \"Wishing You Happiness This Year\"?"
    },
    "options": {
     "A": {
      "zh": "不應該將快樂當作一種獎賞",
-     "py": "Bù yīnggāi jiāng kuàilè dàngzuò yìzhǒng jiǎngshǎng"
+     "py": "Bù yīnggāi jiāng kuàilè dàngzuò yìzhǒng jiǎngshǎng",
+     "en": "(A) Happiness shouldn't be treated as a reward."
     },
     "B": {
      "zh": "得先承認自己不快樂的緣由",
-     "py": "Dé xiān chéngrèn zìjǐ bù kuàilè de yuányóu"
+     "py": "Dé xiān chéngrèn zìjǐ bù kuàilè de yuányóu",
+     "en": "(B) You must first admit the reasons you're unhappy."
     },
     "C": {
      "zh": "別把尋找快樂經常掛在嘴邊",
-     "py": "Bié bǎ xúnzhǎo kuàilè jīngcháng guà zài zuǐbiān"
+     "py": "Bié bǎ xúnzhǎo kuàilè jīngcháng guà zài zuǐbiān",
+     "en": "(C) Don't keep talking about looking for happiness."
     },
     "D": {
      "zh": "練習微笑對自己起不了作用",
-     "py": "Liànxí wēixiào duì zìjǐ qǐ bùliǎo zuòyòng"
+     "py": "Liànxí wēixiào duì zìjǐ qǐ bùliǎo zuòyòng",
+     "en": "(D) Practicing smiling doesn't work for him."
     }
    }
   },
@@ -1249,181 +1516,221 @@
    "passage": [
     {
      "zh": "（八）",
-     "py": "(Bā)"
+     "py": "(Bā)",
+     "en": "(8)"
     },
     {
      "zh": "2008 年的斯德哥爾摩水資源獎，頒給了提出「虛擬水」概念的東尼艾倫教授。",
-     "py": "2008 nián de Sīdégēěrmó shuǐzīyuán jiǎng, bāngěi le tíchū “Xūnǐ shuǐ” gàiniàn de Dōngní Àilún jiàoshòu."
+     "py": "2008 nián de Sīdégēěrmó shuǐzīyuán jiǎng, bāngěi le tíchū “Xūnǐ shuǐ” gàiniàn de Dōngní Àilún jiàoshòu.",
+     "en": "The 2008 Stockholm Water Prize was awarded to Professor Tony Allan, who proposed the concept of \"virtual water.\""
     },
     {
      "zh": "所謂的「虛擬水」，是指食品或消費品在生產及銷售過程中所需要的用水量。",
-     "py": "Suǒwèi de “Xūnǐ shuǐ”, shì zhǐ shípǐn huò xiāofèipǐn zài shēngchǎn jí xiāoshòu guòchéng zhōng suǒ xūyào de yòngshuǐliàng."
+     "py": "Suǒwèi de “Xūnǐ shuǐ”, shì zhǐ shípǐn huò xiāofèipǐn zài shēngchǎn jí xiāoshòu guòchéng zhōng suǒ xūyào de yòngshuǐliàng.",
+     "en": "\"Virtual water\" refers to the amount of water needed in producing and selling food or consumer goods."
     },
     {
      "zh": "這概念指出，人們不僅在飲用和淋浴時需要水，在消費其他產品時也會消耗大量的水。",
-     "py": "Zhè gàiniàn zhǐchū, rénmen bùjǐn zài yǐnyòng hé línyù shí xūyào shuǐ, zài xiāofèi qítā chǎnpǐn shí yě huì xiāohào dàliàng de shuǐ."
+     "py": "Zhè gàiniàn zhǐchū, rénmen bùjǐn zài yǐnyòng hé línyù shí xūyào shuǐ, zài xiāofèi qítā chǎnpǐn shí yě huì xiāohào dàliàng de shuǐ.",
+     "en": "The concept points out that people need water not only for drinking and showering, but also consume large amounts of water when they consume other products."
     },
     {
      "zh": "例如，一杯咖啡在種植、生產、包裝和運輸的過程中，得消耗 140 升的水，這相當於一個英國人平均每天飲用和家庭生活的用水量。",
-     "py": "Lìrú, yìbēi kāfēi zài zhòngzhí, shēngchǎn, bāozhuāng hé yùnshū de guòchéng zhōng, dé xiāohào 140 shēng de shuǐ, zhè xiāngdāngyú yí ge Yīngguórén píngjūn měitiān yǐnyòng hé jiātíng shēnghuó de yòngshuǐliàng."
+     "py": "Lìrú, yìbēi kāfēi zài zhòngzhí, shēngchǎn, bāozhuāng hé yùnshū de guòchéng zhōng, dé xiāohào 140 shēng de shuǐ, zhè xiāngdāngyú yí ge Yīngguórén píngjūn měitiān yǐnyòng hé jiātíng shēnghuó de yòngshuǐliàng.",
+     "en": "For example, a cup of coffee uses 140 liters of water during growing, production, packaging and transport—equivalent to the average daily water use of a British person for drinking and household life."
     },
     {
      "zh": "「虛擬水」的概念進一步說明了「虛擬水」的交易模式，這對全球的貿易政策及水資源利用產生了重大影響。",
-     "py": "“Xūnǐ shuǐ” de gàiniàn jìnyíbù shuōmíng le “Xūnǐ shuǐ” de jiāoyì móshì, zhè duì quánqiú de màoyì zhèngcè jí shuǐzīyuán lìyòng chǎnshēng le zhòngdà yǐngxiǎng."
+     "py": "“Xūnǐ shuǐ” de gàiniàn jìnyíbù shuōmíng le “Xūnǐ shuǐ” de jiāoyì móshì, zhè duì quánqiú de màoyì zhèngcè jí shuǐzīyuán lìyòng chǎnshēng le zhòngdà yǐngxiǎng.",
+     "en": "The concept of \"virtual water\" further explains the trading model of \"virtual water,\" which has had a major impact on global trade policy and water resource use."
     },
     {
      "zh": "這項理論指出，氣候潮濕地區的農業，多半會利用廉價的自然降雨，而非成本高昂的灌溉系統，因此能大幅降低農業的生產成本。",
-     "py": "Zhèxiàng lǐlùn zhǐchū, qìhòu cháoshī dìqū de nóngyè, duōbànhuì lìyòng liánjià de zìrán jiàngyǔ, ér fēi chéngběn Gāoáng de guàngàixìtǒng, yīncǐ néng dàfú jiàngdī nóngyè de shēngchǎnchéngběn."
+     "py": "Zhèxiàng lǐlùn zhǐchū, qìhòu cháoshī dìqū de nóngyè, duōbànhuì lìyòng liánjià de zìrán jiàngyǔ, ér fēi chéngběn Gāoáng de guàngàixìtǒng, yīncǐ néng dàfú jiàngdī nóngyè de shēngchǎnchéngběn.",
+     "en": "The theory points out that agriculture in humid regions mostly uses cheap natural rainfall rather than costly irrigation systems, and can therefore greatly reduce agricultural production costs."
     },
     {
      "zh": "這些地區可以通過農作物，將水資源「出口」到較為炎熱乾旱的國家。",
-     "py": "Zhèxiē dìqū kěyǐ tōngguò nóngzuòwù, jiāng shuǐzīyuán “Chūkǒu” dào jiàowéi yánrè gānhàn de guójiā."
+     "py": "Zhèxiē dìqū kěyǐ tōngguò nóngzuòwù, jiāng shuǐzīyuán “Chūkǒu” dào jiàowéi yánrè gānhàn de guójiā.",
+     "en": "These regions can \"export\" water resources to hotter, drier countries through crops."
     },
     {
      "zh": "而氣候向來乾旱的國家，則可以「進口」需水量很大的農作物，紓緩國內水資源不足的壓力。",
-     "py": "Ér qìhòu xiànglái gānhàn de guójiā, zé kěyǐ “Jìnkǒu” xūshuǐliàng hěndà de nóngzuòwù, shū huǎn guónèi shuǐzīyuán bùzú de yālì."
+     "py": "Ér qìhòu xiànglái gānhàn de guójiā, zé kěyǐ “Jìnkǒu” xūshuǐliàng hěndà de nóngzuòwù, shū huǎn guónèi shuǐzīyuán bùzú de yālì.",
+     "en": "And countries with dry climates can \"import\" water-intensive crops, relieving the pressure of insufficient domestic water."
     },
     {
      "zh": "儘管檯面上的交易只看得到農產品，實際上卻包括了水資源的交換。",
-     "py": "Jǐnguǎn tái miànshàng de jiāoyì zhǐ kàn dédào nóngchǎnpǐn, shíjìshàng què bāokuò le shuǐzīyuán de jiāohuàn."
+     "py": "Jǐnguǎn tái miànshàng de jiāoyì zhǐ kàn dédào nóngchǎnpǐn, shíjìshàng què bāokuò le shuǐzīyuán de jiāohuàn.",
+     "en": "Although only agricultural products are visible in the trade, it actually includes an exchange of water resources."
     },
     {
      "zh": "舉例來說，在埃及，已經有越來越多的傳統食品是由進口糧食所製造的，反而不是尼羅河所灌溉種植的小麥。",
-     "py": "Jǔlìláishuō, zài Āijí, yǐjīng yǒu yuèláiyuè duō de chuántǒng shípǐn shì yóu jìnkǒu liángshí suǒ zhìzào de, fǎnér búshì Níluóhé suǒ guàngài zhòngzhí de xiǎomài."
+     "py": "Jǔlìláishuō, zài Āijí, yǐjīng yǒu yuèláiyuè duō de chuántǒng shípǐn shì yóu jìnkǒu liángshí suǒ zhìzào de, fǎnér búshì Níluóhé suǒ guàngài zhòngzhí de xiǎomài.",
+     "en": "For example, in Egypt, more and more traditional foods are made from imported grain rather than from wheat irrigated by the Nile."
     },
     {
      "zh": "如果埃及堅持所有的穀物都由自己種植，很快就會面臨水資源不足的窘境。",
-     "py": "Rúguǒ Āijí jiānchí suǒyǒu de gǔwù dōu yóu zìjǐ zhòngzhí, hěnkuài jiù huì miànlín shuǐzīyuán bùzú de jiǒngjìng."
+     "py": "Rúguǒ Āijí jiānchí suǒyǒu de gǔwù dōu yóu zìjǐ zhòngzhí, hěnkuài jiù huì miànlín shuǐzīyuán bùzú de jiǒngjìng.",
+     "en": "If Egypt insisted on growing all its grain itself, it would soon face a water shortage."
     },
     {
      "zh": "世界水資源週所提出的報告也使用了這一個概念，指出當前世界性的糧食危機在於過於浪費，而非生產不足。",
-     "py": "Shìjiè shuǐzīyuán Zhōu suǒ tíchū de bàogào yě shǐyòng le zhè yí ge gàiniàn, zhǐchū dāngqián shìjièxìng de liángshí wēijī zàiyú guòyú làngfèi, ér fēishēngchǎn bùzú."
+     "py": "Shìjiè shuǐzīyuán Zhōu suǒ tíchū de bàogào yě shǐyòng le zhè yí ge gàiniàn, zhǐchū dāngqián shìjièxìng de liángshí wēijī zàiyú guòyú làngfèi, ér fēishēngchǎn bùzú.",
+     "en": "A report from World Water Week also used this concept, pointing out that the current global food crisis lies in excessive waste rather than insufficient production."
     },
     {
      "zh": "因為一份糧食從生產、加工、運輸、儲存、販賣以至於烹煮，每一環節都要消耗水資源，要是消費者丟棄買回來的食物，也意味著浪費了生長、運送、貯存過程中所使用的水。",
-     "py": "Yīnwèi yífèn liángshí cóng shēngchǎn, jiāgōng, yùnshū, chǔcún, fànmài yǐzhìyú pēngzhǔ, měiyī huánjié dōu yào xiāohào shuǐzīyuán, yàoshì xiāofèizhě diūqì mǎihuílái de shíwù, yě yìwèizhù làngfèi le shēngzhǎng, yùnsòng, zhùcún guòchéng zhōng suǒ shǐyòng de shuǐ."
+     "py": "Yīnwèi yífèn liángshí cóng shēngchǎn, jiāgōng, yùnshū, chǔcún, fànmài yǐzhìyú pēngzhǔ, měiyī huánjié dōu yào xiāohào shuǐzīyuán, yàoshì xiāofèizhě diūqì mǎihuílái de shíwù, yě yìwèizhù làngfèi le shēngzhǎng, yùnsòng, zhùcún guòchéng zhōng suǒ shǐyòng de shuǐ.",
+     "en": "Because every step of a portion of food—production, processing, transport, storage, sale and cooking—consumes water, if consumers throw away food they've bought, it also means wasting the water used in growing, transporting and storing it."
     },
     {
      "zh": "專家表示，唯有避免浪費食物，才能有效落實節水政策。",
-     "py": "Zhuānjiā biǎoshì, wéiyǒu bìmiǎnlàngfèi shíwù, cáinéng yǒuxiào luòshí jiéshuǐ zhèngcè."
+     "py": "Zhuānjiā biǎoshì, wéiyǒu bìmiǎnlàngfèi shíwù, cáinéng yǒuxiào luòshí jiéshuǐ zhèngcè.",
+     "en": "Experts say only by avoiding food waste can water-saving policies be effectively implemented."
     }
    ],
    "stem": {
     "zh": "根據第一段，虛擬水這個概念主要在說明什麼？",
-    "py": "Gēnjù dìyíduàn, xūnǐ shuǐ zhè ge gàiniàn zhǔyào zài shuōmíng shénme?"
+    "py": "Gēnjù dìyíduàn, xūnǐ shuǐ zhè ge gàiniàn zhǔyào zài shuōmíng shénme?",
+    "en": "According to the first paragraph, what does the concept of virtual water mainly explain?"
    },
    "options": {
     "A": {
      "zh": "被消耗的水可以再度回收利用",
-     "py": "Bèi xiāohào de shuǐ kěyǐ zàidù huíshōu lìyòng"
+     "py": "Bèi xiāohào de shuǐ kěyǐ zàidù huíshōu lìyòng",
+     "en": "(A) Water that's been used can be recycled again."
     },
     "B": {
      "zh": "一般產品的製造過程也需要水",
-     "py": "Yìbān chǎnpǐn de zhìzào guòchéng yě xūyào shuǐ"
+     "py": "Yìbān chǎnpǐn de zhìzào guòchéng yě xūyào shuǐ",
+     "en": "(B) Making ordinary products also requires water."
     },
     "C": {
      "zh": "人們實際使用的水比想像中少",
-     "py": "Rénmen shíjì shǐyòng de shuǐbǐ xiǎngxiàngzhōng shǎo"
+     "py": "Rénmen shíjì shǐyòng de shuǐbǐ xiǎngxiàngzhōng shǎo",
+     "en": "(C) People actually use less water than imagined."
     },
     "D": {
      "zh": "利用科技尋找水資源的替代品",
-     "py": "Lìyòng kējì xúnzhǎo shuǐzīyuán de tìdàipǐn"
+     "py": "Lìyòng kējì xúnzhǎo shuǐzīyuán de tìdàipǐn",
+     "en": "(D) Using technology to find substitutes for water."
     }
    }
   },
   "41": {
    "stem": {
     "zh": "根據第二段，氣候潮濕的國家如何運用水資源？",
-    "py": "Gēnjù dìèrduàn, qìhòu cháoshī de guójiā rúhé yùnyòng shuǐzīyuán?"
+    "py": "Gēnjù dìèrduàn, qìhòu cháoshī de guójiā rúhé yùnyòng shuǐzīyuán?",
+    "en": "According to the second paragraph, how do countries with humid climates use water resources?"
    },
    "options": {
     "A": {
      "zh": "販售農產品",
-     "py": "Fànshòu nóngchǎnpǐn"
+     "py": "Fànshòu nóngchǎnpǐn",
+     "en": "(A) By selling agricultural products"
     },
     "B": {
      "zh": "大量外銷飲用水",
-     "py": "Dàliàng wàixiāo yǐnyòngshuǐ"
+     "py": "Dàliàng wàixiāo yǐnyòngshuǐ",
+     "en": "(B) By exporting large amounts of drinking water"
     },
     "C": {
      "zh": "進口大量的農作物",
-     "py": "Jìnkǒu dàliàng de nóngzuòwù"
+     "py": "Jìnkǒu dàliàng de nóngzuòwù",
+     "en": "(C) By importing large amounts of crops"
     },
     "D": {
      "zh": "建立完善的灌溉系統",
-     "py": "Jiànlì wánshàn de guàngàixìtǒng"
+     "py": "Jiànlì wánshàn de guàngàixìtǒng",
+     "en": "(D) By building complete irrigation systems"
     }
    }
   },
   "42": {
    "stem": {
     "zh": "根據第二段，關於虛擬水的交易模式，下面哪一個是對的？",
-    "py": "Gēnjù dìèrduàn, guānyú xūnǐ shuǐ de jiāoyì móshì, xiàmiàn nǎ yí ge shì duì de?"
+    "py": "Gēnjù dìèrduàn, guānyú xūnǐ shuǐ de jiāoyì móshì, xiàmiàn nǎ yí ge shì duì de?",
+    "en": "According to the second paragraph, which of the following about the virtual water trading model is correct?"
    },
    "options": {
     "A": {
      "zh": "販賣能開發水資源的科技",
-     "py": "Fànmài néng kāifā shuǐzīyuán de kējì"
+     "py": "Fànmài néng kāifā shuǐzīyuán de kējì",
+     "en": "(A) It sells technology for developing water resources."
     },
     "B": {
      "zh": "以農產品為媒介進行交易",
-     "py": "Yǐ nóngchǎnpǐn wèi méijiè jìnxíng jiāoyì"
+     "py": "Yǐ nóngchǎnpǐn wèi méijiè jìnxíng jiāoyì",
+     "en": "(B) Trade is conducted through agricultural products."
     },
     "C": {
      "zh": "主要透過電腦網路進行交易",
-     "py": "Zhǔyào tòuguò diànnǎo wǎnglù jìnxíng jiāoyì"
+     "py": "Zhǔyào tòuguò diànnǎo wǎnglù jìnxíng jiāoyì",
+     "en": "(C) Trade is mainly conducted over computer networks."
     },
     "D": {
      "zh": "不需藉由其他商品進行交易",
-     "py": "Bù xūjiè yóu qítā shāngpǐn jìnxíng jiāoyì"
+     "py": "Bù xūjiè yóu qítā shāngpǐn jìnxíng jiāoyì",
+     "en": "(D) Trade doesn't need other goods as a medium."
     }
    }
   },
   "43": {
    "stem": {
     "zh": "根據第三段，埃及為什麼使用進口糧食？",
-    "py": "Gēnjù dìsānduàn, Āijí wèishénme shǐyòng jìnkǒu liángshí?"
+    "py": "Gēnjù dìsānduàn, Āijí wèishénme shǐyòng jìnkǒu liángshí?",
+    "en": "According to the third paragraph, why does Egypt use imported grain?"
    },
    "options": {
     "A": {
      "zh": "當地無法生產小麥",
-     "py": "Dāngdì wúfǎ shēngchǎn xiǎomài"
+     "py": "Dāngdì wúfǎ shēngchǎn xiǎomài",
+     "en": "(A) Wheat can't be grown there."
     },
     "B": {
      "zh": "節省境內的用水量",
-     "py": "Jiéshěng jìngnèi de yòngshuǐliàng"
+     "py": "Jiéshěng jìngnèi de yòngshuǐliàng",
+     "en": "(B) To save water within the country"
     },
     "C": {
      "zh": "受傳統飲食習慣影響",
-     "py": "Shòu chuántǒng yǐnshíxíguàn yǐngxiǎng"
+     "py": "Shòu chuántǒng yǐnshíxíguàn yǐngxiǎng",
+     "en": "(C) Influenced by traditional eating habits"
     },
     "D": {
      "zh": "有足夠的水資源來進行交換",
-     "py": "Yǒu zúgòu de shuǐzīyuán lái jìnxíng jiāohuàn"
+     "py": "Yǒu zúgòu de shuǐzīyuán lái jìnxíng jiāohuàn",
+     "en": "(D) It has enough water to exchange."
     }
    }
   },
   "44": {
    "stem": {
     "zh": "最後一段主要在說明什麼？",
-    "py": "Zuìhòu yíduàn zhǔyào zài shuōmíng shénme?"
+    "py": "Zuìhòu yíduàn zhǔyào zài shuōmíng shénme?",
+    "en": "What does the last paragraph mainly explain?"
    },
    "options": {
     "A": {
      "zh": "如何改進糧食的生產過程",
-     "py": "Rúhé gǎijìn liángshí de shēngchǎn guòchéng"
+     "py": "Rúhé gǎijìn liángshí de shēngchǎn guòchéng",
+     "en": "(A) How to improve the food production process"
     },
     "B": {
      "zh": "生產糧食有助於節省水資源",
-     "py": "Shēngchǎn liángshí yǒuzhùyú jiéshěng shuǐzīyuán"
+     "py": "Shēngchǎn liángshí yǒuzhùyú jiéshěng shuǐzīyuán",
+     "en": "(B) Producing food helps save water."
     },
     "C": {
      "zh": "浪費食物也就是浪費水資源",
-     "py": "Làngfèi shíwù yě jiùshì làngfèi shuǐzīyuán"
+     "py": "Làngfèi shíwù yě jiùshì làngfèi shuǐzīyuán",
+     "en": "(C) Wasting food is wasting water."
     },
     "D": {
      "zh": "水資源不足導致世界糧食缺乏",
-     "py": "Shuǐzīyuán bùzú dǎozhì shìjiè liángshí quēfá"
+     "py": "Shuǐzīyuán bùzú dǎozhì shìjiè liángshí quēfá",
+     "en": "(D) Water shortages cause world food shortages."
     }
    }
   },
@@ -1431,197 +1738,240 @@
    "passage": [
     {
      "zh": "（九）",
-     "py": "(Jiǔ)"
+     "py": "(Jiǔ)",
+     "en": "(9)"
     },
     {
      "zh": "我的朋友老張買了份終身壽險、附加手術醫療保險，希望在有生之年若患病、遭逢意外時，能獲得醫療補助或理賠。",
-     "py": "Wǒ de péngyǒu lǎozhāng mǎi le fèn zhōngshēn shòuxiǎn, fùjiā shǒushù yīliáobǎoxiǎn, xīwàng zài yǒushēngzhīnián ruò huànbìng, zāoféng yìwài shí, néng huòdé yīliáo bǔzhù huò lǐpéi."
+     "py": "Wǒ de péngyǒu lǎozhāng mǎi le fèn zhōngshēn shòuxiǎn, fùjiā shǒushù yīliáobǎoxiǎn, xīwàng zài yǒushēngzhīnián ruò huànbìng, zāoféng yìwài shí, néng huòdé yīliáo bǔzhù huò lǐpéi.",
+     "en": "My friend Lao Zhang bought a whole-life insurance policy with surgical medical cover, hoping that if he fell ill or had an accident during his lifetime, he could get medical subsidies or compensation."
     },
     {
      "zh": "然而，前年老張因白內障而動手術，事後向保險公司申請保險金，卻被擋在門外。",
-     "py": "Ránér, qiánnián lǎozhāng yīn báinèizhàng ér dòngshǒushù, shìhòu xiàng bǎoxiǎngōngsī shēnqǐng bǎoxiǎnjīn, què bèi dǎng zài ménwài."
+     "py": "Ránér, qiánnián lǎozhāng yīn báinèizhàng ér dòngshǒushù, shìhòu xiàng bǎoxiǎngōngsī shēnqǐng bǎoxiǎnjīn, què bèi dǎng zài ménwài.",
+     "en": "However, the year before last Lao Zhang had an operation for cataracts, and when he later applied to the insurance company for the payout, he was turned away."
     },
     {
      "zh": "保險專員表示，手術醫療被保險人在接受手術治療後，必須住在醫院始能獲得保險金，而張先生治療白內障屬於當天完成的手術，無法提供任何補助。",
-     "py": "Bǎoxiǎn zhuānyuán biǎoshì, shǒushù yīliáo bèibǎoxiǎnrén zài jiēshòu shǒushù zhìliáo hòu, bìxū zhù zài yīyuàn shǐ néng huòdé bǎoxiǎnjīn, ér Zhāng xiānsheng zhìliáo báinèizhàng shǔyú dàngtiān wánchéng de shǒushù, wúfǎ tígōng rènhé bǔzhù."
+     "py": "Bǎoxiǎn zhuānyuán biǎoshì, shǒushù yīliáo bèibǎoxiǎnrén zài jiēshòu shǒushù zhìliáo hòu, bìxū zhù zài yīyuàn shǐ néng huòdé bǎoxiǎnjīn, ér Zhāng xiānsheng zhìliáo báinèizhàng shǔyú dàngtiān wánchéng de shǒushù, wúfǎ tígōng rènhé bǔzhù.",
+     "en": "The insurance agent said that, under the surgical medical cover, the insured must be admitted to hospital after surgery to receive the payout, and Mr. Zhang's cataract treatment was day surgery, so no subsidy could be provided."
     },
     {
      "zh": "老張對此當然忿忿不平，他認為，以往白內障手術的確得住院，不過現今醫學發達，手術完後即可離開，根本不必住院、浪費醫療資源！",
-     "py": "Lǎozhāng duìcǐ dāngrán fènfènbùpíng, tā rènwéi, yǐwǎng báinèizhàng shǒushù díquè dé zhùyuàn, búguò xiànjīn yīxué fādá, shǒushù wán hòu jíkě líkāi, gēnběn búbì zhùyuàn, làngfèi yīliáo zīyuán!"
+     "py": "Lǎozhāng duìcǐ dāngrán fènfènbùpíng, tā rènwéi, yǐwǎng báinèizhàng shǒushù díquè dé zhùyuàn, búguò xiànjīn yīxué fādá, shǒushù wán hòu jíkě líkāi, gēnběn búbì zhùyuàn, làngfèi yīliáo zīyuán!",
+     "en": "Lao Zhang was naturally indignant. He argued that cataract surgery used to require hospitalization, but with today's advanced medicine you can leave right after the operation—there's no need to be admitted and waste medical resources!"
     },
     {
      "zh": "老張於是向保險事業發展中心提出申訴，希望透過合法途徑獲得理賠。",
-     "py": "Lǎozhāng yúshì xiàng bǎoxiǎn shìyè fāzhǎn zhōngxīn tíchū shēnsù, xīwàng tòuguò héfǎ tújìng huòdé lǐpéi."
+     "py": "Lǎozhāng yúshì xiàng bǎoxiǎn shìyè fāzhǎn zhōngxīn tíchū shēnsù, xīwàng tòuguò héfǎ tújìng huòdé lǐpéi.",
+     "en": "So Lao Zhang filed a complaint with the Insurance Development Center, hoping to get compensation through legal channels."
     },
     {
      "zh": "保險事業發展中心認為，老張確實沒住院，也無需住院，手術實際狀況不符條款約定要件而未獲給付，依約保險公司並無推諉塞責的情況，老張在這場抗爭中其實站不住腳。",
-     "py": "Bǎoxiǎn shìyè fāzhǎn zhōngxīn rènwéi, lǎozhāng quèshí méi zhùyuàn, yě wúxū zhùyuàn, shǒushù shíjì zhuàngkuàng bùfú tiáokuǎn yuēdìng yàojiàn ér wèihuò jǐfù, yīyuē bǎoxiǎngōngsī bìng wú tuīwěi sèzé de qíngkuàng, lǎozhāng zài zhèchǎng Kàngzhēng zhōng qíshí zhànbúzhùjiǎo."
+     "py": "Bǎoxiǎn shìyè fāzhǎn zhōngxīn rènwéi, lǎozhāng quèshí méi zhùyuàn, yě wúxū zhùyuàn, shǒushù shíjì zhuàngkuàng bùfú tiáokuǎn yuēdìng yàojiàn ér wèihuò jǐfù, yīyuē bǎoxiǎngōngsī bìng wú tuīwěi sèzé de qíngkuàng, lǎozhāng zài zhèchǎng Kàngzhēng zhōng qíshí zhànbúzhùjiǎo.",
+     "en": "The Insurance Development Center found that Lao Zhang indeed wasn't hospitalized and didn't need to be, the actual circumstances of the surgery didn't meet the conditions in the policy, so no payment was made; under the contract the insurance company hadn't shirked responsibility, and Lao Zhang actually had no leg to stand on in this dispute."
     },
     {
      "zh": "老張不服申訴結果，故透過網路散播不利於保險公司的評論。",
-     "py": "Lǎozhāng bùfú shēnsù jiéguǒ, gù tòuguò wǎnglù sànbō búlìyú bǎoxiǎngōngsī de pínglùn."
+     "py": "Lǎozhāng bùfú shēnsù jiéguǒ, gù tòuguò wǎnglù sànbō búlìyú bǎoxiǎngōngsī de pínglùn.",
+     "en": "Lao Zhang didn't accept the result of the complaint, so he spread comments online unfavorable to the insurance company."
     },
     {
      "zh": "爾後，保險公司針對老張的這些言論提出惡意誹謗的控訴。",
-     "py": "Ěrhòu, bǎoxiǎngōngsī zhēnduì lǎozhāng de zhèxiē yánlùn tíchū èyì fěibàng de kòngsù."
+     "py": "Ěrhòu, bǎoxiǎngōngsī zhēnduì lǎozhāng de zhèxiē yánlùn tíchū èyì fěibàng de kòngsù.",
+     "en": "Afterwards, the insurance company sued him for malicious defamation over these remarks."
     },
     {
      "zh": "如此一來一往，造成兩敗俱傷。",
-     "py": "Rúcǐ yìláiyìwǎng, zàochéng liǎngbàijùshāng."
+     "py": "Rúcǐ yìláiyìwǎng, zàochéng liǎngbàijùshāng.",
+     "en": "This back and forth left both sides harmed."
     },
     {
      "zh": "我認為保險公司堅守合約條款，對，也不對。",
-     "py": "Wǒ rènwéi bǎoxiǎngōngsī jiānshǒu héyuē tiáokuǎn, duì, yě bù duì."
+     "py": "Wǒ rènwéi bǎoxiǎngōngsī jiānshǒu héyuē tiáokuǎn, duì, yě bù duì.",
+     "en": "I think the insurance company sticking to the terms of the contract is both right and wrong."
     },
     {
      "zh": "也許在「理」方面確實站得住腳，然而，站在「情」方面未免有失人情味、過於冷血。",
-     "py": "Yěxǔ zài “Lǐ” fāngmiàn quèshí zhàndézhùjiǎo, ránér, zhàn zài “Qíng” fāngmiàn wèimiǎn yǒushī rénqíngwèi, guòyú lěngxuè."
+     "py": "Yěxǔ zài “Lǐ” fāngmiàn quèshí zhàndézhùjiǎo, ránér, zhàn zài “Qíng” fāngmiàn wèimiǎn yǒushī rénqíngwèi, guòyú lěngxuè.",
+     "en": "Perhaps in terms of \"reason\" it's on solid ground, but in terms of \"human feeling\" it's rather lacking in warmth and too cold-blooded."
     },
     {
      "zh": "保險公司應該將眼光放遠，網開一面，與當事人溝通協調，最好能主動提供些微補助，如能不拘泥於明文規定，我相信定能提升自身形象，也能使人受惠、創造雙贏。",
-     "py": "Bǎoxiǎngōngsī yīnggāi jiāng yǎnguāng Fàngyuǎn, wǎngkāiyímiàn, yǔ dāngshìrén gōutōng xiétiáo, zuìhǎo néng zhǔdòng tígōng xiēwēi bǔzhù, rú néng bù jūnìyú míngwénguīdìng, wǒ xiāngxìn dìng néng tíshēng zìshēn xíngxiàng, yě néng shǐ rén shòuhuì, chuàngzào Shuāngyíng."
+     "py": "Bǎoxiǎngōngsī yīnggāi jiāng yǎnguāng Fàngyuǎn, wǎngkāiyímiàn, yǔ dāngshìrén gōutōng xiétiáo, zuìhǎo néng zhǔdòng tígōng xiēwēi bǔzhù, rú néng bù jūnìyú míngwénguīdìng, wǒ xiāngxìn dìng néng tíshēng zìshēn xíngxiàng, yě néng shǐ rén shòuhuì, chuàngzào Shuāngyíng.",
+     "en": "The insurance company should take the long view, show some leniency, communicate and negotiate with the person concerned, and ideally offer a small subsidy on its own initiative. If it didn't stick so rigidly to the written rules, I believe it would certainly improve its image, benefit people and create a win-win."
     }
    ],
    "stem": {
     "zh": "如果要在第一段的空格中插入一段話，下列何者最適合？",
-    "py": "Rúguǒ yào zài dìyíduàn de kònggé zhōng chārù yíduànhuà, xiàliè hézhě zuì shìhé?"
+    "py": "Rúguǒ yào zài dìyíduàn de kònggé zhōng chārù yíduànhuà, xiàliè hézhě zuì shìhé?",
+    "en": "If a sentence were to be inserted into the blank in the first paragraph, which would be most suitable?"
    },
    "options": {
     "A": {
      "zh": "有些人不願意買保險，他們認為自己健康無虞。",
-     "py": "Yǒuxiē rén bù yuànyì mǎi bǎoxiǎn, tāmen rènwéi zìjǐ jiànkāng Wúyú."
+     "py": "Yǒuxiē rén bù yuànyì mǎi bǎoxiǎn, tāmen rènwéi zìjǐ jiànkāng Wúyú.",
+     "en": "(A) Some people don't want to buy insurance; they think they're perfectly healthy."
     },
     "B": {
      "zh": "不過，保險公司事後總有一些推託之詞，拒絕理賠。",
-     "py": "Búguò, bǎoxiǎngōngsī shìhòu zǒng yǒu yìxiē tuītuōzhīcí, jùjué lǐpéi."
+     "py": "Búguò, bǎoxiǎngōngsī shìhòu zǒng yǒu yìxiē tuītuōzhīcí, jùjué lǐpéi.",
+     "en": "(B) However, insurance companies always have some excuse afterwards to refuse to pay."
     },
     "C": {
      "zh": "這些保險條款在制定時，難免會有一些不可避免的缺失。",
-     "py": "Zhèxiē bǎoxiǎntiáokuǎn zài zhìdìng shí, nánmiǎnhuì yǒu yìxiē bùkěbìmiǎn de quēshī."
+     "py": "Zhèxiē bǎoxiǎntiáokuǎn zài zhìdìng shí, nánmiǎnhuì yǒu yìxiē bùkěbìmiǎn de quēshī.",
+     "en": "(C) When these policy terms are drawn up, some shortcomings are inevitable."
     },
     "D": {
      "zh": "保險人的想法其實大同小異，都希望買份保障、買份心安。",
-     "py": "Bǎoxiǎnrén de xiǎngfǎ qíshí dàtóngxiǎoyì, dōu xīwàng mǎifèn bǎozhàng, mǎifèn xīnān."
+     "py": "Bǎoxiǎnrén de xiǎngfǎ qíshí dàtóngxiǎoyì, dōu xīwàng mǎifèn bǎozhàng, mǎifèn xīnān.",
+     "en": "(D) Policyholders all think much the same: they want to buy protection and peace of mind."
     }
    }
   },
   "46": {
    "stem": {
     "zh": "根據第二段，老張的立場是什麼？",
-    "py": "Gēnjù dìèrduàn, lǎozhāng de lìchǎng shì shénme?"
+    "py": "Gēnjù dìèrduàn, lǎozhāng de lìchǎng shì shénme?",
+    "en": "According to the second paragraph, what is Lao Zhang's position?"
    },
    "options": {
     "A": {
      "zh": "院方不應省略關鍵的醫療過程",
-     "py": "Yuànfāng bù yīng shěnglüè guānjiàn de yīliáo guòchéng"
+     "py": "Yuànfāng bù yīng shěnglüè guānjiàn de yīliáo guòchéng",
+     "en": "(A) The hospital shouldn't skip key medical procedures."
     },
     "B": {
      "zh": "院方得如實告知病患住院費用",
-     "py": "Yuànfāng dé rúshí gàozhī bìnghuàn zhùyuànfèiyòng"
+     "py": "Yuànfāng dé rúshí gàozhī bìnghuàn zhùyuànfèiyòng",
+     "en": "(B) The hospital must truthfully tell patients the hospitalization costs."
     },
     "C": {
      "zh": "保險公司不應只考量病患住院與否",
-     "py": "Bǎoxiǎngōngsī bùyīng zhǐ kǎoliáng bìnghuàn zhùyuàn yǔfǒu"
+     "py": "Bǎoxiǎngōngsī bùyīng zhǐ kǎoliáng bìnghuàn zhùyuàn yǔfǒu",
+     "en": "(C) The insurance company shouldn't consider only whether the patient was hospitalized."
     },
     "D": {
      "zh": "保險公司須依住院的天數提供補助",
-     "py": "Bǎoxiǎngōngsī Xūyī zhùyuàn de tiānshù tígōng bǔzhù"
+     "py": "Bǎoxiǎngōngsī Xūyī zhùyuàn de tiānshù tígōng bǔzhù",
+     "en": "(D) The insurance company must provide subsidies according to the number of days in hospital."
     }
    }
   },
   "47": {
    "stem": {
     "zh": "第三段的「老張在這場抗爭中其實站不住腳」是什麼意思？",
-    "py": "Dìsānduàn de “Lǎozhāng zài zhèchǎng Kàngzhēng zhōng qíshí zhànbúzhùjiǎo” shì shénme yìsi?"
+    "py": "Dìsānduàn de “Lǎozhāng zài zhèchǎng Kàngzhēng zhōng qíshí zhànbúzhùjiǎo” shì shénme yìsi?",
+    "en": "What does \"Lao Zhang actually had no leg to stand on in this dispute\" in the third paragraph mean?"
    },
    "options": {
     "A": {
      "zh": "老張失去了對抗此事的勇氣",
-     "py": "Lǎozhāng shīqù le duìkàng cǐshì de yǒngqì"
+     "py": "Lǎozhāng shīqù le duìkàng cǐshì de yǒngqì",
+     "en": "(A) Lao Zhang lost the courage to fight this matter."
     },
     "B": {
      "zh": "老張對此事早有萬全的準備",
-     "py": "Lǎozhāng duì cǐshì zǎo yǒu Wànquán de zhǔnbèi"
+     "py": "Lǎozhāng duì cǐshì zǎo yǒu Wànquán de zhǔnbèi",
+     "en": "(B) Lao Zhang had long been fully prepared for this."
     },
     "C": {
      "zh": "老張沒有足夠的理由說服他人",
-     "py": "Lǎozhāng méiyǒu zúgòu de lǐyóu shuōfú tārén"
+     "py": "Lǎozhāng méiyǒu zúgòu de lǐyóu shuōfú tārén",
+     "en": "(C) Lao Zhang didn't have enough grounds to convince others."
     },
     "D": {
      "zh": "老張推卸了自己應負擔的責任",
-     "py": "Lǎozhāng tuīxiè le zìjǐ yīng fùdān de zérèn"
+     "py": "Lǎozhāng tuīxiè le zìjǐ yīng fùdān de zérèn",
+     "en": "(D) Lao Zhang shirked the responsibility he should have borne."
     }
    }
   },
   "48": {
    "stem": {
     "zh": "保險公司的立場是什麼？",
-    "py": "Bǎoxiǎngōngsī de lìchǎng shì shénme?"
+    "py": "Bǎoxiǎngōngsī de lìchǎng shì shénme?",
+    "en": "What is the insurance company's position?"
    },
    "options": {
     "A": {
      "zh": "始終認為保險人浪費醫療資源",
-     "py": "Shǐzhōngrènwéi bǎoxiǎnrén làngfèi yīliáo zīyuán"
+     "py": "Shǐzhōngrènwéi bǎoxiǎnrén làngfèi yīliáo zīyuán",
+     "en": "(A) It always maintained that the policyholder wasted medical resources."
     },
     "B": {
      "zh": "始終堅持依循保險合約的內容",
-     "py": "Shǐzhōng jiānchí yīxún bǎoxiǎn héyuē de nèiróng"
+     "py": "Shǐzhōng jiānchí yīxún bǎoxiǎn héyuē de nèiróng",
+     "en": "(B) It always insisted on following the contents of the insurance contract."
     },
     "C": {
      "zh": "後來願意理賠部分條款的金額",
-     "py": "Hòulái yuànyì lǐpéi bùfèn tiáokuǎn de jīné"
+     "py": "Hòulái yuànyì lǐpéi bùfèn tiáokuǎn de jīné",
+     "en": "(C) It later agreed to pay the amount for some of the terms."
     },
     "D": {
      "zh": "後來同意保險合約確實不通人情",
-     "py": "Hòulái tóngyì bǎoxiǎn héyuē quèshí bùtōngrénqíng"
+     "py": "Hòulái tóngyì bǎoxiǎn héyuē quèshí bùtōngrénqíng",
+     "en": "(D) It later agreed that the insurance contract was indeed heartless."
     }
    }
   },
   "49": {
    "stem": {
     "zh": "根據最後一段，作者認為保險公司怎麼樣？",
-    "py": "Gēnjù zuìhòu yíduàn, zuòzhě rènwéi bǎoxiǎngōngsī zěnmeyàng?"
+    "py": "Gēnjù zuìhòu yíduàn, zuòzhě rènwéi bǎoxiǎngōngsī zěnmeyàng?",
+    "en": "According to the last paragraph, what does the author think of the insurance company?"
    },
    "options": {
     "A": {
      "zh": "太不留情面",
-     "py": "Tài bùliúqíngmiàn"
+     "py": "Tài bùliúqíngmiàn",
+     "en": "(A) It's too unforgiving."
     },
     "B": {
      "zh": "不應避不見面",
-     "py": "Bù yīng bìbújiànmiàn"
+     "py": "Bù yīng bìbújiànmiàn",
+     "en": "(B) It shouldn't avoid meeting people."
     },
     "C": {
      "zh": "應提供全額理賠",
-     "py": "Yīng tígōng quáné lǐpéi"
+     "py": "Yīng tígōng quáné lǐpéi",
+     "en": "(C) It should pay the full amount."
     },
     "D": {
      "zh": "做法不合情、理",
-     "py": "Zuòfǎ bùhé qíng, lǐ"
+     "py": "Zuòfǎ bùhé qíng, lǐ",
+     "en": "(D) Its approach is neither reasonable nor humane."
     }
    }
   },
   "50": {
    "stem": {
     "zh": "下列哪一個最適合做為本文標題？",
-    "py": "Xiàliè nǎ yí ge zuì shìhé zuò wèi běnwén biāotí?"
+    "py": "Xiàliè nǎ yí ge zuì shìhé zuò wèi běnwén biāotí?",
+    "en": "Which of the following is most suitable as the title of this article?"
    },
    "options": {
     "A": {
      "zh": "白紙黑字外的彈性空間",
-     "py": "Báizhǐhēizì wài de tánxìng kōngjiān"
+     "py": "Báizhǐhēizì wài de tánxìng kōngjiān",
+     "en": "(A) Room for flexibility beyond black and white"
     },
     "B": {
      "zh": "小蝦米吃大鯨魚的成功案例",
-     "py": "Xiǎoxiāmǐ chīdà jīngyú de chénggōng ànlì"
+     "py": "Xiǎoxiāmǐ chīdà jīngyú de chénggōng ànlì",
+     "en": "(B) A success story of the little shrimp eating the big whale"
     },
     "C": {
      "zh": "上樑不正、下樑歪的實際案例",
-     "py": "Shàngliángbúzhèng, xià liáng wāi de shíjì ànlì"
+     "py": "Shàngliángbúzhèng, xià liáng wāi de shíjì ànlì",
+     "en": "(C) A real case of \"when the upper beam is crooked, the lower ones are too\""
     },
     "D": {
      "zh": "第三者居中協調才能獲得雙贏",
-     "py": "Dìsānzhě jūzhōng xiétiáo cáinéng huòdé Shuāngyíng"
+     "py": "Dìsānzhě jūzhōng xiétiáo cáinéng huòdé Shuāngyíng",
+     "en": "(D) Only mediation by a third party can achieve a win-win"
     }
    }
   }

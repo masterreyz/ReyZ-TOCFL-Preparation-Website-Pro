@@ -1,63 +1,76 @@
 {
  "testId": "c-r4",
  "segments": 345,
- "englishComplete": false,
+ "englishComplete": true,
  "questions": {
   "1": {
    "passage": [
     {
      "zh": "（一）",
-     "py": "(Yī)"
+     "py": "(Yī)",
+     "en": "(1)"
     },
     {
      "zh": "在北美的城市街頭，經常可見販賣小吃的餐車。這些餐車小吃",
-     "py": "Zài Běiměi de Chéngshì jiētóu, jīngcháng kějiàn fànmài xiǎochī de cānchē. Zhèxiē cānchē xiǎochī"
+     "py": "Zài Běiměi de Chéngshì jiētóu, jīngcháng kějiàn fànmài xiǎochī de cānchē. Zhèxiē cānchē xiǎochī",
+     "en": "On city streets in North America you often see food trucks selling snacks. These food-truck snacks"
     },
     {
      "zh": "1 平價 1 美味，深受一般民眾喜愛，生意也 2 。",
-     "py": "1 píngjià 1 Měiwèi, shēnshòu yìbān mínzhòng xǐài, shēngyì yě 2."
+     "py": "1 píngjià 1 Měiwèi, shēnshòu yìbān mínzhòng xǐài, shēngyì yě 2.",
+     "en": "are ___1___ cheap ___1___ tasty, much loved by ordinary people, and business is ___2___."
     },
     {
      "zh": "隨著餐車飲食日益風行，政府單位決定加強管理。",
-     "py": "Suízhù cānchē yǐnshí rìyì fēngxíng, zhèngfǔ dānwèi juédìng jiāqiáng guǎnlǐ."
+     "py": "Suízhù cānchē yǐnshí rìyì fēngxíng, zhèngfǔ dānwèi juédìng jiāqiáng guǎnlǐ.",
+     "en": "As food-truck eating grows more popular, government departments decided to tighten regulation."
     },
     {
      "zh": "一項新的規定指出，",
-     "py": "Yíxiàng xīn de guīdìng zhǐchū,"
+     "py": "Yíxiàng xīn de guīdìng zhǐchū,",
+     "en": "A new regulation states that"
     },
     {
      "zh": "3 業者清楚標示每種小吃的熱量及營養成分， 3 將無法取得營業許可。",
-     "py": "3 yèzhě qīngchǔ biāoshì měizhǒng xiǎochī de rèliàng jí yíngyǎngchéngfèn, 3 jiāng wúfǎ qǔdé yíngyè Xǔkě."
+     "py": "3 yèzhě qīngchǔ biāoshì měizhǒng xiǎochī de rèliàng jí yíngyǎngchéngfèn, 3 jiāng wúfǎ qǔdé yíngyè Xǔkě.",
+     "en": "___3___ vendors clearly label the calories and nutritional content of every snack, ___3___ they won't be able to get a business license."
     },
     {
      "zh": "4 這項規定立意良好，不少民眾卻認為政府 5 。",
-     "py": "4 zhèxiàng guīdìng lìyì liánghǎo, bùshǎo mínzhòng què rènwéi zhèngfǔ 5."
+     "py": "4 zhèxiàng guīdìng lìyì liánghǎo, bùshǎo mínzhòng què rènwéi zhèngfǔ 5.",
+     "en": "___4___ this regulation is well-intentioned, many people think the government is ___5___."
     },
     {
      "zh": "他們認為，不好的餐車自然會被市場 6 ，政府沒有必要干預。",
-     "py": "Tāmen rènwéi, bùhǎo de cānchē zìrán huì bèi shìchǎng 6, zhèngfǔ méiyǒu bìyào gānyù."
+     "py": "Tāmen rènwéi, bùhǎo de cānchē zìrán huì bèi shìchǎng 6, zhèngfǔ méiyǒu bìyào gānyù.",
+     "en": "They believe bad food trucks will naturally be ___6___ by the market, and there's no need for the government to interfere."
     },
     {
      "zh": "有人說，要是因為新規定而吃不到美食，那損失可就大了。",
-     "py": "Yǒurén shuō, yào shìyīnwèi xīn guīdìng ér chī búdào měishí, nà sǔnshī kě jiù dà le."
+     "py": "Yǒurén shuō, yào shìyīnwèi xīn guīdìng ér chī búdào měishí, nà sǔnshī kě jiù dà le.",
+     "en": "Some say that if the new rules mean they can't get good food, that would be a big loss."
     }
    ],
    "options": {
     "A": {
      "zh": "一…就…",
-     "py": "Yī… jiù…"
+     "py": "Yī… jiù…",
+     "en": "(A) as soon as … then …"
     },
     "B": {
      "zh": "既…又…",
-     "py": "Jì… yòu…"
+     "py": "Jì… yòu…",
+     "en": "(B) both … and …"
     },
     "C": {
      "zh": "若…就…",
-     "py": "Ruò… jiù…"
+     "py": "Ruò… jiù…",
+     "en": "(C) if … then …"
     },
     "D": {
      "zh": "再…也…",
-     "py": "Zài… yě…"
+     "py": "Zài… yě…",
+     "en": "(D) however … still …"
     }
    }
   },
@@ -65,19 +78,23 @@
    "options": {
     "A": {
      "zh": "揮金如土",
-     "py": "Huījīnrútǔ"
+     "py": "Huījīnrútǔ",
+     "en": "(A) spend money like water (idiom)"
     },
     "B": {
      "zh": "一落千丈",
-     "py": "Yíluòqiānzhàng"
+     "py": "Yíluòqiānzhàng",
+     "en": "(B) plummet (idiom)"
     },
     "C": {
      "zh": "不翼而飛",
-     "py": "Búyìérfēi"
+     "py": "Búyìérfēi",
+     "en": "(C) vanish without a trace (idiom)"
     },
     "D": {
      "zh": "蒸蒸日上",
-     "py": "Zhēngzhēngrìshàng"
+     "py": "Zhēngzhēngrìshàng",
+     "en": "(D) flourishing; going from strength to strength (idiom)"
     }
    }
   },
@@ -85,19 +102,23 @@
    "options": {
     "A": {
      "zh": "無論…都…",
-     "py": "Wúlùn… dōu…"
+     "py": "Wúlùn… dōu…",
+     "en": "(A) no matter … all …"
     },
     "B": {
      "zh": "不僅…還…",
-     "py": "Bùjǐn… hái…"
+     "py": "Bùjǐn… hái…",
+     "en": "(B) not only … but also …"
     },
     "C": {
      "zh": "除非…否則…",
-     "py": "Chúfēi… fǒuzé…"
+     "py": "Chúfēi… fǒuzé…",
+     "en": "(C) unless … otherwise …"
     },
     "D": {
      "zh": "雖然…但是…",
-     "py": "Suīrán… dànshì…"
+     "py": "Suīrán… dànshì…",
+     "en": "(D) although … but …"
     }
    }
   },
@@ -105,19 +126,23 @@
    "options": {
     "A": {
      "zh": "儘管",
-     "py": "Jǐnguǎn"
+     "py": "Jǐnguǎn",
+     "en": "(A) although"
     },
     "B": {
      "zh": "由於",
-     "py": "Yóuyú"
+     "py": "Yóuyú",
+     "en": "(B) because"
     },
     "C": {
      "zh": "既然",
-     "py": "Jìrán"
+     "py": "Jìrán",
+     "en": "(C) since (given that)"
     },
     "D": {
      "zh": "除非",
-     "py": "Chúfēi"
+     "py": "Chúfēi",
+     "en": "(D) unless"
     }
    }
   },
@@ -125,19 +150,23 @@
    "options": {
     "A": {
      "zh": "無能為力",
-     "py": "Wúnéngwéilì"
+     "py": "Wúnéngwéilì",
+     "en": "(A) powerless (idiom)"
     },
     "B": {
      "zh": "多管閒事",
-     "py": "Duōguǎnxiánshì"
+     "py": "Duōguǎnxiánshì",
+     "en": "(B) meddling in others' business (idiom)"
     },
     "C": {
      "zh": "隨機應變",
-     "py": "Suíjīyìngbiàn"
+     "py": "Suíjīyìngbiàn",
+     "en": "(C) adapting to circumstances (idiom)"
     },
     "D": {
      "zh": "改過自新",
-     "py": "Gǎiguòzìxīn"
+     "py": "Gǎiguòzìxīn",
+     "en": "(D) turning over a new leaf (idiom)"
     }
    }
   },
@@ -145,19 +174,23 @@
    "options": {
     "A": {
      "zh": "壓迫",
-     "py": "Yāpò"
+     "py": "Yāpò",
+     "en": "(A) oppress"
     },
     "B": {
      "zh": "包圍",
-     "py": "Bāowéi"
+     "py": "Bāowéi",
+     "en": "(B) surround"
     },
     "C": {
      "zh": "淪陷",
-     "py": "Lúnxiàn"
+     "py": "Lúnxiàn",
+     "en": "(C) fall (to the enemy)"
     },
     "D": {
      "zh": "淘汰",
-     "py": "Táotài"
+     "py": "Táotài",
+     "en": "(D) eliminate; weed out"
     }
    }
   },
@@ -165,37 +198,45 @@
    "passage": [
     {
      "zh": "（二）",
-     "py": "(Èr)"
+     "py": "(Èr)",
+     "en": "(2)"
     },
     {
      "zh": "亞非文明起源於大河，歷史上 7 此為「大河文明」。",
-     "py": "Yàfēi Wénmíng qǐyuányú Dàhé, lìshǐ shàng 7 cǐ wèi “Dàhé Wénmíng”."
+     "py": "Yàfēi Wénmíng qǐyuányú Dàhé, lìshǐ shàng 7 cǐ wèi “Dàhé Wénmíng”.",
+     "en": "Asian and African civilizations originated along great rivers; historically these are ___7___ \"river civilizations.\""
     },
     {
      "zh": "因為這些地方氣候溫和，適合 8 生長，為人們創造良好的生存條件，農耕是大河文明基本的經濟 9 。",
-     "py": "Yīnwèi zhèxiē dìfāng qìhòu wēnhé, shìhé 8 shēngzhǎng, wèi rénmen chuàngzào liánghǎo de shēngcúntiáojiàn, Nónggēng shì Dàhé Wénmíng jīběn de jīngjì 9."
+     "py": "Yīnwèi zhèxiē dìfāng qìhòu wēnhé, shìhé 8 shēngzhǎng, wèi rénmen chuàngzào liánghǎo de shēngcúntiáojiàn, Nónggēng shì Dàhé Wénmíng jīběn de jīngjì 9.",
+     "en": "Because the climate in these places is mild and suitable for ___8___ to grow, creating good living conditions for people, farming was the basic economic ___9___ of river civilizations."
     },
     {
      "zh": "古代居民很早 10 在這些地區勞動、生息繁衍，由於 11 豐饒，人民生活富庶，大河 12 成為人類文明的發源地，古埃及、古巴比倫、古印度和古代中國皆屬之。",
-     "py": "Gǔdài jūmín hěnzǎo 10 zài zhèxiē dìqū láodòng, shēngxīfányǎn, yóuyú 11 fēngráo, rénmín shēnghuó fùshù, Dàhé 12 chéngwéi rénlèiwénmíng de fāyuándì, Gǔāijí, Gǔbābǐlún, gǔyìndù hé gǔdài Zhōngguó jiē shǔ zhī."
+     "py": "Gǔdài jūmín hěnzǎo 10 zài zhèxiē dìqū láodòng, shēngxīfányǎn, yóuyú 11 fēngráo, rénmín shēnghuó fùshù, Dàhé 12 chéngwéi rénlèiwénmíng de fāyuándì, Gǔāijí, Gǔbābǐlún, gǔyìndù hé gǔdài Zhōngguó jiē shǔ zhī.",
+     "en": "Ancient inhabitants ___10___ worked, lived and multiplied in these regions very early. Because ___11___ were abundant and people lived prosperously, the river ___12___ became the birthplaces of human civilization—ancient Egypt, ancient Babylon, ancient India and ancient China all belong to them."
     }
    ],
    "options": {
     "A": {
      "zh": "創",
-     "py": "Chuàng"
+     "py": "Chuàng",
+     "en": "(A) create"
     },
     "B": {
      "zh": "辯",
-     "py": "Biàn"
+     "py": "Biàn",
+     "en": "(B) argue"
     },
     "C": {
      "zh": "廢",
-     "py": "Fèi"
+     "py": "Fèi",
+     "en": "(C) abolish"
     },
     "D": {
      "zh": "稱",
-     "py": "Chēng"
+     "py": "Chēng",
+     "en": "(D) call; be called"
     }
    }
   },
@@ -203,19 +244,23 @@
    "options": {
     "A": {
      "zh": "病菌",
-     "py": "Bìngjūn"
+     "py": "Bìngjūn",
+     "en": "(A) germs"
     },
     "B": {
      "zh": "作物",
-     "py": "Zuòwù"
+     "py": "Zuòwù",
+     "en": "(B) crops"
     },
     "C": {
      "zh": "天敵",
-     "py": "Tiāndí"
+     "py": "Tiāndí",
+     "en": "(C) natural enemies"
     },
     "D": {
      "zh": "品種",
-     "py": "Pǐnzhǒng"
+     "py": "Pǐnzhǒng",
+     "en": "(D) varieties; breeds"
     }
    }
   },
@@ -223,19 +268,23 @@
    "options": {
     "A": {
      "zh": "型態",
-     "py": "Xíngtài"
+     "py": "Xíngtài",
+     "en": "(A) form; pattern"
     },
     "B": {
      "zh": "性情",
-     "py": "Xìngqíng"
+     "py": "Xìngqíng",
+     "en": "(B) temperament"
     },
     "C": {
      "zh": "取樣",
-     "py": "Qǔyàng"
+     "py": "Qǔyàng",
+     "en": "(C) sampling"
     },
     "D": {
      "zh": "格式",
-     "py": "Géshì"
+     "py": "Géshì",
+     "en": "(D) format"
     }
    }
   },
@@ -243,19 +292,23 @@
    "options": {
     "A": {
      "zh": "好",
-     "py": "Hǎo"
+     "py": "Hǎo",
+     "en": "(A) good; easy to"
     },
     "B": {
      "zh": "便",
-     "py": "Biàn"
+     "py": "Biàn",
+     "en": "(B) then; already (= 就)"
     },
     "C": {
      "zh": "將",
-     "py": "Jiāng"
+     "py": "Jiāng",
+     "en": "(C) will"
     },
     "D": {
      "zh": "老",
-     "py": "Lǎo"
+     "py": "Lǎo",
+     "en": "(D) always; old"
     }
    }
   },
@@ -263,19 +316,23 @@
    "options": {
     "A": {
      "zh": "財團",
-     "py": "Cáituán"
+     "py": "Cáituán",
+     "en": "(A) consortium"
     },
     "B": {
      "zh": "物產",
-     "py": "Wùchǎn"
+     "py": "Wùchǎn",
+     "en": "(B) produce; products of the land"
     },
     "C": {
      "zh": "報酬",
-     "py": "Bàochóu"
+     "py": "Bàochóu",
+     "en": "(C) reward"
     },
     "D": {
      "zh": "待遇",
-     "py": "Dàiyù"
+     "py": "Dàiyù",
+     "en": "(D) treatment; pay"
     }
    }
   },
@@ -283,19 +340,23 @@
    "options": {
     "A": {
      "zh": "流域",
-     "py": "Liúyù"
+     "py": "Liúyù",
+     "en": "(A) basin (of a river)"
     },
     "B": {
      "zh": "邊界",
-     "py": "Biānjiè"
+     "py": "Biānjiè",
+     "en": "(B) border"
     },
     "C": {
      "zh": "場面",
-     "py": "Chǎngmiàn"
+     "py": "Chǎngmiàn",
+     "en": "(C) scene"
     },
     "D": {
      "zh": "地表",
-     "py": "Dìbiǎo"
+     "py": "Dìbiǎo",
+     "en": "(D) earth's surface"
     }
    }
   },
@@ -303,49 +364,60 @@
    "passage": [
     {
      "zh": "（三）",
-     "py": "(Sān)"
+     "py": "(Sān)",
+     "en": "(3)"
     },
     {
      "zh": "細妹仔仰頭看了今天耀眼的陽光，一聲嘆息，挨著細妹仔呼吸時的那口氣， 13 進了她的心裡。",
-     "py": "Xìmèi zǎi yǎngtóu kàn le jīntiān yàoyǎn de Yángguāng, yìshēng tànxī, āizhù xìmèi zǎi hūxī shí de nà kǒuqì, 13 jìn le tā de xīnlǐ."
+     "py": "Xìmèi zǎi yǎngtóu kàn le jīntiān yàoyǎn de Yángguāng, yìshēng tànxī, āizhù xìmèi zǎi hūxī shí de nà kǒuqì, 13 jìn le tā de xīnlǐ.",
+     "en": "Ximeizai looked up at today's dazzling sunshine and sighed; the sigh, riding on the breath she took, ___13___ into her heart."
     },
     {
      "zh": "她一向跟晴天合不來，晴天， 14 著她慘了、要 15 了。",
-     "py": "Tā yíxiàng gēn Qíngtiān hébùlái, Qíngtiān, 14 zhù tā cǎn le, yào 15 le."
+     "py": "Tā yíxiàng gēn Qíngtiān hébùlái, Qíngtiān, 14 zhù tā cǎn le, yào 15 le.",
+     "en": "She had never got along with sunny days; a sunny day ___14___ she was in trouble and was going to have ___15___."
     },
     {
      "zh": "因為太過晴朗的天空，會讓她阿母想拿出棉被過陽光。",
-     "py": "Yīnwèi tài guò qínglǎng de tiānkōng, huì ràng tā Āmǔ xiǎng náchū miánbèi guò Yángguāng."
+     "py": "Yīnwèi tài guò qínglǎng de tiānkōng, huì ràng tā Āmǔ xiǎng náchū miánbèi guò Yángguāng.",
+     "en": "Because a sky that was too clear would make her mother want to take out the quilts to air in the sun."
     },
     {
      "zh": "而每 16 細妹仔想幫她阿母忙時，不是碰壞家裡花瓶、就是不小心讓棉被掉進水缸， 17 勞動的代價就是被她阿母關進後院的小黑屋裡。",
-     "py": "Ér měi 16 xìmèi zǎi xiǎng bāng tā Āmǔ máng shí, búshì pènghuài jiālǐ huāpíng, jiùshì bù xiǎoxīn ràng miánbèi diào jìn shuǐgāng, 17 láodòng de dàijià jiùshì bèi tā Āmǔ guānjìn hòuyuàn de xiǎohēi wūlǐ."
+     "py": "Ér měi 16 xìmèi zǎi xiǎng bāng tā Āmǔ máng shí, búshì pènghuài jiālǐ huāpíng, jiùshì bù xiǎoxīn ràng miánbèi diào jìn shuǐgāng, 17 láodòng de dàijià jiùshì bèi tā Āmǔ guānjìn hòuyuàn de xiǎohēi wūlǐ.",
+     "en": "And every ___16___ Ximeizai tried to help her mother, she'd either break a vase at home or accidentally drop a quilt into the water vat; ___17___ the price of her labor was being locked by her mother in the little dark shed in the backyard."
     },
     {
      "zh": "等細妹仔終於能從小黑屋出來時，天氣通常已經由晴",
-     "py": "Děng xìmèi zǎi zhōngyú néng cóngxiǎo hēiwū chūlái shí, tiānqì tōngcháng yǐjīng Yóuqíng"
+     "py": "Děng xìmèi zǎi zhōngyú néng cóngxiǎo hēiwū chūlái shí, tiānqì tōngcháng yǐjīng Yóuqíng",
+     "en": "By the time Ximeizai could finally come out of the shed, the weather had usually gone from sunny"
     },
     {
      "zh": "18 陰了，眼看快要下雨，阿母需要人手收棉被，才又想起了她。",
-     "py": "18 yīn le, yǎnkàn kuàiyào xiàyǔ, Āmǔ xūyào rénshǒu shōu miánbèi, cái yòu xiǎngqǐ le tā."
+     "py": "18 yīn le, yǎnkàn kuàiyào xiàyǔ, Āmǔ xūyào rénshǒu shōu miánbèi, cái yòu xiǎngqǐ le tā.",
+     "en": "___18___ cloudy; with rain about to fall, her mother needed hands to bring in the quilts, and only then remembered her."
     }
    ],
    "options": {
     "A": {
      "zh": "鑽",
-     "py": "Zuān"
+     "py": "Zuān",
+     "en": "(A) bore; slip into"
     },
     "B": {
      "zh": "按",
-     "py": "Àn"
+     "py": "Àn",
+     "en": "(B) press"
     },
     "C": {
      "zh": "促",
-     "py": "Cù"
+     "py": "Cù",
+     "en": "(C) urge"
     },
     "D": {
      "zh": "剝",
-     "py": "Bō"
+     "py": "Bō",
+     "en": "(D) peel"
     }
    }
   },
@@ -353,19 +425,23 @@
    "options": {
     "A": {
      "zh": "迎合",
-     "py": "Yínghé"
+     "py": "Yínghé",
+     "en": "(A) cater to"
     },
     "B": {
      "zh": "懊惱",
-     "py": "Àonǎo"
+     "py": "Àonǎo",
+     "en": "(B) feel annoyed with oneself"
     },
     "C": {
      "zh": "憧憬",
-     "py": "Chōngjǐng"
+     "py": "Chōngjǐng",
+     "en": "(C) long for"
     },
     "D": {
      "zh": "意味",
-     "py": "Yìwèi"
+     "py": "Yìwèi",
+     "en": "(D) mean; signify"
     }
    }
   },
@@ -373,19 +449,23 @@
    "options": {
     "A": {
      "zh": "混淆",
-     "py": "Hùnxiáo"
+     "py": "Hùnxiáo",
+     "en": "(A) confuse"
     },
     "B": {
      "zh": "倒楣",
-     "py": "Dàoméi"
+     "py": "Dàoméi",
+     "en": "(B) bad luck"
     },
     "C": {
      "zh": "恍惚",
-     "py": "Huǎnghū"
+     "py": "Huǎnghū",
+     "en": "(C) in a daze"
     },
     "D": {
      "zh": "放蕩",
-     "py": "Fàngdàng"
+     "py": "Fàngdàng",
+     "en": "(D) dissolute"
     }
    }
   },
@@ -393,19 +473,23 @@
    "options": {
     "A": {
      "zh": "回",
-     "py": "Huí"
+     "py": "Huí",
+     "en": "(A) time (measure word for occurrences)"
     },
     "B": {
      "zh": "步",
-     "py": "Bù"
+     "py": "Bù",
+     "en": "(B) step"
     },
     "C": {
      "zh": "道",
-     "py": "Dào"
+     "py": "Dào",
+     "en": "(C) 道 (measure word for courses, orders)"
     },
     "D": {
      "zh": "列",
-     "py": "Liè"
+     "py": "Liè",
+     "en": "(D) row; 列 (measure word for trains)"
     }
    }
   },
@@ -413,19 +497,23 @@
    "options": {
     "A": {
      "zh": "雖說",
-     "py": "Suīshuō"
+     "py": "Suīshuō",
+     "en": "(A) although it's said"
     },
     "B": {
      "zh": "倘若",
-     "py": "Tǎngruò"
+     "py": "Tǎngruò",
+     "en": "(B) if"
     },
     "C": {
      "zh": "縱使",
-     "py": "Zòngshǐ"
+     "py": "Zòngshǐ",
+     "en": "(C) even if"
     },
     "D": {
      "zh": "以致",
-     "py": "Yǐzhì"
+     "py": "Yǐzhì",
+     "en": "(D) so that; with the result that"
     }
    }
   },
@@ -433,19 +521,23 @@
    "options": {
     "A": {
      "zh": "向",
-     "py": "Xiàng"
+     "py": "Xiàng",
+     "en": "(A) toward"
     },
     "B": {
      "zh": "成",
-     "py": "Chéng"
+     "py": "Chéng",
+     "en": "(B) become"
     },
     "C": {
      "zh": "轉",
-     "py": "Zhuǎn"
+     "py": "Zhuǎn",
+     "en": "(C) turn (to)"
     },
     "D": {
      "zh": "化",
-     "py": "Huà"
+     "py": "Huà",
+     "en": "(D) transform"
     }
    }
   },
@@ -453,61 +545,74 @@
    "passage": [
     {
      "zh": "（一）",
-     "py": "(Yī)"
+     "py": "(Yī)",
+     "en": "(1)"
     },
     {
      "zh": "自 1994 年開放國外盤期貨交易以來，期貨商一直處於虧損累累的經營狀況，直到 1998 年開放國內市場之後，投資人開始認識期貨商品，部分期貨商終於開始獲利。",
-     "py": "Zì 1994 nián kāifàng guówài pán qīhuòjiāoyì yǐlái, qīhuò shāng yìzhí chǔyú kuīsǔnlěilěi de jīngyíng zhuàngkuàng, zhídào 1998 nián kāifàng guónèi shìchǎng zhīhòu, tóuzīrén kāishǐ rènshi qīhuò shāngpǐn, bùfèn qīhuò shāng zhōngyú kāishǐ huòlì."
+     "py": "Zì 1994 nián kāifàng guówài pán qīhuòjiāoyì yǐlái, qīhuò shāng yìzhí chǔyú kuīsǔnlěilěi de jīngyíng zhuàngkuàng, zhídào 1998 nián kāifàng guónèi shìchǎng zhīhòu, tóuzīrén kāishǐ rènshi qīhuò shāngpǐn, bùfèn qīhuò shāng zhōngyú kāishǐ huòlì.",
+     "en": "Since overseas futures trading was opened up in 1994, futures brokers had been running up losses, until the domestic market was opened in 1998; investors began to understand futures products, and some brokers finally started making a profit."
     },
     {
      "zh": "去年股市走大空頭，證券商減薪、裁員不斷，股市走勢波動震盪加劇讓期貨市場麻雀變鳳凰，市場成交量較 1994年高出近三十倍，一掃過去無人聞問的陰霾。",
-     "py": "Qùnián gǔshì zǒu dà kōngtóu, zhèngquànshāng jiǎnxīn, cáiyuán búduàn, gǔshì zǒushì bōdòng zhèndàng jiājù ràng qīhuòshìchǎng máquè biànfènghuáng, shìchǎng chéngjiāoliàng jiào 1994 nián gāochū jìn sānshíbèi, yī sǎoguòqù wúrén wénwèn de yīnmái."
+     "py": "Qùnián gǔshì zǒu dà kōngtóu, zhèngquànshāng jiǎnxīn, cáiyuán búduàn, gǔshì zǒushì bōdòng zhèndàng jiājù ràng qīhuòshìchǎng máquè biànfènghuáng, shìchǎng chéngjiāoliàng jiào 1994 nián gāochū jìn sānshíbèi, yī sǎoguòqù wúrén wénwèn de yīnmái.",
+     "en": "Last year the stock market was in a deep bear market, and securities firms kept cutting pay and laying off staff. The intensified volatility of the stock market turned the futures market from a sparrow into a phoenix: trading volume was nearly thirty times that of 1994, sweeping away the gloom of the past when no one paid it any attention."
     }
    ],
    "stem": {
     "zh": "期貨交易初期，期貨商的經營狀況如何？",
-    "py": "Qīhuòjiāoyì chūqī, qīhuò shāng de jīngyíng zhuàngkuàng rúhé?"
+    "py": "Qīhuòjiāoyì chūqī, qīhuò shāng de jīngyíng zhuàngkuàng rúhé?",
+    "en": "In the early days of futures trading, how were futures brokers doing?"
    },
    "options": {
     "A": {
      "zh": "賠很多錢",
-     "py": "Péi hěnduō qián"
+     "py": "Péi hěnduō qián",
+     "en": "(A) They lost a lot of money."
     },
     "B": {
      "zh": "不賠不賺",
-     "py": "Bùpéi bù zhuàn"
+     "py": "Bùpéi bù zhuàn",
+     "en": "(B) They broke even."
     },
     "C": {
      "zh": "業績大幅成長",
-     "py": "Yèjì dàfú chéngzhǎng"
+     "py": "Yèjì dàfú chéngzhǎng",
+     "en": "(C) Business grew sharply."
     },
     "D": {
      "zh": "業績呈穩定成長",
-     "py": "Yèjì chéng wěndìng chéngzhǎng"
+     "py": "Yèjì chéng wěndìng chéngzhǎng",
+     "en": "(D) Business grew steadily."
     }
    }
   },
   "20": {
    "stem": {
     "zh": "根據這篇報導，去年期貨的表現如何？",
-    "py": "Gēnjù zhè piān bàodǎo, qùnián qīhuò de biǎoxiàn rúhé?"
+    "py": "Gēnjù zhè piān bàodǎo, qùnián qīhuò de biǎoxiàn rúhé?",
+    "en": "According to this report, how did futures perform last year?"
    },
    "options": {
     "A": {
      "zh": "無人投資",
-     "py": "Wúrén tóuzī"
+     "py": "Wúrén tóuzī",
+     "en": "(A) No one invested."
     },
     "B": {
      "zh": "大幅成長",
-     "py": "Dàfú chéngzhǎng"
+     "py": "Dàfú chéngzhǎng",
+     "en": "(B) They grew dramatically."
     },
     "C": {
      "zh": "大起大落",
-     "py": "Dàqǐdàluò"
+     "py": "Dàqǐdàluò",
+     "en": "(C) They rose and fell sharply."
     },
     "D": {
      "zh": "跌落谷底",
-     "py": "Diēluò gǔdǐ"
+     "py": "Diēluò gǔdǐ",
+     "en": "(D) They hit rock bottom."
     }
    }
   },
@@ -515,65 +620,79 @@
    "passage": [
     {
      "zh": "（二）",
-     "py": "(Èr)"
+     "py": "(Èr)",
+     "en": "(2)"
     },
     {
      "zh": "某知名品牌推出環保購物袋，一上市竟然引發搶購熱潮，輿論提出不少的批評與省思，主要都是在攻擊國人崇尚名牌的虛榮心。",
-     "py": "Mǒu zhīmíngpǐnpái tuīchū huánbǎo gòuwùdài, yī Shàngshì jìngrán yǐnfā qiǎnggòu rècháo, yúlùn tíchū bùshǎo de pīpíng yǔ shěngsī, zhǔyào dōu shì zài gōngjī guórén Chóngshàng míngpái de xūróngxīn."
+     "py": "Mǒu zhīmíngpǐnpái tuīchū huánbǎo gòuwùdài, yī Shàngshì jìngrán yǐnfā qiǎnggòu rècháo, yúlùn tíchū bùshǎo de pīpíng yǔ shěngsī, zhǔyào dōu shì zài gōngjī guórén Chóngshàng míngpái de xūróngxīn.",
+     "en": "A well-known brand launched an eco-friendly shopping bag, which surprisingly set off a buying frenzy as soon as it went on sale. Public opinion offered much criticism and reflection, mainly attacking people's vanity in worshipping brands."
     },
     {
      "zh": "事實上，民眾對名牌的狂熱豈止是環保袋而已？",
-     "py": "Shìshíshàng, mínzhòng duì míngpái de kuángrè qǐzhǐ shì huánbǎo dài éryǐ?"
+     "py": "Shìshíshàng, mínzhòng duì míngpái de kuángrè qǐzhǐ shì huánbǎo dài éryǐ?",
+     "en": "In fact, is the public's craze for brands limited to eco bags?"
     },
     {
      "zh": "「名牌」在我們生活中已經無孔不入，舉凡帶有「名」字的事物──名醫、名校、名店……必定會引起瘋狂競爭心理，誰都想搶先一步，因此長久以來大排長龍、整夜等候的奇觀，早已是一種見怪不怪的全民運動，即使是環保袋，仍然脫離不了「標籤主義」的作祟。",
-     "py": "“Míngpái” zài wǒmen shēnghuó zhōng yǐjīng wúkǒngbúrù, jǔfán dàiyǒu “Míng” zì de shìwù ─ ─ míngyī, míngxiào, míngdiàn…… bìdìnghuì yǐnqǐ fēngkuáng jìngzhēng xīnlǐ, shuí dōu xiǎng qiǎngxiānyíbù, yīncǐ chángjiǔyǐlái dàpáizhǎnglóng, zhěngyè děnghòu de qíguān, zǎoyǐ shì yìzhǒng jiànguàibúguài de Quánmínyùndòng, jíshǐ shì huánbǎo dài, réngrán tuōlí bùliǎo “Biāoqiān zhǔyì” de zuòsuì."
+     "py": "“Míngpái” zài wǒmen shēnghuó zhōng yǐjīng wúkǒngbúrù, jǔfán dàiyǒu “Míng” zì de shìwù ─ ─ míngyī, míngxiào, míngdiàn…… bìdìnghuì yǐnqǐ fēngkuáng jìngzhēng xīnlǐ, shuí dōu xiǎng qiǎngxiānyíbù, yīncǐ chángjiǔyǐlái dàpáizhǎnglóng, zhěngyè děnghòu de qíguān, zǎoyǐ shì yìzhǒng jiànguàibúguài de Quánmínyùndòng, jíshǐ shì huánbǎo dài, réngrán tuōlí bùliǎo “Biāoqiān zhǔyì” de zuòsuì.",
+     "en": "\"Brand names\" have permeated every part of our lives. Anything carrying the word \"famous\"—famous doctors, famous schools, famous shops…—is bound to trigger a frenzied competitive mentality, with everyone wanting to get ahead. So the spectacle of long queues and overnight waiting has long been a familiar nationwide pastime; even with an eco bag, people can't escape the influence of \"label-ism.\""
     }
    ],
    "stem": {
     "zh": "本文的主旨是什麼？",
-    "py": "Běnwén de zhǔzhǐ shì shénme?"
+    "py": "Běnwén de zhǔzhǐ shì shénme?",
+    "en": "What is the main idea of this article?"
    },
    "options": {
     "A": {
      "zh": "到處都買得到名牌商品",
-     "py": "Dàochù dōu mǎi dédào míngpáishāngpǐn"
+     "py": "Dàochù dōu mǎi dédào míngpáishāngpǐn",
+     "en": "(A) Brand-name goods can be bought everywhere."
     },
     "B": {
      "zh": "全民一起響應環保運動",
-     "py": "Quánmín yìqǐ xiǎngyìng huánbǎo yùndòng"
+     "py": "Quánmín yìqǐ xiǎngyìng huánbǎo yùndòng",
+     "en": "(B) Everyone is responding to the environmental movement."
     },
     "C": {
      "zh": "要享用名牌就得耐心排隊購買",
-     "py": "Yào xiǎngyòng míngpái jiù dé nàixīn páiduì gòumǎi"
+     "py": "Yào xiǎngyòng míngpái jiù dé nàixīn páiduì gòumǎi",
+     "en": "(C) To enjoy brand names you have to queue patiently."
     },
     "D": {
      "zh": "民眾多崇拜具知名度的人事物",
-     "py": "Mínzhòng duō Chóngbài jù zhīmíngdù de rén shìwù"
+     "py": "Mínzhòng duō Chóngbài jù zhīmíngdù de rén shìwù",
+     "en": "(D) Most people worship well-known people and things."
     }
    }
   },
   "22": {
    "stem": {
     "zh": "根據本文，以下哪一項正確？",
-    "py": "Gēnjù běnwén, yǐxià nǎ yíxiàng zhèngquè?"
+    "py": "Gēnjù běnwén, yǐxià nǎ yíxiàng zhèngquè?",
+    "en": "According to the article, which of the following is correct?"
    },
    "options": {
     "A": {
      "zh": "提倡環保的同時，也要兼顧時尚流行",
-     "py": "Tíchàng huánbǎo de tóngshí, yě yào jiāngù shíshàng liúxíng"
+     "py": "Tíchàng huánbǎo de tóngshí, yě yào jiāngù shíshàng liúxíng",
+     "en": "(A) While promoting environmental protection, fashion should also be considered."
     },
     "B": {
      "zh": "環保意識的高漲帶動了環保袋的流行",
-     "py": "Huánbǎo yìshí de gāozhǎng dàidòng le huánbǎo dài de liúxíng"
+     "py": "Huánbǎo yìshí de gāozhǎng dàidòng le huánbǎo dài de liúxíng",
+     "en": "(B) Rising environmental awareness made eco bags popular."
     },
     "C": {
      "zh": "排隊購買名牌商品是一種很普遍的現象",
-     "py": "Páiduì gòumǎi míngpáishāngpǐn shì yìzhǒng hěn pǔbiàn de xiànxiàng"
+     "py": "Páiduì gòumǎi míngpáishāngpǐn shì yìzhǒng hěn pǔbiàn de xiànxiàng",
+     "en": "(C) Queuing to buy brand-name goods is a very common phenomenon."
     },
     "D": {
      "zh": "名牌商品掛上了環保標籤才會引起搶購",
-     "py": "Míngpáishāngpǐn guàshàng le huánbǎo biāoqiān cái huì yǐnqǐ qiǎnggòu"
+     "py": "Míngpáishāngpǐn guàshàng le huánbǎo biāoqiān cái huì yǐnqǐ qiǎnggòu",
+     "en": "(D) Brand-name goods only cause a buying frenzy when given an eco label."
     }
    }
   },
@@ -581,137 +700,168 @@
    "passage": [
     {
      "zh": "（三）",
-     "py": "(Sān)"
+     "py": "(Sān)",
+     "en": "(3)"
     },
     {
      "zh": "定期保養和簡易維修引擎機油在每次騎乘機車前，應檢查引擎機油量以及機油是否洩漏。",
-     "py": "Dìngqī bǎoyǎng hé jiǎnyì wéixiū yǐnqíng jīyóu zài měicì qíchéng jīchē qián, yīng jiǎnchá yǐnqíng jīyóu liàng yǐjí jīyóu shìfǒu xièlòu."
+     "py": "Dìngqī bǎoyǎng hé jiǎnyì wéixiū yǐnqíng jīyóu zài měicì qíchéng jīchē qián, yīng jiǎnchá yǐnqíng jīyóu liàng yǐjí jīyóu shìfǒu xièlòu.",
+     "en": "Regular maintenance and simple repairs — Engine oil: Before every ride, check the engine oil level and whether oil is leaking."
     },
     {
      "zh": "若發現任何漏油跡象，請回本廠檢查。",
-     "py": "Ruò fāxiàn rènhé lòuyóu jìxiàng, qǐng huí běnchǎng jiǎnchá."
+     "py": "Ruò fāxiàn rènhé lòuyóu jìxiàng, qǐng huí běnchǎng jiǎnchá.",
+     "en": "If you find any sign of a leak, please bring it back to our workshop for inspection."
     },
     {
      "zh": "當機油更換指示器亮燈閃爍時，應更換引擎機油和清潔機油濾網。",
-     "py": "Dāng jīyóu gēnghuàn zhǐshìqì liàngdēng shǎnshuò shí, yīng gēnghuàn yǐnqíng jīyóu hé qīngjié jīyóu Lǜwǎng."
+     "py": "Dāng jīyóu gēnghuàn zhǐshìqì liàngdēng shǎnshuò shí, yīng gēnghuàn yǐnqíng jīyóu hé qīngjié jīyóu Lǜwǎng.",
+     "en": "When the oil change indicator light flashes, change the engine oil and clean the oil filter screen."
     },
     {
      "zh": "檢查引擎機油量1. 請使用主支架駐車。",
-     "py": "Jiǎnchá yǐnqíng jīyóu liàng 1. Qǐng shǐyòng zhǔ zhījià zhùchē."
+     "py": "Jiǎnchá yǐnqíng jīyóu liàng 1. Qǐng shǐyòng zhǔ zhījià zhùchē.",
+     "en": "Checking the engine oil level: 1. Park on the center stand."
     },
     {
      "zh": "傾斜的車 4. 若引擎機油低於下限，則添加",
-     "py": "Qīngxié de chē 4. Ruò yǐnqíng jīyóu dīyú xiàxiàn, zé tiānjiā"
+     "py": "Qīngxié de chē 4. Ruò yǐnqíng jīyóu dīyú xiàxiàn, zé tiānjiā",
+     "en": "[two columns run together] A tilted body … / 4. If the engine oil is below the lower limit, add"
     },
     {
      "zh": "身會導致誤判。建議使用的機油至正確的高2. 啟動引擎，怠速運轉暖車 2～3 度。",
-     "py": "Shēnhuì dǎozhì wùpàn. Jiànyì shǐyòng de jīyóu zhì zhèngquè de gāo 2. Qǐdòng yǐnqíng, dài sù yùnzhuàn nuǎn chē 2~ 3 dù."
+     "py": "Shēnhuì dǎozhì wùpàn. Jiànyì shǐyòng de jīyóu zhì zhèngquè de gāo 2. Qǐdòng yǐnqíng, dài sù yùnzhuàn nuǎn chē 2~ 3 dù.",
+     "en": "[two columns run together] … can cause a misreading. / the recommended oil up to the correct level. 2. Start the engine and let it idle for 2–3"
     },
     {
      "zh": "分鐘後熄火。",
-     "py": "Fēnzhōng hòu xīhuǒ."
+     "py": "Fēnzhōng hòu xīhuǒ.",
+     "en": "minutes to warm up, then switch it off."
     },
     {
      "zh": "5. 檢查機油加油蓋的護油圈是3. 等待 2、3 分鐘讓機油沉澱，否完好，必要時更換新品。",
-     "py": "5. Jiǎnchá jīyóu jiāyóu gài de hùyóuquān shì 3. Děngdài 2, 3 fēnzhōng ràng jīyóu chéndiàn, fǒu wánhǎo, bìyào shí gēnghuàn xīnpǐn."
+     "py": "5. Jiǎnchá jīyóu jiāyóu gài de hùyóuquān shì 3. Děngdài 2, 3 fēnzhōng ràng jīyóu chéndiàn, fǒu wánhǎo, bìyào shí gēnghuàn xīnpǐn.",
+     "en": "[two columns run together] 5. Check whether the oil seal on the oil filler cap / 3. Wait 2–3 minutes for the oil to settle; … is intact, and replace it if necessary."
     },
     {
      "zh": "接著逆時針方向旋轉取出機油 6. 檢查完畢，將量油尺插回機油",
-     "py": "Jiēzhù nìshízhēn fāngxiàng xuánzhuǎn qǔchū jīyóu 6. Jiǎnchá wánbì, jiāng liàngyóuchǐ chāhuí jīyóu"
+     "py": "Jiēzhù nìshízhēn fāngxiàng xuánzhuǎn qǔchū jīyóu 6. Jiǎnchá wánbì, jiāng liàngyóuchǐ chāhuí jīyóu",
+     "en": "[two columns run together] then turn counterclockwise to remove the oil / 6. When finished, insert the dipstick back into the oil"
     },
     {
      "zh": "加油蓋，將加油蓋上的油尺擦加油口，然後順時針方向旋轉",
-     "py": "Jiāyóu gài, jiāng jiāyóu gài shàng de yóuchǐ cā jiāyóu kǒu, ránhòu shùnshízhēn fāngxiàng xuánzhuǎn"
+     "py": "Jiāyóu gài, jiāng jiāyóu gài shàng de yóuchǐ cā jiāyóu kǒu, ránhòu shùnshízhēn fāngxiàng xuánzhuǎn",
+     "en": "[two columns run together] filler cap; wipe the dipstick on the filler cap / filler hole, then turn it clockwise"
     },
     {
      "zh": "拭乾淨，再插回機油加油口（不鎖緊機油加油蓋。",
-     "py": "Shì gānjìng, zài chāhuí jīyóu jiāyóu kǒu (Bù suǒjǐn jīyóu jiāyóu gài."
+     "py": "Shì gānjìng, zài chāhuí jīyóu jiāyóu kǒu (Bù suǒjǐn jīyóu jiāyóu gài.",
+     "en": "[two columns run together] clean and insert it back into the oil filler hole (don't / to tighten the oil filler cap."
     },
     {
      "zh": "可旋入）。將加油蓋取出，再次",
-     "py": "Kě xuánrù). Jiāng jiāyóu gài qǔchū, zàicì"
+     "py": "Kě xuánrù). Jiāng jiāyóu gài qǔchū, zàicì",
+     "en": "screw it in). Take out the filler cap and once again"
     },
     {
      "zh": "檢查量油尺上的機油量。",
-     "py": "Jiǎnchá liàngyóuchǐ shàng de jīyóu liàng."
+     "py": "Jiǎnchá liàngyóuchǐ shàng de jīyóu liàng.",
+     "en": "check the oil level on the dipstick."
     },
     {
      "zh": "註：騎乘中的機車引擎已充分暖車，即不需再暖車。",
-     "py": "Zhù: Qíchéng zhōng de jīchē yǐnqíng yǐ chōngfèn nuǎn chē, jí bù xū zài nuǎn chē."
+     "py": "Zhù: Qíchéng zhōng de jīchē yǐnqíng yǐ chōngfèn nuǎn chē, jí bù xū zài nuǎn chē.",
+     "en": "Note: If the motorcycle engine has just been ridden and is fully warmed up, there's no need to warm it up again."
     },
     {
      "zh": "引擎機油量應介於上限與下限之間。",
-     "py": "Yǐnqíng jīyóu liàng yīng jièyú shàngxiàn yǔ xiàxiàn zhījiān."
+     "py": "Yǐnqíng jīyóu liàng yīng jièyú shàngxiàn yǔ xiàxiàn zhījiān.",
+     "en": "The engine oil level should be between the upper and lower limits."
     }
    ],
    "stem": {
     "zh": "在這則說明中，提到什麼時候要換引擎機油？",
-    "py": "Zài zhè zé shuōmíng zhōng, tídào shénme shíhòu yàohuàn yǐnqíng jīyóu?"
+    "py": "Zài zhè zé shuōmíng zhōng, tídào shénme shíhòu yàohuàn yǐnqíng jīyóu?",
+    "en": "According to these instructions, when should the engine oil be changed?"
    },
    "options": {
     "A": {
      "zh": "每次騎乘機車時",
-     "py": "Měicì qíchéng jīchē shí"
+     "py": "Měicì qíchéng jīchē shí",
+     "en": "(A) Every time you ride the motorcycle"
     },
     "B": {
      "zh": "更換指示器燈亮時",
-     "py": "Gēnghuàn zhǐshìqì dēngliàng shí"
+     "py": "Gēnghuàn zhǐshìqì dēngliàng shí",
+     "en": "(B) When the change indicator light comes on"
     },
     "C": {
      "zh": "騎乘至固定里程數時",
-     "py": "Qíchéng zhì gùdìng lǐchéng shù shí"
+     "py": "Qíchéng zhì gùdìng lǐchéng shù shí",
+     "en": "(C) After riding a fixed mileage"
     },
     "D": {
      "zh": "加油指示標線達下限時",
-     "py": "Jiāyóu zhǐshì biāoxiàn dá xiàxiàn shí"
+     "py": "Jiāyóu zhǐshì biāoxiàn dá xiàxiàn shí",
+     "en": "(D) When the oil level mark reaches the lower limit"
     }
    }
   },
   "24": {
    "stem": {
     "zh": "關於檢查引擎機油量，下列哪一項符合說明？",
-    "py": "Guānyú jiǎnchá yǐnqíng jīyóu liàng, xiàliè nǎ yíxiàng fúhé shuōmíng?"
+    "py": "Guānyú jiǎnchá yǐnqíng jīyóu liàng, xiàliè nǎ yíxiàng fúhé shuōmíng?",
+    "en": "About checking the engine oil level, which of the following matches the instructions?"
    },
    "options": {
     "A": {
      "zh": "車身必須平穩且靜止不動",
-     "py": "Chēshēn bìxū píngwěn qiě jìngzhǐbúdòng"
+     "py": "Chēshēn bìxū píngwěn qiě jìngzhǐbúdòng",
+     "en": "(A) The motorcycle must be level and stationary."
     },
     "B": {
      "zh": "機油加油蓋以順時針方向旋出",
-     "py": "Jīyóu jiāyóu gài yǐ shùnshízhēn fāngxiàng xuánchū"
+     "py": "Jīyóu jiāyóu gài yǐ shùnshízhēn fāngxiàng xuánchū",
+     "en": "(B) The oil filler cap is unscrewed clockwise."
     },
     "C": {
      "zh": "等引擎完全冷卻後，才可檢查",
-     "py": "Děng yǐnqíng wánquán lěngquè hòu, cái kě jiǎnchá"
+     "py": "Děng yǐnqíng wánquán lěngquè hòu, cái kě jiǎnchá",
+     "en": "(C) Check only after the engine has completely cooled."
     },
     "D": {
      "zh": "檢查時，機油加油蓋必須確實鎖緊",
-     "py": "Jiǎnchá shí, jīyóu jiāyóu gài bìxū quèshí suǒjǐn"
+     "py": "Jiǎnchá shí, jīyóu jiāyóu gài bìxū quèshí suǒjǐn",
+     "en": "(D) When checking, the oil filler cap must be screwed tight."
     }
    }
   },
   "25": {
    "stem": {
     "zh": "根據說明，下面哪一個東西在檢查時要注意損壞的狀況？",
-    "py": "Gēnjù shuōmíng, xiàmiàn nǎ yí ge Dōngxi zài jiǎnchá shí yào zhùyì sǔnhuài de zhuàngkuàng?"
+    "py": "Gēnjù shuōmíng, xiàmiàn nǎ yí ge Dōngxi zài jiǎnchá shí yào zhùyì sǔnhuài de zhuàngkuàng?",
+    "en": "According to the instructions, which part should be checked for damage during inspection?"
    },
    "options": {
     "A": {
      "zh": "量油尺",
-     "py": "Liàngyóuchǐ"
+     "py": "Liàngyóuchǐ",
+     "en": "(A) The dipstick"
     },
     "B": {
      "zh": "加油蓋",
-     "py": "Jiāyóu gài"
+     "py": "Jiāyóu gài",
+     "en": "(B) The filler cap"
     },
     "C": {
      "zh": "護油圈",
-     "py": "Hùyóuquān"
+     "py": "Hùyóuquān",
+     "en": "(C) The oil seal"
     },
     "D": {
      "zh": "主支架",
-     "py": "Zhǔ zhījià"
+     "py": "Zhǔ zhījià",
+     "en": "(D) The center stand"
     }
    }
   },
@@ -719,161 +869,197 @@
    "passage": [
     {
      "zh": "（四）",
-     "py": "(Sì)"
+     "py": "(Sì)",
+     "en": "(4)"
     },
     {
      "zh": "「花間一壺酒，獨酌無相親」，這兩句詩表達出李白的心情。",
-     "py": "“Huājiān yìhújiǔ, dúzhuó wú xiāngqīn”, zhè liǎngjùshī biǎodá chū Lǐbái de xīnqíng."
+     "py": "“Huājiān yìhújiǔ, dúzhuó wú xiāngqīn”, zhè liǎngjùshī biǎodá chū Lǐbái de xīnqíng.",
+     "en": "\"Among the flowers, a pot of wine; I drink alone, with no one close.\" These two lines express Li Bai's mood."
     },
     {
      "zh": "他在奼紫嫣紅的花叢間，擺上一壺酒。",
-     "py": "Tā zài chàzǐyānhóng de huācóng jiān, bǎi shàng yìhújiǔ."
+     "py": "Tā zài chàzǐyānhóng de huācóng jiān, bǎi shàng yìhújiǔ.",
+     "en": "Amid a riot of colorful flowers, he sets out a pot of wine."
     },
     {
      "zh": "在醺然的狀態下，邀了天上的明月一起對飲。",
-     "py": "Zài xūn rán de zhuàngtài xià, yāo le tiānshàng de míngyuè yìqǐ duìyǐn."
+     "py": "Zài xūn rán de zhuàngtài xià, yāo le tiānshàng de míngyuè yìqǐ duìyǐn.",
+     "en": "Tipsy, he invites the bright moon in the sky to drink with him."
     },
     {
      "zh": "這樣的良辰美景，應該是三五好友，知心共享的時刻，李白卻只能喟嘆。",
-     "py": "Zhèyàng de liángchénměijǐng, yīnggāi shì sānwǔ hǎoyǒu, zhīxīn gòngxiǎng de shíkè, Lǐbái què zhǐnéng kuìtàn."
+     "py": "Zhèyàng de liángchénměijǐng, yīnggāi shì sānwǔ hǎoyǒu, zhīxīn gòngxiǎng de shíkè, Lǐbái què zhǐnéng kuìtàn.",
+     "en": "Such a beautiful moment ought to be shared with a few good friends and kindred spirits, yet Li Bai can only sigh."
     },
     {
      "zh": "月亮、李白與李白的影子，對影成三人。",
-     "py": "Yuèliàng, Lǐbái yǔ Lǐbái de yǐngzi, duì yǐngchéng sānrén."
+     "py": "Yuèliàng, Lǐbái yǔ Lǐbái de yǐngzi, duì yǐngchéng sānrén.",
+     "en": "The moon, Li Bai and Li Bai's shadow—facing his shadow, they make three."
     },
     {
      "zh": "月亮不會飲酒，和自己的影子飲酒更是平添寂寞。",
-     "py": "Yuèliàng búhuì yǐnjiǔ, hé zìjǐ de yǐngzi yǐnjiǔ gèngshì Píngtiān jìmò."
+     "py": "Yuèliàng búhuì yǐnjiǔ, hé zìjǐ de yǐngzi yǐnjiǔ gèngshì Píngtiān jìmò.",
+     "en": "The moon can't drink, and drinking with one's own shadow only adds to the loneliness."
     },
     {
      "zh": "但是，李白終究灑脫。",
-     "py": "Dànshì, Lǐbái zhōngjiū sǎtuō."
+     "py": "Dànshì, Lǐbái zhōngjiū sǎtuō.",
+     "en": "But Li Bai is free-spirited after all."
     },
     {
      "zh": "趁著春光正盛，恣意歌詠，至歡快處，手舞足蹈不也酣暢淋漓、大快人心。",
-     "py": "Chèn zhù chūnguāng zhèng shèng, zìyì gēyǒng, zhì huānkuài chù, shǒuwǔzúdǎo bù yě hānchànglínlí, dàkuàirénxīn."
+     "py": "Chèn zhù chūnguāng zhèng shèng, zìyì gēyǒng, zhì huānkuài chù, shǒuwǔzúdǎo bù yě hānchànglínlí, dàkuàirénxīn.",
+     "en": "While spring is at its height, he sings as he pleases, and when he reaches the height of joy, dancing with abandon is utterly exhilarating and deeply satisfying."
     },
     {
      "zh": "李白就這樣從最初的落寞，到任著自己的心情，在月下舞著、蹈著、唱著，還和白玉盤有了天際渺渺之約。",
-     "py": "Lǐbái jiù zhèyàng cóng zuìchū de luòmò, dàorèn zhù zìjǐ de xīnqíng, zài yuè xià wǔzhù, dǎozhù, chàngzhù, hái hé Báiyù pán yǒu le tiānjì miǎomiǎo zhī yuē."
+     "py": "Lǐbái jiù zhèyàng cóng zuìchū de luòmò, dàorèn zhù zìjǐ de xīnqíng, zài yuè xià wǔzhù, dǎozhù, chàngzhù, hái hé Báiyù pán yǒu le tiānjì miǎomiǎo zhī yuē.",
+     "en": "Thus Li Bai goes from initial desolation to following his heart, dancing, stepping and singing under the moon, and even makes a distant appointment beyond the sky with the white jade plate (the moon)."
     },
     {
      "zh": "李白不需要走到人生的困境，才懂得駐足欣賞眼前的風景，他總是隨走隨看隨領略。",
-     "py": "Lǐbái bù xūyào zǒu dào rénshēng de kùnjìng, cái dǒngde zhùzú xīnshǎng yǎnqián de fēngjǐng, tā zǒngshì suí zǒusuí kànsuí lǐnglüè."
+     "py": "Lǐbái bù xūyào zǒu dào rénshēng de kùnjìng, cái dǒngde zhùzú xīnshǎng yǎnqián de fēngjǐng, tā zǒngshì suí zǒusuí kànsuí lǐnglüè.",
+     "en": "Li Bai doesn't need to reach life's dead end to learn to stop and admire the scenery before him; he always takes things in as he goes."
     },
     {
      "zh": "即便孤身一人，總有艱辛，他也能將之轉化與天地同歡，而這番了悟，妙筆一揮，遂成詩裡行間的風景。",
-     "py": "Jíbiàn gūshēnyìrén, zǒng yǒu jiānxīn, tā yě néng jiāng zhī zhuǎnhuà yǔ tiāndì tónghuān, ér zhè fān le wù, miàobǐ yī huī, suì chéng shī lǐ hángjiān de fēngjǐng."
+     "py": "Jíbiàn gūshēnyìrén, zǒng yǒu jiānxīn, tā yě néng jiāng zhī zhuǎnhuà yǔ tiāndì tónghuān, ér zhè fān le wù, miàobǐ yī huī, suì chéng shī lǐ hángjiān de fēngjǐng.",
+     "en": "Even alone, and with hardship always present, he can turn it into rejoicing with heaven and earth; and this realization, with a stroke of his marvelous brush, becomes the scenery between the lines of his poems."
     },
     {
      "zh": "在我看來，人生泰半是挫折與苦難。",
-     "py": "Zàiwǒkànlái, rénshēng Tàibàn shì cuòzhé yǔ kǔnàn."
+     "py": "Zàiwǒkànlái, rénshēng Tàibàn shì cuòzhé yǔ kǔnàn.",
+     "en": "In my view, most of life is setbacks and suffering."
     },
     {
      "zh": "但是，若偕李白同行，每每到水窮處時，必定聽見李白放聲大歌。",
-     "py": "Dànshì, ruò xié Lǐbái tóngháng, měiměi dào shuǐ qióng chù shí, bìdìng tīngjiàn Lǐbái fàngshēng dàgē."
+     "py": "Dànshì, ruò xié Lǐbái tóngháng, měiměi dào shuǐ qióng chù shí, bìdìng tīngjiàn Lǐbái fàngshēng dàgē.",
+     "en": "But if you travel with Li Bai, whenever you come to where the water ends, you will surely hear Li Bai singing at the top of his voice."
     },
     {
      "zh": "伴著歌聲，試著將挫折烹調成一盤下酒菜。",
-     "py": "Bànzhù gēshēng, shìzhù jiāng cuòzhé pēngtiáo chéng yìpán xiàjiǔcài."
+     "py": "Bànzhù gēshēng, shìzhù jiāng cuòzhé pēngtiáo chéng yìpán xiàjiǔcài.",
+     "en": "Accompanied by the song, try to cook your setbacks into a dish to go with wine."
     },
     {
      "zh": "咀嚼於舌尖的況味，終將消化於人生的坦然。",
-     "py": "Jǔjué yú shéjiān de Kuàngwèi, zhōngjiāng xiāohuà yú rénshēng de tǎnrán."
+     "py": "Jǔjué yú shéjiān de Kuàngwèi, zhōngjiāng xiāohuà yú rénshēng de tǎnrán.",
+     "en": "The flavor savored on the tip of the tongue will in the end be digested into life's equanimity."
     }
    ],
    "stem": {
     "zh": "「花間一壺酒，獨酌無相親」表達出李白的心情怎麼樣？",
-    "py": "“Huājiān yìhújiǔ, dúzhuó wú xiāngqīn” biǎodá chū Lǐbái de xīnqíng zěnmeyàng?"
+    "py": "“Huājiān yìhújiǔ, dúzhuó wú xiāngqīn” biǎodá chū Lǐbái de xīnqíng zěnmeyàng?",
+    "en": "What mood does \"Among the flowers, a pot of wine; I drink alone, with no one close\" express?"
    },
    "options": {
     "A": {
      "zh": "漠然",
-     "py": "Mòrán"
+     "py": "Mòrán",
+     "en": "(A) Indifferent"
     },
     "B": {
      "zh": "舒暢",
-     "py": "Shūchàng"
+     "py": "Shūchàng",
+     "en": "(B) Carefree and happy"
     },
     "C": {
      "zh": "孤寂",
-     "py": "Gūjì"
+     "py": "Gūjì",
+     "en": "(C) Lonely"
     },
     "D": {
      "zh": "哀痛",
-     "py": "Āitòng"
+     "py": "Āitòng",
+     "en": "(D) Grief-stricken"
     }
    }
   },
   "27": {
    "stem": {
     "zh": "根據本文第二段描述，讓李白手舞足蹈的原因是什麼？",
-    "py": "Gēnjù běnwén dìèrduàn miáoshù, ràng Lǐbái shǒuwǔzúdǎo de yuányīn shì shénme?"
+    "py": "Gēnjù běnwén dìèrduàn miáoshù, ràng Lǐbái shǒuwǔzúdǎo de yuányīn shì shénme?",
+    "en": "According to the second paragraph, what made Li Bai dance with joy?"
    },
    "options": {
     "A": {
      "zh": "因為他自在的個性",
-     "py": "Yīnwèi tā zìzài de gèxìng"
+     "py": "Yīnwèi tā zìzài de gèxìng",
+     "en": "(A) His free and easy personality"
     },
     "B": {
      "zh": "因為他和月亮的約定",
-     "py": "Yīnwèi tā hé yuèliàng de yuēdìng"
+     "py": "Yīnwèi tā hé yuèliàng de yuēdìng",
+     "en": "(B) His appointment with the moon"
     },
     "C": {
      "zh": "因為他醉後就想跳舞",
-     "py": "Yīnwèi tā zuì hòu jiù xiǎng tiàowǔ"
+     "py": "Yīnwèi tā zuì hòu jiù xiǎng tiàowǔ",
+     "en": "(C) He wants to dance when he's drunk."
     },
     "D": {
      "zh": "因為他想看影子的流動",
-     "py": "Yīnwèi tā xiǎng kàn yǐngzi de liúdòng"
+     "py": "Yīnwèi tā xiǎng kàn yǐngzi de liúdòng",
+     "en": "(D) He wanted to watch his shadow move."
     }
    }
   },
   "28": {
    "stem": {
     "zh": "本文第三段提到，「詩裡行間的風景」，作者指的是什麼？",
-    "py": "Běnwén dìsānduàn tídào, “Shī lǐ hángjiān de fēngjǐng”, zuòzhě zhǐ de shì shénme?"
+    "py": "Běnwén dìsānduàn tídào, “Shī lǐ hángjiān de fēngjǐng”, zuòzhě zhǐ de shì shénme?",
+    "en": "What does the author mean by \"the scenery between the lines of his poems\" in the third paragraph?"
    },
    "options": {
     "A": {
      "zh": "李白對自然的讚嘆",
-     "py": "Lǐbái duì zìrán de zàntàn"
+     "py": "Lǐbái duì zìrán de zàntàn",
+     "en": "(A) Li Bai's admiration of nature"
     },
     "B": {
      "zh": "李白對官場的感慨",
-     "py": "Lǐbái duì guānchǎng de gǎnkǎi"
+     "py": "Lǐbái duì guānchǎng de gǎnkǎi",
+     "en": "(B) Li Bai's feelings about officialdom"
     },
     "C": {
      "zh": "李白對人生的領悟",
-     "py": "Lǐbái duì rénshēng de lǐngwù"
+     "py": "Lǐbái duì rénshēng de lǐngwù",
+     "en": "(C) Li Bai's insight into life"
     },
     "D": {
      "zh": "李白對詩詞的看法",
-     "py": "Lǐbái duì shīcí de kànfǎ"
+     "py": "Lǐbái duì shīcí de kànfǎ",
+     "en": "(D) Li Bai's views on poetry"
     }
    }
   },
   "29": {
    "stem": {
     "zh": "根據文本，作者咀嚼於舌尖的「況味」，是一種什麼味道？",
-    "py": "Gēnjù wénběn, zuòzhě jǔjué yú shéjiān de “Kuàngwèi”, shì yìzhǒng shénme wèidào?"
+    "py": "Gēnjù wénběn, zuòzhě jǔjué yú shéjiān de “Kuàngwèi”, shì yìzhǒng shénme wèidào?",
+    "en": "According to the text, what kind of taste is the \"flavor\" the author savors on the tip of the tongue?"
    },
    "options": {
     "A": {
      "zh": "甘味",
-     "py": "Gānwèi"
+     "py": "Gānwèi",
+     "en": "(A) Sweet"
     },
     "B": {
      "zh": "鮮味",
-     "py": "Xiānwèi"
+     "py": "Xiānwèi",
+     "en": "(B) Savory"
     },
     "C": {
      "zh": "辛味",
-     "py": "Xīnwèi"
+     "py": "Xīnwèi",
+     "en": "(C) Pungent"
     },
     "D": {
      "zh": "苦味",
-     "py": "Kǔwèi"
+     "py": "Kǔwèi",
+     "en": "(D) Bitter"
     }
    }
   },
@@ -881,141 +1067,172 @@
    "passage": [
     {
      "zh": "（五）",
-     "py": "(Wǔ)"
+     "py": "(Wǔ)",
+     "en": "(5)"
     },
     {
      "zh": "多數人以為，超大質量黑洞應存在於巨大星系的中心位置。",
-     "py": "Duōshù rén yǐwéi, chāodà zhìliàng Hēidòng yīng cúnzài yú jùdà xīngxì de zhōngxīn wèizhì."
+     "py": "Duōshù rén yǐwéi, chāodà zhìliàng Hēidòng yīng cúnzài yú jùdà xīngxì de zhōngxīn wèizhì.",
+     "en": "Most people think supermassive black holes should be found at the center of huge galaxies."
     },
     {
      "zh": "但日前，已有天文學家在銀河系邊緣，發現了幾十個超大質量黑洞。",
-     "py": "Dàn rìqián, yǐyǒu tiānwénxuéjiā zài yínhéxì biānyuán, fāxiàn le jǐshí ge chāodà zhìliàng Hēidòng."
+     "py": "Dàn rìqián, yǐyǒu tiānwénxuéjiā zài yínhéxì biānyuán, fāxiàn le jǐshí ge chāodà zhìliàng Hēidòng.",
+     "en": "But recently, astronomers have found dozens of supermassive black holes at the edge of the Milky Way."
     },
     {
      "zh": "這些黑洞在環繞銀河系主體，由恆星和氣體構成近似於球形的「恆星暈」區域中閒逛著。",
-     "py": "Zhèxiē Hēidòng zài huánrào yínhéxì zhǔtǐ, yóu Héngxīng hé qìtǐ gòuchéng jìnsìyú qiúxíng de “Héngxīng yūn” qūyù zhōng xiánguàng zhù."
+     "py": "Zhèxiē Hēidòng zài huánrào yínhéxì zhǔtǐ, yóu Héngxīng hé qìtǐ gòuchéng jìnsìyú qiúxíng de “Héngxīng yūn” qūyù zhōng xiánguàng zhù.",
+     "en": "These black holes are wandering in the nearly spherical \"stellar halo\" region of stars and gas that surrounds the main body of the Milky Way."
     },
     {
      "zh": "天文學家認為，黑洞之所以存在於宿主星系邊緣的現象，是來自星系合併的結果，這現象經常發生在一個不斷膨脹的宇宙中。",
-     "py": "Tiānwénxuéjiā rènwéi, Hēidòng zhīsuǒyǐ cúnzài yú sùzhǔ xīngxì biānyuán de xiànxiàng, shì láizì xīngxì hébìng de jiéguǒ, zhè xiànxiàng jīngcháng fāshēng zài yí ge búduàn péngzhàng de yǔzhòu zhōng."
+     "py": "Tiānwénxuéjiā rènwéi, Hēidòng zhīsuǒyǐ cúnzài yú sùzhǔ xīngxì biānyuán de xiànxiàng, shì láizì xīngxì hébìng de jiéguǒ, zhè xiànxiàng jīngcháng fāshēng zài yí ge búduàn péngzhàng de yǔzhòu zhōng.",
+     "en": "Astronomers believe black holes exist at the edge of their host galaxies as a result of galaxy mergers, which often happen in a constantly expanding universe."
     },
     {
      "zh": "當一個較小的星系融入一個更大的主星系時，它會把自己中央的超大質量黑洞置於新的宿主星系上。",
-     "py": "Dāng yí ge jiàoxiǎo de xīngxì róngrù yí ge gèng dà de zhǔ xīngxì shí, tā huì bǎ zìjǐ zhōngyāng de chāodà zhìliàng Hēidòng zhìyú xīn de sùzhǔ xīngxì shàng."
+     "py": "Dāng yí ge jiàoxiǎo de xīngxì róngrù yí ge gèng dà de zhǔ xīngxì shí, tā huì bǎ zìjǐ zhōngyāng de chāodà zhìliàng Hēidòng zhìyú xīn de sùzhǔ xīngxì shàng.",
+     "en": "When a smaller galaxy merges into a larger main galaxy, it deposits its own central supermassive black hole in the new host galaxy."
     },
     {
      "zh": "《天體物理學雜誌快報》刊發的研究報告進一步預測，與銀河系具有相近質量的星系，應該包含著不只一個超大質量的黑洞。",
-     "py": "«Tiāntǐ wùlǐxué zázhì kuàibào» kānfā de yánjiū bàogào jìnyíbù yùcè, yǔ yínhéxì jùyǒu xiāngjìn zhìliàng de xīngxì, yīnggāi bāohán zhù bù zhǐ yí ge chāodà zhìliàng de Hēidòng."
+     "py": "«Tiāntǐ wùlǐxué zázhì kuàibào» kānfā de yánjiū bàogào jìnyíbù yùcè, yǔ yínhéxì jùyǒu xiāngjìn zhìliàng de xīngxì, yīnggāi bāohán zhù bù zhǐ yí ge chāodà zhìliàng de Hēidòng.",
+     "en": "A research report published in The Astrophysical Journal Letters further predicts that galaxies of similar mass to the Milky Way should contain more than one supermassive black hole."
     },
     {
      "zh": "該報告的研究員表示，由於工具的限制，想直接論斷黑洞的存在是不可能的。",
-     "py": "Gāi bàogào de yánjiūyuán biǎoshì, yóuyú gōngjù de xiànzhì, xiǎng zhíjiē lùnduàn Hēidòng de cúnzài shì bù kěnéng de."
+     "py": "Gāi bàogào de yánjiūyuán biǎoshì, yóuyú gōngjù de xiànzhì, xiǎng zhíjiē lùnduàn Hēidòng de cúnzài shì bù kěnéng de.",
+     "en": "The report's researchers say that because of the limits of instruments, it is impossible to determine directly that the black holes exist."
     },
     {
      "zh": "即使想間接推斷它們是否存在，也必須要有更好的方法與手段才行。",
-     "py": "Jíshǐ xiǎng jiànjiē tuīduàn tāmen shìfǒu cúnzài, yě bìxū yào yǒu gènghǎo de fāngfǎ yǔ shǒuduàn cái xíng."
+     "py": "Jíshǐ xiǎng jiànjiē tuīduàn tāmen shìfǒu cúnzài, yě bìxū yào yǒu gènghǎo de fāngfǎ yǔ shǒuduàn cái xíng.",
+     "en": "Even to infer indirectly whether they exist, better methods and means are needed."
     },
     {
      "zh": "因為，每 1000 億年左右，才能與影響太陽系的漫遊黑洞近距離接觸，從人類角度來看，其生發頻率極低；",
-     "py": "Yīnwèi, měi 1000 yìnián zuǒyòu, cáinéng yǔ yǐngxiǎng tàiyángxì de mànyóu Hēidòng jìnjùlí jiēchù, cóng rénlèi jiǎodù láikàn, qí shēngfà pínlǜ jí dī;"
+     "py": "Yīnwèi, měi 1000 yìnián zuǒyòu, cáinéng yǔ yǐngxiǎng tàiyángxì de mànyóu Hēidòng jìnjùlí jiēchù, cóng rénlèi jiǎodù láikàn, qí shēngfà pínlǜ jí dī;",
+     "en": "Because a wandering black hole would come close to and affect the solar system only about once every 100 billion years—from a human perspective, an extremely low frequency;"
     },
     {
      "zh": "再加上，因為預測漫遊的超大質量黑洞位於離星系中心很遠且處於星系盤之外的地方，所以它們不太可能吸收增加更多的氣體，來膨脹規模，讓人類發現它們。",
-     "py": "Zài jiāshàng, yīnwèi yùcè mànyóu de chāodà zhìliàng Hēidòng wèiyú lí xīngxì zhōngxīn hěnyuǎn qiě chǔyú xīngxì pán zhīwài de dìfāng, suǒyǐ tāmen bútàikěnéng xīshōu zēngjiā gèngduō de qìtǐ, lái péngzhàng guīmó, ràng rénlèi fāxiàn tāmen."
+     "py": "Zài jiāshàng, yīnwèi yùcè mànyóu de chāodà zhìliàng Hēidòng wèiyú lí xīngxì zhōngxīn hěnyuǎn qiě chǔyú xīngxì pán zhīwài de dìfāng, suǒyǐ tāmen bútàikěnéng xīshōu zēngjiā gèngduō de qìtǐ, lái péngzhàng guīmó, ràng rénlèi fāxiàn tāmen.",
+     "en": "moreover, because the wandering supermassive black holes are predicted to be far from galactic centers and outside the galactic disk, they are unlikely to absorb more gas and grow in size so that humans could discover them."
     }
    ],
    "stem": {
     "zh": "根據本文，關於「超大質量黑洞」描述，下列何者正確？",
-    "py": "Gēnjù běnwén, guānyú “Chāodà zhìliàng Hēidòng” miáoshù, xiàliè hézhě zhèngquè?"
+    "py": "Gēnjù běnwén, guānyú “Chāodà zhìliàng Hēidòng” miáoshù, xiàliè hézhě zhèngquè?",
+    "en": "According to the article, which description of \"supermassive black holes\" is correct?"
    },
    "options": {
     "A": {
      "zh": "在宿主星系遊蕩",
-     "py": "Zài sùzhǔ xīngxì yóudàng"
+     "py": "Zài sùzhǔ xīngxì yóudàng",
+     "en": "(A) They wander in their host galaxy."
     },
     "B": {
      "zh": "只存在於已經死亡的星系裡",
-     "py": "Zhǐ cúnzài yú yǐjīng sǐwáng de xīngxì lǐ"
+     "py": "Zhǐ cúnzài yú yǐjīng sǐwáng de xīngxì lǐ",
+     "en": "(B) They only exist in galaxies that have died."
     },
     "C": {
      "zh": "天文學家預測僅存在銀河系中",
-     "py": "Tiānwénxuéjiā yùcè jǐn cúnzài yínhéxì zhōng"
+     "py": "Tiānwénxuéjiā yùcè jǐn cúnzài yínhéxì zhōng",
+     "en": "(C) Astronomers predict they exist only in the Milky Way."
     },
     "D": {
      "zh": "天文學家無法證實其存在星系邊緣",
-     "py": "Tiānwénxuéjiā wúfǎ zhèngshí qí cúnzài xīngxì biānyuán"
+     "py": "Tiānwénxuéjiā wúfǎ zhèngshí qí cúnzài xīngxì biānyuán",
+     "en": "(D) Astronomers can't confirm they exist at galaxies' edges."
     }
    }
   },
   "31": {
    "stem": {
     "zh": "天文學家為什麼提到「星系合併」？",
-    "py": "Tiānwénxuéjiā wèishénme tídào “Xīngxì hébìng”?"
+    "py": "Tiānwénxuéjiā wèishénme tídào “Xīngxì hébìng”?",
+    "en": "Why do astronomers mention \"galaxy mergers\"?"
    },
    "options": {
     "A": {
      "zh": "主要說明黑洞的位置",
-     "py": "Zhǔyào shuōmíng Hēidòng de wèizhì"
+     "py": "Zhǔyào shuōmíng Hēidòng de wèizhì",
+     "en": "(A) Mainly to explain where the black holes are located"
     },
     "B": {
      "zh": "解釋超大黑洞發生的時間",
-     "py": "Jiěshì chāodà Hēidòng fāshēng de shíjiān"
+     "py": "Jiěshì chāodà Hēidòng fāshēng de shíjiān",
+     "en": "(B) To explain when supermassive black holes occur"
     },
     "C": {
      "zh": "強調太陽系仍在膨脹壯大中",
-     "py": "Qiángdiào tàiyángxì réng zài péngzhàng zhuàngdà zhōng"
+     "py": "Qiángdiào tàiyángxì réng zài péngzhàng zhuàngdà zhōng",
+     "en": "(C) To stress that the solar system is still expanding and growing"
     },
     "D": {
      "zh": "從合併過程說明宇宙氣體的重要性",
-     "py": "Cóng hébìng guòchéng shuōmíng yǔzhòu qìtǐ de zhòngyàoxìng"
+     "py": "Cóng hébìng guòchéng shuōmíng yǔzhòu qìtǐ de zhòngyàoxìng",
+     "en": "(D) To explain the importance of cosmic gas through the merger process"
     }
    }
   },
   "32": {
    "stem": {
     "zh": "關於超大質量黑洞，《天體物理學雜誌快報》預測了什麼？",
-    "py": "Guānyú chāodà zhìliàng Hēidòng, «Tiāntǐ wùlǐxué zázhì kuàibào» yùcè le shénme?"
+    "py": "Guānyú chāodà zhìliàng Hēidòng, «Tiāntǐ wùlǐxué zázhì kuàibào» yùcè le shénme?",
+    "en": "About supermassive black holes, what did The Astrophysical Journal Letters predict?"
    },
    "options": {
     "A": {
      "zh": "黑洞影響太陽星系的時間",
-     "py": "Hēidòng yǐngxiǎng Tàiyáng xīngxì de shíjiān"
+     "py": "Hēidòng yǐngxiǎng Tàiyáng xīngxì de shíjiān",
+     "en": "(A) When black holes will affect the solar system"
     },
     "B": {
      "zh": "超大質量黑洞運行的軌跡",
-     "py": "Chāodà zhìliàng Hēidòng yùnxíng de guǐjì"
+     "py": "Chāodà zhìliàng Hēidòng yùnxíng de guǐjì",
+     "en": "(B) The trajectory of supermassive black holes"
     },
     "C": {
      "zh": "數個超大質量黑洞的存在",
-     "py": "Shù ge chāodà zhìliàng Hēidòng de cúnzài"
+     "py": "Shù ge chāodà zhìliàng Hēidòng de cúnzài",
+     "en": "(C) The existence of several supermassive black holes"
     },
     "D": {
      "zh": "「恆星暈」形成的可能因素",
-     "py": "“Héngxīng yūn” xíngchéng de kěnéng yīnsù"
+     "py": "“Héngxīng yūn” xíngchéng de kěnéng yīnsù",
+     "en": "(D) Possible factors in the formation of the \"stellar halo\""
     }
    }
   },
   "33": {
    "stem": {
     "zh": "根據本文，研究員認為間接推斷其他星系黑洞存在的限制是什麼？",
-    "py": "Gēnjù běnwén, yánjiūyuán rènwéi jiànjiē tuīduàn qítā xīngxì Hēidòng cúnzài de xiànzhì shì shénme?"
+    "py": "Gēnjù běnwén, yánjiūyuán rènwéi jiànjiē tuīduàn qítā xīngxì Hēidòng cúnzài de xiànzhì shì shénme?",
+    "en": "According to the article, what do researchers see as the limitation on indirectly inferring black holes in other galaxies?"
    },
    "options": {
     "A": {
      "zh": "超大質量黑洞無法靠近「恆星暈」",
-     "py": "Chāodà zhìliàng Hēidòng wúfǎ kàojìn “Héngxīng yūn”"
+     "py": "Chāodà zhìliàng Hēidòng wúfǎ kàojìn “Héngxīng yūn”",
+     "en": "(A) Supermassive black holes can't get close to the \"stellar halo.\""
     },
     "B": {
      "zh": "觀測工具無法觀測那麼遠的距離",
-     "py": "Guāncè gōngjù wúfǎ guāncè nàme yuǎn de jùlí"
+     "py": "Guāncè gōngjù wúfǎ guāncè nàme yuǎn de jùlí",
+     "en": "(B) Observation instruments can't observe such great distances."
     },
     "C": {
      "zh": "無法證明銀河系邊緣存在著黑洞",
-     "py": "Wúfǎ zhèngmíng yínhéxì biānyuán cúnzài zhù Hēidòng"
+     "py": "Wúfǎ zhèngmíng yínhéxì biānyuán cúnzài zhù Hēidòng",
+     "en": "(C) It can't be proven that black holes exist at the edge of the Milky Way."
     },
     "D": {
      "zh": "宇宙時間無垠，而人類時間有限",
-     "py": "Yǔzhòu shíjiān wúyín, ér rénlèi shíjiān yǒuxiàn"
+     "py": "Yǔzhòu shíjiān wúyín, ér rénlèi shíjiān yǒuxiàn",
+     "en": "(D) Cosmic time is boundless, while human time is limited."
     }
    }
   },
@@ -1023,177 +1240,216 @@
    "passage": [
     {
      "zh": "（六）",
-     "py": "(Liù)"
+     "py": "(Liù)",
+     "en": "(6)"
     },
     {
      "zh": "美沙酮是一種合成類鴉片的藥物。",
-     "py": "Měishātóng shì yìzhǒng héchéng lèi Yāpiàn de yàowù."
+     "py": "Měishātóng shì yìzhǒng héchéng lèi Yāpiàn de yàowù.",
+     "en": "Methadone is a synthetic opioid drug."
     },
     {
      "zh": "1970 年代起，美國和歐洲國家主張由政府提供美沙酮給吸毒者，用來替代海洛因，幫助吸毒者戒除毒癮。",
-     "py": "1970 niándài qǐ, Měiguó hé Ōuzhōu guójiā zhǔzhāng yóu zhèngfǔ tígōng Měishātóng gěi xīdúzhě, yònglái tìdài Hǎiluòyīn, bāngzhù xīdúzhě jièchú dúyǐn."
+     "py": "1970 niándài qǐ, Měiguó hé Ōuzhōu guójiā zhǔzhāng yóu zhèngfǔ tígōng Měishātóng gěi xīdúzhě, yònglái tìdài Hǎiluòyīn, bāngzhù xīdúzhě jièchú dúyǐn.",
+     "en": "From the 1970s, the US and European countries advocated that the government provide methadone to drug users as a substitute for heroin, to help them kick their addiction."
     },
     {
      "zh": "由於戒除海洛因的過程非常痛苦，極難根除，美沙酮作為一個毒性較低的藥品，能幫助吸毒者在無法戒除毒癮的情況下，緩解毒癮、抗拒使用海洛因的誘惑。",
-     "py": "Yóuyú jièchú Hǎiluòyīn de guòchéng fēicháng tòngkǔ, jínán gēnchú, Měishātóng zuòwéi yí ge dúxìng jiàodī de yàopǐn, néng bāngzhù xīdúzhě zài wúfǎ jièchú dúyǐn de qíngkuàng xià, huǎnjiě dúyǐn, kàngjù shǐyòng Hǎiluòyīn de yòuhuò."
+     "py": "Yóuyú jièchú Hǎiluòyīn de guòchéng fēicháng tòngkǔ, jínán gēnchú, Měishātóng zuòwéi yí ge dúxìng jiàodī de yàopǐn, néng bāngzhù xīdúzhě zài wúfǎ jièchú dúyǐn de qíngkuàng xià, huǎnjiě dúyǐn, kàngjù shǐyòng Hǎiluòyīn de yòuhuò.",
+     "en": "Because quitting heroin is extremely painful and very hard to achieve completely, methadone, as a less toxic drug, can help users who can't quit to ease their craving and resist the temptation of heroin."
     },
     {
      "zh": "美沙酮的使用時有爭議。",
-     "py": "Měishātóng de shǐyòng shí yǒu zhēngyì."
+     "py": "Měishātóng de shǐyòng shí yǒu zhēngyì.",
+     "en": "The use of methadone has at times been controversial."
     },
     {
      "zh": "台灣在九十年代初期，就有醫界人士建議政府引進美沙酮。",
-     "py": "Táiwān zài jiǔshíniándài chūqī, jiù yǒu yījiè rénshì jiànyì zhèngfǔ yǐnjìn Měishātóng."
+     "py": "Táiwān zài jiǔshíniándài chūqī, jiù yǒu yījiè rénshì jiànyì zhèngfǔ yǐnjìn Měishātóng.",
+     "en": "In the early 1990s, some in Taiwan's medical community suggested the government introduce methadone."
     },
     {
      "zh": "不過當時研究顯示，大多服用美沙酮的毒癮患者必須終生服用，僅有不到 5%的人可以成功擺脫對美沙酮的依賴。",
-     "py": "Búguò dāngshí yánjiū xiǎnshì, dàduō fúyòng Měishātóng de dúyǐn huànzhě bìxū zhōngshēng fúyòng, jǐn yǒu búdào 5 % de rén kěyǐ chénggōng bǎituō duì Měishātóng de yīlài."
+     "py": "Búguò dāngshí yánjiū xiǎnshì, dàduō fúyòng Měishātóng de dúyǐn huànzhě bìxū zhōngshēng fúyòng, jǐn yǒu búdào 5 % de rén kěyǐ chénggōng bǎituō duì Měishātóng de yīlài.",
+     "en": "But research at the time showed that most addicts on methadone had to take it for life; fewer than 5% could successfully free themselves of methadone dependence."
     },
     {
      "zh": "使用美沙酮似乎是以毒攻毒的疑慮，讓這項提議始終停留在紙上談兵的階段。",
-     "py": "Shǐyòng Měishātóng sìhū shì yǐdúgōngdú de yílǜ, ràng zhèxiàng tíyì shǐzhōng tíngliú zài zhǐshàngtánbīng de jiēduàn."
+     "py": "Shǐyòng Měishātóng sìhū shì yǐdúgōngdú de yílǜ, ràng zhèxiàng tíyì shǐzhōng tíngliú zài zhǐshàngtánbīng de jiēduàn.",
+     "en": "Doubts that using methadone seemed like fighting poison with poison kept the proposal stuck on paper."
     },
     {
      "zh": "然而隨著毒品日益氾濫，不少專家不得不重新評估，認為使用美沙酮是兩害相權取其輕的做法。",
-     "py": "Ránér suízhù dúpǐn rìyì fànlàn, bùshǎo zhuānjiā bùdébù chóngxīn pínggū, rènwéi shǐyòng Měishātóng shì liǎnghàixiāngquán qǔqíqīng de zuòfǎ."
+     "py": "Ránér suízhù dúpǐn rìyì fànlàn, bùshǎo zhuānjiā bùdébù chóngxīn pínggū, rènwéi shǐyòng Měishātóng shì liǎnghàixiāngquán qǔqíqīng de zuòfǎ.",
+     "en": "However, as drugs became more and more widespread, many experts had to reassess and concluded that using methadone is choosing the lesser of two evils."
     },
     {
      "zh": "海洛因市價極高，毒癮患者經常為了籌錢購買毒品鋌而走險、到處犯案，若由政府提供美沙酮給毒癮患者，就可降低因毒品而產生的社會犯罪。",
-     "py": "Hǎiluòyīn shìjià jí gāo, dúyǐn huànzhě jīngcháng wèile chóuqián gòumǎi dúpǐn tǐngérzǒuxiǎn, dàochù fànàn, ruò yóu zhèngfǔ tígōng Měishātóng gěi dúyǐn huànzhě, jiù kě jiàngdī yīn dúpǐn ér chǎnshēng de shèhuì fànzuì."
+     "py": "Hǎiluòyīn shìjià jí gāo, dúyǐn huànzhě jīngcháng wèile chóuqián gòumǎi dúpǐn tǐngérzǒuxiǎn, dàochù fànàn, ruò yóu zhèngfǔ tígōng Měishātóng gěi dúyǐn huànzhě, jiù kě jiàngdī yīn dúpǐn ér chǎnshēng de shèhuì fànzuì.",
+     "en": "Heroin is extremely expensive, and addicts often take desperate risks and commit crimes everywhere to raise money for drugs; if the government provides methadone to addicts, drug-related crime in society can be reduced."
     },
     {
      "zh": "此外，自從愛滋病出現後，由於口服的美沙酮不必由靜脈注射，可以避免愛滋感染，更是不少國家反毒、抗愛滋的重要工具。",
-     "py": "Cǐwài, zìcóng àizībìng chūxiàn hòu, yóuyú kǒufú de Měishātóng búbì yóu jìngmàizhùshè, kěyǐ bìmiǎn Àizī gǎnrǎn, gèngshì bùshǎo guójiā fǎndú, kàng Àizī de zhòngyào gōngjù."
+     "py": "Cǐwài, zìcóng àizībìng chūxiàn hòu, yóuyú kǒufú de Měishātóng búbì yóu jìngmàizhùshè, kěyǐ bìmiǎn Àizī gǎnrǎn, gèngshì bùshǎo guójiā fǎndú, kàng Àizī de zhòngyào gōngjù.",
+     "en": "In addition, since the appearance of AIDS, because oral methadone doesn't need to be injected into a vein, it can prevent HIV infection, making it an important tool for many countries against both drugs and AIDS."
     },
     {
      "zh": "專家表示，使用美沙酮來治療毒癮代表一種觀念的轉變。",
-     "py": "Zhuānjiā biǎoshì, shǐyòng Měishātóng lái zhìliáo dúyǐn dàibiǎo yìzhǒng guānniàn de zhuǎnbiàn."
+     "py": "Zhuānjiā biǎoshì, shǐyòng Měishātóng lái zhìliáo dúyǐn dàibiǎo yìzhǒng guānniàn de zhuǎnbiàn.",
+     "en": "Experts say using methadone to treat addiction represents a change in thinking."
     },
     {
      "zh": "以前社會把吸食海洛因的人視為犯人，一旦抓到吸毒者就交由法律制裁。",
-     "py": "Yǐqián shèhuì bǎ xīshí Hǎiluòyīn de rén shìwèi fànrén, yídàn zhuā dào xīdúzhě jiù jiāoyóu fǎlǜzhìcái."
+     "py": "Yǐqián shèhuì bǎ xīshí Hǎiluòyīn de rén shìwèi fànrén, yídàn zhuā dào xīdúzhě jiù jiāoyóu fǎlǜzhìcái.",
+     "en": "In the past, society regarded heroin users as criminals; once caught, users were handed over to the law for punishment."
     },
     {
      "zh": "但現在由政府提供美沙酮的做法則是將吸毒者視為病人，這表示社會應對病人提供醫療協助，而不是一味的限制與懲罰。",
-     "py": "Dàn xiànzài yóu zhèngfǔ tígōng Měishātóng de zuòfǎ zé shì jiāng xīdúzhě shìwèi bìngrén, zhè biǎoshì shèhuì yìngduì bìngrén tígōng yīliáo xiézhù, ér búshì yíwèi de xiànzhì yǔ chéngfá."
+     "py": "Dàn xiànzài yóu zhèngfǔ tígōng Měishātóng de zuòfǎ zé shì jiāng xīdúzhě shìwèi bìngrén, zhè biǎoshì shèhuì yìngduì bìngrén tígōng yīliáo xiézhù, ér búshì yíwèi de xiànzhì yǔ chéngfá.",
+     "en": "But the government providing methadone now regards drug users as patients, which means society should give patients medical help rather than blindly restricting and punishing them."
     }
    ],
    "stem": {
     "zh": "根據第一段，關於美沙酮，哪一個是對的？",
-    "py": "Gēnjù dìyíduàn, guānyú Měishātóng, nǎ yí ge shì duì de?"
+    "py": "Gēnjù dìyíduàn, guānyú Měishātóng, nǎ yí ge shì duì de?",
+    "en": "According to the first paragraph, which statement about methadone is correct?"
    },
    "options": {
     "A": {
      "zh": "毒性跟海洛因一樣高",
-     "py": "Dúxìng gēn Hǎiluòyīn yíyàng gāo"
+     "py": "Dúxìng gēn Hǎiluòyīn yíyàng gāo",
+     "en": "(A) It is as toxic as heroin."
     },
     "B": {
      "zh": "會讓使用者感到極度痛苦",
-     "py": "Huì ràng shǐyòngzhě gǎndào jídù tòngkǔ"
+     "py": "Huì ràng shǐyòngzhě gǎndào jídù tòngkǔ",
+     "en": "(B) It makes users suffer extreme pain."
     },
     "C": {
      "zh": "能暫時克制吸毒者的毒癮",
-     "py": "Néng zànshí kèzhì xīdúzhě de dúyǐn"
+     "py": "Néng zànshí kèzhì xīdúzhě de dúyǐn",
+     "en": "(C) It can temporarily control users' addiction."
     },
     "D": {
      "zh": "完全戒除毒癮的人才能使用",
-     "py": "Wánquán jièchú dúyǐn de réncái néng shǐyòng"
+     "py": "Wánquán jièchú dúyǐn de réncái néng shǐyòng",
+     "en": "(D) Only people who've completely quit can use it."
     }
    }
   },
   "35": {
    "stem": {
     "zh": "根據第二段，為什麼台灣沒有立刻使用美沙酮？",
-    "py": "Gēnjù dìèrduàn, wèishénme Táiwān méiyǒu lìkè shǐyòng Měishātóng?"
+    "py": "Gēnjù dìèrduàn, wèishénme Táiwān méiyǒu lìkè shǐyòng Měishātóng?",
+    "en": "According to the second paragraph, why didn't Taiwan use methadone right away?"
    },
    "options": {
     "A": {
      "zh": "使用美沙酮也會讓人上癮",
-     "py": "Shǐyòng Měishātóng yě huì ràng rén shàngyǐn"
+     "py": "Shǐyòng Měishātóng yě huì ràng rén shàngyǐn",
+     "en": "(A) Methadone is also addictive."
     },
     "B": {
      "zh": "有毒癮的人無法接受美沙酮",
-     "py": "Yǒu dúyǐn de rén wúfǎ jiēshòu Měishātóng"
+     "py": "Yǒu dúyǐn de rén wúfǎ jiēshòu Měishātóng",
+     "en": "(B) Addicts can't accept methadone."
     },
     "C": {
      "zh": "使用美沙酮需搭配許多藥品",
-     "py": "Shǐyòng Měishātóng xū dāpèi xǔduō yàopǐn"
+     "py": "Shǐyòng Měishātóng xū dāpèi xǔduō yàopǐn",
+     "en": "(C) Methadone has to be used with many other drugs."
     },
     "D": {
      "zh": "當時只有 5%的病患需要治療",
-     "py": "Dāngshí zhǐyǒu 5 % de bìnghuàn xūyào zhìliáo"
+     "py": "Dāngshí zhǐyǒu 5 % de bìnghuàn xūyào zhìliáo",
+     "en": "(D) Only 5% of patients needed treatment at the time."
     }
    }
   },
   "36": {
    "stem": {
     "zh": "第三段指出下面哪件事？",
-    "py": "Dìsānduàn zhǐchū xiàmiàn nǎjiàn shì?"
+    "py": "Dìsānduàn zhǐchū xiàmiàn nǎjiàn shì?",
+    "en": "Which of the following does the third paragraph point out?"
    },
    "options": {
     "A": {
      "zh": "使用美沙酮會導致毒品氾濫",
-     "py": "Shǐyòng Měishātóng huì dǎozhì dúpǐn fànlàn"
+     "py": "Shǐyòng Měishātóng huì dǎozhì dúpǐn fànlàn",
+     "en": "(A) Using methadone leads to drugs becoming widespread."
     },
     "B": {
      "zh": "使用美沙酮能減少毒品犯罪事件",
-     "py": "Shǐyòng Měishātóng néng jiǎnshǎo dúpǐn fànzuì shìjiàn"
+     "py": "Shǐyòng Měishātóng néng jiǎnshǎo dúpǐn fànzuì shìjiàn",
+     "en": "(B) Using methadone can reduce drug-related crime."
     },
     "C": {
      "zh": "吸毒者經常販賣美沙酮來取得毒品",
-     "py": "Xīdúzhě jīngcháng fànmài Měishātóng lái qǔdé dúpǐn"
+     "py": "Xīdúzhě jīngcháng fànmài Měishātóng lái qǔdé dúpǐn",
+     "en": "(C) Drug users often sell methadone to get drugs."
     },
     "D": {
      "zh": "吸毒者經常同時使用海洛因及美沙酮",
-     "py": "Xīdúzhě jīngcháng tóngshí shǐyòng Hǎiluòyīn jí Měishātóng"
+     "py": "Xīdúzhě jīngcháng tóngshí shǐyòng Hǎiluòyīn jí Měishātóng",
+     "en": "(D) Drug users often use heroin and methadone at the same time."
     }
    }
   },
   "37": {
    "stem": {
     "zh": "第三段為什麼提到愛滋病？",
-    "py": "Dìsānduàn wèishénme tídào àizībìng?"
+    "py": "Dìsānduàn wèishénme tídào àizībìng?",
+    "en": "Why does the third paragraph mention AIDS?"
    },
    "options": {
     "A": {
      "zh": "指出美沙酮可治療愛滋",
-     "py": "Zhǐchū Měishātóng kě zhìliáo Àizī"
+     "py": "Zhǐchū Měishātóng kě zhìliáo Àizī",
+     "en": "(A) To point out that methadone can treat AIDS"
     },
     "B": {
      "zh": "指出使用美沙酮的風險很高",
-     "py": "Zhǐchū shǐyòng Měishātóng de fēngxiǎn hěn gāo"
+     "py": "Zhǐchū shǐyòng Měishātóng de fēngxiǎn hěn gāo",
+     "en": "(B) To point out that using methadone is very risky"
     },
     "C": {
      "zh": "指出美沙酮不適合愛滋患者",
-     "py": "Zhǐchū Měishātóng bù shìhé Àizī huànzhě"
+     "py": "Zhǐchū Měishātóng bù shìhé Àizī huànzhě",
+     "en": "(C) To point out that methadone isn't suitable for AIDS patients"
     },
     "D": {
      "zh": "指出美沙酮能防止愛滋傳播",
-     "py": "Zhǐchū Měishātóng néng fángzhǐ Àizī chuánbō"
+     "py": "Zhǐchū Měishātóng néng fángzhǐ Àizī chuánbō",
+     "en": "(D) To point out that methadone can prevent the spread of AIDS"
     }
    }
   },
   "38": {
    "stem": {
     "zh": "使用美沙酮的社會怎麼看待吸毒或毒品？",
-    "py": "Shǐyòng Měishātóng de shèhuì zěnme kàndài xīdú huò dúpǐn?"
+    "py": "Shǐyòng Měishātóng de shèhuì zěnme kàndài xīdú huò dúpǐn?",
+    "en": "How do societies that use methadone view drug use or drugs?"
    },
    "options": {
     "A": {
      "zh": "吸毒者無藥可救",
-     "py": "Xīdúzhě wúyào kějiù"
+     "py": "Xīdúzhě wúyào kějiù",
+     "en": "(A) Drug users are beyond help."
     },
     "B": {
      "zh": "吸毒是一種疾病",
-     "py": "Xīdú shì yìzhǒng jíbìng"
+     "py": "Xīdú shì yìzhǒng jíbìng",
+     "en": "(B) Drug use is a disease."
     },
     "C": {
      "zh": "應提高吸毒者的刑期",
-     "py": "Yīng tígāo xīdúzhě de xíngqī"
+     "py": "Yīng tígāo xīdúzhě de xíngqī",
+     "en": "(C) Drug users' prison terms should be increased."
     },
     "D": {
      "zh": "應放鬆對毒品的管制",
-     "py": "Yīng fàngsōng duì dúpǐn de guǎnzhì"
+     "py": "Yīng fàngsōng duì dúpǐn de guǎnzhì",
+     "en": "(D) Drug controls should be relaxed."
     }
    }
   },
@@ -1201,217 +1457,265 @@
    "passage": [
     {
      "zh": "（七）",
-     "py": "(Qī)"
+     "py": "(Qī)",
+     "en": "(7)"
     },
     {
      "zh": "她獨行於瞎燈黑火的林道上，僅有些微月光從葉隙中透出。",
-     "py": "Tā dúxíng Yúxiā dēnghēi huǒ de líndào shàng, jǐn yǒuxiē wēi yuèguāng cóng yèxì zhōng tòuchū."
+     "py": "Tā dúxíng Yúxiā dēnghēi huǒ de líndào shàng, jǐn yǒuxiē wēi yuèguāng cóng yèxì zhōng tòuchū.",
+     "en": "She walked alone along the pitch-dark forest path, with only a little moonlight filtering through the gaps in the leaves."
     },
     {
      "zh": "臨下山前，家中長輩再三囑咐，此去求援，不可妄生事端，她的拳腳功夫僅能自保，若不是族中男子皆已上戰場廝殺，萬萬是不能讓她一個女子孤身上路。",
-     "py": "Línxià shānqián, jiāzhōng zhǎngbèi zàisān zhǔfù, cǐqù qiúyuán, bùkě wàngshēng shìduān, tā de quánjiǎo gōngfu jǐn néng zìbǎo, ruò búshì zú zhōng nánzi jiē yǐshàng zhànchǎng sīshā, wànwàn shì bùnéng ràng tā yí ge nǚzǐ gūshēn Shànglù."
+     "py": "Línxià shānqián, jiāzhōng zhǎngbèi zàisān zhǔfù, cǐqù qiúyuán, bùkě wàngshēng shìduān, tā de quánjiǎo gōngfu jǐn néng zìbǎo, ruò búshì zú zhōng nánzi jiē yǐshàng zhànchǎng sīshā, wànwàn shì bùnéng ràng tā yí ge nǚzǐ gūshēn Shànglù.",
+     "en": "Before she came down the mountain, the elders of her family had repeatedly told her that on this trip to seek help she must not stir up trouble; her martial arts were only good enough to protect herself, and if all the men of the clan hadn't already gone off to fight in the war, they would never have let a girl set out alone."
     },
     {
      "zh": "是以一切只求護得自身周全，快去快回即可。",
-     "py": "Shì yǐ yíqiè zhǐqiú hù dé zìshēn Zhōuquán, kuàiqùkuàihuí jíkě."
+     "py": "Shì yǐ yíqiè zhǐqiú hù dé zìshēn Zhōuquán, kuàiqùkuàihuí jíkě.",
+     "en": "So she only sought to keep herself safe and go and come back quickly."
     },
     {
      "zh": "一路行來，她不僅低調，且不停地變換交通工具，先是乘舟走水十來天，接著易舟為馬，在馬上又折騰了十來天。",
-     "py": "Yílùxíng lái, tā bùjǐn dīdiào, qiě bùtíng dì biànhuàn jiāotōnggōngjù, xiānshì Chéngzhōu zǒushuǐ shíláitiān, jiēzhù Yìzhōu wèi Mǎ, zài mǎshàng yòu zhēteng le shíláitiān."
+     "py": "Yílùxíng lái, tā bùjǐn dīdiào, qiě bùtíng dì biànhuàn jiāotōnggōngjù, xiānshì Chéngzhōu zǒushuǐ shíláitiān, jiēzhù Yìzhōu wèi Mǎ, zài mǎshàng yòu zhēteng le shíláitiān.",
+     "en": "All the way she kept a low profile and kept changing her means of travel: first more than ten days by boat on the water, then trading the boat for a horse and struggling on horseback for another ten days or so."
     },
     {
      "zh": "就剩最後這幾里路時，她才改由步行。",
-     "py": "Jiù shèng zuìhòu zhè jǐlǐ lù shí, tā cái gǎiyóu bùxíng."
+     "py": "Jiù shèng zuìhòu zhè jǐlǐ lù shí, tā cái gǎiyóu bùxíng.",
+     "en": "Only for these last few miles had she switched to walking."
     },
     {
      "zh": "原以為安全的地兒，眼下卻讓她有不寒而慄之感。",
-     "py": "Yuányǐwéi ānquán de dìér, yǎnxià què ràng tā yǒu bùhánérlì zhī gǎn."
+     "py": "Yuányǐwéi ānquán de dìér, yǎnxià què ràng tā yǒu bùhánérlì zhī gǎn.",
+     "en": "The place she had thought safe now sent a chill down her spine."
     },
     {
      "zh": "前方突地傳來沙沙聲，她下意識退後兩步，卻見林中飛鳥穿過樹梢，她有些「惱怒」，暗啐膽小。",
-     "py": "Qiánfāng tūdì chuánlái Shāshāshēng, tā xiàyìshí tuìhòu liǎngbù, què jiàn línzhōng fēiniǎo chuānguò shùshāo, tā yǒuxiē “Nǎonù”, àn cuì dǎnxiǎo."
+     "py": "Qiánfāng tūdì chuánlái Shāshāshēng, tā xiàyìshí tuìhòu liǎngbù, què jiàn línzhōng fēiniǎo chuānguò shùshāo, tā yǒuxiē “Nǎonù”, àn cuì dǎnxiǎo.",
+     "en": "Suddenly a rustling came from ahead. She instinctively stepped back two paces, only to see birds flying through the treetops; she was a little \"annoyed,\" silently scolding herself for being a coward."
     },
     {
      "zh": "驀地，身後傳來虛空劃破之聲。",
-     "py": "Mòdì, shēnhòu chuánlái xūkōng huàpò zhī shēng."
+     "py": "Mòdì, shēnhòu chuánlái xūkōng huàpò zhī shēng.",
+     "en": "All of a sudden, from behind came the sound of something slicing through the air."
     },
     {
      "zh": "她略側頭回看，眼角已閃過一道疾光。",
-     "py": "Tā lüè cè tóu huíkàn, yǎnjiǎo yǐ shǎnguò yídào jíguāng."
+     "py": "Tā lüè cè tóu huíkàn, yǎnjiǎo yǐ shǎnguò yídào jíguāng.",
+     "en": "She turned her head slightly to look back, and a flash of light had already shot past the corner of her eye."
     },
     {
      "zh": "堪堪轉身之際，就見劍尖在眼前一晃，幸得她偏頭一閃，並朝對方腰處撞去。",
-     "py": "Kānkān zhuǎnshēn zhījì, jiù jiàn jiànjiān zài yǎnqián yìhuǎng, xìngde tā piāntóu yī shǎn, bìng cháo duìfāng yāo chù zhuàng qù."
+     "py": "Kānkān zhuǎnshēn zhījì, jiù jiàn jiànjiān zài yǎnqián yìhuǎng, xìngde tā piāntóu yī shǎn, bìng cháo duìfāng yāo chù zhuàng qù.",
+     "en": "Just as she turned around, she saw a sword tip flash before her eyes; luckily she dodged her head aside and rammed toward the attacker's waist."
     },
     {
      "zh": "她也不知道這一招是否有效，只是拼盡全身的力氣，狠地一撞。",
-     "py": "Tā yě bù zhīdào zhè yìzhāo shìfǒu yǒuxiào, zhǐshì pīnjǐn quánshēn de lìqì, hěndì yízhuàng."
+     "py": "Tā yě bù zhīdào zhè yìzhāo shìfǒu yǒuxiào, zhǐshì pīnjǐn quánshēn de lìqì, hěndì yízhuàng.",
+     "en": "She didn't know whether this move would work; she just rammed hard with all her strength."
     },
     {
      "zh": "這一來一往，間刻不能容髮之際，她都沒察覺自己一顆心已經提到了嗓子眼兒，堵得呼吸都倍顯艱難。",
-     "py": "Zhè yìláiyìwǎng, jiānkè bùnéng róngfā zhījì, tā dōu méi chájué zìjǐ yìkē xīn yǐjīng tídào le sǎngziyǎnér, dǔdé hūxī dōu bèi xiǎn jiānnán."
+     "py": "Zhè yìláiyìwǎng, jiānkè bùnéng róngfā zhījì, tā dōu méi chájué zìjǐ yìkē xīn yǐjīng tídào le sǎngziyǎnér, dǔdé hūxī dōu bèi xiǎn jiānnán.",
+     "en": "In this exchange, with not a hair's breadth to spare, she didn't even notice that her heart was in her throat, blocking it so that even breathing was twice as hard."
     },
     {
      "zh": "幸得這一撞，教來者失了準頭，削掉她幾縷青絲。",
-     "py": "Xìngde zhèyī zhuàng, jiào láizhě shī le zhǔntou, xuēdiào tā jǐlǚ qīngsī."
+     "py": "Xìngde zhèyī zhuàng, jiào láizhě shī le zhǔntou, xuēdiào tā jǐlǚ qīngsī.",
+     "en": "Luckily this ram threw the attacker off aim, and only a few strands of her hair were sliced off."
     },
     {
      "zh": "但這一撞，也叫她看清來者何人，一聲驚呼幾乎要從喉間溢出，今天真是給阿爹應了「養虎為患」這句話啊！",
-     "py": "Dàn zhèyī zhuàng, yě jiào tā kànqīng láizhě hérén, yìshēng jīnghū jīhū yào cóng hóujiān yìchū, jīntiān zhēnshì gěi Ādiē yīng le “Yǎnghǔwéihuàn” zhè jù huà a!"
+     "py": "Dàn zhèyī zhuàng, yě jiào tā kànqīng láizhě hérén, yìshēng jīnghū jīhū yào cóng hóujiān yìchū, jīntiān zhēnshì gěi Ādiē yīng le “Yǎnghǔwéihuàn” zhè jù huà a!",
+     "en": "But the ram also let her see clearly who the attacker was; a cry of shock almost escaped her throat—today her father's saying \"raising a tiger invites disaster\" had truly come true!"
     },
     {
      "zh": "來人穩住身形，又是一連串凌厲攻勢，她左支右絀閃躲地甚是狼狽。",
-     "py": "Lái rén wěnzhù shēnxíng, yòu shì yìliánchuàn Línglìgōngshì, tā zuǒzhīyòuchù shǎnduǒ dì shènshì lángbèi."
+     "py": "Lái rén wěnzhù shēnxíng, yòu shì yìliánchuàn Línglìgōngshì, tā zuǒzhīyòuchù shǎnduǒ dì shènshì lángbèi.",
+     "en": "The attacker steadied himself and launched another series of fierce attacks; she dodged left and right in great disarray."
     },
     {
      "zh": "反射性地憶起了與這人無猜的歲月，心下淒苦。",
-     "py": "Fǎnshèxìng dì yìqǐ le yǔ zhèrén wúcāi de suìyuè, xīnxià qīkǔ."
+     "py": "Fǎnshèxìng dì yìqǐ le yǔ zhèrén wúcāi de suìyuè, xīnxià qīkǔ.",
+     "en": "By reflex she recalled the innocent years she had spent with this person, and her heart filled with bitterness."
     },
     {
      "zh": "喉頭一甜、滿嘴鹹腥。",
-     "py": "Hóutóu yī tián, Mǎnzuǐ xián xīng."
+     "py": "Hóutóu yī tián, Mǎnzuǐ xián xīng.",
+     "en": "A sweet taste rose in her throat and her mouth filled with the salty taste of blood."
     },
     {
      "zh": "眼下任務不僅完成不了，想她不過一十八歲的年華或許也將了結在此。",
-     "py": "Yǎnxià rènwù bùjǐn wánchéng bùliǎo, xiǎng tā búguò yīshíbāsuì de niánhuá huòxǔ yě jiāng liǎojié zài cǐ."
+     "py": "Yǎnxià rènwù bùjǐn wánchéng bùliǎo, xiǎng tā búguò yīshíbāsuì de niánhuá huòxǔ yě jiāng liǎojié zài cǐ.",
+     "en": "Now not only could she not complete her mission, but her life, only eighteen years long, might also end here."
     }
    ],
    "stem": {
     "zh": "關於文章中的主角，下面哪一個是對的？",
-    "py": "Guānyú wénzhāng zhōng de zhǔjué, xiàmiàn nǎ yí ge shì duì de?"
+    "py": "Guānyú wénzhāng zhōng de zhǔjué, xiàmiàn nǎ yí ge shì duì de?",
+    "en": "About the main character in the article, which of the following is correct?"
    },
    "options": {
     "A": {
      "zh": "她找好救兵準備上戰場",
-     "py": "Tā zhǎo hǎo jiùbīng zhǔnbèi shàng zhànchǎng"
+     "py": "Tā zhǎo hǎo jiùbīng zhǔnbèi shàng zhànchǎng",
+     "en": "(A) She has found reinforcements and is ready to go to war."
     },
     "B": {
      "zh": "她跟著一大隊人馬求援",
-     "py": "Tā gēnzhù yī dàduìrénmǎ qiúyuán"
+     "py": "Tā gēnzhù yī dàduìrénmǎ qiúyuán",
+     "en": "(B) She is seeking help with a large group of people and horses."
     },
     "C": {
      "zh": "她的武功已是出神入化",
-     "py": "Tā de Wǔgōng yǐ shì chūshénrùhuà"
+     "py": "Tā de Wǔgōng yǐ shì chūshénrùhuà",
+     "en": "(C) Her martial arts are already superb."
     },
     "D": {
      "zh": "她的狀態現是生死未卜",
-     "py": "Tā de zhuàngtài xiàn shì shēngsǐwèibǔ"
+     "py": "Tā de zhuàngtài xiàn shì shēngsǐwèibǔ",
+     "en": "(D) It's now uncertain whether she will live or die."
     }
    }
   },
   "40": {
    "stem": {
     "zh": "文章中的主角與攻擊她的人，以前是什麼關係？",
-    "py": "Wénzhāng zhōng de zhǔjué yǔ gōngjī tā de rén, yǐqián shì shénme guānxì?"
+    "py": "Wénzhāng zhōng de zhǔjué yǔ gōngjī tā de rén, yǐqián shì shénme guānxì?",
+    "en": "What was the past relationship between the main character and her attacker?"
    },
    "options": {
     "A": {
      "zh": "舊識",
-     "py": "Jiùshí"
+     "py": "Jiùshí",
+     "en": "(A) Old acquaintances"
     },
     "B": {
      "zh": "親家",
-     "py": "Qìngjia"
+     "py": "Qìngjia",
+     "en": "(B) In-laws"
     },
     "C": {
      "zh": "陌路",
-     "py": "Mòlù"
+     "py": "Mòlù",
+     "en": "(C) Strangers"
     },
     "D": {
      "zh": "對頭",
-     "py": "Duìtóu"
+     "py": "Duìtóu",
+     "en": "(D) Enemies"
     }
    }
   },
   "41": {
    "stem": {
     "zh": "文章第三段提及主角有些惱怒，她在惱怒什麼？",
-    "py": "Wénzhāng dìsānduàn tíjí zhǔjué yǒuxiē nǎonù, tā zài nǎonù shénme?"
+    "py": "Wénzhāng dìsānduàn tíjí zhǔjué yǒuxiē nǎonù, tā zài nǎonù shénme?",
+    "en": "The third paragraph says the main character was a little annoyed. What was she annoyed about?"
    },
    "options": {
     "A": {
      "zh": "她覺得自己的能力不如男子",
-     "py": "Tā juéde zìjǐ de nénglì bùrú nánzi"
+     "py": "Tā juéde zìjǐ de nénglì bùrú nánzi",
+     "en": "(A) She felt her abilities weren't as good as a man's."
     },
     "B": {
      "zh": "她害怕自己無法完成此趟任務",
-     "py": "Tā hàipà zìjǐ wúfǎ wánchéng cǐ tàng rènwù"
+     "py": "Tā hàipà zìjǐ wúfǎ wánchéng cǐ tàng rènwù",
+     "en": "(B) She was afraid she couldn't complete the mission."
     },
     "C": {
      "zh": "她覺得長途跋涉的旅程太過疲憊",
-     "py": "Tā juéde chángtúbáshè de lǚchéng tài guò píbèi"
+     "py": "Tā juéde chángtúbáshè de lǚchéng tài guò píbèi",
+     "en": "(C) She felt the long journey was too exhausting."
     },
     "D": {
      "zh": "她覺得自己不該被一些聲響嚇到",
-     "py": "Tā juéde zìjǐ bùgāi bèi yìxiē shēngxiǎng xià dào"
+     "py": "Tā juéde zìjǐ bùgāi bèi yìxiē shēngxiǎng xià dào",
+     "en": "(D) She felt she shouldn't have been startled by a few noises."
     }
    }
   },
   "42": {
    "stem": {
     "zh": "文中，心「提到了嗓子眼兒，堵得呼吸都倍顯艱難」，是怎樣的情 緒？",
-    "py": "Wénzhōng, xīn “Tídào le sǎngziyǎnér, dǔdé hūxī dōu bèi xiǎn jiānnán”, shì zěnyàng de qíng xù?"
+    "py": "Wénzhōng, xīn “Tídào le sǎngziyǎnér, dǔdé hūxī dōu bèi xiǎn jiānnán”, shì zěnyàng de qíng xù?",
+    "en": "In the article, her heart \"was in her throat, blocking it so that even breathing was twice as hard.\" What emotion is this?"
    },
    "options": {
     "A": {
      "zh": "氣憤",
-     "py": "Qìfèn"
+     "py": "Qìfèn",
+     "en": "(A) Anger"
     },
     "B": {
      "zh": "尷尬",
-     "py": "Gāngà"
+     "py": "Gāngà",
+     "en": "(B) Embarrassment"
     },
     "C": {
      "zh": "緊張",
-     "py": "Jǐnzhāng"
+     "py": "Jǐnzhāng",
+     "en": "(C) Tension; nervousness"
     },
     "D": {
      "zh": "鬱鬱",
-     "py": "Yùyù"
+     "py": "Yùyù",
+     "en": "(D) Gloom"
     }
    }
   },
   "43": {
    "stem": {
     "zh": "文章最後一段提及，主角和敵人對戰的情況怎麼樣？",
-    "py": "Wénzhāng zuìhòu yíduàn tíjí, zhǔjué hé dírén duìzhàn de qíngkuàng zěnmeyàng?"
+    "py": "Wénzhāng zuìhòu yíduàn tíjí, zhǔjué hé dírén duìzhàn de qíngkuàng zěnmeyàng?",
+    "en": "The last paragraph mentions the fight between the main character and the enemy. How is it going?"
    },
    "options": {
     "A": {
      "zh": "她落於下風",
-     "py": "Tā luòyú xiàfēng"
+     "py": "Tā luòyú xiàfēng",
+     "en": "(A) She is at a disadvantage."
     },
     "B": {
      "zh": "她最終反敗為勝",
-     "py": "Tā zuìzhōng fǎnbàiwéishèng"
+     "py": "Tā zuìzhōng fǎnbàiwéishèng",
+     "en": "(B) She finally turns defeat into victory."
     },
     "C": {
      "zh": "她與對方勢均力敵",
-     "py": "Tā yǔ duìfāng shìjūnlìdí"
+     "py": "Tā yǔ duìfāng shìjūnlìdí",
+     "en": "(D) She and the opponent are evenly matched."
     }
    }
   },
   "44": {
    "stem": {
     "zh": "下面哪一個句子可以用來描述攻擊的人？",
-    "py": "Xiàmiàn nǎ yí ge jùzi kěyǐ yònglái miáoshù gōngjī de rén?"
+    "py": "Xiàmiàn nǎ yí ge jùzi kěyǐ yònglái miáoshù gōngjī de rén?",
+    "en": "Which sentence can be used to describe the attacker?"
    },
    "options": {
     "A": {
      "zh": "相貌玉樹臨風",
-     "py": "Xiàngmào Yùshùlínfēng"
+     "py": "Xiàngmào Yùshùlínfēng",
+     "en": "(A) Handsome and elegant"
     },
     "B": {
      "zh": "出手趕盡殺絕",
-     "py": "Chūshǒu gǎnjìnshājué"
+     "py": "Chūshǒu gǎnjìnshājué",
+     "en": "(B) Strikes to kill without mercy"
     },
     "C": {
      "zh": "招式拖泥帶水",
-     "py": "Zhāoshì tuōnídàishuǐ"
+     "py": "Zhāoshì tuōnídàishuǐ",
+     "en": "(C) Sloppy, hesitant moves"
     },
     "D": {
      "zh": "神色恍恍惚惚",
-     "py": "Shénsè huǎnghuǎnghūhū"
+     "py": "Shénsè huǎnghuǎnghūhū",
+     "en": "(D) Looks dazed"
     }
    }
   },
@@ -1419,195 +1723,238 @@
    "passage": [
     {
      "zh": "（八）普天之下，莫非王土",
-     "py": "(Bā) pǔtiānzhīxià, Mòfēi Wángtǔ"
+     "py": "(Bā) pǔtiānzhīxià, Mòfēi Wángtǔ",
+     "en": "(8) \"All land under heaven belongs to the king\""
     },
     {
      "zh": "春秋時期，管仲推「官山海」稅賦政策，本著「普天之下，莫非王土」的政治思維，意欲收盡漁澤山川之利來強化國家經濟。",
-     "py": "Chūnqiūshíqī, Guǎnzhòng tuī “Guānshān hǎi” shuìfù zhèngcè, běn zhù “Pǔtiānzhīxià, Mòfēi Wángtǔ” de zhèngzhì sīwéi, yìyù shōujǐn yúzé Shānchuān zhī lìlái qiánghuà guójiā jīngjì."
+     "py": "Chūnqiūshíqī, Guǎnzhòng tuī “Guānshān hǎi” shuìfù zhèngcè, běn zhù “Pǔtiānzhīxià, Mòfēi Wángtǔ” de zhèngzhì sīwéi, yìyù shōujǐn yúzé Shānchuān zhī lìlái qiánghuà guójiā jīngjì.",
+     "en": "In the Spring and Autumn period, Guan Zhong promoted the \"state control of mountains and seas\" tax policy; based on the political thinking that \"all land under heaven belongs to the king,\" he sought to take all the profits of fisheries, marshes, mountains and rivers to strengthen the state's economy."
     },
     {
      "zh": "到了西漢，朝廷明令將鹽、鐵、酒等重要經濟事業收歸國有，並嚴禁百姓私售。",
-     "py": "Dào le Xīhàn, Cháotíng mínglìng jiāngyán, tiě, jiǔ děng zhòngyào jīngjì shìyè shōuguīguóyǒu, bìng yánjìn bǎixìng sīshòu."
+     "py": "Dào le Xīhàn, Cháotíng mínglìng jiāngyán, tiě, jiǔ děng zhòngyào jīngjì shìyè shōuguīguóyǒu, bìng yánjìn bǎixìng sīshòu.",
+     "en": "By the Western Han, the court explicitly nationalized salt, iron, wine and other important economic enterprises, and strictly forbade the common people to sell them privately."
     },
     {
      "zh": "官、私兩分",
-     "py": "Guān, sī liǎngfēn"
+     "py": "Guān, sī liǎngfēn",
+     "en": "The split between official and private"
     },
     {
      "zh": "食鹽是民生必需品，大眾的需求量大，背後龐大的利潤可想而知，朝廷為擴充國庫，與民爭利，一方面限制可專賣的店家數，一方面又以嚴刑峻法打壓私鹽販售，如若販售私鹽罪證確鑿，輕則流放，重則處死，從西漢以降至有清一朝，刑法的嚴峻，不亞於當今販售毒品的罪責。",
-     "py": "Shíyán shì mínshēng bìxūpǐn, dàzhòng de xūqiúliàng dà, bèihòu pángdà de lìrùn kěxiǎngérzhī, Cháotíng wèi kuòchōng guókù, yǔmínzhēnglì, yìfāngmiàn xiànzhì kě zhuānmài de diànjiā shù, yìfāngmiàn yòu yǐ yánxíngjùnfǎ dǎyā sīyán fànshòu, rúruò fànshòu sīyán zuìzhèngquèzáo, qīng zé liúfàng, zhòng zé chǔsǐ, cóng Xīhàn yǐ jiàngzhì yǒu qīng yìzhāo, xíngfǎ de yánjùn, búyàyú dāngjīn fànshòu dúpǐn de zuìzé."
+     "py": "Shíyán shì mínshēng bìxūpǐn, dàzhòng de xūqiúliàng dà, bèihòu pángdà de lìrùn kěxiǎngérzhī, Cháotíng wèi kuòchōng guókù, yǔmínzhēnglì, yìfāngmiàn xiànzhì kě zhuānmài de diànjiā shù, yìfāngmiàn yòu yǐ yánxíngjùnfǎ dǎyā sīyán fànshòu, rúruò fànshòu sīyán zuìzhèngquèzáo, qīng zé liúfàng, zhòng zé chǔsǐ, cóng Xīhàn yǐ jiàngzhì yǒu qīng yìzhāo, xíngfǎ de yánjùn, búyàyú dāngjīn fànshòu dúpǐn de zuìzé.",
+     "en": "Salt is a daily necessity in great demand, and the huge profits behind it can be imagined. To fill the treasury, the court competed with the people for profit: on the one hand it limited the number of shops allowed to sell under the monopoly, and on the other it suppressed private salt sales with harsh laws. If guilt in selling private salt was proven, the lighter penalty was exile and the heavier was death. From the Western Han down to the Qing dynasty, the severity of these penalties was no less than that for drug dealing today."
     },
     {
      "zh": "然，老百姓討生活，一向是「靠山吃山。",
-     "py": "Rán, lǎobǎixìng tǎoshēnghuó, yíxiàng shì “Kàoshānchīshān."
+     "py": "Rán, lǎobǎixìng tǎoshēnghuó, yíxiàng shì “Kàoshānchīshān.",
+     "en": "Yet ordinary people have always made a living by \"living off the mountains if they live by the mountains,"
     },
     {
      "zh": "靠海吃海」，中國海岸線漫長，有眾多天然鹽場，製鹽技術的門檻又不高，在官鹽價高量少，供需失衡，有利可圖的情況下，私鹽買賣遂應勢而生，此後，食鹽有了官、私之分。",
-     "py": "Kàohǎichīhǎi”, Zhōngguó hǎiànxiàn màncháng, yǒu zhòngduō tiānrán yánchǎng, zhìyán jìshù de ménkǎn yòu bù gāo, zài guān yánjià gāoliàng shǎo, gōngxū shīhéng, yǒulìkětú de qíngkuàng xià, sīyán mǎimài suì yīng shì ér shēng, cǐhòu, shíyán yǒu le guān, sī zhī fēn."
+     "py": "Kàohǎichīhǎi”, Zhōngguó hǎiànxiàn màncháng, yǒu zhòngduō tiānrán yánchǎng, zhìyán jìshù de ménkǎn yòu bù gāo, zài guān yánjià gāoliàng shǎo, gōngxū shīhéng, yǒulìkětú de qíngkuàng xià, sīyán mǎimài suì yīng shì ér shēng, cǐhòu, shíyán yǒu le guān, sī zhī fēn.",
+     "en": "and living off the sea if they live by the sea.\" China has a long coastline with many natural salt fields, and the technical barrier to making salt isn't high. With official salt expensive and scarce, supply and demand out of balance and profit to be made, the private salt trade arose naturally; from then on, salt was divided into official and private."
     },
     {
      "zh": "政策失利、民怨四起",
-     "py": "Zhèngcè shīlì, mínyuàn sìqǐ"
+     "py": "Zhèngcè shīlì, mínyuàn sìqǐ",
+     "en": "Failed policy and widespread resentment"
     },
     {
      "zh": "儘管「天下賦利，鹽利居半」， I ，鉅額財富背後，弊病百出的鹽政，反成了壓垮帝國穩定內政的稻草 II 。",
-     "py": "Jǐnguǎn “Tiānxià fùlì, yánlì jū bàn”, I, jùé cáifù bèihòu, bìbìng bǎichū de yánzhèng, fǎnchéng le yākuǎ dìguó wěndìng nèizhèng de dàocǎo II."
+     "py": "Jǐnguǎn “Tiānxià fùlì, yánlì jū bàn”, I, jùé cáifù bèihòu, bìbìng bǎichū de yánzhèng, fǎnchéng le yākuǎ dìguó wěndìng nèizhèng de dàocǎo II.",
+     "en": "Although \"of all revenue under heaven, salt accounts for half,\" ___I___, behind the huge wealth, the salt administration, riddled with abuses, instead became the straw that broke the empire's internal stability ___II___."
     },
     {
      "zh": "如唐末販售私鹽的商人——黃巢所發起的民亂。",
-     "py": "Rú tángmò fànshòu sīyán de shāngrén—— Huángcháo suǒ fāqǐ de mínluàn."
+     "py": "Rú tángmò fànshòu sīyán de shāngrén—— Huángcháo suǒ fāqǐ de mínluàn.",
+     "en": "For example, the popular uprising launched at the end of the Tang by Huang Chao, a private salt merchant."
     },
     {
      "zh": "黃巢之亂延續數十年，禍延唐朝半壁江山，人民死傷無數、流離失所，國祚衰敗。",
-     "py": "Huángcháozhī luàn yánxù shùshínián, huò yán tángcháo Bànbìjiāngshān, rénmín sǐshāngwúshù, liúlíshīsuǒ, Guózuò shuāibài."
+     "py": "Huángcháozhī luàn yánxù shùshínián, huò yán tángcháo Bànbìjiāngshān, rénmín sǐshāngwúshù, liúlíshīsuǒ, Guózuò shuāibài.",
+     "en": "Huang Chao's rebellion lasted decades, ravaging half the Tang empire; countless people were killed or wounded and displaced, and the dynasty went into decline."
     },
     {
      "zh": "但是 III ，唐以降，元、清等政府，除了加重刑法，並無其他有效作為。",
-     "py": "Dànshì III, Tángyǐjiàng, yuán, qīng děng zhèngfǔ, chúle jiāzhòng xíngfǎ, bìng wú qítā yǒuxiào zuòwéi."
+     "py": "Dànshì III, Tángyǐjiàng, yuán, qīng děng zhèngfǔ, chúle jiāzhòng xíngfǎ, bìng wú qítā yǒuxiào zuòwéi.",
+     "en": "But ___III___, after the Tang, the Yuan, Qing and other governments did nothing effective apart from increasing the penalties."
     },
     {
      "zh": "販售私鹽者，亦不甘示弱， IV ，甚至聚眾糾幫，自號「鹽幫」，並配戴兵器來護送私鹽。",
-     "py": "Fànshòu sīyán zhě, yì bùgānshìruò, IV, shènzhì jùzhòng jiūbāng, zìhào “Yánbāng”, bìng pèidài bīngqì lái hùsòng sīyán."
+     "py": "Fànshòu sīyán zhě, yì bùgānshìruò, IV, shènzhì jùzhòng jiūbāng, zìhào “Yánbāng”, bìng pèidài bīngqì lái hùsòng sīyán.",
+     "en": "The private salt sellers didn't take it lying down either; ___IV___ they even formed gangs, calling themselves \"salt gangs,\" and carried weapons to escort the private salt."
     },
     {
      "zh": "足見「與民爭利，惟敗已矣」。",
-     "py": "Zújiàn “Yǔmínzhēnglì, wéibàiyǐ yǐ”."
+     "py": "Zújiàn “Yǔmínzhēnglì, wéibàiyǐ yǐ”.",
+     "en": "This shows that \"competing with the people for profit only leads to failure.\""
     },
     {
      "zh": "水可載舟，亦可覆舟",
-     "py": "Shuǐkězàizhōu, yìkěfùzhōu"
+     "py": "Shuǐkězàizhōu, yìkěfùzhōu",
+     "en": "Water can carry a boat, and it can also capsize it"
     },
     {
      "zh": "「普天之下，莫非王土」的政治思維，其後果於史冊斑斑可考。",
-     "py": "“Pǔtiānzhīxià, Mòfēi Wángtǔ” de zhèngzhì sīwéi, qí hòuguǒ yú shǐcè bānbānkěkǎo."
+     "py": "“Pǔtiānzhīxià, Mòfēi Wángtǔ” de zhèngzhì sīwéi, qí hòuguǒ yú shǐcè bānbānkěkǎo.",
+     "en": "The consequences of the political thinking \"all land under heaven belongs to the king\" can be clearly traced in the historical records."
     },
     {
      "zh": "今人當知「以古為鏡，可知興替」，歷史這面鏡子，始終映照著過去的錯誤，提醒著未來決策者的決斷。",
-     "py": "Jīnrén dāng zhī “Yǐgǔwéijìng, kězhī xīngtì”, lìshǐ zhè miàn jìngzi, shǐzhōng yìngzhào zhù guòqù de cuòwù, tíxǐng zhù wèilái juécèzhě de juéduàn."
+     "py": "Jīnrén dāng zhī “Yǐgǔwéijìng, kězhī xīngtì”, lìshǐ zhè miàn jìngzi, shǐzhōng yìngzhào zhù guòqù de cuòwù, tíxǐng zhù wèilái juécèzhě de juéduàn.",
+     "en": "People today should know that \"using the past as a mirror, one can know the rise and fall of dynasties.\" The mirror of history always reflects past mistakes, reminding future decision-makers as they make their decisions."
     }
    ],
    "stem": {
     "zh": "根據文章，「官山海」的稅賦來源為何？",
-    "py": "Gēnjù wénzhāng, “Guānshān hǎi” de shuìfù láiyuán wèihé?"
+    "py": "Gēnjù wénzhāng, “Guānshān hǎi” de shuìfù láiyuán wèihé?",
+    "en": "According to the article, what was the source of the \"state control of mountains and seas\" taxes?"
    },
    "options": {
     "A": {
      "zh": "百工作坊",
-     "py": "Bǎi gōngzuōfang"
+     "py": "Bǎi gōngzuōfang",
+     "en": "(A) Artisans' workshops"
     },
     "B": {
      "zh": "富商大賈",
-     "py": "Fùshāngdàgǔ"
+     "py": "Fùshāngdàgǔ",
+     "en": "(B) Rich merchants"
     },
     "C": {
      "zh": "農林漁牧",
-     "py": "Nónglín yúmù"
+     "py": "Nónglín yúmù",
+     "en": "(C) Agriculture, forestry, fishing and animal husbandry"
     },
     "D": {
      "zh": "屬國歲貢",
-     "py": "Shǔguó suìgòng"
+     "py": "Shǔguó suìgòng",
+     "en": "(D) Annual tribute from vassal states"
     }
    }
   },
   "46": {
    "stem": {
     "zh": "導致食鹽販售官、私兩分的起因為何？",
-    "py": "Dǎozhì shíyán fànshòu guān, sī liǎngfēn de qǐyīn wèihé?"
+    "py": "Dǎozhì shíyán fànshòu guān, sī liǎngfēn de qǐyīn wèihé?",
+    "en": "What caused salt sales to split into official and private?"
    },
    "options": {
     "A": {
      "zh": "百姓對食鹽需求日增",
-     "py": "Bǎixìng duì shíyán xūqiú Rìzēng"
+     "py": "Bǎixìng duì shíyán xūqiú Rìzēng",
+     "en": "(A) The people's demand for salt grew day by day."
     },
     "B": {
      "zh": "朝廷想獨攬食鹽收益",
-     "py": "Cháotíng xiǎng dúlǎn shíyán shōuyì"
+     "py": "Cháotíng xiǎng dúlǎn shíyán shōuyì",
+     "en": "(B) The court wanted to monopolize the revenue from salt."
     },
     "C": {
      "zh": "朝廷疏忽，外流製鹽技術",
-     "py": "Cháotíng shūhū, wàiliú zhìyán jìshù"
+     "py": "Cháotíng shūhū, wàiliú zhìyán jìshù",
+     "en": "(C) The court was negligent and salt-making technology leaked out."
     },
     "D": {
      "zh": "收成不利，百姓鋌而走險",
-     "py": "Shōuchéng búlì, bǎixìng tǐngérzǒuxiǎn"
+     "py": "Shōuchéng búlì, bǎixìng tǐngérzǒuxiǎn",
+     "en": "(D) Poor harvests drove people to take desperate risks."
     }
    }
   },
   "47": {
    "stem": {
     "zh": "作者認為，朝廷與販售私鹽者之間的關係為何？",
-    "py": "Zuòzhě rènwéi, Cháotíng yǔ fànshòu sīyán zhě zhījiān de guānxì wèihé?"
+    "py": "Zuòzhě rènwéi, Cháotíng yǔ fànshòu sīyán zhě zhījiān de guānxì wèihé?",
+    "en": "What does the author think the relationship between the court and the private salt sellers was?"
    },
    "options": {
     "A": {
      "zh": "私相授受",
-     "py": "Sīxiāngshòushòu"
+     "py": "Sīxiāngshòushòu",
+     "en": "(A) Secret dealings under the table"
     },
     "B": {
      "zh": "鷸蚌相爭",
-     "py": "Yùbàngxiāngzhēng"
+     "py": "Yùbàngxiāngzhēng",
+     "en": "(B) The snipe and the clam fighting (both lose, a third party gains)"
     },
     "C": {
      "zh": "勢如水火",
-     "py": "Shìrúshuǐhuǒ"
+     "py": "Shìrúshuǐhuǒ",
+     "en": "(C) Like fire and water (hostile)"
     },
     "D": {
      "zh": "旗鼓相當",
-     "py": "Qígǔxiāngdāng"
+     "py": "Qígǔxiāngdāng",
+     "en": "(D) Evenly matched"
     }
    }
   },
   "48": {
    "stem": {
     "zh": "本文提及有關「黃巢之亂」的什麼事？",
-    "py": "Běnwén tíjí yǒuguān “Huángcháozhī luàn” de shénme shì?"
+    "py": "Běnwén tíjí yǒuguān “Huángcháozhī luàn” de shénme shì?",
+    "en": "What does the article mention about the \"Huang Chao Rebellion\"?"
    },
    "options": {
     "A": {
      "zh": "黃巢最終的下場",
-     "py": "Huángcháo zuìzhōng de xiàchǎng"
+     "py": "Huángcháo zuìzhōng de xiàchǎng",
+     "en": "(A) Huang Chao's final fate"
     },
     "B": {
      "zh": "朝廷剿匪的過程",
-     "py": "Cháotíng jiǎofěi de guòchéng"
+     "py": "Cháotíng jiǎofěi de guòchéng",
+     "en": "(B) The court's campaign against the bandits"
     },
     "C": {
      "zh": "黃巢發家致富的過程",
-     "py": "Huángcháo fājiāzhìfù de guòchéng"
+     "py": "Huángcháo fājiāzhìfù de guòchéng",
+     "en": "(C) How Huang Chao made his fortune"
     },
     "D": {
      "zh": "百姓被民亂波及的程度",
-     "py": "Bǎixìng bèi mínluàn Bōjí de chéngdù"
+     "py": "Bǎixìng bèi mínluàn Bōjí de chéngdù",
+     "en": "(D) How badly the people were affected by the uprising"
     }
    }
   },
   "49": {
    "stem": {
     "zh": "若要將「後世並未以此戒鑑」一句插入文中，下列哪個位置最恰當？",
-    "py": "Ruòyào jiāng “Hòushì bìngwèi yǐcǐ jièjiàn” yíjù chārù wénzhōng, xiàliè nǎ ge wèizhì zuì qiàdàng?"
+    "py": "Ruòyào jiāng “Hòushì bìngwèi yǐcǐ jièjiàn” yíjù chārù wénzhōng, xiàliè nǎ ge wèizhì zuì qiàdàng?",
+    "en": "If the sentence \"Later generations did not take this as a warning\" were inserted into the article, which position would be most appropriate?"
    }
   },
   "50": {
    "stem": {
     "zh": "本文引了四句話，作者用哪一句話來評論「普天之下，莫非王土」 的思維？",
-    "py": "Běnwén yǐn le sìjù huà, zuòzhě yòng nǎ yíjù huà lái pínglùn “Pǔtiānzhīxià, Mòfēi Wángtǔ” de sīwéi?"
+    "py": "Běnwén yǐn le sìjù huà, zuòzhě yòng nǎ yíjù huà lái pínglùn “Pǔtiānzhīxià, Mòfēi Wángtǔ” de sīwéi?",
+    "en": "The article quotes four sayings. Which one does the author use to comment on the thinking \"all land under heaven belongs to the king\"?"
    },
    "options": {
     "A": {
      "zh": "靠山吃山，靠海吃海",
-     "py": "Kàoshānchīshān, kàohǎichīhǎi"
+     "py": "Kàoshānchīshān, kàohǎichīhǎi",
+     "en": "(A) Live off the mountains if you live by the mountains; live off the sea if you live by the sea"
     },
     "B": {
      "zh": "與民爭利，惟敗已矣",
-     "py": "Yǔmínzhēnglì, wéibàiyǐ yǐ"
+     "py": "Yǔmínzhēnglì, wéibàiyǐ yǐ",
+     "en": "(B) Competing with the people for profit only leads to failure"
     },
     "C": {
      "zh": "天下賦利，鹽利居半",
-     "py": "Tiānxià fùlì, yánlì jū bàn"
+     "py": "Tiānxià fùlì, yánlì jū bàn",
+     "en": "(C) Of all revenue under heaven, salt accounts for half"
     },
     "D": {
      "zh": "以古為鏡，可知興替",
-     "py": "Yǐgǔwéijìng, kězhī xīngtì"
+     "py": "Yǐgǔwéijìng, kězhī xīngtì",
+     "en": "(D) Using the past as a mirror, one can know the rise and fall of dynasties"
     }
    }
   }
