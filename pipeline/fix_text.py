@@ -1,6 +1,6 @@
 """Text corrections for the mock tests.
 
-1. Glyph errors from the booklet fonts: 頇 is extracted where 須 is printed.
+1. Glyph errors from the booklet fonts (e.g. 頇 is extracted where 須 is printed); see GLYPHS.
 2. Novice mock-test text that the booklet's printed pinyin/zhuyin garbles during extraction.
 
 The Novice booklet prints pinyin and zhuyin around every character, so automatic extraction
@@ -10,6 +10,10 @@ official listening script. Run after parse_mock.py:  python fix_text.py <OUT_DIR
 import json
 import sys
 from pathlib import Path
+
+# Big5 font glyphs extracted as the wrong character (checked against the printed pages)
+GLYPHS = [("頇", "須"), ("帄", "平"), ("帅稚", "幼稚"), ("年付", "年代"), ("付替", "代替"), ("現付人", "現代人"),
+          ("一付一付", "一代一代"), ("取付", "取代"), ("命仙", "命令"), ("下仙", "下令"), ("仙人驚", "令人驚")]
 
 R_STEMS = {1: "妹妹的書", 2: "五百二十八元", 3: "他在開車", 4: "九點四十分", 5: "他們在看電影", 6: "這是他的名字",
            7: "她在練習寫字", 8: "我帶了衣服", 9: "漂亮的房子", 10: "她覺得很熱", 11: "他在餐廳吃東西",
@@ -55,8 +59,11 @@ def main(out):
     f.write_text(json.dumps(t, ensure_ascii=False, indent=1), encoding="utf-8")
     for f in d.glob("*-[rl][0-9].json"):
         txt = f.read_text(encoding="utf-8")
-        if "頇" in txt:
-            f.write_text(txt.replace("頇", "須"), encoding="utf-8")
+        new = txt
+        for a, b in GLYPHS:
+            new = new.replace(a, b)
+        if new != txt:
+            f.write_text(new, encoding="utf-8")
     print("text corrections applied")
 
 

@@ -1,55 +1,66 @@
 {
  "testId": "b-r3",
  "segments": 321,
- "englishComplete": false,
+ "englishComplete": true,
  "questions": {
   "1": {
    "passage": [
     {
      "zh": "（一）",
-     "py": "(Yī)"
+     "py": "(Yī)",
+     "en": "(1)"
     },
     {
      "zh": "昨天我在整理書桌的時候，發現了一本很久沒 1 到的書。",
-     "py": "Zuótiān wǒ zài zhěnglǐ shūzhuō de shíhòu, fāxiàn le yìběn hěnjiǔméi 1 dào de shū."
+     "py": "Zuótiān wǒ zài zhěnglǐ shūzhuō de shíhòu, fāxiàn le yìběn hěnjiǔméi 1 dào de shū.",
+     "en": "Yesterday while tidying my desk, I found a book I hadn't ___1___ in a long time."
     },
     {
      "zh": "那本書是幾年 2 我父親送給我的。",
-     "py": "Nàběnshū shì jǐnián 2 wǒ fùqīn sònggěi wǒ de."
+     "py": "Nàběnshū shì jǐnián 2 wǒ fùqīn sònggěi wǒ de.",
+     "en": "That book was given to me by my father a few years ___2___."
     },
     {
      "zh": "我打開那本書，裡面有一 3 卡片，那是父親給我的。",
-     "py": "Wǒ dǎkāi Nàběnshū, lǐmiàn yǒu yī 3 Kǎpiàn, nà shì fùqīn gěi wǒ de."
+     "py": "Wǒ dǎkāi Nàběnshū, lǐmiàn yǒu yī 3 Kǎpiàn, nà shì fùqīn gěi wǒ de.",
+     "en": "I opened the book, and inside was a ___3___ card—it was from my father."
     },
     {
      "zh": "卡片裡他 4 ：「爸爸想送你最特別的十八歲生日禮物，看了好幾家店以後， 5 你買了這本書。",
-     "py": "Kǎpiàn lǐ tā 4: “Bàba xiǎng sòng nǐ zuì tèbié de shíbāsuì shēngrìlǐwù, kàn le hǎojǐjiā diàn yǐhòu, 5 nǐ mǎi le zhè běnshū."
+     "py": "Kǎpiàn lǐ tā 4: “Bàba xiǎng sòng nǐ zuì tèbié de shíbāsuì shēngrìlǐwù, kàn le hǎojǐjiā diàn yǐhòu, 5 nǐ mǎi le zhè běnshū.",
+     "en": "In the card he ___4___: \"Dad wanted to give you the most special 18th birthday present. After looking at several shops, I bought ___5___ you this book."
     },
     {
      "zh": "希望這本書能",
-     "py": "Xīwàng zhè běnshū néng"
+     "py": "Xīwàng zhè běnshū néng",
+     "en": "I hope this book can"
     },
     {
      "zh": "6 你明白一些道理。」看完卡片，我又把書讀了一遍。",
-     "py": "6 nǐ Míngbái yìxiē dàolǐ.” kàn wán Kǎpiàn, wǒ yòu bǎ shū dú le yíbiàn."
+     "py": "6 nǐ Míngbái yìxiē dàolǐ.” kàn wán Kǎpiàn, wǒ yòu bǎ shū dú le yíbiàn.",
+     "en": "___6___ you understand some truths.\" After reading the card, I read the book once again."
     }
    ],
    "options": {
     "A": {
      "zh": "開",
-     "py": "Kāi"
+     "py": "Kāi",
+     "en": "to open"
     },
     "B": {
      "zh": "查",
-     "py": "Chá"
+     "py": "Chá",
+     "en": "to look up, to check"
     },
     "C": {
      "zh": "看",
-     "py": "Kàn"
+     "py": "Kàn",
+     "en": "to see, to read"
     },
     "D": {
      "zh": "遇",
-     "py": "Yù"
+     "py": "Yù",
+     "en": "to meet, to encounter"
     }
    }
   },
@@ -57,19 +68,23 @@
    "options": {
     "A": {
      "zh": "中",
-     "py": "Zhōng"
+     "py": "Zhōng",
+     "en": "middle, in"
     },
     "B": {
      "zh": "上",
-     "py": "Shàng"
+     "py": "Shàng",
+     "en": "on, last"
     },
     "C": {
      "zh": "前",
-     "py": "Qián"
+     "py": "Qián",
+     "en": "before, ago"
     },
     "D": {
      "zh": "後",
-     "py": "Hòu"
+     "py": "Hòu",
+     "en": "after, later"
     }
    }
   },
@@ -77,19 +92,23 @@
    "options": {
     "A": {
      "zh": "頁",
-     "py": "Yè"
+     "py": "Yè",
+     "en": "(measure word) page"
     },
     "B": {
      "zh": "張",
-     "py": "Zhāng"
+     "py": "Zhāng",
+     "en": "(measure word for flat things) sheet"
     },
     "C": {
      "zh": "份",
-     "py": "Fèn"
+     "py": "Fèn",
+     "en": "(measure word) copy, portion"
     },
     "D": {
      "zh": "片",
-     "py": "Piàn"
+     "py": "Piàn",
+     "en": "(measure word) slice, piece"
     }
    }
   },
@@ -97,19 +116,23 @@
    "options": {
     "A": {
      "zh": "寫著",
-     "py": "Xiězhù"
+     "py": "Xiězhù",
+     "en": "is written (寫著)"
     },
     "B": {
      "zh": "說過",
-     "py": "Shuō guò"
+     "py": "Shuō guò",
+     "en": "has said"
     },
     "C": {
      "zh": "讀著",
-     "py": "Dúzhù"
+     "py": "Dúzhù",
+     "en": "is reading"
     },
     "D": {
      "zh": "念過",
-     "py": "Niàn guò"
+     "py": "Niàn guò",
+     "en": "has read aloud"
     }
    }
   },
@@ -117,19 +140,23 @@
    "options": {
     "A": {
      "zh": "對",
-     "py": "Duì"
+     "py": "Duì",
+     "en": "toward, to"
     },
     "B": {
      "zh": "要",
-     "py": "Yào"
+     "py": "Yào",
+     "en": "to want"
     },
     "C": {
      "zh": "給",
-     "py": "Gěi"
+     "py": "Gěi",
+     "en": "for, to (給你買: bought for you)"
     },
     "D": {
      "zh": "向",
-     "py": "Xiàng"
+     "py": "Xiàng",
+     "en": "toward"
     }
    }
   },
@@ -137,19 +164,23 @@
    "options": {
     "A": {
      "zh": "讓",
-     "py": "Ràng"
+     "py": "Ràng",
+     "en": "to let, to make"
     },
     "B": {
      "zh": "把",
-     "py": "Bǎ"
+     "py": "Bǎ",
+     "en": "(disposal marker) 把"
     },
     "C": {
      "zh": "被",
-     "py": "Bèi"
+     "py": "Bèi",
+     "en": "(passive marker) by"
     },
     "D": {
      "zh": "為",
-     "py": "Wèi"
+     "py": "Wèi",
+     "en": "for"
     }
    }
   },
@@ -157,41 +188,50 @@
    "passage": [
     {
      "zh": "（二）",
-     "py": "(Èr)"
+     "py": "(Èr)",
+     "en": "(2)"
     },
     {
      "zh": "李明的車子壞了，所以他最近 7 開車上班。",
-     "py": "Lǐmíng de chēzi huài le, suǒyǐ tā zuìjìn 7 kāichē shàngbān."
+     "py": "Lǐmíng de chēzi huài le, suǒyǐ tā zuìjìn 7 kāichē shàngbān.",
+     "en": "Li Ming's car broke down, so lately he ___7___ drive to work."
     },
     {
      "zh": "李明的家 8 公司很遠，要是沒有車子的話，是很不 9 的。",
-     "py": "Lǐmíng de jiā 8 gōngsī hěn yuǎn, yàoshì méiyǒu chēzi dehuà, shì hěn bù 9 de."
+     "py": "Lǐmíng de jiā 8 gōngsī hěn yuǎn, yàoshì méiyǒu chēzi dehuà, shì hěn bù 9 de.",
+     "en": "Li Ming's home is very far ___8___ his company; without a car it's very in___9___."
     },
     {
      "zh": "這個星期，李明每天早上得先坐公共汽車， 10 坐電車，才能到公司。",
-     "py": "Zhè ge xīngqī, Lǐmíng měitiān zǎoshàng dé xiān zuò Gōnggòngqìchē, 10 zuò diànchē, cáinéng dào gōngsī."
+     "py": "Zhè ge xīngqī, Lǐmíng měitiān zǎoshàng dé xiān zuò Gōnggòngqìchē, 10 zuò diànchē, cáinéng dào gōngsī.",
+     "en": "This week, every morning Li Ming has to take the bus first, ___10___ take the train, to get to his company."
     },
     {
      "zh": "11 三、四天，李明覺得可以接受，但是久了他就覺得麻煩，才 12 汽車公司借他一台車，讓他能夠開車上、下班，汽車公司也答應了。",
-     "py": "11 sān, sìtiān, Lǐmíng juéde kěyǐ jiēshòu, dànshì jiǔ le tā jiù juéde máfán, cái 12 qìchē gōngsī jiè tā yìtái chē, ràng tā nénggòu kāichē shàng, xiàbān, qìchē gōngsī yě dāyìng le."
+     "py": "11 sān, sìtiān, Lǐmíng juéde kěyǐ jiēshòu, dànshì jiǔ le tā jiù juéde máfán, cái 12 qìchē gōngsī jiè tā yìtái chē, ràng tā nénggòu kāichē shàng, xiàbān, qìchē gōngsī yě dāyìng le.",
+     "en": "For the ___11___ three or four days, Li Ming felt he could accept it, but after a while he found it a hassle, so he ___12___ the car company to lend him a car so he could drive to and from work, and the car company agreed."
     }
    ],
    "options": {
     "A": {
      "zh": "最好",
-     "py": "Zuìhǎo"
+     "py": "Zuìhǎo",
+     "en": "had better"
     },
     "B": {
      "zh": "不能",
-     "py": "Bùnéng"
+     "py": "Bùnéng",
+     "en": "can't"
     },
     "C": {
      "zh": "還是",
-     "py": "Háishì"
+     "py": "Háishì",
+     "en": "still; had better"
     },
     "D": {
      "zh": "沒空",
-     "py": "Méikòng"
+     "py": "Méikòng",
+     "en": "have no free time"
     }
    }
   },
@@ -199,19 +239,23 @@
    "options": {
     "A": {
      "zh": "從",
-     "py": "Cóng"
+     "py": "Cóng",
+     "en": "from"
     },
     "B": {
      "zh": "比",
-     "py": "Bǐ"
+     "py": "Bǐ",
+     "en": "than"
     },
     "C": {
      "zh": "離",
-     "py": "Lí"
+     "py": "Lí",
+     "en": "away from (distance)"
     },
     "D": {
      "zh": "往",
-     "py": "Wǎng"
+     "py": "Wǎng",
+     "en": "toward"
     }
    }
   },
@@ -219,19 +263,23 @@
    "options": {
     "A": {
      "zh": "滿意",
-     "py": "Mǎnyì"
+     "py": "Mǎnyì",
+     "en": "satisfied"
     },
     "B": {
      "zh": "容易",
-     "py": "Róngyì"
+     "py": "Róngyì",
+     "en": "easy"
     },
     "C": {
      "zh": "放心",
-     "py": "Fàngxīn"
+     "py": "Fàngxīn",
+     "en": "at ease"
     },
     "D": {
      "zh": "方便",
-     "py": "Fāngbiàn"
+     "py": "Fāngbiàn",
+     "en": "convenient"
     }
    }
   },
@@ -239,19 +287,23 @@
    "options": {
     "A": {
      "zh": "然後",
-     "py": "Ránhòu"
+     "py": "Ránhòu",
+     "en": "then, afterward (in a sequence)"
     },
     "B": {
      "zh": "後來",
-     "py": "Hòulái"
+     "py": "Hòulái",
+     "en": "later (in the past)"
     },
     "C": {
      "zh": "以後",
-     "py": "Yǐhòu"
+     "py": "Yǐhòu",
+     "en": "after"
     },
     "D": {
      "zh": "結果",
-     "py": "Jiéguǒ"
+     "py": "Jiéguǒ",
+     "en": "as a result"
     }
    }
   },
@@ -259,19 +311,23 @@
    "options": {
     "A": {
      "zh": "第",
-     "py": "Dì"
+     "py": "Dì",
+     "en": "(ordinal prefix) No."
     },
     "B": {
      "zh": "頭",
-     "py": "Tóu"
+     "py": "Tóu",
+     "en": "first (頭三、四天: the first three or four days)"
     },
     "C": {
      "zh": "先",
-     "py": "Xiān"
+     "py": "Xiān",
+     "en": "first"
     },
     "D": {
      "zh": "早",
-     "py": "Zǎo"
+     "py": "Zǎo",
+     "en": "early"
     }
    }
   },
@@ -279,19 +335,23 @@
    "options": {
     "A": {
      "zh": "計畫",
-     "py": "Jìhuà"
+     "py": "Jìhuà",
+     "en": "to plan"
     },
     "B": {
      "zh": "忘記",
-     "py": "Wàngjì"
+     "py": "Wàngjì",
+     "en": "to forget"
     },
     "C": {
      "zh": "安排",
-     "py": "Ānpái"
+     "py": "Ānpái",
+     "en": "to arrange"
     },
     "D": {
      "zh": "要求",
-     "py": "Yāoqiú"
+     "py": "Yāoqiú",
+     "en": "to request"
     }
    }
   },
@@ -299,57 +359,70 @@
    "passage": [
     {
      "zh": "（三）",
-     "py": "(Sān)"
+     "py": "(Sān)",
+     "en": "(3)"
     },
     {
      "zh": "我家附近有一家書店。",
-     "py": "Wǒjiā fùjìn yǒu yìjiā shūdiàn."
+     "py": "Wǒjiā fùjìn yǒu yìjiā shūdiàn.",
+     "en": "There is a bookstore near my home."
     },
     {
      "zh": "這家書店的客人不多， 13 書很多。",
-     "py": "Zhèjiā shūdiàn de kèrén bù duō, 13 shū hěnduō."
+     "py": "Zhèjiā shūdiàn de kèrén bù duō, 13 shū hěnduō.",
+     "en": "This bookstore doesn't have many customers, ___13___ it has lots of books."
     },
     {
      "zh": "書店老闆人很好，對客人總是很 14 。",
-     "py": "Shūdiàn lǎobǎn rén hěn hǎo, duì kèrén zǒngshì hěn 14."
+     "py": "Shūdiàn lǎobǎn rén hěn hǎo, duì kèrén zǒngshì hěn 14.",
+     "en": "The bookstore owner is very nice and always very ___14___ to customers."
     },
     {
      "zh": "去那裡不一定要買書，也",
-     "py": "Qù nàlǐ bù yídìng yào mǎi shū, yě"
+     "py": "Qù nàlǐ bù yídìng yào mǎi shū, yě",
+     "en": "When you go there you don't have to buy books; you also"
     },
     {
      "zh": "15 只是看看書。",
-     "py": "15 zhǐshì kànkànshū."
+     "py": "15 zhǐshì kànkànshū.",
+     "en": "___15___ just read."
     },
     {
      "zh": "在那裡看書， 16 看多久都行，沒有人會來吵你。",
-     "py": "Zài nàlǐ kànshū, 16 kàn duōjiǔ dōuxíng, méiyǒu rénhuì lái chǎo nǐ."
+     "py": "Zài nàlǐ kànshū, 16 kàn duōjiǔ dōuxíng, méiyǒu rénhuì lái chǎo nǐ.",
+     "en": "Reading there, ___16___ how long you read, it's fine; no one will come and bother you."
     },
     {
      "zh": "記得有一次，書店剛開門，我 17 進去看書，不知道看了多久，",
-     "py": "Jìde yǒu yícì, shūdiàn gāng kāimén, wǒ 17 jìnqù kànshū, bù zhīdào kàn le duōjiǔ,"
+     "py": "Jìde yǒu yícì, shūdiàn gāng kāimén, wǒ 17 jìnqù kànshū, bù zhīdào kàn le duōjiǔ,",
+     "en": "I remember once, the bookstore had just opened and I ___17___ went in to read; I don't know how long I read,"
     },
     {
      "zh": "18 頭往外一看，才發現天都已經黑了。",
-     "py": "18 tóu wǎngwài yíkàn, cái fāxiàn tiān dōu yǐjīng hēi le."
+     "py": "18 tóu wǎngwài yíkàn, cái fāxiàn tiān dōu yǐjīng hēi le.",
+     "en": "but when I ___18___ my head and looked outside, I realized it was already dark."
     }
    ],
    "options": {
     "A": {
      "zh": "卻",
-     "py": "Què"
+     "py": "Què",
+     "en": "but (adverb, after the subject)"
     },
     "B": {
      "zh": "又",
-     "py": "Yòu"
+     "py": "Yòu",
+     "en": "again, also"
     },
     "C": {
      "zh": "但是",
-     "py": "Dànshì"
+     "py": "Dànshì",
+     "en": "but"
     },
     "D": {
      "zh": "不但",
-     "py": "Búdàn"
+     "py": "Búdàn",
+     "en": "not only"
     }
    }
   },
@@ -357,19 +430,23 @@
    "options": {
     "A": {
      "zh": "客氣",
-     "py": "Kèqì"
+     "py": "Kèqì",
+     "en": "polite"
     },
     "B": {
      "zh": "自由",
-     "py": "Zìyóu"
+     "py": "Zìyóu",
+     "en": "free"
     },
     "C": {
      "zh": "感謝",
-     "py": "Gǎnxiè"
+     "py": "Gǎnxiè",
+     "en": "to thank"
     },
     "D": {
      "zh": "高興",
-     "py": "Gāoxìng"
+     "py": "Gāoxìng",
+     "en": "happy"
     }
    }
   },
@@ -377,19 +454,23 @@
    "options": {
     "A": {
      "zh": "會",
-     "py": "Huì"
+     "py": "Huì",
+     "en": "will, can"
     },
     "B": {
      "zh": "可以",
-     "py": "Kěyǐ"
+     "py": "Kěyǐ",
+     "en": "may, can"
     },
     "C": {
      "zh": "不必",
-     "py": "Búbì"
+     "py": "Búbì",
+     "en": "need not"
     },
     "D": {
      "zh": "不該",
-     "py": "Bùgāi"
+     "py": "Bùgāi",
+     "en": "should not"
     }
    }
   },
@@ -397,19 +478,23 @@
    "options": {
     "A": {
      "zh": "要是",
-     "py": "Yàoshì"
+     "py": "Yàoshì",
+     "en": "if"
     },
     "B": {
      "zh": "所以",
-     "py": "Suǒyǐ"
+     "py": "Suǒyǐ",
+     "en": "so"
     },
     "C": {
      "zh": "可能",
-     "py": "Kěnéng"
+     "py": "Kěnéng",
+     "en": "possibly"
     },
     "D": {
      "zh": "不管",
-     "py": "Bùguǎn"
+     "py": "Bùguǎn",
+     "en": "no matter"
     }
    }
   },
@@ -417,19 +502,23 @@
    "options": {
     "A": {
      "zh": "還",
-     "py": "Hái"
+     "py": "Hái",
+     "en": "still"
     },
     "B": {
      "zh": "才",
-     "py": "Cái"
+     "py": "Cái",
+     "en": "only then"
     },
     "C": {
      "zh": "再",
-     "py": "Zài"
+     "py": "Zài",
+     "en": "again"
     },
     "D": {
      "zh": "就",
-     "py": "Jiù"
+     "py": "Jiù",
+     "en": "right away, then (就進去: went right in)"
     }
    }
   },
@@ -437,19 +526,23 @@
    "options": {
     "A": {
      "zh": "抬",
-     "py": "Tái"
+     "py": "Tái",
+     "en": "to raise, to lift (抬頭)"
     },
     "B": {
      "zh": "抽",
-     "py": "Chōu"
+     "py": "Chōu",
+     "en": "to draw out, to smoke"
     },
     "C": {
      "zh": "扔",
-     "py": "Rēng"
+     "py": "Rēng",
+     "en": "to throw"
     },
     "D": {
      "zh": "提",
-     "py": "Tí"
+     "py": "Tí",
+     "en": "to carry, to mention"
     }
    }
   },
@@ -457,83 +550,159 @@
    "passage": [
     {
      "zh": "（一）",
-     "py": "(Yī)"
+     "py": "(Yī)",
+     "en": "(1)"
     }
    ],
    "stem": {
     "zh": "安安要從台北坐火車去台中，他和朋友約十點三十分在台中站見 面，他應該坐幾點的火車，才不會太早到或遲到？",
-    "py": "Ānān yào cóng Táiběi zuòhuǒchē qù táizhōng, tā hé péngyǒu yuē shídiǎn sānshífēn zài táizhōng zhàn jiàn miàn, tā yīnggāi zuò jǐdiǎn de huǒchē, cái búhuì tài zǎo dào huò chídào?"
+    "py": "Ānān yào cóng Táiběi zuòhuǒchē qù táizhōng, tā hé péngyǒu yuē shídiǎn sānshífēn zài táizhōng zhàn jiàn miàn, tā yīnggāi zuò jǐdiǎn de huǒchē, cái búhuì tài zǎo dào huò chídào?",
+    "en": "An'an wants to take the train from Taipei to Taichung. He has arranged to meet a friend at Taichung Station at 10:30. Which train should he take so he won't arrive too early or be late?"
    },
    "options": {
     "A": {
      "zh": "早上六點四分",
-     "py": "Zǎoshàng liùdiǎn sìfēn"
+     "py": "Zǎoshàng liùdiǎn sìfēn",
+     "en": "6:04 a.m."
     },
     "B": {
      "zh": "早上七點五十五分",
-     "py": "Zǎoshàng qīdiǎn wǔshí wǔfēn"
+     "py": "Zǎoshàng qīdiǎn wǔshí wǔfēn",
+     "en": "7:55 a.m."
     },
     "C": {
      "zh": "早上八點三十七分",
-     "py": "Zǎoshàng bādiǎn sānshíqī fēn"
+     "py": "Zǎoshàng bādiǎn sānshíqī fēn",
+     "en": "8:37 a.m."
     },
     "D": {
      "zh": "早上十點三十一分",
-     "py": "Zǎoshàng shídiǎn sānshíyī fēn"
+     "py": "Zǎoshàng shídiǎn sānshíyī fēn",
+     "en": "10:31 a.m."
     }
-   }
+   },
+   "image": [
+    {
+     "zh": "臺灣鐵路管理局 TAIWAN RAILWAYS ADMINISTRATION 火車時刻查詢系統",
+     "py": "Táiwān tiělù guǎnlǐjú TAIWAN RAILWAYS ADMINISTRATION huǒchēshíkè cháxún xìtǒng",
+     "en": "Taiwan Railways Administration — Train Timetable Inquiry System"
+    },
+    {
+     "zh": "台北開車時間",
+     "py": "Táiběi kāichē shíjiān",
+     "en": "Departure time from Taipei"
+    },
+    {
+     "zh": "台中到達時間",
+     "py": "Tái zhōng dàodá shíjiān",
+     "en": "Arrival time in Taichung"
+    },
+    {
+     "zh": "06:04 → 08:34; 07:55 → 10:20; 08:37 → 11:12; 10:31 → 12:44",
+     "py": "06: 04 → 08: 34; 07: 55 → 10: 20; 08: 37 → 11: 12; 10: 31 → 12: 44",
+     "en": "06:04 → 08:34; 07:55 → 10:20; 08:37 → 11:12; 10:31 → 12:44"
+    }
+   ]
   },
   "20": {
    "passage": [
     {
      "zh": "（二）",
-     "py": "(Èr)"
+     "py": "(Èr)",
+     "en": "(2)"
     }
    ],
    "stem": {
     "zh": "根據廣告內容，下面哪一個不對？",
-    "py": "Gēnjù guǎnggào nèiróng, xiàmiàn nǎ yí ge bù duì?"
+    "py": "Gēnjù guǎnggào nèiróng, xiàmiàn nǎ yí ge bù duì?",
+    "en": "According to the ad, which of the following is NOT correct?"
    },
    "options": {
     "A": {
      "zh": "要和別人共用浴室",
-     "py": "Yào hé biérén gòngyòng yùshì"
+     "py": "Yào hé biérén gòngyòng yùshì",
+     "en": "You have to share the bathroom with others."
     },
     "B": {
      "zh": "套房附近交通方便",
-     "py": "Tàofáng fùjìn jiāotōng fāngbiàn"
+     "py": "Tàofáng fùjìn jiāotōng fāngbiàn",
+     "en": "Transportation near the studio is convenient."
     },
     "C": {
      "zh": "房間裡沒有洗衣機",
-     "py": "Fángjiān lǐ méiyǒu xǐyījī"
+     "py": "Fángjiān lǐ méiyǒu xǐyījī",
+     "en": "There's no washing machine in the room."
     },
     "D": {
      "zh": "8000 元不包括水、電費",
-     "py": "8000 yuán bù bāokuò shuǐ, diànfèi"
+     "py": "8000 yuán bù bāokuò shuǐ, diànfèi",
+     "en": "The 8,000 dollars doesn't include water and electricity."
     }
-   }
+   },
+   "image": [
+    {
+     "zh": "☆全新套房，環境佳，採光好，空間大☆",
+     "py": "☆ quánxīn tàofáng, huánjìng jiā, cǎiguāng hǎo, kōngjiān dà ☆",
+     "en": "☆Brand-new studio: great surroundings, lots of light, spacious☆"
+    },
+    {
+     "zh": "交通：步行五分鐘可到地鐵站、公車站",
+     "py": "Jiāotōng: Bùxíng wǔfēnzhōng kě dào dìtiězhàn, gōngchēzhàn",
+     "en": "Transportation: five minutes' walk to the MRT station and bus stop"
+    },
+    {
+     "zh": "設備：全新家電(冰箱、冷氣)、桌椅、衣櫃、衛浴個人獨享，洗衣機則與其他房客共用",
+     "py": "Shèbèi: Quánxīn jiādiàn (Bīngxiāng, lěngqì), zhuōyǐ, yīguì, Wèiyù gèrén dúxiǎng, xǐyījī zé yǔ qítā fángkè gòngyòng",
+     "en": "Facilities: brand-new appliances (fridge, air conditioner), desk and chair, wardrobe; private bathroom; washing machine shared with other tenants"
+    },
+    {
+     "zh": "環境：近傳統市場、夜市、四號公園，食衣住行樣樣便利",
+     "py": "Huánjìng: Jìn chuántǒng shìchǎng, yèshì, sìhào gōngyuán, shíyīzhùxíng yàngyàng biànlì",
+     "en": "Surroundings: near a traditional market, a night market, and No. 4 Park—everything convenient for daily life"
+    },
+    {
+     "zh": "對象：限單身女性",
+     "py": "Duìxiàng: Xiàn dānshēn nǚxìng",
+     "en": "Tenants: single women only"
+    },
+    {
+     "zh": "費用：套房租金8000元/月，免費使用網路、第四台，再加水費100元/月與電費（獨立電表，用多少算多少）。",
+     "py": "Fèiyòng: Tàofáng zūjīn 8000 yuán / yuè, miǎnfèi shǐyòng wǎnglù, dìsì tái, zài jiā shuǐfèi 100 yuán / yuè yǔ diànfèi (Dúlì diànbiǎo, yòng duōshǎo suàn duōshǎo).",
+     "en": "Cost: rent NT$8,000/month, free internet and cable TV, plus water NT$100/month and electricity (separate meter, pay for what you use)."
+    },
+    {
+     "zh": "歡迎現場看屋，意者請電：0935-535-355 張先生",
+     "py": "Huānyíng xiànchǎng kàn wū, yìzhě qǐng diàn: 0935 - 535 - 355 zhāng xiānsheng",
+     "en": "Viewings welcome; if interested please call 0935-535-355, Mr. Zhang"
+    }
+   ]
   },
   "21": {
    "stem": {
     "zh": "這間套房的房東能接受下面哪個房客？",
-    "py": "Zhè jiān tàofáng de fángdōng néng jiēshòu xiàmiàn nǎ ge fángkè?"
+    "py": "Zhè jiān tàofáng de fángdōng néng jiēshòu xiàmiàn nǎ ge fángkè?",
+    "en": "Which tenant would the landlord of this studio accept?"
    },
    "options": {
     "A": {
      "zh": "陳先生夫婦",
-     "py": "Chénxiānsheng fūfù"
+     "py": "Chénxiānsheng fūfù",
+     "en": "Mr. and Mrs. Chen"
     },
     "B": {
      "zh": "未婚的林小姐",
-     "py": "Wèihūn de Línxiǎojiě"
+     "py": "Wèihūn de Línxiǎojiě",
+     "en": "Miss Lin, who is unmarried"
     },
     "C": {
      "zh": "吳小姐和她的女兒",
-     "py": "Wúxiǎojiě hé tā de nǚér"
+     "py": "Wúxiǎojiě hé tā de nǚér",
+     "en": "Miss Wu and her daughter"
     },
     "D": {
      "zh": "李先生和他的女朋友",
-     "py": "Lǐxiānsheng hé tā de nǚpéngyǒu"
+     "py": "Lǐxiānsheng hé tā de nǚpéngyǒu",
+     "en": "Mr. Li and his girlfriend"
     }
    }
   },
@@ -541,53 +710,116 @@
    "passage": [
     {
      "zh": "（三）",
-     "py": "(Sān)"
+     "py": "(Sān)",
+     "en": "(3)"
     }
    ],
    "stem": {
     "zh": "要怎麼開始使用這部機器？",
-    "py": "Yào zěnme kāishǐ shǐyòng zhèbù jīqì?"
+    "py": "Yào zěnme kāishǐ shǐyòng zhèbù jīqì?",
+    "en": "How do you start using this machine?"
    },
    "options": {
     "A": {
      "zh": "先按「開始」",
-     "py": "Xiān àn “Kāishǐ”"
+     "py": "Xiān àn “Kāishǐ”",
+     "en": "First press \"Start\"."
     },
     "B": {
      "zh": "先按號碼「1」",
-     "py": "Xiān àn hàomǎ “1”"
+     "py": "Xiān àn hàomǎ “1”",
+     "en": "First press the number \"1\"."
     },
     "C": {
      "zh": "先按著「0」兩秒",
-     "py": "Xiān ànzhù “0” liǎngmiǎo"
+     "py": "Xiān ànzhù “0” liǎngmiǎo",
+     "en": "First hold down \"0\" for two seconds."
     },
     "D": {
      "zh": "先輸入數字「157」",
-     "py": "Xiān shūrù shùzì “157”"
+     "py": "Xiān shūrù shùzì “157”",
+     "en": "First enter the number \"157\"."
     }
-   }
+   },
+   "image": [
+    {
+     "zh": "展覽說明機使用辦法：",
+     "py": "Zhǎnlǎn shuōmíng jī shǐyòng bànfǎ:",
+     "en": "How to use the exhibition audio guide:"
+    },
+    {
+     "zh": "1. 拿到機器後，先輸入機器上的數字，再按「開始」按鈕。這時候你就會聽見使用機器的注意事項，按號碼1，就可以開始聽作品介紹。",
+     "py": "1. Nádào jīqì hòu, xiān shūrù jīqì shàng de shùzì, zài àn “Kāishǐ” ànniǔ. Zhèshíhòu nǐ jiù huì tīngjiàn shǐyòng jīqì de zhùyìshìxiàng, àn hàomǎ 1, jiù kěyǐ kāishǐ tīng zuòpǐn jièshào.",
+     "en": "1. After getting the device, first enter the number on the device, then press the \"Start\" button. You'll hear the instructions for using the device; press number 1 to start listening to the introductions of the works."
+    },
+    {
+     "zh": "2. 播放中，按左右鈕可調整聲音大小。",
+     "py": "2. Bōfàng zhōng, àn zuǒyòu Niǔkě tiáozhěng shēngyīn dàxiǎo.",
+     "en": "2. During playback, press the left/right buttons to adjust the volume."
+    },
+    {
+     "zh": "3. 要關掉聲音，請按「停止」鈕或按著號碼0不放約2秒。",
+     "py": "3. Yào guāndiào shēngyīn, qǐng àn “Tíngzhǐ” Niǔ huò ànzhù hàomǎ 0 búfàng yuē 2 miǎo.",
+     "en": "3. To turn off the sound, press the \"Stop\" button or hold down number 0 for about 2 seconds."
+    },
+    {
+     "zh": "請注意以下幾點：1. 不要把機器帶出館外。",
+     "py": "Qǐng zhùyì yǐxiàjǐdiǎn: 1. Búyào bǎ jīqì dài chū guǎnwài.",
+     "en": "Please note: 1. Don't take the device out of the museum."
+    },
+    {
+     "zh": "2. 機器請盡量掛在脖子上使用。",
+     "py": "2. Jīqì qǐng jǐnliàng guà zài bózi shàng shǐyòng.",
+     "en": "2. Please wear the device around your neck as much as possible."
+    },
+    {
+     "zh": "3. 請於本館關閉前15分鐘將機器交回。",
+     "py": "3. Qǐng yú běnguǎn guānbì qián 15 fēnzhōng jiāng jīqì jiāohuí.",
+     "en": "3. Please return the device 15 minutes before the museum closes."
+    },
+    {
+     "zh": "4. 請不要將機器交給7歲以下的孩子使用。",
+     "py": "4. Qǐng búyào jiāng jīqì jiāogěi 7 suì yǐxià de háizi shǐyòng.",
+     "en": "4. Please don't give the device to children under 7."
+    },
+    {
+     "zh": "本館開館時間：星期一到星期五8:00-17:00。(國定假日及週休二日休館)",
+     "py": "Běnguǎn kāiguǎn shíjiān: Xīngqīyī dào xīngqīwǔ 8: 00 - 17: 00. (Guódìngjiàrì jí Zhōuxiū èrrì xiūguǎn)",
+     "en": "Opening hours: Monday to Friday 8:00–17:00 (closed on national holidays and weekends)."
+    },
+    {
+     "zh": "開始 停止",
+     "py": "Kāishǐ tíngzhǐ",
+     "en": "Start, Stop"
+    }
+   ]
   },
   "23": {
    "stem": {
     "zh": "使用這部機器的時候要注意什麼事？",
-    "py": "Shǐyòng zhèbù jīqì de shíhòu yào zhùyì shénme shì?"
+    "py": "Shǐyòng zhèbù jīqì de shíhòu yào zhùyì shénme shì?",
+    "en": "What should you pay attention to when using this machine?"
    },
    "options": {
     "A": {
      "zh": "最多只能借五天",
-     "py": "Zuì duō zhǐnéng jiè wǔtiān"
+     "py": "Zuì duō zhǐnéng jiè wǔtiān",
+     "en": "You can borrow it for at most five days."
     },
     "B": {
      "zh": "別把機器掛在身上",
-     "py": "Bié bǎ jīqì guà zài shēnshàng"
+     "py": "Bié bǎ jīqì guà zài shēnshàng",
+     "en": "Don't hang the machine on your body."
     },
     "C": {
-     "zh": "不能讓帅稚園的孩子用",
-     "py": "Bùnéng ràng shuài zhìyuán de háizi yòng"
+     "zh": "不能讓幼稚園的孩子用",
+     "py": "Bùnéng ràng yòuzhìyuán de háizi yòng",
+     "en": "Kindergarten children may not use it."
     },
     "D": {
      "zh": "假日借用時間到下午五點",
-     "py": "Jiàrì jièyòng shíjiān dào xiàwǔ wǔdiǎn"
+     "py": "Jiàrì jièyòng shíjiān dào xiàwǔ wǔdiǎn",
+     "en": "On holidays it can be borrowed until 5 p.m."
     }
    }
   },
@@ -595,53 +827,101 @@
    "passage": [
     {
      "zh": "（四）",
-     "py": "(Sì)"
+     "py": "(Sì)",
+     "en": "(4)"
     }
    ],
    "stem": {
     "zh": "根據這個調查結果，下面哪一項是錯的？",
-    "py": "Gēnjù zhè ge diàochájiéguǒ, xiàmiàn nǎ yíxiàng shì cuò de?"
+    "py": "Gēnjù zhè ge diàochájiéguǒ, xiàmiàn nǎ yíxiàng shì cuò de?",
+    "en": "According to this survey, which of the following is WRONG?"
    },
    "options": {
     "A": {
      "zh": "賺多少錢是選擇工作時最重要的因素",
-     "py": "Zhuàn duōshǎo qián shì xuǎnzé gōngzuò shí zuì zhòngyào de yīnsù"
+     "py": "Zhuàn duōshǎo qián shì xuǎnzé gōngzuò shí zuì zhòngyào de yīnsù",
+     "en": "How much money you earn is the most important factor in choosing a job."
     },
     "B": {
      "zh": "重視工作是否讓人心情愉快的人占五分之一",
-     "py": "Zhòngshì gōngzuò shìfǒu ràng rén xīnqíngyúkuài de rén zhàn wǔfēnzhīyī"
+     "py": "Zhòngshì gōngzuò shìfǒu ràng rén xīnqíngyúkuài de rén zhàn wǔfēnzhīyī",
+     "en": "One fifth of people value whether a job makes them happy."
     },
     "C": {
      "zh": "在工作上是否受到尊敬是最不被重視的條件之一",
-     "py": "Zài gōngzuò shàng shìfǒu shòudào zūnjìng shì zuì bù bèi zhòngshì de tiáojiàn zhīyī"
+     "py": "Zài gōngzuò shàng shìfǒu shòudào zūnjìng shì zuì bù bèi zhòngshì de tiáojiàn zhīyī",
+     "en": "Whether one is respected at work is one of the least valued conditions."
     },
     "D": {
      "zh": "認為工作性質最好跟自己的專業有關的人不到五分之一",
-     "py": "Rènwéi gōngzuò xìngzhì zuìhǎo gēn zìjǐ de zhuānyè yǒuguān de rén búdào wǔfēnzhīyī"
+     "py": "Rènwéi gōngzuò xìngzhì zuìhǎo gēn zìjǐ de zhuānyè yǒuguān de rén búdào wǔfēnzhīyī",
+     "en": "Fewer than one fifth think the nature of the job should ideally relate to their specialty."
     }
-   }
+   },
+   "image": [
+    {
+     "zh": "理想工作的條件是什麼？",
+     "py": "Lǐxiǎng gōngzuò de tiáojiàn shì shénme?",
+     "en": "What are the conditions for an ideal job?"
+    },
+    {
+     "zh": "高薪 23%",
+     "py": "Gāoxīn 23 %",
+     "en": "High salary 23%"
+    },
+    {
+     "zh": "受尊敬 7%",
+     "py": "Shòu zūnjìng 7 %",
+     "en": "Being respected 7%"
+    },
+    {
+     "zh": "獲得成就感 29%",
+     "py": "Huòdé chéngjiùgǎn 29 %",
+     "en": "Gaining a sense of achievement 29%"
+    },
+    {
+     "zh": "輕鬆愉快 20%",
+     "py": "Qīngsōngyúkuài 20 %",
+     "en": "Relaxed and pleasant 20%"
+    },
+    {
+     "zh": "兼顧家庭 7%",
+     "py": "Jiāngù jiātíng 7 %",
+     "en": "Balancing family 7%"
+    },
+    {
+     "zh": "發揮專業能力 14%",
+     "py": "Fāhuī zhuānyè nénglì 14 %",
+     "en": "Using professional skills 14%"
+    }
+   ]
   },
   "25": {
    "stem": {
     "zh": "根據這個調查結果，下面哪一項因素被最多年輕人視為理想工作 的條件？",
-    "py": "Gēnjù zhè ge diàochájiéguǒ, xiàmiàn nǎ yíxiàng yīnsù bèi zuìduō niánqīngrén shìwèi lǐxiǎng gōngzuò de tiáojiàn?"
+    "py": "Gēnjù zhè ge diàochájiéguǒ, xiàmiàn nǎ yíxiàng yīnsù bèi zuìduō niánqīngrén shìwèi lǐxiǎng gōngzuò de tiáojiàn?",
+    "en": "According to this survey, which factor do the most young people see as a condition of an ideal job?"
    },
    "options": {
     "A": {
      "zh": "收入是否合理",
-     "py": "Shōurù shìfǒu hélǐ"
+     "py": "Shōurù shìfǒu hélǐ",
+     "en": "Whether the income is reasonable"
     },
     "B": {
      "zh": "自己的能力是否被肯定",
-     "py": "Zìjǐ de nénglì shìfǒu bèi kěndìng"
+     "py": "Zìjǐ de nénglì shìfǒu bèi kěndìng",
+     "en": "Whether one's abilities are recognized"
     },
     "C": {
      "zh": "自己所學是否與工作內容有關",
-     "py": "Zìjǐ suǒxué shìfǒu yǔ gōngzuò nèiróng yǒuguān"
+     "py": "Zìjǐ suǒxué shìfǒu yǔ gōngzuò nèiróng yǒuguān",
+     "en": "Whether what one studied relates to the job content"
     },
     "D": {
      "zh": "是否可以同時扮演好職員和父母的角色",
-     "py": "Shìfǒu kěyǐ tóngshí bànyǎn hǎo zhíyuán hé fùmǔ de juésè"
+     "py": "Shìfǒu kěyǐ tóngshí bànyǎn hǎo zhíyuán hé fùmǔ de juésè",
+     "en": "Whether one can play the roles of both employee and parent well"
     }
    }
   },
@@ -649,53 +929,86 @@
    "passage": [
     {
      "zh": "（五）",
-     "py": "(Wǔ)"
+     "py": "(Wǔ)",
+     "en": "(5)"
     }
    ],
    "stem": {
     "zh": "關於這家報社的報紙，下面哪一個是對的？",
-    "py": "Guānyú zhèjiā bàoshè de bàozhǐ, xiàmiàn nǎ yí ge shì duì de?"
+    "py": "Guānyú zhèjiā bàoshè de bàozhǐ, xiàmiàn nǎ yí ge shì duì de?",
+    "en": "Regarding this newspaper, which of the following is correct?"
    },
    "options": {
     "A": {
      "zh": "春節期間不出版",
-     "py": "Chūnjié qījiān bù chūbǎn"
+     "py": "Chūnjié qījiān bù chūbǎn",
+     "en": "It isn't published during the Spring Festival."
     },
     "B": {
-     "zh": "帄時售價一份 10 元",
-     "py": "Dīng shí shòujià yífèn 10 yuán"
+     "zh": "平時售價一份 10 元",
+     "py": "Píngshí shòujià yífèn 10 yuán",
+     "en": "It usually sells for 10 dollars a copy."
     },
     "C": {
-     "zh": "帄時每份數量有三大張",
-     "py": "Dīng shí měifèn shùliàng yǒu sān dàzhāng"
+     "zh": "平時每份數量有三大張",
+     "py": "Píngshí měifèn shùliàng yǒu sān dàzhāng",
+     "en": "Each copy usually has three large sheets."
     },
     "D": {
      "zh": "春節時在指定商店才買得到",
-     "py": "Chūnjié shí zài zhǐdìng shāngdiàn cái mǎi dédào"
+     "py": "Chūnjié shí zài zhǐdìng shāngdiàn cái mǎi dédào",
+     "en": "During the Spring Festival it can only be bought at designated stores."
     }
-   }
+   },
+   "image": [
+    {
+     "zh": "本報1月23日至1月27日春節期間送報服務變動如下：",
+     "py": "Běnbào 1 yuè 23 rì zhì 1 yuè 27 rì chūnjié qījiān sòngbào fúwù biàndòng rúxià:",
+     "en": "Changes to our newspaper delivery service during the Spring Festival, January 23–27:"
+    },
+    {
+     "zh": "1. 春節期間，每日發行減少為三大張，特價10元，零售讀者可至本報指定的便利商店購買。",
+     "py": "1. Chūnjié qījiān, měirì fāxíng jiǎnshǎo wèi sān dàzhāng, tèjià 10 yuán, língshòu dúzhě kězhì běnbào zhǐdìng de biànlìshāngdiàn gòumǎi.",
+     "en": "1. During the Spring Festival, each daily issue is reduced to three large sheets at a special price of 10 dollars; single-copy readers can buy it at our designated convenience stores."
+    },
+    {
+     "zh": "2. 送報人員於春節期間停送報紙。本報訂戶讀者將獲贈10張報紙兌換券，兌換券將以掛號寄至送報地址。讀者可至便利商店使用該券兌換報紙，本報將不補送訂戶讀者春節期間出版之報紙。",
+     "py": "2. Sòngbào rényuán yú chūnjié qījiān tíngsòng bàozhǐ. Běnbào dìnghù dúzhě jiāng huòzèng 10 Zhāng bàozhǐ duìhuànquàn, duìhuànquàn jiāng yǐ guàhào jìzhì sòngbào dìzhǐ. Dúzhě kězhì biànlìshāngdiàn shǐyòng gāi quàn duìhuàn bàozhǐ, běnbào jiāng bù bǔsòng dìnghù dúzhě chūnjié qījiān chūbǎn zhī bàozhǐ.",
+     "en": "2. Delivery staff will stop delivering during the Spring Festival. Subscribers will receive 10 newspaper exchange vouchers, sent by registered mail to the delivery address. Readers can use the vouchers to get newspapers at convenience stores; we will not make up deliveries of issues published during the Spring Festival."
+    },
+    {
+     "zh": "華人時報",
+     "py": "Huárén shíbào",
+     "en": "Chinese Times"
+    }
+   ]
   },
   "27": {
    "stem": {
     "zh": "這家報社在春節期間打算做什麼？",
-    "py": "Zhèjiā bàoshè zài chūnjié qījiān dǎsuàn zuò shénme?"
+    "py": "Zhèjiā bàoshè zài chūnjié qījiān dǎsuàn zuò shénme?",
+    "en": "What does this newspaper plan to do during the Spring Festival?"
    },
    "options": {
     "A": {
      "zh": "免費贈送報紙",
-     "py": "Miǎnfèi zèngsòng bàozhǐ"
+     "py": "Miǎnfèi zèngsòng bàozhǐ",
+     "en": "Give newspapers away for free"
     },
     "B": {
      "zh": "暫時停止送報五天",
-     "py": "Zànshí tíngzhǐ sòngbào wǔtiān"
+     "py": "Zànshí tíngzhǐ sòngbào wǔtiān",
+     "en": "Stop delivering newspapers for five days"
     },
     "C": {
      "zh": "補送報紙給已經訂報紙的人",
-     "py": "Bǔsòng bàozhǐ gěi yǐjīng dìng bàozhǐ de rén"
+     "py": "Bǔsòng bàozhǐ gěi yǐjīng dìng bàozhǐ de rén",
+     "en": "Deliver back issues to subscribers"
     },
     "D": {
      "zh": "到便利商店買報紙就能得到兌換券",
-     "py": "Dào biànlìshāngdiàn mǎi bàozhǐ jiù néng dédào duìhuànquàn"
+     "py": "Dào biànlìshāngdiàn mǎi bàozhǐ jiù néng dédào duìhuànquàn",
+     "en": "Give vouchers to people who buy newspapers at convenience stores"
     }
    }
   },
@@ -703,109 +1016,133 @@
    "passage": [
     {
      "zh": "（六）",
-     "py": "(Liù)"
+     "py": "(Liù)",
+     "en": "(6)"
     },
     {
      "zh": "根據一項芬蘭的研究發現，還在母親肚中的嬰兒，其實聽得見外界的聲音，而且會開始學習記憶。",
-     "py": "Gēnjù yíxiàng Fēnlán de yánjiū fāxiàn, hái zài mǔqīn dùzhōng de yīngér, qíshí tīngdejiàn wàijiè de shēngyīn, érqiě huì kāishǐ xuéxí jìyì."
+     "py": "Gēnjù yíxiàng Fēnlán de yánjiū fāxiàn, hái zài mǔqīn dùzhōng de yīngér, qíshí tīngdejiàn wàijiè de shēngyīn, érqiě huì kāishǐ xuéxí jìyì.",
+     "en": "According to a Finnish study, babies still in their mother's womb can actually hear sounds from outside and begin learning and remembering."
     },
     {
      "zh": "芬蘭一所大學讓三十三位懷孕母親，從懷孕二十九週到嬰兒出生那一天，每天聽一個芬蘭單字，每天重複播放同樣的聲音好幾百遍，等到嬰兒出生後，研究人員利用儀器觀察嬰兒腦部活動，記錄他們聽到聲音的反應，結果發現，嬰兒聽到過去熟悉的聲音時反應特別明顯。",
-     "py": "Fēnlán yìsuǒ dàxué ràng sānshí sānwèi huáiyùn mǔqīn, cóng huáiyùn èrshíjiǔ zhōudào yīngér chūshēng nà yìtiān, měitiān tīng yí ge Fēnlán dānzì, měitiān chóngfù bōfàng tóngyàng de shēngyīn hǎo jǐbǎibiàn, děngdào yīngér chūshēng hòu, yánjiū rényuán lìyòng yíqì guānchá yīngér nǎobù huódòng, jìlù tāmen tīngdào shēngyīn de fǎnyìng, jiéguǒ fāxiàn, yīngér tīngdào guòqù shúxī de shēngyīn shí fǎnyìng tèbié míngxiǎn."
+     "py": "Fēnlán yìsuǒ dàxué ràng sānshí sānwèi huáiyùn mǔqīn, cóng huáiyùn èrshíjiǔ zhōudào yīngér chūshēng nà yìtiān, měitiān tīng yí ge Fēnlán dānzì, měitiān chóngfù bōfàng tóngyàng de shēngyīn hǎo jǐbǎibiàn, děngdào yīngér chūshēng hòu, yánjiū rényuán lìyòng yíqì guānchá yīngér nǎobù huódòng, jìlù tāmen tīngdào shēngyīn de fǎnyìng, jiéguǒ fāxiàn, yīngér tīngdào guòqù shúxī de shēngyīn shí fǎnyìng tèbié míngxiǎn.",
+     "en": "A Finnish university had thirty-three pregnant mothers, from the 29th week of pregnancy until the day the babies were born, listen to a Finnish word every day, with the same sound played hundreds of times daily. After the babies were born, researchers used instruments to observe the babies' brain activity and record their reactions to sounds, and found that babies reacted especially clearly when they heard previously familiar sounds."
     },
     {
      "zh": "事實上，一九八八年就已經有類似的研究發現，如果母親懷孕時喜歡看連續劇，孩子出生後也會受到影響，迷上連續劇，或是至少對於劇情中常出現的音樂或歌曲感到熟悉。",
-     "py": "Shìshíshàng, yījiǔbābānián jiù yǐjīng yǒu lèisì de yánjiū fāxiàn, rúguǒ mǔqīn huáiyùn shí xǐhuān kàn liánxùjù, háizi chūshēng hòu yě huì shòudào yǐngxiǎng, mí shàng liánxùjù, huòshì zhìshǎo duìyú jùqíng zhōngcháng chūxiàn de yīnyuè huò gēqǔ gǎndào shúxī."
+     "py": "Shìshíshàng, yījiǔbābānián jiù yǐjīng yǒu lèisì de yánjiū fāxiàn, rúguǒ mǔqīn huáiyùn shí xǐhuān kàn liánxùjù, háizi chūshēng hòu yě huì shòudào yǐngxiǎng, mí shàng liánxùjù, huòshì zhìshǎo duìyú jùqíng zhōngcháng chūxiàn de yīnyuè huò gēqǔ gǎndào shúxī.",
+     "en": "In fact, as early as 1988, similar research found that if a mother liked watching TV dramas while pregnant, the child would also be influenced after birth—becoming hooked on dramas, or at least finding the music or songs that often appeared in them familiar."
     },
     {
      "zh": "對此，芬蘭研究人員表示：「已經有證據顯示，在母親肚中的嬰兒會學習。",
-     "py": "Duìcǐ, Fēnlán yánjiū rényuán biǎoshì: “Yǐjīng yǒu zhèngjù xiǎnshì, zài mǔqīn dùzhōng de yīngér huì xuéxí."
+     "py": "Duìcǐ, Fēnlán yánjiū rényuán biǎoshì: “Yǐjīng yǒu zhèngjù xiǎnshì, zài mǔqīn dùzhōng de yīngér huì xuéxí.",
+     "en": "Regarding this, the Finnish researchers said: \"There is already evidence that babies in the mother's womb learn."
     },
     {
      "zh": "而且嬰兒出生後，仍會記得當初聽過的歌曲或是某一部分的詞句。」",
-     "py": "Érqiě yīngér chūshēng hòu, réng huì jìde dāngchū tīng guò de gēqǔ huòshì mǒu yíbùfèn de cíjù.”"
+     "py": "Érqiě yīngér chūshēng hòu, réng huì jìde dāngchū tīng guò de gēqǔ huòshì mǒu yíbùfèn de cíjù.”",
+     "en": "And after birth, babies still remember songs or certain phrases they heard back then.\""
     },
     {
      "zh": "研究人員也發現，在母親肚中就聽過同一單字的嬰兒，說出單字的能力，比沒聽過的嬰兒更好。",
-     "py": "Yánjiū rényuán yě fāxiàn, zài mǔqīn dùzhōng jiù tīng guò tóngyī dānzì de yīngér, shuōchū dānzì de nénglì, bǐ méitīng guò de yīngér gènghǎo."
+     "py": "Yánjiū rényuán yě fāxiàn, zài mǔqīn dùzhōng jiù tīng guò tóngyī dānzì de yīngér, shuōchū dānzì de nénglì, bǐ méitīng guò de yīngér gènghǎo.",
+     "en": "The researchers also found that babies who had heard the same word in the womb were better at saying the word than babies who hadn't."
     },
     {
      "zh": "美國語言專家寇兒表示：「從研究結果來看，人類並不是出生後才開始學習語言，而是在母親肚中時就開始透過聽聲音去學習。",
-     "py": "Měiguó yǔyán zhuānjiā Kòuér biǎoshì: “Cóng yánjiū jiéguǒ láikàn, rénlèi bìng búshì chūshēng hòucái kāishǐ xuéxí yǔyán, érshì zài mǔqīn dù zhōng shí jiù kāishǐ tòuguò tīng shēngyīn qù xuéxí."
+     "py": "Měiguó yǔyán zhuānjiā Kòuér biǎoshì: “Cóng yánjiū jiéguǒ láikàn, rénlèi bìng búshì chūshēng hòucái kāishǐ xuéxí yǔyán, érshì zài mǔqīn dù zhōng shí jiù kāishǐ tòuguò tīng shēngyīn qù xuéxí.",
+     "en": "American language expert Kuhl said: \"Judging from the results, humans don't begin learning language only after birth; they start learning through listening to sounds while in the mother's womb."
     },
     {
      "zh": "對於人腦在發育初期就具備這項能力，我感到相當意外。」",
-     "py": "Duìyú rénnǎo zài fāyù chūqī jiù jùbèi zhèxiàng nénglì, wǒ gǎndào xiāngdāng yìwài.”"
+     "py": "Duìyú rénnǎo zài fāyù chūqī jiù jùbèi zhèxiàng nénglì, wǒ gǎndào xiāngdāng yìwài.”",
+     "en": "I'm quite surprised that the human brain has this ability at such an early stage of development.\""
     }
    ],
    "stem": {
     "zh": "文章中提到的實驗是怎麼進行的？",
-    "py": "Wénzhāng zhōng tídào de shíyàn shì zěnme jìnxíng de?"
+    "py": "Wénzhāng zhōng tídào de shíyàn shì zěnme jìnxíng de?",
+    "en": "How was the experiment mentioned in the article carried out?"
    },
    "options": {
     "A": {
      "zh": "用儀器讓嬰兒說話",
-     "py": "Yòng yíqì ràng yīngér shuōhuà"
+     "py": "Yòng yíqì ràng yīngér shuōhuà",
+     "en": "Instruments were used to make babies talk."
     },
     "B": {
      "zh": "每天讓嬰兒聽同樣的音樂",
-     "py": "Měitiān ràng yīngér tīng tóngyàng de yīnyuè"
+     "py": "Měitiān ràng yīngér tīng tóngyàng de yīnyuè",
+     "en": "Babies listened to the same music every day."
     },
     "C": {
      "zh": "讓懷孕的母親每天反覆聽單字",
-     "py": "Ràng huáiyùn de mǔqīn měitiān fǎnfù tīng dānzì"
+     "py": "Ràng huáiyùn de mǔqīn měitiān fǎnfù tīng dānzì",
+     "en": "Pregnant mothers listened to a word repeatedly every day."
     },
     "D": {
      "zh": "嬰兒出生後，每天播放一個單字",
-     "py": "Yīngér chūshēng hòu, měitiān bōfàng yí ge dānzì"
+     "py": "Yīngér chūshēng hòu, měitiān bōfàng yí ge dānzì",
+     "en": "After the babies were born, a word was played every day."
     }
    }
   },
   "29": {
    "stem": {
     "zh": "根據文章，下面哪一項是對的？",
-    "py": "Gēnjù wénzhāng, xiàmiàn nǎ yíxiàng shì duì de?"
+    "py": "Gēnjù wénzhāng, xiàmiàn nǎ yíxiàng shì duì de?",
+    "en": "According to the article, which of the following is correct?"
    },
    "options": {
     "A": {
      "zh": "越早學習語言，記憶力越好",
-     "py": "Yuè zǎo xuéxí yǔyán, jìyìlì yuè hǎo"
+     "py": "Yuè zǎo xuéxí yǔyán, jìyìlì yuè hǎo",
+     "en": "The earlier you learn a language, the better your memory."
     },
     "B": {
      "zh": "母親看連續劇，嬰兒比較聰明",
-     "py": "Mǔqīn kàn liánxùjù, yīngér bǐjiào cōngmíng"
+     "py": "Mǔqīn kàn liánxùjù, yīngér bǐjiào cōngmíng",
+     "en": "If the mother watches TV dramas, the baby is smarter."
     },
     "C": {
      "zh": "這項研究結果跟以前的互相矛盾",
-     "py": "Zhèxiàng yánjiū jiéguǒ gēn yǐqián de hùxiāngmáodùn"
+     "py": "Zhèxiàng yánjiū jiéguǒ gēn yǐqián de hùxiāngmáodùn",
+     "en": "The results of this study contradict earlier ones."
     },
     "D": {
      "zh": "語言專家寇兒對研究結果感到驚訝",
-     "py": "Yǔyán zhuānjiā Kòuér duì yánjiū jiéguǒ gǎndào jīngyà"
+     "py": "Yǔyán zhuānjiā Kòuér duì yánjiū jiéguǒ gǎndào jīngyà",
+     "en": "Language expert Kuhl was surprised by the results."
     }
    }
   },
   "30": {
    "stem": {
     "zh": "這篇短文屬於以下哪一類的研究？",
-    "py": "Zhè piān duǎnwén shǔyú yǐxià nǎ yílèi de yánjiū?"
+    "py": "Zhè piān duǎnwén shǔyú yǐxià nǎ yílèi de yánjiū?",
+    "en": "What kind of research does this passage belong to?"
    },
    "options": {
     "A": {
      "zh": "人類的早期教育",
-     "py": "Rénlèi de zǎoqījiàoyù"
+     "py": "Rénlèi de zǎoqījiàoyù",
+     "en": "Early human education"
     },
     "B": {
      "zh": "聽力障礙的症狀",
-     "py": "Tīnglì zhàngài de zhèngzhuàng"
+     "py": "Tīnglì zhàngài de zhèngzhuàng",
+     "en": "Symptoms of hearing impairment"
     },
     "C": {
      "zh": "音樂對人的影響",
-     "py": "Yīnyuè duì rén de yǐngxiǎng"
+     "py": "Yīnyuè duì rén de yǐngxiǎng",
+     "en": "The influence of music on people"
     },
     "D": {
      "zh": "懷孕期間的變化",
-     "py": "Huáiyùn qījiān de biànhuà"
+     "py": "Huáiyùn qījiān de biànhuà",
+     "en": "Changes during pregnancy"
     }
    }
   },
@@ -813,117 +1150,143 @@
    "passage": [
     {
      "zh": "（七）",
-     "py": "(Qī)"
+     "py": "(Qī)",
+     "en": "(7)"
     },
     {
      "zh": "我們都知道，小時候大人說給我們聽的故事，大部分都不是真的。",
-     "py": "Wǒmen dōu zhīdào, xiǎoshíhòu dàrén shuō gěi wǒmen tīng de gùshì, dàbùfèn dōu búshì zhēnde."
+     "py": "Wǒmen dōu zhīdào, xiǎoshíhòu dàrén shuō gěi wǒmen tīng de gùshì, dàbùfèn dōu búshì zhēnde.",
+     "en": "We all know that most of the stories adults told us when we were small weren't true."
     },
     {
-     "zh": "即使早就知道這個事實，但長大以後，當我們有了自己的小孩，還是會把聽過的故事重新說一遍，就這樣一付一付，讓故事繼續下去。",
-     "py": "Jíshǐ zǎojiù zhīdào zhè ge shìshí, dàn Zhǎngdà yǐhòu, dāng wǒmen yǒu le zìjǐ de xiǎohái, háishì huì bǎ tīngguò de gùshì chóngxīn shuō yíbiàn, jiù zhèyàng yífùyífù, ràng gùshì jìxùxiàqù."
+     "zh": "即使早就知道這個事實，但長大以後，當我們有了自己的小孩，還是會把聽過的故事重新說一遍，就這樣一代一代，讓故事繼續下去。",
+     "py": "Jíshǐ zǎojiù zhīdào zhè ge shìshí, dàn Zhǎngdà yǐhòu, dāng wǒmen yǒu le zìjǐ de xiǎohái, háishì huì bǎ tīngguò de gùshì chóngxīn shuō yíbiàn, jiù zhèyàng yídài yídài, ràng gùshì jìxùxiàqù.",
+     "en": "Even though we've long known this, when we grow up and have our own children, we still retell the stories we heard, generation after generation, keeping the stories going."
     },
     {
      "zh": "這種對幻想世界的好奇心，是每個小孩最珍貴的精神財富。",
-     "py": "Zhèzhǒng duì huànxiǎng shìjiè de hàoqíxīn, shì měi ge xiǎohái zuì zhēnguì de jīngshéncáifù."
+     "py": "Zhèzhǒng duì huànxiǎng shìjiè de hàoqíxīn, shì měi ge xiǎohái zuì zhēnguì de jīngshéncáifù.",
+     "en": "This curiosity about a world of fantasy is every child's most precious spiritual treasure."
     },
     {
      "zh": "而一個大人在經歷無數人生中的現實之後，如果還能保留住這份天真，該是多麼難得。",
-     "py": "Ér yí ge dàrén zài jīnglì wúshù rénshēng zhōng de xiànshí zhīhòu, rúguǒ hái néng Bǎoliúzhù zhèfèn Tiānzhēn, gāishì duōme nándé."
+     "py": "Ér yí ge dàrén zài jīnglì wúshù rénshēng zhōng de xiànshí zhīhòu, rúguǒ hái néng Bǎoliúzhù zhèfèn Tiānzhēn, gāishì duōme nándé.",
+     "en": "And if an adult, after experiencing countless realities of life, can still preserve this innocence, how rare that is."
     },
     {
      "zh": "電影《大魚》，正是在探討這樣的主題。",
-     "py": "Diànyǐng «Dàyú», zhèngshì zài tàntǎo zhèyàng de zhǔtí."
+     "py": "Diànyǐng «Dàyú», zhèngshì zài tàntǎo zhèyàng de zhǔtí.",
+     "en": "The film \"Big Fish\" explores exactly this theme."
     },
     {
      "zh": "電影描述一位非常有想像力的父親，總是告訴小兒子一些以自己為主角的神奇故事，然而隨著年齡增長，小兒子從原本對父親的敬愛和崇拜，逐漸轉變成忽視。",
-     "py": "Diànyǐng miáoshù yíwèi fēicháng yǒu xiǎngxiànglì de fùqīn, zǒngshì gàosù Xiǎoérzi yìxiē yǐ zìjǐ wèi zhǔjué de shénqí gùshì, ránér suízhù niánlíng zēngzhǎng, Xiǎoérzi cóng yuánběn duì fùqīn de Jìngài hé Chóngbài, zhújiàn zhuǎnbiànchéng hūshì."
+     "py": "Diànyǐng miáoshù yíwèi fēicháng yǒu xiǎngxiànglì de fùqīn, zǒngshì gàosù Xiǎoérzi yìxiē yǐ zìjǐ wèi zhǔjué de shénqí gùshì, ránér suízhù niánlíng zēngzhǎng, Xiǎoérzi cóng yuánběn duì fùqīn de Jìngài hé Chóngbài, zhújiàn zhuǎnbiànchéng hūshì.",
+     "en": "The film depicts a very imaginative father who always tells his young son magical stories starring himself; but as the son grows older, his respect and admiration for his father gradually turn into neglect."
     },
     {
      "zh": "他不喜歡父親仍然把他當小孩一樣，繼續說著那些聽起來很「誇張」的故事。",
-     "py": "Tā bù xǐhuān fùqīn réngrán bǎ tā dāng xiǎohái yíyàng, jìxù shuōzhù nàxiē tīng qǐlái hěn “Kuāzhāng” de gùshì."
+     "py": "Tā bù xǐhuān fùqīn réngrán bǎ tā dāng xiǎohái yíyàng, jìxù shuōzhù nàxiē tīng qǐlái hěn “Kuāzhāng” de gùshì.",
+     "en": "He doesn't like that his father still treats him like a child and keeps telling those \"exaggerated\"-sounding stories."
     },
     {
      "zh": "父子間的關係因此越來越差，彼此甚至不再說話。",
-     "py": "Fùzǐ jiān de guānxì yīncǐ yuèláiyuè chà, bǐcǐ shènzhì búzài shuōhuà."
+     "py": "Fùzǐ jiān de guānxì yīncǐ yuèláiyuè chà, bǐcǐ shènzhì búzài shuōhuà.",
+     "en": "As a result, the relationship between father and son gets worse and worse, and they even stop talking to each other."
     },
     {
      "zh": "直到父親去世後，在父親的葬禮上，小兒子看見父親故事裡的那些人物竟然都出席了，他才明白，父親只是希望，他始終能擁有兒時的天真。",
-     "py": "Zhídào fùqīn qùshì hòu, zài fùqīn de zànglǐ shàng, Xiǎoérzi kànjiàn fùqīn gùshì lǐ de nàxiē rénwù jìngrán dōu chūxí le, tā cái Míngbái, fùqīn zhǐshì xīwàng, tā shǐzhōng néng yōngyǒu érshí de Tiānzhēn."
+     "py": "Zhídào fùqīn qùshì hòu, zài fùqīn de zànglǐ shàng, Xiǎoérzi kànjiàn fùqīn gùshì lǐ de nàxiē rénwù jìngrán dōu chūxí le, tā cái Míngbái, fùqīn zhǐshì xīwàng, tā shǐzhōng néng yōngyǒu érshí de Tiānzhēn.",
+     "en": "Only after his father dies, at his father's funeral, when the son sees that the characters from his father's stories have actually all come, does he understand that his father only hoped he could always keep his childhood innocence."
     },
     {
      "zh": "最後，他也把父親的故事，分享給了自己的孩子。",
-     "py": "Zuìhòu, tā yě bǎ fùqīn de gùshì, fēnxiǎng gěi le zìjǐ de háizi."
+     "py": "Zuìhòu, tā yě bǎ fùqīn de gùshì, fēnxiǎng gěi le zìjǐ de háizi.",
+     "en": "In the end, he too shares his father's stories with his own children."
     }
    ],
    "stem": {
     "zh": "這篇短文主要想傳達什麼思想？",
-    "py": "Zhè piān duǎnwén zhǔyào xiǎng chuándá shénme sīxiǎng?"
+    "py": "Zhè piān duǎnwén zhǔyào xiǎng chuándá shénme sīxiǎng?",
+    "en": "What idea does this passage mainly want to convey?"
    },
    "options": {
     "A": {
      "zh": "看電影和聽故事都不必太認真",
-     "py": "Kàn diànyǐng hé tīng gùshì dōu búbì tài rènzhēn"
+     "py": "Kàn diànyǐng hé tīng gùshì dōu búbì tài rènzhēn",
+     "en": "There's no need to take movies and stories too seriously."
     },
     "B": {
      "zh": "人們應該完全像小孩一樣活著",
-     "py": "Rénmen yīnggāi wánquán xiàng xiǎohái yíyàng huózhù"
+     "py": "Rénmen yīnggāi wánquán xiàng xiǎohái yíyàng huózhù",
+     "en": "People should live entirely like children."
     },
     "C": {
      "zh": "成長過程中要保持單純不容易",
-     "py": "Chéngzhǎng guòchéng zhōngyào bǎochí dānchún bù róngyì"
+     "py": "Chéngzhǎng guòchéng zhōngyào bǎochí dānchún bù róngyì",
+     "en": "It's not easy to stay innocent while growing up."
     },
     "D": {
      "zh": "既然長大就應該提早面對現實",
-     "py": "Jìrán Zhǎngdà jiù yīnggāi tízǎo miànduìxiànshí"
+     "py": "Jìrán Zhǎngdà jiù yīnggāi tízǎo miànduìxiànshí",
+     "en": "Since we've grown up, we should face reality early."
     }
    }
   },
   "32": {
    "stem": {
     "zh": "請問下面哪一段文字最符合第二段中所說的「主題」？",
-    "py": "Qǐngwèn xiàmiàn nǎ yíduàn wénzì zuì fúhé dìèrduàn zhōng suǒshuō de “Zhǔtí”?"
+    "py": "Qǐngwèn xiàmiàn nǎ yíduàn wénzì zuì fúhé dìèrduàn zhōng suǒshuō de “Zhǔtí”?",
+    "en": "Which of the following best matches the \"theme\" mentioned in the second paragraph?"
    },
    "options": {
     "A": {
      "zh": "睡前聽故事",
-     "py": "Shuì qián tīng gùshì"
+     "py": "Shuì qián tīng gùshì",
+     "en": "Listening to bedtime stories"
     },
     "B": {
      "zh": "孝順父母親",
-     "py": "Xiàoshùnfùmǔ qīn"
+     "py": "Xiàoshùnfùmǔ qīn",
+     "en": "Filial piety toward parents"
     },
     "C": {
      "zh": "失去的童心",
-     "py": "Shīqù de tóngxīn"
+     "py": "Shīqù de tóngxīn",
+     "en": "The lost childlike heart"
     },
     "D": {
      "zh": "哲學的智慧",
-     "py": "Zhéxué de Zhìhuì"
+     "py": "Zhéxué de Zhìhuì",
+     "en": "The wisdom of philosophy"
     }
    }
   },
   "33": {
    "stem": {
     "zh": "根據短文，為什麼小兒子後來和父親的關係不好？",
-    "py": "Gēnjù duǎnwén, wèishénme Xiǎoérzi hòulái hé fùqīn de guānxì bùhǎo?"
+    "py": "Gēnjù duǎnwén, wèishénme Xiǎoérzi hòulái hé fùqīn de guānxì bùhǎo?",
+    "en": "According to the passage, why did the son later have a bad relationship with his father?"
    },
    "options": {
     "A": {
      "zh": "他一直都誤會父親",
-     "py": "Tā yìzhí dōu wùhuì fùqīn"
+     "py": "Tā yìzhí dōu wùhuì fùqīn",
+     "en": "He always misunderstood his father."
     },
     "B": {
      "zh": "他覺得父親不關心他",
-     "py": "Tā juéde fùqīn bù guānxīn tā"
+     "py": "Tā juéde fùqīn bù guānxīn tā",
+     "en": "He felt his father didn't care about him."
     },
     "C": {
      "zh": "他父親很少再和他講故事",
-     "py": "Tā fùqīn hěnshǎo zài hé tā jiǎnggùshì"
+     "py": "Tā fùqīn hěnshǎo zài hé tā jiǎnggùshì",
+     "en": "His father rarely told him stories anymore."
     },
     "D": {
      "zh": "他父親是個不切實際的人",
-     "py": "Tā fùqīn shì gè bùqiēshíjì de rén"
+     "py": "Tā fùqīn shì gè bùqiēshíjì de rén",
+     "en": "His father was an unrealistic person."
     }
    }
   },
@@ -931,77 +1294,135 @@
    "passage": [
     {
      "zh": "（八）",
-     "py": "(Bā)"
+     "py": "(Bā)",
+     "en": "(8)"
     }
    ],
    "stem": {
     "zh": "這則「問與答」主要討論什麼？",
-    "py": "Zhè zé “Wènyǔdá” zhǔyào tǎolùn shénme?"
+    "py": "Zhè zé “Wènyǔdá” zhǔyào tǎolùn shénme?",
+    "en": "What does this \"Q&A\" mainly discuss?"
    },
    "options": {
     "A": {
      "zh": "預防近視的正確觀念",
-     "py": "Yùfáng jìnshì de zhèngquè guānniàn"
+     "py": "Yùfáng jìnshì de zhèngquè guānniàn",
+     "en": "The correct ideas for preventing nearsightedness"
     },
     "B": {
      "zh": "睡眠與視力之間的關係",
-     "py": "Shuìmián yǔ shìlì zhījiān de guānxì"
+     "py": "Shuìmián yǔ shìlì zhījiān de guānxì",
+     "en": "The relationship between sleep and vision"
     },
     "C": {
      "zh": "減輕眼睛不舒服的方法",
-     "py": "Jiǎnqīng yǎnjīng bù shūfú de fāngfǎ"
+     "py": "Jiǎnqīng yǎnjīng bù shūfú de fāngfǎ",
+     "en": "Ways to relieve eye discomfort"
     },
     "D": {
      "zh": "改善眼睛疲勞的小技巧",
-     "py": "Gǎishàn yǎnjīng píláo de xiǎo jìqiǎo"
+     "py": "Gǎishàn yǎnjīng píláo de xiǎo jìqiǎo",
+     "en": "Little tricks to relieve eye fatigue"
     }
-   }
+   },
+   "image": [
+    {
+     "zh": "健康問與答",
+     "py": "Jiànkāng Wènyǔdá",
+     "en": "Health Q&A"
+    },
+    {
+     "zh": "台北陳先生─問：聽說睡眠不足會導致眼睛不適，但是我每天都睡滿八小時，為何眼睛還是紅紅的、有很多血絲？",
+     "py": "Táiběi Chénxiānsheng ─ wèn: Tīngshuō shuìmiánbùzú huì dǎozhì yǎnjīng búshì, dànshì wǒ měitiān dōu shuìmǎn bāxiǎoshí, wèihé yǎnjīng háishì hónghóngde, yǒu hěnduō xuèsī?",
+     "en": "Question from Mr. Chen, Taipei: I've heard lack of sleep causes eye discomfort, but I sleep a full eight hours every day. Why are my eyes still red and bloodshot?"
+    },
+    {
+     "zh": "任醫師─答：眼睛出現血絲大多受以下幾種情況影響所致：",
+     "py": "Rèn yīshī ─ dá: Yǎnjīng chūxiàn xuèsī dàduō shòu yǐxià jǐzhǒng qíngkuàng yǐngxiǎng suǒzhì:",
+     "en": "Answer from Dr. Ren: Bloodshot eyes are mostly caused by the following situations:"
+    },
+    {
+     "zh": "1. 眼睛過敏。2. 配戴隱形眼鏡時間過長。3. 長期處於二手菸環境中。",
+     "py": "1. Yǎnjīng Guòmǐn. 2. Pèidài yǐnxíngyǎnjìng shíjiān guòcháng. 3. Chángqī chǔyú Èrshǒuyān huánjìng zhōng.",
+     "en": "1. Eye allergies. 2. Wearing contact lenses for too long. 3. Long-term exposure to secondhand smoke."
+    },
+    {
+     "zh": "建議如下：1. 若是過敏引發眼睛出現血絲，應避免接觸過敏原。2. 隱形眼鏡每次配戴時間不應超過八小時。",
+     "py": "Jiànyì rúxià: 1. Ruò shì Guòmǐn yǐnfā yǎnjīng chūxiàn xuèsī, yīng bìmiǎn jiēchù guòmǐnyuán. 2. Yǐnxíngyǎnjìng měicì pèidài shíjiān bù yīng chāoguò bāxiǎoshí.",
+     "en": "Advice: 1. If allergies cause bloodshot eyes, avoid contact with allergens. 2. Contact lenses shouldn't be worn for more than eight hours at a time."
+    },
+    {
+     "zh": "補充說明：1. 年齡逾50歲的民眾，也有可能因眼皮鬆弛，導致淚水分泌減少，造成眼睛乾澀而出現血絲。",
+     "py": "Bǔchōng shuōmíng: 1. Niánlíng yú 50 suì de mínzhòng, yě yǒu kěnéng yīn yǎnpí sōngchí, dǎozhì lèishuǐ fēnmì jiǎnshǎo, zàochéng yǎnjīng gānsè ér chūxiàn xuèsī.",
+     "en": "Additional notes: 1. People over 50 may also have bloodshot eyes because loose eyelids reduce tear secretion, making the eyes dry."
+    },
+    {
+     "zh": "2. 眼睛出現血絲時，先冷敷，可暫時緩解不適情況。將濕毛巾輕敷在眼睛上，每次間約3至5分鐘，休息一下再敷，反覆2至3次。",
+     "py": "2. Yǎnjīng chūxiàn xuèsī shí, xiān Lěngfū, kě zànshí huǎnjiě búshì qíngkuàng. Jiāng shī Máojīn qīng fū zài yǎnjīng shàng, měicì jiān yuē 3 zhì 5 fēnzhōng, xiūxí yíxià zài fū, fǎnfù 2 zhì 3 cì.",
+     "en": "2. When eyes are bloodshot, a cold compress can temporarily relieve discomfort: lightly place a damp towel on the eyes for about 3 to 5 minutes, rest a bit and apply again, repeating 2 to 3 times."
+    },
+    {
+     "zh": "建議您，眼睛若出現血絲超過一週，易併發視力模糊、發炎等症狀，應盡速就醫檢查，若延誤治療則可能有失明風險。",
+     "py": "Jiànyìnín, yǎnjīng ruò chūxiàn xuèsī chāoguò yìzhōu, yì bìngfā shìlì móhú, fāyán děng zhèngzhuàng, yīng jǐnsù jiùyī jiǎnchá, ruò yánwù zhìliáo zé kěnéng yǒu shīmíng fēngxiǎn.",
+     "en": "If your eyes stay bloodshot for more than a week, complications such as blurred vision and inflammation can easily occur; see a doctor as soon as possible—delaying treatment may risk blindness."
+    }
+   ]
   },
   "35": {
    "stem": {
     "zh": "針對陳先生的問題來源，任醫師認為下面哪種情況是原因之一？",
-    "py": "Zhēnduì Chénxiānsheng de wèntí láiyuán, rèn yīshī rènwéi xiàmiàn nǎ zhǒng qíngkuàng shì yuányīn zhīyī?"
+    "py": "Zhēnduì Chénxiānsheng de wèntí láiyuán, rèn yīshī rènwéi xiàmiàn nǎ zhǒng qíngkuàng shì yuányīn zhīyī?",
+    "en": "Regarding the source of Mr. Chen's problem, which of the following situations does Dr. Ren consider one of the causes?"
    },
    "options": {
     "A": {
      "zh": "視力開始退化",
-     "py": "Shìlì kāishǐ tuìhuà"
+     "py": "Shìlì kāishǐ tuìhuà",
+     "en": "Vision starting to deteriorate"
     },
     "B": {
      "zh": "眼睛的淚水過多",
-     "py": "Yǎnjīng de lèishuǐ guò duō"
+     "py": "Yǎnjīng de lèishuǐ guò duō",
+     "en": "Too many tears in the eyes"
     },
     "C": {
      "zh": "沒有充足的睡眠",
-     "py": "Méiyǒu chōngzú de shuìmián"
+     "py": "Méiyǒu chōngzú de shuìmián",
+     "en": "Not getting enough sleep"
     },
     "D": {
      "zh": "生活環境中有人抽菸",
-     "py": "Shēnghuó huánjìng zhōng yǒurén chōuyān"
+     "py": "Shēnghuó huánjìng zhōng yǒurén chōuyān",
+     "en": "Someone in his living environment smokes"
     }
    }
   },
   "36": {
    "stem": {
     "zh": "關於任醫師的建議，下列哪一項正確？",
-    "py": "Guānyú rèn yīshī de jiànyì, xiàliè nǎ yíxiàng zhèngquè?"
+    "py": "Guānyú rèn yīshī de jiànyì, xiàliè nǎ yíxiàng zhèngquè?",
+    "en": "Regarding Dr. Ren's advice, which of the following is correct?"
    },
    "options": {
     "A": {
      "zh": "太晚治療容易傳染他人",
-     "py": "Tàiwǎn zhìliáo róngyì chuánrǎn tārén"
+     "py": "Tàiwǎn zhìliáo róngyì chuánrǎn tārén",
+     "en": "Treating it too late can easily infect others."
     },
     "B": {
      "zh": "眼睛一有血絲應立刻就醫",
-     "py": "Yǎnjīng yī yǒu xuèsī yīng lìkè jiùyī"
+     "py": "Yǎnjīng yī yǒu xuèsī yīng lìkè jiùyī",
+     "en": "As soon as the eyes are bloodshot, see a doctor immediately."
     },
     "C": {
      "zh": "每次冷敷眼睛至少五分鐘",
-     "py": "Měicì Lěngfū yǎnjīng zhìshǎo wǔfēnzhōng"
+     "py": "Měicì Lěngfū yǎnjīng zhìshǎo wǔfēnzhōng",
+     "en": "Apply a cold compress to the eyes for at least five minutes each time."
     },
     "D": {
      "zh": "觀察症狀的變化以一週為原則",
-     "py": "Guānchá zhèngzhuàng de biànhuà yǐ yìzhōu wèi yuánzé"
+     "py": "Guānchá zhèngzhuàng de biànhuà yǐ yìzhōu wèi yuánzé",
+     "en": "Observe changes in symptoms over about a week as a rule."
     }
    }
   },
@@ -1009,105 +1430,128 @@
    "passage": [
     {
      "zh": "（九）",
-     "py": "(Jiǔ)"
+     "py": "(Jiǔ)",
+     "en": "(9)"
     },
     {
-     "zh": "有時在外面用餐，總是想念著七零年付那時流行的美式早餐。",
-     "py": "Yǒushí zài wàimiàn yòngcān, zǒngshì xiǎngniàn zhù qīlíngnián fù nàshí liúxíng de měishì zǎocān."
+     "zh": "有時在外面用餐，總是想念著七零年代那時流行的美式早餐。",
+     "py": "Yǒushí zài wàimiàn yòngcān, zǒngshì xiǎngniàn zhù qīlíng niándài nàshí liúxíng de měishì zǎocān.",
+     "en": "Sometimes when eating out, I always miss the American-style breakfast that was popular in the 1970s."
     },
     {
      "zh": "餐廳裡的裝飾普通，餐桌很大，椅子兩兩相對。",
-     "py": "Cāntīng lǐ de zhuāngshì Pǔtōng, cānzhuō hěndà, yǐzi liǎng liǎng xiāngduì."
+     "py": "Cāntīng lǐ de zhuāngshì Pǔtōng, cānzhuō hěndà, yǐzi liǎng liǎng xiāngduì.",
+     "en": "The decor in the restaurant was ordinary, the tables were big, and the chairs faced each other in pairs."
     },
     {
      "zh": "只要客人坐下來，服務人員就先給你一杯味道淡得像水一樣的美式熱咖啡，然後二話不說，不論你點什麼，先送上一些烤吐司和炒蛋；",
-     "py": "Zhǐyào kèrén zuòxià lái, fúwù rényuán jiùxiān gěi nǐ yìbēi wèidào dàn dé xiàng shuǐ yíyàng de měishì Rèkāfēi, ránhòu èrhuàbùshuō, búlùn nǐ diǎn shénme, xiān sòng shàng yìxiē kǎo tǔsī hé chǎodàn;"
+     "py": "Zhǐyào kèrén zuòxià lái, fúwù rényuán jiùxiān gěi nǐ yìbēi wèidào dàn dé xiàng shuǐ yíyàng de měishì Rèkāfēi, ránhòu èrhuàbùshuō, búlùn nǐ diǎn shénme, xiān sòng shàng yìxiē kǎo tǔsī hé chǎodàn;",
+     "en": "As soon as you sat down, the server would first give you a cup of American hot coffee so weak it tasted like water, and then without a word, no matter what you ordered, they'd first bring some toast and scrambled eggs;"
     },
     {
      "zh": "然後開始登場的是主要食物──煎香腸，培根或火腿，旁邊放著一大堆像座小山一樣的馬鈴薯，還附上蜂蜜、果醬、奶油等一堆配料。",
-     "py": "Ránhòu kāishǐ dēngcháng de shì zhǔyào shíwù ─ ─ jiān xiāngcháng, Péigēn huò huǒtuǐ, pángbiān fàngzhù yídàduī xiàng zuò Xiǎoshān yíyàng de mǎlíngshǔ, hái fùshàng fēngmì, guǒjiàng, nǎiyóu děng yìduī pèiliào."
+     "py": "Ránhòu kāishǐ dēngcháng de shì zhǔyào shíwù ─ ─ jiān xiāngcháng, Péigēn huò huǒtuǐ, pángbiān fàngzhù yídàduī xiàng zuò Xiǎoshān yíyàng de mǎlíngshǔ, hái fùshàng fēngmì, guǒjiàng, nǎiyóu děng yìduī pèiliào.",
+     "en": "then the main food would make its appearance—fried sausages, bacon or ham, with a big pile of potatoes like a little mountain beside them, plus honey, jam, butter, and a heap of other condiments."
     },
     {
      "zh": "那樣的早餐其實大多是吃不完的，至於好不好吃倒也沒那麼重要，但那種熱騰騰的氣氛，讓人一整天都覺得特別幸福。",
-     "py": "Nàyàng de zǎocān qíshí dàduō shì chībùwán de, zhìyú hǎobùhǎo chī dào yě méi nàme zhòngyào, dàn nàzhǒng rèténgténg de qìfēn, ràng rén yìzhěngtiān dōu juéde tèbié xìngfú."
+     "py": "Nàyàng de zǎocān qíshí dàduō shì chībùwán de, zhìyú hǎobùhǎo chī dào yě méi nàme zhòngyào, dàn nàzhǒng rèténgténg de qìfēn, ràng rén yìzhěngtiān dōu juéde tèbié xìngfú.",
+     "en": "You actually couldn't finish most of that breakfast, and whether it tasted good wasn't that important, but that warm, bustling atmosphere made you feel especially happy all day."
     },
     {
-     "zh": "後來，義大利式連鎖店漸漸地付替美式早餐店，在每個城市流行起來。",
-     "py": "Hòulái, Yìdàlìshì liánsuǒdiàn jiànjiàn dì fùtì měishì zǎocān diàn, zài měi ge Chéngshì liúxíngqǐlái."
+     "zh": "後來，義大利式連鎖店漸漸地代替美式早餐店，在每個城市流行起來。",
+     "py": "Hòulái, Yìdàlìshì liánsuǒdiàn jiànjiàn dì dàitì měishì zǎocān diàn, zài měi ge Chéngshì liúxíngqǐlái.",
+     "en": "Later, Italian-style chains gradually replaced American breakfast shops and became popular in every city."
     },
     {
      "zh": "早餐一杯義式咖啡加上一份麵包，吃一個算一個的錢，加上漂亮的裝潢與浪漫的音樂，在某一方面是精緻、好看多了，也環保得多，但那份充滿熱情的文化卻也逐漸消失中。",
-     "py": "Zǎocān yìbēi yìshì kāfēi jiāshàng yífèn miànbāo, chī yí ge suàn yí ge de qián, jiāshàng piàoliang de zhuānghuáng yǔ làngmàn de yīnyuè, zài mǒuyìfāngmiàn shì jīngzhì, hǎokàn duō le, yě huánbǎo dé duō, dàn nàfèn chōngmǎnrèqíng de wénhuà què yě zhújiàn xiāoshī zhōng."
+     "py": "Zǎocān yìbēi yìshì kāfēi jiāshàng yífèn miànbāo, chī yí ge suàn yí ge de qián, jiāshàng piàoliang de zhuānghuáng yǔ làngmàn de yīnyuè, zài mǒuyìfāngmiàn shì jīngzhì, hǎokàn duō le, yě huánbǎo dé duō, dàn nàfèn chōngmǎnrèqíng de wénhuà què yě zhújiàn xiāoshī zhōng.",
+     "en": "Breakfast became an espresso plus a bread roll, paying item by item, with pretty decor and romantic music; in some ways it's more refined, better-looking, and much more environmentally friendly, but that culture full of warmth is gradually disappearing."
     }
    ],
    "stem": {
     "zh": "作者覺得美式早餐的特色是什麼？",
-    "py": "Zuòzhě juéde měishì zǎocān de tèsè shì shénme?"
+    "py": "Zuòzhě juéde měishì zǎocān de tèsè shì shénme?",
+    "en": "What does the author think is the characteristic of American breakfast?"
    },
    "options": {
     "A": {
      "zh": "量多",
-     "py": "Liàng duō"
+     "py": "Liàng duō",
+     "en": "Large quantity"
     },
     "B": {
      "zh": "味道佳",
-     "py": "Wèidào jiā"
+     "py": "Wèidào jiā",
+     "en": "Good taste"
     },
     "C": {
      "zh": "作法精緻",
-     "py": "Zuòfǎ jīngzhì"
+     "py": "Zuòfǎ jīngzhì",
+     "en": "Refined preparation"
     },
     "D": {
      "zh": "環境優雅",
-     "py": "Huánjìng yōuyǎ"
+     "py": "Huánjìng yōuyǎ",
+     "en": "Elegant surroundings"
     }
    }
   },
   "38": {
    "stem": {
     "zh": "作者認為義大利式連鎖咖啡店的早餐缺少了什麼？",
-    "py": "Zuòzhě rènwéi Yìdàlìshì liánsuǒ kāfēidiàn de zǎocān quēshǎo le shénme?"
+    "py": "Zuòzhě rènwéi Yìdàlìshì liánsuǒ kāfēidiàn de zǎocān quēshǎo le shénme?",
+    "en": "What does the author think Italian-style chain coffee shop breakfasts lack?"
    },
    "options": {
     "A": {
      "zh": "豐富的配料",
-     "py": "Fēngfù de pèiliào"
+     "py": "Fēngfù de pèiliào",
+     "en": "Plentiful condiments"
     },
     "B": {
      "zh": "漂亮的裝飾",
-     "py": "Piàoliang de zhuāngshì"
+     "py": "Piàoliang de zhuāngshì",
+     "en": "Pretty decor"
     },
     "C": {
      "zh": "熱鬧的感覺",
-     "py": "Rènào de gǎnjué"
+     "py": "Rènào de gǎnjué",
+     "en": "A lively feeling"
     },
     "D": {
      "zh": "廣闊的用餐環境",
-     "py": "Guǎngkuò de yòngcān huánjìng"
+     "py": "Guǎngkuò de yòngcān huánjìng",
+     "en": "A spacious dining environment"
     }
    }
   },
   "39": {
    "stem": {
     "zh": "這篇文章的作者主要想說明什麼？",
-    "py": "Zhè piānwénzhāng de zuòzhě zhǔyào xiǎng shuōmíng shénme?"
+    "py": "Zhè piānwénzhāng de zuòzhě zhǔyào xiǎng shuōmíng shénme?",
+    "en": "What does the author of this article mainly want to explain?"
    },
    "options": {
     "A": {
      "zh": "飲食文化的轉變",
-     "py": "Yǐnshíwénhuà de zhuǎnbiàn"
+     "py": "Yǐnshíwénhuà de zhuǎnbiàn",
+     "en": "Changes in food culture"
     },
     "B": {
      "zh": "選擇早餐的標準",
-     "py": "Xuǎnzé zǎocān de biāozhǔn"
+     "py": "Xuǎnzé zǎocān de biāozhǔn",
+     "en": "Standards for choosing breakfast"
     },
     "C": {
-     "zh": "現付人的飲食習慣",
-     "py": "Xiànfù rén de yǐnshíxíguàn"
+     "zh": "現代人的飲食習慣",
+     "py": "Xiàndàirén de yǐnshíxíguàn",
+     "en": "Modern people's eating habits"
     },
     "D": {
      "zh": "早餐店成功的秘訣",
-     "py": "Zǎocān diàn chénggōng de mìjué"
+     "py": "Zǎocān diàn chénggōng de mìjué",
+     "en": "The secret of a successful breakfast shop"
     }
    }
   },
@@ -1115,145 +1559,178 @@
    "passage": [
     {
      "zh": "（十）",
-     "py": "(Shí)"
+     "py": "(Shí)",
+     "en": "(10)"
     },
     {
      "zh": "「未來郵件」係一項提供寄件人「寫信給未來」的服務，顧客只要事先指定好寄送日期及收件地點，郵件即可於約定時間內送達收件人。",
-     "py": "“Wèilái yóujiàn” xì yíxiàng tígōng jìjiànrén “Xiěxìngěi wèilái” de fúwù, Gùkè zhǐyào shìxiān zhǐdìng hǎo jìsòng rìqī jí shōujiàn dìdiǎn, yóujiàn jíkě yú yuēdìng shíjiān nèi sòngdá shōujiànrén."
+     "py": "“Wèilái yóujiàn” xì yíxiàng tígōng jìjiànrén “Xiěxìngěi wèilái” de fúwù, Gùkè zhǐyào shìxiān zhǐdìng hǎo jìsòng rìqī jí shōujiàn dìdiǎn, yóujiàn jíkě yú yuēdìng shíjiān nèi sòngdá shōujiànrén.",
+     "en": "\"Future Mail\" is a service that lets senders \"write a letter to the future\": as long as customers specify the delivery date and recipient address in advance, the mail will be delivered to the recipient within the agreed time."
     },
     {
      "zh": "1. 指定交寄期限：自交寄日起算 15 日後，最長不可逾 30 年。",
-     "py": "1. Zhǐdìng jiāojì qīxiàn: Zìjiāo jì rì qǐsuàn 15 rìhòu, zuìzhǎng bùkě yú 30 nián."
+     "py": "1. Zhǐdìng jiāojì qīxiàn: Zìjiāo jì rì qǐsuàn 15 rìhòu, zuìzhǎng bùkě yú 30 nián.",
+     "en": "1. Specified delivery period: from 15 days after the posting date, up to a maximum of 30 years."
     },
     {
      "zh": "2. 適用郵件種類：一般掛號函件、掛號小包、國內包裹。",
-     "py": "2. Shìyòng yóujiàn zhǒnglèi: Yìbān guàhào hánjiàn, guàhào xiǎobāo, guónèi bāoguǒ."
+     "py": "2. Shìyòng yóujiàn zhǒnglèi: Yìbān guàhào hánjiàn, guàhào xiǎobāo, guónèi bāoguǒ.",
+     "en": "2. Applicable mail types: ordinary registered letters, registered small packets, domestic parcels."
     },
     {
      "zh": "3. 收寄限制：3.1 寄達地限國內地區。",
-     "py": "3. Shōujì xiànzhì: 3.1 jìdá dìxiàn guónèi dìqū."
+     "py": "3. Shōujì xiànzhì: 3.1 jìdá dìxiàn guónèi dìqū.",
+     "en": "3. Restrictions: 3.1 Destinations are limited to domestic areas."
     },
     {
      "zh": "3.2 現金、寶石等貴重物品，應按報值郵件（註 1）交寄（註 2）。",
-     "py": "3.2 xiànjīn, Bǎoshí děng guìzhòngwùpǐn, yīng àn bàozhí yóujiàn (Zhù 1) jiāojì (Zhù 2)."
+     "py": "3.2 xiànjīn, Bǎoshí děng guìzhòngwùpǐn, yīng àn bàozhí yóujiàn (Zhù 1) jiāojì (Zhù 2).",
+     "en": "3.2 Valuables such as cash and gems must be sent as insured mail (Note 1) (Note 2)."
     },
     {
      "zh": "3.3 交寄物品如為危險物品，或為易腐壞、無法常溫保存者，恕均",
-     "py": "3.3 jiāojì wùpǐn rúwèi wēixiǎnwùpǐn, huòwèi yì fǔhuài, wúfǎ chángwēn bǎocún zhě, Shù jūn"
+     "py": "3.3 jiāojì wùpǐn rúwèi wēixiǎnwùpǐn, huòwèi yì fǔhuài, wúfǎ chángwēn bǎocún zhě, Shù jūn",
+     "en": "3.3 Items that are dangerous, perishable, or cannot be kept at room temperature will all"
     },
     {
      "zh": "不予收寄。",
-     "py": "Bùyǔ shōujì."
+     "py": "Bùyǔ shōujì.",
+     "en": "not be accepted."
     },
     {
      "zh": "4. 資費：含現行郵資及特別處理、保管費用。",
-     "py": "4. Zīfèi: Hán xiànxíng yóuzī jí tèbié chǔlǐ, bǎoguǎn fèiyòng."
+     "py": "4. Zīfèi: Hán xiànxíng yóuzī jí tèbié chǔlǐ, bǎoguǎn fèiyòng.",
+     "en": "4. Fees: include current postage plus special handling and storage fees."
     },
     {
      "zh": "5. 注意事項：5.1 交寄申請完成後，本公司將統一以電子郵件通知，若交寄時未",
-     "py": "5. Zhùyìshìxiàng: 5.1 jiāojì shēnqǐng wánchéng hòu, běn gōngsī jiāng tǒngyī yǐ diànziyóujiàn tōngzhī, ruò jiāo jì shí wèi"
+     "py": "5. Zhùyìshìxiàng: 5.1 jiāojì shēnqǐng wánchéng hòu, běn gōngsī jiāng tǒngyī yǐ diànziyóujiàn tōngzhī, ruò jiāo jì shí wèi",
+     "en": "5. Notes: 5.1 After the posting application is completed, the company will notify you by email; if no email address was given at posting or you indicated no notification was needed,"
     },
     {
      "zh": "註明電子信箱或表明不需通知者，日後將不得異議。",
-     "py": "Zhùmíng diànzixìnxiāng huò biǎomíng bù xū tōngzhī zhě, rìhòu jiāng bùdé yìyì."
+     "py": "Zhùmíng diànzixìnxiāng huò biǎomíng bù xū tōngzhī zhě, rìhòu jiāng bùdé yìyì.",
+     "en": "no objections may be raised later."
     },
     {
      "zh": "5.2 郵件資料需異動者，同一訂單以兩次異動為限。",
-     "py": "5.2 yóujiàn zīliào xū yìdòng zhě, tóngyī dìngdān yǐ liǎngcì yìdòng wèi xiàn."
+     "py": "5.2 yóujiàn zīliào xū yìdòng zhě, tóngyī dìngdān yǐ liǎngcì yìdòng wèi xiàn.",
+     "en": "5.2 If mail details need to be changed, each order is limited to two changes."
     },
     {
      "zh": "6. 備註：註 1：報值郵件即是指掛號信函或包裹經寄件人報明價值，並加付",
-     "py": "6. Bèizhù: Zhù 1: Bàozhí yóujiàn jíshì zhǐ guàhào xìnhán huò bāoguǒ jīng jìjiànrén bàomíng jiàzhí, bìng jiāfù"
+     "py": "6. Bèizhù: Zhù 1: Bàozhí yóujiàn jíshì zhǐ guàhào xìnhán huò bāoguǒ jīng jìjiànrén bàomíng jiàzhí, bìng jiāfù",
+     "en": "6. Remarks: Note 1: Insured mail means registered letters or parcels whose value is declared by the sender, with an additional"
     },
     {
      "zh": "報值費於國內互寄者。註 2：交寄信函分為裝寄法定紙幣及不裝寄法定紙幣二種：",
-     "py": "Bàozhí Fèiyú guónèi hùjìzhě. Zhù 2: Jiāojì xìnhán fēnwéi zhuāng jì fǎdìng zhǐbì jí bù zhuāng jì fǎdìng zhǐbì èrzhǒng:"
+     "py": "Bàozhí Fèiyú guónèi hùjìzhě. Zhù 2: Jiāojì xìnhán fēnwéi zhuāng jì fǎdìng zhǐbì jí bù zhuāng jì fǎdìng zhǐbì èrzhǒng:",
+     "en": "insurance fee paid, sent within the country. Note 2: Letters are divided into two kinds: those containing legal-tender banknotes and those not containing them:"
     },
     {
      "zh": "(1) 裝寄法定紙幣，每件報值限額為壹萬元。",
-     "py": "(1) zhuāng jì fǎdìng zhǐbì, měijiàn bàozhí xiàné wèi yī wànyuán."
+     "py": "(1) zhuāng jì fǎdìng zhǐbì, měijiàn bàozhí xiàné wèi yī wànyuán.",
+     "en": "(1) Containing legal-tender banknotes: the declared value limit per item is 10,000 dollars."
     },
     {
      "zh": "(2) 不裝寄法定紙幣，每件限額為伍萬元。",
-     "py": "(2) bù zhuāng jì fǎdìng zhǐbì, měijiàn xiàné wéiwǔ wànyuán."
+     "py": "(2) bù zhuāng jì fǎdìng zhǐbì, měijiàn xiàné wéiwǔ wànyuán.",
+     "en": "(2) Not containing legal-tender banknotes: the limit per item is 50,000 dollars."
     },
     {
      "zh": "(3) 法定紙幣與非法定紙幣混合裝寄者，每件限額為伍萬",
-     "py": "(3) fǎdìng zhǐbì yǔ fēifǎdìng zhǐbì hùnhé zhuāngjìzhě, měijiàn xiàné wéiwǔ wàn"
+     "py": "(3) fǎdìng zhǐbì yǔ fēifǎdìng zhǐbì hùnhé zhuāngjìzhě, měijiàn xiàné wéiwǔ wàn",
+     "en": "(3) Mixed legal-tender and non-legal-tender contents: the limit per item is 50,000"
     },
     {
      "zh": "元，但其中法定紙幣以壹萬元為限。",
-     "py": "Yuán, dàn qízhōng fǎdìng zhǐbì yǐ yī wànyuán wèi xiàn."
+     "py": "Yuán, dàn qízhōng fǎdìng zhǐbì yǐ yī wànyuán wèi xiàn.",
+     "en": "dollars, but legal-tender banknotes are limited to 10,000 dollars."
     }
    ],
    "stem": {
     "zh": "小張買了一枚戒指，希望他的太太能在明年的結婚週年紀念日當 天收到，他應該注意什麼事？",
-    "py": "Xiǎozhāng mǎi le yìméi jièzhǐ, xīwàng tā de tàitai néng zài míngnián de jiéhūn zhōunián jìniànrì dāng tiān shōudào, tā yīnggāi zhùyì shénme shì?"
+    "py": "Xiǎozhāng mǎi le yìméi jièzhǐ, xīwàng tā de tàitai néng zài míngnián de jiéhūn zhōunián jìniànrì dāng tiān shōudào, tā yīnggāi zhùyì shénme shì?",
+    "en": "Xiao Zhang bought a ring and hopes his wife will receive it on their wedding anniversary next year. What should he pay attention to?"
    },
    "options": {
     "A": {
      "zh": "不可將戒指寄到國外",
-     "py": "Bùkě jiāng jièzhǐ jì dào guówài"
+     "py": "Bùkě jiāng jièzhǐ jì dào guówài",
+     "en": "The ring must not be sent abroad."
     },
     "B": {
      "zh": "不可連同其他物品寄送",
-     "py": "Bùkě liántóng qítā wùpǐn jìsòng"
+     "py": "Bùkě liántóng qítā wùpǐn jìsòng",
+     "en": "It must not be sent together with other items."
     },
     "C": {
      "zh": "戒指的價格不可高於一萬",
-     "py": "Jièzhǐ de jiàgé bùkě gāoyú yíwàn"
+     "py": "Jièzhǐ de jiàgé bùkě gāoyú yíwàn",
+     "en": "The ring's price must not exceed ten thousand."
     },
     "D": {
      "zh": "一旦決定寄達時間則不可更改",
-     "py": "Yídàn juédìng jìdá shíjiān zé bùkě gēnggǎi"
+     "py": "Yídàn juédìng jìdá shíjiān zé bùkě gēnggǎi",
+     "en": "Once the delivery time is decided, it cannot be changed."
     }
    }
   },
   "41": {
    "stem": {
     "zh": "明美打算透過這項服務在年底送朋友一個特別的禮物，下列哪一 項符合郵寄規定？",
-    "py": "Míngměi dǎsuàn tòuguò zhèxiàng fúwù zài niándǐ sòng péngyǒu yí ge tèbié de lǐwù, xiàliè nǎ yī xiàngfúhé yóujì guīdìng?"
+    "py": "Míngměi dǎsuàn tòuguò zhèxiàng fúwù zài niándǐ sòng péngyǒu yí ge tèbié de lǐwù, xiàliè nǎ yī xiàngfúhé yóujì guīdìng?",
+    "en": "Mingmei plans to use this service to send a friend a special gift at the end of the year. Which of the following meets the mailing rules?"
    },
    "options": {
     "A": {
      "zh": "當季鮮美的水果",
-     "py": "Dāngjì xiānměi de shuǐguǒ"
+     "py": "Dāngjì xiānměi de shuǐguǒ",
+     "en": "Fresh seasonal fruit"
     },
     "B": {
      "zh": "名貴的進口刀具",
-     "py": "Míngguì de jìnkǒu dāojù"
+     "py": "Míngguì de jìnkǒu dāojù",
+     "en": "An expensive imported knife set"
     },
     "C": {
      "zh": "清晨現撈的海產",
-     "py": "Qīngchén xiànlāo de hǎichǎn"
+     "py": "Qīngchén xiànlāo de hǎichǎn",
+     "en": "Seafood caught fresh this morning"
     },
     "D": {
      "zh": "湖邊撿到的石頭",
-     "py": "Húbiān jiǎn dào de shítou"
+     "py": "Húbiān jiǎn dào de shítou",
+     "en": "A stone picked up by the lake"
     }
    }
   },
   "42": {
    "stem": {
     "zh": "榮恩想在指定時間寄送現金及物品給客戶，下列哪一項正確？",
-    "py": "Róngēn xiǎng zài zhǐdìng shíjiān jìsòng xiànjīn jí wùpǐn gěi kèhù, xiàliè nǎ yíxiàng zhèngquè?"
+    "py": "Róngēn xiǎng zài zhǐdìng shíjiān jìsòng xiànjīn jí wùpǐn gěi kèhù, xiàliè nǎ yíxiàng zhèngquè?",
+    "en": "Ron wants to send cash and items to a client at a specified time. Which of the following is correct?"
    },
    "options": {
     "A": {
      "zh": "若兩者併寄，總價值不得高於五千元",
-     "py": "Ruò liǎngzhě bìng jì, zǒngjiàzhí bùdé gāoyú wǔqiānyuán"
+     "py": "Ruò liǎngzhě bìng jì, zǒngjiàzhí bùdé gāoyú wǔqiānyuán",
+     "en": "If sent together, the total value must not exceed five thousand dollars."
     },
     "B": {
      "zh": "若兩者併寄，現金金額以一萬元為限",
-     "py": "Ruò liǎngzhě bìng jì, xiànjīn jīné yǐ yíwànyuán wèi xiàn"
+     "py": "Ruò liǎngzhě bìng jì, xiànjīn jīné yǐ yíwànyuán wèi xiàn",
+     "en": "If sent together, the cash amount is limited to ten thousand dollars."
     },
     "C": {
      "zh": "若單寄物件，物品價值須高於一萬元",
-     "py": "Ruò Dānjì wùjiàn, wùpǐn jiàzhí xū gāoyú yíwànyuán"
+     "py": "Ruò Dānjì wùjiàn, wùpǐn jiàzhí xū gāoyú yíwànyuán",
+     "en": "If sending items only, their value must be over ten thousand dollars."
     },
     "D": {
      "zh": "若單寄現金，金額須介於一萬至五萬元",
-     "py": "Ruò Dānjì xiànjīn, jīné xū jièyú yíwàn zhì wǔwànyuán"
+     "py": "Ruò Dānjì xiànjīn, jīné xū jièyú yíwàn zhì wǔwànyuán",
+     "en": "If sending cash only, the amount must be between ten thousand and fifty thousand dollars."
     }
    }
   },
@@ -1261,129 +1738,157 @@
    "passage": [
     {
      "zh": "（十一）",
-     "py": "(Shíyī)"
+     "py": "(Shíyī)",
+     "en": "(11)"
     },
     {
      "zh": "描寫緬甸女英雄翁山蘇姬的電影在台灣上映後，幾乎場場滿座。",
-     "py": "Miáoxiě Miǎndiān Nǚyīngxióng Wēngshān Sūjī de diànyǐng zài Táiwān shàngyìng hòu, jīhū chǎngchǎng Mǎnzuò."
+     "py": "Miáoxiě Miǎndiān Nǚyīngxióng Wēngshān Sūjī de diànyǐng zài Táiwān shàngyìng hòu, jīhū chǎngchǎng Mǎnzuò.",
+     "en": "After the film depicting Myanmar's heroine Aung San Suu Kyi was released in Taiwan, nearly every showing was full."
     },
     {
-     "zh": "之所以會有這麼多人進電影院看這部傳記型電影，我認為有兩個原因，一是翁山蘇姬為 1991 年諾貝爾和帄奬得主，是一位英勇、了不起的女性，而且她現在仍然在為她的國家與人民奮鬥，不以抗爭為手段地努力爭取和帄；",
-     "py": "Zhīsuǒyǐ huì yǒu zhème duō rén jìn diànyǐngyuàn kàn zhèbù zhuànjì xíng diànyǐng, wǒ rènwéi yǒu liǎng ge yuányīn, yī shì Wēngshān Sūjī wèi 1991 nián Nuòbèiěr hé dīng jiǎngdézhǔ, shì yíwèi Yīngyǒng, liǎobùqǐ de nǚxìng, érqiě tā xiànzài réngrán zài wèi tā de guójiā yǔ rénmín fèndòu, bù yǐ Kàngzhēng wèi shǒuduàn dì Nǔlìzhēngqǔ hé dīng;"
+     "zh": "之所以會有這麼多人進電影院看這部傳記型電影，我認為有兩個原因，一是翁山蘇姬為 1991 年諾貝爾和平奬得主，是一位英勇、了不起的女性，而且她現在仍然在為她的國家與人民奮鬥，不以抗爭為手段地努力爭取和平；",
+     "py": "Zhīsuǒyǐ huì yǒu zhème duō rén jìn diànyǐngyuàn kàn zhèbù zhuànjì xíng diànyǐng, wǒ rènwéi yǒu liǎng ge yuányīn, yī shì Wēngshān Sūjī wèi 1991 nián Nuòbèiěrhépíngjiǎng dézhǔ, shì yíwèi Yīngyǒng, liǎobùqǐ de nǚxìng, érqiě tā xiànzài réngrán zài wèi tā de guójiā yǔ rénmín fèndòu, bù yǐ Kàngzhēng wèi shǒuduàn dì Nǔlìzhēngqǔ Hépíng;",
+     "en": "There are two reasons, I think, why so many people went to the cinema to see this biographical film: first, Aung San Suu Kyi, winner of the 1991 Nobel Peace Prize, is a brave and remarkable woman who is still fighting for her country and people today, striving for peace without using confrontation as a means;"
     },
     {
      "zh": "二，華人演員楊紫瓊入木三分的演技，也吸引著觀眾想看她如何詮釋這個真實故事。",
-     "py": "Èr, huárén yǎnyuán Yángzǐqióng rùmùsānfēn de yǎnjì, yě xīyǐn zhù guānzhòng xiǎng kàn tā rúhé quánshì zhè ge zhēnshí gùshì."
+     "py": "Èr, huárén yǎnyuán Yángzǐqióng rùmùsānfēn de yǎnjì, yě xīyǐn zhù guānzhòng xiǎng kàn tā rúhé quánshì zhè ge zhēnshí gùshì.",
+     "en": "second, Chinese actress Michelle Yeoh's penetrating acting also draws audiences who want to see how she interprets this true story."
     },
     {
-     "zh": "多年前，楊紫瓊主動向該片的法國導演盧貝松要求飾演主角翁山蘇姬，更仙人驚訝的是，她竟然花了長達四年的時間做了相關的準備。",
-     "py": "Duōnián qián, Yángzǐqióng zhǔdòng xiàng gāipiàn de Fǎguó dǎoyǎn Lúbèisōng yāoqiú shìyǎn zhǔjué Wēngshān Sūjī, gèng xiānrén jīngyà de shì, tā jìngrán huā le zhǎng dá sìnián de shíjiān zuò le xiāngguān de zhǔnbèi."
+     "zh": "多年前，楊紫瓊主動向該片的法國導演盧貝松要求飾演主角翁山蘇姬，更令人驚訝的是，她竟然花了長達四年的時間做了相關的準備。",
+     "py": "Duōnián qián, Yángzǐqióng zhǔdòng xiàng gāipiàn de Fǎguó dǎoyǎn Lúbèisōng yāoqiú shìyǎn zhǔjué Wēngshān Sūjī, gèng Lìngrén jīngyà de shì, tā jìngrán huā le zhǎng dá sìnián de shíjiān zuò le xiāngguān de zhǔnbèi.",
+     "en": "Years ago, Michelle Yeoh took the initiative to ask the film's French director Luc Besson to let her play the lead role of Aung San Suu Kyi; even more surprising, she spent as long as four years on related preparation."
     },
     {
      "zh": "原本就清瘦的楊紫瓊，為了把翁山蘇姬演得更像，竟然在短時間內減了十公斤；",
-     "py": "Yuánběn jiù qīngshòu de Yángzǐqióng, wèile bǎ Wēngshān Sūjī yǎndé gèng xiàng, jìngrán zài duǎnshíjiān nèi jiǎn le shígōngjīn;"
+     "py": "Yuánběn jiù qīngshòu de Yángzǐqióng, wèile bǎ Wēngshān Sūjī yǎndé gèng xiàng, jìngrán zài duǎnshíjiān nèi jiǎn le shígōngjīn;",
+     "en": "Michelle Yeoh, already slim, lost ten kilograms in a short time to portray Aung San Suu Kyi more faithfully;"
     },
     {
      "zh": "此外，楊紫瓊也學習以緬甸語講台詞，像是電影中有一幕四分鐘的演講，她就花了半年多背誦、練習。",
-     "py": "Cǐwài, Yángzǐqióng yě xuéxí yǐ Miǎndiānyǔ jiǎng táicí, xiàngshì diànyǐng zhōng yǒu yímù sìfēnzhōng de yǎnjiǎng, tā jiù huā le bànnián duō bèisòng, liànxí."
+     "py": "Cǐwài, Yángzǐqióng yě xuéxí yǐ Miǎndiānyǔ jiǎng táicí, xiàngshì diànyǐng zhōng yǒu yímù sìfēnzhōng de yǎnjiǎng, tā jiù huā le bànnián duō bèisòng, liànxí.",
+     "en": "in addition, she learned to deliver her lines in Burmese—for a four-minute speech scene in the film, she spent more than half a year memorizing and practicing."
     },
     {
      "zh": "除了外型和語言的努力，楊紫瓊在拍片期間還克服了緬甸軍政府的阻礙，與翁山蘇姬本人見上一面，為這部片增添了不少可看性。",
-     "py": "Chúle wàixíng hé yǔyán de nǔlì, Yángzǐqióng zài pāipiàn qījiān hái kèfú le Miǎndiān Jūnzhèngfǔ de zǔài, yǔ Wēngshān Sūjī běnrén jiàn shàng yímiàn, wèi zhèbù piàn zēngtiān le bùshǎo kěkànxìng."
+     "py": "Chúle wàixíng hé yǔyán de nǔlì, Yángzǐqióng zài pāipiàn qījiān hái kèfú le Miǎndiān Jūnzhèngfǔ de zǔài, yǔ Wēngshān Sūjī běnrén jiàn shàng yímiàn, wèi zhèbù piàn zēngtiān le bùshǎo kěkànxìng.",
+     "en": "Besides her efforts on appearance and language, during filming Michelle Yeoh also overcame obstacles from Myanmar's military government to meet Aung San Suu Kyi in person, which added a lot to the film's appeal."
     }
    ],
    "stem": {
     "zh": "作者認為這部電影吸引人的地方是什麼？",
-    "py": "Zuòzhě rènwéi zhèbù diànyǐng xīyǐn rén de dìfāng shì shénme?"
+    "py": "Zuòzhě rènwéi zhèbù diànyǐng xīyǐn rén de dìfāng shì shénme?",
+    "en": "What does the author think makes this film appealing?"
    },
    "options": {
     "A": {
      "zh": "主要演員驚人的演技",
-     "py": "Zhǔyàoyǎnyuán jīngrén de yǎnjì"
+     "py": "Zhǔyàoyǎnyuán jīngrén de yǎnjì",
+     "en": "The lead actress's amazing acting"
     },
     "B": {
      "zh": "導演盧貝松十分有名氣",
-     "py": "Dǎoyǎn Lúbèisōng shífēn yǒumíngqì"
+     "py": "Dǎoyǎn Lúbèisōng shífēn yǒumíngqì",
+     "en": "Director Luc Besson's great fame"
     },
     "C": {
      "zh": "片中的真實人物正率領人民打仗",
-     "py": "Piànzhōng de zhēnshí rénwù zhèng shuàilǐng rénmín dǎzhàng"
+     "py": "Piànzhōng de zhēnshí rénwù zhèng shuàilǐng rénmín dǎzhàng",
+     "en": "The real person in the film is leading the people in war."
     },
     "D": {
-     "zh": "故事主角為了維護和帄而失去生命",
-     "py": "Gùshì zhǔjué wèile wéihù hé dīng ér shīqù shēngmìng"
+     "zh": "故事主角為了維護和平而失去生命",
+     "py": "Gùshì zhǔjué wèile wéihùhépíng ér shīqù shēngmìng",
+     "en": "The protagonist lost her life defending peace."
     }
    }
   },
   "44": {
    "stem": {
     "zh": "關於演員楊紫瓊，下面哪一個是對的？",
-    "py": "Guānyú yǎnyuán Yángzǐqióng, xiàmiàn nǎ yí ge shì duì de?"
+    "py": "Guānyú yǎnyuán Yángzǐqióng, xiàmiàn nǎ yí ge shì duì de?",
+    "en": "Regarding actress Michelle Yeoh, which of the following is correct?"
    },
    "options": {
     "A": {
      "zh": "她的身材本來有點胖",
-     "py": "Tā de shēncái běnlái yǒudiǎn pàng"
+     "py": "Tā de shēncái běnlái yǒudiǎn pàng",
+     "en": "She was originally a bit plump."
     },
     "B": {
      "zh": "她要求參與這部電影",
-     "py": "Tā yāoqiú cānyù zhèbù diànyǐng"
+     "py": "Tā yāoqiú cānyù zhèbù diànyǐng",
+     "en": "She asked to take part in this film."
     },
     "C": {
      "zh": "她本來就會說緬甸話",
-     "py": "Tā běnlái jiù huì shuō Miǎndiān huà"
+     "py": "Tā běnlái jiù huì shuō Miǎndiān huà",
+     "en": "She could already speak Burmese."
     },
     "D": {
      "zh": "導演花四年才找到她",
-     "py": "Dǎoyǎn huā sìnián cái zhǎodào tā"
+     "py": "Dǎoyǎn huā sìnián cái zhǎodào tā",
+     "en": "The director spent four years finding her."
     }
    }
   },
   "45": {
    "stem": {
     "zh": "根據本文，在拍電影期間，楊紫瓊做了什麼事？",
-    "py": "Gēnjù běnwén, zài pāidiànyǐng qījiān, Yángzǐqióng zuò le shénme shì?"
+    "py": "Gēnjù běnwén, zài pāidiànyǐng qījiān, Yángzǐqióng zuò le shénme shì?",
+    "en": "According to this article, what did Michelle Yeoh do during filming?"
    },
    "options": {
     "A": {
      "zh": "當緬甸的軍人",
-     "py": "Dāng Miǎndiān de jūnrén"
+     "py": "Dāng Miǎndiān de jūnrén",
+     "en": "Served as a Burmese soldier"
     },
     "B": {
      "zh": "讓體重快速上升",
-     "py": "Ràng tǐzhòng kuàisù shàngshēng"
+     "py": "Ràng tǐzhòng kuàisù shàngshēng",
+     "en": "Gained weight quickly"
     },
     "C": {
      "zh": "和翁山蘇姬見面",
-     "py": "Hé Wēngshān Sūjī jiànmiàn"
+     "py": "Hé Wēngshān Sūjī jiànmiàn",
+     "en": "Met Aung San Suu Kyi"
     },
     "D": {
      "zh": "在緬甸發表中文演講",
-     "py": "Zài Miǎndiān fābiǎo Zhōngwén yǎnjiǎng"
+     "py": "Zài Miǎndiān fābiǎo Zhōngwén yǎnjiǎng",
+     "en": "Gave a speech in Chinese in Myanmar"
     }
    }
   },
   "46": {
    "stem": {
     "zh": "第二段主要在說什麼事？",
-    "py": "Dìèrduàn zhǔyào zài shuō shénme shì?"
+    "py": "Dìèrduàn zhǔyào zài shuō shénme shì?",
+    "en": "What is the second paragraph mainly about?"
    },
    "options": {
     "A": {
      "zh": "楊紫瓊是演員兼任導演",
-     "py": "Yángzǐqióng shì yǎnyuán jiānrèn dǎoyǎn"
+     "py": "Yángzǐqióng shì yǎnyuán jiānrèn dǎoyǎn",
+     "en": "Michelle Yeoh is both actress and director."
     },
     "B": {
-     "zh": "翁山蘇姬的生帄與事蹟",
-     "py": "Wēngshān Sūjī de shēng dīng yǔ shìjì"
+     "zh": "翁山蘇姬的生平與事蹟",
+     "py": "Wēngshān Sūjī de shēngpíng yǔ shìjì",
+     "en": "Aung San Suu Kyi's life and deeds"
     },
     "C": {
      "zh": "楊紫瓊爭取飾演翁山蘇姬的原因",
-     "py": "Yángzǐqióng zhēngqǔ shìyǎn Wēngshān Sūjī de yuányīn"
+     "py": "Yángzǐqióng zhēngqǔ shìyǎn Wēngshān Sūjī de yuányīn",
+     "en": "Why Michelle Yeoh fought to play Aung San Suu Kyi"
     },
     "D": {
      "zh": "楊紫瓊為演出翁山蘇姬所下的功夫",
-     "py": "Yángzǐqióng wèi yǎnchū Wēngshān Sūjī suǒ xià de gōngfu"
+     "py": "Yángzǐqióng wèi yǎnchū Wēngshān Sūjī suǒ xià de gōngfu",
+     "en": "The effort Michelle Yeoh put into playing Aung San Suu Kyi"
     }
    }
   },
@@ -1391,141 +1896,172 @@
    "passage": [
     {
      "zh": "（十二）",
-     "py": "(Shíèr)"
+     "py": "(Shíèr)",
+     "en": "(12)"
     },
     {
-     "zh": "300 多年前，歐洲到處都出現小麥產量過少的狀況，當時，馬鈴薯剛從美洲傳入歐洲，有位國王一接觸到馬鈴薯，就認為這神奇的作物正是國家的救星，不但種起來容易，蟲又少，吃了也容易讓人有飽足的感覺，相當適合付替麵包成為主要食物，因此下仙推廣全國。",
-     "py": "300 duōnián qián, Ōuzhōu dàochù dōu chūxiàn xiǎomài chǎnliàng guò shǎo de zhuàngkuàng, dāngshí, mǎlíngshǔ gāng cóng Měizhōu chuánrù Ōuzhōu, yǒuwèi guówáng yī jiēchù dào mǎlíngshǔ, jiù rènwéi zhè shénqí de zuòwù zhèngshì guójiā de jiùxīng, búdàn zhǒng qǐlái róngyì, chóng yòu shǎo, chī le yě róngyì ràng rén yǒu bǎozú de gǎnjué, xiāngdāng shìhé fùtì miànbāo chéngwéi zhǔyào shíwù, yīncǐ xià xiān tuīguǎng quánguó."
+     "zh": "300 多年前，歐洲到處都出現小麥產量過少的狀況，當時，馬鈴薯剛從美洲傳入歐洲，有位國王一接觸到馬鈴薯，就認為這神奇的作物正是國家的救星，不但種起來容易，蟲又少，吃了也容易讓人有飽足的感覺，相當適合代替麵包成為主要食物，因此下令推廣全國。",
+     "py": "300 duōnián qián, Ōuzhōu dàochù dōu chūxiàn xiǎomài chǎnliàng guò shǎo de zhuàngkuàng, dāngshí, mǎlíngshǔ gāng cóng Měizhōu chuánrù Ōuzhōu, yǒuwèi guówáng yī jiēchù dào mǎlíngshǔ, jiù rènwéi zhè shénqí de zuòwù zhèngshì guójiā de jiùxīng, búdàn zhǒng qǐlái róngyì, chóng yòu shǎo, chī le yě róngyì ràng rén yǒu bǎozú de gǎnjué, xiāngdāng shìhé dàitì miànbāo chéngwéi zhǔyào shíwù, yīncǐ xiàlìng tuīguǎng quánguó.",
+     "en": "More than 300 years ago, wheat production was too low all over Europe. At that time potatoes had just been introduced to Europe from the Americas. A certain king, as soon as he encountered potatoes, believed this magical crop was the nation's savior: not only easy to grow with few pests, but also filling to eat, quite suitable to replace bread as a staple food; so he ordered it promoted throughout the country."
     },
     {
      "zh": "他在公告裡寫著：「馬鈴薯是個容易種、而且營養豐富的食物，希望大家多種、多吃，這樣一來就能解決麵粉不夠的問題了。」",
-     "py": "Tā zài gōnggào lǐ xiězhù: “Mǎlíngshǔ shì gè róngyì zhǒng, érqiě yíngyǎng fēngfù de shíwù, xīwàng dàjiā duōzhǒng, duō chī, zhèyàngyìlái jiù néng jiějué miànfěn búgòu de wèntí le.”"
+     "py": "Tā zài gōnggào lǐ xiězhù: “Mǎlíngshǔ shì gè róngyì zhǒng, érqiě yíngyǎng fēngfù de shíwù, xīwàng dàjiā duōzhǒng, duō chī, zhèyàngyìlái jiù néng jiějué miànfěn búgòu de wèntí le.”",
+     "en": "In his proclamation he wrote: \"The potato is an easy-to-grow and highly nutritious food. I hope everyone will grow more and eat more; this way the problem of insufficient flour can be solved.\""
     },
     {
      "zh": "沒想到公告以後，「市場反應」卻讓國王很意外，幾乎沒有人願意在家種馬鈴薯，大部分的民眾不願改變以麵包作為主食的習慣。",
-     "py": "Méixiǎngdào gōnggào yǐhòu, “Shìchǎng fǎnyìng” què ràng guówáng hěn yìwài, jīhū méiyǒu rén yuànyì zàijiā zhǒng mǎlíngshǔ, dàbùfèn de mínzhòng bù yuàn gǎibiàn yǐ miànbāo zuòwéi zhǔshí de xíguàn."
+     "py": "Méixiǎngdào gōnggào yǐhòu, “Shìchǎng fǎnyìng” què ràng guówáng hěn yìwài, jīhū méiyǒu rén yuànyì zàijiā zhǒng mǎlíngshǔ, dàbùfèn de mínzhòng bù yuàn gǎibiàn yǐ miànbāo zuòwéi zhǔshí de xíguàn.",
+     "en": "Unexpectedly, after the proclamation, the \"market response\" surprised the king: almost no one was willing to grow potatoes at home, and most people were unwilling to change their habit of eating bread as the staple."
     },
     {
      "zh": "國王幾天後又想出新的對策。",
-     "py": "Guówáng jǐtiān hòu yòu xiǎng chūxīn de duìcè."
+     "py": "Guówáng jǐtiān hòu yòu xiǎng chūxīn de duìcè.",
+     "en": "A few days later the king came up with a new strategy."
     },
     {
-     "zh": "他又發布了新命仙：「馬鈴薯是國王專屬的食物，一般人不可以吃。」",
-     "py": "Tā yòu fābù le xīn mìng xiān: “Mǎlíngshǔ shì guówáng zhuānshǔ de shíwù, yìbān rén bù kěyǐ chī.”"
+     "zh": "他又發布了新命令：「馬鈴薯是國王專屬的食物，一般人不可以吃。」",
+     "py": "Tā yòu fābù le xīn mìnglìng: “Mǎlíngshǔ shì guówáng zhuānshǔ de shíwù, yìbān rén bù kěyǐ chī.”",
+     "en": "He issued a new order: \"Potatoes are food exclusively for the king; ordinary people may not eat them.\""
     },
     {
      "zh": "還準備了一塊很大的田專門種馬鈴薯，派了幾名軍人在那兒看著。",
-     "py": "Hái zhǔnbèi le yíkuài hěndà de tián zhuānmén zhǒng mǎlíngshǔ, pài le jǐmíng jūnrén zài nàér kànzhù."
+     "py": "Hái zhǔnbèi le yíkuài hěndà de tián zhuānmén zhǒng mǎlíngshǔ, pài le jǐmíng jūnrén zài nàér kànzhù.",
+     "en": "He also prepared a large field just for growing potatoes and sent several soldiers to guard it."
     },
     {
-     "zh": "命仙公告後，很多民眾心裡想，「馬鈴薯有什麼了不起？",
-     "py": "Mìngxiān gōnggào hòu, hěnduō mínzhòng xīnlǐ xiǎng, “Mǎlíngshǔ yǒu shénme liǎobùqǐ?"
+     "zh": "命令公告後，很多民眾心裡想，「馬鈴薯有什麼了不起？",
+     "py": "Mìnglìng gōnggào hòu, hěnduō mínzhòng xīnlǐ xiǎng, “Mǎlíngshǔ yǒu shénme liǎobùqǐ?",
+     "en": "After the order was announced, many people thought, \"What's so great about potatoes?"
     },
     {
      "zh": "為什麼只有國王可以吃？」",
-     "py": "Wèishénme zhǐyǒu guówáng kěyǐ chī?”"
+     "py": "Wèishénme zhǐyǒu guówáng kěyǐ chī?”",
+     "en": "Why can only the king eat them?\""
     },
     {
      "zh": "大家都想吃吃看，很多人到國王的田裡偷馬鈴薯回家種，倒是在那兒的軍人都睜一隻眼閉一隻眼地讓民眾偷。",
-     "py": "Dàjiā dōu xiǎng chī chī kàn, hěnduō rén dào guówáng de tiánlǐ tōu mǎlíngshǔ huíjiā zhǒng, dào shì zài nàér de jūnrén dōu zhēngyìzhīyǎn bìyìzhīyǎn dì ràng mínzhòng tōu."
+     "py": "Dàjiā dōu xiǎng chī chī kàn, hěnduō rén dào guówáng de tiánlǐ tōu mǎlíngshǔ huíjiā zhǒng, dào shì zài nàér de jūnrén dōu zhēngyìzhīyǎn bìyìzhīyǎn dì ràng mínzhòng tōu.",
+     "en": "Everyone wanted to try them, and many people went to the king's field to steal potatoes to plant at home, while the soldiers there turned a blind eye and let them steal."
     },
     {
      "zh": "幾個月過去了，馬鈴薯就這樣成了這個國家常見的農作物。",
-     "py": "Jǐ ge yuè guòqù le, mǎlíngshǔ jiù zhèyàng chéng le zhè ge guójiā chángjiàn de nóngzuòwù."
+     "py": "Jǐ ge yuè guòqù le, mǎlíngshǔ jiù zhèyàng chéng le zhè ge guójiā chángjiàn de nóngzuòwù.",
+     "en": "A few months passed, and potatoes thus became a common crop in this country."
     }
    ],
    "stem": {
     "zh": "關於國王想推廣馬鈴薯的原因，沒提到下面哪一項？",
-    "py": "Guānyú guówáng xiǎng tuīguǎng mǎlíngshǔ de yuányīn, méi tídào xiàmiàn nǎ yíxiàng?"
+    "py": "Guānyú guówáng xiǎng tuīguǎng mǎlíngshǔ de yuányīn, méi tídào xiàmiàn nǎ yíxiàng?",
+    "en": "Regarding the reasons the king wanted to promote potatoes, which of the following is NOT mentioned?"
    },
    "options": {
     "A": {
      "zh": "能當作主要的食物",
-     "py": "Néng dàngzuò zhǔyào de shíwù"
+     "py": "Néng dàngzuò zhǔyào de shíwù",
+     "en": "They can serve as a staple food."
     },
     "B": {
      "zh": "味道和麵包非常搭配",
-     "py": "Wèidào hé miànbāo fēicháng dāpèi"
+     "py": "Wèidào hé miànbāo fēicháng dāpèi",
+     "en": "Their taste goes very well with bread."
     },
     "C": {
      "zh": "不必花太多力氣照顧",
-     "py": "Búbì Huātàiduō lìqì zhàogù"
+     "py": "Búbì Huātàiduō lìqì zhàogù",
+     "en": "They don't take much effort to care for."
     },
     "D": {
      "zh": "希望讓人民少用麵粉",
-     "py": "Xīwàng ràng rénmín shǎo yòng miànfěn"
+     "py": "Xīwàng ràng rénmín shǎo yòng miànfěn",
+     "en": "He hoped people would use less flour."
     }
    }
   },
   "48": {
    "stem": {
     "zh": "第二段中的「市場反應」指的是什麼？",
-    "py": "Dìèrduàn zhōng de “Shìchǎng fǎnyìng” zhǐ de shì shénme?"
+    "py": "Dìèrduàn zhōng de “Shìchǎng fǎnyìng” zhǐ de shì shénme?",
+    "en": "What does the \"market response\" in the second paragraph refer to?"
    },
    "options": {
     "A": {
      "zh": "一般人吃不起馬鈴薯",
-     "py": "Yìbān rén chībùqǐ mǎlíngshǔ"
+     "py": "Yìbān rén chībùqǐ mǎlíngshǔ",
+     "en": "Ordinary people couldn't afford potatoes."
     },
     "B": {
      "zh": "沒有人願意賣馬鈴薯",
-     "py": "Méiyǒu rén yuànyì mài mǎlíngshǔ"
+     "py": "Méiyǒu rén yuànyì mài mǎlíngshǔ",
+     "en": "No one was willing to sell potatoes."
     },
     "C": {
      "zh": "農民認為馬鈴薯不容易種",
-     "py": "Nóngmín rènwéi mǎlíngshǔ bù róngyì zhǒng"
+     "py": "Nóngmín rènwéi mǎlíngshǔ bù róngyì zhǒng",
+     "en": "Farmers thought potatoes were hard to grow."
     },
     "D": {
-     "zh": "人民認為馬鈴薯無法取付麵包",
-     "py": "Rénmín rènwéi mǎlíngshǔ wúfǎ qǔfù miànbāo"
+     "zh": "人民認為馬鈴薯無法取代麵包",
+     "py": "Rénmín rènwéi mǎlíngshǔ wúfǎ qǔdài miànbāo",
+     "en": "People thought potatoes couldn't replace bread."
     }
    }
   },
   "49": {
    "stem": {
     "zh": "國王能推廣成功，主要是對人民使用了哪種策略？",
-    "py": "Guówáng néng tuīguǎng chénggōng, zhǔyào shì duì rénmín shǐyòng le nǎzhǒng cèlüè?"
+    "py": "Guówáng néng tuīguǎng chénggōng, zhǔyào shì duì rénmín shǐyòng le nǎzhǒng cèlüè?",
+    "en": "What strategy did the king mainly use on the people to succeed in promoting potatoes?"
    },
    "options": {
     "A": {
      "zh": "強調吃馬鈴薯的好處",
-     "py": "Qiángdiào chī mǎlíngshǔ de hǎochù"
+     "py": "Qiángdiào chī mǎlíngshǔ de hǎochù",
+     "en": "Emphasizing the benefits of eating potatoes"
     },
     "B": {
-     "zh": "強迫他們不得不接受命仙",
-     "py": "Qiǎngpò tāmen bùdébù jiēshòu mìngxiān"
+     "zh": "強迫他們不得不接受命令",
+     "py": "Qiǎngpò tāmen bùdébù jiēshòumìnglìng",
+     "en": "Forcing them to accept the order"
     },
     "C": {
      "zh": "引起人民對馬鈴薯的好奇心",
-     "py": "Yǐnqǐ rénmín duì mǎlíngshǔ de hàoqíxīn"
+     "py": "Yǐnqǐ rénmín duì mǎlíngshǔ de hàoqíxīn",
+     "en": "Arousing people's curiosity about potatoes"
     },
     "D": {
      "zh": "強調小麥不足如何影響生活",
-     "py": "Qiángdiào xiǎomài bùzú rúhé yǐngxiǎng shēnghuó"
+     "py": "Qiángdiào xiǎomài bùzú rúhé yǐngxiǎng shēnghuó",
+     "en": "Emphasizing how the wheat shortage affected life"
     }
    }
   },
   "50": {
    "stem": {
     "zh": "這個故事主要在說明什麼？",
-    "py": "Zhè ge gùshì zhǔyào zài shuōmíng shénme?"
+    "py": "Zhè ge gùshì zhǔyào zài shuōmíng shénme?",
+    "en": "What does this story mainly explain?"
    },
    "options": {
     "A": {
      "zh": "馬鈴薯開始流行的原因",
-     "py": "Mǎlíngshǔ kāishǐ liúxíng de yuányīn"
+     "py": "Mǎlíngshǔ kāishǐ liúxíng de yuányīn",
+     "en": "Why potatoes became popular"
     },
     "B": {
      "zh": "人民改變飲食習慣的目的",
-     "py": "Rénmín gǎibiàn yǐnshíxíguàn de mùdì"
+     "py": "Rénmín gǎibiàn yǐnshíxíguàn de mùdì",
+     "en": "The purpose of people changing their eating habits"
     },
     "C": {
      "zh": "馬鈴薯對歐洲人民有什麼好處",
-     "py": "Mǎlíngshǔ duì Ōuzhōu rénmín yǒu shénme hǎochù"
+     "py": "Mǎlíngshǔ duì Ōuzhōu rénmín yǒu shénme hǎochù",
+     "en": "What benefits potatoes brought to Europeans"
     },
     "D": {
      "zh": "國王對食物的愛好如何影響人民",
-     "py": "Guówáng duì shíwù de àihào rúhé yǐngxiǎng rénmín"
+     "py": "Guówáng duì shíwù de àihào rúhé yǐngxiǎng rénmín",
+     "en": "How the king's food preferences influenced the people"
     }
    }
   }
