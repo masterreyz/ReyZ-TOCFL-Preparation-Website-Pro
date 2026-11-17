@@ -1,0 +1,935 @@
+{
+ "id": "pb-a-l-dialogue-1",
+ "band": "a",
+ "skill": "listening",
+ "series": "Set 1",
+ "title": "Bank Soal A · Band A Listening Dialogue · Set 1",
+ "kind": "partbank",
+ "section": "a-l-dialogue",
+ "source": {
+  "folder": "2. TOCFL Band A Per Part/Band A Listening Dialogue",
+  "booklet": "(per item)",
+  "answer": "A_L_Dialogue_Answer.xlsx"
+ },
+ "parts": [
+  {
+   "title": "Band A Listening Dialogue",
+   "subtitle": "",
+   "instructions": "",
+   "instructionsEn": "",
+   "from": 1,
+   "to": 20
+  }
+ ],
+ "questions": [
+  {
+   "item": "Q00116500",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "B",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "她不想送東西給朋友"
+    },
+    {
+     "label": "B",
+     "text": "她不想答應對方的要求"
+    },
+    {
+     "label": "C",
+     "text": "她不想讓朋友覺得麻煩"
+    },
+    {
+     "label": "D",
+     "text": "她想知道要幫對方帶多少東西"
+    }
+   ],
+   "transcript": "男：下星期妳是不是要去日本？\n女：是啊，請問有什麼事嗎？\n男：我想請妳幫我帶一個東西給我朋友。\n女：不好意思，我要帶的東西很多，可能不太方便。\n男：這位小姐的意思是什麼？",
+   "printedText": "1.\n （A） 她不想送東西給朋友\n （B） 她不想答應對方的要求\n （C） 她不想讓朋友覺得麻煩\n （D） 她想知道要幫對方帶多少東西",
+   "spokenOptions": false,
+   "n": 1,
+   "crop": "Q00116500.webp",
+   "audio": [
+    0
+   ]
+  },
+  {
+   "item": "Q00116900",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "A",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "要回美國去了"
+    },
+    {
+     "label": "B",
+     "text": "三天前來美國玩兒"
+    },
+    {
+     "label": "C",
+     "text": "想請何小姐跟他一起回去"
+    },
+    {
+     "label": "D",
+     "text": "這三天帶著何小姐到處走走"
+    }
+   ],
+   "transcript": "男：何小姐，這三天謝謝妳的幫忙。\n女：不用那麼客氣，這是我應該做的。\n男：希望有機會能再來這裡。對了，如果妳來美國玩，記得來找我。換我帶妳到處走走。\n女：好啊，謝謝你。祝你一路平安，再見。\n男：從這兩個人講的話可以知道這位先生怎麼樣？",
+   "printedText": "1.\n （A） 要回美國去了\n （B） 三天前來美國玩兒\n （C） 想請何小姐跟他一起回去\n （D） 這三天帶著何小姐到處走走",
+   "spokenOptions": false,
+   "n": 2,
+   "crop": "Q00116900.webp",
+   "audio": [
+    1
+   ]
+  },
+  {
+   "item": "Q00120900",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "她的生日快到了"
+    },
+    {
+     "label": "B",
+     "text": "她快要四十歲了"
+    },
+    {
+     "label": "C",
+     "text": "老師的年紀比她大"
+    },
+    {
+     "label": "D",
+     "text": "老師已經四十歲了"
+    }
+   ],
+   "transcript": "男：小英，剛剛那位小姐是妳的同學嗎？\n女：不是，她是我的老師。\n男：什麼？她那麼年輕，怎麼可能是妳的老師。\n女：她比我大十歲，明年就四十歲了。\n男：小英的意思是什麼？",
+   "printedText": "1.\n （A） 她的生日快到了\n （B） 她快要四十歲了\n （C） 老師的年紀比她大\n （D） 老師已經四十歲了",
+   "spokenOptions": false,
+   "n": 3,
+   "crop": "Q00120900.webp",
+   "audio": [
+    2
+   ]
+  },
+  {
+   "item": "Q00121200",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "A",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "晚上可以去哪兒玩"
+    },
+    {
+     "label": "B",
+     "text": "有名的大樓在哪裡"
+    },
+    {
+     "label": "C",
+     "text": "這位小姐要去哪兒玩"
+    },
+    {
+     "label": "D",
+     "text": "這附近有什麼好吃的東西"
+    }
+   ],
+   "transcript": "男：請問一下，這兒晚上有什麼好玩的地方可以去？\n女：附近有一個市場，晚上有很多好吃、好玩的，很熱鬧。\n男：有什麼有名的地方嗎？\n女：您可以坐車去參觀世界最高的大樓，上大樓去看風景，晚上的風景很漂亮的。\n男：這位先生想知道什麼？",
+   "printedText": "1.\n （A） 晚上可以去哪兒玩\n （B） 有名的大樓在哪裡\n （C） 這位小姐要去哪兒玩\n （D） 這附近有什麼好吃的東西",
+   "spokenOptions": false,
+   "n": 4,
+   "crop": "Q00121200.webp",
+   "audio": [
+    3
+   ]
+  },
+  {
+   "item": "Q00130800",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "沒收到衣服"
+    },
+    {
+     "label": "B",
+     "text": "沒錢吃東西"
+    },
+    {
+     "label": "C",
+     "text": "沒錢買衣服"
+    },
+    {
+     "label": "D",
+     "text": "請母親寄衣服"
+    }
+   ],
+   "transcript": "男：喂，媽，請寄一些錢給我，我要買衣服。\n女：衣服不是都帶去了嗎？為什麼還要買？\n男：我變胖了，那些衣服都穿不下了。\n女：你才去念了半年的書就變胖了，我想那裡的東西一定很好吃。\n男：這個兒子打電話跟母親說什麼？",
+   "printedText": "1.\n （A） 沒收到衣服\n （B） 沒錢吃東西\n （C） 沒錢買衣服\n （D） 請母親寄衣服",
+   "spokenOptions": false,
+   "n": 5,
+   "crop": "Q00130800.webp",
+   "audio": [
+    4
+   ]
+  },
+  {
+   "item": "Q00141900",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "D",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "因為那裡的服務很不錯"
+    },
+    {
+     "label": "B",
+     "text": "因為那裡的菜天天不同"
+    },
+    {
+     "label": "C",
+     "text": "因為小朋友想吃中國菜"
+    },
+    {
+     "label": "D",
+     "text": "因為想讓客人吃中國菜"
+    }
+   ],
+   "transcript": "男：太太，我想請小麗一家人到中華樓吃飯。\n女：那兒的中國菜是不錯，不過小麗的孩子從小在美國長大，可能不習慣用筷子吧！\n男：他們用筷子吃飯的機會不是天天有的。這些孩子長大以後，會感謝我的。\n女：好吧，那就去中華樓吧！\n男：這兩個人為什麼決定去中華樓吃飯？",
+   "printedText": "1.\n （A） 因為那裡的服務很不錯\n （B） 因為那裡的菜天天不同\n （C） 因為小朋友想吃中國菜\n （D） 因為想讓客人吃中國菜",
+   "spokenOptions": false,
+   "n": 6,
+   "crop": "Q00141900.webp",
+   "audio": [
+    5
+   ]
+  },
+  {
+   "item": "Q00151300",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "她要搬到附近的郊區"
+    },
+    {
+     "label": "B",
+     "text": "她來幫林太太買東西"
+    },
+    {
+     "label": "C",
+     "text": "她要送禮物給林太太"
+    },
+    {
+     "label": "D",
+     "text": "林太太請她送東西到郊區"
+    }
+   ],
+   "transcript": "男：陳小姐，來買東西啊？\n女：是啊，林太太剛搬家，我想買幾個碗盤送她。\n男：原來林太太搬走了，她搬到哪兒去了？\n女：離這兒不遠的郊區。\n男：這位小姐說了什麼？",
+   "printedText": "1.\n （A） 她要搬到附近的郊區\n （B） 她來幫林太太買東西\n （C） 她要送禮物給林太太\n （D） 林太太請她送東西到郊區",
+   "spokenOptions": false,
+   "n": 7,
+   "crop": "Q00151300.webp",
+   "audio": [
+    6
+   ]
+  },
+  {
+   "item": "Q00155400",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "感冒了"
+    },
+    {
+     "label": "B",
+     "text": "害怕出門"
+    },
+    {
+     "label": "C",
+     "text": "常常睡不好"
+    },
+    {
+     "label": "D",
+     "text": "一運動就覺得累"
+    }
+   ],
+   "transcript": "男：我最近都睡得不好，剛剛去看病。\n女：醫生說了什麼？\n男：他叫我要常常出去走走、多運動，就可以睡得比較好。\n女：是啊！不過最近天氣冷，很容易感冒，你出門要多穿一件衣服。\n男：這位先生看病的原因是什麼？",
+   "printedText": "1.\n （A） 感冒了\n （B） 害怕出門\n （C） 常常睡不好\n （D） 一運動就覺得累",
+   "spokenOptions": false,
+   "n": 8,
+   "crop": "Q00155400.webp",
+   "audio": [
+    7
+   ]
+  },
+  {
+   "item": "Q00155500",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "A",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "讓她休息一個月"
+    },
+    {
+     "label": "B",
+     "text": "讓她的工作少一點"
+    },
+    {
+     "label": "C",
+     "text": "兩星期後，可以休息幾天"
+    },
+    {
+     "label": "D",
+     "text": "一個月後，讓她離開公司"
+    }
+   ],
+   "transcript": "男：請進，有什麼事嗎？\n女：老闆，我最近總是覺得很累、很不舒服。我想請假。\n男：妳想請多久呢？\n女：如果可以的話，我想請一個月；但是如果不行，兩個星期也可以。\n男：這位小姐希望老闆答應她什麼事？",
+   "printedText": "1.\n （A） 讓她休息一個月\n （B） 讓她的工作少一點\n （C） 兩星期後，可以休息幾天\n （D） 一個月後，讓她離開公司",
+   "spokenOptions": false,
+   "n": 9,
+   "crop": "Q00155500.webp",
+   "audio": [
+    8
+   ]
+  },
+  {
+   "item": "Q00157200",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "因為這支手機不貴"
+    },
+    {
+     "label": "B",
+     "text": "因為她想和哥哥一樣"
+    },
+    {
+     "label": "C",
+     "text": "因為她喜歡手機裡的音樂"
+    },
+    {
+     "label": "D",
+     "text": "因為她哥哥要送她黑色手機"
+    }
+   ],
+   "transcript": "男：小美，這個白色的手機不錯，妳覺得呢？\n女：我想買和哥哥一樣的手機。\n男：為什麼呢？我覺得黑色的手機沒有白色的好看。\n女：因為那個黑色的手機比較便宜，不過最重要的是手機裡的音樂都很特別，我很喜歡。\n男：小美選擇黑色手機主要的原因是什麼？",
+   "printedText": "1.\n （A） 因為這支手機不貴\n （B） 因為她想和哥哥一樣\n （C） 因為她喜歡手機裡的音樂\n （D） 因為她哥哥要送她黑色手機",
+   "spokenOptions": false,
+   "n": 10,
+   "crop": "Q00157200.webp",
+   "audio": [
+    9
+   ]
+  },
+  {
+   "item": "Q00157400",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "A",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "早點出門比較安全"
+    },
+    {
+     "label": "B",
+     "text": "晚上去爬山很危險"
+    },
+    {
+     "label": "C",
+     "text": "等到星期六再決定"
+    },
+    {
+     "label": "D",
+     "text": "這種季節最好別爬山"
+    }
+   ],
+   "transcript": "男：星期六我打算去爬山，要不要一起去？\n女：好啊！幾點出發？\n男：我們大概下午一點出發，爬三個多小時就回來。\n女：但是現在這個季節，山上的天氣變化很大，這麼晚去可能有點危險。\n男：這位小姐的意思是什麼？",
+   "printedText": "1.\n （A） 早點出門比較安全\n （B） 晚上去爬山很危險\n （C） 等到星期六再決定\n （D） 這種季節最好別爬山",
+   "spokenOptions": false,
+   "n": 11,
+   "crop": "Q00157400.webp",
+   "audio": [
+    10
+   ]
+  },
+  {
+   "item": "Q00312500",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "A",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "這位小姐曾經教過張強"
+    },
+    {
+     "label": "B",
+     "text": "這位小姐很高興看見張強"
+    },
+    {
+     "label": "C",
+     "text": "張強對這位小姐印象深刻"
+    },
+    {
+     "label": "D",
+     "text": "張強希望能和這位小姐一起上課"
+    }
+   ],
+   "transcript": "男：你好，我們是不是上過一樣的課？\n女：嗯！你是張強吧！我在李老師的課上看過你，你覺得她的課怎麼樣？\n男：她的課很無聊，害我不及格，還得重修。對了，妳怎麼知道我的名字？難道妳也是四年級的學生？\n女：同學，我在課堂上總共見過你四次，你都在睡覺，歡迎你繼續修我的課。\n男：關於這段對話，下面哪一個是對的？",
+   "printedText": "1.\n （A） 這位小姐曾經教過張強\n （B） 這位小姐很高興看見張強\n （C） 張強對這位小姐印象深刻\n （D） 張強希望能和這位小姐一起上課",
+   "spokenOptions": false,
+   "n": 12,
+   "crop": "Q00312500.webp",
+   "audio": [
+    11
+   ]
+  },
+  {
+   "item": "Q00344400",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "要這位先生先排隊"
+    },
+    {
+     "label": "B",
+     "text": "要這位先生快去看病"
+    },
+    {
+     "label": "C",
+     "text": "告訴這位先生其他掛號方式"
+    },
+    {
+     "label": "D",
+     "text": "告訴這位先生怎麼上網掛號"
+    }
+   ],
+   "transcript": "男：您好，我要掛號。\n女：掛號請到門口的右邊排隊。\n男：哇，掛號的人真多。\n女：現在掛號的方法很多，您如果不喜歡排隊，下一次可以先在家裡，使用電腦網路掛號，再來醫院看病。\n男：這位小姐最後的意思是什麼？",
+   "printedText": "1.\n （A） 要這位先生先排隊\n （B） 要這位先生快去看病\n （C） 告訴這位先生其他掛號方式\n （D） 告訴這位先生怎麼上網掛號",
+   "spokenOptions": false,
+   "n": 13,
+   "crop": "Q00344400.webp",
+   "audio": [
+    12
+   ]
+  },
+  {
+   "item": "Q00353300",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "睡得不好"
+    },
+    {
+     "label": "B",
+     "text": "沒有吃藥"
+    },
+    {
+     "label": "C",
+     "text": "天氣變了"
+    },
+    {
+     "label": "D",
+     "text": "不常運動"
+    }
+   ],
+   "transcript": "男：最近我的鼻子不太舒服，晚上都睡不好。可以給我一點藥嗎？\n女：我看看。嗯，還不需要吃藥。多運動會讓你覺得好一點。\n男：我是不是感冒了？\n女：不是，春天來的時候，很多人都會有這個問題。\n男：這位先生的鼻子不舒服和什麼有關係？",
+   "printedText": "1.\n （A） 睡得不好\n （B） 沒有吃藥\n （C） 天氣變了\n （D） 不常運動",
+   "spokenOptions": false,
+   "n": 14,
+   "crop": "Q00353300.webp",
+   "audio": [
+    13
+   ]
+  },
+  {
+   "item": "Q00353400",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "A",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "她沒辦法讓鄰居安靜一些"
+    },
+    {
+     "label": "B",
+     "text": "她想搬到交通方便的地方"
+    },
+    {
+     "label": "C",
+     "text": "她打算請員警跟鄰居談談"
+    },
+    {
+     "label": "D",
+     "text": "她想找喜歡玩樂器的鄰居"
+    }
+   ],
+   "transcript": "男：這裡交通很方便，為什麼想搬家？\n女：鄰居夜裡經常玩樂器，吵得不得了。\n男：不能跟他們談一談嗎？\n女：談過了，也請警察幫忙了，可是一點用也沒有。\n男：這位小姐的意思是什麼？",
+   "printedText": "1.\n （A） 她沒辦法讓鄰居安靜一些\n （B） 她想搬到交通方便的地方\n （C） 她打算請員警跟鄰居談談\n （D） 她想找喜歡玩樂器的鄰居",
+   "spokenOptions": false,
+   "n": 15,
+   "crop": "Q00353400.webp",
+   "audio": [
+    14
+   ]
+  },
+  {
+   "item": "Q00353500",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "她也不想做學期報告"
+    },
+    {
+     "label": "B",
+     "text": "她可以和大明一起討論"
+    },
+    {
+     "label": "C",
+     "text": "大明不需要這麼快做決定"
+    },
+    {
+     "label": "D",
+     "text": "大明應該告訴她發生什麼事"
+    }
+   ],
+   "transcript": "男：我決定不上這個課了。\n女：大明，發生什麼事了嗎？\n男：我不知道學期報告要怎麼做。\n女：這個課的報告真的不容易，但我想你可以先找老師討論。\n男：這位小姐的意思是什麼？",
+   "printedText": "1.\n （A） 她也不想做學期報告\n （B） 她可以和大明一起討論\n （C） 大明不需要這麼快做決定\n （D） 大明應該告訴她發生什麼事",
+   "spokenOptions": false,
+   "n": 16,
+   "crop": "Q00353500.webp",
+   "audio": [
+    15
+   ]
+  },
+  {
+   "item": "Q00353600",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "B",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "她買新褲子了"
+    },
+    {
+     "label": "B",
+     "text": "她想買新褲子"
+    },
+    {
+     "label": "C",
+     "text": "舊褲子可以丟了"
+    },
+    {
+     "label": "D",
+     "text": "她把褲子洗好了"
+    }
+   ],
+   "transcript": "男：你的牛仔褲髒了！要放進洗衣機洗嗎？\n女：那件已經很舊了，我需要一件新褲子。\n男：要幫妳把舊褲子丟了嗎？\n女：先洗一洗吧！我後天才能去買新的。\n男：這位小姐的意思是什麼？",
+   "printedText": "1.\n （A） 她買新褲子了\n （B） 她想買新褲子\n （C） 舊褲子可以丟了\n （D） 她把褲子洗好了",
+   "spokenOptions": false,
+   "n": 17,
+   "crop": "Q00353600.webp",
+   "audio": [
+    16
+   ]
+  },
+  {
+   "item": "Q00353700",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "D",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "她想請這位先生喝杯飲料"
+    },
+    {
+     "label": "B",
+     "text": "她知道這位先生常常遲到"
+    },
+    {
+     "label": "C",
+     "text": "她相信這位先生工作很忙"
+    },
+    {
+     "label": "D",
+     "text": "她覺得這位先生應該請客"
+    }
+   ],
+   "transcript": "男：不好意思，我遲到了。\n女：是不是工作太忙，所以比較晚下班？\n男：不是，是我記錯時間了，真抱歉！\n女：不是因為工作才遲到啊！那你請我喝飲料吧！\n男：這位小姐的意思是什麼？",
+   "printedText": "1.\n （A） 她想請這位先生喝杯飲料\n （B） 她知道這位先生常常遲到\n （C） 她相信這位先生工作很忙\n （D） 她覺得這位先生應該請客",
+   "spokenOptions": false,
+   "n": 18,
+   "crop": "Q00353700.webp",
+   "audio": [
+    17
+   ]
+  },
+  {
+   "item": "Q00362400",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "A",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "他要兒子再找找"
+    },
+    {
+     "label": "B",
+     "text": "課本不在書桌上"
+    },
+    {
+     "label": "C",
+     "text": "她把課本收起來了"
+    },
+    {
+     "label": "D",
+     "text": "書桌上放了本字典"
+    }
+   ],
+   "transcript": "男：媽，你看見我的課本嗎？\n女：書桌那裡沒有嗎？\n男：找過了，都沒有。等一下就要上課了，真糟糕。\n女：不是放在書桌上，就是跟字典放在一起，你去看看。\n男：這位太太的意思是什麼？",
+   "printedText": "1.\n （A） 他要兒子再找找\n （B） 課本不在書桌上\n （C） 她把課本收起來了\n （D） 書桌上放了本字典",
+   "spokenOptions": false,
+   "n": 19,
+   "crop": "Q00362400.webp",
+   "audio": [
+    18
+   ]
+  },
+  {
+   "item": "Q00362500",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "A",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": "這裡很吵"
+    },
+    {
+     "label": "B",
+     "text": "這裡人不多"
+    },
+    {
+     "label": "C",
+     "text": "這裡的環境很好"
+    },
+    {
+     "label": "D",
+     "text": "這裡的風景很美"
+    }
+   ],
+   "transcript": "男：好久沒來這裡了，變了好多喔。\n女：以前這裡是漂亮的風景，現在這裡到處都是人。\n男：人多不好嗎？\n女：我喜歡安靜的環境。\n男：這位小姐最後的意思是什麼？",
+   "printedText": "1.\n （A） 這裡很吵\n （B） 這裡人不多\n （C） 這裡的環境很好\n （D） 這裡的風景很美",
+   "spokenOptions": false,
+   "n": 20,
+   "crop": "Q00362500.webp",
+   "audio": [
+    19
+   ]
+  }
+ ],
+ "audio": {
+  "dir": "",
+  "kind": "by-filename",
+  "tracks": [
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00116500.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00116900.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00120900.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00121200.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00130800.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00141900.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00151300.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00155400.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00155500.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00157200.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00157400.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00312500.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00344400.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00353300.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00353400.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00353500.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00353600.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00353700.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00362400.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00362500.mp3"
+  ],
+  "trackList": [
+   {
+    "src": "ex/pb-a-l-dialogue-1/t001-Q00116500.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00116500.mp3",
+    "label": "Soal 1 (Q00116500)",
+    "kind": "question",
+    "q": 1
+   },
+   {
+    "src": "ex/pb-a-l-dialogue-1/t002-Q00116900.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00116900.mp3",
+    "label": "Soal 2 (Q00116900)",
+    "kind": "question",
+    "q": 2
+   },
+   {
+    "src": "ex/pb-a-l-dialogue-1/t003-Q00120900.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00120900.mp3",
+    "label": "Soal 3 (Q00120900)",
+    "kind": "question",
+    "q": 3
+   },
+   {
+    "src": "ex/pb-a-l-dialogue-1/t004-Q00121200.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00121200.mp3",
+    "label": "Soal 4 (Q00121200)",
+    "kind": "question",
+    "q": 4
+   },
+   {
+    "src": "ex/pb-a-l-dialogue-1/t005-Q00130800.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00130800.mp3",
+    "label": "Soal 5 (Q00130800)",
+    "kind": "question",
+    "q": 5
+   },
+   {
+    "src": "ex/pb-a-l-dialogue-1/t006-Q00141900.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00141900.mp3",
+    "label": "Soal 6 (Q00141900)",
+    "kind": "question",
+    "q": 6
+   },
+   {
+    "src": "ex/pb-a-l-dialogue-1/t007-Q00151300.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00151300.mp3",
+    "label": "Soal 7 (Q00151300)",
+    "kind": "question",
+    "q": 7
+   },
+   {
+    "src": "ex/pb-a-l-dialogue-1/t008-Q00155400.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00155400.mp3",
+    "label": "Soal 8 (Q00155400)",
+    "kind": "question",
+    "q": 8
+   },
+   {
+    "src": "ex/pb-a-l-dialogue-1/t009-Q00155500.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00155500.mp3",
+    "label": "Soal 9 (Q00155500)",
+    "kind": "question",
+    "q": 9
+   },
+   {
+    "src": "ex/pb-a-l-dialogue-1/t010-Q00157200.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00157200.mp3",
+    "label": "Soal 10 (Q00157200)",
+    "kind": "question",
+    "q": 10
+   },
+   {
+    "src": "ex/pb-a-l-dialogue-1/t011-Q00157400.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00157400.mp3",
+    "label": "Soal 11 (Q00157400)",
+    "kind": "question",
+    "q": 11
+   },
+   {
+    "src": "ex/pb-a-l-dialogue-1/t012-Q00312500.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00312500.mp3",
+    "label": "Soal 12 (Q00312500)",
+    "kind": "question",
+    "q": 12
+   },
+   {
+    "src": "ex/pb-a-l-dialogue-1/t013-Q00344400.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00344400.mp3",
+    "label": "Soal 13 (Q00344400)",
+    "kind": "question",
+    "q": 13
+   },
+   {
+    "src": "ex/pb-a-l-dialogue-1/t014-Q00353300.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00353300.mp3",
+    "label": "Soal 14 (Q00353300)",
+    "kind": "question",
+    "q": 14
+   },
+   {
+    "src": "ex/pb-a-l-dialogue-1/t015-Q00353400.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00353400.mp3",
+    "label": "Soal 15 (Q00353400)",
+    "kind": "question",
+    "q": 15
+   },
+   {
+    "src": "ex/pb-a-l-dialogue-1/t016-Q00353500.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00353500.mp3",
+    "label": "Soal 16 (Q00353500)",
+    "kind": "question",
+    "q": 16
+   },
+   {
+    "src": "ex/pb-a-l-dialogue-1/t017-Q00353600.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00353600.mp3",
+    "label": "Soal 17 (Q00353600)",
+    "kind": "question",
+    "q": 17
+   },
+   {
+    "src": "ex/pb-a-l-dialogue-1/t018-Q00353700.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00353700.mp3",
+    "label": "Soal 18 (Q00353700)",
+    "kind": "question",
+    "q": 18
+   },
+   {
+    "src": "ex/pb-a-l-dialogue-1/t019-Q00362400.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00362400.mp3",
+    "label": "Soal 19 (Q00362400)",
+    "kind": "question",
+    "q": 19
+   },
+   {
+    "src": "ex/pb-a-l-dialogue-1/t020-Q00362500.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue/A_L_Dialogue_MP3/Q00362500.mp3",
+    "label": "Soal 20 (Q00362500)",
+    "kind": "question",
+    "q": 20
+   }
+  ]
+ },
+ "optionCount": 4
+}

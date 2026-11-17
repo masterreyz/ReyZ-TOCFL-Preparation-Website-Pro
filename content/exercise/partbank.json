@@ -179,6 +179,72 @@
    }
   ]
  },
+ "a-l-dialogue": {
+  "section": "a-l-dialogue",
+  "band": "a",
+  "skill": "listening",
+  "folder": "2. TOCFL Band A Per Part/Band A Listening Dialogue",
+  "items": 137,
+  "questions": 137,
+  "sets": [
+   {
+    "test": "pb-a-l-dialogue-1",
+    "set": 1,
+    "questions": 20,
+    "items": 20,
+    "first": "Q00116500",
+    "last": "Q00362500"
+   },
+   {
+    "test": "pb-a-l-dialogue-2",
+    "set": 2,
+    "questions": 20,
+    "items": 20,
+    "first": "Q00362600",
+    "last": "Q01046600"
+   },
+   {
+    "test": "pb-a-l-dialogue-3",
+    "set": 3,
+    "questions": 20,
+    "items": 20,
+    "first": "Q01050700",
+    "last": "Q01059800"
+   },
+   {
+    "test": "pb-a-l-dialogue-4",
+    "set": 4,
+    "questions": 20,
+    "items": 20,
+    "first": "Q01115600",
+    "last": "Q01117500"
+   },
+   {
+    "test": "pb-a-l-dialogue-5",
+    "set": 5,
+    "questions": 20,
+    "items": 20,
+    "first": "Q01120000",
+    "last": "Q01121900"
+   },
+   {
+    "test": "pb-a-l-dialogue-6",
+    "set": 6,
+    "questions": 20,
+    "items": 20,
+    "first": "Q01122000",
+    "last": "Q01239300"
+   },
+   {
+    "test": "pb-a-l-dialogue-7",
+    "set": 7,
+    "questions": 17,
+    "items": 17,
+    "first": "Q01239400",
+    "last": "Q01241000"
+   }
+  ]
+ },
  "a-l-multi": {
   "section": "a-l-multi",
   "band": "a",
@@ -258,6 +324,64 @@
     "items": 6,
     "first": "Q01238400",
     "last": "Q01238900"
+   }
+  ]
+ },
+ "a-l-pic": {
+  "section": "a-l-pic",
+  "band": "a",
+  "skill": "listening",
+  "folder": "2. TOCFL Band A Per Part/Band A Listening Picture Description",
+  "items": 115,
+  "questions": 115,
+  "sets": [
+   {
+    "test": "pb-a-l-pic-1",
+    "set": 1,
+    "questions": 20,
+    "items": 20,
+    "first": "Q00006400",
+    "last": "Q00349100"
+   },
+   {
+    "test": "pb-a-l-pic-2",
+    "set": 2,
+    "questions": 20,
+    "items": 20,
+    "first": "Q00349200",
+    "last": "Q00351100"
+   },
+   {
+    "test": "pb-a-l-pic-3",
+    "set": 3,
+    "questions": 20,
+    "items": 20,
+    "first": "Q00351200",
+    "last": "Q00359700"
+   },
+   {
+    "test": "pb-a-l-pic-4",
+    "set": 4,
+    "questions": 20,
+    "items": 20,
+    "first": "Q00359800",
+    "last": "Q01042000"
+   },
+   {
+    "test": "pb-a-l-pic-5",
+    "set": 5,
+    "questions": 20,
+    "items": 20,
+    "first": "Q01042100",
+    "last": "Q01056500"
+   },
+   {
+    "test": "pb-a-l-pic-6",
+    "set": 6,
+    "questions": 15,
+    "items": 15,
+    "first": "Q01233500",
+    "last": "Q01234900"
    }
   ]
  },
@@ -625,6 +749,194 @@
    }
   ]
  },
+ "b-l-dialogue": {
+  "section": "b-l-dialogue",
+  "band": "b",
+  "skill": "listening",
+  "folder": "3. TOCFL Band B Per Part/Listening Dialogue Band B",
+  "items": 190,
+  "questions": 247,
+  "sets": [
+   {
+    "test": "pb-b-l-dialogue-1",
+    "set": 1,
+    "questions": 20,
+    "items": 20,
+    "first": "E00147800",
+    "last": "F00129100"
+   },
+   {
+    "test": "pb-b-l-dialogue-2",
+    "set": 2,
+    "questions": 20,
+    "items": 14,
+    "first": "F00129200",
+    "last": "Q00150800"
+   },
+   {
+    "test": "pb-b-l-dialogue-3",
+    "set": 3,
+    "questions": 20,
+    "items": 17,
+    "first": "Q00154800",
+    "last": "Q00275500"
+   },
+   {
+    "test": "pb-b-l-dialogue-4",
+    "set": 4,
+    "questions": 20,
+    "items": 15,
+    "first": "Q00281500",
+    "last": "Q00745100"
+   },
+   {
+    "test": "pb-b-l-dialogue-5",
+    "set": 5,
+    "questions": 18,
+    "items": 14,
+    "first": "Q00745200",
+    "last": "Q00746500"
+   },
+   {
+    "test": "pb-b-l-dialogue-6",
+    "set": 6,
+    "questions": 19,
+    "items": 15,
+    "first": "Q00746600",
+    "last": "Q00970000"
+   },
+   {
+    "test": "pb-b-l-dialogue-7",
+    "set": 7,
+    "questions": 19,
+    "items": 14,
+    "first": "Q00970100",
+    "last": "Q01007200"
+   },
+   {
+    "test": "pb-b-l-dialogue-8",
+    "set": 8,
+    "questions": 20,
+    "items": 12,
+    "first": "Q01007300",
+    "last": "Q01039300"
+   },
+   {
+    "test": "pb-b-l-dialogue-9",
+    "set": 9,
+    "questions": 19,
+    "items": 12,
+    "first": "Q01039400",
+    "last": "Q01040500"
+   },
+   {
+    "test": "pb-b-l-dialogue-10",
+    "set": 10,
+    "questions": 20,
+    "items": 16,
+    "first": "Q01040600",
+    "last": "Q01126400"
+   },
+   {
+    "test": "pb-b-l-dialogue-11",
+    "set": 11,
+    "questions": 19,
+    "items": 14,
+    "first": "Q01126500",
+    "last": "Q01127800"
+   },
+   {
+    "test": "pb-b-l-dialogue-12",
+    "set": 12,
+    "questions": 20,
+    "items": 18,
+    "first": "Q01127900",
+    "last": "Q01243900"
+   },
+   {
+    "test": "pb-b-l-dialogue-13",
+    "set": 13,
+    "questions": 13,
+    "items": 9,
+    "first": "Q01244000",
+    "last": "Q01244800"
+   }
+  ]
+ },
+ "b-l-monologue": {
+  "section": "b-l-monologue",
+  "band": "b",
+  "skill": "listening",
+  "folder": "3. TOCFL Band B Per Part/Listening Paragraph Band B",
+  "items": 79,
+  "questions": 154,
+  "sets": [
+   {
+    "test": "pb-b-l-monologue-1",
+    "set": 1,
+    "questions": 20,
+    "items": 11,
+    "first": "E00150300",
+    "last": "F00130301"
+   },
+   {
+    "test": "pb-b-l-monologue-2",
+    "set": 2,
+    "questions": 19,
+    "items": 12,
+    "first": "Q00106000",
+    "last": "Q00290600"
+   },
+   {
+    "test": "pb-b-l-monologue-3",
+    "set": 3,
+    "questions": 19,
+    "items": 9,
+    "first": "Q00301700",
+    "last": "Q00747200"
+   },
+   {
+    "test": "pb-b-l-monologue-4",
+    "set": 4,
+    "questions": 20,
+    "items": 9,
+    "first": "Q00747300",
+    "last": "Q00970900"
+   },
+   {
+    "test": "pb-b-l-monologue-5",
+    "set": 5,
+    "questions": 18,
+    "items": 8,
+    "first": "Q00971000",
+    "last": "Q01008600"
+   },
+   {
+    "test": "pb-b-l-monologue-6",
+    "set": 6,
+    "questions": 20,
+    "items": 9,
+    "first": "Q01008700",
+    "last": "Q01041500"
+   },
+   {
+    "test": "pb-b-l-monologue-7",
+    "set": 7,
+    "questions": 20,
+    "items": 13,
+    "first": "Q01041600",
+    "last": "Q01245400"
+   },
+   {
+    "test": "pb-b-l-monologue-8",
+    "set": 8,
+    "questions": 18,
+    "items": 8,
+    "first": "Q01245500",
+    "last": "Q01246200"
+   }
+  ]
+ },
  "b-r-comp": {
   "section": "b-r-comp",
   "band": "b",
@@ -736,6 +1048,130 @@
     "items": 2,
     "first": "Q01172300",
     "last": "Q01172400"
+   }
+  ]
+ },
+ "c-l-dialogue": {
+  "section": "c-l-dialogue",
+  "band": "c",
+  "skill": "listening",
+  "folder": "4. TOCFL Band C Per Part/Listening Dialogue Band C",
+  "items": 38,
+  "questions": 108,
+  "sets": [
+   {
+    "test": "pb-c-l-dialogue-1",
+    "set": 1,
+    "questions": 17,
+    "items": 6,
+    "first": "G00115801",
+    "last": "G00132600"
+   },
+   {
+    "test": "pb-c-l-dialogue-2",
+    "set": 2,
+    "questions": 20,
+    "items": 11,
+    "first": "G00132700",
+    "last": "Q00245900"
+   },
+   {
+    "test": "pb-c-l-dialogue-3",
+    "set": 3,
+    "questions": 20,
+    "items": 6,
+    "first": "Q00296500",
+    "last": "Q00348000"
+   },
+   {
+    "test": "pb-c-l-dialogue-4",
+    "set": 4,
+    "questions": 18,
+    "items": 6,
+    "first": "Q00348200",
+    "last": "Q00738200"
+   },
+   {
+    "test": "pb-c-l-dialogue-5",
+    "set": 5,
+    "questions": 19,
+    "items": 5,
+    "first": "Q00738300",
+    "last": "Q00961300"
+   },
+   {
+    "test": "pb-c-l-dialogue-6",
+    "set": 6,
+    "questions": 14,
+    "items": 4,
+    "first": "Q00961400",
+    "last": "Q01248500"
+   }
+  ]
+ },
+ "c-l-monologue": {
+  "section": "c-l-monologue",
+  "band": "c",
+  "skill": "listening",
+  "folder": "4. TOCFL Band C Per Part/Listening Paragraph Band C",
+  "items": 32,
+  "questions": 115,
+  "sets": [
+   {
+    "test": "pb-c-l-monologue-1",
+    "set": 1,
+    "questions": 20,
+    "items": 6,
+    "first": "G00116501",
+    "last": "G00133200"
+   },
+   {
+    "test": "pb-c-l-monologue-2",
+    "set": 2,
+    "questions": 17,
+    "items": 5,
+    "first": "G00133300",
+    "last": "Q00235500"
+   },
+   {
+    "test": "pb-c-l-monologue-3",
+    "set": 3,
+    "questions": 18,
+    "items": 6,
+    "first": "Q00235700",
+    "last": "Q00738700"
+   },
+   {
+    "test": "pb-c-l-monologue-4",
+    "set": 4,
+    "questions": 20,
+    "items": 5,
+    "first": "Q00738800",
+    "last": "Q00739200"
+   },
+   {
+    "test": "pb-c-l-monologue-5",
+    "set": 5,
+    "questions": 18,
+    "items": 4,
+    "first": "Q00961600",
+    "last": "Q00961900"
+   },
+   {
+    "test": "pb-c-l-monologue-6",
+    "set": 6,
+    "questions": 17,
+    "items": 5,
+    "first": "Q00962000",
+    "last": "Q01248800"
+   },
+   {
+    "test": "pb-c-l-monologue-7",
+    "set": 7,
+    "questions": 5,
+    "items": 1,
+    "first": "Q01248900",
+    "last": "Q01248900"
    }
   ]
  },

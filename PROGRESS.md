@@ -109,16 +109,23 @@ Built by `pipeline/build_partbank.py` from each part folder's `*_Answer.xlsx` + 
 | n-r1 | 1. TOCFL Band Novice Per Part/Part 4. Reading | 26 | 26 | 2 |
 | n-r2 | 1. TOCFL Band Novice Per Part/Part 5. Reading | 18 | 18 | 1 |
 | a-l-single | 2. TOCFL Band A Per Part/Band A Listening AnA Understanding | 131 | 131 | 7 |
+| a-l-dialogue | 2. TOCFL Band A Per Part/Band A Listening Dialogue | 137 | 137 | 7 |
 | a-l-multi | 2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension | 166 | 166 | 9 |
+| a-l-pic | 2. TOCFL Band A Per Part/Band A Listening Picture Description | 115 | 115 | 6 |
 | a-r-sentence | 2. TOCFL Band A Per Part/Reading TOCFL A  Single sentence comprehension | 112 | 112 | 6 |
 | a-r-paragraph | 2. TOCFL Band A Per Part/Reading TOCFL A Complete Paragraph | 28 | 140 | 7 |
 | a-r-gap | 2. TOCFL Band A Per Part/Reading TOCFL A Fill in the blanks | 23 | 115 | 6 |
 | a-r-pic | 2. TOCFL Band A Per Part/Reading TOCFL A Interpretation of the image | 110 | 110 | 6 |
 | a-r-comp | 2. TOCFL Band A Per Part/Reading TOCFL A Reading Comprehension | 61 | 61 | 4 |
 | b-r-gap | 3. TOCFL Band B Per Part/Fill in the blanks with the correct words | 27 | 151 | 9 |
+| b-l-dialogue | 3. TOCFL Band B Per Part/Listening Dialogue Band B | 190 | 247 | 13 |
+| b-l-monologue | 3. TOCFL Band B Per Part/Listening Paragraph Band B | 79 | 154 | 8 |
 | b-r-comp | 3. TOCFL Band B Per Part/Reading comprehension | 98 | 232 | 13 |
+| c-l-dialogue | 4. TOCFL Band C Per Part/Listening Dialogue Band C | 38 | 108 | 6 |
+| c-l-monologue | 4. TOCFL Band C Per Part/Listening Paragraph Band C | 32 | 115 | 7 |
 | c-r-comp | 4. TOCFL Band C Per Part/Reading Comprehension Band C | 34 | 133 | 8 |
 | c-r-gap | 4. TOCFL Band C Per Part/Reading Fill in the blanks Band C | 17 | 95 | 6 |
+| **Total** | 22 parts | 1512 | 2436 | 136 |
 
 - Band A Reading “Interpretation of the image”: the answer key lists 162 items but only 110 item PDFs exist in the source folder (Q01163500–Q01168600 are absent); the 110 available are included, the 52 others are listed in `reports/partbank_validation.json`.
-- Still to add (files being copied): Band A Listening “Dialogue” and “Picture Description”; Band B and C Listening.
+- All 22 part folders (Novice, A, B, C; listening and reading) are built. Listening items use the official script (TTS audio; MP3s are not published). Multi-question listening items carry per-question option text parsed from the item PDF.

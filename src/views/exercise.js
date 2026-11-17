@@ -212,7 +212,8 @@ export function questionBody(test, q, { selected, onSelect, review, result } = {
   const name = `q${q.n}`;
   const optionEls = letters.map((L) => {
     const o = q.options.find((x) => x.label === L);
-    const showText = !isPicture && optsHaveText;
+    // bank items always show the original item image; their option text (when parsed) is shown too
+    const showText = optsHaveText && (!isPicture || test.kind === 'partbank');
     let cls = 'opt';
     if (review) {
       if (L === q.answer) cls += ' is-correct';

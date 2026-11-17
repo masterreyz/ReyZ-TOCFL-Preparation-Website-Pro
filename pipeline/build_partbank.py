@@ -106,6 +106,15 @@ def script_text(pdf):
             continue
         t = SPEAKER.sub(lambda m: m.group(1) + '：', t)
         t = re.sub(r'\s{2,}', ' ', t)
+        # a wrapped line (no speaker label / option letter) continues the previous turn
+        if lines and not re.match(r"^(男|女|提問|問題|說明|[（(][A-F][)）]|\d{1,2}\s*[.．、])", t) and re.match(r'^(男|女|提問|問題)', lines[-1]):
+            lines[-1] += t
+            continue
+        # a PDF line wrap inside a sentence (monologues): previous line has no sentence-final mark
+        if lines and not re.match(r'^(男|女|提問|問題|說明|[（(][A-F][)）]|\d{1,2}\s*[.．、])', t) \
+                and not re.search(r'[。！？!?：:」』）)]$', lines[-1]) and not re.match(r'^\d{1,2}\s*[.．、]', lines[-1]):
+            lines[-1] += t
+            continue
         lines.append(t)
     return "\n".join(lines).strip()
 
@@ -118,6 +127,14 @@ def item_choices(text):
         r["text"] = r["text"].replace('（', '(').replace('）', ')')
     opts = parse_options(rows)
     return {o["label"]: o["text"] for o in opts if o["text"]}
+
+
+def sub_choices(text, n):
+    """Per-question choices for an item with n questions, when the printed text splits into
+    exactly n numbered blocks that each carry a full A-D option set; otherwise []."""
+    blocks = re.split(r'(?m)^\s*\d{1,2}\s*[.．、]\s*$', text)
+    out = [c for c in (item_choices(b) for b in blocks) if c]  # drop intro text without options
+    return out if len(out) == n and all(len(c) >= 3 for c in out) else []
 
 
 def build(src, out, per_set=20):
@@ -166,7 +183,8 @@ def build(src, out, per_set=20):
                     continue
                 txt = pdf_text(pdf)
                 choices = item_choices(txt) if len(answers) <= 1 else {}
-                n_opts = max([default_n, len(choices)] + ["ABCDEF".index(a) + 1 for a in answers])
+                per_sub = sub_choices(txt, len(answers)) if len(answers) > 1 else []
+                n_opts = max([default_n, len(choices)] + [len(c) for c in per_sub] + ["ABCDEF".index(a) + 1 for a in answers])
                 transcript = script_text(scripts[item]) if item in scripts else ""
                 if skill == "listening" and not transcript:
                     issues.append(dict(part=part.name, item=item, kind="listening_script_missing"))
@@ -174,7 +192,7 @@ def build(src, out, per_set=20):
                 for j, ans in enumerate(answers or [None]):
                     q = dict(item=item, sub=j + 1, subCount=max(1, len(answers)), answer=ans, gradable=ans is not None,
                              stem="", context="", part=0, showCrop=True,
-                             options=[dict(label=L, text=choices.get(L, "")) for L in "ABCDEF"[:n_opts]])
+                             options=[dict(label=L, text=(per_sub[j] if per_sub else choices).get(L, "")) for L in "ABCDEF"[:n_opts]])
                     if j == 0:
                         q["_img"] = img
                         if transcript:
