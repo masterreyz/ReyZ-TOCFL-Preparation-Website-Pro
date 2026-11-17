@@ -1,0 +1,835 @@
+{
+ "id": "pb-a-l-multi-1",
+ "band": "a",
+ "skill": "listening",
+ "series": "Set 1",
+ "title": "Bank Soal A · Band A Listening Dialogue Comprehension · Set 1",
+ "kind": "partbank",
+ "section": "a-l-multi",
+ "source": {
+  "folder": "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension",
+  "booklet": "(per item)",
+  "answer": "A_L_Multiple-round Dialogue_Answer.xlsx"
+ },
+ "parts": [
+  {
+   "title": "Band A Listening Dialogue Comprehension",
+   "subtitle": "",
+   "instructions": "",
+   "instructionsEn": "",
+   "from": 1,
+   "to": 20
+  }
+ ],
+ "questions": [
+  {
+   "item": "Q00003200",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "B",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "transcript": "男：妳想吃什麼?\n女：聽說這裡的北京烤鴨很好吃。\n男：我們點一隻烤鴨，一碗酸辣湯，怎麼樣？\n女：再點一個糖醋魚吧！\n男：請問他們應該在什麼地方？",
+   "spokenOptions": false,
+   "n": 1,
+   "crop": "Q00003200.webp",
+   "audio": [
+    0
+   ]
+  },
+  {
+   "item": "Q00008100",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "transcript": "男：要不要喝點兒啤酒？\n女：不行，我等一下要開車。\n男：那，喝點兒汽水吧？\n女：我還是喝茶好了。\n男：請問這位小姐決定喝什麼？",
+   "spokenOptions": false,
+   "n": 2,
+   "crop": "Q00008100.webp",
+   "audio": [
+    1
+   ]
+  },
+  {
+   "item": "Q00008300",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "transcript": "男：這裡的天氣怎麼樣？\n女：冬天太冷，夏天太熱。\n男：那麼春天呢？\n女：常常下雨。\n男：請問這裡的春天常常怎麼樣？",
+   "spokenOptions": false,
+   "n": 3,
+   "crop": "Q00008300.webp",
+   "audio": [
+    2
+   ]
+  },
+  {
+   "item": "Q00008600",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "transcript": "男：唉唷！我的頭好痛。\n女：你怎麼常常不舒服啊！\n男：沒辦法，昨天腳痛，今天頭痛。\n女：我還是陪你去看醫生吧！\n男：請問這位先生今天怎麼了？",
+   "spokenOptions": false,
+   "n": 4,
+   "crop": "Q00008600.webp",
+   "audio": [
+    3
+   ]
+  },
+  {
+   "item": "Q00014400",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "A",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "transcript": "男：歡迎光臨!請問要點什麼?\n女：我要兩個漢堡。\n男：還要別的嗎?我們的咖啡很不錯！\n女：好的，請給我一杯熱咖啡。\n男：請問這位小姐點了什麼?",
+   "spokenOptions": false,
+   "n": 5,
+   "crop": "Q00014400.webp",
+   "audio": [
+    4
+   ]
+  },
+  {
+   "item": "Q00014500",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "B",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "transcript": "男：老闆，我可以穿穿看這件衣服嗎?\n女：可以，請到裡面試試。\n男：這件衣服太小了，還有大一點兒的嗎?\n女：對不起，大的已經賣完了。\n男：請問這位先生覺得這件衣服怎麼樣?",
+   "spokenOptions": false,
+   "n": 6,
+   "crop": "Q00014500.webp",
+   "audio": [
+    5
+   ]
+  },
+  {
+   "item": "Q00035100",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "B",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "transcript": "男：這雙鞋子多少錢？\n女：這一雙 8000 元。\n男：好貴，你們的鞋子不好看又不好穿。\n女：先生，你可以多去別家看看。\n男：請問他們在做什麼？",
+   "spokenOptions": false,
+   "n": 7,
+   "crop": "Q00035100.webp",
+   "audio": [
+    6
+   ]
+  },
+  {
+   "item": "Q00035201",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "A",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "transcript": "男：小美，今天晚上一起去烤肉，好不好？\n女：烤肉？可是明天就要考試了，我想去圖書館唸書。\n男：大明今天生日，他希望我們能幫他慶祝生日。\n女：嗯～我想你去就好了，我還是比較想去圖書館。\n男：請問小美晚上要做什麼？",
+   "spokenOptions": false,
+   "n": 8,
+   "crop": "Q00035201.webp",
+   "audio": [
+    7
+   ]
+  },
+  {
+   "item": "Q00042900",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "B",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "transcript": "男：這個星期日一起去看電影吧！\n女：好啊，早上八點怎麼樣？電影票比較便宜。\n男：太早了啦！上午十一點好不好？\n女：好啊！不過你要請客喔！\n男：請問，他們星期日要做什麼？",
+   "spokenOptions": false,
+   "n": 9,
+   "crop": "Q00042900.webp",
+   "audio": [
+    8
+   ]
+  },
+  {
+   "item": "Q00046900",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "A",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "transcript": "男：已經晚上十點了！你先去刷牙，然後上床睡覺！\n女：可是我還想看電視節目。我可以一邊刷牙一邊看嗎？\n男：不行！再不睡覺，你明天上課一定遲到。\n女：好吧！那我先去刷牙。\n男：請問這個女孩等一會兒要先做什麼？",
+   "spokenOptions": false,
+   "n": 10,
+   "crop": "Q00046900.webp",
+   "audio": [
+    9
+   ]
+  },
+  {
+   "item": "Q00054900",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "B",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "transcript": "男：前面那個人是我們的校長。\n女：哪位？講電話的那位嗎？\n男：不，他站在看報紙的先生旁邊。\n女：喔，我看到了，他手上拿著大衣。\n男：請問哪一位是校長？",
+   "spokenOptions": false,
+   "n": 11,
+   "crop": "Q00054900.webp",
+   "audio": [
+    10
+   ]
+  },
+  {
+   "item": "Q00063100",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "transcript": "男：這是你家全部的人嗎？\n女：是啊，這是爸爸、媽媽、兩個妹妹和我。\n男：妳沒有哥哥或弟弟嗎？\n女：沒有，我們家一共五個人。\n男：請問哪一張是女生家人的照片？",
+   "spokenOptions": false,
+   "n": 12,
+   "crop": "Q00063100.webp",
+   "audio": [
+    11
+   ]
+  },
+  {
+   "item": "Q00063500",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "B",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "transcript": "男：請問妳要找什麼書？\n女：我正在找介紹日本風景的旅遊書。\n男：妳看到上面號碼了嗎？如果妳要找日本的書，那在中間 2 號。\n女：謝謝。\n男：請問介紹日本風景的書放在哪裡？",
+   "spokenOptions": false,
+   "n": 13,
+   "crop": "Q00063500.webp",
+   "audio": [
+    12
+   ]
+  },
+  {
+   "item": "Q00071300",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "A",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "transcript": "男：怎麼最近都沒看到陳老師呢？\n女：聽說陳老師生病了，現在在醫院裡。\n男：我們應該去醫院看看他，我們帶水果和花去看他，好不好？\n女：陳老師很喜歡看書，我想買幾本有趣的書給他。\n男：請問這位小姐想帶什麼東西給陳老師？",
+   "spokenOptions": false,
+   "n": 14,
+   "crop": "Q00071300.webp",
+   "audio": [
+    13
+   ]
+  },
+  {
+   "item": "Q00075000",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "B",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "transcript": "男：小姐，請問一位嗎？\n女：我們一共四位，只是我先到。\n男：那請您這邊坐，這是菜單。請問您要先點菜嗎？\n女：我想等人都來了，再一起點，麻煩先給我一杯開水。\n男：請問這位小姐想要先做什麼？",
+   "spokenOptions": false,
+   "n": 15,
+   "crop": "Q00075000.webp",
+   "audio": [
+    14
+   ]
+  },
+  {
+   "item": "Q00085500",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "B",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "transcript": "男：請問這本書我可以借多久？\n女：今天是 9 月 1 日，如果你是老師可以借三個星期。\n男：我不是老師，我是學生。\n女：學生可以借兩個星期。\n男：請問學生可以借書借多久？",
+   "spokenOptions": false,
+   "n": 16,
+   "crop": "Q00085500.webp",
+   "audio": [
+    15
+   ]
+  },
+  {
+   "item": "Q00085600",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "transcript": "男：王同學，明天上籃球課，你先去借幾顆籃球吧！\n女：老師，同學們比較想去游泳，他們要我問問您。\n男：可是這個星期林老師的學生好像要練習游泳。\n老師，我剛剛問林老師了，他說我們可以在星期三和星期五上游泳課，\n女\n這兩天他們不練習。\n男：請問學生們什麼時候可以上游泳課？",
+   "spokenOptions": false,
+   "n": 17,
+   "crop": "Q00085600.webp",
+   "audio": [
+    16
+   ]
+  },
+  {
+   "item": "Q00089900",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "A",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "transcript": "男：請問，這間房間一個月多少錢？\n女：一個月五千元，有電視和冰箱。\n男：有冷氣嗎？\n女：這間沒有，七千塊的才有。\n男：請問這個房間裡面有什麼？",
+   "spokenOptions": false,
+   "n": 18,
+   "crop": "Q00089900.webp",
+   "audio": [
+    17
+   ]
+  },
+  {
+   "item": "Q00094500",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "B",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "transcript": "男：請問火車站怎麼走？\n女：你往前走三分鐘會看見一間醫院。\n男：醫院嗎？\n女：對，火車站就在醫院旁邊。\n男：請問火車站在哪裡？",
+   "spokenOptions": false,
+   "n": 19,
+   "crop": "Q00094500.webp",
+   "audio": [
+    18
+   ]
+  },
+  {
+   "item": "Q00095100",
+   "sub": 1,
+   "subCount": 1,
+   "answer": "C",
+   "gradable": true,
+   "stem": "",
+   "context": "",
+   "part": 0,
+   "showCrop": true,
+   "options": [
+    {
+     "label": "A",
+     "text": ""
+    },
+    {
+     "label": "B",
+     "text": ""
+    },
+    {
+     "label": "C",
+     "text": ""
+    }
+   ],
+   "transcript": "男：放假的時候我們去日本玩好不好？\n女：現在去日本很貴，我不要。\n男：你不會又想在家裡睡覺了吧？\n女：我要去公司，把沒做完的工作做完。\n男：請問這位小姐放假的時候想做什麼？",
+   "spokenOptions": false,
+   "n": 20,
+   "crop": "Q00095100.webp",
+   "audio": [
+    19
+   ]
+  }
+ ],
+ "audio": {
+  "dir": "",
+  "kind": "by-filename",
+  "tracks": [
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00003200.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00008100.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00008300.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00008600.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00014400.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00014500.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00035100.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00035201.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00042900.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00046900.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00054900.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00063100.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00063500.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00071300.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00075000.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00085500.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00085600.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00089900.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00094500.mp3",
+   "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00095100.mp3"
+  ],
+  "trackList": [
+   {
+    "src": "ex/pb-a-l-multi-1/t001-Q00003200.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00003200.mp3",
+    "label": "Soal 1 (Q00003200)",
+    "kind": "question",
+    "q": 1
+   },
+   {
+    "src": "ex/pb-a-l-multi-1/t002-Q00008100.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00008100.mp3",
+    "label": "Soal 2 (Q00008100)",
+    "kind": "question",
+    "q": 2
+   },
+   {
+    "src": "ex/pb-a-l-multi-1/t003-Q00008300.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00008300.mp3",
+    "label": "Soal 3 (Q00008300)",
+    "kind": "question",
+    "q": 3
+   },
+   {
+    "src": "ex/pb-a-l-multi-1/t004-Q00008600.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00008600.mp3",
+    "label": "Soal 4 (Q00008600)",
+    "kind": "question",
+    "q": 4
+   },
+   {
+    "src": "ex/pb-a-l-multi-1/t005-Q00014400.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00014400.mp3",
+    "label": "Soal 5 (Q00014400)",
+    "kind": "question",
+    "q": 5
+   },
+   {
+    "src": "ex/pb-a-l-multi-1/t006-Q00014500.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00014500.mp3",
+    "label": "Soal 6 (Q00014500)",
+    "kind": "question",
+    "q": 6
+   },
+   {
+    "src": "ex/pb-a-l-multi-1/t007-Q00035100.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00035100.mp3",
+    "label": "Soal 7 (Q00035100)",
+    "kind": "question",
+    "q": 7
+   },
+   {
+    "src": "ex/pb-a-l-multi-1/t008-Q00035201.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00035201.mp3",
+    "label": "Soal 8 (Q00035201)",
+    "kind": "question",
+    "q": 8
+   },
+   {
+    "src": "ex/pb-a-l-multi-1/t009-Q00042900.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00042900.mp3",
+    "label": "Soal 9 (Q00042900)",
+    "kind": "question",
+    "q": 9
+   },
+   {
+    "src": "ex/pb-a-l-multi-1/t010-Q00046900.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00046900.mp3",
+    "label": "Soal 10 (Q00046900)",
+    "kind": "question",
+    "q": 10
+   },
+   {
+    "src": "ex/pb-a-l-multi-1/t011-Q00054900.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00054900.mp3",
+    "label": "Soal 11 (Q00054900)",
+    "kind": "question",
+    "q": 11
+   },
+   {
+    "src": "ex/pb-a-l-multi-1/t012-Q00063100.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00063100.mp3",
+    "label": "Soal 12 (Q00063100)",
+    "kind": "question",
+    "q": 12
+   },
+   {
+    "src": "ex/pb-a-l-multi-1/t013-Q00063500.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00063500.mp3",
+    "label": "Soal 13 (Q00063500)",
+    "kind": "question",
+    "q": 13
+   },
+   {
+    "src": "ex/pb-a-l-multi-1/t014-Q00071300.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00071300.mp3",
+    "label": "Soal 14 (Q00071300)",
+    "kind": "question",
+    "q": 14
+   },
+   {
+    "src": "ex/pb-a-l-multi-1/t015-Q00075000.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00075000.mp3",
+    "label": "Soal 15 (Q00075000)",
+    "kind": "question",
+    "q": 15
+   },
+   {
+    "src": "ex/pb-a-l-multi-1/t016-Q00085500.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00085500.mp3",
+    "label": "Soal 16 (Q00085500)",
+    "kind": "question",
+    "q": 16
+   },
+   {
+    "src": "ex/pb-a-l-multi-1/t017-Q00085600.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00085600.mp3",
+    "label": "Soal 17 (Q00085600)",
+    "kind": "question",
+    "q": 17
+   },
+   {
+    "src": "ex/pb-a-l-multi-1/t018-Q00089900.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00089900.mp3",
+    "label": "Soal 18 (Q00089900)",
+    "kind": "question",
+    "q": 18
+   },
+   {
+    "src": "ex/pb-a-l-multi-1/t019-Q00094500.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00094500.mp3",
+    "label": "Soal 19 (Q00094500)",
+    "kind": "question",
+    "q": 19
+   },
+   {
+    "src": "ex/pb-a-l-multi-1/t020-Q00095100.mp3",
+    "file": "2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension/A_L_Multiple-round Dialogue_MP3/Q00095100.mp3",
+    "label": "Soal 20 (Q00095100)",
+    "kind": "question",
+    "q": 20
+   }
+  ]
+ },
+ "optionCount": 3
+}

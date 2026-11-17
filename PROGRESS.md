@@ -108,6 +108,8 @@ Built by `pipeline/build_partbank.py` from each part folder's `*_Answer.xlsx` + 
 | n-l3 | 1. TOCFL Band Novice Per Part/Part 3. Listening | 9 | 9 | 1 |
 | n-r1 | 1. TOCFL Band Novice Per Part/Part 4. Reading | 26 | 26 | 2 |
 | n-r2 | 1. TOCFL Band Novice Per Part/Part 5. Reading | 18 | 18 | 1 |
+| a-l-single | 2. TOCFL Band A Per Part/Band A Listening AnA Understanding | 131 | 131 | 7 |
+| a-l-multi | 2. TOCFL Band A Per Part/Band A Listening Dialogue Comprehension | 166 | 166 | 9 |
 | a-r-sentence | 2. TOCFL Band A Per Part/Reading TOCFL A  Single sentence comprehension | 112 | 112 | 6 |
 | a-r-paragraph | 2. TOCFL Band A Per Part/Reading TOCFL A Complete Paragraph | 28 | 140 | 7 |
 | a-r-gap | 2. TOCFL Band A Per Part/Reading TOCFL A Fill in the blanks | 23 | 115 | 6 |
@@ -119,4 +121,4 @@ Built by `pipeline/build_partbank.py` from each part folder's `*_Answer.xlsx` + 
 | c-r-gap | 4. TOCFL Band C Per Part/Reading Fill in the blanks Band C | 17 | 95 | 6 |
 
 - Band A Reading “Interpretation of the image”: the answer key lists 162 items but only 110 item PDFs exist in the source folder (Q01163500–Q01168600 are absent); the 110 available are included, the 52 others are listed in `reports/partbank_validation.json`.
-- Listening parts of Band A, B and C: pending — their item and script PDFs are still being copied from the source folder.
+- Still to add (files being copied): Band A Listening “Dialogue” and “Picture Description”; Band B and C Listening.

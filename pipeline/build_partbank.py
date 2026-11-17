@@ -107,7 +107,7 @@ def script_text(pdf):
         t = SPEAKER.sub(lambda m: m.group(1) + '：', t)
         t = re.sub(r'\s{2,}', ' ', t)
         lines.append(t)
-    return "\n".join(lines)
+    return "\n".join(lines).strip()
 
 
 def item_choices(text):
@@ -182,7 +182,7 @@ def build(src, out, per_set=20):
                         if txt.strip():
                             q["printedText"] = re.sub(r'[ \t]{2,}', ' ', txt.strip())
                     if skill == "listening" and transcript and j == 0:
-                        q["spokenOptions"] = not choices
+                        q["spokenOptions"] = not choices and bool(re.search(r'(^|\n)\s*[（(]?[A-D][)）.．、]', transcript))
                     qs.append(q)
                 built.append((item, qs))
         # sets of whole items, about per_set questions each
