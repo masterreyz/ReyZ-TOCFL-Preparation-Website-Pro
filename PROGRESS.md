@@ -36,7 +36,8 @@ Chosen 2026-11-16. Order: A1 Textbook L1→L15, A1 Workbook L1→L15, then A2, B
 | A1 Textbook L4 請問一共多少錢？ | 92–111 | ✅ complete, checked page by page (zhuyin column not copied; culture photos not copied) |
 | A1 Textbook L5 牛肉麵真好吃 | 112–129 | ✅ complete, checked page by page (zhuyin column not copied; photos of real people not copied) |
 | A1 Textbook L6 他們學校在山上 | 130–157 | ✅ complete — **original mode** (own explanations, examples, practice dialogues, exercises, culture notes; book word list + audio tracks linked) |
-| A1 Textbook L7 早上九點去KTV | 158–185 | ⏭ next (original mode) |
+| A1 Textbook L7 早上九點去KTV | 158–185 | ✅ complete — original mode (adds telling-time table, punctuation table) |
+| A1 Textbook L8 坐火車去臺南 | 186–207 | ⏭ next (original mode) |
 | all other lessons | — | page images until migrated |
 
 ### Original mode (from A1 L6 onward, chosen 2026-11-17)
@@ -46,6 +47,7 @@ The book's dialogues, exercises, explanations and illustrations are **not** copi
 - Grammar: same grammar points, explained in our own words with our own example sentences (pinyin + English), plus our own exercises.
 - Activities / culture / characters / checklist: own wording; facts checked; no book photos, charts or drawings.
 - Lesson JSON carries `"mode": "original"` (the lesson page shows a matching banner). Builder: see the commit for A1 L6.
+- Pinyin cross-check: `pip install pypinyin`; compare each zh/py pair (expected differences: 一/不 sandhi, neutral tones, heteronyms like 得 děi, 行 háng, 和 hàn).
 - Check: every Chinese sentence, tone-marked pinyin and translation re-read; pattern use matches the book's grammar point; then build/test/e2e (add lesson checks to `scripts/e2e_pages.py`).
 
 ### Procedure per lesson (transcription mode, used for A1 L1–L5)

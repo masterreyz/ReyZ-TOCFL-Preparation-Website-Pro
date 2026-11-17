@@ -100,6 +100,26 @@
   "detail": ""
  },
  {
+  "test": "L7 renders all sections",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "L7 dialogue I read-all",
+  "ok": true,
+  "detail": "怡君，妳後天有空嗎？有空。什麼事？我和朋友要去大安KTV唱歌"
+ },
+ {
+  "test": "L7 exchange speak",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "search finds L7 content",
+  "ok": true,
+  "detail": ""
+ },
+ {
   "test": "book page image loads",
   "ok": true,
   "detail": ""
