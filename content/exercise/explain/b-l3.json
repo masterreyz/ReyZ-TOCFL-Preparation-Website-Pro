@@ -1,43 +1,51 @@
 {
  "testId": "b-l3",
  "segments": 407,
- "englishComplete": false,
+ "englishComplete": true,
  "questions": {
   "1": {
    "options": {
     "A": {
      "zh": "她不參加比賽",
-     "py": "Tā bù cānjiā bǐsài"
+     "py": "Tā bù cānjiā bǐsài",
+     "en": "(A) She won't take part in the contest."
     },
     "B": {
      "zh": "她要自己唱一首歌",
-     "py": "Tā yào zìjǐ chàng yìshǒugē"
+     "py": "Tā yào zìjǐ chàng yìshǒugē",
+     "en": "(B) She wants to sing a song on her own."
     },
     "C": {
      "zh": "她還沒決定要不要參加",
-     "py": "Tā hái méi juédìng yào búyào cānjiā"
+     "py": "Tā hái méi juédìng yào búyào cānjiā",
+     "en": "(C) She hasn't decided whether to take part."
     },
     "D": {
      "zh": "她要和這位先生一起練習",
-     "py": "Tā yào hé zhèwèi xiānsheng yìqǐ liànxí"
+     "py": "Tā yào hé zhèwèi xiānsheng yìqǐ liànxí",
+     "en": "(D) She'll practice with the man."
     }
    },
    "transcript": [
     {
      "zh": "男：下個月的歌唱比賽，你能不能和我一起合唱一首歌？",
-     "py": "Nán: Xiàgèyuè de gēchàng bǐsài, nǐ néng bùnéng hé wǒ yìqǐ héchàng yìshǒugē?"
+     "py": "Nán: Xiàgèyuè de gēchàng bǐsài, nǐ néng bùnéng hé wǒ yìqǐ héchàng yìshǒugē?",
+     "en": "Man: For next month's singing contest, could you sing a duet with me?"
     },
     {
      "zh": "女：只要人多，我就緊張得說不出話，更不用說唱歌了，我還是當觀眾幫你加油",
-     "py": "Nǚ: Zhǐyào rén duō, wǒ jiù jǐnzhāng dé shuōbùchū huà, gèng búyòngshuō chànggē le, wǒ háishì dāng guānzhòng bāng nǐ jiāyóu"
+     "py": "Nǚ: Zhǐyào rén duō, wǒ jiù jǐnzhāng dé shuōbùchū huà, gèng búyòngshuō chànggē le, wǒ háishì dāng guānzhòng bāng nǐ jiāyóu",
+     "en": "Woman: Whenever there are lots of people, I get so nervous I can't speak, let alone sing. I'd better just be in the audience cheering you on"
     },
     {
      "zh": "就好。",
-     "py": "Jiù hǎo."
+     "py": "Jiù hǎo.",
+     "en": "(continuation of the line above)"
     },
     {
      "zh": "男：關於唱歌比賽，這位小姐打算怎麼做？",
-     "py": "Nán: Guānyú chànggē bǐsài, zhèwèi Xiǎojiě dǎsuàn zěnme zuò?"
+     "py": "Nán: Guānyú chànggē bǐsài, zhèwèi Xiǎojiě dǎsuàn zěnme zuò?",
+     "en": "Man: What does the woman plan to do about the singing contest?"
     }
    ]
   },
@@ -45,33 +53,40 @@
    "options": {
     "A": {
      "zh": "妹妹教過她這首歌",
-     "py": "Mèimei jiào guò tā zhè shǒugē"
+     "py": "Mèimei jiào guò tā zhè shǒugē",
+     "en": "(A) Her younger sister taught her this song."
     },
     "B": {
      "zh": "她一下子就記住這首歌",
-     "py": "Tā yíxiàzi jiù jìzhù zhè shǒugē"
+     "py": "Tā yíxiàzi jiù jìzhù zhè shǒugē",
+     "en": "(B) She memorized the song right away."
     },
     "C": {
      "zh": "這首歌她聽了好多次了",
-     "py": "Zhè shǒugē tā tīng le hǎo duōcì le"
+     "py": "Zhè shǒugē tā tīng le hǎo duōcì le",
+     "en": "(C) She has heard this song many times."
     },
     "D": {
      "zh": "妹妹唱過的歌，她都記得",
-     "py": "Mèimei chàng guò de gē, tā dōu jìde"
+     "py": "Mèimei chàng guò de gē, tā dōu jìde",
+     "en": "(D) She remembers every song her sister has sung."
     }
    },
    "transcript": [
     {
      "zh": "男：妳聽過這首歌沒有？",
-     "py": "Nán: Nǐ tīng guò zhè shǒugē méiyǒu?"
+     "py": "Nán: Nǐ tīng guò zhè shǒugē méiyǒu?",
+     "en": "Man: Have you heard this song?"
     },
     {
      "zh": "女：我妹妹天天都聽這首歌，我都會背了。",
-     "py": "Nǚ: Wǒ mèimei tiāntiān dōu tīng zhè shǒugē, wǒ dōu huì bèi le."
+     "py": "Nǚ: Wǒ mèimei tiāntiān dōu tīng zhè shǒugē, wǒ dōu huì bèi le.",
+     "en": "Woman: My younger sister listens to it every day—I know it by heart."
     },
     {
      "zh": "男：這位小姐的意思是什麼？",
-     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?"
+     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?",
+     "en": "Man: What does the woman mean?"
     }
    ]
   },
@@ -79,33 +94,40 @@
    "options": {
     "A": {
      "zh": "她老了才打算開始唸書",
-     "py": "Tā lǎo le cái dǎsuàn kāishǐ niànshū"
+     "py": "Tā lǎo le cái dǎsuàn kāishǐ niànshū",
+     "en": "(A) She only plans to start studying now that she's old."
     },
     "B": {
      "zh": "她認為人要不斷地學習",
-     "py": "Tā rènwéi rén yào búduàn dì xuéxí"
+     "py": "Tā rènwéi rén yào búduàn dì xuéxí",
+     "en": "(B) She thinks people should keep learning."
     },
     "C": {
      "zh": "她不清楚為什麼別人讚美她",
-     "py": "Tā bù qīngchǔ wèishénme biérén Zànměi tā"
+     "py": "Tā bù qīngchǔ wèishénme biérén Zànměi tā",
+     "en": "(C) She doesn't know why others praise her."
     },
     "D": {
      "zh": "她認為多唸書，可以活得久",
-     "py": "Tā rènwéi duō niànshū, kěyǐ huódé jiǔ"
+     "py": "Tā rènwéi duō niànshū, kěyǐ huódé jiǔ",
+     "en": "(D) She thinks studying more lets you live longer."
     }
    },
    "transcript": [
     {
      "zh": "男：您年紀這麼大了，還去念研究所，真了不起！",
-     "py": "Nán: Nín niánjì zhème dà le, hái qù niàn yánjiūsuǒ, zhēn liǎobùqǐ!"
+     "py": "Nán: Nín niánjì zhème dà le, hái qù niàn yánjiūsuǒ, zhēn liǎobùqǐ!",
+     "en": "Man: At your age and still going to graduate school—that's amazing!"
     },
     {
      "zh": "女：哪裡哪裡！活到老學到老嘛！",
-     "py": "Nǚ: Nǎlǐ nǎlǐ! Huódàolǎo xuédàolǎo ma!"
+     "py": "Nǚ: Nǎlǐ nǎlǐ! Huódàolǎo xuédàolǎo ma!",
+     "en": "Woman: Oh, not at all! You're never too old to learn!"
     },
     {
      "zh": "男：這位女士的意思是什麼？",
-     "py": "Nán: Zhèwèi nǚshì de yìsi shì shénme?"
+     "py": "Nán: Zhèwèi nǚshì de yìsi shì shénme?",
+     "en": "Man: What does the lady mean?"
     }
    ]
   },
@@ -113,33 +135,40 @@
    "options": {
     "A": {
      "zh": "電影七點半才開始",
-     "py": "Diànyǐng qīdiǎn bàncái kāishǐ"
+     "py": "Diànyǐng qīdiǎn bàncái kāishǐ",
+     "en": "(A) The movie doesn't start until 7:30."
     },
     "B": {
      "zh": "電影七點二十分才開始",
-     "py": "Diànyǐng qīdiǎn èrshífēn cái kāishǐ"
+     "py": "Diànyǐng qīdiǎn èrshífēn cái kāishǐ",
+     "en": "(B) The movie doesn't start until 7:20."
     },
     "C": {
      "zh": "還有二十分電影才開始",
-     "py": "Háiyǒu èrshífēn diànyǐng cái kāishǐ"
+     "py": "Háiyǒu èrshífēn diànyǐng cái kāishǐ",
+     "en": "(C) There are still twenty minutes before the movie starts."
     },
     "D": {
      "zh": "還有半小時電影才開始",
-     "py": "Háiyǒu bànxiǎoshí diànyǐng cái kāishǐ"
+     "py": "Háiyǒu bànxiǎoshí diànyǐng cái kāishǐ",
+     "en": "(D) There's still half an hour before the movie starts."
     }
    },
    "transcript": [
     {
      "zh": "男：你快一點行不行？七點的電影快開始了！",
-     "py": "Nán: Nǐ kuài yìdiǎn xíngbùxíng? Qīdiǎn de diànyǐng kuài kāishǐ le!"
+     "py": "Nán: Nǐ kuài yìdiǎn xíngbùxíng? Qīdiǎn de diànyǐng kuài kāishǐ le!",
+     "en": "Man: Can you hurry up? The seven o'clock movie is about to start!"
     },
     {
      "zh": "女：還有半個小時呢，坐計程車去，二十分鐘就到了。",
-     "py": "Nǚ: Háiyǒu bàn ge xiǎoshí ne, zuò jìchéngchē qù, èrshífēnzhōng jiù dào le."
+     "py": "Nǚ: Háiyǒu bàn ge xiǎoshí ne, zuò jìchéngchē qù, èrshífēnzhōng jiù dào le.",
+     "en": "Woman: There's still half an hour. By taxi it only takes twenty minutes to get there."
     },
     {
      "zh": "男：這位小姐的意思是什麼？",
-     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?"
+     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?",
+     "en": "Man: What does the woman mean?"
     }
    ]
   },
@@ -147,33 +176,40 @@
    "options": {
     "A": {
      "zh": "換了新的食物",
-     "py": "Huàn le xīn de shíwù"
+     "py": "Huàn le xīn de shíwù",
+     "en": "(A) It changed its food."
     },
     "B": {
      "zh": "換了新的老闆",
-     "py": "Huàn le xīn de lǎobǎn"
+     "py": "Huàn le xīn de lǎobǎn",
+     "en": "(B) It has a new owner."
     },
     "C": {
      "zh": "不再做生意了",
-     "py": "Búzài zuòshēngyì le"
+     "py": "Búzài zuòshēngyì le",
+     "en": "(C) It's no longer in business."
     },
     "D": {
      "zh": "休息七天才開門",
-     "py": "Xiūxí qītiān cái kāimén"
+     "py": "Xiūxí qītiān cái kāimén",
+     "en": "(D) It will reopen after a week's rest."
     }
    },
    "transcript": [
     {
      "zh": "男：這家餐廳怎麼一個禮拜都沒開門？",
-     "py": "Nán: Zhèjiā cāntīng zěnme yí ge Lǐbài dōu méi kāimén?"
+     "py": "Nán: Zhèjiā cāntīng zěnme yí ge Lǐbài dōu méi kāimén?",
+     "en": "Man: Why has this restaurant been closed all week?"
     },
     {
      "zh": "女：生意太差，老闆不做了。",
-     "py": "Nǚ: Shēngyì tài chà, lǎobǎn bù zuò le."
+     "py": "Nǚ: Shēngyì tài chà, lǎobǎn bù zuò le.",
+     "en": "Woman: Business was too bad—the owner quit."
     },
     {
      "zh": "男：這家餐廳怎麼了？",
-     "py": "Nán: Zhèjiā cāntīng zěnme le?"
+     "py": "Nán: Zhèjiā cāntīng zěnme le?",
+     "en": "Man: What happened to this restaurant?"
     }
    ]
   },
@@ -181,33 +217,40 @@
    "options": {
     "A": {
      "zh": "醫院",
-     "py": "Yīyuàn"
+     "py": "Yīyuàn",
+     "en": "(A) A hospital"
     },
     "B": {
      "zh": "學校",
-     "py": "Xuéxiào"
+     "py": "Xuéxiào",
+     "en": "(B) A school"
     },
     "C": {
      "zh": "餐廳",
-     "py": "Cāntīng"
+     "py": "Cāntīng",
+     "en": "(C) A restaurant"
     },
     "D": {
      "zh": "計程車上",
-     "py": "Jìchéngchē shàng"
+     "py": "Jìchéngchē shàng",
+     "en": "(D) In a taxi"
     }
    },
    "transcript": [
     {
      "zh": "男：小姐，請妳把嘴巴再張大一點，是這顆牙齒痛嗎？",
-     "py": "Nán: Xiǎojiě, qǐng nǐ bǎ zuǐbā zài Zhāngdà yìdiǎn, shì zhè kē yáchǐtòng ma?"
+     "py": "Nán: Xiǎojiě, qǐng nǐ bǎ zuǐbā zài Zhāngdà yìdiǎn, shì zhè kē yáchǐtòng ma?",
+     "en": "Man: Miss, please open your mouth a little wider. Is it this tooth that hurts?"
     },
     {
      "zh": "女：不是，要再往右邊一點，啊！就是這裡，疼得我什麼都不能吃。",
-     "py": "Nǚ: Búshì, yào zài wǎngyòubiān yìdiǎn, a! Jiùshì zhèlǐ, téng dé wǒ shénme dōu bùnéng chī."
+     "py": "Nǚ: Búshì, yào zài wǎngyòubiān yìdiǎn, a! Jiùshì zhèlǐ, téng dé wǒ shénme dōu bùnéng chī.",
+     "en": "Woman: No, a bit further to the right—ah! That's the one. It hurts so much I can't eat anything."
     },
     {
      "zh": "男：這段話最可能發生在什麼地方？",
-     "py": "Nán: Zhèduànhuà zuì kěnéng fāshēng zài shénme dìfāng?"
+     "py": "Nán: Zhèduànhuà zuì kěnéng fāshēng zài shénme dìfāng?",
+     "en": "Man: Where is this conversation most likely taking place?"
     }
    ]
   },
@@ -215,33 +258,40 @@
    "options": {
     "A": {
      "zh": "少了一塊錢",
-     "py": "Shǎo le yíkuàiqián"
+     "py": "Shǎo le yíkuàiqián",
+     "en": "(A) One dollar short"
     },
     "B": {
      "zh": "少了不少錢",
-     "py": "Shǎo le bùshǎo qián"
+     "py": "Shǎo le bùshǎo qián",
+     "en": "(B) Quite a lot short"
     },
     "C": {
      "zh": "多了一塊錢",
-     "py": "Duō le yíkuàiqián"
+     "py": "Duō le yíkuàiqián",
+     "en": "(C) One dollar extra"
     },
     "D": {
      "zh": "錢不多也不少",
-     "py": "Qián bù duō yě bùshǎo"
+     "py": "Qián bù duō yě bùshǎo",
+     "en": "(D) Exactly right, neither more nor less"
     }
    },
    "transcript": [
     {
      "zh": "男：這些錢請妳數一數，看看對不對？",
-     "py": "Nán: Zhèxiē qián qǐng nǐ shùyíshù, kànkàn duì búduì?"
+     "py": "Nán: Zhèxiē qián qǐng nǐ shùyíshù, kànkàn duì búduì?",
+     "en": "Man: Please count this money and see if it's right."
     },
     {
      "zh": "女：我數好了，一塊錢也沒少。",
-     "py": "Nǚ: Wǒ shù hǎo le, yíkuàiqián yě méishǎo."
+     "py": "Nǚ: Wǒ shù hǎo le, yíkuàiqián yě méishǎo.",
+     "en": "Woman: I've counted it—not a single dollar is missing."
     },
     {
      "zh": "男：這些錢怎麼樣？",
-     "py": "Nán: Zhèxiē qián zěnmeyàng?"
+     "py": "Nán: Zhèxiē qián zěnmeyàng?",
+     "en": "Man: What about the money?"
     }
    ]
   },
@@ -249,41 +299,50 @@
    "options": {
     "A": {
      "zh": "感冒症狀比想像中嚴重",
-     "py": "Gǎnmào zhèngzhuàng bǐ xiǎngxiàngzhōng yánzhòng"
+     "py": "Gǎnmào zhèngzhuàng bǐ xiǎngxiàngzhōng yánzhòng",
+     "en": "(A) His cold is more serious than he thought."
     },
     "B": {
      "zh": "光喝開水對身體沒幫助",
-     "py": "Guānghē kāishuǐ duì shēntǐ méi bāngzhù"
+     "py": "Guānghē kāishuǐ duì shēntǐ méi bāngzhù",
+     "en": "(B) Just drinking water doesn't help the body."
     },
     "C": {
      "zh": "不吃藥可能會要他的命",
-     "py": "Bù chīyào kěnéng huì yào tā de mìng"
+     "py": "Bù chīyào kěnéng huì yào tā de mìng",
+     "en": "(C) Not taking medicine could kill him."
     },
     "D": {
      "zh": "飲食習慣本來就有問題",
-     "py": "Yǐnshíxíguàn běnlái jiù yǒu wèntí"
+     "py": "Yǐnshíxíguàn běnlái jiù yǒu wèntí",
+     "en": "(D) His eating and drinking habits were already a problem."
     }
    },
    "transcript": [
     {
      "zh": "男：妳知道嗎？剛剛那位醫生不但沒開藥給我，還說我不是感冒，只要多喝白開",
-     "py": "Nán: Nǐ zhīdào ma? Gānggāng nàwèi yīshēng búdàn méi kāiyào gěi wǒ, hái shuō wǒ búshì gǎnmào, zhǐyào duō hēbái kāi"
+     "py": "Nán: Nǐ zhīdào ma? Gānggāng nàwèi yīshēng búdàn méi kāiyào gěi wǒ, hái shuō wǒ búshì gǎnmào, zhǐyào duō hēbái kāi",
+     "en": "Man: Guess what? That doctor not only didn't prescribe me any medicine, he said I don't have a cold and just need to drink more plain"
     },
     {
      "zh": "水就可以了。",
-     "py": "Shuǐ jiù kěyǐ le."
+     "py": "Shuǐ jiù kěyǐ le.",
+     "en": "water."
     },
     {
      "zh": "女：誰叫你平常只喝可樂、果汁之類的飲料，要你喝白開水，好像要你的命一樣。",
-     "py": "Nǚ: Shuí jiào nǐ píngcháng zhǐ hē kělè, guǒzhī zhīlèi de yǐnliào, yào nǐ hē Báikāishuǐ, hǎoxiàng yào nǐ de mìng yíyàng."
+     "py": "Nǚ: Shuí jiào nǐ píngcháng zhǐ hē kělè, guǒzhī zhīlèi de yǐnliào, yào nǐ hē Báikāishuǐ, hǎoxiàng yào nǐ de mìng yíyàng.",
+     "en": "Woman: That's what you get for only ever drinking cola, juice and that kind of thing. Asking you to drink water is like asking you to die."
     },
     {
      "zh": "現在醫生可站出來替你的身體說話囉！",
-     "py": "Xiànzài yīshēng kě zhàn chūlái tì nǐ de shēntǐ shuōhuà luō!"
+     "py": "Xiànzài yīshēng kě zhàn chūlái tì nǐ de shēntǐ shuōhuà luō!",
+     "en": "Now the doctor has spoken up for your body!"
     },
     {
      "zh": "男：這位小姐認為這位先生怎麼樣？",
-     "py": "Nán: Zhèwèi Xiǎojiě rènwéi zhèwèi xiānsheng zěnmeyàng?"
+     "py": "Nán: Zhèwèi Xiǎojiě rènwéi zhèwèi xiānsheng zěnmeyàng?",
+     "en": "Man: What does the woman think about the man?"
     }
    ]
   },
@@ -291,45 +350,55 @@
    "options": {
     "A": {
      "zh": "客人太多讓服務的水準降低",
-     "py": "Kèrén tài duō ràng fúwù de shuǐzhǔn jiàngdī"
+     "py": "Kèrén tài duō ràng fúwù de shuǐzhǔn jiàngdī",
+     "en": "(A) Too many customers have lowered the standard of service."
     },
     "B": {
      "zh": "餐廳食物的味道沒以前的好",
-     "py": "Cāntīng shíwù de wèidào méi yǐqián de hǎo"
+     "py": "Cāntīng shíwù de wèidào méi yǐqián de hǎo",
+     "en": "(B) The restaurant's food doesn't taste as good as before."
     },
     "C": {
      "zh": "不應該接受電視節目的訪問",
-     "py": "Bù yīnggāi jiēshòu diànshìjiémù de fǎngwèn"
+     "py": "Bù yīnggāi jiēshòu diànshìjiémù de fǎngwèn",
+     "en": "(C) It shouldn't have accepted a TV interview."
     },
     "D": {
      "zh": "服務生得罪很多常來的客人",
-     "py": "Fúwùshēng dézuì hěnduō chánglái de kèrén"
+     "py": "Fúwùshēng dézuì hěnduō chánglái de kèrén",
+     "en": "(D) The waiters have offended many regulars."
     }
    },
    "transcript": [
     {
      "zh": "男：最近服務生的反應速度也太差了。",
-     "py": "Nán: Zuìjìn fúwùshēng de fǎnyìngsùdù yě tài chà le."
+     "py": "Nán: Zuìjìn fúwùshēng de fǎnyìngsùdù yě tài chà le.",
+     "en": "Man: The waiters have been far too slow lately."
     },
     {
      "zh": "女：大概是電視節目一直宣傳的關係，客人突然增加，來不及應付吧！",
-     "py": "Nǚ: Dàgài shì diànshìjiémù yìzhí xuānchuán de guānxì, kèrén tūrán zēngjiā, láibùjí yìngfù ba!"
+     "py": "Nǚ: Dàgài shì diànshìjiémù yìzhí xuānchuán de guānxì, kèrén tūrán zēngjiā, láibùjí yìngfù ba!",
+     "en": "Woman: Probably because the TV show keeps promoting it—customers suddenly increased and they can't cope!"
     },
     {
      "zh": "男：不過菜再好吃也沒用，常常無法維持服務品質，環境又吵，連我們這種老客",
-     "py": "Nán: Búguò cài zài hǎochī yě méiyòng, chángcháng wúfǎ wéichí fúwù pǐnzhì, huánjìng yòu chǎo, Lián wǒmen zhèzhǒng lǎokè"
+     "py": "Nán: Búguò cài zài hǎochī yě méiyòng, chángcháng wúfǎ wéichí fúwù pǐnzhì, huánjìng yòu chǎo, Lián wǒmen zhèzhǒng lǎokè",
+     "en": "Man: But however good the food is, it's no use if they can't keep up the quality of service and it's noisy—even old customers"
     },
     {
      "zh": "人也不想來了。",
-     "py": "Rén yě bùxiǎng lái le."
+     "py": "Rén yě bùxiǎng lái le.",
+     "en": "like us don't want to come anymore."
     },
     {
      "zh": "女：我看，我們又得重新找約會地點了。",
-     "py": "Nǚ: Wǒ kàn, wǒmen yòu dé chóngxīn zhǎo yuēhuì dìdiǎn le."
+     "py": "Nǚ: Wǒ kàn, wǒmen yòu dé chóngxīn zhǎo yuēhuì dìdiǎn le.",
+     "en": "Woman: Looks like we'll have to find a new place for our dates."
     },
     {
      "zh": "男：這位先生和小姐現在對這家餐廳的看法是什麼？",
-     "py": "Nán: Zhèwèi xiānsheng hé Xiǎojiě xiànzài duì zhèjiā cāntīng de kànfǎ shì shénme?"
+     "py": "Nán: Zhèwèi xiānsheng hé Xiǎojiě xiànzài duì zhèjiā cāntīng de kànfǎ shì shénme?",
+     "en": "Man: What do the man and woman now think of this restaurant?"
     }
    ]
   },
@@ -337,41 +406,50 @@
    "options": {
     "A": {
      "zh": "她已經習慣週末要加班",
-     "py": "Tā yǐjīng xíguàn zhōumò yào jiābān"
+     "py": "Tā yǐjīng xíguàn zhōumò yào jiābān",
+     "en": "(A) She's used to working overtime on weekends."
     },
     "B": {
      "zh": "她覺得自己的工作比較輕鬆",
-     "py": "Tā juéde zìjǐ de gōngzuò bǐjiào qīngsōng"
+     "py": "Tā juéde zìjǐ de gōngzuò bǐjiào qīngsōng",
+     "en": "(B) She thinks her own job is easier."
     },
     "C": {
      "zh": "她經常利用週末和客戶吃飯",
-     "py": "Tā jīngcháng lìyòng zhōumò hé kèhù chīfàn"
+     "py": "Tā jīngcháng lìyòng zhōumò hé kèhù chīfàn",
+     "en": "(C) She often has dinner with clients on weekends."
     },
     "D": {
      "zh": "她不相信這位先生週末要加班",
-     "py": "Tā bù xiāngxìn zhèwèi xiānsheng zhōumò yào jiābān"
+     "py": "Tā bù xiāngxìn zhèwèi xiānsheng zhōumò yào jiābān",
+     "en": "(D) She doesn't believe the man works overtime on weekends."
     }
    },
    "transcript": [
     {
      "zh": "男：我最近打算再試試其他工作，看看有沒有更好的。",
-     "py": "Nán: Wǒ zuìjìn dǎsuàn zài shìshì qítā gōngzuò, kànkàn yǒuméiyǒu gènghǎo de."
+     "py": "Nán: Wǒ zuìjìn dǎsuàn zài shìshì qítā gōngzuò, kànkàn yǒuméiyǒu gènghǎo de.",
+     "en": "Man: I'm planning to try some other jobs lately to see if there's something better."
     },
     {
      "zh": "女：上次不是聽你說，這工作待遇不錯，你覺得挺好的嗎？",
-     "py": "Nǚ: Shàngcì búshì tīng nǐ shuō, zhè gōngzuò dàiyù búcuò, nǐ juéde tǐng hǎo de ma?"
+     "py": "Nǚ: Shàngcì búshì tīng nǐ shuō, zhè gōngzuò dàiyù búcuò, nǐ juéde tǐng hǎo de ma?",
+     "en": "Woman: Didn't you say last time this job pays well and you thought it was quite good?"
     },
     {
      "zh": "男：可是經常為了客戶的事，到了週末還得加班，我覺得太說不過去了。",
-     "py": "Nán: Kěshì jīngcháng wèile kèhù de shì, dào le zhōumò hái dé jiābān, wǒ juéde tài shuōbúguòqù le."
+     "py": "Nán: Kěshì jīngcháng wèile kèhù de shì, dào le zhōumò hái dé jiābān, wǒ juéde tài shuōbúguòqù le.",
+     "en": "Man: But I often have to work overtime on weekends because of clients. I think that's just unreasonable."
     },
     {
      "zh": "女：喔，信不信由你，週末加班對我來說，根本是家常便飯。",
-     "py": "Nǚ: Ō, xìnbúxìn yóu nǐ, zhōumò jiābān duì wǒ láishuō, gēnběn shì jiāchángbiànfàn."
+     "py": "Nǚ: Ō, xìnbúxìn yóu nǐ, zhōumò jiābān duì wǒ láishuō, gēnběn shì jiāchángbiànfàn.",
+     "en": "Woman: Oh, believe it or not, for me working overtime on weekends is an everyday thing."
     },
     {
      "zh": "男：這位小姐的意思是什麼？",
-     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?"
+     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?",
+     "en": "Man: What does the woman mean?"
     }
    ]
   },
@@ -379,41 +457,50 @@
    "options": {
     "A": {
      "zh": "現在的皮椅都是七八十萬",
-     "py": "Xiànzài de píyǐ dōu shì qībāshíwàn"
+     "py": "Xiànzài de píyǐ dōu shì qībāshíwàn",
+     "en": "(A) Leather chairs now all cost 700,000–800,000."
     },
     "B": {
      "zh": "打折以後，買皮椅的人不少",
-     "py": "Dǎzhé yǐhòu, mǎi píyǐ de rén bùshǎo"
+     "py": "Dǎzhé yǐhòu, mǎi píyǐ de rén bùshǎo",
+     "en": "(B) After the discount, quite a few people bought leather chairs."
     },
     "C": {
      "zh": "再貴一點的皮椅就沒有人買了",
-     "py": "Zài guì yìdiǎn de píyǐ jiù méiyǒu rén mǎi le"
+     "py": "Zài guì yìdiǎn de píyǐ jiù méiyǒu rén mǎi le",
+     "en": "(C) No one would buy a leather chair any more expensive."
     },
     "D": {
      "zh": "不少人買得起七八十萬的皮椅",
-     "py": "Bùshǎo rén mǎideqǐ qībāshíwàn de píyǐ"
+     "py": "Bùshǎo rén mǎideqǐ qībāshíwàn de píyǐ",
+     "en": "(D) Quite a few people can afford leather chairs costing 700,000–800,000."
     }
    },
    "transcript": [
     {
      "zh": "男：現在景氣不好，別人會不會覺得我們產品的定價高得離譜？",
-     "py": "Nán: Xiànzài jǐngqì bùhǎo, biérén huì búhuì juéde wǒmen chǎnpǐn de dìngjià gāo dé lípǔ?"
+     "py": "Nán: Xiànzài jǐngqì bùhǎo, biérén huì búhuì juéde wǒmen chǎnpǐn de dìngjià gāo dé lípǔ?",
+     "en": "Man: The economy's bad now. Will people think our products are outrageously overpriced?"
     },
     {
      "zh": "女：這跟景氣無關，只要我們鎖定特定的族群，一樣很有市場。",
-     "py": "Nǚ: Zhè gēn jǐngqì wúguān, zhǐyào wǒmen suǒdìng tèdìng de zúqún, yíyàng hěn yǒu shìchǎng."
+     "py": "Nǚ: Zhè gēn jǐngqì wúguān, zhǐyào wǒmen suǒdìng tèdìng de zúqún, yíyàng hěn yǒu shìchǎng.",
+     "en": "Woman: That has nothing to do with the economy. As long as we target a specific group, there's still a big market."
     },
     {
      "zh": "男：你這麼有把握啊！",
-     "py": "Nán: Nǐ zhème yǒubǎwò a!"
+     "py": "Nán: Nǐ zhème yǒubǎwò a!",
+     "en": "Man: You're so sure!"
     },
     {
      "zh": "女：你沒看市面上動輒七八十萬的皮椅，買的人也不在少數。",
-     "py": "Nǚ: Nǐ méi kàn shìmiànshàng dòngzhé qībāshíwàn de píyǐ, mǎi de rén yě búzàishǎoshù."
+     "py": "Nǚ: Nǐ méi kàn shìmiànshàng dòngzhé qībāshíwàn de píyǐ, mǎi de rén yě búzàishǎoshù.",
+     "en": "Woman: Haven't you seen the leather chairs on the market that easily cost 700,000–800,000? Plenty of people buy them."
     },
     {
      "zh": "男：這位小姐的意思是什麼？",
-     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?"
+     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?",
+     "en": "Man: What does the woman mean?"
     }
    ]
   },
@@ -421,41 +508,50 @@
    "options": {
     "A": {
      "zh": "沒法跟老劉講道理",
-     "py": "Méifǎ gēn lǎo Liú jiǎngdàolǐ"
+     "py": "Méifǎ gēn lǎo Liú jiǎngdàolǐ",
+     "en": "(A) You can't reason with Lao Liu."
     },
     "B": {
      "zh": "是個沒有原則的人",
-     "py": "Shì gè méiyǒu yuánzé de rén"
+     "py": "Shì gè méiyǒu yuánzé de rén",
+     "en": "(B) He's a man without principles."
     },
     "C": {
      "zh": "堅持立場、值得尊敬",
-     "py": "Jiānchí lìchǎng, zhídezūnjìng"
+     "py": "Jiānchí lìchǎng, zhídezūnjìng",
+     "en": "(C) He sticks to his position and deserves respect."
     },
     "D": {
      "zh": "再多勸一下，他就會讓步",
-     "py": "Zàiduō quàn yíxià, tā jiù huì ràngbù"
+     "py": "Zàiduō quàn yíxià, tā jiù huì ràngbù",
+     "en": "(D) With a bit more persuading he'll give in."
     }
    },
    "transcript": [
     {
      "zh": "男：唉！客戶堅持要賠償，老劉堅持自己沒有錯，待會的協調會，場面可尷尬了。",
-     "py": "Nán: Āi! Kèhù jiānchí yào péicháng, Lǎoliú jiānchí zìjǐ méiyǒu cuò, dàihuì de xiétiáohuì, chǎngmiàn kě gāngà le."
+     "py": "Nán: Āi! Kèhù jiānchí yào péicháng, Lǎoliú jiānchí zìjǐ méiyǒu cuò, dàihuì de xiétiáohuì, chǎngmiàn kě gāngà le.",
+     "en": "Man: Sigh! The client insists on compensation, Lao Liu insists he did nothing wrong—the mediation meeting later is going to be awkward."
     },
     {
      "zh": "女：你怎麼不勸勸他呢？",
-     "py": "Nǚ: Nǐ zěnme bù quànquàn tā ne?"
+     "py": "Nǚ: Nǐ zěnme bù quànquàn tā ne?",
+     "en": "Woman: Why don't you try to persuade him?"
     },
     {
      "zh": "男：我當然說啦！退一步海闊天空嘛！不過他聽不進去。",
-     "py": "Nán: Wǒ dāngrán shuō la! Tuìyíbù hǎikuòtiānkōng ma! Búguò tā tīngbújìnqù."
+     "py": "Nán: Wǒ dāngrán shuō la! Tuìyíbù hǎikuòtiānkōng ma! Búguò tā tīngbújìnqù.",
+     "en": "Man: Of course I did! Take a step back and the sky opens up! But he won't listen."
     },
     {
      "zh": "女：都到這個節骨眼了他還堅持己見，真是不可理喻。",
-     "py": "Nǚ: Dōu dào zhè ge jiēgǔyǎn le tā hái jiānchíjǐjiàn, zhēnshì bùkělǐyù."
+     "py": "Nǚ: Dōu dào zhè ge jiēgǔyǎn le tā hái jiānchíjǐjiàn, zhēnshì bùkělǐyù.",
+     "en": "Woman: He's still insisting on his own view at this critical point—he's really unreasonable."
     },
     {
      "zh": "男：這位太太說老劉怎麼樣？",
-     "py": "Nán: Zhèwèi tàitai shuō lǎo Liú zěnmeyàng?"
+     "py": "Nán: Zhèwèi tàitai shuō lǎo Liú zěnmeyàng?",
+     "en": "Man: What does the lady say about Lao Liu?"
     }
    ]
   },
@@ -463,45 +559,55 @@
    "options": {
     "A": {
      "zh": "連決賽都沒進",
-     "py": "Lián juésài dōu méijìn"
+     "py": "Lián juésài dōu méijìn",
+     "en": "(A) They didn't even reach the finals."
     },
     "B": {
      "zh": "只得到一個獎",
-     "py": "Zhǐ dédào yí ge jiǎng"
+     "py": "Zhǐ dédào yí ge jiǎng",
+     "en": "(B) They won only one prize."
     },
     "C": {
      "zh": "一個獎都沒得到",
-     "py": "Yí ge jiǎng dōu méi dédào"
+     "py": "Yí ge jiǎng dōu méi dédào",
+     "en": "(C) They didn't win a single prize."
     },
     "D": {
      "zh": "只有一項沒得獎",
-     "py": "Zhǐyǒu yíxiàng méi déjiǎng"
+     "py": "Zhǐyǒu yíxiàng méi déjiǎng",
+     "en": "(D) They failed to win in only one event."
     }
    },
    "transcript": [
     {
      "zh": "男：怎麼啦？垂頭喪氣的？",
-     "py": "Nán: Zěnme la? Chuítóusàngqì de?"
+     "py": "Nán: Zěnme la? Chuítóusàngqì de?",
+     "en": "Man: What's wrong? Why so down?"
     },
     {
      "zh": "女：我們為了參加運動會，連續三個月都留校苦練，就是想拼出好成績。",
-     "py": "Nǚ: Wǒmen wèile cānjiā yùndònghuì, liánxù sān ge yuè dōu liúxiào kǔliàn, jiùshì xiǎng pīnchū hǎo chéngjì."
+     "py": "Nǚ: Wǒmen wèile cānjiā yùndònghuì, liánxù sān ge yuè dōu liúxiào kǔliàn, jiùshì xiǎng pīnchū hǎo chéngjì.",
+     "en": "Woman: To take part in the sports meet we stayed at school training hard for three months straight, just wanting good results."
     },
     {
      "zh": "男：勝敗乃兵家常事，能代表學校出賽就是一種榮耀，更何況你們幾乎每項運動",
-     "py": "Nán: Shèngbàinǎibīngjiāchángshì, néng dàibiǎo xuéxiào chūsài jiùshì yìzhǒng Róngyào, gènghékuàng nǐmen jīhū měi xiàng yùndòng"
+     "py": "Nán: Shèngbàinǎibīngjiāchángshì, néng dàibiǎo xuéxiào chūsài jiùshì yìzhǒng Róngyào, gènghékuàng nǐmen jīhū měi xiàng yùndòng",
+     "en": "Man: Winning and losing are part of the game. Representing the school is an honor in itself—and besides, you reached the finals in almost every"
     },
     {
      "zh": "都進入決賽呢！",
-     "py": "Dōu jìnrù juésài ne!"
+     "py": "Dōu jìnrù juésài ne!",
+     "en": "event!"
     },
     {
      "zh": "女：就是因為這樣，本來想至少可以拿下一面獎牌，誰知道會全軍覆沒呢！",
-     "py": "Nǚ: Jiùshì yīnwèi zhèyàng, běnlái xiǎng zhìshǎo kěyǐ náxià yímiàn jiǎngpái, shuí zhīdào huì quánjūnfùmò ne!"
+     "py": "Nǚ: Jiùshì yīnwèi zhèyàng, běnlái xiǎng zhìshǎo kěyǐ náxià yímiàn jiǎngpái, shuí zhīdào huì quánjūnfùmò ne!",
+     "en": "Woman: That's exactly why—we thought we could win at least one medal. Who knew we'd be wiped out completely!"
     },
     {
      "zh": "男：代表隊在這次比賽的表現怎麼樣？",
-     "py": "Nán: Dàibiǎoduì zài zhècì bǐsài de biǎoxiàn zěnmeyàng?"
+     "py": "Nán: Dàibiǎoduì zài zhècì bǐsài de biǎoxiàn zěnmeyàng?",
+     "en": "Man: How did the team do in this competition?"
     }
    ]
   },
@@ -509,41 +615,50 @@
    "options": {
     "A": {
      "zh": "老王的眼睛不好",
-     "py": "Lǎowáng de yǎnjīng bùhǎo"
+     "py": "Lǎowáng de yǎnjīng bùhǎo",
+     "en": "(A) Lao Wang has poor eyesight."
     },
     "B": {
      "zh": "老王做事很嚴謹",
-     "py": "Lǎowáng zuòshì hěn yánjǐn"
+     "py": "Lǎowáng zuòshì hěn yánjǐn",
+     "en": "(B) Lao Wang is very meticulous in his work."
     },
     "C": {
      "zh": "老王個性很馬虎",
-     "py": "Lǎowáng gèxìng hěn Mǎhǔ"
+     "py": "Lǎowáng gèxìng hěn Mǎhǔ",
+     "en": "(C) Lao Wang is very careless."
     },
     "D": {
      "zh": "老王不喜歡小趙",
-     "py": "Lǎowáng bù xǐhuān Xiǎozhào"
+     "py": "Lǎowáng bù xǐhuān Xiǎozhào",
+     "en": "(D) Lao Wang doesn't like Xiao Zhao."
     }
    },
    "transcript": [
     {
      "zh": "男：小趙這孩子，頭腦不錯，就是個性太急躁。",
-     "py": "Nán: Xiǎozhào zhè háizi, tóunǎo búcuò, jiùshì gèxìng tài jízào."
+     "py": "Nán: Xiǎozhào zhè háizi, tóunǎo búcuò, jiùshì gèxìng tài jízào.",
+     "en": "Man: That kid Xiao Zhao is bright, but he's too impatient."
     },
     {
      "zh": "女：哈哈，年輕人嘛！做事難免比較衝動。",
-     "py": "Nǚ: Hāhā, niánqīngrén ma! Zuòshì nánmiǎn bǐjiào chōngdòng."
+     "py": "Nǚ: Hāhā, niánqīngrén ma! Zuòshì nánmiǎn bǐjiào chōngdòng.",
+     "en": "Woman: Ha ha, he's young! Young people are bound to be a bit impulsive."
     },
     {
      "zh": "男：正好老王那兒有缺，我想叫他去試一試。",
-     "py": "Nán: Zhènghǎo Lǎowáng nàér yǒu quē, wǒ xiǎng jiào tā qù shìyíshì."
+     "py": "Nán: Zhènghǎo Lǎowáng nàér yǒu quē, wǒ xiǎng jiào tā qù shìyíshì.",
+     "en": "Man: There happens to be an opening with Lao Wang—I'm thinking of having him give it a try."
     },
     {
      "zh": "女：嗯，老王做事一板一眼的，小趙去替他做事，馬虎不得，正好可以磨練磨練。",
-     "py": "Nǚ: ń, Lǎowáng zuòshì yìbǎnyìyǎn de, Xiǎozhào qù tì tā zuòshì, Mǎhǔ bùdé, zhènghǎo kěyǐ móliàn móliàn."
+     "py": "Nǚ: ń, Lǎowáng zuòshì yìbǎnyìyǎn de, Xiǎozhào qù tì tā zuòshì, Mǎhǔ bùdé, zhènghǎo kěyǐ móliàn móliàn.",
+     "en": "Woman: Mm, Lao Wang does everything strictly by the book; working for him, Xiao Zhao can't be careless—it'll be good training for him."
     },
     {
      "zh": "男：為什麼小趙幫老王做事是種磨練？",
-     "py": "Nán: Wèishénme Xiǎozhàobāng Lǎowáng zuòshì shì zhǒng móliàn?"
+     "py": "Nán: Wèishénme Xiǎozhàobāng Lǎowáng zuòshì shì zhǒng móliàn?",
+     "en": "Man: Why is working for Lao Wang good training for Xiao Zhao?"
     }
    ]
   },
@@ -551,45 +666,55 @@
    "options": {
     "A": {
      "zh": "小趙拒絕了她",
-     "py": "Xiǎozhào jùjué le tā"
+     "py": "Xiǎozhào jùjué le tā",
+     "en": "(A) Xiao Zhao turned her down."
     },
     "B": {
      "zh": "小趙不值得信賴",
-     "py": "Xiǎozhào bù zhíde xìnlài"
+     "py": "Xiǎozhào bù zhíde xìnlài",
+     "en": "(B) Xiao Zhao isn't trustworthy."
     },
     "C": {
      "zh": "小趙對工作很失望",
-     "py": "Xiǎozhào duì gōngzuò hěn shīwàng"
+     "py": "Xiǎozhào duì gōngzuò hěn shīwàng",
+     "en": "(C) Xiao Zhao is disappointed with his work."
     },
     "D": {
      "zh": "她怕小趙不會答應",
-     "py": "Tā pà xiǎo Zhào búhuì dāyìng"
+     "py": "Tā pà xiǎo Zhào búhuì dāyìng",
+     "en": "(D) She's afraid Xiao Zhao won't agree."
     }
    },
    "transcript": [
     {
      "zh": "男：咦！最近你好像特別忙。",
-     "py": "Nán: Yí! Zuìjìn nǐ hǎoxiàng tèbié máng."
+     "py": "Nán: Yí! Zuìjìn nǐ hǎoxiàng tèbié máng.",
+     "en": "Man: Hey, you seem especially busy lately."
     },
     {
      "zh": "女：唉！我最得力的助手出國唸書去了，一時找不到人來幫我管理南部的公司，",
-     "py": "Nǚ: Āi! Wǒ zuì délì de zhùshǒu chūguó niànshū qù le, yìshí zhǎo búdào rén lái bāng wǒ guǎnlǐ nánbù de gōngsī,"
+     "py": "Nǚ: Āi! Wǒ zuì délì de zhùshǒu chūguó niànshū qù le, yìshí zhǎo búdào rén lái bāng wǒ guǎnlǐ nánbù de gōngsī,",
+     "en": "Woman: Sigh! My most capable assistant has gone abroad to study, and I can't find anyone right now to help me manage the company in the south,"
     },
     {
      "zh": "偏偏那兒又需要好好整頓一番。",
-     "py": "Piānpiān nàér yòu xūyào hǎohǎo zhěngdùn yìfān."
+     "py": "Piānpiān nàér yòu xūyào hǎohǎo zhěngdùn yìfān.",
+     "en": "and that's exactly where things need a thorough shake-up."
     },
     {
      "zh": "男：小趙怎麼樣，服務的時間久，學歷也不錯。",
-     "py": "Nán: Xiǎozhào zěnmeyàng, fúwù de shíjiān jiǔ, xuélì yě búcuò."
+     "py": "Nán: Xiǎozhào zěnmeyàng, fúwù de shíjiān jiǔ, xuélì yě búcuò.",
+     "en": "Man: What about Xiao Zhao? He's been there a long time and his education is good."
     },
     {
      "zh": "女：他人緣差不說，又經常敷衍了事，你想我能指望他嗎？",
-     "py": "Nǚ: Tā rényuán chàbùshuō, yòu jīngcháng fūyǎnliǎoshì, nǐ xiǎng wǒ néng zhǐwàng tā ma?"
+     "py": "Nǚ: Tā rényuán chàbùshuō, yòu jīngcháng fūyǎnliǎoshì, nǐ xiǎng wǒ néng zhǐwàng tā ma?",
+     "en": "Woman: Never mind that he's unpopular—he often does things half-heartedly. Do you think I can count on him?"
     },
     {
      "zh": "男：這位女士的意思是什麼？",
-     "py": "Nán: Zhèwèi nǚshì de yìsi shì shénme?"
+     "py": "Nán: Zhèwèi nǚshì de yìsi shì shénme?",
+     "en": "Man: What does the lady mean?"
     }
    ]
   },
@@ -597,33 +722,40 @@
    "options": {
     "A": {
      "zh": "這麼做一定行得通",
-     "py": "Zhème zuò yídìng xíngdétōng"
+     "py": "Zhème zuò yídìng xíngdétōng",
+     "en": "(A) Doing it this way will definitely work."
     },
     "B": {
      "zh": "她想買保險以免發生問題",
-     "py": "Tā xiǎng mǎi bǎoxiǎn yǐmiǎn fāshēng wèntí"
+     "py": "Tā xiǎng mǎi bǎoxiǎn yǐmiǎn fāshēng wèntí",
+     "en": "(B) She wants to buy insurance in case something goes wrong."
     },
     "C": {
      "zh": "因為已保了險，所以沒問題",
-     "py": "Yīnwèi yǐ bǎo le xiǎn, suǒyǐ méi wèntí"
+     "py": "Yīnwèi yǐ bǎo le xiǎn, suǒyǐ méi wèntí",
+     "en": "(C) Because it's insured, there's no problem."
     },
     "D": {
      "zh": "這麼做風險很高，但值得冒險嘗試",
-     "py": "Zhème zuò fēngxiǎn hěn gāo, dàn zhíde màoxiǎn chángshì"
+     "py": "Zhème zuò fēngxiǎn hěn gāo, dàn zhíde màoxiǎn chángshì",
+     "en": "(D) Doing it this way is risky, but worth trying."
     }
    },
    "transcript": [
     {
      "zh": "男：妳這樣做並不符合申請的程序，難道不怕案子被退回嗎？",
-     "py": "Nán: Nǐ zhèyàng zuò bìng bù fúhé shēnqǐng de chéngxù, nándào búpà ànzi bèi tuìhuí ma?"
+     "py": "Nán: Nǐ zhèyàng zuò bìng bù fúhé shēnqǐng de chéngxù, nándào búpà ànzi bèi tuìhuí ma?",
+     "en": "Man: What you're doing doesn't follow the application procedure. Aren't you afraid the case will be sent back?"
     },
     {
      "zh": "女：保證萬無一失，絕對沒問題，你放心吧！",
-     "py": "Nǚ: Bǎozhèng wànwúyìshī, juéduì méi wèntí, nǐ fàngxīn ba!"
+     "py": "Nǚ: Bǎozhèng wànwúyìshī, juéduì méi wèntí, nǐ fàngxīn ba!",
+     "en": "Woman: It's guaranteed to be foolproof—absolutely no problem. Don't worry!"
     },
     {
      "zh": "男：這位小姐的話是什麼意思？",
-     "py": "Nán: Zhèwèi Xiǎojiě dehuà shì shénme yìsi?"
+     "py": "Nán: Zhèwèi Xiǎojiě dehuà shì shénme yìsi?",
+     "en": "Man: What does the woman mean?"
     }
    ]
   },
@@ -631,37 +763,45 @@
    "options": {
     "A": {
      "zh": "小劉的父母要求太多",
-     "py": "Xiǎoliú de fùmǔ yāoqiú tài duō"
+     "py": "Xiǎoliú de fùmǔ yāoqiú tài duō",
+     "en": "(A) Xiao Liu's parents ask too much."
     },
     "B": {
      "zh": "小劉還沒有顯著的成就",
-     "py": "Xiǎoliú hái méiyǒu xiǎnzhù de chéngjiù"
+     "py": "Xiǎoliú hái méiyǒu xiǎnzhù de chéngjiù",
+     "en": "(B) Xiao Liu hasn't achieved anything notable yet."
     },
     "C": {
      "zh": "小劉沒滿足父母最大的期待",
-     "py": "Xiǎoliú méi mǎnzú fùmǔ zuìdà de qīdài"
+     "py": "Xiǎoliú méi mǎnzú fùmǔ zuìdà de qīdài",
+     "en": "(C) Xiao Liu hasn't met his parents' greatest expectation."
     },
     "D": {
      "zh": "小劉的父母不要求兒子有成就",
-     "py": "Xiǎoliú de fùmǔ bù yāoqiú érzi yǒu chéngjiù"
+     "py": "Xiǎoliú de fùmǔ bù yāoqiú érzi yǒu chéngjiù",
+     "en": "(D) Xiao Liu's parents don't expect their son to be successful."
     }
    },
    "transcript": [
     {
      "zh": "男：小劉費盡心思取悅父母，結果卻失敗了。",
-     "py": "Nán: Xiǎo Liú fèijìnxīnsī qǔyuè fùmǔ, jiéguǒ què shībài le."
+     "py": "Nán: Xiǎo Liú fèijìnxīnsī qǔyuè fùmǔ, jiéguǒ què shībài le.",
+     "en": "Man: Xiao Liu tried everything to please his parents, but he failed."
     },
     {
      "zh": "女：誰叫他只立業不成家呢？功成名就固然很好，但老人家更想要的是子孫滿堂",
-     "py": "Nǚ: Shuí jiào tā zhǐ lìyè bùchéng jiā ne? Gōngchéngmíngjiù gùrán hěn hǎo, dàn lǎorénjiā gèng xiǎngyào de shì Zǐsūnmǎntáng"
+     "py": "Nǚ: Shuí jiào tā zhǐ lìyè bùchéng jiā ne? Gōngchéngmíngjiù gùrán hěn hǎo, dàn lǎorénjiā gèng xiǎngyào de shì Zǐsūnmǎntáng",
+     "en": "Woman: That's what he gets for building a career without starting a family! Success and fame are fine, but what the old folks really want is a house full of grandchildren"
     },
     {
      "zh": "啊！",
-     "py": "A!"
+     "py": "A!",
+     "en": "(continuation of the line above)"
     },
     {
      "zh": "男：根據這位小姐的說法，小劉失敗的原因是什麼？",
-     "py": "Nán: Gēnjù zhèwèi Xiǎojiě de shuōfǎ, xiǎo Liú shībài de yuányīn shì shénme?"
+     "py": "Nán: Gēnjù zhèwèi Xiǎojiě de shuōfǎ, xiǎo Liú shībài de yuányīn shì shénme?",
+     "en": "Man: According to the woman, why did Xiao Liu fail?"
     }
    ]
   },
@@ -669,33 +809,40 @@
    "options": {
     "A": {
      "zh": "做這個案子得花時間",
-     "py": "Zuò zhè ge ànzi dé huā shíjiān"
+     "py": "Zuò zhè ge ànzi dé huā shíjiān",
+     "en": "(A) This project takes time."
     },
     "B": {
      "zh": "做這個案子並不容易",
-     "py": "Zuò zhè ge ànzi bìng bù róngyì"
+     "py": "Zuò zhè ge ànzi bìng bù róngyì",
+     "en": "(B) This project isn't easy."
     },
     "C": {
      "zh": "做這個案子不必認真",
-     "py": "Zuò zhè ge ànzi búbì rènzhēn"
+     "py": "Zuò zhè ge ànzi búbì rènzhēn",
+     "en": "(C) There's no need to take this project seriously."
     },
     "D": {
      "zh": "做這個案子要有能力",
-     "py": "Zuò zhè ge ànzi yào yǒu nénglì"
+     "py": "Zuò zhè ge ànzi yào yǒu nénglì",
+     "en": "(D) This project requires ability."
     }
    },
    "transcript": [
     {
      "zh": "男：老闆說這個案子得在一個星期裡完成，這怎麼可能呢？",
-     "py": "Nán: Lǎobǎn shuō zhè ge ànzi dé zài yí ge xīngqī lǐ wánchéng, zhè zěnme kěnéng ne?"
+     "py": "Nán: Lǎobǎn shuō zhè ge ànzi dé zài yí ge xīngqī lǐ wánchéng, zhè zěnme kěnéng ne?",
+     "en": "Man: The boss says this project has to be finished within a week. How is that possible?"
     },
     {
      "zh": "女：還不簡單？應付應付就行啦！我才不會為了這個案子多費功夫呢！",
-     "py": "Nǚ: Hái bù jiǎndān? Yìngfù yìngfù jiù xíng la! Wǒ cái búhuì wèile zhè ge ànzi duō Fèigōngfu ne!"
+     "py": "Nǚ: Hái bù jiǎndān? Yìngfù yìngfù jiù xíng la! Wǒ cái búhuì wèile zhè ge ànzi duō Fèigōngfu ne!",
+     "en": "Woman: What's so hard? Just go through the motions! I'm not going to put any extra effort into this project!"
     },
     {
      "zh": "男：這位小姐有什麼意見？",
-     "py": "Nán: Zhèwèi Xiǎojiě yǒu shénme yìjiàn?"
+     "py": "Nán: Zhèwèi Xiǎojiě yǒu shénme yìjiàn?",
+     "en": "Man: What is the woman's opinion?"
     }
    ]
   },
@@ -703,41 +850,50 @@
    "options": {
     "A": {
      "zh": "二樓的視野比一樓好多了",
-     "py": "Èrlóu de shìyě bǐ yìlóu hǎoduō le"
+     "py": "Èrlóu de shìyě bǐ yìlóu hǎoduō le",
+     "en": "(A) The view from the second floor is much better than from the first."
     },
     "B": {
      "zh": "她認為這位先生的建議不錯",
-     "py": "Tā rènwéi zhèwèi xiānsheng de jiànyì búcuò"
+     "py": "Tā rènwéi zhèwèi xiānsheng de jiànyì búcuò",
+     "en": "(B) She thinks the man's suggestion is good."
     },
     "C": {
      "zh": "一樓的票太貴了，她付不起",
-     "py": "Yìlóu de piào Tàiguì le, tā fùbùqǐ"
+     "py": "Yìlóu de piào Tàiguì le, tā fùbùqǐ",
+     "en": "(C) First-floor tickets are too expensive for her."
     },
     "D": {
      "zh": "沒必要考慮能不能看見表演者",
-     "py": "Méi bìyào kǎolǜ néng bùnéng kànjiàn biǎoyǎnzhě"
+     "py": "Méi bìyào kǎolǜ néng bùnéng kànjiàn biǎoyǎnzhě",
+     "en": "(D) There's no need to consider whether you can see the performer."
     }
    },
    "transcript": [
     {
      "zh": "男：吳老師鋼琴演奏會的票開始賣了，我覺得可以考慮一樓第十排中間的位置，",
-     "py": "Nán: Wú lǎoshī gāngqínyǎnzòu huì de piào kāishǐ mài le, wǒ juéde kěyǐ kǎolǜ yìlóu dìshí pái zhōngjiān de wèizhì,"
+     "py": "Nán: Wú lǎoshī gāngqínyǎnzòu huì de piào kāishǐ mài le, wǒ juéde kěyǐ kǎolǜ yìlóu dìshí pái zhōngjiān de wèizhì,",
+     "en": "Man: Tickets for Teacher Wu's piano recital are on sale. I think we could consider the middle of row ten on the first floor—"
     },
     {
      "zh": "那裡的視野還不錯，可以清楚地看見吳老師演奏。",
-     "py": "Nàlǐ de shìyě hái búcuò, kěyǐ qīngchǔ dì kànjiàn Wú lǎoshī yǎnzòu."
+     "py": "Nàlǐ de shìyě hái búcuò, kěyǐ qīngchǔ dì kànjiàn Wú lǎoshī yǎnzòu.",
+     "en": "the view there is pretty good and we can see Teacher Wu playing clearly."
     },
     {
      "zh": "女：你在二樓的後面幾排位子裡隨便挑就行。只是單純地欣賞音樂，視野的好壞",
-     "py": "Nǚ: Nǐ zài èrlóu de hòumiàn jǐpái wèizi lǐ suíbiàn tiāo jiù xíng. Zhǐshì dānchún dì xīnshǎng yīnyuè, shìyě de hǎohuài"
+     "py": "Nǚ: Nǐ zài èrlóu de hòumiàn jǐpái wèizi lǐ suíbiàn tiāo jiù xíng. Zhǐshì dānchún dì xīnshǎng yīnyuè, shìyě de hǎohuài",
+     "en": "Woman: Just pick any seats in the back rows of the second floor. We're simply enjoying the music; how good the view is"
     },
     {
      "zh": "不是重點，你就把錢省下來吧！",
-     "py": "Búshì zhòngdiǎn, nǐ jiù bǎ Qiánshěng xiàlái ba!"
+     "py": "Búshì zhòngdiǎn, nǐ jiù bǎ Qiánshěng xiàlái ba!",
+     "en": "isn't the point, so save your money!"
     },
     {
      "zh": "男：這位小姐對這次演奏會的座位有什麼看法？",
-     "py": "Nán: Zhèwèi Xiǎojiě duì zhècì yǎnzòuhuì de zuòwèi yǒu shénme kànfǎ?"
+     "py": "Nán: Zhèwèi Xiǎojiě duì zhècì yǎnzòuhuì de zuòwèi yǒu shénme kànfǎ?",
+     "en": "Man: What does the woman think about seats for this recital?"
     }
    ]
   },
@@ -745,47 +901,57 @@
    "options": {
     "A": {
      "zh": "只想維持普通朋友的關係",
-     "py": "Zhǐ xiǎng wéichí Pǔtōng péngyǒu de guānxì"
+     "py": "Zhǐ xiǎng wéichí Pǔtōng péngyǒu de guānxì",
+     "en": "(A) She only wants to stay ordinary friends."
     },
     "B": {
      "zh": "想進一步了解小王的為人",
-     "py": "Xiǎng jìnyíbù liǎojiě Xiǎowáng de wéirén"
+     "py": "Xiǎng jìnyíbù liǎojiě Xiǎowáng de wéirén",
+     "en": "(B) She wants to get to know Xiao Wang better."
     },
     "C": {
      "zh": "覺得小王是不錯的交往對象",
-     "py": "Juéde Xiǎowáng shì búcuò de jiāowǎng duìxiàng"
+     "py": "Juéde Xiǎowáng shì búcuò de jiāowǎng duìxiàng",
+     "en": "(C) She thinks Xiao Wang would be a good person to date."
     },
     "D": {
      "zh": "和小王聊天一點意思也沒有",
-     "py": "Héxiǎowáng Liáotiān yìdiǎn yìsi yě méiyǒu"
+     "py": "Héxiǎowáng Liáotiān yìdiǎn yìsi yě méiyǒu",
+     "en": "(D) Chatting with Xiao Wang is no fun at all."
     }
    },
    "intro": [
     {
      "zh": "請聽這段對話，然後回答兩個問題。",
-     "py": "Qǐng tīng zhèduàn duìhuà, ránhòu huídá liǎng ge wèntí."
+     "py": "Qǐng tīng zhèduàn duìhuà, ránhòu huídá liǎng ge wèntí.",
+     "en": "Listen to this conversation and then answer the two questions."
     },
     {
      "zh": "男：你最近怎麼老躲著小王？",
-     "py": "Nán: Nǐ zuìjìn zěnme lǎo duǒzhù xiǎowáng?"
+     "py": "Nán: Nǐ zuìjìn zěnme lǎo duǒzhù xiǎowáng?",
+     "en": "Man: Why have you been avoiding Xiao Wang lately?"
     },
     {
      "zh": "女：他一直想約我單獨跟他出去，可是…",
-     "py": "Nǚ: Tā yìzhí xiǎngyuē wǒ dāndú gēn tā chūqù, kěshì…"
+     "py": "Nǚ: Tā yìzhí xiǎngyuē wǒ dāndú gēn tā chūqù, kěshì…",
+     "en": "Woman: He keeps wanting to ask me out alone, but…"
     },
     {
      "zh": "男：怎麼了？你好像不太願意？",
-     "py": "Nán: Zěnme le? Nǐ hǎoxiàng bù tài yuànyì?"
+     "py": "Nán: Zěnme le? Nǐ hǎoxiàng bù tài yuànyì?",
+     "en": "Man: What's wrong? You don't seem very keen?"
     },
     {
      "zh": "女：小王人不錯，可是，我不想讓小王誤會我對他有意思，唉！該怎麼和他說呢？",
-     "py": "Nǚ: Xiǎowáng rén búcuò, kěshì, wǒ bùxiǎng ràng xiǎo Wáng wùhuì wǒ duì tā yǒuyìsi, āi! Gāi zěnme hé tā shuō ne?"
+     "py": "Nǚ: Xiǎowáng rén búcuò, kěshì, wǒ bùxiǎng ràng xiǎo Wáng wùhuì wǒ duì tā yǒuyìsi, āi! Gāi zěnme hé tā shuō ne?",
+     "en": "Woman: Xiao Wang is nice, but I don't want him to get the wrong idea that I'm interested in him. Sigh! How should I tell him?"
     }
    ],
    "transcript": [
     {
      "zh": "這位小姐對小王的感覺如何？",
-     "py": "Zhèwèi Xiǎojiě duì xiǎowáng de gǎnjué rúhé?"
+     "py": "Zhèwèi Xiǎojiě duì xiǎowáng de gǎnjué rúhé?",
+     "en": "How does the woman feel about Xiao Wang?"
     }
    ]
   },
@@ -793,25 +959,30 @@
    "options": {
     "A": {
      "zh": "非常厭惡",
-     "py": "Fēicháng yànwù"
+     "py": "Fēicháng yànwù",
+     "en": "(A) She hates it."
     },
     "B": {
      "zh": "充滿期待",
-     "py": "Chōngmǎn qīdài"
+     "py": "Chōngmǎn qīdài",
+     "en": "(B) She's full of anticipation."
     },
     "C": {
      "zh": "不怎麼在乎",
-     "py": "Bùzěnme zàihū"
+     "py": "Bùzěnme zàihū",
+     "en": "(C) She doesn't much care."
     },
     "D": {
      "zh": "不知怎麼處理",
-     "py": "Bùzhī zěnme chǔlǐ"
+     "py": "Bùzhī zěnme chǔlǐ",
+     "en": "(D) She doesn't know how to handle it."
     }
    },
    "transcript": [
     {
      "zh": "對小王的邀請，這位小姐覺得如何？",
-     "py": "Duì xiǎowáng de yāoqǐng, zhèwèi Xiǎojiě juéde rúhé?"
+     "py": "Duì xiǎowáng de yāoqǐng, zhèwèi Xiǎojiě juéde rúhé?",
+     "en": "How does the woman feel about Xiao Wang's invitation?"
     }
    ]
   },
@@ -819,63 +990,77 @@
    "options": {
     "A": {
      "zh": "他從來就沒捐過錢",
-     "py": "Tā cónglái jiù méi juān guò qián"
+     "py": "Tā cónglái jiù méi juān guò qián",
+     "en": "(A) He has never donated money."
     },
     "B": {
      "zh": "他不知道捐款的去向",
-     "py": "Tā bù zhīdào juānkuǎn de qùxiàng"
+     "py": "Tā bù zhīdào juānkuǎn de qùxiàng",
+     "en": "(B) He doesn't know where donations go."
     },
     "C": {
      "zh": "他自己也是水災災民",
-     "py": "Tā zìjǐ yě shì shuǐzāi zāimín"
+     "py": "Tā zìjǐ yě shì shuǐzāi zāimín",
+     "en": "(C) He is a flood victim himself."
     },
     "D": {
      "zh": "他覺得自己捐的錢不夠多",
-     "py": "Tā juéde zìjǐ juān de qián búgòu duō"
+     "py": "Tā juéde zìjǐ juān de qián búgòu duō",
+     "en": "(D) He feels he didn't donate enough."
     }
    },
    "intro": [
     {
      "zh": "請聽這段對話，然後回答下面的兩個問題。",
-     "py": "Qǐng tīng zhèduàn duìhuà, ránhòu huídá xiàmiàn de liǎng ge wèntí."
+     "py": "Qǐng tīng zhèduàn duìhuà, ránhòu huídá xiàmiàn de liǎng ge wèntí.",
+     "en": "Listen to this conversation and then answer the two questions below."
     },
     {
      "zh": "男：你們又來了，這次又有什麼事？",
-     "py": "Nán: Nǐmen yòu lái le, zhècì yòu yǒu shénme shì?"
+     "py": "Nán: Nǐmen yòu lái le, zhècì yòu yǒu shénme shì?",
+     "en": "Man: You're here again. What is it this time?"
     },
     {
      "zh": "女：趙先生，今年水災損失慘重，許多災民都無家可歸。我們發起募捐運動，請",
-     "py": "Nǚ: Zhàoxiānsheng, jīnnián shuǐzāi sǔnshīcǎnzhòng, xǔduō zāimín dōu wújiākěguī. Wǒmen fāqǐ mùjuān yùndòng, qǐng"
+     "py": "Nǚ: Zhàoxiānsheng, jīnnián shuǐzāi sǔnshīcǎnzhòng, xǔduō zāimín dōu wújiākěguī. Wǒmen fāqǐ mùjuān yùndòng, qǐng",
+     "en": "Woman: Mr. Zhao, this year's floods caused heavy losses, and many victims are homeless. We've launched a fundraising drive and"
     },
     {
      "zh": "您共襄盛舉，捐點錢救濟災民。",
-     "py": "Nín gòngxiāngshèngjǔ, juān diǎn qián jiùjìzāimín."
+     "py": "Nín gòngxiāngshèngjǔ, juān diǎn qián jiùjìzāimín.",
+     "en": "ask you to join in by donating some money to help the victims."
     },
     {
      "zh": "男：不是我沒良心，只是以前我每次捐了錢就沒下文。錢也是我辛苦賺的，難道",
-     "py": "Nán: Búshì wǒ méiliángxīn, zhǐshì yǐqián wǒ měicì juān le qián jiù méi xiàwén. Qián yě shì wǒ xīnkǔ zhuàn de, nándào"
+     "py": "Nán: Búshì wǒ méiliángxīn, zhǐshì yǐqián wǒ měicì juān le qián jiù méi xiàwén. Qián yě shì wǒ xīnkǔ zhuàn de, nándào",
+     "en": "Man: It's not that I have no conscience, but every time I donated before, I never heard what happened. I worked hard for this money—"
     },
     {
      "zh": "就這樣送給你們？",
-     "py": "Jiù zhèyàng sònggěi nǐmen?"
+     "py": "Jiù zhèyàng sònggěi nǐmen?",
+     "en": "am I just supposed to hand it over to you?"
     },
     {
      "zh": "女：喔，我們每年募得的款項，都會製作成帳冊，仔細說明捐款用途，您大可放",
-     "py": "Nǚ: Ō, wǒmen měinián mùdé de kuǎnxiàng, dōu huì zhìzuò chéng zhàngcè, zǐxì shuōmíng juānkuǎn yòngtú, nín dà kěfàng"
+     "py": "Nǚ: Ō, wǒmen měinián mùdé de kuǎnxiàng, dōu huì zhìzuò chéng zhàngcè, zǐxì shuōmíng juānkuǎn yòngtú, nín dà kěfàng",
+     "en": "Woman: Oh, every year we make a ledger of the money we raise, explaining in detail how the donations are used. You can rest"
     },
     {
      "zh": "心啊！",
-     "py": "Xīn a!"
+     "py": "Xīn a!",
+     "en": "assured!"
     },
     {
      "zh": "男：口說無憑，你不如先寄份帳冊來給我看吧！",
-     "py": "Nán: Kǒushuōwúpíng, nǐ bùrú xiānjì fèn zhàngcè lái gěi wǒ kànba!"
+     "py": "Nán: Kǒushuōwúpíng, nǐ bùrú xiānjì fèn zhàngcè lái gěi wǒ kànba!",
+     "en": "Man: Words prove nothing—why don't you first send me a copy of the ledger to look at!"
     }
    ],
    "transcript": [
     {
      "zh": "關於這位先生，哪一個是對的？",
-     "py": "Guānyú zhèwèi xiānsheng, nǎ yí ge shì duì de?"
+     "py": "Guānyú zhèwèi xiānsheng, nǎ yí ge shì duì de?",
+     "en": "Which statement about the man is correct?"
     }
    ]
   },
@@ -883,25 +1068,30 @@
    "options": {
     "A": {
      "zh": "他請對方把錢還給他",
-     "py": "Tā qǐng duìfāng bǎ qián huángěi tā"
+     "py": "Tā qǐng duìfāng bǎ qián huángěi tā",
+     "en": "(A) He asks them to give his money back."
     },
     "B": {
      "zh": "他決定幫對方一起募款",
-     "py": "Tā juédìng bāng duìfāng yìqǐ mùkuǎn"
+     "py": "Tā juédìng bāng duìfāng yìqǐ mùkuǎn",
+     "en": "(B) He decides to help them raise money."
     },
     "C": {
      "zh": "他請對方提出證明再說",
-     "py": "Tā qǐng duìfāng tíchū zhèngmíng zàishuō"
+     "py": "Tā qǐng duìfāng tíchū zhèngmíng zàishuō",
+     "en": "(C) He asks them to show proof first."
     },
     "D": {
      "zh": "他覺得對方有誠意，答應捐錢",
-     "py": "Tā juéde duìfāng yǒu chéngyì, dāyìng juānqián"
+     "py": "Tā juéde duìfāng yǒu chéngyì, dāyìng juānqián",
+     "en": "(D) He thinks they are sincere and agrees to donate."
     }
    },
    "transcript": [
     {
      "zh": "這位先生最後的態度怎麼樣？",
-     "py": "Zhèwèi xiānsheng zuìhòu de tàidù zěnmeyàng?"
+     "py": "Zhèwèi xiānsheng zuìhòu de tàidù zěnmeyàng?",
+     "en": "What is the man's attitude in the end?"
     }
    ]
   },
@@ -909,63 +1099,77 @@
    "options": {
     "A": {
      "zh": "店員打錯發票",
-     "py": "Diànyuán dǎ cuò fāpiào"
+     "py": "Diànyuán dǎ cuò fāpiào",
+     "en": "(A) The clerk printed the receipt wrong."
     },
     "B": {
      "zh": "店員算錯金額",
-     "py": "Diànyuán suàncuò jīné"
+     "py": "Diànyuán suàncuò jīné",
+     "en": "(B) The clerk calculated the amount wrong."
     },
     "C": {
      "zh": "客人拿錯商品",
-     "py": "Kèrén ná cuò shāngpǐn"
+     "py": "Kèrén ná cuò shāngpǐn",
+     "en": "(C) The customer took the wrong item."
     },
     "D": {
      "zh": "客人跑錯商店",
-     "py": "Kèrén pǎo cuò shāngdiàn"
+     "py": "Kèrén pǎo cuò shāngdiàn",
+     "en": "(D) The customer came to the wrong store."
     }
    },
    "intro": [
     {
      "zh": "下面是店員和客人在商店的對話，請聽完對話後，回答兩個問題。",
-     "py": "Xiàmiàn shì diànyuán hé kèrén zài shāngdiàn de duìhuà, qǐng tīng wán duìhuà hòu, huídá liǎng ge wèntí."
+     "py": "Xiàmiàn shì diànyuán hé kèrén zài shāngdiàn de duìhuà, qǐng tīng wán duìhuà hòu, huídá liǎng ge wèntí.",
+     "en": "The following is a conversation between a clerk and a customer in a store. After listening, answer the two questions."
     },
     {
      "zh": "男：小姐，我覺得這發票上的金額好像不太對。",
-     "py": "Nán: Xiǎojiě, wǒ juéde zhè fāpiào shàng de jīné hǎoxiàng bù tài duì."
+     "py": "Nán: Xiǎojiě, wǒ juéde zhè fāpiào shàng de jīné hǎoxiàng bù tài duì.",
+     "en": "Man: Miss, I think the amount on this receipt doesn't seem right."
     },
     {
      "zh": "女：好的，馬上為您處理。這些一共是500元，金額沒錯。",
-     "py": "Nǚ: Hǎo de, mǎshàng wèi nín chǔlǐ. Zhèxiē yígòng shì 500 yuán, jīné méicuò."
+     "py": "Nǚ: Hǎo de, mǎshàng wèi nín chǔlǐ. Zhèxiē yígòng shì 500 yuán, jīné méicuò.",
+     "en": "Woman: Sure, I'll take care of it right away. These come to 500 dollars altogether—the amount is correct."
     },
     {
      "zh": "男：是嗎？這張宣傳單上寫著這個月是打折月，從五月一號到五月三十一號，不",
-     "py": "Nán: Shì ma? Zhè zhāng Xuānchuándān shàng xiězhù zhè ge yuè shì dǎzhé yuè, cóng wǔyuè yíhào dào wǔyuè sānshíyī hào, bù"
+     "py": "Nán: Shì ma? Zhè zhāng Xuānchuándān shàng xiězhù zhè ge yuè shì dǎzhé yuè, cóng wǔyuè yíhào dào wǔyuè sānshíyī hào, bù",
+     "en": "Man: Really? This flyer says this is discount month: from May 1 to May 31, no"
     },
     {
      "zh": "管消費多少錢，只要結帳時拿出會員卡，就打九折。喏！這是我的會員卡，",
-     "py": "Guǎn xiāofèi duōshǎo qián, zhǐyào jiézhàng shí náchū huìyuánkǎ, jiù dǎ jiǔzhé. Nuò! Zhè shì wǒ de huìyuánkǎ,"
+     "py": "Guǎn xiāofèi duōshǎo qián, zhǐyào jiézhàng shí náchū huìyuánkǎ, jiù dǎ jiǔzhé. Nuò! Zhè shì wǒ de huìyuánkǎ,",
+     "en": "matter how much you spend, just show your membership card at checkout for 10% off. Here's my membership card—"
     },
     {
      "zh": "為什麼沒打折？",
-     "py": "Wèishénme méi dǎzhé?"
+     "py": "Wèishénme méi dǎzhé?",
+     "en": "why didn't I get the discount?"
     },
     {
      "zh": "女：我看看，喔！先生，這是我們另一家分店的宣傳單，上頭說了，這個活動主",
-     "py": "Nǚ: Wǒ kànkàn, ō! Xiānsheng, zhè shì wǒmen lìngyìjiā fēndiàn de Xuānchuándān, shàngtou shuō le, zhè ge huódòng zhǔ"
+     "py": "Nǚ: Wǒ kànkàn, ō! Xiānsheng, zhè shì wǒmen lìngyìjiā fēndiàn de Xuānchuándān, shàngtou shuō le, zhè ge huódòng zhǔ",
+     "en": "Woman: Let me see. Oh! Sir, this is a flyer from another of our branches. It says this promotion is"
     },
     {
      "zh": "要是為了慶祝他們開店滿一年而舉辦的特別活動，所以只有在那裡消費才能",
-     "py": "Yàoshì wèile qìngzhù tāmen kāidiàn mǎn yìnián ér jǔbàn de tèbié huódòng, suǒyǐ zhǐyǒu zài nàlǐ xiāofèi cáinéng"
+     "py": "Yàoshì wèile qìngzhù tāmen kāidiàn mǎn yìnián ér jǔbàn de tèbié huódòng, suǒyǐ zhǐyǒu zài nàlǐ xiāofèi cáinéng",
+     "en": "a special event mainly to celebrate their first anniversary, so you only get 10% off"
     },
     {
      "zh": "享有九折優惠。不好意思，我們店裡並沒有配合這個活動。",
-     "py": "Xiǎngyǒu jiǔzhé yōuhuì. Bùhǎoyìsī, wǒmen diànlǐ bìng méiyǒu pèihé zhè ge huódòng."
+     "py": "Xiǎngyǒu jiǔzhé yōuhuì. Bùhǎoyìsī, wǒmen diànlǐ bìng méiyǒu pèihé zhè ge huódòng.",
+     "en": "if you shop there. Sorry, our store isn't taking part in this promotion."
     }
    ],
    "transcript": [
     {
      "zh": "店員和客人發生了什麼事？",
-     "py": "Diànyuán hé kèrén fāshēng le shénme shì?"
+     "py": "Diànyuán hé kèrén fāshēng le shénme shì?",
+     "en": "What happened between the clerk and the customer?"
     }
    ]
   },
@@ -973,25 +1177,30 @@
    "options": {
     "A": {
      "zh": "若要享受折扣，得到指定的店家",
-     "py": "Ruò yào xiǎngshòu zhékòu, dédào zhǐdìng de diànjiā"
+     "py": "Ruò yào xiǎngshòu zhékòu, dédào zhǐdìng de diànjiā",
+     "en": "(A) To get the discount you have to go to the designated store."
     },
     "B": {
      "zh": "折扣活動從今年初到這個月月底",
-     "py": "Zhékòu huódòng cóng jīnniánchū dào zhè ge yuè yuèdǐ"
+     "py": "Zhékòu huódòng cóng jīnniánchū dào zhè ge yuè yuèdǐ",
+     "en": "(B) The discount runs from the start of this year to the end of this month."
     },
     "C": {
      "zh": "這個活動是附近商店聯合舉辦的",
-     "py": "Zhè ge huódòng shì fùjìn shāngdiàn liánhé jǔbàn de"
+     "py": "Zhè ge huódòng shì fùjìn shāngdiàn liánhé jǔbàn de",
+     "en": "(C) This promotion is jointly run by nearby stores."
     },
     "D": {
      "zh": "在這個月內消費就可以加入會員",
-     "py": "Zài zhè ge yuè nèi xiāofèi jiù kěyǐ jiārù huìyuán"
+     "py": "Zài zhè ge yuè nèi xiāofèi jiù kěyǐ jiārù huìyuán",
+     "en": "(D) Shopping within this month lets you become a member."
     }
    },
    "transcript": [
     {
      "zh": "有關宣傳單上的活動說明，下面哪一項是對的？",
-     "py": "Yǒuguān Xuānchuándān shàng de huódòng shuōmíng, xiàmiàn nǎ yíxiàng shì duì de?"
+     "py": "Yǒuguān Xuānchuándān shàng de huódòng shuōmíng, xiàmiàn nǎ yíxiàng shì duì de?",
+     "en": "About the promotion on the flyer, which of the following is correct?"
     }
    ]
   },
@@ -999,59 +1208,72 @@
    "options": {
     "A": {
      "zh": "他很排斥",
-     "py": "Tā hěn páichì"
+     "py": "Tā hěn páichì",
+     "en": "(A) He strongly rejects it."
     },
     "B": {
      "zh": "他可以接受",
-     "py": "Tā kěyǐ jiēshòu"
+     "py": "Tā kěyǐ jiēshòu",
+     "en": "(B) He can accept it."
     },
     "C": {
      "zh": "他建議再觀察",
-     "py": "Tā jiànyì zài guānchá"
+     "py": "Tā jiànyì zài guānchá",
+     "en": "(C) He suggests watching further."
     },
     "D": {
      "zh": "他不想談這個話題",
-     "py": "Tā bùxiǎng tán zhè ge huàtí"
+     "py": "Tā bùxiǎng tán zhè ge huàtí",
+     "en": "(D) He doesn't want to talk about it."
     }
    },
    "intro": [
     {
      "zh": "請聽這一段和「味精」有關的討論，然後回答兩個問題。",
-     "py": "Qǐng tīng zhè yíduàn hé “Wèijīng” yǒuguān de tǎolùn, ránhòu huídá liǎng ge wèntí."
+     "py": "Qǐng tīng zhè yíduàn hé “Wèijīng” yǒuguān de tǎolùn, ránhòu huídá liǎng ge wèntí.",
+     "en": "Listen to this discussion about MSG and then answer the two questions."
     },
     {
      "zh": "男：佳美，你看這則味精的報導。",
-     "py": "Nán: Jiāměi, nǐ kàn zhè zé wèijīng de bàodǎo."
+     "py": "Nán: Jiāměi, nǐ kàn zhè zé wèijīng de bàodǎo.",
+     "en": "Man: Jiamei, look at this report about MSG."
     },
     {
      "zh": "女：嗯！我看看，這報導並沒有具體指出為什麼味精會對人體造成傷害，我看過",
-     "py": "Nǚ: ń! Wǒ kànkàn, zhè bàodǎo bìng méiyǒu jùtǐ zhǐchū wèishénme wèijīng huì duì réntǐ zàochéng shānghài, wǒ kànguò"
+     "py": "Nǚ: ń! Wǒ kànkàn, zhè bàodǎo bìng méiyǒu jùtǐ zhǐchū wèishénme wèijīng huì duì réntǐ zàochéng shānghài, wǒ kànguò",
+     "en": "Woman: Mm! Let me see. This report doesn't say specifically why MSG harms the body. I've read"
     },
     {
      "zh": "另外一篇報告，結果完全相反。",
-     "py": "Lìngwài yìpiān bàogào, jiéguǒ wánquán xiāngfǎn."
+     "py": "Lìngwài yìpiān bàogào, jiéguǒ wánquán xiāngfǎn.",
+     "en": "another report with completely opposite results."
     },
     {
      "zh": "男：是嗎？可是有些人吃了加味精的食物後，就會不舒服。我想，我們能不碰就",
-     "py": "Nán: Shì ma? Kěshì yǒuxiē rén chī le jiā wèijīng de shíwù hòu, jiù huì bù shūfú. Wǒ xiǎng, wǒmen néng bù pèng jiù"
+     "py": "Nán: Shì ma? Kěshì yǒuxiē rén chī le jiā wèijīng de shíwù hòu, jiù huì bù shūfú. Wǒ xiǎng, wǒmen néng bù pèng jiù",
+     "en": "Man: Really? But some people feel unwell after eating food with MSG. I think we should avoid it if we"
     },
     {
      "zh": "不碰吧！",
-     "py": "Bù pèng ba!"
+     "py": "Bù pèng ba!",
+     "en": "can!"
     },
     {
      "zh": "女：每種食物都有人適應不良，何況味精究竟會對人體造成什麼影響，醫學上也",
-     "py": "Nǚ: Měizhǒng shíwù dōu yǒurén shìyìng bùliáng, hékuàng wèijīng jiūjìng huì duì réntǐ zàochéng shénme yǐngxiǎng, yīxué shàng yě"
+     "py": "Nǚ: Měizhǒng shíwù dōu yǒurén shìyìng bùliáng, hékuàng wèijīng jiūjìng huì duì réntǐ zàochéng shénme yǐngxiǎng, yīxué shàng yě",
+     "en": "Woman: There are people who react badly to every kind of food, and besides, what effect MSG actually has on the body hasn't"
     },
     {
      "zh": "還沒證實，所以，你別太擔心了。",
-     "py": "Hái méi zhèngshí, suǒyǐ, nǐ bié tài dānxīn le."
+     "py": "Hái méi zhèngshí, suǒyǐ, nǐ bié tài dānxīn le.",
+     "en": "been proven medically yet, so don't worry too much."
     }
    ],
    "transcript": [
     {
      "zh": "這位先生覺得味精怎麼樣？",
-     "py": "Zhèwèi xiānsheng juéde wèijīng zěnmeyàng?"
+     "py": "Zhèwèi xiānsheng juéde wèijīng zěnmeyàng?",
+     "en": "What does the man think of MSG?"
     }
    ]
   },
@@ -1059,25 +1281,30 @@
    "options": {
     "A": {
      "zh": "她不相信醫學研究的結果",
-     "py": "Tā bù xiāngxìn yīxué yánjiū de jiéguǒ"
+     "py": "Tā bù xiāngxìn yīxué yánjiū de jiéguǒ",
+     "en": "(A) She doesn't believe the results of medical research."
     },
     "B": {
      "zh": "她認為這則報導讓人安心",
-     "py": "Tā rènwéi zhè zé bàodǎo ràng rén ānxīn"
+     "py": "Tā rènwéi zhè zé bàodǎo ràng rén ānxīn",
+     "en": "(B) She thinks the report is reassuring."
     },
     "C": {
      "zh": "她不認同這位先生的看法",
-     "py": "Tā bù rèntóng zhèwèi xiānsheng de kànfǎ"
+     "py": "Tā bù rèntóng zhèwèi xiānsheng de kànfǎ",
+     "en": "(C) She doesn't agree with the man's view."
     },
     "D": {
      "zh": "她要這位先生再去找資料",
-     "py": "Tā yào zhèwèi xiānsheng zài qù zhǎo zīliào"
+     "py": "Tā yào zhèwèi xiānsheng zài qù zhǎo zīliào",
+     "en": "(D) She wants the man to look for more information."
     }
    },
    "transcript": [
     {
      "zh": "這位小姐的意思是什麼？",
-     "py": "Zhèwèi Xiǎojiě de yìsi shì shénme?"
+     "py": "Zhèwèi Xiǎojiě de yìsi shì shénme?",
+     "en": "What does the woman mean?"
     }
    ]
   },
@@ -1085,101 +1312,121 @@
    "passage": [
     {
      "zh": "下面是一段兄妹之間的對話，請聽完後，回答下面三個問題：",
-     "py": "Xiàmiàn shì yíduàn xiōngmèi zhījiān de duìhuà, qǐng tīng wán hòu, huídá xiàmiàn sān ge wèntí:"
+     "py": "Xiàmiàn shì yíduàn xiōngmèi zhījiān de duìhuà, qǐng tīng wán hòu, huídá xiàmiàn sān ge wèntí:",
+     "en": "The following is a conversation between a brother and sister. After listening, answer the three questions below:"
     }
    ],
    "stem": {
     "zh": "這位先生為什麼說他的太太「陰陽怪氣」？",
-    "py": "Zhèwèi xiānsheng wèishénme shuō tā de tàitai “Yīnyángguàiqì”?"
+    "py": "Zhèwèi xiānsheng wèishénme shuō tā de tàitai “Yīnyángguàiqì”?",
+    "en": "Why does the man say his wife is acting \"strangely\"?"
    },
    "options": {
     "A": {
      "zh": "因為他太太總是沉默寡言",
-     "py": "Yīnwèi tā tàitai zǒngshì chénmòguǎyán"
+     "py": "Yīnwèi tā tàitai zǒngshì chénmòguǎyán",
+     "en": "(A) Because his wife is always quiet"
     },
     "B": {
      "zh": "因為他太太只吃酸的食物",
-     "py": "Yīnwèi tā tàitai zhǐ chī suān de shíwù"
+     "py": "Yīnwèi tā tàitai zhǐ chī suān de shíwù",
+     "en": "(B) Because his wife only eats sour food"
     },
     "C": {
      "zh": "因為他太太的表現不同以往",
-     "py": "Yīnwèi tā tàitai de biǎoxiàn bùtóng yǐwǎng"
+     "py": "Yīnwèi tā tàitai de biǎoxiàn bùtóng yǐwǎng",
+     "en": "(C) Because his wife is behaving differently from usual"
     },
     "D": {
      "zh": "因為他誤會太太下廚的美意",
-     "py": "Yīnwèi tā wùhuì tàitai xiàchú de měiyì"
+     "py": "Yīnwèi tā wùhuì tàitai xiàchú de měiyì",
+     "en": "(D) Because he misunderstood his wife's kindness in cooking"
     }
    },
    "intro": [
     {
      "zh": "下面是一段兄妹之間的對話，請聽完後，回答下面三個問題：",
-     "py": "Xiàmiàn shì yíduàn xiōngmèi zhījiān de duìhuà, qǐng tīng wán hòu, huídá xiàmiàn sān ge wèntí:"
+     "py": "Xiàmiàn shì yíduàn xiōngmèi zhījiān de duìhuà, qǐng tīng wán hòu, huídá xiàmiàn sān ge wèntí:",
+     "en": "The following is a conversation between a brother and sister. After listening, answer the three questions below:"
     }
    ],
    "transcript": [
     {
      "zh": "這位先生為什麼說他的太太「陰陽怪氣」？",
-     "py": "Zhèwèi xiānsheng wèishénme shuō tā de tàitai “Yīnyángguàiqì”?"
+     "py": "Zhèwèi xiānsheng wèishénme shuō tā de tàitai “Yīnyángguàiqì”?",
+     "en": "Why does the man say his wife is acting \"strangely\"?"
     }
    ]
   },
   "29": {
    "stem": {
     "zh": "根據這位先生的說法，他昨天出捷運站以後做了什麼事？",
-    "py": "Gēnjù zhèwèi xiānsheng de shuōfǎ, tā zuótiān chū Jiéyùn zhàn yǐhòu zuò le shénme shì?"
+    "py": "Gēnjù zhèwèi xiānsheng de shuōfǎ, tā zuótiān chū Jiéyùn zhàn yǐhòu zuò le shénme shì?",
+    "en": "According to the man, what did he do after leaving the MRT station yesterday?"
    },
    "options": {
     "A": {
      "zh": "跟太太一起去吃飯",
-     "py": "Gēn tàitai yìqǐ qù chīfàn"
+     "py": "Gēn tàitai yìqǐ qù chīfàn",
+     "en": "(A) He went to eat with his wife."
     },
     "B": {
      "zh": "買了一把傘送給太太",
-     "py": "Mǎi le yìbǎ sǎn sònggěi tàitai"
+     "py": "Mǎi le yìbǎ sǎn sònggěi tàitai",
+     "en": "(B) He bought an umbrella as a gift for his wife."
     },
     "C": {
      "zh": "和女性朋友共撐一把傘",
-     "py": "Hé nǚxìngpéngyǒu gòngchēng yìbǎ sǎn"
+     "py": "Hé nǚxìngpéngyǒu gòngchēng yìbǎ sǎn",
+     "en": "(C) He shared an umbrella with a female friend."
     },
     "D": {
      "zh": "向附近的小攤販買東西",
-     "py": "Xiàng fùjìn de xiǎotānfàn mǎi Dōngxi"
+     "py": "Xiàng fùjìn de xiǎotānfàn mǎi Dōngxi",
+     "en": "(D) He bought something from a nearby street vendor."
     }
    },
    "transcript": [
     {
      "zh": "根據這位先生的說法，他昨天出捷運站以後做了什麼事？",
-     "py": "Gēnjù zhèwèi xiānsheng de shuōfǎ, tā zuótiān chū Jiéyùn zhàn yǐhòu zuò le shénme shì?"
+     "py": "Gēnjù zhèwèi xiānsheng de shuōfǎ, tā zuótiān chū Jiéyùn zhàn yǐhòu zuò le shénme shì?",
+     "en": "According to the man, what did he do after leaving the MRT station yesterday?"
     }
    ]
   },
   "30": {
    "stem": {
     "zh": "這段對話告訴我們什麼事？ 現在請聽對話。",
-    "py": "Zhè duàn duìhuà gàosù wǒmen shénme shì? Xiànzài qǐng tīng duìhuà."
+    "py": "Zhè duàn duìhuà gàosù wǒmen shénme shì? Xiànzài qǐng tīng duìhuà.",
+    "en": "What does this conversation tell us? Now listen to the conversation."
    },
    "options": {
     "A": {
      "zh": "眼見為憑未必是真的",
-     "py": "Yǎnjiàn wèi píng wèibì shì zhēnde"
+     "py": "Yǎnjiàn wèi píng wèibì shì zhēnde",
+     "en": "(A) Seeing isn't necessarily believing."
     },
     "B": {
      "zh": "張冠李戴就會出大事",
-     "py": "Zhāngguānlǐdài jiù huì chū dàshì"
+     "py": "Zhāngguānlǐdài jiù huì chū dàshì",
+     "en": "(B) Mixing people up leads to big trouble."
     },
     "C": {
      "zh": "疑神疑鬼容易得罪人",
-     "py": "Yíshényíguǐ róngyì dézuìrén"
+     "py": "Yíshényíguǐ róngyì dézuìrén",
+     "en": "(C) Being suspicious easily offends people."
     },
     "D": {
      "zh": "因小失大實在划不來",
-     "py": "Yīnxiǎoshīdà shízài huábùlái"
+     "py": "Yīnxiǎoshīdà shízài huábùlái",
+     "en": "(D) Losing a lot for a little isn't worth it."
     }
    },
    "transcript": [
     {
      "zh": "這段對話告訴我們什麼事？",
-     "py": "Zhè duàn duìhuà gàosù wǒmen shénme shì?"
+     "py": "Zhè duàn duìhuà gàosù wǒmen shénme shì?",
+     "en": "What does this conversation tell us?"
     }
    ]
   },
@@ -1187,47 +1434,57 @@
    "options": {
     "A": {
      "zh": "小青常去房東家學習做點心",
-     "py": "Xiǎoqīng cháng qù fángdōng jiā xuéxí zuò diǎnxīn"
+     "py": "Xiǎoqīng cháng qù fángdōng jiā xuéxí zuò diǎnxīn",
+     "en": "(A) Xiaoqing often goes to her landlady's to learn to make snacks."
     },
     "B": {
      "zh": "房東沒有孩子，所以很喜歡小青",
-     "py": "Fángdōng méiyǒu háizi, suǒyǐ hěn xǐhuān Xiǎoqīng"
+     "py": "Fángdōng méiyǒu háizi, suǒyǐ hěn xǐhuān Xiǎoqīng",
+     "en": "(B) The landlady has no children, so she really likes Xiaoqing."
     },
     "C": {
      "zh": "她們吃蛋糕的時候喜歡聊工作的事",
-     "py": "Tāmen chī dàngāo de shíhòu xǐhuān liáo gōngzuò de shì"
+     "py": "Tāmen chī dàngāo de shíhòu xǐhuān liáo gōngzuò de shì",
+     "en": "(C) They like to talk about work while eating cake."
     },
     "D": {
      "zh": "房東覺得小青就像自己的孩子一樣",
-     "py": "Fángdōng juéde Xiǎoqīng jiù xiàng zìjǐ de háizi yíyàng"
+     "py": "Fángdōng juéde Xiǎoqīng jiù xiàng zìjǐ de háizi yíyàng",
+     "en": "(D) The landlady feels Xiaoqing is like her own child."
     }
    },
    "intro": [
     {
      "zh": "請聽這一段話，然後回答下面的問題。",
-     "py": "Qǐng tīng zhè yíduànhuà, ránhòu huídá xiàmiàn de wèntí."
+     "py": "Qǐng tīng zhè yíduànhuà, ránhòu huídá xiàmiàn de wèntí.",
+     "en": "Listen to this talk and then answer the question below."
     },
     {
      "zh": "小青的房東很會做點心，常常請小青來家裡吃點心。小青最喜歡吃她做的蛋",
-     "py": "Xiǎoqīng de fángdōng hěn huì zuò diǎnxīn, chángcháng qǐng Xiǎoqīng lái jiālǐ chī diǎnxīn. Xiǎoqīng zuì xǐhuān chī tā zuò de dàn"
+     "py": "Xiǎoqīng de fángdōng hěn huì zuò diǎnxīn, chángcháng qǐng Xiǎoqīng lái jiālǐ chī diǎnxīn. Xiǎoqīng zuì xǐhuān chī tā zuò de dàn",
+     "en": "Xiaoqing's landlady is very good at making snacks and often invites Xiaoqing over to eat them. Xiaoqing especially loves her"
     },
     {
      "zh": "糕，又香又好吃。她們總是一邊吃蛋糕，一邊聊自己的家人。房東說她的女兒和",
-     "py": "Gāo, yòu xiāng yòu hǎochī. Tāmen zǒngshì yìbiān chī dàngāo, yìbiān liáo zìjǐ de jiārén. Fángdōng shuō tā de nǚér hé"
+     "py": "Gāo, yòu xiāng yòu hǎochī. Tāmen zǒngshì yìbiān chī dàngāo, yìbiān liáo zìjǐ de jiārén. Fángdōng shuō tā de nǚér hé",
+     "en": "cakes, which are fragrant and delicious. They always chat about their families while eating cake. The landlady says her daughter is"
     },
     {
      "zh": "小青的年紀一樣大，因為讀書的關係不在家，所以她把小青當成自己的女兒。小",
-     "py": "Xiǎoqīng de niánjì yíyàng dà, yīnwèi dúshū de guānxì bù zàijiā, suǒyǐ tā bǎ Xiǎoqīng dàngchéng zìjǐ de nǚér. Xiǎo"
+     "py": "Xiǎoqīng de niánjì yíyàng dà, yīnwèi dúshū de guānxì bù zàijiā, suǒyǐ tā bǎ Xiǎoqīng dàngchéng zìjǐ de nǚér. Xiǎo",
+     "en": "the same age as Xiaoqing and is away from home because of her studies, so she treats Xiaoqing like her own daughter."
     },
     {
      "zh": "青聽了，很高興，也很感謝。",
-     "py": "Qīng tīng le, hěn gāoxìng, yě hěn gǎnxiè."
+     "py": "Qīng tīng le, hěn gāoxìng, yě hěn gǎnxiè.",
+     "en": "Xiaoqing was very happy and grateful to hear this."
     }
    ],
    "transcript": [
     {
      "zh": "從這段話可以知道什麼？",
-     "py": "Cóng zhèduànhuà kěyǐ zhīdào shénme?"
+     "py": "Cóng zhèduànhuà kěyǐ zhīdào shénme?",
+     "en": "What can we learn from this talk?"
     }
    ]
   },
@@ -1235,43 +1492,52 @@
    "options": {
     "A": {
      "zh": "音樂有助於減輕疼痛",
-     "py": "Yīnyuè yǒuzhùyú jiǎnqīng téngtòng"
+     "py": "Yīnyuè yǒuzhùyú jiǎnqīng téngtòng",
+     "en": "(A) Music helps reduce pain."
     },
     "B": {
      "zh": "聽音樂就不用看醫生",
-     "py": "Tīng yīnyuè jiù búyòng kàn yīshēng"
+     "py": "Tīng yīnyuè jiù búyòng kàn yīshēng",
+     "en": "(B) If you listen to music you don't need to see a doctor."
     },
     "C": {
      "zh": "有病就應該去看醫生",
-     "py": "Yǒu bìng jiù yīnggāi qù kàn yīshēng"
+     "py": "Yǒu bìng jiù yīnggāi qù kàn yīshēng",
+     "en": "(C) If you're ill you should see a doctor."
     },
     "D": {
      "zh": "多聽醫生推薦的音樂",
-     "py": "Duō tīng yīshēng tuījiàn de yīnyuè"
+     "py": "Duō tīng yīshēng tuījiàn de yīnyuè",
+     "en": "(D) Listen more to music recommended by doctors."
     }
    },
    "intro": [
     {
      "zh": "請聽這一段話，然後回答下面的問題。",
-     "py": "Qǐng tīng zhè yíduànhuà, ránhòu huídá xiàmiàn de wèntí."
+     "py": "Qǐng tīng zhè yíduànhuà, ránhòu huídá xiàmiàn de wèntí.",
+     "en": "Listen to this talk and then answer the question below."
     },
     {
      "zh": "如果你感到背痛或腿部酸痛，聽聽音樂可能會有幫助。一項研究發現，經常",
-     "py": "Rúguǒ nǐ gǎndào bèitòng huò tuǐbù suāntòng, tīngtīng yīnyuè kěnéng huì yǒu bāngzhù. Yíxiàng yánjiū fāxiàn, jīngcháng"
+     "py": "Rúguǒ nǐ gǎndào bèitòng huò tuǐbù suāntòng, tīngtīng yīnyuè kěnéng huì yǒu bāngzhù. Yíxiàng yánjiū fāxiàn, jīngcháng",
+     "en": "If you have back pain or aching legs, listening to music may help. One study found that regularly"
     },
     {
      "zh": "聽音樂是有好處的，因為音樂有助於減輕疼痛，但這並不表示它可以取代醫生，",
-     "py": "Tīng yīnyuè shì yǒu hǎochù de, yīnwèi yīnyuè yǒuzhùyú jiǎnqīng téngtòng, dàn zhè bìng bù biǎoshì tā kěyǐ qǔdài yīshēng,"
+     "py": "Tīng yīnyuè shì yǒu hǎochù de, yīnwèi yīnyuè yǒuzhùyú jiǎnqīng téngtòng, dàn zhè bìng bù biǎoshì tā kěyǐ qǔdài yīshēng,",
+     "en": "listening to music is beneficial because music helps reduce pain, but that doesn't mean it can replace a doctor;"
     },
     {
      "zh": "不過聽音樂絕不會對你造成傷害。",
-     "py": "Búguò tīng yīnyuè juébúhuì duì nǐ zàochéng shānghài."
+     "py": "Búguò tīng yīnyuè juébúhuì duì nǐ zàochéng shānghài.",
+     "en": "still, listening to music will never do you any harm."
     }
    ],
    "transcript": [
     {
      "zh": "這段話的意思是什麼？",
-     "py": "Zhèduànhuà de yìsi shì shénme?"
+     "py": "Zhèduànhuà de yìsi shì shénme?",
+     "en": "What does this talk mean?"
     }
    ]
   },
@@ -1279,43 +1545,52 @@
    "options": {
     "A": {
      "zh": "在家休息",
-     "py": "Zàijiā xiūxí"
+     "py": "Zàijiā xiūxí",
+     "en": "(A) Rest at home"
     },
     "B": {
      "zh": "去看醫生",
-     "py": "Qù kàn yīshēng"
+     "py": "Qù kàn yīshēng",
+     "en": "(B) See a doctor"
     },
     "C": {
      "zh": "去學校找小文",
-     "py": "Qù xuéxiào zhǎo xiǎo wén"
+     "py": "Qù xuéxiào zhǎo xiǎo wén",
+     "en": "(C) Go to school to find Xiaowen"
     },
     "D": {
      "zh": "和小文去看電影",
-     "py": "Héxiǎowén qù kàn diànyǐng"
+     "py": "Héxiǎowén qù kàn diànyǐng",
+     "en": "(D) See a movie with Xiaowen"
     }
    },
    "intro": [
     {
      "zh": "請聽這一段電話留言，然後回答下面的兩個問題。",
-     "py": "Qǐng tīng zhè yíduàn diànhuà liúyán, ránhòu huídá xiàmiàn de liǎng ge wèntí."
+     "py": "Qǐng tīng zhè yíduàn diànhuà liúyán, ránhòu huídá xiàmiàn de liǎng ge wèntí.",
+     "en": "Listen to this phone message and then answer the two questions below."
     },
     {
      "zh": "小文，我是阿秀。我知道我們本來約好今天下午要去看電影，可是今天早上",
-     "py": "Xiǎowén, wǒ shì Āxiù. Wǒ zhīdào wǒmen běnlái yuē hǎo Jīntiānxiàwǔ yào qù kàn diànyǐng, kěshì jīntiān zǎoshàng"
+     "py": "Xiǎowén, wǒ shì Āxiù. Wǒ zhīdào wǒmen běnlái yuē hǎo Jīntiānxiàwǔ yào qù kàn diànyǐng, kěshì jīntiān zǎoshàng",
+     "en": "Xiaowen, this is A Xiu. I know we'd arranged to see a movie this afternoon, but this morning"
     },
     {
      "zh": "我有一點不舒服，所以我想在家休息。下次等我們都有空的時候再一起去看電影，",
-     "py": "Wǒ yǒu yìdiǎn bù shūfú, suǒyǐ wǒ xiǎng zàijiā xiūxí. Xiàcì děng wǒmen dōu yǒukòng de shíhòu zài yìqǐ qù kàn diànyǐng,"
+     "py": "Wǒ yǒu yìdiǎn bù shūfú, suǒyǐ wǒ xiǎng zàijiā xiūxí. Xiàcì děng wǒmen dōu yǒukòng de shíhòu zài yìqǐ qù kàn diànyǐng,",
+     "en": "I'm feeling a bit unwell, so I want to rest at home. Let's go to the movies together next time when we're both free,"
     },
     {
      "zh": "好嗎？對了，明天上課的時候，請你把我借你的雨傘拿來學校，謝謝！明天見。",
-     "py": "Hǎo ma? Duì le, míngtiān shàngkè de shíhòu, qǐng nǐ bǎ wǒ jiè nǐ de yǔsǎn nálái xuéxiào, Xièxiè! Míngtiān jiàn."
+     "py": "Hǎo ma? Duì le, míngtiān shàngkè de shíhòu, qǐng nǐ bǎ wǒ jiè nǐ de yǔsǎn nálái xuéxiào, Xièxiè! Míngtiān jiàn.",
+     "en": "OK? Oh, and when we have class tomorrow, please bring the umbrella I lent you to school. Thanks! See you tomorrow."
     }
    ],
    "transcript": [
     {
      "zh": "阿秀今天下午要做什麼？",
-     "py": "Āxiù Jīntiānxiàwǔ yào zuò shénme?"
+     "py": "Āxiù Jīntiānxiàwǔ yào zuò shénme?",
+     "en": "What is A Xiu going to do this afternoon?"
     }
    ]
   },
@@ -1323,25 +1598,30 @@
    "options": {
     "A": {
      "zh": "藥水",
-     "py": "Yàoshuǐ"
+     "py": "Yàoshuǐ",
+     "en": "(A) Liquid medicine"
     },
     "B": {
      "zh": "課本",
-     "py": "Kèběn"
+     "py": "Kèběn",
+     "en": "(B) A textbook"
     },
     "C": {
      "zh": "雨傘",
-     "py": "Yǔsǎn"
+     "py": "Yǔsǎn",
+     "en": "(C) An umbrella"
     },
     "D": {
      "zh": "電影票",
-     "py": "Diànyǐngpiào"
+     "py": "Diànyǐngpiào",
+     "en": "(D) Movie tickets"
     }
    },
    "transcript": [
     {
      "zh": "阿秀請小文拿什麼去學校？",
-     "py": "Āxiù qǐng xiǎowén ná shénme qù xuéxiào?"
+     "py": "Āxiù qǐng xiǎowén ná shénme qù xuéxiào?",
+     "en": "What does A Xiu ask Xiaowen to bring to school?"
     }
    ]
   },
@@ -1349,51 +1629,62 @@
    "options": {
     "A": {
      "zh": "因為她吃得太飽",
-     "py": "Yīnwèi tā chī dé tàibǎo"
+     "py": "Yīnwèi tā chī dé tàibǎo",
+     "en": "(A) Because she ate too much"
     },
     "B": {
      "zh": "因為她吃錯了藥",
-     "py": "Yīnwèi tā chī cuò le yào"
+     "py": "Yīnwèi tā chī cuò le yào",
+     "en": "(B) Because she took the wrong medicine"
     },
     "C": {
      "zh": "因為她肚子很疼",
-     "py": "Yīnwèi tā dǔzi hěn téng"
+     "py": "Yīnwèi tā dǔzi hěn téng",
+     "en": "(C) Because she had a bad stomachache"
     },
     "D": {
      "zh": "因為她肚子餓了",
-     "py": "Yīnwèi tā dùziè le"
+     "py": "Yīnwèi tā dùziè le",
+     "en": "(D) Because she was hungry"
     }
    },
    "intro": [
     {
      "zh": "請聽這一段話，然後回答下面的兩個問題。",
-     "py": "Qǐng tīng zhè yíduànhuà, ránhòu huídá xiàmiàn de liǎng ge wèntí."
+     "py": "Qǐng tīng zhè yíduànhuà, ránhòu huídá xiàmiàn de liǎng ge wèntí.",
+     "en": "Listen to this talk and then answer the two questions below."
     },
     {
      "zh": "昨天晚上我很晚才回家。看到桌子上還剩一些飯菜，就吃了。到了夜裡，我",
-     "py": "Zuótiānwǎnshàng wǒ hěn wǎncái huíjiā. Kàndào zhuōzi shàng hái shèng yìxiē fàncài, jiù chī le. Dào le yèlǐ, wǒ"
+     "py": "Zuótiānwǎnshàng wǒ hěn wǎncái huíjiā. Kàndào zhuōzi shàng hái shèng yìxiē fàncài, jiù chī le. Dào le yèlǐ, wǒ",
+     "en": "Last night I got home very late. I saw some food left on the table, so I ate it. During the night my"
     },
     {
      "zh": "的肚子開始痛了起來，就一直跑廁所。結果一個晚上都沒睡好。今天早上我請假",
-     "py": "De dǔzi kāishǐ tòng le qǐlái, jiù yìzhí pǎo cèsuǒ. Jiéguǒ yí ge wǎnshàng dōu méi shuì hǎo. Jīntiān zǎoshàng wǒ qǐngjià"
+     "py": "De dǔzi kāishǐ tòng le qǐlái, jiù yìzhí pǎo cèsuǒ. Jiéguǒ yí ge wǎnshàng dōu méi shuì hǎo. Jīntiān zǎoshàng wǒ qǐngjià",
+     "en": "stomach started to hurt and I kept running to the toilet, so I didn't sleep well all night. This morning I took leave"
     },
     {
      "zh": "去看醫生，醫生說我得吃藥，他給了我兩種藥，然後跟我說：「每天吃完飯以後，",
-     "py": "Qù kàn yīshēng, yīshēng shuō wǒ dé chīyào, tā gěi le wǒ liǎngzhǒng yào, ránhòu gēn wǒ shuō: “Měitiān chīwánfàn yǐhòu,"
+     "py": "Qù kàn yīshēng, yīshēng shuō wǒ dé chīyào, tā gěi le wǒ liǎngzhǒng yào, ránhòu gēn wǒ shuō: “Měitiān chīwánfàn yǐhòu,",
+     "en": "to see a doctor. The doctor said I need medicine. He gave me two kinds and told me: \"Every day after meals,"
     },
     {
      "zh": "吃一包白色的藥，如果肚子還是不舒服，就吃綠色藥包的藥。如果身體好了，就",
-     "py": "Chī yìbāo báisè de yào, rúguǒ dǔzi háishì bù shūfú, jiù chī lǜsè yàobāo de yào. Rúguǒ shēntǐ hǎo le, jiù"
+     "py": "Chī yìbāo báisè de yào, rúguǒ dǔzi háishì bù shūfú, jiù chī lǜsè yàobāo de yào. Rúguǒ shēntǐ hǎo le, jiù",
+     "en": "take one packet of the white medicine. If your stomach still feels bad, take the medicine in the green packet. If you're better,"
     },
     {
      "zh": "不用再吃藥。」",
-     "py": "Búyòng zài chīyào.”"
+     "py": "Búyòng zài chīyào.”",
+     "en": "you don't need to take any more.\""
     }
    ],
    "transcript": [
     {
      "zh": "為什麼說話的人昨天晚上沒睡好？",
-     "py": "Wèishénme shuōhuà de rén zuótiānwǎnshàng méi shuì hǎo?"
+     "py": "Wèishénme shuōhuà de rén zuótiānwǎnshàng méi shuì hǎo?",
+     "en": "Why didn't the speaker sleep well last night?"
     }
    ]
   },
@@ -1401,25 +1692,30 @@
    "options": {
     "A": {
      "zh": "先不要吃任何東西",
-     "py": "Xiān búyào chī rènhé Dōngxi"
+     "py": "Xiān búyào chī rènhé Dōngxi",
+     "en": "(A) Don't eat anything for now."
     },
     "B": {
      "zh": "綠色的藥不一定要吃",
-     "py": "Lǜsè de yào bù yídìng yào chī"
+     "py": "Lǜsè de yào bù yídìng yào chī",
+     "en": "(B) She doesn't necessarily have to take the green medicine."
     },
     "C": {
      "zh": "已經不需要再吃藥了",
-     "py": "Yǐjīng bù xūyào zài chīyào le"
+     "py": "Yǐjīng bù xūyào zài chīyào le",
+     "en": "(C) She doesn't need to take any more medicine."
     },
     "D": {
      "zh": "白色的藥都吃完了，再吃綠的",
-     "py": "Báisè de yàodōu chī wán le, zài chī lǜ de"
+     "py": "Báisè de yàodōu chī wán le, zài chī lǜ de",
+     "en": "(D) After finishing the white medicine, take the green."
     }
    },
    "transcript": [
     {
      "zh": "醫生說了什麼？",
-     "py": "Yīshēng shuō le shénme?"
+     "py": "Yīshēng shuō le shénme?",
+     "en": "What did the doctor say?"
     }
    ]
   },
@@ -1427,51 +1723,62 @@
    "options": {
     "A": {
      "zh": "夏天才有",
-     "py": "Xiàtiān cái yǒu"
+     "py": "Xiàtiān cái yǒu",
+     "en": "(A) It's only available in summer."
     },
     "B": {
      "zh": "皮也能吃",
-     "py": "Pí yě néng chī"
+     "py": "Pí yě néng chī",
+     "en": "(B) The skin can be eaten too."
     },
     "C": {
      "zh": "北方才有",
-     "py": "Běifāng cái yǒu"
+     "py": "Běifāng cái yǒu",
+     "en": "(C) It's only found in the north."
     },
     "D": {
      "zh": "放幾天再吃，更好吃",
-     "py": "Fàng jǐtiān zài chī, gèng hǎochī"
+     "py": "Fàng jǐtiān zài chī, gèng hǎochī",
+     "en": "(D) It tastes better after being kept a few days."
     }
    },
    "intro": [
     {
      "zh": "請聽這一段水果的介紹，然後回答下面的兩個問題。",
-     "py": "Qǐng tīng zhè yíduàn shuǐguǒ de jièshào, ránhòu huídá xiàmiàn de liǎng ge wèntí."
+     "py": "Qǐng tīng zhè yíduàn shuǐguǒ de jièshào, ránhòu huídá xiàmiàn de liǎng ge wèntí.",
+     "en": "Listen to this introduction to a fruit and then answer the two questions below."
     },
     {
      "zh": "這種水果夏天的時候才有，它的皮是不能吃的，我們吃的是裡面白白的肉。",
-     "py": "Zhèzhǒng shuǐguǒ xiàtiān de shíhòu cái yǒu, tā de pí shì bùnéng chī de, wǒmen chī de shì lǐmiàn báibáide ròu."
+     "py": "Zhèzhǒng shuǐguǒ xiàtiān de shíhòu cái yǒu, tā de pí shì bùnéng chī de, wǒmen chī de shì lǐmiàn báibáide ròu.",
+     "en": "This fruit is only available in summer. Its skin can't be eaten; we eat the white flesh inside."
     },
     {
      "zh": "它的味道又香又甜，大人小孩都喜歡。聽說以前北方的人想吃這種水果，還得特",
-     "py": "Tā de wèidào yòu xiāng yòu tián, dàrén xiǎohái dōu xǐhuān. Tīngshuō yǐqián běifāng de rén xiǎng chī zhèzhǒng shuǐguǒ, hái dé tè"
+     "py": "Tā de wèidào yòu xiāng yòu tián, dàrén xiǎohái dōu xǐhuān. Tīngshuō yǐqián běifāng de rén xiǎng chī zhèzhǒng shuǐguǒ, hái dé tè",
+     "en": "It's fragrant and sweet, and both adults and children love it. It's said that in the past, people in the north who wanted to eat this fruit had to specially"
     },
     {
      "zh": "別請人騎馬從南方送來。因為這種水果不能放太久，買回來以後，要趕快放進冰",
-     "py": "Bié qǐng rén qímǎ cóng nánfāng sònglái. Yīnwèi zhèzhǒng shuǐguǒ bùnéng fàng Tàijiǔ, mǎihuílái yǐhòu, yào gǎnkuài fàngjìn bīng"
+     "py": "Bié qǐng rén qímǎ cóng nánfāng sònglái. Yīnwèi zhèzhǒng shuǐguǒ bùnéng fàng Tàijiǔ, mǎihuílái yǐhòu, yào gǎnkuài fàngjìn bīng",
+     "en": "have someone ride horses to bring it from the south. Because this fruit doesn't keep long, after you buy it you should quickly put it in the"
     },
     {
      "zh": "箱裡。如果不這樣做的話，紅色的皮很快就變成咖啡色了，過兩天味道已經不香，",
-     "py": "Xiānglǐ. Rúguǒ bù zhèyàng zuò dehuà, hóngsè de pí hěnkuài jiù biànchéng kāfēisè le, guò liǎngtiān wèidào yǐjīng bù xiāng,"
+     "py": "Xiānglǐ. Rúguǒ bù zhèyàng zuò dehuà, hóngsè de pí hěnkuài jiù biànchéng kāfēisè le, guò liǎngtiān wèidào yǐjīng bù xiāng,",
+     "en": "fridge. If you don't, the red skin soon turns brown; after two days it no longer smells fragrant,"
     },
     {
      "zh": "放到第四天，不但不好看，也不好吃了。",
-     "py": "Fàngdào dìsìtiān, búdàn bù hǎokàn, yě bù hǎochī le."
+     "py": "Fàngdào dìsìtiān, búdàn bù hǎokàn, yě bù hǎochī le.",
+     "en": "and by the fourth day it neither looks nor tastes good."
     }
    ],
    "transcript": [
     {
      "zh": "這種水果怎麼樣？",
-     "py": "Zhèzhǒng shuǐguǒ zěnmeyàng?"
+     "py": "Zhèzhǒng shuǐguǒ zěnmeyàng?",
+     "en": "What is this fruit like?"
     }
    ]
   },
@@ -1479,25 +1786,30 @@
    "options": {
     "A": {
      "zh": "變得不香",
-     "py": "Biàndé bù xiāng"
+     "py": "Biàndé bù xiāng",
+     "en": "(A) It stops smelling fragrant."
     },
     "B": {
      "zh": "變得不好吃",
-     "py": "Biàndé bù hǎochī"
+     "py": "Biàndé bù hǎochī",
+     "en": "(B) It stops tasting good."
     },
     "C": {
      "zh": "肉的顏色改變",
-     "py": "Ròu de yánsè gǎibiàn"
+     "py": "Ròu de yánsè gǎibiàn",
+     "en": "(C) The color of the flesh changes."
     },
     "D": {
      "zh": "皮的顏色改變",
-     "py": "Pí de yánsè gǎibiàn"
+     "py": "Pí de yánsè gǎibiàn",
+     "en": "(D) The color of the skin changes."
     }
    },
    "transcript": [
     {
      "zh": "這種水果不放冰箱的話，會先有什麼變化？",
-     "py": "Zhèzhǒng shuǐguǒ bù fàng bīngxiāng dehuà, huì xiān yǒu shénme biànhuà?"
+     "py": "Zhèzhǒng shuǐguǒ bù fàng bīngxiāng dehuà, huì xiān yǒu shénme biànhuà?",
+     "en": "If this fruit isn't put in the fridge, what change happens first?"
     }
    ]
   },
@@ -1505,47 +1817,57 @@
    "options": {
     "A": {
      "zh": "小周的旅遊計畫",
-     "py": "Xiǎozhōu de lǚyóu jìhuà"
+     "py": "Xiǎozhōu de lǚyóu jìhuà",
+     "en": "(A) Xiao Zhou's travel plans"
     },
     "B": {
      "zh": "去美國玩要注意的事",
-     "py": "Qù Měiguó wán yào zhùyì de shì"
+     "py": "Qù Měiguó wán yào zhùyì de shì",
+     "en": "(B) Things to watch out for when visiting America"
     },
     "C": {
      "zh": "介紹美國好玩兒的地方",
-     "py": "Jièshào Měiguó hǎowánér de dìfāng"
+     "py": "Jièshào Měiguó hǎowánér de dìfāng",
+     "en": "(C) Introducing fun places in America"
     },
     "D": {
      "zh": "小周一家人出去玩的事",
-     "py": "Xiǎo Zhōu yìjiārén chūqùwán de shì"
+     "py": "Xiǎo Zhōu yìjiārén chūqùwán de shì",
+     "en": "(D) Xiao Zhou's family trip"
     }
    },
    "intro": [
     {
      "zh": "請聽這一段話，然後回答下面的兩個問題。",
-     "py": "Qǐng tīng zhè yíduànhuà, ránhòu huídá xiàmiàn de liǎng ge wèntí."
+     "py": "Qǐng tīng zhè yíduànhuà, ránhòu huídá xiàmiàn de liǎng ge wèntí.",
+     "en": "Listen to this talk and then answer the two questions below."
     },
     {
      "zh": "小周上個月和太太、小孩一家三個人去美國玩兒。他們到的第一天有點兒不",
-     "py": "Xiǎo Zhōu shànggèyuè hé tàitai, xiǎohái yìjiā sān ge rén qù Měiguó wánér. Tāmen dào de dìyìtiān yǒudiǎnér bù"
+     "py": "Xiǎo Zhōu shànggèyuè hé tàitai, xiǎohái yìjiā sān ge rén qù Měiguó wánér. Tāmen dào de dìyìtiān yǒudiǎnér bù",
+     "en": "Last month Xiao Zhou, his wife and child—a family of three—went to America on holiday. On the first day they weren't quite"
     },
     {
      "zh": "習慣，因為天氣比較冷。不過他們住的飯店又大又舒服，小周和太太還是很高興。",
-     "py": "Xíguàn, yīnwèi tiānqì bǐjiào lěng. Búguò tāmen zhù de fàndiàn yòu dà yòu shūfú, Xiǎozhōu hé tàitai háishì hěn gāoxìng."
+     "py": "Xíguàn, yīnwèi tiānqì bǐjiào lěng. Búguò tāmen zhù de fàndiàn yòu dà yòu shūfú, Xiǎozhōu hé tàitai háishì hěn gāoxìng.",
+     "en": "used to it, because the weather was rather cold. But their hotel was big and comfortable, so Xiao Zhou and his wife were still happy."
     },
     {
      "zh": "他們每天都去不同的地方玩兒，在那兒他們常吃美國菜，有時候也吃中國菜。回",
-     "py": "Tāmen měitiān dōu qù bùtóng de dìfāng wánér, zài nàér tāmen cháng chī Měiguó cài, yǒushíhòu yě chī Zhōngguó cài. Huí"
+     "py": "Tāmen měitiān dōu qù bùtóng de dìfāng wánér, zài nàér tāmen cháng chī Měiguó cài, yǒushíhòu yě chī Zhōngguó cài. Huí",
+     "en": "Every day they went somewhere different. There they often ate American food and sometimes Chinese food. After coming"
     },
     {
      "zh": "來以後，小周決定下次還要帶家人去美國玩兒。",
-     "py": "Lái yǐhòu, xiǎo Zhōu juédìng xiàcì háiyào dài jiārén qù Měiguó wánér."
+     "py": "Lái yǐhòu, xiǎo Zhōu juédìng xiàcì háiyào dài jiārén qù Měiguó wánér.",
+     "en": "back, Xiao Zhou decided to take his family to America again next time."
     }
    ],
    "transcript": [
     {
      "zh": "這段話主要是說什麼？",
-     "py": "Zhèduànhuà zhǔyào shì shuō shénme?"
+     "py": "Zhèduànhuà zhǔyào shì shuō shénme?",
+     "en": "What is this talk mainly about?"
     }
    ]
   },
@@ -1553,25 +1875,30 @@
    "options": {
     "A": {
      "zh": "小周很習慣美國的天氣",
-     "py": "Xiǎozhōu hěn xíguàn Měiguó de tiānqì"
+     "py": "Xiǎozhōu hěn xíguàn Měiguó de tiānqì",
+     "en": "(A) Xiao Zhou is used to the American weather."
     },
     "B": {
      "zh": "小周對那家飯店很滿意",
-     "py": "Xiǎozhōu duì nàjiā fàndiàn hěn mǎnyì"
+     "py": "Xiǎozhōu duì nàjiā fàndiàn hěn mǎnyì",
+     "en": "(B) Xiao Zhou was very satisfied with the hotel."
     },
     "C": {
      "zh": "小周在美國天天吃中國菜",
-     "py": "Xiǎozhōu zài Měiguó tiāntiān chī Zhōngguó cài"
+     "py": "Xiǎozhōu zài Měiguó tiāntiān chī Zhōngguó cài",
+     "en": "(C) Xiao Zhou ate Chinese food every day in America."
     },
     "D": {
      "zh": "小周帶了三個小孩兒去美國",
-     "py": "Xiǎozhōu dài le sān ge xiǎoháiér qù Měiguó"
+     "py": "Xiǎozhōu dài le sān ge xiǎoháiér qù Měiguó",
+     "en": "(D) Xiao Zhou took three children to America."
     }
    },
    "transcript": [
     {
      "zh": "下面哪一個是對的？",
-     "py": "Xiàmiàn nǎ yí ge shì duì de?"
+     "py": "Xiàmiàn nǎ yí ge shì duì de?",
+     "en": "Which of the following is correct?"
     }
    ]
   },
@@ -1579,51 +1906,62 @@
    "options": {
     "A": {
      "zh": "沒有送報紙和水果",
-     "py": "Méiyǒu sòng bàozhǐ hé shuǐguǒ"
+     "py": "Méiyǒu sòng bàozhǐ hé shuǐguǒ",
+     "en": "(A) No newspapers or fruit are provided."
     },
     "B": {
      "zh": "每一間的費用都一樣",
-     "py": "Měi yìjiān de fèiyòng dōu yíyàng"
+     "py": "Měi yìjiān de fèiyòng dōu yíyàng",
+     "en": "(B) Every room costs the same."
     },
     "C": {
      "zh": "要停車的話，得付停車費",
-     "py": "Yào tíngchē dehuà, défù tíngchēfèi"
+     "py": "Yào tíngchē dehuà, défù tíngchēfèi",
+     "en": "(C) If you park, you have to pay a parking fee."
     },
     "D": {
      "zh": "今年年底去住，比平常便宜",
-     "py": "Jīnniánniándǐ qù zhù, bǐ píngcháng piányi"
+     "py": "Jīnniánniándǐ qù zhù, bǐ píngcháng piányi",
+     "en": "(D) Staying at the end of this year is cheaper than usual."
     }
    },
    "intro": [
     {
      "zh": "請聽這一段廣告，然後回答下面的兩個問題。",
-     "py": "Qǐng tīng zhè yíduàn guǎnggào, ránhòu huídá xiàmiàn de liǎng ge wèntí."
+     "py": "Qǐng tīng zhè yíduàn guǎnggào, ránhòu huídá xiàmiàn de liǎng ge wèntí.",
+     "en": "Listen to this advertisement and then answer the two questions below."
     },
     {
      "zh": "寒假、過年和家人朋友出來玩，歡迎選擇圓山大飯店！從今年 12 月到明年",
-     "py": "Hánjià, guònián hé jiārén péngyǒu chūlái wán, huānyíng xuǎnzé Yuánshān Dàfàndiàn! Cóng jīnnián 12 yuè dào míngnián"
+     "py": "Hánjià, guònián hé jiārén péngyǒu chūlái wán, huānyíng xuǎnzé Yuánshān Dàfàndiàn! Cóng jīnnián 12 yuè dào míngnián",
+     "en": "When you're out with family and friends for the winter break or New Year, choose the Grand Hotel! From December this year to the end of February next year,"
     },
     {
      "zh": "2 月底，我們每天提供二十間房間，雙人房一個晚上只要 2100 元，四人房也只",
-     "py": "2 yuèdǐ, wǒmen měitiān tígōng èrshí jiān fángjiān, shuāngrénfáng yí ge wǎnshàng zhǐyào 2100 yuán, sì rénfáng yě zhǐ"
+     "py": "2 yuèdǐ, wǒmen měitiān tígōng èrshí jiān fángjiān, shuāngrénfáng yí ge wǎnshàng zhǐyào 2100 yuán, sì rénfáng yě zhǐ",
+     "en": "we offer twenty rooms every day: a double room is only NT$2,100 a night, and a room for four only"
     },
     {
      "zh": "要 3500 元。雖然費用變便宜了，我們提供的服務還是一樣，除了送您報紙和水",
-     "py": "Yào 3500 yuán. Suīrán fèiyòng biàn piányi le, wǒmen tígōng de fúwù háishì yíyàng, chúle sòng nín bàozhǐ hé shuǐ"
+     "py": "Yào 3500 yuán. Suīrán fèiyòng biàn piányi le, wǒmen tígōng de fúwù háishì yíyàng, chúle sòng nín bàozhǐ hé shuǐ",
+     "en": "NT$3,500. Although the price is lower, our service stays the same: besides giving you newspapers and"
     },
     {
      "zh": "果，使用停車場、游泳池也不必付錢。每天只有二十間！有興趣的人請趕快打電",
-     "py": "Guǒ, shǐyòng tíngchēchǎng, yóuyǒngchí yě búbì fùqián. Měitiān zhǐyǒu èrshí jiān! Yǒu xìngqù de rén qǐng gǎnkuài dǎdiàn"
+     "py": "Guǒ, shǐyòng tíngchēchǎng, yóuyǒngchí yě búbì fùqián. Měitiān zhǐyǒu èrshí jiān! Yǒu xìngqù de rén qǐng gǎnkuài dǎdiàn",
+     "en": "fruit, the parking lot and swimming pool are free. Only twenty rooms a day! If you're interested, call us"
     },
     {
      "zh": "話給我們。",
-     "py": "Huà gěi wǒmen."
+     "py": "Huà gěi wǒmen.",
+     "en": "right away."
     }
    ],
    "transcript": [
     {
      "zh": "這二十間房間怎麼樣？",
-     "py": "Zhè èrshí jiān fángjiān zěnmeyàng?"
+     "py": "Zhè èrshí jiān fángjiān zěnmeyàng?",
+     "en": "What about these twenty rooms?"
     }
    ]
   },
@@ -1631,25 +1969,30 @@
    "options": {
     "A": {
      "zh": "這個活動到明年 2 月底結束",
-     "py": "Zhè ge huódòng dào míngnián 2 yuèdǐ jiéshù"
+     "py": "Zhè ge huódòng dào míngnián 2 yuèdǐ jiéshù",
+     "en": "(A) This promotion ends at the end of February next year."
     },
     "B": {
      "zh": "每天只有二十個人能住這些房間",
-     "py": "Měitiān zhǐyǒu èrshí ge rén néng zhù zhèxiē fángjiān"
+     "py": "Měitiān zhǐyǒu èrshí ge rén néng zhù zhèxiē fángjiān",
+     "en": "(B) Only twenty people a day can stay in these rooms."
     },
     "C": {
      "zh": "前二十個打電話來的人不必付錢",
-     "py": "Qián èrshí ge dǎdiànhuà lái de rén búbì fùqián"
+     "py": "Qián èrshí ge dǎdiànhuà lái de rén búbì fùqián",
+     "en": "(C) The first twenty callers don't have to pay."
     },
     "D": {
      "zh": "費用和平常一樣，但提供更多服務",
-     "py": "Fèiyòng hé píngcháng yíyàng, dàn tígōng gèng duō fúwù"
+     "py": "Fèiyòng hé píngcháng yíyàng, dàn tígōng gèng duō fúwù",
+     "en": "(D) The price is the same as usual, but more services are provided."
     }
    },
    "transcript": [
     {
      "zh": "下面哪一個是對的？",
-     "py": "Xiàmiàn nǎ yí ge shì duì de?"
+     "py": "Xiàmiàn nǎ yí ge shì duì de?",
+     "en": "Which of the following is correct?"
     }
    ]
   },
@@ -1657,43 +2000,52 @@
    "options": {
     "A": {
      "zh": "常有學生掉東西",
-     "py": "Chángyǒu xuéshēng diào Dōngxi"
+     "py": "Chángyǒu xuéshēng diào Dōngxi",
+     "en": "(A) Students often lose things."
     },
     "B": {
      "zh": "常有學生忘了還書",
-     "py": "Chángyǒu xuéshēng wàng le hái shū"
+     "py": "Chángyǒu xuéshēng wàng le hái shū",
+     "en": "(B) Students often forget to return books."
     },
     "C": {
      "zh": "常有學生用手機聊天",
-     "py": "Chángyǒu xuéshēng yòng shǒujī Liáotiān"
+     "py": "Chángyǒu xuéshēng yòng shǒujī Liáotiān",
+     "en": "(C) Students often chat on their phones."
     },
     "D": {
      "zh": "常有學生忘了把書包帶走",
-     "py": "Chángyǒu xuéshēng wàng le bǎ shūbāo dàizǒu"
+     "py": "Chángyǒu xuéshēng wàng le bǎ shūbāo dàizǒu",
+     "en": "(D) Students often forget to take their schoolbags."
     }
    },
    "intro": [
     {
      "zh": "請聽這一段廣播，然後回答兩個問題。",
-     "py": "Qǐng tīng zhè yíduàn guǎngbō, ránhòu huídá liǎng ge wèntí."
+     "py": "Qǐng tīng zhè yíduàn guǎngbō, ránhòu huídá liǎng ge wèntí.",
+     "en": "Listen to this announcement and then answer the two questions."
     },
     {
      "zh": "各位同學請注意，最近很多同學反應，他們在圖書館讀書，才離開位子一會",
-     "py": "Gèwèi tóngxué qǐng zhùyì, zuìjìn hěnduō tóngxué fǎnyìng, tāmen zài túshūguǎn dúshū, cái líkāi wèizi yíhuì"
+     "py": "Gèwèi tóngxué qǐng zhùyì, zuìjìn hěnduō tóngxué fǎnyìng, tāmen zài túshūguǎn dúshū, cái líkāi wèizi yíhuì",
+     "en": "Attention, students. Recently many students have reported that while studying in the library, after leaving their seat for just a"
     },
     {
      "zh": "兒，原本放在位子上的書包就不見了，學校已經派人調查這件事，也請各位同學",
-     "py": "Ér, yuánběn fàngzài wèizi shàng de shūbāo jiù bújiàn le, xuéxiào yǐjīng pài rén diàochá zhèjiàn shì, yě qǐng gèwèi tóngxué"
+     "py": "Ér, yuánběn fàngzài wèizi shàng de shūbāo jiù bújiàn le, xuéxiào yǐjīng pài rén diàochá zhèjiàn shì, yě qǐng gèwèi tóngxué",
+     "en": "moment, the schoolbag they left on the seat disappeared. The school has sent people to investigate, and we ask all students"
     },
     {
      "zh": "離開位子的時候，把重要的東西一起拿走，謝謝！",
-     "py": "Líkāi wèizi de shíhòu, bǎ zhòngyào de Dōngxi yìqǐ názǒu, Xièxiè!"
+     "py": "Líkāi wèizi de shíhòu, bǎ zhòngyào de Dōngxi yìqǐ názǒu, Xièxiè!",
+     "en": "to take important belongings with them when they leave their seats. Thank you!"
     }
    ],
    "transcript": [
     {
      "zh": "學生在圖書館發生什麼事？",
-     "py": "Xuéshēng zài túshūguǎn fāshēng shénme shì?"
+     "py": "Xuéshēng zài túshūguǎn fāshēng shénme shì?",
+     "en": "What has been happening to students in the library?"
     }
    ]
   },
@@ -1701,25 +2053,30 @@
    "options": {
     "A": {
      "zh": "請警察協助處理",
-     "py": "Qǐng jǐngchá xiézhù chǔlǐ"
+     "py": "Qǐng jǐngchá xiézhù chǔlǐ",
+     "en": "(A) Asking the police to help"
     },
     "B": {
      "zh": "校方正密切觀察",
-     "py": "Xiàofāng zhèng mìqiè guānchá"
+     "py": "Xiàofāng zhèng mìqiè guānchá",
+     "en": "(B) The school is watching closely."
     },
     "C": {
      "zh": "請學生留意陌生人",
-     "py": "Qǐng xuéshēng liúyì mòshēngrén"
+     "py": "Qǐng xuéshēng liúyì mòshēngrén",
+     "en": "(C) Asking students to watch out for strangers"
     },
     "D": {
      "zh": "請學生說明當時的狀況",
-     "py": "Qǐng xuéshēng shuōmíng dāngshí de zhuàngkuàng"
+     "py": "Qǐng xuéshēng shuōmíng dāngshí de zhuàngkuàng",
+     "en": "(D) Asking students to explain what happened"
     }
    },
    "transcript": [
     {
      "zh": "這段廣播提到，學校怎麼處理這個狀況？",
-     "py": "Zhè duàn guǎngbō tídào, xuéxiào zěnme chǔlǐ zhè ge zhuàngkuàng?"
+     "py": "Zhè duàn guǎngbō tídào, xuéxiào zěnme chǔlǐ zhè ge zhuàngkuàng?",
+     "en": "According to the announcement, how is the school dealing with the situation?"
     }
    ]
   },
@@ -1727,101 +2084,121 @@
    "passage": [
     {
      "zh": "下面是關於電影與城市觀光的報導。請聽完報導後，回答三個問題：",
-     "py": "Xiàmiàn shì guānyú diànyǐng yǔ Chéngshì guānguāng de bàodǎo. Qǐng tīng wán bàodǎo hòu, huídá sān ge wèntí:"
+     "py": "Xiàmiàn shì guānyú diànyǐng yǔ Chéngshì guānguāng de bàodǎo. Qǐng tīng wán bàodǎo hòu, huídá sān ge wèntí:",
+     "en": "The following is a report about films and city tourism. After listening, answer the three questions:"
     }
    ],
    "stem": {
     "zh": "根據報導，小鎮為什麼成為新的景點？",
-    "py": "Gēnjù bàodǎo, Xiǎozhèn wèishénme chéngwéi xīn de jǐngdiǎn?"
+    "py": "Gēnjù bàodǎo, Xiǎozhèn wèishénme chéngwéi xīn de jǐngdiǎn?",
+    "en": "According to the report, why has the small town become a new attraction?"
    },
    "options": {
     "A": {
      "zh": "因為政府的大力推銷",
-     "py": "Yīnwèi zhèngfǔ de dàlì tuīxiāo"
+     "py": "Yīnwèi zhèngfǔ de dàlì tuīxiāo",
+     "en": "(A) Because of strong government promotion"
     },
     "B": {
      "zh": "因為電影導演的介紹",
-     "py": "Yīnwèi diànyǐng dǎoyǎn de jièshào"
+     "py": "Yīnwèi diànyǐng dǎoyǎn de jièshào",
+     "en": "(B) Because the film director introduced it"
     },
     "C": {
      "zh": "因為小鎮找電影明星來宣傳",
-     "py": "Yīnwèi Xiǎozhèn zhǎo diànyǐngmíngxīng lái xuānchuán"
+     "py": "Yīnwèi Xiǎozhèn zhǎo diànyǐngmíngxīng lái xuānchuán",
+     "en": "(C) Because the town invited film stars to promote it"
     },
     "D": {
      "zh": "因為觀眾被電影中的小鎮文化吸引",
-     "py": "Yīnwèi guānzhòng bèi diànyǐng zhōng de Xiǎozhèn wénhuà xīyǐn"
+     "py": "Yīnwèi guānzhòng bèi diànyǐng zhōng de Xiǎozhèn wénhuà xīyǐn",
+     "en": "(D) Because audiences were attracted by the town's culture in the film"
     }
    },
    "intro": [
     {
      "zh": "下面是關於電影與城市觀光的報導。請聽完報導後，回答三個問題：",
-     "py": "Xiàmiàn shì guānyú diànyǐng yǔ Chéngshì guānguāng de bàodǎo. Qǐng tīng wán bàodǎo hòu, huídá sān ge wèntí:"
+     "py": "Xiàmiàn shì guānyú diànyǐng yǔ Chéngshì guānguāng de bàodǎo. Qǐng tīng wán bàodǎo hòu, huídá sān ge wèntí:",
+     "en": "The following is a report about films and city tourism. After listening, answer the three questions:"
     }
    ],
    "transcript": [
     {
      "zh": "根據報導，小鎮為什麼成為新的景點？",
-     "py": "Gēnjù bàodǎo, Xiǎozhèn wèishénme chéngwéi xīn de jǐngdiǎn?"
+     "py": "Gēnjù bàodǎo, Xiǎozhèn wèishénme chéngwéi xīn de jǐngdiǎn?",
+     "en": "According to the report, why has the small town become a new attraction?"
     }
    ]
   },
   "46": {
    "stem": {
     "zh": "根據報導，這部電影對小鎮造成什麼影響？",
-    "py": "Gēnjù bàodǎo, zhèbù diànyǐng duì Xiǎozhèn zàochéng shénme yǐngxiǎng?"
+    "py": "Gēnjù bàodǎo, zhèbù diànyǐng duì Xiǎozhèn zàochéng shénme yǐngxiǎng?",
+    "en": "According to the report, what effect has this film had on the town?"
    },
    "options": {
     "A": {
      "zh": "小鎮開始發展文化產業",
-     "py": "Xiǎozhèn kāishǐ fāzhǎn wénhuàchǎnyè"
+     "py": "Xiǎozhèn kāishǐ fāzhǎn wénhuàchǎnyè",
+     "en": "(A) The town has begun developing cultural industries."
     },
     "B": {
      "zh": "促進小鎮的觀光經濟發展",
-     "py": "Cùjìn Xiǎozhèn de guānguāng jīngjì fāzhǎn"
+     "py": "Cùjìn Xiǎozhèn de guānguāng jīngjì fāzhǎn",
+     "en": "(B) It has boosted the town's tourism economy."
     },
     "C": {
      "zh": "使地方小吃成了國際美食",
-     "py": "Shǐ dìfāng xiǎochī chéng le guójì měishí"
+     "py": "Shǐ dìfāng xiǎochī chéng le guójì měishí",
+     "en": "(C) Local snacks have become international cuisine."
     },
     "D": {
      "zh": "讓居民重新認識小鎮風景",
-     "py": "Ràng jūmín chóngxīnrènshi Xiǎozhèn fēngjǐng"
+     "py": "Ràng jūmín chóngxīnrènshi Xiǎozhèn fēngjǐng",
+     "en": "(D) Residents have rediscovered the town's scenery."
     }
    },
    "transcript": [
     {
      "zh": "根據報導，這部電影對小鎮造成什麼影響？",
-     "py": "Gēnjù bàodǎo, zhèbù diànyǐng duì Xiǎozhèn zàochéng shénme yǐngxiǎng?"
+     "py": "Gēnjù bàodǎo, zhèbù diànyǐng duì Xiǎozhèn zàochéng shénme yǐngxiǎng?",
+     "en": "According to the report, what effect has this film had on the town?"
     }
    ]
   },
   "47": {
    "stem": {
     "zh": "記者對當地飯店的經營者，提出哪些建議？ 現在請聽報導。",
-    "py": "Jìzhě duì dāngdì fàndiàn de jīngyíngzhě, tíchū nǎxiē jiànyì? Xiànzài qǐng tīng bàodǎo."
+    "py": "Jìzhě duì dāngdì fàndiàn de jīngyíngzhě, tíchū nǎxiē jiànyì? Xiànzài qǐng tīng bàodǎo.",
+    "en": "What suggestions does the reporter make to local hotel operators? Now listen to the report."
    },
    "options": {
     "A": {
      "zh": "努力與電影產業結合",
-     "py": "Nǔlì yǔ diànyǐng chǎnyè jiéhé"
+     "py": "Nǔlì yǔ diànyǐng chǎnyè jiéhé",
+     "en": "(A) Work hard to connect with the film industry."
     },
     "B": {
      "zh": "降低價格吸引更多客人",
-     "py": "Jiàngdī jiàgé xīyǐn gèng duō kèrén"
+     "py": "Jiàngdī jiàgé xīyǐn gèng duō kèrén",
+     "en": "(B) Lower prices to attract more guests."
     },
     "C": {
      "zh": "應該積極爭取政府資源",
-     "py": "Yīnggāi jījízhēngqǔ zhèngfǔ zīyuán"
+     "py": "Yīnggāi jījízhēngqǔ zhèngfǔ zīyuán",
+     "en": "(C) Actively seek government resources."
     },
     "D": {
      "zh": "飯店經營需結合當地特色",
-     "py": "Fàndiàn jīngyíng xū jiéhé dāngdì tèsè"
+     "py": "Fàndiàn jīngyíng xū jiéhé dāngdì tèsè",
+     "en": "(D) Hotel management should incorporate local character."
     }
    },
    "transcript": [
     {
      "zh": "記者對當地飯店的經營者，提出哪些建議？",
-     "py": "Jìzhě duì dāngdì fàndiàn de jīngyíngzhě, tíchū nǎxiē jiànyì?"
+     "py": "Jìzhě duì dāngdì fàndiàn de jīngyíngzhě, tíchū nǎxiē jiànyì?",
+     "en": "What suggestions does the reporter make to local hotel operators?"
     }
    ]
   },
@@ -1829,149 +2206,184 @@
    "passage": [
     {
      "zh": "香港兩名少女至阿根廷旅遊，傳出遭人綁架。",
-     "py": "Xiānggǎng liǎngmíng shàonǚ zhì Āgēntíng lǚyóu, chuánchū zāo rén bǎngjià."
+     "py": "Xiānggǎng liǎngmíng shàonǚ zhì Āgēntíng lǚyóu, chuánchū zāo rén bǎngjià.",
+     "en": "Two teenage girls from Hong Kong traveling in Argentina were reportedly kidnapped."
     },
     {
      "zh": "請聽這則報導，並根據內容回答三個問題。",
-     "py": "Qǐng tīng zhè zé bàodǎo, bìng gēnjù nèiróng huídá sān ge wèntí."
+     "py": "Qǐng tīng zhè zé bàodǎo, bìng gēnjù nèiróng huídá sān ge wèntí.",
+     "en": "Listen to this report and answer three questions based on it."
     },
     {
      "zh": "現在請聽報導。",
-     "py": "Xiànzài qǐng tīng bàodǎo."
+     "py": "Xiànzài qǐng tīng bàodǎo.",
+     "en": "Now listen to the report."
     }
    ],
    "options": {
     "A": {
      "zh": "犯罪集團的組成份子",
-     "py": "Fànzuìjítuán de zǔchéng fènzi"
+     "py": "Fànzuìjítuán de zǔchéng fènzi",
+     "en": "(A) The members of the criminal gang"
     },
     "B": {
      "zh": "跨國犯罪猖獗的原因",
-     "py": "Kuàguó fànzuì chāngjué de yuányīn"
+     "py": "Kuàguó fànzuì chāngjué de yuányīn",
+     "en": "(B) Why transnational crime is rampant"
     },
     "C": {
      "zh": "兩國警方怎麼合作緝兇",
-     "py": "Liǎng guó jǐngfāng zěnme hézuò jīxiōng"
+     "py": "Liǎng guó jǐngfāng zěnme hézuò jīxiōng",
+     "en": "(C) How the two countries' police cooperated to catch the culprits"
     },
     "D": {
      "zh": "警方怎麼成功攔截古董",
-     "py": "Jǐngfāng zěnme chénggōng lánjié Gǔdǒng"
+     "py": "Jǐngfāng zěnme chénggōng lánjié Gǔdǒng",
+     "en": "(D) How the police successfully intercepted the antiques"
     }
    },
    "intro": [
     {
      "zh": "現在請聽報導。",
-     "py": "Xiànzài qǐng tīng bàodǎo."
+     "py": "Xiànzài qǐng tīng bàodǎo.",
+     "en": "Now listen to the report."
     },
     {
      "zh": "2008 年，台灣一部以小鎮風光為背景的電影，讓這個小鎮，成了新的觀光",
-     "py": "2008 nián, Táiwān yíbù yǐ Xiǎozhènfēngguāng wèi bèijǐng de diànyǐng, ràng zhè ge Xiǎozhèn, chéng le xīn de guānguāng"
+     "py": "2008 nián, Táiwān yíbù yǐ Xiǎozhènfēngguāng wèi bèijǐng de diànyǐng, ràng zhè ge Xiǎozhèn, chéng le xīn de guānguāng",
+     "en": "In 2008, a Taiwanese film set against the scenery of a small town made the town a new tourist"
     },
     {
      "zh": "景點，大量遊客來這裡，不僅創造了小鎮的經濟價值，也為當地居民增加了大量",
-     "py": "Jǐngdiǎn, dàliàng yóukè lái zhèlǐ, bùjǐn chuàngzào le Xiǎozhèn de jīngjì jiàzhí, yě wèi dāngdì jūmín zēngjiā le dàliàng"
+     "py": "Jǐngdiǎn, dàliàng yóukè lái zhèlǐ, bùjǐn chuàngzào le Xiǎozhèn de jīngjì jiàzhí, yě wèi dāngdì jūmín zēngjiā le dàliàng",
+     "en": "attraction. Large numbers of tourists came, not only creating economic value for the town but also bringing local residents many"
     },
     {
      "zh": "的工作機會。好的劇本、好的演員當然是電影成功的要素，但讓人好奇的是，這",
-     "py": "De gōngzuò jīhuì. Hǎo de jùběn, hǎo de yǎnyuán dāngrán shì diànyǐng chénggōng de yàosù, dàn ràng rén hàoqí de shì, zhè"
+     "py": "De gōngzuò jīhuì. Hǎo de jùběn, hǎo de yǎnyuán dāngrán shì diànyǐng chénggōng de yàosù, dàn ràng rén hàoqí de shì, zhè",
+     "en": "jobs. A good script and good actors are of course key to a film's success, but what makes people curious is how"
     },
     {
      "zh": "個小鎮，怎麼透過電影吸引這麼多人來參觀？是電影中那濃濃的人情味？厚重的",
-     "py": "Gè Xiǎozhèn, zěnme tòuguò diànyǐng xīyǐn zhème duō rén lái cānguān? Shì diànyǐng Zhōngnà nóngnóngde rénqíngwèi? Hòuzhòng de"
+     "py": "Gè Xiǎozhèn, zěnme tòuguò diànyǐng xīyǐn zhème duō rén lái cānguān? Shì diànyǐng Zhōngnà nóngnóngde rénqíngwèi? Hòuzhòng de",
+     "en": "this town attracted so many visitors through a film. Was it the warmth of human kindness in the film? The weight of"
     },
     {
      "zh": "歷史氣息？還是，讓人口水直流的地方美食？",
-     "py": "Lìshǐ qìxī? Háishì, ràng rén kǒushuǐzhíliú de dìfāng měishí?"
+     "py": "Lìshǐ qìxī? Háishì, ràng rén kǒushuǐzhíliú de dìfāng měishí?",
+     "en": "history? Or the mouth-watering local food?"
     },
     {
      "zh": "「觀眾透過電影看見了小鎮的魅力，所以想去感受感受。」導演的話，點出",
-     "py": "“Guānzhòng tòuguò diànyǐng kànjiàn le Xiǎozhèn de mèilì, suǒyǐ xiǎng qù gǎnshòu gǎnshòu.” dǎoyǎn dehuà, diǎn chū"
+     "py": "“Guānzhòng tòuguò diànyǐng kànjiàn le Xiǎozhèn de mèilì, suǒyǐ xiǎng qù gǎnshòu gǎnshòu.” dǎoyǎn dehuà, diǎn chū",
+     "en": "\"Through the film, audiences saw the town's charm, so they wanted to experience it for themselves.\" The director's words pointed to"
     },
     {
      "zh": "了答案。但是電影對小鎮的影響能有多久，是不是隨著電影結束，這股觀光熱也",
-     "py": "Le dáàn. Dànshì diànyǐng duì Xiǎozhèn de yǐngxiǎng néng yǒu duōjiǔ, shìbúshì suízhù diànyǐng jiéshù, zhè gǔ guānguāng rè yě"
+     "py": "Le dáàn. Dànshì diànyǐng duì Xiǎozhèn de yǐngxiǎng néng yǒu duōjiǔ, shìbúshì suízhù diànyǐng jiéshù, zhè gǔ guānguāng rè yě",
+     "en": "the answer. But how long can the film's effect on the town last? Will the tourism boom"
     },
     {
      "zh": "就跟著消失？",
-     "py": "Jiù gēnzhù xiāoshī?"
+     "py": "Jiù gēnzhù xiāoshī?",
+     "en": "disappear when the film is over?"
     },
     {
      "zh": "這部電影的推銷手法，也許值得飯店經營者參考，若能將飯店與當地人文相",
-     "py": "Zhèbù diànyǐng de tuīxiāo shǒufǎ, yěxǔ zhíde fàndiàn jīngyíngzhě cānkǎo, ruò néng jiāng fàndiàn yǔ dāngdì rénwén xiāng"
+     "py": "Zhèbù diànyǐng de tuīxiāo shǒufǎ, yěxǔ zhíde fàndiàn jīngyíngzhě cānkǎo, ruò néng jiāng fàndiàn yǔ dāngdì rénwén xiāng",
+     "en": "The way this film was marketed may be worth hotel operators' attention: if hotels can be combined with local culture,"
     },
     {
      "zh": "互結合，那麼被電影所帶動的觀光風氣，也許就有可能持續下去。",
-     "py": "Hù jiéhé, nàme bèi diànyǐng suǒ dàidòng de guānguāng fēngqì, yěxǔ jiù yǒu kěnéng chíxù xiàqù."
+     "py": "Hù jiéhé, nàme bèi diànyǐng suǒ dàidòng de guānguāng fēngqì, yěxǔ jiù yǒu kěnéng chíxù xiàqù.",
+     "en": "then the tourism trend driven by the film may be able to continue."
     },
     {
      "zh": "45. 根據報導，小鎮為什麼成為新的景點？",
-     "py": "45. Gēnjù bàodǎo, Xiǎozhèn wèishénme chéngwéi xīn de jǐngdiǎn?"
+     "py": "45. Gēnjù bàodǎo, Xiǎozhèn wèishénme chéngwéi xīn de jǐngdiǎn?",
+     "en": "45. According to the report, why has the small town become a new attraction?"
     },
     {
      "zh": "46. 根據報導，這部電影對小鎮造成什麼影響？",
-     "py": "46. Gēnjù bàodǎo, zhèbù diànyǐng duì Xiǎozhèn zàochéng shénme yǐngxiǎng?"
+     "py": "46. Gēnjù bàodǎo, zhèbù diànyǐng duì Xiǎozhèn zàochéng shénme yǐngxiǎng?",
+     "en": "46. According to the report, what effect has this film had on the town?"
     },
     {
      "zh": "47. 記者對當地飯店的經營者，提出哪些建議？",
-     "py": "47. Jìzhě duì dāngdì fàndiàn de jīngyíngzhě, tíchū nǎxiē jiànyì?"
+     "py": "47. Jìzhě duì dāngdì fàndiàn de jīngyíngzhě, tíchū nǎxiē jiànyì?",
+     "en": "47. What suggestions does the reporter make to local hotel operators?"
     },
     {
      "zh": "香港兩名少女至阿根廷旅遊，傳出遭人綁架。請聽這則報導，並根據內容回答三",
-     "py": "Xiānggǎng liǎngmíng shàonǚ zhì Āgēntíng lǚyóu, chuánchū zāo rén bǎngjià. Qǐng tīng zhè zé bàodǎo, bìng gēnjù nèiróng huídá sān"
+     "py": "Xiānggǎng liǎngmíng shàonǚ zhì Āgēntíng lǚyóu, chuánchū zāo rén bǎngjià. Qǐng tīng zhè zé bàodǎo, bìng gēnjù nèiróng huídá sān",
+     "en": "Two teenage girls from Hong Kong traveling in Argentina were reportedly kidnapped. Listen to this report and answer three questions"
     },
     {
      "zh": "個問題。",
-     "py": "Gè wèntí."
+     "py": "Gè wèntí.",
+     "en": "based on it."
     },
     {
      "zh": "現在請聽報導。",
-     "py": "Xiànzài qǐng tīng bàodǎo."
+     "py": "Xiànzài qǐng tīng bàodǎo.",
+     "en": "Now listen to the report."
     },
     {
      "zh": "【新聞快訊】",
-     "py": "【 xīnwén Kuàixùn 】"
+     "py": "【 xīnwén Kuàixùn 】",
+     "en": "[Breaking news]"
     },
     {
      "zh": "香港兩名到阿根廷遊玩的少女，上週傳出在當地被人脅持禁錮及勒索贖金，",
-     "py": "Xiānggǎng liǎngmíng dào Āgēntíng yóuwán de shàonǚ, shàngzhōu chuánchū zài dāngdì bèi rén xiéchí jìngù jí Lèsuǒ shújīn,"
+     "py": "Xiānggǎng liǎngmíng dào Āgēntíng yóuwán de shàonǚ, shàngzhōu chuánchū zài dāngdì bèi rén xiéchí jìngù jí Lèsuǒ shújīn,",
+     "en": "Two teenage girls from Hong Kong on holiday in Argentina were reportedly held captive and a ransom demanded last week."
     },
     {
      "zh": "根據阿國警方調查，她們可能涉及偷運古董。",
-     "py": "Gēnjù ā guó jǐngfāng diàochá, tāmen kěnéng shèjí tōuyùn Gǔdǒng."
+     "py": "Gēnjù ā guó jǐngfāng diàochá, tāmen kěnéng shèjí tōuyùn Gǔdǒng.",
+     "en": "According to the Argentine police investigation, they may have been involved in smuggling antiques."
     },
     {
      "zh": "阿國警方表示，她們是為了獲得阿根廷免費旅遊及 6 萬元報酬，才鋌而走險，",
-     "py": "Ā guó jǐngfāng biǎoshì, tāmen shì wèile huòdé Āgēntíng miǎnfèi lǚyóu jí 6 wànyuán bàochóu, cái tǐngérzǒuxiǎn,"
+     "py": "Ā guó jǐngfāng biǎoshì, tāmen shì wèile huòdé Āgēntíng miǎnfèi lǚyóu jí 6 wànyuán bàochóu, cái tǐngérzǒuxiǎn,",
+     "en": "Argentine police say they took the risk in exchange for a free trip to Argentina and a payment of 60,000 dollars,"
     },
     {
      "zh": "替人運送價值連城的古董花瓶和字畫到阿國。但她們抵達阿根廷後，接貨的幫派",
-     "py": "Tìrén yùnsòng jiàzhíliánchéng de Gǔdǒng huāpíng hé zìhuà dào Āguó. Dàn tāmen dǐdá Āgēntíng hòu, jiēhuò de bāngpài"
+     "py": "Tìrén yùnsòng jiàzhíliánchéng de Gǔdǒng huāpíng hé zìhuà dào Āguó. Dàn tāmen dǐdá Āgēntíng hòu, jiēhuò de bāngpài",
+     "en": "carrying priceless antique vases and paintings into Argentina for someone. But after they arrived, the gang receiving the goods"
     },
     {
      "zh": "指稱，花瓶破損，於是扣留她們的護照加以禁錮。",
-     "py": "Zhǐchēng, huāpíng pòsǔn, yúshì kòuliú tāmen de hùzhào jiāyǐ jìngù."
+     "py": "Zhǐchēng, huāpíng pòsǔn, yúshì kòuliú tāmen de hùzhào jiāyǐ jìngù.",
+     "en": "claimed a vase was damaged, so they took the girls' passports and held them captive."
     },
     {
      "zh": "香港警方接獲報案後，動用超級電腦，進行照片及阿根廷首都 3D 立體地圖",
-     "py": "Xiānggǎng jǐngfāng jiēhuò bàoàn hòu, dòngyòng chāojí diànnǎo, jìnxíng zhàopiān jí Āgēntíng shǒudū 3 D lìtǐdìtú"
+     "py": "Xiānggǎng jǐngfāng jiēhuò bàoàn hòu, dòngyòng chāojí diànnǎo, jìnxíng zhàopiān jí Āgēntíng shǒudū 3 D lìtǐdìtú",
+     "en": "After receiving the report, Hong Kong police used a supercomputer to analyze photos and a 3D map of Buenos Aires,"
     },
     {
      "zh": "的分析，成功鎖定少女被禁錮的位置，並將資料提供給阿國警方，由他們負責救",
-     "py": "De fēnxī, chénggōng suǒdìng shàonǚ bèi jìngù de wèizhì, bìng jiāng zīliào tígōng gěi Āguó jǐngfāng, yóu tāmen fùzé jiù"
+     "py": "De fēnxī, chénggōng suǒdìng shàonǚ bèi jìngù de wèizhì, bìng jiāng zīliào tígōng gěi Āguó jǐngfāng, yóu tāmen fùzé jiù",
+     "en": "successfully pinpointed where the girls were being held, and passed the information to the Argentine police, who carried out the"
     },
     {
      "zh": "援行動。阿國警方認為，這次能成功地救出少女，都要歸功於香港警方提供了極",
-     "py": "Yuán xíngdòng. Ā guó jǐngfāng rènwéi, zhècì néng chénggōng dì jiùchū shàonǚ, dōu yào guīgōngyú Xiānggǎng jǐngfāng tígōng le jí"
+     "py": "Yuán xíngdòng. Ā guó jǐngfāng rènwéi, zhècì néng chénggōng dì jiùchū shàonǚ, dōu yào guīgōngyú Xiānggǎng jǐngfāng tígōng le jí",
+     "en": "rescue. Argentine police credited the successful rescue to the extremely useful intelligence provided by the Hong Kong"
     },
     {
      "zh": "有用的情報。",
-     "py": "Yǒuyòng de qíngbào."
+     "py": "Yǒuyòng de qíngbào.",
+     "en": "police."
     }
    ],
    "transcript": [
     {
      "zh": "這則報導說明了什麼？",
-     "py": "Zhè zé bàodǎo shuōmíng le shénme?"
+     "py": "Zhè zé bàodǎo shuōmíng le shénme?",
+     "en": "What does this report explain?"
     }
    ]
   },
@@ -1979,25 +2391,30 @@
    "options": {
     "A": {
      "zh": "為了換取一頓溫飽",
-     "py": "Wèile huànqǔ yídùn wēnbǎo"
+     "py": "Wèile huànqǔ yídùn wēnbǎo",
+     "en": "(A) To get a full meal"
     },
     "B": {
      "zh": "為了一趟免費旅行",
-     "py": "Wèile yítàng miǎnfèi lǚxíng"
+     "py": "Wèile yítàng miǎnfèi lǚxíng",
+     "en": "(B) For a free trip"
     },
     "C": {
      "zh": "為了價值連城的字畫",
-     "py": "Wèile jiàzhíliánchéng de zìhuà"
+     "py": "Wèile jiàzhíliánchéng de zìhuà",
+     "en": "(C) For priceless paintings"
     },
     "D": {
      "zh": "為了救出被囚禁的朋友",
-     "py": "Wèile jiùchū bèi qiújìn de péngyǒu"
+     "py": "Wèile jiùchū bèi qiújìn de péngyǒu",
+     "en": "(D) To rescue friends being held captive"
     }
    },
    "transcript": [
     {
      "zh": "根據報導，兩名少女為什麼要做這些事？",
-     "py": "Gēnjù bàodǎo, liǎngmíng shàonǚ wèishénme yào zuò zhèxiē shì?"
+     "py": "Gēnjù bàodǎo, liǎngmíng shàonǚ wèishénme yào zuò zhèxiē shì?",
+     "en": "According to the report, why did the two girls do this?"
     }
    ]
   },
@@ -2005,25 +2422,30 @@
    "options": {
     "A": {
      "zh": "跨國追緝犯罪集團首腦",
-     "py": "Kuàguó zhuījī fànzuìjítuán shǒunǎo"
+     "py": "Kuàguó zhuījī fànzuìjítuán shǒunǎo",
+     "en": "(A) Pursued the gang's ringleader across borders"
     },
     "B": {
      "zh": "和阿國協商，將少女帶回",
-     "py": "Hé Āguó xiéshāng, jiāng shàonǚ dàihuí"
+     "py": "Hé Āguó xiéshāng, jiāng shàonǚ dàihuí",
+     "en": "(B) Negotiated with Argentina to bring the girls back"
     },
     "C": {
      "zh": "根據情報，蒐集犯罪證據",
-     "py": "Gēnjù qíngbào, sōují fànzuì zhèngjù"
+     "py": "Gēnjù qíngbào, sōují fànzuì zhèngjù",
+     "en": "(C) Gathered evidence of the crime based on intelligence"
     },
     "D": {
      "zh": "運用高科技追查少女位置",
-     "py": "Yùnyòng Gāokējì zhuīchá shàonǚ wèizhì"
+     "py": "Yùnyòng Gāokējì zhuīchá shàonǚ wèizhì",
+     "en": "(D) Used high technology to track down where the girls were"
     }
    },
    "transcript": [
     {
      "zh": "根據報導，香港警方怎麼處理這件案子？",
-     "py": "Gēnjù bàodǎo, Xiānggǎng jǐngfāng zěnme chǔlǐ zhèjiàn ànzi?"
+     "py": "Gēnjù bàodǎo, Xiānggǎng jǐngfāng zěnme chǔlǐ zhèjiàn ànzi?",
+     "en": "According to the report, how did the Hong Kong police handle this case?"
     }
    ]
   }
