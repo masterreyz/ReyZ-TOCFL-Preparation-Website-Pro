@@ -177,7 +177,8 @@ function renderMigrated(m, l, book) {
     }
   });
   return h('div', { class: 'migrated' },
-    h('p', { class: 'note good-note' }, m.status === 'complete' ? 'Seluruh isi pelajaran ini sudah dimigrasi menjadi teks web.' : `Sebagian pelajaran ini sudah dimigrasi menjadi teks web (${m.statusDetail}). Bagian lain dapat dibuka sebagai halaman asli di bawah.`),
+    h('p', { class: 'note good-note' }, m.mode === 'original' ? 'Materi pelajaran ini ditulis ulang secara orisinal untuk situs ini (penjelasan, contoh, dialog latihan, dan soal) mengikuti topik, kosakata, dan tata bahasa buku. Dialog dan latihan asli ada di buku; audio trek asli tetap ditautkan.'
+      : m.status === 'complete' ? 'Seluruh isi pelajaran ini sudah dimigrasi menjadi teks web.' : `Sebagian pelajaran ini sudah dimigrasi menjadi teks web (${m.statusDetail}). Bagian lain dapat dibuka sebagai halaman asli di bawah.`),
     pyToggle, ...blocks,
     m.status !== 'complete' ? h('details', { class: 'card' }, h('summary', {}, 'Halaman asli pelajaran ini (bagian yang belum dimigrasi)'), renderPages(book, l)) : null);
 }

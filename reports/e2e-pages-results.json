@@ -55,6 +55,51 @@
   "detail": ""
  },
  {
+  "test": "L6 original-mode banner",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "L6 grammar + culture render",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "L6 dialogue line speak",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "L6 dialogue II read-all (zh-TW voice)",
+  "ok": true,
+  "detail": "這裡是我們學校。你們學校很大！教室在哪裡？教室在那棟大樓裡面，圖書館在教室旁邊。"
+ },
+ {
+  "test": "L6 vocab speak",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "L6 example speak",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "L6 exercise speak skips blanks",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "search finds L6 content",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "toneless pinyin search finds L6",
+  "ok": true,
+  "detail": ""
+ },
+ {
   "test": "book page image loads",
   "ok": true,
   "detail": ""

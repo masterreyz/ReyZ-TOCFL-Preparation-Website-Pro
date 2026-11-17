@@ -1,6 +1,6 @@
 # Progress — ReyZ TOCFL Preparation Website
 
-_Last updated: 2026-11-16 (session 1)_
+_Last updated: 2026-11-17_
 
 ## Done
 - Inventory of `TOCFL Study` and `TOCFL Exercise` (see `reports/COMPLETENESS.md` §1).
@@ -35,10 +35,20 @@ Chosen 2026-11-16. Order: A1 Textbook L1→L15, A1 Workbook L1→L15, then A2, B
 | A1 Textbook L3 週末做什麼？ | 70–91 | ✅ complete, checked page by page (zhuyin column not copied; culture photos not copied) |
 | A1 Textbook L4 請問一共多少錢？ | 92–111 | ✅ complete, checked page by page (zhuyin column not copied; culture photos not copied) |
 | A1 Textbook L5 牛肉麵真好吃 | 112–129 | ✅ complete, checked page by page (zhuyin column not copied; photos of real people not copied) |
-| A1 Textbook L6 | 130–157 | ⏭ next |
+| A1 Textbook L6 他們學校在山上 | 130–157 | ✅ complete — **original mode** (own explanations, examples, practice dialogues, exercises, culture notes; book word list + audio tracks linked) |
+| A1 Textbook L7 早上九點去KTV | 158–185 | ⏭ next (original mode) |
 | all other lessons | — | page images until migrated |
 
-### Procedure per lesson
+### Original mode (from A1 L6 onward, chosen 2026-11-17)
+The book's dialogues, exercises, explanations and illustrations are **not** copied or lightly reworded. Each lesson is written fresh:
+- Vocabulary: the book's word list (word, pinyin, part of speech) with glosses in our own words; vocab tracks stay linked.
+- Dialogues: new practice dialogues on the lesson topic using that vocabulary. A text block with the book's track (`track`) points to the original recording/page.
+- Grammar: same grammar points, explained in our own words with our own example sentences (pinyin + English), plus our own exercises.
+- Activities / culture / characters / checklist: own wording; facts checked; no book photos, charts or drawings.
+- Lesson JSON carries `"mode": "original"` (the lesson page shows a matching banner). Builder: see the commit for A1 L6.
+- Check: every Chinese sentence, tone-marked pinyin and translation re-read; pattern use matches the book's grammar point; then build/test/e2e (add lesson checks to `scripts/e2e_pages.py`).
+
+### Procedure per lesson (transcription mode, used for A1 L1–L5)
 1. Render pages at 120 dpi: `pdftoppm -r 120 -f <start> -l <end> -png "<book>.pdf" /tmp/p`.
 2. Transcribe each page into blocks (page-group files, then assemble into `content/study/lessons/<lessonId>.json`; see a1-te-l01.json / a1-te-l02.json).
    Block types: heading, dialogue (+translation), vocab, text, examples, pairs, exchanges, exercise (+image), table, figure, checklist, note.
