@@ -140,6 +140,26 @@
   "detail": ""
  },
  {
+  "test": "L9 renders all sections",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "L9 dialogue I read-all",
+  "ok": true,
+  "detail": "明華，這個星期我們放三天的假，你要回國嗎？不，我打算在家看小"
+ },
+ {
+  "test": "L9 grammar example speak",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "search finds L9 content",
+  "ok": true,
+  "detail": ""
+ },
+ {
   "test": "book page image loads",
   "ok": true,
   "detail": ""
