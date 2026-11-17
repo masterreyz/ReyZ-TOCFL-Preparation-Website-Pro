@@ -1,0 +1,1961 @@
+{
+ "id": "a1-te-l04",
+ "title": "請問一共多少錢？ Excuse Me. How Much Does That Cost in Total?",
+ "status": "complete",
+ "statusDetail": "Seluruh pelajaran (hlm. PDF 92–111) sudah ditranskripsi dan diperiksa terhadap halaman asli. Catatan: kolom zhuyin (ㄅㄆㄇ) di daftar kosakata tidak disalin; pelafalan tersedia dalam pinyin. Foto orang sungguhan tidak disalin.",
+ "transcribedBy": "Transkripsi manual dari gambar halaman, diperiksa per halaman, 2026-11-16",
+ "blocks": [
+  {
+   "type": "heading",
+   "id": "h-obj",
+   "zh": "學習目標",
+   "en": "Learning Objectives",
+   "source": {
+    "pages": [
+     92
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "obj",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Topic: 購物 Shopping"
+    },
+    {
+     "lang": "en",
+     "text": "• Learning to ask and talk about prices."
+    },
+    {
+     "lang": "en",
+     "text": "• Learning to ask for reasons."
+    },
+    {
+     "lang": "en",
+     "text": "• Learning to use simple phrases to describe the size and function of common objects."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-d1",
+   "zh": "對話一",
+   "en": "Dialogue I"
+  },
+  {
+   "type": "dialogue",
+   "id": "d1",
+   "track": "04-01",
+   "source": {
+    "pages": [
+     93,
+     94
+    ]
+   },
+   "lines": [
+    {
+     "spk": "老闆",
+     "zh": "請問你要買什麼？",
+     "py": "Qǐngwèn nǐ yào mǎi shénme?"
+    },
+    {
+     "spk": "明華",
+     "zh": "一杯熱咖啡。兩個包子。",
+     "py": "Yì bēi rè kāfēi. Liǎng ge bāozi."
+    },
+    {
+     "spk": "老闆",
+     "zh": "你要大杯、中杯還是小杯？",
+     "py": "Nǐ yào dà bēi, zhōng bēi háishì xiǎo bēi?"
+    },
+    {
+     "spk": "明華",
+     "zh": "大杯。包子請幫我微波。",
+     "py": "Dà bēi. Bāozi qǐng bāng wǒ wéibō."
+    },
+    {
+     "spk": "老闆",
+     "zh": "好的。請問外帶還是內用？",
+     "py": "Hǎode. Qǐngwèn wàidài háishì nèiyòng?"
+    },
+    {
+     "spk": "明華",
+     "zh": "外帶，一共多少錢？",
+     "py": "Wàidài, yígòng duōshǎo qián?"
+    },
+    {
+     "spk": "老闆",
+     "zh": "咖啡八十，包子四十，一共一百二十塊。",
+     "py": "Kāfēi bāshí, bāozi sìshí, yígòng yìbǎi èrshí kuài."
+    }
+   ],
+   "translation": [
+    {
+     "spk": "Store owner",
+     "en": "Excuse me, what would you like (to order)?"
+    },
+    {
+     "spk": "Minghua",
+     "en": "A cup of hot coffee and two baozi."
+    },
+    {
+     "spk": "Store owner",
+     "en": "Would you like a large, medium, or small cup?"
+    },
+    {
+     "spk": "Minghua",
+     "en": "Large. Please microwave the baozi for me."
+    },
+    {
+     "spk": "Store owner",
+     "en": "OK. Excuse me. Is this to go or for here?"
+    },
+    {
+     "spk": "Minghua",
+     "en": "To go. How much does that cost altogether?"
+    },
+    {
+     "spk": "Store owner",
+     "en": "80 for the coffee, 40 for the baozi. That will be 120 in total."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-v1",
+   "zh": "生詞一",
+   "en": "Vocabulary I"
+  },
+  {
+   "type": "vocab",
+   "id": "v1-vocab",
+   "title": "Vocabulary",
+   "track": "04-02",
+   "source": {
+    "pages": [
+     94
+    ]
+   },
+   "items": [
+    {
+     "n": 1,
+     "zh": "一共",
+     "py": "yígòng",
+     "pos": "Adv",
+     "en": "altogether"
+    },
+    {
+     "n": 2,
+     "zh": "多少",
+     "py": "duōshǎo",
+     "pos": "N",
+     "en": "how much, how many"
+    },
+    {
+     "n": 3,
+     "zh": "錢",
+     "py": "qián",
+     "pos": "N",
+     "en": "money"
+    },
+    {
+     "n": 4,
+     "zh": "老闆",
+     "py": "lǎobǎn",
+     "pos": "N",
+     "en": "store-owner, boss"
+    },
+    {
+     "n": 5,
+     "zh": "買",
+     "py": "mǎi",
+     "pos": "V",
+     "en": "to buy"
+    },
+    {
+     "n": 6,
+     "zh": "杯",
+     "py": "bēi",
+     "pos": "M",
+     "en": "cup"
+    },
+    {
+     "n": 7,
+     "zh": "熱",
+     "py": "rè",
+     "pos": "Vs",
+     "en": "hot"
+    },
+    {
+     "n": 8,
+     "zh": "包子",
+     "py": "bāozi",
+     "pos": "N",
+     "en": "steamed buns with meat stuffing filling"
+    },
+    {
+     "n": 9,
+     "zh": "要",
+     "py": "yào",
+     "pos": "V",
+     "en": "to want, to need"
+    },
+    {
+     "n": 10,
+     "zh": "大",
+     "py": "dà",
+     "pos": "Vs",
+     "en": "large"
+    },
+    {
+     "n": 11,
+     "zh": "中",
+     "py": "zhōng",
+     "pos": "Vs-attr",
+     "en": "medium"
+    },
+    {
+     "n": 12,
+     "zh": "小",
+     "py": "xiǎo",
+     "pos": "Vs",
+     "en": "small"
+    },
+    {
+     "n": 13,
+     "zh": "幫",
+     "py": "bāng",
+     "pos": "Prep",
+     "en": "for"
+    },
+    {
+     "n": 14,
+     "zh": "微波",
+     "py": "wéibō",
+     "pos": "V",
+     "en": "to microwave"
+    },
+    {
+     "n": 15,
+     "zh": "百",
+     "py": "bǎi",
+     "pos": "N",
+     "en": "hundred"
+    },
+    {
+     "n": 16,
+     "zh": "塊",
+     "py": "kuài",
+     "pos": "M",
+     "en": "measure word for Chinese money"
+    }
+   ]
+  },
+  {
+   "type": "vocab",
+   "id": "v1-phrases",
+   "title": "Phrases",
+   "source": {
+    "pages": [
+     95
+    ]
+   },
+   "items": [
+    {
+     "n": 17,
+     "zh": "好的",
+     "py": "hǎode",
+     "pos": "",
+     "en": "OK"
+    },
+    {
+     "n": 18,
+     "zh": "外帶",
+     "py": "wàidài",
+     "pos": "",
+     "en": "take out, to go"
+    },
+    {
+     "n": 19,
+     "zh": "內用",
+     "py": "nèiyòng",
+     "pos": "",
+     "en": "for here"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-d2",
+   "zh": "對話二",
+   "en": "Dialogue II"
+  },
+  {
+   "type": "dialogue",
+   "id": "d2",
+   "track": "04-03",
+   "source": {
+    "pages": [
+     95,
+     96
+    ]
+   },
+   "lines": [
+    {
+     "spk": "月美",
+     "zh": "我想買一支新手機。",
+     "py": "Wǒ xiǎng mǎi yì zhī xīn shǒujī."
+    },
+    {
+     "spk": "明華",
+     "zh": "妳的手機很好。為什麼要買新的？",
+     "py": "Nǐ de shǒujī hěn hǎo. Wèishénme yào mǎi xīn de?"
+    },
+    {
+     "spk": "月美",
+     "zh": "我這支手機太舊了，不好看。",
+     "py": "Wǒ zhè zhī shǒujī tài jiù le, bù hǎokàn."
+    },
+    {
+     "spk": "明華",
+     "zh": "妳想買哪種手機？",
+     "py": "Nǐ xiǎng mǎi nǎ zhǒng shǒujī?"
+    },
+    {
+     "spk": "月美",
+     "zh": "能照相也能上網。",
+     "py": "Néng zhàoxiàng yě néng shàngwǎng."
+    },
+    {
+     "spk": "明華",
+     "zh": "那種手機很好，我哥哥有一支。",
+     "py": "Nà zhǒng shǒujī hěn hǎo, wǒ gēge yǒu yì zhī."
+    },
+    {
+     "spk": "月美",
+     "zh": "貴不貴？一支賣多少錢？",
+     "py": "Guì bú guì? Yì zhī mài duōshǎo qián?"
+    },
+    {
+     "spk": "明華",
+     "zh": "那種手機不便宜。一支要一萬五千多。",
+     "py": "Nà zhǒng shǒujī bù piányí. Yì zhī yào yíwàn wǔqiān duō."
+    }
+   ],
+   "translation": [
+    {
+     "spk": "Yuemei",
+     "en": "I want to buy a new cell phone."
+    },
+    {
+     "spk": "Minghua",
+     "en": "Your cell phone is fine. Why do you want to buy a new one?"
+    },
+    {
+     "spk": "Yuemei",
+     "en": "This one of mine is too old. It's unattractive."
+    },
+    {
+     "spk": "Minghua",
+     "en": "What kind of cell phone do you want to buy?"
+    },
+    {
+     "spk": "Yuemei",
+     "en": "(One that) can take pictures and go online."
+    },
+    {
+     "spk": "Minghua",
+     "en": "Those kinds of cell phones are good. My brother has one."
+    },
+    {
+     "spk": "Yuemei",
+     "en": "Are they expensive? How much does one cost?"
+    },
+    {
+     "spk": "Minghua",
+     "en": "That kind of cell phone is not cheap. One costs over NT$15,000."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-v2",
+   "zh": "生詞二",
+   "en": "Vocabulary II"
+  },
+  {
+   "type": "vocab",
+   "id": "v2-vocab",
+   "title": "Vocabulary",
+   "track": "04-04",
+   "source": {
+    "pages": [
+     96,
+     97
+    ]
+   },
+   "items": [
+    {
+     "n": 1,
+     "zh": "支",
+     "py": "zhī",
+     "pos": "M",
+     "en": "measure word for cell phones"
+    },
+    {
+     "n": 2,
+     "zh": "新",
+     "py": "xīn",
+     "pos": "Vs",
+     "en": "new"
+    },
+    {
+     "n": 3,
+     "zh": "手機",
+     "py": "shǒujī",
+     "pos": "N",
+     "en": "cell phone"
+    },
+    {
+     "n": 4,
+     "zh": "太",
+     "py": "tài",
+     "pos": "Adv",
+     "en": "too"
+    },
+    {
+     "n": 5,
+     "zh": "舊",
+     "py": "jiù",
+     "pos": "Vs",
+     "en": "old"
+    },
+    {
+     "n": 6,
+     "zh": "了",
+     "py": "le",
+     "pos": "Ptc",
+     "en": "sentence-final particle indicating the speaker's sense of certainty"
+    },
+    {
+     "n": 7,
+     "zh": "種",
+     "py": "zhǒng",
+     "pos": "M",
+     "en": "kind, type"
+    },
+    {
+     "n": 8,
+     "zh": "能",
+     "py": "néng",
+     "pos": "Vaux",
+     "en": "can, to be able to"
+    },
+    {
+     "n": 9,
+     "zh": "上網",
+     "py": "shàngwǎng",
+     "pos": "V-sep",
+     "en": "to access the internet, to use the internet"
+    },
+    {
+     "n": 10,
+     "zh": "那",
+     "py": "nà / nèi",
+     "pos": "Det",
+     "en": "that"
+    },
+    {
+     "n": 11,
+     "zh": "貴",
+     "py": "guì",
+     "pos": "Vs",
+     "en": "expensive"
+    },
+    {
+     "n": 12,
+     "zh": "賣",
+     "py": "mài",
+     "pos": "V",
+     "en": "to sell"
+    },
+    {
+     "n": 13,
+     "zh": "便宜",
+     "py": "piányí",
+     "pos": "Vs",
+     "en": "cheap, inexpensive"
+    },
+    {
+     "n": 14,
+     "zh": "要",
+     "py": "yào",
+     "pos": "Vst",
+     "en": "to take, to require"
+    },
+    {
+     "n": 15,
+     "zh": "萬",
+     "py": "wàn",
+     "pos": "N",
+     "en": "ten thousand"
+    },
+    {
+     "n": 16,
+     "zh": "千",
+     "py": "qiān",
+     "pos": "N",
+     "en": "thousand"
+    }
+   ]
+  },
+  {
+   "type": "vocab",
+   "id": "v2-phrases",
+   "title": "Phrases",
+   "source": {
+    "pages": [
+     97
+    ]
+   },
+   "items": [
+    {
+     "n": 17,
+     "zh": "為什麼",
+     "py": "wèishénme",
+     "pos": "",
+     "en": "why"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-gr",
+   "zh": "文法",
+   "en": "Grammar",
+   "source": {
+    "pages": [
+     97
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "g1",
+   "en": "I. Measures 塊 kuài, 杯 bēi, 支 zhī and 種 zhǒng"
+  },
+  {
+   "type": "text",
+   "id": "g1-s1",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Structures:"
+    },
+    {
+     "lang": "en",
+     "text": "1. A measure word is needed when a noun is modified by a number."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g1-s1-ex",
+   "items": [
+    {
+     "zh": "一杯咖啡",
+     "py": "yì bēi kāfēi",
+     "en": "one cup of coffee"
+    },
+    {
+     "zh": "十支手機",
+     "py": "shí zhī shǒujī",
+     "en": "ten (units of) cell phones"
+    },
+    {
+     "zh": "三個弟弟",
+     "py": "sān ge dìdi",
+     "en": "three younger brothers"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "g1-s2",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "2. Determiners 這 zhè, 那 nà, 哪 nǎ precede the words measures shown in Structure 1-(1), 一 yī is usually omitted."
+    },
+    {
+     "lang": "en",
+     "text": "Det + Numeral + Measure + N"
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g1-s2-ex",
+   "source": {
+    "pages": [
+     97,
+     98
+    ]
+   },
+   "items": [
+    {
+     "zh": "這兩杯熱咖啡一共多少錢？",
+     "py": "Zhè liǎng bēi rè kāfēi yígòng duōshǎo qián?",
+     "en": "How much in total is it for these two cups of hot coffee?"
+    },
+    {
+     "zh": "那三支手機太舊了。",
+     "py": "Nà sān zhī shǒujī tài jiù le.",
+     "en": "Those three cell phones are too old."
+    },
+    {
+     "zh": "哪（一）種手機不貴？",
+     "py": "Nǎ (yì) zhǒng shǒujī bú guì?",
+     "en": "Which type of cell phone is not expensive?"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "g1-x",
+   "title": "練習 Exercise",
+   "instruction": "Please fill in the blanks with measure words.",
+   "source": {
+    "pages": [
+     98
+    ]
+   },
+   "items": [
+    {
+     "prompt": "一＿＿＿熱咖啡三十五塊錢。",
+     "hint": ""
+    },
+    {
+     "prompt": "這兩＿＿＿手機都能上網。",
+     "hint": ""
+    },
+    {
+     "prompt": "那十＿＿＿臺灣人喜歡喝烏龍茶。",
+     "hint": ""
+    },
+    {
+     "prompt": "這＿＿＿茶很好喝。",
+     "hint": ""
+    },
+    {
+     "prompt": "哪＿＿＿包子好吃？",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "g2",
+   "en": "II. Preposition 幫 bāng on behalf of"
+  },
+  {
+   "type": "text",
+   "id": "g2-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Function: 幫 bāng introduces the beneficiary of an action."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g2-ex",
+   "items": [
+    {
+     "zh": "請幫我微波包子。",
+     "py": "Qǐng bāng wǒ wéibō bāozi.",
+     "en": "Please microwave the baozi for me."
+    },
+    {
+     "zh": "請幫我買一杯咖啡。",
+     "py": "Qǐng bāng wǒ mǎi yì bēi kāfēi.",
+     "en": "Please buy a cup of coffee for me."
+    },
+    {
+     "zh": "請幫我照相。",
+     "py": "Qǐng bāng wǒ zhàoxiàng.",
+     "en": "Please take a picture for me."
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "g2-s",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Structures:"
+    },
+    {
+     "lang": "en",
+     "text": "Negation: The negation marker 不 bù is placed before the preposition 幫 bāng, not before the verb."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g2-neg-ex",
+   "title": "Negation",
+   "source": {
+    "pages": [
+     99
+    ]
+   },
+   "items": [
+    {
+     "zh": "他不幫我微波包子。",
+     "py": "Tā bù bāng wǒ wéibō bāozi.",
+     "en": "He won't microwave the baozi for me. (Not: *他幫我不微波包子。)"
+    },
+    {
+     "zh": "姐姐不幫弟弟買咖啡。",
+     "py": "Jiějie bù bāng dìdi mǎi kāfēi.",
+     "en": "Sister won't buy coffee for brother. (Not: *姐姐幫弟弟不買咖啡。)"
+    },
+    {
+     "zh": "王先生不幫我照相。",
+     "py": "Wáng Xiānshēng bù bāng wǒ zhàoxiàng.",
+     "en": "Mr. Wang would not take a picture for me. (Not: *王先生幫我不照相。)"
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g2-q-ex",
+   "title": "Questions",
+   "items": [
+    {
+     "zh": "你幫不幫他買手機？",
+     "py": "Nǐ bāng bù bāng tā mǎi shǒujī?",
+     "en": "Are you going to buy a cell phone on his behalf?"
+    },
+    {
+     "zh": "他幫你照相嗎？",
+     "py": "Tā bāng nǐ zhàoxiàng ma?",
+     "en": "Did he take a photo for you?"
+    },
+    {
+     "zh": "誰能幫安同微波包子？",
+     "py": "Shéi néng bāng Āntóng wéibō bāozi?",
+     "en": "Who can microwave a baozi for Antong?"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "g2-x",
+   "title": "練習 Exercise",
+   "instruction": "Complete the sentences below with the beneficiary 幫 bāng.",
+   "image": "ex-p99.webp",
+   "imageAlt": "Tiga gambar: (1) bakpao di dalam microwave; (2) seorang wanita dan pria, dengan gelembung pikiran toko dan kopi; (3) dua wanita ingin difoto di depan gedung, seorang memegang kamera.",
+   "items": [
+    {
+     "prompt": "包子不熱。請你＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "我想喝咖啡。請你＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "我們想照相。請你＿＿＿＿＿＿。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "g3",
+   "en": "III. 的 De-phrase with the Head Noun Omitted",
+   "source": {
+    "pages": [
+     100
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g3-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Function: Nouns are always ‘modified’ or described using this structure: modifier 的 + head noun. When the head noun is clear from the context, the head noun is often omitted."
+    }
+   ]
+  },
+  {
+   "type": "exchanges",
+   "id": "g3-exch",
+   "items": [
+    {
+     "a": {
+      "zh": "你要買新手機還是舊手機？",
+      "py": "Nǐ yào mǎi xīn shǒujī háishì jiù shǒujī?",
+      "en": "Do you want to buy a new cell phone or an old one?"
+     },
+     "b": {
+      "zh": "我要新的，不要舊的。",
+      "py": "Wǒ yào xīn de, bú yào jiù de.",
+      "en": "I want a new one. I don't want an old one."
+     }
+    },
+    {
+     "a": {
+      "zh": "新手機貴不貴？",
+      "py": "Xīn shǒujī guì bú guì?",
+      "en": "Are new cell phones expensive?"
+     },
+     "b": {
+      "zh": "新的很貴。",
+      "py": "Xīn de hěn guì.",
+      "en": "New ones are expensive."
+     }
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "g3-s",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Structures:"
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g3-neg-ex",
+   "title": "Negation",
+   "items": [
+    {
+     "zh": "你的手機不是新的。",
+     "py": "Nǐ de shǒujī bú shì xīn de.",
+     "en": "Your cell phone is not new."
+    },
+    {
+     "zh": "這杯咖啡不熱，我要熱的。",
+     "py": "Zhè bēi kāfēi bú rè, wǒ yào rè de.",
+     "en": "This cup of coffee is not hot. I want a hot one."
+    },
+    {
+     "zh": "房子很貴，我不買大的。",
+     "py": "Fángzi hěn guì, wǒ bù mǎi dà de.",
+     "en": "Houses are expensive. I won't buy a large one."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g3-q-ex",
+   "title": "Questions",
+   "source": {
+    "pages": [
+     101
+    ]
+   },
+   "items": [
+    {
+     "zh": "房子，你喜歡新的嗎？",
+     "py": "Fángzi, nǐ xǐhuān xīn de ma?",
+     "en": "House, do you like a new one?"
+    },
+    {
+     "zh": "手機，他買不買舊的？",
+     "py": "Shǒujī, tā mǎi bù mǎi jiù de?",
+     "en": "Cell phone, will he buy an old one?"
+    },
+    {
+     "zh": "咖啡，你要熱的嗎？",
+     "py": "Kāfēi, nǐ yào rè de ma?",
+     "en": "Coffee, do you want a cup of hot one?"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "g3-x",
+   "title": "練習 Exercise",
+   "instruction": "Complete the answers.",
+   "items": [
+    {
+     "prompt": "A：這杯茶熱，那杯不熱。你要哪一杯？　B：我要＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：王先生要買新手機還是舊手機？　B：他要買＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：新手機能上網，舊的不能上網。你要哪種？　B：我要＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：大杯熱茶35塊錢，小的25塊錢，你要買哪一杯？　B：我要＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：大的很貴，小的很便宜。你喜歡哪一個？　B：我喜歡＿＿＿＿＿＿。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "g4",
+   "en": "IV. 太 tài…了 le overly"
+  },
+  {
+   "type": "text",
+   "id": "g4-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Function: 太 tài…了 le indicates “too” or “overly”, a negative observation given by the speaker."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g4-ex",
+   "source": {
+    "pages": [
+     101,
+     102
+    ]
+   },
+   "items": [
+    {
+     "zh": "太貴了。",
+     "py": "Tài guì le.",
+     "en": "(Too expensive.)"
+    },
+    {
+     "zh": "太大了。",
+     "py": "Tài dà le.",
+     "en": "(Too big.)"
+    },
+    {
+     "zh": "太熱了。",
+     "py": "Tài rè le.",
+     "en": "(Too hot.)"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "g4-u",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Usage:"
+    },
+    {
+     "lang": "en",
+     "text": "1. “太 tài + Vs” means that a noun is “too” or “overly” (adj.). This pattern can also be used as a predicate, e.g., 那支手機太貴。Nà zhī shǒujī tài guì. ‘That cell phone is too expensive’."
+    },
+    {
+     "lang": "en",
+     "text": "2. “太 tài + Vs + 了” is more subjective, indicating that the speaker feels that what is being talked about is excessively (adj.). For example, 那支手機太貴了。Nà zhī shǒujī tài guì le. ‘That cell phone is way too expensive’."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "g4-x",
+   "title": "練習 Exercise",
+   "instruction": "Complete the answers below using “太…了” with the following words: 舊、貴、大、熱、小",
+   "source": {
+    "pages": [
+     102
+    ]
+   },
+   "items": [
+    {
+     "prompt": "A：你為什麼不買那種手機？　B：＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：你喜歡吃大包子嗎？　B：不喜歡，＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：你為什麼要買新手機？　B：我的手機＿＿＿，不好看。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：你們為什麼不賣小杯咖啡？　B：＿＿＿＿＿＿，沒有人買。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：你要喝熱咖啡嗎？　B：＿＿＿＿＿＿，我不要喝。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "g5",
+   "en": "V. 能 néng capability"
+  },
+  {
+   "type": "text",
+   "id": "g5-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Function: The auxiliary verb 能 néng expresses some capability of the subject."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g5-ex",
+   "items": [
+    {
+     "zh": "新手機能上網。",
+     "py": "Xīn shǒujī néng shàngwǎng.",
+     "en": "New cell phones can go online."
+    },
+    {
+     "zh": "那支手機能照相。",
+     "py": "Nà zhī shǒujī néng zhàoxiàng.",
+     "en": "That cell phone can take photos."
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "g5-s",
+   "source": {
+    "pages": [
+     103
+    ]
+   },
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Structures:"
+    },
+    {
+     "lang": "en",
+     "text": "Negation: The negation marker 不 bù should be placed before, and not after the auxiliary verb."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g5-neg-ex",
+   "title": "Negation",
+   "items": [
+    {
+     "zh": "我的手機不能上網。",
+     "py": "Wǒ de shǒujī bù néng shàngwǎng.",
+     "en": "My cell phone cannot access the internet."
+    },
+    {
+     "zh": "誰的手機不能照相？",
+     "py": "Shéi de shǒujī bù néng zhàoxiàng?",
+     "en": "Whose cell phone cannot take pictures?"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "g5-q",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Questions: The auxiliary verb 能 néng is placed in the A position in the A-not-A pattern."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g5-q-ex",
+   "title": "Questions",
+   "items": [
+    {
+     "zh": "你的手機能不能照相？",
+     "py": "Nǐ de shǒujī néng bù néng zhàoxiàng?",
+     "en": "Can your cell phone take pictures?"
+    },
+    {
+     "zh": "舊的能不能上網？",
+     "py": "Jiù de néng bù néng shàngwǎng?",
+     "en": "Can the old one go online?"
+    },
+    {
+     "zh": "那支手機能不能上網？",
+     "py": "Nà zhī shǒujī néng bù néng shàngwǎng?",
+     "en": "Can that cell phone go online?"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "g5-x",
+   "title": "練習 Exercise",
+   "instruction": "Look at the pictures and use 能 or 不能 to answer the questions.",
+   "image": "ex-p103-104.webp",
+   "imageAlt": "Lima gambar: (1) ponsel lama dan ponsel pintar; (2) anak laki-laki duduk memegangi kakinya di dekat bola sepak; (3) menu 咖啡、烏龍茶、日本茶, tulisan 外帶一杯45元; (4) pria memegang ponsel dengan tanda WiFi dicoret; (5) pemilik toko memasukkan bakpao ke microwave untuk seorang pelanggan.",
+   "source": {
+    "pages": [
+     103,
+     104
+    ]
+   },
+   "items": [
+    {
+     "prompt": "哪種手機能照相？",
+     "hint": ""
+    },
+    {
+     "prompt": "他今天能不能踢足球？",
+     "hint": ""
+    },
+    {
+     "prompt": "烏龍茶能不能外帶？",
+     "hint": ""
+    },
+    {
+     "prompt": "他能不能上網？",
+     "hint": ""
+    },
+    {
+     "prompt": "老闆能不能幫他微波包子？",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "g6",
+   "en": "VI. 多 duō …and more",
+   "source": {
+    "pages": [
+     104
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g6-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Function: 多 duō is used after numbers to indicate “more than” or “over”."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g6-ex",
+   "items": [
+    {
+     "zh": "二十多個人",
+     "py": "èrshí duō ge rén",
+     "en": "20 some people"
+    },
+    {
+     "zh": "五萬多支手機",
+     "py": "wǔ wàn duō zhī shǒujī",
+     "en": "50,000 plus cell phone"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "g6-s1",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Structures:"
+    },
+    {
+     "lang": "en",
+     "text": "1. When 多 duō is associated with a number greater than 10, 多 indicates the residual amount."
+    }
+   ]
+  },
+  {
+   "type": "table",
+   "id": "g6-t1",
+   "head": [
+    "數詞 numeral",
+    "多 more",
+    "量詞 measure",
+    "名詞 noun"
+   ],
+   "rows": [
+    [
+     "二十",
+     "多",
+     "個",
+     "人"
+    ],
+    [
+     "五百",
+     "多",
+     "個",
+     "包子"
+    ],
+    [
+     "一千",
+     "多",
+     "支",
+     "手機"
+    ],
+    [
+     "三萬四千",
+     "多",
+     "塊",
+     "錢"
+    ]
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g6-t1-ex",
+   "items": [
+    {
+     "zh": "二十多個人",
+     "py": "èrshí duō ge rén",
+     "en": "over 20 people (but under 30)"
+    },
+    {
+     "zh": "一千多支手機",
+     "py": "yìqiān duō zhī shǒujī",
+     "en": "over 1,000 cell phones (but under 2,000)"
+    },
+    {
+     "zh": "五百多個包子",
+     "py": "wǔbǎi duō ge bāozi",
+     "en": "over 500 baozi (but under 600)"
+    },
+    {
+     "zh": "三萬四千多塊錢",
+     "py": "sānwàn sìqiān duō kuài qián",
+     "en": "over 34,000 dollars (but under 35,000)"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "g6-s2",
+   "source": {
+    "pages": [
+     105
+    ]
+   },
+   "paras": [
+    {
+     "lang": "en",
+     "text": "2. When 多 duō is used with a number, it refers to what is not specified."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g6-s2-ex",
+   "items": [
+    {
+     "zh": "五塊多（錢）",
+     "py": "wǔ kuài duō (qián)",
+     "en": "more than five dollars (under 6)"
+    },
+    {
+     "zh": "一塊多（錢）",
+     "py": "yí kuài duō (qián)",
+     "en": "more than one dollar (under 2)"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "g6-x",
+   "title": "練習 Exercise",
+   "instruction": "Complete responses as specified. (Item 1 is the model answer.)",
+   "image": "ex-p105.webp",
+   "imageAlt": "Gambar untuk soal 2: dua bakpao; gambar untuk soal 4: tujuh lembar uang dolar dan sekeping koin 25 sen.",
+   "items": [
+    {
+     "prompt": "你賣多少手機？ → 一千兩百多支手機（1,200～1,300）",
+     "hint": ""
+    },
+    {
+     "prompt": "你吃幾個包子？（lihat gambar bakpao）＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "你有多少錢？＿＿＿＿＿＿（50,000～55,000）",
+     "hint": ""
+    },
+    {
+     "prompt": "他有幾塊錢？（lihat gambar uang）＿＿＿＿＿＿（7～8）",
+     "hint": ""
+    },
+    {
+     "prompt": "那支手機賣多少錢？＿＿＿＿＿＿（21,000～22,000）",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-act",
+   "zh": "課室活動",
+   "en": "Classroom Activities",
+   "source": {
+    "pages": [
+     106
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "act1",
+   "en": "I. Ask and Talk about Prices"
+  },
+  {
+   "type": "text",
+   "id": "act1-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Learning to ask and talk about prices."
+    },
+    {
+     "lang": "en",
+     "text": "Task: Your classmate purchased something, so s/he knows the price. Ask him/her about the costs of the items below."
+    }
+   ]
+  },
+  {
+   "type": "figure",
+   "id": "act1-fig",
+   "image": "act1-p106.webp",
+   "alt": "Empat gambar: 圖一 kopi dalam gelas bawa pulang 70元; 圖二 dua cangkir teh masing-masing 35元; 圖三 ponsel 14800元; 圖四 lima bakpao, 一個12塊錢.",
+   "caption": "圖一 70元 ・ 圖二 35元／35元 ・ 圖三 14800元 ・ 圖四 一個12塊錢"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "act2",
+   "en": "II. My Cell Phone"
+  },
+  {
+   "type": "text",
+   "id": "act2-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Learning to use simple phrases to describe the size and functions of common objects."
+    },
+    {
+     "lang": "en",
+     "text": "Task: Describe your cellphone, e.g., its size and what it can do."
+    }
+   ]
+  },
+  {
+   "type": "figure",
+   "id": "act2-fig",
+   "image": "act2-p106.webp",
+   "alt": "Gambar ponsel dengan label 我的手機.",
+   "caption": "我的手機"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "act3",
+   "en": "III. Ask for Reasons"
+  },
+  {
+   "type": "text",
+   "id": "act3-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Learning to ask for reasons."
+    },
+    {
+     "lang": "en",
+     "text": "Task: You would like to buy a gift for your friend. Pair up with a classmate to discuss which cell phone is better. Say which cell phone you picked and explain why. Include at least the following grammatical patterns in your discussion:"
+    },
+    {
+     "lang": "zh",
+     "text": "這三支手機，你喜歡…，…，還是…？"
+    },
+    {
+     "lang": "zh",
+     "text": "為什麼？"
+    },
+    {
+     "lang": "zh",
+     "text": "…太…了"
+    },
+    {
+     "lang": "zh",
+     "text": "一支要…"
+    }
+   ]
+  },
+  {
+   "type": "figure",
+   "id": "act3-fig",
+   "image": "act3-p106.webp",
+   "alt": "Tiga ponsel: ponsel lama 2000元; ponsel tanpa kamera (ikon kamera dicoret) dengan WiFi 8000元; ponsel besar dengan kamera dan WiFi 12000元.",
+   "caption": "2000元 ・ 8000元 ・ 12000元"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "act4",
+   "en": "IV. Counting from 11 to 110",
+   "source": {
+    "pages": [
+     107
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "act4-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Task: Fill in the missing numbers to 110. (Empty cells are the ones to fill in.)"
+    }
+   ]
+  },
+  {
+   "type": "table",
+   "id": "act4-tab",
+   "head": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "rows": [
+    [
+     "11 十一 shíyī",
+     "12 十二 shí'èr",
+     "13 十三 shísān",
+     "14 十四 shísì",
+     "15 十五 shíwǔ",
+     "16 十六 shíliù",
+     "17 十七 shíqī",
+     "18 十八 shíbā",
+     "19 十九 shíjiǔ",
+     "20 二十 èrshí"
+    ],
+    [
+     "21 二十一 èrshíyī",
+     "",
+     "",
+     "",
+     "25 二十五 èrshíwǔ",
+     "",
+     "27 二十七 èrshíqī",
+     "",
+     "",
+     "30 三十 sānshí"
+    ],
+    [
+     "31 三十一 sānshíyī",
+     "",
+     "",
+     "34 三十四 sānshísì",
+     "",
+     "",
+     "",
+     "38 三十八 sānshíbā",
+     "",
+     "40 四十 sìshí"
+    ],
+    [
+     "41 四十一 sìshíyī",
+     "42 四十二 sìshí'èr",
+     "43 四十三 sìshísān",
+     "",
+     "",
+     "46 四十六 sìshíliù",
+     "",
+     "",
+     "",
+     "50 五十 wǔshí"
+    ],
+    [
+     "51 五十一 wǔshíyī",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "60 六十 liùshí"
+    ],
+    [
+     "61 六十一 liùshíyī",
+     "",
+     "",
+     "64 六十四 liùshísì",
+     "",
+     "66 六十六 liùshíliù",
+     "",
+     "68 六十八 liùshíbā",
+     "",
+     "70 七十 qīshí"
+    ],
+    [
+     "71 七十一 qīshíyī",
+     "",
+     "73 七十三 qīshísān",
+     "",
+     "75 七十五 qīshíwǔ",
+     "",
+     "77 七十七 qīshíqī",
+     "",
+     "",
+     "80 八十 bāshí"
+    ],
+    [
+     "81 八十一 bāshíyī",
+     "82 八十二 bāshí'èr",
+     "",
+     "84 八十四 bāshísì",
+     "",
+     "",
+     "87 八十七 bāshíqī",
+     "",
+     "",
+     "90 九十 jiǔshí"
+    ],
+    [
+     "91 九十一 jiǔshíyī",
+     "",
+     "",
+     "94 九十四 jiǔshísì",
+     "",
+     "96 九十六 jiǔshíliù",
+     "",
+     "",
+     "99 九十九 jiǔshíjiǔ",
+     "100 一百 yìbǎi"
+    ],
+    [
+     "101 一百零一 yìbǎi líng yī",
+     "102 一百零二 yìbǎi líng èr",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "110 一百一十 yìbǎi yīshí"
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "id": "act4-zero",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "0（零 líng）: zero"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-cult",
+   "zh": "文化",
+   "en": "Bits of Chinese Culture — Around-the-clock Convenience Stores",
+   "source": {
+    "pages": [
+     108
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "cult",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Students who are new to Taiwan can buy their meals without knowing a single word in Chinese. They can do this in any of Taiwan's 24/7 convenience stores. Many students will probably even miss the convenience of these stores after they have returned to their countries and wish that they could take the stores home with them."
+    },
+    {
+     "lang": "en",
+     "text": "Convenience stores are very important to local life in Taiwan and offer an impressive range of services. You get full meals, snacks, drinks, stationary supplies, articles for daily use, DVDs, fashion magazines, and newspapers as well as make photocopies, fax documents, withdraw money, pay bills, and even mail letters and packages at convenience stores. What's more, you can pick up merchandise, books, and tickets that you order online. During holidays, you can place orders for a festive meal or a cake at a convenience store and then pick it up anytime."
+    }
+   ]
+  },
+  {
+   "type": "note",
+   "id": "cult-photos",
+   "text": "Halaman ini juga memuat delapan foto (Fresh coffee sold at convenience stores, Paying bills, Ticket-buying kiosk, ATM, Salads and noodles, Mailing packages, Hot food, Hotdogs and other foods; 照片授權拍攝：統一超商股份有限公司). Foto tidak disalin karena menampilkan orang sungguhan dan milik pemegang hak; lihat halaman asli buku."
+  },
+  {
+   "type": "heading",
+   "id": "h-pron",
+   "en": "Notes on Pinyin and Pronunciation",
+   "source": {
+    "pages": [
+     109
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "pr1",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "1. Pinyin Rules"
+    },
+    {
+     "lang": "en",
+     "text": "When “zh-”, “ch-”, and “sh-” stand alone, an “i” is added to the end. When “-iao” does not follow a consonant, change the “i” to “y” to form yào（要）(see Lesson Three for explanations)."
+    },
+    {
+     "lang": "en",
+     "text": "When the vowel “u” is followed by other vowels, but is not preceded by a consonant, change the “u” to “w,” as in “u” + “ei” → wéi（微）. However, when “u + ei” is preceded by a consonant, the “e” is omitted and the spelling becomes “ui,” as in duì（對）and guì（貴）. The pronunciation, however, remains “du(e)i.”"
+    },
+    {
+     "lang": "en",
+     "text": "2. Tone Mark Rules (Position of the Tone Marks)"
+    },
+    {
+     "lang": "en",
+     "text": "All tone marks in pinyin are placed above the vowels, as in bà（爸）, mā（媽）, bó（伯）, and mǔ（母）. Please note that when placing the tone mark above “i,” the dot is not necessary, as in yī（一）. With compound vowels, the placement of tone marks is prioritized as follows: a > e, o > i, u, ü."
+    },
+    {
+     "lang": "en",
+     "text": "Example: lái（來）, zhào（照）, měi（美）, jué（覺）, dōu（都）, xiǎo（小）. Also note that a/e, e/o never appear together."
+    },
+    {
+     "lang": "en",
+     "text": "When “i” and “u” appear together, the tone mark is placed above the last appearing vowel, as in duì（對）, niú（牛）."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-char",
+   "en": "Introduction to Chinese Characters — Basic Chinese Radicals"
+  },
+  {
+   "type": "text",
+   "id": "char1",
+   "source": {
+    "pages": [
+     109,
+     110
+    ]
+   },
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Radicals are components of Chinese characters, usually on the left, that systematically categorize Chinese characters by their meanings. For example, eating “吃” and drinking “喝” require the use of the mouth, thus they fall under the mouth “口” radical; listening “聽” requires the use of one's ears, hence naturally belongs to the ear “耳” radical. Radicals lend hand to the cognition and memory of Chinese characters, and lead to the understanding of the characters' fundamental meanings. When learners do not know the pronunciation of a certain character, they can use their knowledge of radicals to look up the character. There are 214 radicals in used in modern day dictionaries, below are 35 commonly used ones from words you have already learned thus far."
+    }
+   ]
+  },
+  {
+   "type": "table",
+   "id": "char-rad",
+   "source": {
+    "pages": [
+     110,
+     111
+    ]
+   },
+   "head": [
+    "Chinese Radical",
+    "Pinyin",
+    "English",
+    "Example"
+   ],
+   "cellClass": [
+    "zh-cell",
+    "tone-cell",
+    "",
+    "zh-cell"
+   ],
+   "rows": [
+    [
+     "人亻",
+     "rén",
+     "person",
+     "來、你"
+    ],
+    [
+     "力",
+     "lì",
+     "strength",
+     "動"
+    ],
+    [
+     "口",
+     "kǒu",
+     "mouth",
+     "吃、喝"
+    ],
+    [
+     "土",
+     "tǔ",
+     "earth",
+     "坐、塊"
+    ],
+    [
+     "夕",
+     "xì",
+     "sunset",
+     "多、外"
+    ],
+    [
+     "大",
+     "dà",
+     "big",
+     "天、太"
+    ],
+    [
+     "女",
+     "nǚ",
+     "female",
+     "好、姐"
+    ],
+    [
+     "子",
+     "zǐ",
+     "child",
+     "學"
+    ],
+    [
+     "寸",
+     "cùn",
+     "inch",
+     "對"
+    ],
+    [
+     "巾",
+     "jīn",
+     "napkin",
+     "常、幫"
+    ],
+    [
+     "心忄",
+     "xīn",
+     "heart",
+     "想、怕"
+    ],
+    [
+     "戈",
+     "gē",
+     "spear",
+     "我"
+    ],
+    [
+     "戶",
+     "hù",
+     "household",
+     "房"
+    ],
+    [
+     "手扌",
+     "shǒu",
+     "hand",
+     "打、接"
+    ],
+    [
+     "日",
+     "rì",
+     "sun",
+     "明、是"
+    ],
+    [
+     "月",
+     "yuè",
+     "moon",
+     "有"
+    ],
+    [
+     "木",
+     "mù",
+     "tree",
+     "李、杯"
+    ],
+    [
+     "水氵",
+     "shuǐ",
+     "water",
+     "波、游"
+    ],
+    [
+     "火灬",
+     "huǒ",
+     "fire",
+     "照、熱"
+    ],
+    [
+     "玉王",
+     "yù",
+     "jade",
+     "玩、球"
+    ],
+    [
+     "白",
+     "bái",
+     "white",
+     "百、的"
+    ],
+    [
+     "目",
+     "mù",
+     "eye",
+     "相、看"
+    ],
+    [
+     "竹⺮",
+     "zhú",
+     "bamboo",
+     "籃"
+    ],
+    [
+     "糸糹",
+     "mì",
+     "silk",
+     "網"
+    ],
+    [
+     "耳",
+     "ěr",
+     "ear",
+     "聽"
+    ],
+    [
+     "肉月",
+     "ròu",
+     "meat",
+     "能"
+    ],
+    [
+     "見",
+     "jiàn",
+     "see",
+     "覺"
+    ],
+    [
+     "言",
+     "yán",
+     "speech",
+     "請、謝"
+    ],
+    [
+     "貝",
+     "bèi",
+     "shell",
+     "買、貴"
+    ],
+    [
+     "足⻊",
+     "zú",
+     "foot",
+     "踢"
+    ],
+    [
+     "走",
+     "zǒu",
+     "walk",
+     "起、越"
+    ],
+    [
+     "金",
+     "jīn",
+     "metal",
+     "錢"
+    ],
+    [
+     "門",
+     "mén",
+     "door",
+     "開、闆"
+    ],
+    [
+     "雨",
+     "yǔ",
+     "rain",
+     "電"
+    ],
+    [
+     "食飠",
+     "shí",
+     "eat",
+     "飯"
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-self",
+   "en": "Self-Assessment Checklist",
+   "source": {
+    "pages": [
+     111
+    ]
+   }
+  },
+  {
+   "type": "checklist",
+   "id": "self",
+   "items": [
+    "I can ask and talk about prices.",
+    "I can ask for reasons.",
+    "I can use simple phrases to describe the size and functions of common objects."
+   ]
+  }
+ ]
+}
