@@ -60,3 +60,40 @@ The book's dialogues, exercises, explanations and illustrations are **not** copi
    Photos of people are not copied (link to the original page instead).
 3. Check every page against the image (characters, tone-marked pinyin, numbering, punctuation), then set `"status": "complete"`.
 4. `python pipeline/parse_study.py "<SRC>" .` → `python pipeline/finalize.py .` → `npm run build` → `npm test` → `python scripts/e2e_pages.py` → commit + push.
+
+## TOCFL Exercise explanations (pinyin + English)
+
+Pinyin is generated for every Chinese text. English is written per test in `pipeline/explain_src/<testId>.json` (see README §4). Order of work: Novice → A → B Reading → C Reading → B Listening → C Listening.
+
+| Test | Segments | English |
+|---|---|---|
+| a-l1 | 201 | ✅ complete |
+| a-l2 | 197 | ✅ complete |
+| a-l3 | 240 | ✅ complete |
+| a-l4 | 235 | ✅ complete |
+| a-l5 | 226 | ✅ complete |
+| a-r1 | 162 | ✅ complete |
+| a-r2 | 160 | ✅ complete |
+| a-r3 | 150 | ✅ complete |
+| a-r4 | 156 | ✅ complete |
+| a-r5 | 153 | ✅ complete |
+| b-l1 | 370 | ⏭ pinyin only — English to do |
+| b-l2 | 359 | ⏭ pinyin only — English to do |
+| b-l3 | 407 | ⏭ pinyin only — English to do |
+| b-l4 | 425 | ⏭ pinyin only — English to do |
+| b-l5 | 446 | ⏭ pinyin only — English to do |
+| b-r1 | 319 | ✅ complete |
+| b-r2 | 325 | ✅ complete |
+| b-r3 | 321 | ✅ complete |
+| b-r4 | 319 | ⏭ pinyin only — English to do |
+| b-r5 | 326 | ⏭ pinyin only — English to do |
+| c-l1 | 438 | ⏭ pinyin only — English to do |
+| c-l2 | 463 | ⏭ pinyin only — English to do |
+| c-l3 | 404 | ⏭ pinyin only — English to do |
+| c-l4 | 456 | ⏭ pinyin only — English to do |
+| c-r1 | 347 | ⏭ pinyin only — English to do |
+| c-r2 | 310 | ⏭ pinyin only — English to do |
+| c-r3 | 316 | ⏭ pinyin only — English to do |
+| c-r4 | 345 | ⏭ pinyin only — English to do |
+| novice-l1 | 75 | ✅ complete |
+| novice-r1 | 45 | ✅ complete |
