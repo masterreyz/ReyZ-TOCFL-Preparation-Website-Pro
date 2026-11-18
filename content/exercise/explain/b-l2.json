@@ -8,7 +8,7 @@
    "options": {
     "A": {
      "zh": "白天都是晴天",
-     "py": "Báitiān dōu shì Qíngtiān",
+     "py": "Báitiān dōu shì qíngtiān",
      "en": "(A) Sunny all day",
      "idn": "(A) Cerah sepanjang hari"
     },
@@ -94,7 +94,7 @@
     },
     {
      "zh": "男：這位小姐覺得這本書怎麼樣？",
-     "py": "Nán: Zhèwèi Xiǎojiě juéde zhè běnshū zěnmeyàng?",
+     "py": "Nán: Zhèwèi xiǎojiě juéde zhè běnshū zěnmeyàng?",
      "en": "Man: What does the woman think of this book?",
      "idn": "Pria: Bagaimana pendapat wanita itu tentang buku ini?"
     }
@@ -142,7 +142,7 @@
     },
     {
      "zh": "男：這位小姐的意思是什麼？",
-     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?",
+     "py": "Nán: Zhèwèi xiǎojiě de yìsi shì shénme?",
      "en": "Man: What does the woman mean?",
      "idn": "Pria: Apa maksud wanita itu?"
     }
@@ -190,7 +190,7 @@
     },
     {
      "zh": "男：這位小姐的意思是什麼？",
-     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?",
+     "py": "Nán: Zhèwèi xiǎojiě de yìsi shì shénme?",
      "en": "Man: What does the woman mean?",
      "idn": "Pria: Apa maksud wanita itu?"
     }
@@ -232,13 +232,13 @@
     },
     {
      "zh": "女：不行，你飯都還沒吃呢。醫生不是要你吃完飯以後三十分鐘，再吃嗎？",
-     "py": "Nǚ: Bùxíng, nǐ fàn Dōuháiméi chī ne. Yīshēng búshì yào nǐ chīwánfàn yǐhòu sānshífēnzhōng, zài chī ma?",
+     "py": "Nǚ: Bùxíng, nǐ fàn dōuháiméi chī ne. Yīshēng búshì yào nǐ chīwánfàn yǐhòu sānshífēnzhōng, zài chī ma?",
      "en": "Woman: No—you haven't even eaten yet. Didn't the doctor tell you to take it thirty minutes after eating?",
      "idn": "Wanita: Jangan—kamu bahkan belum makan. Bukankah dokter menyuruhmu minum obat tiga puluh menit setelah makan?"
     },
     {
      "zh": "男：這位小姐的意思是什麼？",
-     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?",
+     "py": "Nán: Zhèwèi xiǎojiě de yìsi shì shénme?",
      "en": "Man: What does the woman mean?",
      "idn": "Pria: Apa maksud wanita itu?"
     }
@@ -286,7 +286,7 @@
     },
     {
      "zh": "男：這位小姐的意思是什麼？",
-     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?",
+     "py": "Nán: Zhèwèi xiǎojiě de yìsi shì shénme?",
      "en": "Man: What does the woman mean?",
      "idn": "Pria: Apa maksud wanita itu?"
     }
@@ -334,7 +334,7 @@
     },
     {
      "zh": "男：這位小姐什麼時候做決定？",
-     "py": "Nán: Zhèwèi Xiǎojiě shénme shíhòu zuò juédìng?",
+     "py": "Nán: Zhèwèi xiǎojiě shénme shíhòu zuò juédìng?",
      "en": "Man: When will the woman decide?",
      "idn": "Pria: Kapan wanita itu akan memutuskan?"
     }
@@ -382,7 +382,7 @@
     },
     {
      "zh": "男：這位小姐的意思是什麼？",
-     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?",
+     "py": "Nán: Zhèwèi xiǎojiě de yìsi shì shénme?",
      "en": "Man: What does the woman mean?",
      "idn": "Pria: Apa maksud wanita itu?"
     }
@@ -392,25 +392,25 @@
    "options": {
     "A": {
      "zh": "張小姐出國了",
-     "py": "Zhāng Xiǎojiě chūguó le",
+     "py": "Zhāng xiǎojiě chūguó le",
      "en": "(A) Ms. Zhang has gone abroad.",
      "idn": "(A) Nona Zhang sudah ke luar negeri."
     },
     "B": {
      "zh": "張小姐剛從美國回來",
-     "py": "Zhāng Xiǎojiě gāng cóng Měiguó huílái",
+     "py": "Zhāng xiǎojiě gāng cóng Měiguó huílái",
      "en": "(B) Ms. Zhang has just come back from America.",
      "idn": "(B) Nona Zhang baru pulang dari Amerika."
     },
     "C": {
      "zh": "沒人知道張小姐去哪兒",
-     "py": "Méi rén zhīdào zhāng Xiǎojiě qù nǎr",
+     "py": "Méi rén zhīdào Zhāng xiǎojiě qù nǎr",
      "en": "(C) No one knows where Ms. Zhang went.",
      "idn": "(C) Tidak ada yang tahu Nona Zhang pergi ke mana."
     },
     "D": {
      "zh": "沒人清楚張小姐這個人",
-     "py": "Méi rén qīngchǔ zhāng Xiǎojiě zhè ge rén",
+     "py": "Méi rén qīngchǔ Zhāng xiǎojiě zhè ge rén",
      "en": "(D) No one really knows Ms. Zhang.",
      "idn": "(D) Tidak ada yang benar-benar mengenal Nona Zhang."
     }
@@ -418,7 +418,7 @@
    "transcript": [
     {
      "zh": "男：張小姐呢？我好幾天沒看見她了。",
-     "py": "Nán: Zhāng Xiǎojiě ne? Wǒ hǎo jǐtiān méi kànjiàn tā le.",
+     "py": "Nán: Zhāng xiǎojiě ne? Wǒ hǎo jǐtiān méi kànjiàn tā le.",
      "en": "Man: Where's Ms. Zhang? I haven't seen her for days.",
      "idn": "Pria: Nona Zhang ke mana? Sudah berhari-hari saya tidak melihatnya."
     },
@@ -472,7 +472,7 @@
     },
     {
      "zh": "女：這樣多沒意思啊！不如明天給媽媽打個電話，拜託她照顧小寶一天，我們倆",
-     "py": "Nǚ: Zhèyàng duō méiyìsi a! Bùrú míngtiān gěi māma dǎ gè diànhuà, Bàituō tā zhàogù Xiǎobǎo yìtiān, wǒmen liǎ",
+     "py": "Nǚ: Zhèyàng duō méiyìsi a! Bùrú míngtiān gěi māma dǎ gè diànhuà, bàituō tā zhàogù Xiǎobǎo yìtiān, wǒmen liǎ",
      "en": "Woman: That's so boring! Why don't I call Mom tomorrow and ask her to look after Xiaobao for a day, and the two of us",
      "idn": "Wanita: Membosankan sekali! Bagaimana kalau besok saya menelepon Ibu dan minta tolong dia menjaga Xiaobao sehari, lalu kita berdua"
     },
@@ -532,7 +532,7 @@
     },
     {
      "zh": "男：那青菜水果呢？我們不是說好要買些青菜水果的…",
-     "py": "Nán: Nà qīngcài shuǐguǒ ne? Wǒmen búshì shuōhǎo yào Mǎixiē qīngcài shuǐguǒ de…",
+     "py": "Nán: Nà qīngcài shuǐguǒ ne? Wǒmen búshì shuōhǎo yào mǎixiē qīngcài shuǐguǒ de…",
      "en": "Man: What about vegetables and fruit? Didn't we agree to buy some vegetables and fruit…",
      "idn": "Pria: Sayur dan buahnya? Bukankah kita sudah sepakat membeli sayur dan buah…"
     },
@@ -544,7 +544,7 @@
     },
     {
      "zh": "男：這位小姐為什麼去買東西？",
-     "py": "Nán: Zhèwèi Xiǎojiě wèishénme qù mǎi Dōngxi?",
+     "py": "Nán: Zhèwèi xiǎojiě wèishénme qù mǎi dōngxi?",
      "en": "Man: Why did the woman go shopping?",
      "idn": "Pria: Mengapa wanita itu pergi berbelanja?"
     }
@@ -592,19 +592,19 @@
     },
     {
      "zh": "男：不行！我一定得請你吃飯，謝謝你幫我搬家。",
-     "py": "Nán: Bùxíng! Wǒ yídìng déqǐng nǐ chīfàn, Xièxiè nǐ bāng wǒ bānjiā.",
+     "py": "Nán: Bùxíng! Wǒ yídìng déqǐng nǐ chīfàn, xièxiè nǐ bāng wǒ bānjiā.",
      "en": "Man: No! I must treat you to thank you for helping me move.",
      "idn": "Pria: Jangan begitu! Saya harus mentraktirmu sebagai tanda terima kasih karena sudah membantu saya pindahan."
     },
     {
      "zh": "女：您真是太客氣了，那只是小事一件。",
-     "py": "Nǚ: Nín Zhēnshìtài kèqì le, nà zhǐshì xiǎoshì yíjiàn.",
+     "py": "Nǚ: Nín zhēnshìtài kèqì le, nà zhǐshì xiǎoshì yíjiàn.",
      "en": "Woman: You're too kind—it was just a small thing.",
      "idn": "Wanita: Kamu terlalu sungkan—itu cuma hal kecil."
     },
     {
      "zh": "男：這位小姐的意思是什麼?",
-     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?",
+     "py": "Nán: Zhèwèi xiǎojiě de yìsi shì shénme?",
      "en": "Man: What does the woman mean?",
      "idn": "Pria: Apa maksud wanita itu?"
     }
@@ -664,7 +664,7 @@
     },
     {
      "zh": "男：這位小姐的意思是什麼？",
-     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?",
+     "py": "Nán: Zhèwèi xiǎojiě de yìsi shì shénme?",
      "en": "Man: What does the woman mean?",
      "idn": "Pria: Apa maksud wanita itu?"
     }
@@ -724,7 +724,7 @@
     },
     {
      "zh": "男：這位小姐在哪裡工作？",
-     "py": "Nán: Zhèwèi Xiǎojiě zài nǎlǐ gōngzuò?",
+     "py": "Nán: Zhèwèi xiǎojiě zài nǎlǐ gōngzuò?",
      "en": "Man: Where does the woman work?",
      "idn": "Pria: Wanita itu bekerja di mana?"
     }
@@ -784,7 +784,7 @@
     },
     {
      "zh": "男：這位小姐的意思是什麼?",
-     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?",
+     "py": "Nán: Zhèwèi xiǎojiě de yìsi shì shénme?",
      "en": "Man: What does the woman mean?",
      "idn": "Pria: Apa maksud wanita itu?"
     }
@@ -844,7 +844,7 @@
     },
     {
      "zh": "男：這位小姐的意思是什麼？",
-     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?",
+     "py": "Nán: Zhèwèi xiǎojiě de yìsi shì shénme?",
      "en": "Man: What does the woman mean?",
      "idn": "Pria: Apa maksud wanita itu?"
     }
@@ -892,7 +892,7 @@
     },
     {
      "zh": "男：我打算搭火車。不過，我才剛搬來這裡，連火車站在哪都不知道。",
-     "py": "Nán: Wǒ dǎsuàn dā huǒchē. Búguò, wǒ cáigāng bān lái zhèlǐ, Lián huǒchēzhàn zài nǎ dōu bù zhīdào.",
+     "py": "Nán: Wǒ dǎsuàn dā huǒchē. Búguò, wǒ cáigāng bān lái zhèlǐ, lián huǒchēzhàn zài nǎ dōu bù zhīdào.",
      "en": "Man: I plan to take the train. But I've only just moved here—I don't even know where the train station is.",
      "idn": "Pria: Saya berencana naik kereta. Tapi saya baru pindah ke sini—stasiun keretanya di mana saja saya tidak tahu."
     },
@@ -904,7 +904,7 @@
     },
     {
      "zh": "男：這位小姐的意思是什麼?",
-     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?",
+     "py": "Nán: Zhèwèi xiǎojiě de yìsi shì shénme?",
      "en": "Man: What does the woman mean?",
      "idn": "Pria: Apa maksud wanita itu?"
     }
@@ -964,7 +964,7 @@
     },
     {
      "zh": "男：這位小姐的意思是什麼?",
-     "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?",
+     "py": "Nán: Zhèwèi xiǎojiě de yìsi shì shénme?",
      "en": "Man: What does the woman mean?",
      "idn": "Pria: Apa maksud wanita itu?"
     }
@@ -1052,7 +1052,7 @@
     },
     "D": {
      "zh": "她答應順便幫朋友買東西",
-     "py": "Tā dāyìng shùnbiàn bāng péngyǒu mǎi Dōngxi",
+     "py": "Tā dāyìng shùnbiàn bāng péngyǒu mǎi dōngxi",
      "en": "(D) She agreed to buy things for a friend while she was at it.",
      "idn": "(D) Dia sudah berjanji sekalian membelikan barang untuk teman."
     }
@@ -1060,7 +1060,7 @@
    "transcript": [
     {
      "zh": "男：看你手上提著這麼多東西，連開門都需要人幫忙，你中大獎嗎？",
-     "py": "Nán: Kàn nǐ shǒushàng tízhe zhème duō Dōngxi, Lián kāimén dōu xūyào rén bāngmáng, nǐ Zhōngdàjiǎng ma?",
+     "py": "Nán: Kàn nǐ shǒushàng tízhe zhème duō dōngxi, lián kāimén dōu xūyào rén bāngmáng, nǐ zhōngdàjiǎng ma?",
      "en": "Man: Look at all the stuff you're carrying—you even need help opening the door. Did you win a big prize?",
      "idn": "Pria: Lihat barang bawaanmu—sampai buka pintu pun perlu dibantu. Kamu menang hadiah besar?"
     },
@@ -1072,7 +1072,7 @@
     },
     {
      "zh": "男：就算是這樣，東西也多得太誇張了，是不是有朋友請你幫忙買？",
-     "py": "Nán: Jiùsuàn shì zhèyàng, Dōngxi yě duō de tài kuāzhāng le, shìbúshì yǒu péngyǒu qǐng nǐ bāngmáng mǎi?",
+     "py": "Nán: Jiùsuàn shì zhèyàng, dōngxi yě duō de tài kuāzhāng le, shìbúshì yǒu péngyǒu qǐng nǐ bāngmáng mǎi?",
      "en": "Man: Even so, that's an absurd amount of stuff. Did a friend ask you to buy things for them?",
      "idn": "Pria: Meski begitu, banyaknya keterlaluan. Ada teman yang menitip?"
     },
@@ -1084,7 +1084,7 @@
     },
     {
      "zh": "男：從這段話，我們知道這位小姐什麼事？",
-     "py": "Nán: Cóng zhèduànhuà, wǒmen zhīdào zhèwèi Xiǎojiě shénme shì?",
+     "py": "Nán: Cóng zhèduànhuà, wǒmen zhīdào zhèwèi xiǎojiě shénme shì?",
      "en": "Man: What do we learn about the woman from this conversation?",
      "idn": "Pria: Apa yang kita ketahui tentang wanita itu dari percakapan ini?"
     }
@@ -1126,7 +1126,7 @@
     },
     {
      "zh": "男：小雪，宣傳單、海報做好了嗎？",
-     "py": "Nán: Xiǎoxuě, Xuānchuándān, hǎibào zuòhǎo le ma?",
+     "py": "Nán: Xiǎoxuě, xuānchuándān, hǎibào zuòhǎo le ma?",
      "en": "Man: Xiaoxue, are the flyers and posters ready?",
      "idn": "Pria: Xiaoxue, selebaran dan posternya sudah siap?"
     },
@@ -1242,13 +1242,13 @@
     },
     {
      "zh": "男：真煩！最近什麼都不能吃，連奶粉都有問題。",
-     "py": "Nán: Zhēnfán! Zuìjìn shénme dōu bùnéng chī, Lián nǎifěn dōu yǒu wèntí.",
+     "py": "Nán: Zhēnfán! Zuìjìn shénme dōu bùnéng chī, lián nǎifěn dōu yǒu wèntí.",
      "en": "Man: What a pain! Lately you can't eat anything—even milk powder has problems.",
      "idn": "Pria: Menyebalkan! Belakangan tidak ada yang aman dimakan—bahkan susu bubuk pun bermasalah."
     },
     {
      "zh": "女：我只聽說牛肉、雞肉有問題，怎麼連奶粉也出問題了？",
-     "py": "Nǚ: Wǒ zhǐ tīngshuō niúròu, jīròu yǒu wèntí, zěnme Lián nǎifěn yě chū wèntí le?",
+     "py": "Nǚ: Wǒ zhǐ tīngshuō niúròu, jīròu yǒu wèntí, zěnme lián nǎifěn yě chū wèntí le?",
      "en": "Woman: I only heard beef and chicken had problems. How come milk powder too?",
      "idn": "Wanita: Saya hanya dengar daging sapi dan ayam bermasalah. Kok susu bubuk juga?"
     },
@@ -1480,7 +1480,7 @@
    "passage": [
     {
      "zh": "下面是艾維和一位女同事的對話，請聽完對話後，回答三個問題：",
-     "py": "Xiàmiàn shì Ài Wéihé yíwèi nǚtóngshì de duìhuà, qǐng tīng wán duìhuà hòu, huídá sān ge wèntí:",
+     "py": "Xiàmiàn shì ài wéihé yíwèi nǚtóngshì de duìhuà, qǐng tīng wán duìhuà hòu, huídá sān ge wèntí:",
      "en": "The following is a conversation between Aiwei and a female colleague. After listening, answer the three questions:",
      "idn": "Berikut ini percakapan antara Aiwei dan seorang rekan kerja wanita. Setelah mendengarkan, jawab tiga pertanyaan:"
     }
@@ -1506,7 +1506,7 @@
     },
     "C": {
      "zh": "如何回應同事們的祝福",
-     "py": "Rúhé huíyìng tóngshìmen de Zhùfú",
+     "py": "Rúhé huíyìng tóngshìmen de zhùfú",
      "en": "(C) How to respond to colleagues' good wishes",
      "idn": "(C) Cara menanggapi ucapan selamat rekan kerja"
     },
@@ -1520,7 +1520,7 @@
    "intro": [
     {
      "zh": "下面是艾維和一位女同事的對話，請聽完對話後，回答三個問題：",
-     "py": "Xiàmiàn shì Ài Wéihé yíwèi nǚtóngshì de duìhuà, qǐng tīng wán duìhuà hòu, huídá sān ge wèntí:",
+     "py": "Xiàmiàn shì ài wéihé yíwèi nǚtóngshì de duìhuà, qǐng tīng wán duìhuà hòu, huídá sān ge wèntí:",
      "en": "The following is a conversation between Aiwei and a female colleague. After listening, answer the three questions:",
      "idn": "Berikut ini percakapan antara Aiwei dan seorang rekan kerja wanita. Setelah mendengarkan, jawab tiga pertanyaan:"
     }
@@ -1544,7 +1544,7 @@
    "options": {
     "A": {
      "zh": "因為想當面感謝大家的祝賀",
-     "py": "Yīnwèi xiǎng dāngmiàn gǎnxiè dàjiā de Zhùhè",
+     "py": "Yīnwèi xiǎng dāngmiàn gǎnxiè dàjiā de zhùhè",
      "en": "(A) Because they want to thank everyone in person for their congratulations",
      "idn": "(A) Karena mereka ingin berterima kasih langsung atas ucapan selamat semua orang"
     },
@@ -1556,7 +1556,7 @@
     },
     "C": {
      "zh": "因為想讓所有的親友都來為小孩祝福",
-     "py": "Yīnwèi xiǎng ràng suǒyǒu de qīnyǒu dōu lái wèi xiǎohái Zhùfú",
+     "py": "Yīnwèi xiǎng ràng suǒyǒu de qīnyǒu dōu lái wèi xiǎohái zhùfú",
      "en": "(C) Because they want all relatives and friends to come and bless the child",
      "idn": "(C) Karena mereka ingin semua kerabat dan teman datang mendoakan anak itu"
     },
@@ -1579,7 +1579,7 @@
   "30": {
    "stem": {
     "zh": "最後，艾維對這位小姐說的話有什麼看法？ 現在請聽對話。",
-    "py": "Zuìhòu, Àiwéi duì zhèwèi Xiǎojiě shuō dehuà yǒu shénme kànfǎ? Xiànzài qǐng tīng duìhuà.",
+    "py": "Zuìhòu, Àiwéi duì zhèwèi xiǎojiě shuō dehuà yǒu shénme kànfǎ? Xiànzài qǐng tīng duìhuà.",
     "en": "In the end, what does Aiwei think of what the woman said? Now listen to the conversation.",
     "idn": "Pada akhirnya, bagaimana tanggapan Aiwei terhadap ucapan wanita itu? Sekarang dengarkan percakapannya."
    },
@@ -1604,7 +1604,7 @@
     },
     "D": {
      "zh": "他很感謝這位小姐的關心",
-     "py": "Tā hěn gǎnxiè zhèwèi Xiǎojiě de guānxīn",
+     "py": "Tā hěn gǎnxiè zhèwèi xiǎojiě de guānxīn",
      "en": "(D) He's very grateful for her concern.",
      "idn": "(D) Dia sangat berterima kasih atas perhatiannya."
     }
@@ -1612,7 +1612,7 @@
    "transcript": [
     {
      "zh": "最後，艾維對這位小姐說的話有什麼看法？",
-     "py": "Zuìhòu, Àiwéi duì zhèwèi Xiǎojiě shuō dehuà yǒu shénme kànfǎ?",
+     "py": "Zuìhòu, Àiwéi duì zhèwèi xiǎojiě shuō dehuà yǒu shénme kànfǎ?",
      "en": "In the end, what does Aiwei think of what the woman said?",
      "idn": "Pada akhirnya, bagaimana tanggapan Aiwei terhadap ucapan wanita itu?"
     }
@@ -1660,7 +1660,7 @@
     },
     {
      "zh": "有很多人在那裡散步、騎腳踏車。有段時間，大家聽說這片空地要賣給建設公司，",
-     "py": "yǒu hěnduō rén zài nàlǐ sànbù, qí jiǎotàchē. Yǒu Duànshíjiān, dàjiā tīngshuō zhè piàn kòngdì yào mài gěi jiànshè gōngsī,",
+     "py": "yǒu hěnduō rén zài nàlǐ sànbù, qí jiǎotàchē. Yǒu duànshíjiān, dàjiā tīngshuō zhè piàn kòngdì yào mài gěi jiànshè gōngsī,",
      "en": "many people walked and cycled there. For a while, everyone heard the land was going to be sold to a construction company",
      "idn": "banyak orang berjalan-jalan dan bersepeda di sana. Sempat beredar kabar bahwa tanah itu akan dijual kepada perusahaan konstruksi"
     },
@@ -1744,7 +1744,7 @@
     },
     "D": {
      "zh": "不敢開口說外國話",
-     "py": "Bùgǎn kāikǒu shuō Wàiguó huà",
+     "py": "Bùgǎn kāikǒu shuō wàiguó huà",
      "en": "(D) They don't dare open their mouths to speak the foreign language.",
      "idn": "(D) Mereka tidak berani berbicara dalam bahasa asing."
     }
@@ -1758,7 +1758,7 @@
     },
     {
      "zh": "很多人想把小孩送到國外學習外國語，認為學習語言就應該到當地學習，但",
-     "py": "Hěnduō rén xiǎng bǎ xiǎohái sòngdào guówài xuéxí Wàiguóyǔ, rènwéi xuéxí yǔyán jiù yīnggāi dào dāngdì xuéxí, dàn",
+     "py": "Hěnduō rén xiǎng bǎ xiǎohái sòngdào guówài xuéxí wàiguóyǔ, rènwéi xuéxí yǔyán jiù yīnggāi dào dāngdì xuéxí, dàn",
      "en": "Many people want to send their children abroad to learn foreign languages, believing languages should be learned where they're spoken. But",
      "idn": "Banyak orang ingin mengirim anaknya ke luar negeri untuk belajar bahasa asing, karena percaya bahasa sebaiknya dipelajari di tempat bahasa itu dipakai. Tetapi"
     },
@@ -1794,7 +1794,7 @@
    "options": {
     "A": {
      "zh": "應該常和家人聯絡",
-     "py": "Yīnggāi Chánghé jiārén liánluò",
+     "py": "Yīnggāi chánghé jiārén liánluò",
      "en": "(A) They should keep in touch with their families often.",
      "idn": "(A) Mereka sebaiknya sering menghubungi keluarga."
     },
@@ -1836,13 +1836,13 @@
     },
     "B": {
      "zh": "想花多少錢",
-     "py": "Xiǎng huā Duōshǎoqián",
+     "py": "Xiǎng huā duōshǎoqián",
      "en": "(B) How much they want to spend",
      "idn": "(B) Berapa banyak yang ingin mereka belanjakan"
     },
     "C": {
      "zh": "想訂什麼東西",
-     "py": "Xiǎngdìng shénme Dōngxi",
+     "py": "Xiǎngdìng shénme dōngxi",
      "en": "(C) What they want to order",
      "idn": "(C) Apa yang ingin mereka pesan"
     },
@@ -1862,7 +1862,7 @@
     },
     {
      "zh": "您好，我是小美，這幾天我有事出去，大概下週回來，不管您是要買花、請",
-     "py": "Nínhǎo, wǒ shì xiǎo měi, zhè jǐtiān wǒ yǒushì chūqù, dàgài xiàzhōu huílái, bùguǎn nín shì yào mǎi huā, qǐng",
+     "py": "Nínhǎo, wǒ shì Xiǎoměi, zhè jǐtiān wǒ yǒushì chūqù, dàgài xiàzhōu huílái, bùguǎn nín shì yào mǎi huā, qǐng",
      "en": "Hello, this is Xiaomei. I'm away for a few days and will be back next week. Whether you want to buy flowers, have",
      "idn": "Halo, ini Xiaomei. Saya sedang pergi beberapa hari dan akan kembali minggu depan. Kalau Anda ingin membeli bunga,"
     },
@@ -1912,7 +1912,7 @@
    "transcript": [
     {
      "zh": "小美的工作是什麼？",
-     "py": "Xiǎo Měide gōngzuò shì shénme?",
+     "py": "Xiǎoměi de gōngzuò shì shénme?",
      "en": "What is Xiaomei's job?",
      "idn": "Apa pekerjaan Xiaomei?"
     }
@@ -1928,7 +1928,7 @@
     },
     "B": {
      "zh": "她總是陪小孩聊天",
-     "py": "Tā zǒngshì péi xiǎohái Liáotiān",
+     "py": "Tā zǒngshì péi xiǎohái liáotiān",
      "en": "(B) She always chats with her children.",
      "idn": "(B) Dia selalu mengobrol dengan anak-anaknya."
     },
@@ -1972,7 +1972,7 @@
     },
     {
      "zh": "聊天的機會不太多，真希望她不要這麼忙，能多陪我就好了！",
-     "py": "Liáotiān de jīhuì bú tài duō, zhēn xīwàng tā búyào zhème máng, néng duō péi wǒ jiù hǎo le!",
+     "py": "liáotiān de jīhuì bú tài duō, zhēn xīwàng tā búyào zhème máng, néng duō péi wǒ jiù hǎo le!",
      "en": "don't get many chances to chat with her. I really wish she weren't so busy and could spend more time with me!",
      "idn": "tidak banyak punya kesempatan mengobrol dengannya. Saya sangat berharap dia tidak sesibuk itu dan bisa lebih banyak menemani saya!"
     }
@@ -2032,7 +2032,7 @@
     },
     "B": {
      "zh": "介紹李小姐給主任",
-     "py": "Jièshào Lǐxiǎojiě gěi zhǔrèn",
+     "py": "Jièshào Lǐ xiǎojiě gěi zhǔrèn",
      "en": "(B) Introducing Ms. Li to the director",
      "idn": "(B) Memperkenalkan Nona Li kepada kepala kantor"
     },
@@ -2058,7 +2058,7 @@
     },
     {
      "zh": "李小姐，你好。我姓陳，是這間辦公室的主任。歡迎來我們公司工作！我們",
-     "py": "Lǐxiǎojiě, nǐhǎo. Wǒ xìng Chén, shì zhèjiān bàngōngshì de zhǔrèn. Huānyíng lái wǒmen gōngsī gōngzuò! Wǒmen",
+     "py": "Lǐ xiǎojiě, nǐhǎo. Wǒ xìng chén, shì zhèjiān bàngōngshì de zhǔrèn. Huānyíng lái wǒmen gōngsī gōngzuò! Wǒmen",
      "en": "Hello, Ms. Li. My name is Chen; I'm the director of this office. Welcome to our company! Our",
      "idn": "Halo, Nona Li. Nama saya Chen; saya kepala kantor ini. Selamat datang di perusahaan kami! Kantor"
     },
@@ -2180,7 +2180,7 @@
     },
     {
      "zh": "請選擇訂票張數。一張請按 1",
-     "py": "Qǐng xuǎnzé dìngpiào Zhāngshù. Yìzhāng qǐng àn 1",
+     "py": "Qǐng xuǎnzé dìngpiào zhāngshù. Yìzhāng qǐng àn 1",
      "en": "Please choose the number of tickets. For one ticket, press 1.",
      "idn": "Silakan pilih jumlah tiket. Untuk satu tiket, tekan 1."
     },
@@ -2198,13 +2198,13 @@
     },
     {
      "zh": "請輸入信用卡卡號…",
-     "py": "Qǐng shūrù xìnyòngkǎ Kǎhào…",
+     "py": "Qǐng shūrù xìnyòngkǎ kǎhào…",
      "en": "Please enter your credit card number…",
      "idn": "Silakan masukkan nomor kartu kredit Anda…"
     },
     {
      "zh": "購票完成，請拿票，謝謝。",
-     "py": "Gòupiào wánchéng, qǐng ná piào, Xièxiè.",
+     "py": "Gòupiào wánchéng, qǐng ná piào, xièxiè.",
      "en": "Your purchase is complete. Please take your ticket. Thank you.",
      "idn": "Pembelian Anda selesai. Silakan ambil tiket Anda. Terima kasih."
     }
@@ -2530,7 +2530,7 @@
     },
     "D": {
      "zh": "電子產品日漸普及",
-     "py": "Diànzichǎnpǐn rìjiàn Pǔjí",
+     "py": "Diànzichǎnpǐn rìjiàn pǔjí",
      "en": "(D) Electronic products are becoming more and more common.",
      "idn": "(D) Produk elektronik makin umum."
     }
@@ -2580,7 +2580,7 @@
     },
     "D": {
      "zh": "與其他百科全書公司合作",
-     "py": "Yǔ qítā Bǎikēquánshū gōngsī hézuò",
+     "py": "Yǔ qítā bǎikēquánshū gōngsī hézuò",
      "en": "(D) Cooperating with other encyclopedia companies",
      "idn": "(D) Bekerja sama dengan perusahaan ensiklopedia lain"
     }
@@ -2604,7 +2604,7 @@
    "options": {
     "A": {
      "zh": "說明擁有百科全書所象徵的地位",
-     "py": "Shuōmíng yōngyǒu Bǎikēquánshū suǒ xiàngzhēng de dìwèi",
+     "py": "Shuōmíng yōngyǒu bǎikēquánshū suǒ xiàngzhēng de dìwèi",
      "en": "(A) To explain the status that owning an encyclopedia symbolized",
      "idn": "(A) Untuk menjelaskan status yang dilambangkan dengan memiliki ensiklopedia"
     },
@@ -2616,13 +2616,13 @@
     },
     "C": {
      "zh": "指出百科全書跟豪華轎車一樣貴",
-     "py": "Zhǐchū Bǎikēquánshū gēn háohuájiàochē yíyàng guì",
+     "py": "Zhǐchū bǎikēquánshū gēn háohuájiàochē yíyàng guì",
      "en": "(C) To point out that encyclopedias are as expensive as luxury cars",
      "idn": "(C) Untuk menunjukkan bahwa ensiklopedia semahal mobil mewah"
     },
     "D": {
      "zh": "探討消費者選擇這兩項商品的順序",
-     "py": "Tàntǎo xiāofèizhě xuǎnzé Zhèliǎngxiàng shāngpǐn de shùnxù",
+     "py": "Tàntǎo xiāofèizhě xuǎnzé zhèliǎngxiàng shāngpǐn de shùnxù",
      "en": "(D) To discuss the order in which consumers choose these two products",
      "idn": "(D) Untuk membahas urutan konsumen memilih kedua produk ini"
     }

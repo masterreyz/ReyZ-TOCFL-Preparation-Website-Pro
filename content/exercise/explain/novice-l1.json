@@ -148,7 +148,7 @@
    "transcript": [
     {
      "zh": "王太太在醫院工作。",
-     "py": "Wángtàitai zài yīyuàn gōngzuò.",
+     "py": "Wáng tàitai zài yīyuàn gōngzuò.",
      "en": "Mrs. Wang works at a hospital.",
      "idn": "Nyonya Wang bekerja di rumah sakit."
     }
@@ -158,19 +158,19 @@
    "transcript": [
     {
      "zh": "(A) 公司的電話號碼是 8651-0426。",
-     "py": "(A) gōngsī de diànhuàhàomǎ shì 8651 - 0426.",
+     "py": "(A) gōngsī de diànhuàhàomǎ shì 8651-0426.",
      "en": "(A) The company's phone number is 8651-0426.",
      "idn": "(A) Nomor telepon perusahaan adalah 8651-0426."
     },
     {
      "zh": "(B) 公司的電話號碼是 8671-0426。",
-     "py": "(B) gōngsī de diànhuàhàomǎ shì 8671 - 0426.",
+     "py": "(B) gōngsī de diànhuàhàomǎ shì 8671-0426.",
      "en": "(B) The company's phone number is 8671-0426.",
      "idn": "(B) Nomor telepon perusahaan adalah 8671-0426."
     },
     {
      "zh": "(C) 公司的電話號碼是 8691-0426。",
-     "py": "(C) gōngsī de diànhuàhàomǎ shì 8691 - 0426.",
+     "py": "(C) gōngsī de diànhuàhàomǎ shì 8691-0426.",
      "en": "(C) The company's phone number is 8691-0426.",
      "idn": "(C) Nomor telepon perusahaan adalah 8691-0426."
     }
@@ -246,19 +246,19 @@
    "transcript": [
     {
      "zh": "(A) 他在吃東西。",
-     "py": "(A) tā zài chī Dōngxi.",
+     "py": "(A) tā zài chī dōngxi.",
      "en": "(A) He is eating something.",
      "idn": "(A) Dia sedang makan sesuatu."
     },
     {
      "zh": "(B) 他在找東西。",
-     "py": "(B) tā zài zhǎo Dōngxi.",
+     "py": "(B) tā zài zhǎo dōngxi.",
      "en": "(B) He is looking for something.",
      "idn": "(B) Dia sedang mencari sesuatu."
     },
     {
      "zh": "(C) 他在洗東西。",
-     "py": "(C) tā zài xǐ Dōngxi.",
+     "py": "(C) tā zài xǐ dōngxi.",
      "en": "(C) He is washing something.",
      "idn": "(C) Dia sedang mencuci sesuatu."
     }
@@ -400,19 +400,19 @@
    "transcript": [
     {
      "zh": "(A) 李小姐給男孩子信。",
-     "py": "(A) Lǐxiǎojiě gěi nánháizi xìn.",
+     "py": "(A) Lǐ xiǎojiě gěi nánháizi xìn.",
      "en": "(A) Miss Li gives the boy a letter.",
      "idn": "(A) Nona Li memberi anak laki-laki itu surat."
     },
     {
      "zh": "(B) 李小姐給男孩子花。",
-     "py": "(B) Lǐxiǎojiě gěi nánháizi huā.",
+     "py": "(B) Lǐ xiǎojiě gěi nánháizi huā.",
      "en": "(B) Miss Li gives the boy flowers.",
      "idn": "(B) Nona Li memberi anak laki-laki itu bunga."
     },
     {
      "zh": "(C) 李小姐給男孩子筆。",
-     "py": "(C) Lǐxiǎojiě gěi nánháizi bǐ.",
+     "py": "(C) Lǐ xiǎojiě gěi nánháizi bǐ.",
      "en": "(C) Miss Li gives the boy a pen.",
      "idn": "(C) Nona Li memberi anak laki-laki itu pulpen."
     }
@@ -544,7 +544,7 @@
     },
     {
      "zh": "(B) 買書",
-     "py": "(B) mǎi shū",
+     "py": "(B) mǎishū",
      "en": "(B) Buying a book",
      "idn": "(B) Membeli buku"
     },
@@ -559,14 +559,14 @@
   "24": {
    "stem": {
     "zh": "林太太的兒子今年幾歲？",
-    "py": "Líntàitai de érzi jīnnián jǐsuì?",
+    "py": "Lín tàitai de érzi jīnnián jǐsuì?",
     "en": "How old is Mrs. Lin's son this year?",
     "idn": "Berapa umur putra Nyonya Lin tahun ini?"
    },
    "transcript": [
     {
      "zh": "男：林太太，你兒子今年十四歲嗎？",
-     "py": "Nán: Líntàitai, nǐ érzi jīnnián shísìsuì ma?",
+     "py": "Nán: Lín tàitai, nǐ érzi jīnnián shísìsuì ma?",
      "en": "Man: Mrs. Lin, is your son fourteen this year?",
      "idn": "Pria: Nyonya Lin, apakah putra Anda tahun ini berumur empat belas tahun?"
     },
@@ -578,7 +578,7 @@
     },
     {
      "zh": "提問：林太太的兒子今年幾歲？",
-     "py": "Tíwèn: Líntàitai de érzi jīnnián jǐsuì?",
+     "py": "Tíwèn: Lín tàitai de érzi jīnnián jǐsuì?",
      "en": "Question: How old is Mrs. Lin's son this year?",
      "idn": "Pertanyaan: Berapa umur putra Nyonya Lin tahun ini?"
     },

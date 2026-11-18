@@ -47,7 +47,7 @@
   "6": {
    "stem": {
     "zh": "王先生今天沒有帶鑰匙。",
-    "py": "Wángxiānsheng jīntiān méiyǒu dài yàoshi.",
+    "py": "Wáng xiānsheng jīntiān méiyǒu dài yàoshi.",
     "en": "Mr. Wang didn't bring his keys today.",
     "idn": "Hari ini Tuan Wang tidak membawa kunci."
    }
@@ -87,7 +87,7 @@
   "11": {
    "stem": {
     "zh": "小美買了外套，又買了皮包，一共付了兩千元。",
-    "py": "Xiǎo měi mǎi le wàitào, yòu mǎi le píbāo, yígòng fù le liǎngqiānyuán.",
+    "py": "Xiǎoměi mǎi le wàitào, yòu mǎi le píbāo, yígòng fù le liǎngqiānyuán.",
     "en": "Xiaomei bought a jacket and also a handbag, paying two thousand dollars in total.",
     "idn": "Xiaomei membeli jaket dan juga tas tangan, totalnya dua ribu dolar."
    }
@@ -162,7 +162,7 @@
     },
     "C": {
      "zh": "桌上什麼東西都沒有。",
-     "py": "Zhuōshàng shénme Dōngxi dōu méiyǒu.",
+     "py": "Zhuōshàng shénme dōngxi dōu méiyǒu.",
      "en": "There is nothing on the desk.",
      "idn": "Di atas meja tulis tidak ada apa-apa."
     }
@@ -172,19 +172,19 @@
    "options": {
     "A": {
      "zh": "林先生手上沒有東西。",
-     "py": "Línxiānsheng shǒushàng méiyǒu Dōngxi.",
+     "py": "Lín xiānsheng shǒushàng méiyǒu dōngxi.",
      "en": "Mr. Lin has nothing in his hands.",
      "idn": "Tuan Lin tidak memegang apa pun."
     },
     "B": {
      "zh": "林先生吃完了所有食物。",
-     "py": "Línxiānsheng chī wán le suǒyǒu shíwù.",
+     "py": "Lín xiānsheng chī wán le suǒyǒu shíwù.",
      "en": "Mr. Lin has finished all the food.",
      "idn": "Tuan Lin sudah menghabiskan semua makanannya."
     },
     "C": {
      "zh": "林先生現在覺得很開心。",
-     "py": "Línxiānsheng xiànzài juéde hěn kāixīn.",
+     "py": "Lín xiānsheng xiànzài juéde hěn kāixīn.",
      "en": "Mr. Lin feels very happy now.",
      "idn": "Tuan Lin sekarang merasa sangat senang."
     }
@@ -244,7 +244,7 @@
     },
     "B": {
      "zh": "小男孩沒戴帽子。",
-     "py": "Xiǎonánhái méi Dàimàozi.",
+     "py": "Xiǎonánhái méi dàimàozi.",
      "en": "The little boy isn't wearing a hat.",
      "idn": "Anak laki-laki kecil itu tidak memakai topi."
     },
@@ -294,7 +294,7 @@
     },
     "C": {
      "zh": "這位小姐正在和警察說話。",
-     "py": "Zhèwèi Xiǎojiě zhèngzài hé jǐngchá shuōhuà.",
+     "py": "Zhèwèi xiǎojiě zhèngzài hé jǐngchá shuōhuà.",
      "en": "This lady is talking with a police officer.",
      "idn": "Wanita ini sedang berbicara dengan polisi."
     }
@@ -360,7 +360,7 @@
     },
     "C": {
      "zh": "活動的時間有一個禮拜。",
-     "py": "Huódòng de shíjiān yǒu yí ge Lǐbài.",
+     "py": "Huódòng de shíjiān yǒu yí ge lǐbài.",
      "en": "The event lasts one week.",
      "idn": "Acara ini berlangsung satu minggu."
     }
@@ -434,7 +434,7 @@
     },
     {
      "zh": "有任何問題請找：03-3761-1080 張小姐",
-     "py": "Yǒu rènhé wèntí qǐng zhǎo: 03 - 3761 - 1080 zhāng Xiǎojiě",
+     "py": "Yǒu rènhé wèntí qǐng zhǎo: 03-3761-1080 Zhāng xiǎojiě",
      "en": "For any questions please contact: 03-3761-1080, Miss Zhang",
      "idn": "Jika ada pertanyaan, silakan hubungi: 03-3761-1080, Nona Zhang"
     },
@@ -486,13 +486,13 @@
     },
     "B": {
      "zh": "嘉義高鐵站沒有車到奮起湖。",
-     "py": "Jiāyì gāotiě zhàn méiyǒu chē dào fènqǐ Hú.",
+     "py": "Jiāyì gāotiě zhàn méiyǒu chē dào fènqǐ hú.",
      "en": "There is no bus from Chiayi High Speed Rail Station to Fenqihu.",
      "idn": "Tidak ada bus dari Stasiun Kereta Cepat Chiayi ke Fenqihu."
     },
     "C": {
      "zh": "從奮起湖出發，只能到火車站。",
-     "py": "Cóng fènqǐ Hú chūfā, zhǐnéng dào huǒchēzhàn.",
+     "py": "Cóng fènqǐ hú chūfā, zhǐnéng dào huǒchēzhàn.",
      "en": "Starting from Fenqihu, you can only go to the train station.",
      "idn": "Berangkat dari Fenqihu, hanya bisa pergi ke stasiun kereta."
     }
@@ -500,37 +500,37 @@
    "image": [
     {
      "zh": "奮起湖→嘉義火車站",
-     "py": "Fènqǐ Hú → Jiāyì huǒchēzhàn",
+     "py": "Fènqǐ hú → Jiāyì huǒchēzhàn",
      "en": "Fenqihu → Chiayi Train Station",
      "idn": "Fenqihu → Stasiun Kereta Chiayi"
     },
     {
      "zh": "嘉義火車站→奮起湖",
-     "py": "Jiāyì huǒchēzhàn → fènqǐ Hú",
+     "py": "Jiāyì huǒchēzhàn → fènqǐ hú",
      "en": "Chiayi Train Station → Fenqihu",
      "idn": "Stasiun Kereta Chiayi → Fenqihu"
     },
     {
      "zh": "奮起湖→嘉義高鐵站",
-     "py": "Fènqǐ Hú → Jiāyì gāotiě zhàn",
+     "py": "Fènqǐ hú → Jiāyì gāotiě zhàn",
      "en": "Fenqihu → Chiayi HSR Station",
      "idn": "Fenqihu → Stasiun Kereta Cepat (HSR) Chiayi"
     },
     {
      "zh": "嘉義高鐵站→奮起湖",
-     "py": "Jiāyì gāotiě zhàn → fènqǐ Hú",
+     "py": "Jiāyì gāotiě zhàn → fènqǐ hú",
      "en": "Chiayi HSR Station → Fenqihu",
      "idn": "Stasiun Kereta Cepat (HSR) Chiayi → Fenqihu"
     },
     {
      "zh": "奮起湖→阿里山",
-     "py": "Fènqǐ Hú → Ālǐshān",
+     "py": "Fènqǐ hú → Ālǐshān",
      "en": "Fenqihu → Alishan",
      "idn": "Fenqihu → Alishan"
     },
     {
      "zh": "阿里山→奮起湖",
-     "py": "Ālǐshān → fènqǐ Hú",
+     "py": "Ālǐshān → fènqǐ hú",
      "en": "Alishan → Fenqihu",
      "idn": "Alishan → Fenqihu"
     }
@@ -603,7 +603,7 @@
   "32": {
    "stem": {
     "zh": "這裡的魚有男人魚、女人魚和老人魚三 。",
-    "py": "Zhèlǐ de yú yǒu nánrén yú, nǚrén yú hé lǎorén Yúsān.",
+    "py": "Zhèlǐ de yú yǒu nánrén yú, nǚrén yú hé lǎorén yúsān.",
     "en": "The fish here come in three ___: man fish, woman fish, and old-man fish. (blank: kinds)",
     "idn": "Ikan di sini ada tiga ___: ikan laki-laki, ikan perempuan, dan ikan kakek. (isian: jenis)"
    },
@@ -758,7 +758,7 @@
     },
     {
      "zh": "很多大人不明白遊戲對小孩的重要。",
-     "py": "Hěnduō dàrén bù Míngbái yóuxì duì xiǎohái de zhòngyào.",
+     "py": "Hěnduō dàrén bù míngbái yóuxì duì xiǎohái de zhòngyào.",
      "en": "Many adults don't understand how important games are to children.",
      "idn": "Banyak orang dewasa tidak memahami betapa pentingnya permainan bagi anak-anak."
     },
@@ -788,7 +788,7 @@
     },
     {
      "zh": "因為小孩就是從遊戲中認識這個世界和學到禮貌。",
-     "py": "Yīnwèi xiǎohái jiù shìcóng yóuxì zhōng rènshi zhè ge shìjiè hé xuédào lǐmào.",
+     "py": "Yīnwèi xiǎohái jiù shìcóng yóuxì zhōng rènshi zhè ge Shìjiè hé xuédào lǐmào.",
      "en": "Because it is through games that children get to know the world and learn manners.",
      "idn": "Sebab melalui permainanlah anak-anak mengenal dunia dan belajar sopan santun."
     }
@@ -814,7 +814,7 @@
     },
     "D": {
      "zh": "玩的東西很有趣",
-     "py": "Wán de Dōngxi hěn yǒuqù",
+     "py": "Wán de dōngxi hěn yǒuqù",
      "en": "the things they play with are interesting",
      "idn": "barang yang mereka mainkan menarik"
     },
@@ -854,7 +854,7 @@
     },
     "D": {
      "zh": "玩的東西很有趣",
-     "py": "Wán de Dōngxi hěn yǒuqù",
+     "py": "Wán de dōngxi hěn yǒuqù",
      "en": "the things they play with are interesting",
      "idn": "barang yang mereka mainkan menarik"
     },
@@ -894,7 +894,7 @@
     },
     "D": {
      "zh": "玩的東西很有趣",
-     "py": "Wán de Dōngxi hěn yǒuqù",
+     "py": "Wán de dōngxi hěn yǒuqù",
      "en": "the things they play with are interesting",
      "idn": "barang yang mereka mainkan menarik"
     },
@@ -934,7 +934,7 @@
     },
     "D": {
      "zh": "玩的東西很有趣",
-     "py": "Wán de Dōngxi hěn yǒuqù",
+     "py": "Wán de dōngxi hěn yǒuqù",
      "en": "the things they play with are interesting",
      "idn": "barang yang mereka mainkan menarik"
     },
@@ -974,7 +974,7 @@
     },
     "D": {
      "zh": "玩的東西很有趣",
-     "py": "Wán de Dōngxi hěn yǒuqù",
+     "py": "Wán de dōngxi hěn yǒuqù",
      "en": "the things they play with are interesting",
      "idn": "barang yang mereka mainkan menarik"
     },
@@ -1014,7 +1014,7 @@
     },
     "D": {
      "zh": "玩的東西很有趣",
-     "py": "Wán de Dōngxi hěn yǒuqù",
+     "py": "Wán de dōngxi hěn yǒuqù",
      "en": "the things they play with are interesting",
      "idn": "barang yang mereka mainkan menarik"
     },
@@ -1054,7 +1054,7 @@
     },
     "D": {
      "zh": "玩的東西很有趣",
-     "py": "Wán de Dōngxi hěn yǒuqù",
+     "py": "Wán de dōngxi hěn yǒuqù",
      "en": "the things they play with are interesting",
      "idn": "barang yang mereka mainkan menarik"
     },
@@ -1094,7 +1094,7 @@
     },
     "D": {
      "zh": "玩的東西很有趣",
-     "py": "Wán de Dōngxi hěn yǒuqù",
+     "py": "Wán de dōngxi hěn yǒuqù",
      "en": "the things they play with are interesting",
      "idn": "barang yang mereka mainkan menarik"
     },
@@ -1134,7 +1134,7 @@
     },
     "D": {
      "zh": "玩的東西很有趣",
-     "py": "Wán de Dōngxi hěn yǒuqù",
+     "py": "Wán de dōngxi hěn yǒuqù",
      "en": "the things they play with are interesting",
      "idn": "barang yang mereka mainkan menarik"
     },
@@ -1174,7 +1174,7 @@
     },
     "D": {
      "zh": "玩的東西很有趣",
-     "py": "Wán de Dōngxi hěn yǒuqù",
+     "py": "Wán de dōngxi hěn yǒuqù",
      "en": "the things they play with are interesting",
      "idn": "barang yang mereka mainkan menarik"
     },
@@ -1274,7 +1274,7 @@
     },
     {
      "zh": "他們很多人會告訴你，是爸爸媽媽要他們學的。",
-     "py": "Tāmen hěnduō rénhuì gàosù nǐ, shì Bàbamāma yào tāmen xué de.",
+     "py": "Tāmen hěnduō rénhuì gàosù nǐ, shì bàbamāma yào tāmen xué de.",
      "en": "many of them will tell you their parents made them learn it.",
      "idn": "banyak yang akan menjawab bahwa orang tua merekalah yang menyuruh."
     },
@@ -1306,7 +1306,7 @@
    "options": {
     "A": {
      "zh": "小孩學這麼多東西的原因",
-     "py": "Xiǎohái xué zhème duō Dōngxi de yuányīn",
+     "py": "Xiǎohái xué zhème duō dōngxi de yuányīn",
      "en": "The reason children learn so many things",
      "idn": "Alasan anak-anak mempelajari begitu banyak hal"
     },
@@ -1340,7 +1340,7 @@
     },
     {
      "zh": "有很多人，想從世界地圖找到這個地方，總是找不到。",
-     "py": "Yǒu hěnduō rén, xiǎng cóng Shìjièdìtú zhǎodào zhè ge dìfāng, zǒngshì zhǎo búdào.",
+     "py": "Yǒu hěnduō rén, xiǎng cóng shìjièdìtú zhǎodào zhè ge dìfāng, zǒngshì zhǎo búdào.",
      "en": "Many people try to find this place on a world map but can never find it.",
      "idn": "Banyak orang mencoba mencari tempat ini di peta dunia, tetapi tidak pernah menemukannya."
     },
@@ -1418,7 +1418,7 @@
     },
     {
      "zh": "弟弟不願意，就和媽媽說：「我的房間太乾淨，就找不到自己的東西了，我還是去整理姊姊的房間好了。」",
-     "py": "Dìdi bú yuànyì, jiù hé māma shuō: “Wǒ de fángjiān tài gānjìng, jiù zhǎo búdào zìjǐ de Dōngxi le, wǒ háishì qù zhěnglǐ zǐzǐ de fángjiān hǎo le.”",
+     "py": "Dìdi bú yuànyì, jiù hé māma shuō: “Wǒ de fángjiān tài gānjìng, jiù zhǎo búdào zìjǐ de dōngxi le, wǒ háishì qù zhěnglǐ zǐzǐ de fángjiān hǎo le.”",
      "en": "Younger brother didn't want to, so he said to Mom: \"If my room is too clean, I won't be able to find my own things. I'd better go tidy older sister's room instead.\"",
      "idn": "Adik tidak mau, jadi dia berkata kepada Ibu: \"Kalau kamarku terlalu bersih, aku tidak bisa menemukan barang-barangku sendiri. Lebih baik aku merapikan kamar Kakak saja.\""
     },

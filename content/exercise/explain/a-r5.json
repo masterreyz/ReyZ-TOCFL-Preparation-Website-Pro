@@ -63,7 +63,7 @@
   "8": {
    "stem": {
     "zh": "今天天氣很冷，小月不只穿長褲，還穿了外套。",
-    "py": "Jīntiāntiānqì hěn lěng, xiǎo yuè bù zhǐ chuān chángkù, hái chuān le wàitào.",
+    "py": "Jīntiāntiānqì hěn lěng, Xiǎoyuè bù zhǐ chuān chángkù, hái chuān le wàitào.",
     "en": "It's very cold today, so Xiaoyue is wearing not only long pants but also a jacket.",
     "idn": "Hari ini sangat dingin, jadi Xiaoyue tidak hanya memakai celana panjang, tetapi juga jaket."
    }
@@ -111,7 +111,7 @@
   "14": {
    "stem": {
     "zh": "同學們都在教室裡做作業，所以很安靜。",
-    "py": "Tóngxuémen dōu zài jiàoshì lǐ zuòzuòyè, suǒyǐ hěn Ānjìng.",
+    "py": "Tóngxuémen dōu zài jiàoshì lǐ zuòzuòyè, suǒyǐ hěn ānjìng.",
     "en": "The classmates are all doing homework in the classroom, so it's very quiet.",
     "idn": "Teman-teman sekelas semuanya sedang mengerjakan PR di kelas, jadi suasananya sangat tenang."
    }
@@ -352,19 +352,19 @@
    "options": {
     "A": {
      "zh": "白小姐要找一間好學校。",
-     "py": "Báixiǎojiě yào zhǎo yìjiān hǎo xuéxiào.",
+     "py": "Bái xiǎojiě yào zhǎo yìjiān hǎo xuéxiào.",
      "en": "Miss Bai is looking for a good school.",
      "idn": "Nona Bai sedang mencari sekolah yang bagus."
     },
     "B": {
      "zh": "白小姐想和小美一塊兒住。",
-     "py": "Báixiǎojiě xiǎng hé xiǎo měi yíkuàir zhù.",
+     "py": "Bái xiǎojiě xiǎng hé Xiǎoměi yíkuàir zhù.",
      "en": "Miss Bai wants to live together with Xiaomei.",
      "idn": "Nona Bai ingin tinggal bersama Xiaomei."
     },
     "C": {
      "zh": "從白小姐家到市場很方便。",
-     "py": "Cóng Báixiǎojiě jiā dào shìchǎng hěn fāngbiàn.",
+     "py": "Cóng Bái xiǎojiě jiā dào shìchǎng hěn fāngbiàn.",
      "en": "It's very convenient to get from Miss Bai's home to the market.",
      "idn": "Dari rumah Nona Bai ke pasar sangat mudah dijangkau."
     }
@@ -390,7 +390,7 @@
     },
     {
      "zh": "白小姐",
-     "py": "Báixiǎojiě",
+     "py": "Bái xiǎojiě",
      "en": "Miss Bai",
      "idn": "Nona Bai"
     }
@@ -400,19 +400,19 @@
    "options": {
     "A": {
      "zh": "李大明留言給王華。",
-     "py": "Lǐ Dàmíng liúyán gěi Wánghuá.",
+     "py": "Lǐ Dàmíng liúyán gěi Wáng Huá.",
      "en": "Li Daming left a message for Wang Hua.",
      "idn": "Li Daming meninggalkan pesan untuk Wang Hua."
     },
     "B": {
      "zh": "王華中午要去開會。",
-     "py": "Wánghuá zhōngwǔ yào qù kāihuì.",
+     "py": "Wáng Huá zhōngwǔ yào qù kāihuì.",
      "en": "Wang Hua is going to a meeting at noon.",
      "idn": "Wang Hua akan pergi rapat pada siang hari."
     },
     "C": {
      "zh": "王華打電話給李大明。",
-     "py": "Wánghuá dǎdiànhuà gěi Lǐ Dàmíng.",
+     "py": "Wáng Huá dǎdiànhuà gěi Lǐ Dàmíng.",
      "en": "Wang Hua called Li Daming.",
      "idn": "Wang Hua menelepon Li Daming."
     }
@@ -438,7 +438,7 @@
     },
     {
      "zh": "王華 6月11日上午十點",
-     "py": "Wánghuá 6 yuè 11 rì shàngwǔ shídiǎn",
+     "py": "Wáng Huá 6 yuè 11 rì shàngwǔ shídiǎn",
      "en": "Wang Hua, June 11, 10 a.m.",
      "idn": "Wang Hua, 11 Juni, pukul 10 pagi"
     }
@@ -454,13 +454,13 @@
     },
     "B": {
      "zh": "陳小姐買了一些書。",
-     "py": "Chénxiǎojiě mǎi le yìxiē shū.",
+     "py": "Chén xiǎojiě mǎi le yìxiē shū.",
      "en": "Miss Chen bought some books.",
      "idn": "Nona Chen membeli beberapa buku."
     },
     "C": {
      "zh": "林先生把書寄出去了。",
-     "py": "Línxiānsheng bǎ shū jìchūqù le.",
+     "py": "Lín xiānsheng bǎ shū jìchūqù le.",
      "en": "Mr. Lin mailed the books.",
      "idn": "Tuan Lin mengirim buku-buku itu lewat pos."
     }
@@ -468,7 +468,7 @@
    "image": [
     {
      "zh": "林先生，你好！",
-     "py": "Línxiānsheng, nǐhǎo!",
+     "py": "Lín xiānsheng, nǐhǎo!",
      "en": "Hello, Mr. Lin!",
      "idn": "Halo, Tuan Lin!"
     },
@@ -480,7 +480,7 @@
     },
     {
      "zh": "有問題請打給陳小姐 0912345678",
-     "py": "Yǒu wèntí qǐng dǎgěi Chénxiǎojiě 0912345678",
+     "py": "Yǒu wèntí qǐng dǎgěi Chén xiǎojiě 0912345678",
      "en": "If you have questions, call Miss Chen at 0912345678.",
      "idn": "Jika ada pertanyaan, telepon Nona Chen di 0912345678."
     }
@@ -490,19 +490,19 @@
    "options": {
     "A": {
      "zh": "王明下午在辦公室。",
-     "py": "Wángmíng xiàwǔ zài bàngōngshì.",
+     "py": "Wáng Míng xiàwǔ zài bàngōngshì.",
      "en": "Wang Ming is in the office this afternoon.",
      "idn": "Wang Ming ada di kantor sore ini."
     },
     "B": {
      "zh": "王明的媽媽在醫院。",
-     "py": "Wángmíng de māma zài yīyuàn.",
+     "py": "Wáng Míng de māma zài yīyuàn.",
      "en": "Wang Ming's mother is in the hospital.",
      "idn": "Ibu Wang Ming dirawat di rumah sakit."
     },
     "C": {
      "zh": "王明已經下班回家。",
-     "py": "Wángmíng yǐjīng xiàbān huíjiā.",
+     "py": "Wáng Míng yǐjīng xiàbān huíjiā.",
      "en": "Wang Ming has already left work and gone home.",
      "idn": "Wang Ming sudah pulang kerja."
     }
@@ -522,7 +522,7 @@
     },
     {
      "zh": "王明",
-     "py": "Wángmíng",
+     "py": "Wáng Míng",
      "en": "Wang Ming",
      "idn": "Wang Ming"
     }
@@ -532,13 +532,13 @@
    "options": {
     "A": {
      "zh": "警察要大家看清楚紅綠燈。",
-     "py": "Jǐngchá yào dàjiā kànqīngchǔ Hónglǜdēng.",
+     "py": "Jǐngchá yào dàjiā kànqīngchǔ hónglǜdēng.",
      "en": "The police want everyone to look carefully at the traffic lights.",
      "idn": "Polisi meminta semua orang memperhatikan lampu lalu lintas dengan saksama."
     },
     "B": {
      "zh": "警察要大家騎車戴著安全帽。",
-     "py": "Jǐngchá yào dàjiā qíchē Dàizhe Ānquánmào.",
+     "py": "Jǐngchá yào dàjiā qíchē dàizhe ānquánmào.",
      "en": "The police want everyone to wear a helmet when riding.",
      "idn": "Polisi meminta semua orang memakai helm saat berkendara."
     },
@@ -600,13 +600,13 @@
     },
     {
      "zh": "0-12歲 一半的價格",
-     "py": "0 - 12 suì yíbàn de jiàgé",
+     "py": "0-12 suì yíbàn de jiàgé",
      "en": "Ages 0–12: half price",
      "idn": "Usia 0–12 tahun: setengah harga"
     },
     {
      "zh": "12-65歲 20元",
-     "py": "12 - 65 suì 20 yuán",
+     "py": "12-65 suì 20 yuán",
      "en": "Ages 12–65: NT$20",
      "idn": "Usia 12–65 tahun: NT$20"
     },
@@ -618,7 +618,7 @@
     },
     {
      "zh": "慶祝國家的生日，十月十日搭公車，所有人都不用錢。",
-     "py": "Qìngzhù guójiā de shēngrì, Shíyuèshírì dāgōngchē, suǒyǒurén dōu búyòng qián.",
+     "py": "Qìngzhù guójiā de shēngrì, shíyuèshírì dāgōngchē, suǒyǒurén dōu búyòng qián.",
      "en": "To celebrate the nation's birthday, bus rides on October 10th are free for everyone.",
      "idn": "Untuk merayakan ulang tahun negara, naik bus pada tanggal 10 Oktober gratis bagi semua orang."
     }
@@ -706,7 +706,7 @@
     },
     "C": {
      "zh": "有興趣的人可以給陳先生打電話。",
-     "py": "Yǒu xìngqù de rén kěyǐ gěi Chénxiānsheng dǎdiànhuà.",
+     "py": "Yǒu xìngqù de rén kěyǐ gěi Chén xiānsheng dǎdiànhuà.",
      "en": "Interested people can call Mr. Chen.",
      "idn": "Yang berminat bisa menelepon Tuan Chen."
     }
@@ -732,13 +732,13 @@
     },
     {
      "zh": "如果你有興趣，請直接到餐廳找陳先生。",
-     "py": "Rúguǒ nǐ yǒu xìngqù, qǐng zhíjiē dào cāntīng zhǎo Chénxiānsheng.",
+     "py": "Rúguǒ nǐ yǒu xìngqù, qǐng zhíjiē dào cāntīng zhǎo Chén xiānsheng.",
      "en": "If you're interested, please go directly to the cafeteria and ask for Mr. Chen.",
      "idn": "Jika berminat, silakan langsung datang ke kantin dan cari Tuan Chen."
     },
     {
      "zh": "餐廳電話：1234-5678 餐廳地址：OO市OO路O號",
-     "py": "Cāntīng diànhuà: 1234 - 5678 cāntīng dìzhǐ: OO shì OO lù O hào",
+     "py": "Cāntīng diànhuà: 1234-5678 cāntīng dìzhǐ: OO shì OO lù O hào",
      "en": "Cafeteria phone: 1234-5678; Cafeteria address: No. O, OO Road, OO City",
      "idn": "Telepon kantin: 1234-5678; Alamat kantin: Jalan OO No. O, Kota OO"
     }
@@ -831,7 +831,7 @@
   "34": {
    "stem": {
     "zh": "這些大衣太貴了，______便宜一點，小王就一定會買。",
-    "py": "Zhèxiē dàyī Tàiguì le, ______ piányi yìdiǎn, Xiǎo Wáng jiù yídìng huì mǎi.",
+    "py": "Zhèxiē dàyī tàiguì le, ______ piányi yìdiǎn, Xiǎo Wáng jiù yídìng huì mǎi.",
     "en": "These overcoats are too expensive; ___ they were a bit cheaper, Xiao Wang would definitely buy one. (blank: if)",
     "idn": "Mantel-mantel ini terlalu mahal; ___ sedikit lebih murah, Xiao Wang pasti akan membeli satu. (isian: seandainya)"
    },
@@ -1028,7 +1028,7 @@
    "passage": [
     {
      "zh": "王明五歲的時候在自己家前面，被（41）帶走了。",
-     "py": "Wángmíng wǔsuì de shíhòu zài zìjǐ jiā qiánmiàn, bèi (41) dàizǒu le.",
+     "py": "Wáng Míng wǔsuì de shíhòu zài zìjǐ jiā qiánmiàn, bèi (41) dàizǒu le.",
      "en": "When Wang Ming was five years old, he was taken away by (41) in front of his own home.",
      "idn": "Ketika Wang Ming berusia lima tahun, dia dibawa pergi oleh (41) di depan rumahnya sendiri."
     },
@@ -1040,13 +1040,13 @@
     },
     {
      "zh": "他的朋友聽了以後就上網（43），最後，王明真的找到他的爸爸了。",
-     "py": "Tā de péngyǒu tīng le yǐhòu jiù shàngwǎng (43), zuìhòu, Wángmíng zhēnde zhǎodào tā de bàba le.",
+     "py": "Tā de péngyǒu tīng le yǐhòu jiù shàngwǎng (43), zuìhòu, Wáng Míng zhēnde zhǎodào tā de bàba le.",
      "en": "After hearing this, his friend went online (43), and in the end Wang Ming really found his father.",
      "idn": "Setelah mendengar itu, temannya masuk ke internet (43), dan akhirnya Wang Ming benar-benar menemukan ayahnya."
     },
     {
      "zh": "他爸爸說這些年（44），沒想到是王明先找到他。",
-     "py": "Tā bàba shuō zhèxiē nián (44), méixiǎngdào shì Wángmíng xiān zhǎodào tā.",
+     "py": "Tā bàba shuō zhèxiē nián (44), méixiǎngdào shì Wáng Míng xiān zhǎodào tā.",
      "en": "His father said that all these years (44); he never expected that Wang Ming would find him first.",
      "idn": "Ayahnya berkata bahwa selama bertahun-tahun ini (44); dia tidak menyangka Wang Ming yang lebih dulu menemukannya."
     },
@@ -1084,13 +1084,13 @@
     },
     "E": {
      "zh": "他不想去找王明",
-     "py": "Tā bùxiǎng qù zhǎo Wángmíng",
+     "py": "Tā bùxiǎng qù zhǎo Wáng Míng",
      "en": "he didn't want to look for Wang Ming",
      "idn": "dia tidak mau mencari Wang Ming"
     },
     "F": {
      "zh": "他一直在找王明",
-     "py": "Tā yìzhí zài zhǎo Wángmíng",
+     "py": "Tā yìzhí zài zhǎo Wáng Míng",
      "en": "he had been looking for Wang Ming the whole time",
      "idn": "dia terus mencari Wang Ming selama ini"
     }
@@ -1124,13 +1124,13 @@
     },
     "E": {
      "zh": "他不想去找王明",
-     "py": "Tā bùxiǎng qù zhǎo Wángmíng",
+     "py": "Tā bùxiǎng qù zhǎo Wáng Míng",
      "en": "he didn't want to look for Wang Ming",
      "idn": "dia tidak mau mencari Wang Ming"
     },
     "F": {
      "zh": "他一直在找王明",
-     "py": "Tā yìzhí zài zhǎo Wángmíng",
+     "py": "Tā yìzhí zài zhǎo Wáng Míng",
      "en": "he had been looking for Wang Ming the whole time",
      "idn": "dia terus mencari Wang Ming selama ini"
     }
@@ -1164,13 +1164,13 @@
     },
     "E": {
      "zh": "他不想去找王明",
-     "py": "Tā bùxiǎng qù zhǎo Wángmíng",
+     "py": "Tā bùxiǎng qù zhǎo Wáng Míng",
      "en": "he didn't want to look for Wang Ming",
      "idn": "dia tidak mau mencari Wang Ming"
     },
     "F": {
      "zh": "他一直在找王明",
-     "py": "Tā yìzhí zài zhǎo Wángmíng",
+     "py": "Tā yìzhí zài zhǎo Wáng Míng",
      "en": "he had been looking for Wang Ming the whole time",
      "idn": "dia terus mencari Wang Ming selama ini"
     }
@@ -1204,13 +1204,13 @@
     },
     "E": {
      "zh": "他不想去找王明",
-     "py": "Tā bùxiǎng qù zhǎo Wángmíng",
+     "py": "Tā bùxiǎng qù zhǎo Wáng Míng",
      "en": "he didn't want to look for Wang Ming",
      "idn": "dia tidak mau mencari Wang Ming"
     },
     "F": {
      "zh": "他一直在找王明",
-     "py": "Tā yìzhí zài zhǎo Wángmíng",
+     "py": "Tā yìzhí zài zhǎo Wáng Míng",
      "en": "he had been looking for Wang Ming the whole time",
      "idn": "dia terus mencari Wang Ming selama ini"
     }
@@ -1244,13 +1244,13 @@
     },
     "E": {
      "zh": "他不想去找王明",
-     "py": "Tā bùxiǎng qù zhǎo Wángmíng",
+     "py": "Tā bùxiǎng qù zhǎo Wáng Míng",
      "en": "he didn't want to look for Wang Ming",
      "idn": "dia tidak mau mencari Wang Ming"
     },
     "F": {
      "zh": "他一直在找王明",
-     "py": "Tā yìzhí zài zhǎo Wángmíng",
+     "py": "Tā yìzhí zài zhǎo Wáng Míng",
      "en": "he had been looking for Wang Ming the whole time",
      "idn": "dia terus mencari Wang Ming selama ini"
     }
@@ -1386,13 +1386,13 @@
     },
     {
      "zh": "今天小華收到了小美的明信片，明信片裡介紹了日本的食物、天氣和她的學校生活，小美還邀請小華到她家玩、認識她在日本的朋友。",
-     "py": "Jīntiān Xiǎohuá shōudào le xiǎo Měide míngxìnpiàn, míngxìnpiàn lǐ jièshào le Rìběn de shíwù, tiānqì hé tā de xuéxiào shēnghuó, Xiǎoměi hái yāoqǐng Xiǎohuá dào tājiā wán, rènshi tā zài Rìběn de péngyǒu.",
+     "py": "Jīntiān Xiǎohuá shōudào le Xiǎoměi de míngxìnpiàn, míngxìnpiàn lǐ jièshào le Rìběn de shíwù, tiānqì hé tā de xuéxiào shēnghuó, Xiǎoměi hái yāoqǐng Xiǎohuá dào tājiā wán, rènshi tā zài Rìběn de péngyǒu.",
      "en": "Today Xiaohua received a postcard from Xiaomei. The postcard described Japanese food, the weather, and her school life, and Xiaomei also invited Xiaohua to visit her home and meet her friends in Japan.",
      "idn": "Hari ini Xiaohua menerima kartu pos dari Xiaomei. Kartu pos itu bercerita tentang makanan Jepang, cuaca, dan kehidupan sekolahnya, dan Xiaomei juga mengundang Xiaohua berkunjung ke rumahnya dan berkenalan dengan teman-temannya di Jepang."
     },
     {
      "zh": "小華想了想，雖然她很想去，但是三月臺灣的學校已經開學了，於是她寫了明信片給小美，告訴她雖然那個時間不能去，但是暑假的時候可以去參觀她的學校，到時候再買好吃點心過去。",
-     "py": "Xiǎohuá xiǎng le xiǎng, suīrán tā hěn xiǎng qù, dànshì sānyuè Táiwān de xuéxiào yǐjīng kāixué le, yúshì tā xiě le míngxìnpiàn gěi xiǎo měi, gàosù tā suīrán nà ge shíjiān bùnéng qù, dànshì shǔjià de shíhòu kěyǐ qù cānguān tā de xuéxiào, dàoshíhòu zài mǎi hǎochī diǎnxīn guòqù.",
+     "py": "Xiǎohuá xiǎng le xiǎng, suīrán tā hěn xiǎng qù, dànshì sānyuè Táiwān de xuéxiào yǐjīng kāixué le, yúshì tā xiě le míngxìnpiàn gěi Xiǎoměi, gàosù tā suīrán nà ge shíjiān bùnéng qù, dànshì shǔjià de shíhòu kěyǐ qù cānguān tā de xuéxiào, dàoshíhòu zài mǎi hǎochī diǎnxīn guòqù.",
      "en": "Xiaohua thought about it. Although she really wanted to go, Taiwanese schools would already have started in March, so she wrote a postcard to Xiaomei telling her that although she couldn't go at that time, she could visit her school during summer vacation and would bring delicious snacks then.",
      "idn": "Xiaohua memikirkannya. Meskipun sangat ingin pergi, sekolah di Taiwan sudah akan dimulai pada bulan Maret, jadi dia menulis kartu pos kepada Xiaomei, mengatakan bahwa meskipun tidak bisa pergi saat itu, dia bisa mengunjungi sekolahnya pada liburan musim panas dan akan membawa camilan lezat."
     }
@@ -1424,7 +1424,7 @@
     },
     "D": {
      "zh": "小華暑假的時候要去找小美",
-     "py": "Xiǎohuá shǔjià de shíhòu yào qù zhǎo xiǎo měi",
+     "py": "Xiǎohuá shǔjià de shíhòu yào qù zhǎo Xiǎoměi",
      "en": "Xiaohua will go see Xiaomei during summer vacation.",
      "idn": "Xiaohua akan menemui Xiaomei pada liburan musim panas."
     }
@@ -1440,33 +1440,33 @@
     },
     {
      "zh": "小月和媽媽去買衣服的時候，看到了一條漂亮的裙子，小月很喜歡那條裙子的樣子，但是太貴了，所以小月想跟媽媽討論以後再決定要不要買。",
-     "py": "Xiǎo yuè hé māma qù mǎi yīfú de shíhòu, kàndào le yìtiáo piàoliang de qúnzi, xiǎo yuè hěn xǐhuān nàtiáo qúnzi de yàngzi, dànshì Tàiguì le, suǒyǐ xiǎo yuè xiǎng gēn māma tǎolùn yǐhòu zài juédìng yào búyào mǎi.",
+     "py": "Xiǎoyuè hé māma qù mǎi yīfú de shíhòu, kàndào le yìtiáo piàoliang de qúnzi, Xiǎoyuè hěn xǐhuān nàtiáo qúnzi de yàngzi, dànshì tàiguì le, suǒyǐ Xiǎoyuè xiǎng gēn māma tǎolùn yǐhòu zài juédìng yào búyào mǎi.",
      "en": "When Xiaoyue and her mom went clothes shopping, they saw a pretty skirt. Xiaoyue really liked its style, but it was too expensive, so she wanted to discuss it with her mom before deciding whether to buy it.",
      "idn": "Ketika Xiaoyue dan ibunya berbelanja pakaian, mereka melihat sebuah rok yang cantik. Xiaoyue sangat menyukai modelnya, tetapi harganya terlalu mahal, jadi dia ingin berdiskusi dulu dengan ibunya sebelum memutuskan membelinya atau tidak."
     },
     {
      "zh": "當他們在討論的時候，一位客人看到了小月手上的裙子，就問老闆裙子多少錢，老闆回答了，還說裙子只剩最後這條白色的了，以後也不會再有了。",
-     "py": "Dāng tāmen zài tǎolùn de shíhòu, yíwèi kèrén kàndào le xiǎo yuè shǒushàng de qúnzi, jiù wèn lǎobǎn qúnzi Duōshǎoqián, lǎobǎn huídá le, hái shuō qúnzi zhǐ shèng zuìhòu zhè tiáo báisè de le, yǐhòu yě búhuì zàiyǒu le.",
+     "py": "Dāng tāmen zài tǎolùn de shíhòu, yíwèi kèrén kàndào le Xiǎoyuè shǒushàng de qúnzi, jiù wèn lǎobǎn qúnzi duōshǎoqián, lǎobǎn huídá le, hái shuō qúnzi zhǐ shèng zuìhòu zhè tiáo báisè de le, yǐhòu yě búhuì zàiyǒu le.",
      "en": "While they were discussing, a customer saw the skirt in Xiaoyue's hands and asked the shop owner how much it was. The owner answered and also said this white one was the last skirt left and there wouldn't be any more.",
      "idn": "Saat mereka berdiskusi, seorang pelanggan melihat rok di tangan Xiaoyue dan bertanya kepada pemilik toko berapa harganya. Pemilik toko menjawab, dan juga mengatakan bahwa rok putih ini adalah yang terakhir dan tidak akan ada lagi."
     },
     {
      "zh": "小月聽到老闆說的話以後，馬上買了那條裙子。",
-     "py": "Xiǎo yuè tīngdào lǎobǎn shuō dehuà yǐhòu, mǎshàng mǎi le nàtiáo qúnzi.",
+     "py": "Xiǎoyuè tīngdào lǎobǎn shuō dehuà yǐhòu, mǎshàng mǎi le nàtiáo qúnzi.",
      "en": "After hearing what the owner said, Xiaoyue bought the skirt immediately.",
      "idn": "Setelah mendengar ucapan pemilik toko, Xiaoyue langsung membeli rok itu."
     }
    ],
    "stem": {
     "zh": "為什麼小月決定買那條白色的裙子？",
-    "py": "Wèishénme xiǎo yuè juédìng mǎi nàtiáo báisè de qúnzi?",
+    "py": "Wèishénme Xiǎoyuè juédìng mǎi nàtiáo báisè de qúnzi?",
     "en": "Why did Xiaoyue decide to buy that white skirt?",
     "idn": "Mengapa Xiaoyue memutuskan membeli rok putih itu?"
    },
    "options": {
     "A": {
      "zh": "因為小月只喜歡白色的裙子",
-     "py": "Yīnwèi xiǎo yuè zhǐ xǐhuān báisè de qúnzi",
+     "py": "Yīnwèi Xiǎoyuè zhǐ xǐhuān báisè de qúnzi",
      "en": "Because Xiaoyue only likes white skirts",
      "idn": "Karena Xiaoyue hanya suka rok putih"
     },
@@ -1484,7 +1484,7 @@
     },
     "D": {
      "zh": "因為小月的媽媽要她買那條裙子",
-     "py": "Yīnwèi xiǎo yuè de māma yào tā mǎi nàtiáo qúnzi",
+     "py": "Yīnwèi Xiǎoyuè de māma yào tā mǎi nàtiáo qúnzi",
      "en": "Because Xiaoyue's mom wanted her to buy that skirt",
      "idn": "Karena ibu Xiaoyue ingin dia membeli rok itu"
     }
@@ -1500,7 +1500,7 @@
     },
     {
      "zh": "大同想要給家裡更好的生活，所以從南部北上工作，但是北部的東西太貴了，他週末的時候得在公司加班才能賺更多的錢。",
-     "py": "Dàtóng xiǎngyào gěi jiālǐ gènghǎo de shēnghuó, suǒyǐ cóng nánbù běishàng gōngzuò, dànshì běibù de Dōngxi Tàiguì le, tā zhōumò de shíhòu děi zài gōngsī jiābān cáinéng zhuàn gèng duō de qián.",
+     "py": "Dàtóng xiǎngyào gěi jiālǐ gènghǎo de shēnghuó, suǒyǐ cóng nánbù běishàng gōngzuò, dànshì běibù de dōngxi tàiguì le, tā zhōumò de shíhòu děi zài gōngsī jiābān cáinéng zhuàn gèng duō de qián.",
      "en": "Datong wanted to give his family a better life, so he moved from the south up north to work. But things in the north are too expensive, and he has to work overtime at the company on weekends to earn more money.",
      "idn": "Datong ingin memberi keluarganya kehidupan yang lebih baik, jadi dia pindah dari selatan ke utara untuk bekerja. Tetapi barang-barang di utara terlalu mahal, dan pada akhir pekan dia harus lembur di kantor untuk mendapat lebih banyak uang."
     },
@@ -1538,7 +1538,7 @@
     },
     "D": {
      "zh": "他覺得南部東西很貴",
-     "py": "Tā juéde nánbù Dōngxi hěn guì",
+     "py": "Tā juéde nánbù dōngxi hěn guì",
      "en": "He thinks things in the south are expensive.",
      "idn": "Dia merasa barang-barang di selatan mahal."
     }

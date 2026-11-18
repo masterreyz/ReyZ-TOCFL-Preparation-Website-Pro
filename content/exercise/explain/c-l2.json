@@ -84,7 +84,7 @@
    "transcript": [
     {
      "zh": "這位先生對小王換工作這件事有什麼看法？",
-     "py": "Zhèwèi xiānsheng duì Xiǎo Wáng Huàn gōngzuò zhèjiàn shì yǒu shénme kànfǎ?",
+     "py": "Zhèwèi xiānsheng duì Xiǎo Wáng huàn gōngzuò zhèjiàn shì yǒu shénme kànfǎ?",
      "en": "What does the man think about Xiao Wang changing jobs?",
      "idn": "Bagaimana pendapat pria itu tentang Xiao Wang yang berganti kerja?"
     }
@@ -120,7 +120,7 @@
    "transcript": [
     {
      "zh": "這位小姐認為小王老是換工作的壞處是什麼？",
-     "py": "Zhèwèi Xiǎojiě rènwéi Xiǎo Wáng lǎo shì huàn gōngzuò de huàichù shì shénme?",
+     "py": "Zhèwèi xiǎojiě rènwéi Xiǎo Wáng lǎo shì huàn gōngzuò de huàichù shì shénme?",
      "en": "What does the woman think is the downside of Xiao Wang always changing jobs?",
      "idn": "Menurut wanita itu, apa kerugian Xiao Wang yang selalu berganti kerja?"
     }
@@ -148,7 +148,7 @@
     },
     "D": {
      "zh": "這位小姐應該推掉其他的案子",
-     "py": "Zhèwèi Xiǎojiě yīnggāi tuīdiào qítā de ànzi",
+     "py": "Zhèwèi xiǎojiě yīnggāi tuīdiào qítā de ànzi",
      "en": "(D) The woman should turn down her other projects.",
      "idn": "(D) Wanita itu sebaiknya menolak proyek-proyeknya yang lain."
     }
@@ -162,7 +162,7 @@
     },
     {
      "zh": "女：喂，林老闆，您好、您好。我先前提過，9 月和 10 月，這兩個月我們這兒",
-     "py": "Nǚ: Wèi, lín lǎobǎn, nínhǎo, nínhǎo. Wǒ xiān qiántí guò, 9 yuè hé 10 yuè, zhè liǎng ge yuè wǒmen zhèr",
+     "py": "Nǚ: Wèi, Lín lǎobǎn, nínhǎo, nínhǎo. Wǒ xiān qiántí guò, 9 yuè hé 10 yuè, zhè liǎng ge yuè wǒmen zhèr",
      "en": "Woman: Hello, Mr. Lin, hello. As I mentioned before, in September and October we really can't spare anyone here",
      "idn": "Wanita: Halo, Pak Lin, halo. Seperti yang sudah saya sampaikan, pada bulan September dan Oktober kami benar-benar tidak punya orang"
     },
@@ -186,7 +186,7 @@
     },
     {
      "zh": "女：喔，林老闆，大家往來那麼久了，您的面子一定得給，這樣好不好，9 月、",
-     "py": "Nǚ: Ō, lín lǎobǎn, dàjiā wǎnglái nàme jiǔ le, nín de miànzi yídìng dégěi, zhèyàng hǎobùhǎo, 9 yuè,",
+     "py": "Nǚ: Ō, Lín lǎobǎn, dàjiā wǎnglái nàme jiǔ le, nín de miànzi yídìng dégěi, zhèyàng hǎobùhǎo, 9 yuè,",
      "en": "Woman: Oh, Mr. Lin, we've worked together so long, I must give you face. How about this: in September",
      "idn": "Wanita: Aduh, Pak Lin, kita sudah lama bekerja sama, saya harus memberi muka kepada Bapak. Begini saja: pada bulan September"
     },
@@ -212,7 +212,7 @@
    "transcript": [
     {
      "zh": "在對話中，林老闆說了什麼？",
-     "py": "Zài duìhuà zhōng, lín lǎobǎn shuō le shénme?",
+     "py": "Zài duìhuà zhōng, Lín lǎobǎn shuō le shénme?",
      "en": "In the conversation, what did Mr. Lin say?",
      "idn": "Dalam percakapan, apa yang dikatakan Pak Lin?"
     }
@@ -222,25 +222,25 @@
    "options": {
     "A": {
      "zh": "這位小姐想出了折衷的法子",
-     "py": "Zhèwèi Xiǎojiě xiǎngchū le zhézhōng de fǎzi",
+     "py": "Zhèwèi xiǎojiě xiǎngchū le zhézhōng de fǎzi",
      "en": "(A) The woman came up with a compromise.",
      "idn": "(A) Wanita itu menawarkan jalan tengah."
     },
     "B": {
      "zh": "這位小姐要林老闆付清貨款",
-     "py": "Zhèwèi Xiǎojiě yào Lín lǎobǎn Fùqīng huòkuǎn",
+     "py": "Zhèwèi xiǎojiě yào Lín lǎobǎn fùqīng huòkuǎn",
      "en": "(B) The woman wants Mr. Lin to pay for the goods in full.",
      "idn": "(B) Wanita itu ingin Pak Lin membayar barangnya lunas."
     },
     "C": {
      "zh": "這位小姐要林老闆趕緊把貨給她",
-     "py": "Zhèwèi Xiǎojiě yào Lín lǎobǎn gǎnjǐn bǎ huò gěi tā",
+     "py": "Zhèwèi xiǎojiě yào Lín lǎobǎn gǎnjǐn bǎ huò gěi tā",
      "en": "(C) The woman wants Mr. Lin to hurry up and give her the goods.",
      "idn": "(C) Wanita itu ingin Pak Lin segera menyerahkan barangnya."
     },
     "D": {
      "zh": "這位小姐覺得林老闆不給她面子",
-     "py": "Zhèwèi Xiǎojiě juéde lín lǎobǎn bù gěi tā miànzi",
+     "py": "Zhèwèi xiǎojiě juéde Lín lǎobǎn bù gěi tā miànzi",
      "en": "(D) The woman feels Mr. Lin isn't giving her face.",
      "idn": "(D) Wanita itu merasa Pak Lin tidak memberinya muka."
     }
@@ -316,7 +316,7 @@
     },
     {
      "zh": "問一下林經理，保險業會受到波及嗎？",
-     "py": "wèn yíxià lín jīnglǐ, bǎoxiǎnyè huì shòudào Bōjí ma?",
+     "py": "wèn yíxià Lín jīnglǐ, bǎoxiǎnyè huì shòudào bōjí ma?",
      "en": "ask, Manager Lin, will the insurance industry be affected?",
      "idn": "bertanya, Manajer Lin, apakah industri asuransi akan terpengaruh?"
     },
@@ -412,7 +412,7 @@
    "options": {
     "A": {
      "zh": "遭受波及，損失慘重",
-     "py": "Zāoshòu Bōjí, sǔnshīcǎnzhòng",
+     "py": "Zāoshòu bōjí, sǔnshīcǎnzhòng",
      "en": "(A) Affected, with heavy losses",
      "idn": "(A) Terdampak, rugi besar"
     },
@@ -448,7 +448,7 @@
    "passage": [
     {
      "zh": "太空人克里斯‧哈德菲爾上校退役後，上節目分享他當太空人的心路歷程。",
-     "py": "Tàikōngrén Kèlǐsī ‧ Hā Défēi'ěr shàngxiào tuìyì hòu, shàng jiémù fēnxiǎng tā dāng tàikōngrén de xīnlùlìchéng.",
+     "py": "Tàikōngrén Kèlǐsī ‧ hā Défēi'ěr shàngxiào tuìyì hòu, shàng jiémù fēnxiǎng tā dāng tàikōngrén de xīnlùlìchéng.",
      "en": "After retiring, astronaut Colonel Chris Hadfield appeared on a show to share his experiences as an astronaut.",
      "idn": "Setelah pensiun, astronaut Kolonel Chris Hadfield tampil dalam sebuah acara untuk berbagi pengalamannya sebagai astronaut."
     },
@@ -488,7 +488,7 @@
    "intro": [
     {
      "zh": "太空人克里斯‧哈德菲爾上校退役後，上節目分享他當太空人的心路歷程。以下",
-     "py": "Tàikōngrén Kèlǐsī ‧ Hā Défēi'ěr shàngxiào tuìyì hòu, shàng jiémù fēnxiǎng tā dāng tàikōngrén de xīnlùlìchéng. Yǐxià",
+     "py": "Tàikōngrén Kèlǐsī ‧ hā Défēi'ěr shàngxiào tuìyì hòu, shàng jiémù fēnxiǎng tā dāng tàikōngrén de xīnlùlìchéng. Yǐxià",
      "en": "After retiring, astronaut Colonel Chris Hadfield appeared on a show to share his experiences as an astronaut. Below are",
      "idn": "Setelah pensiun, astronaut Kolonel Chris Hadfield tampil dalam sebuah acara untuk berbagi pengalamannya sebagai astronaut. Berikut ini"
     },
@@ -530,7 +530,7 @@
     },
     {
      "zh": "可能發生的狀況。例如，開車上路時，我就想著後頭的車子可能會煞車不及",
-     "py": "kěnéng fāshēng de zhuàngkuàng. Lìrú, kāichē Shànglù shí, wǒ jiù xiǎngzhe hòutou de chēzi kěnéng huì shāchē bùjí",
+     "py": "kěnéng fāshēng de zhuàngkuàng. Lìrú, kāichē shànglù shí, wǒ jiù xiǎngzhe hòutou de chēzi kěnéng huì shāchē bùjí",
      "en": "that might happen. For example, when I'm driving, I think the car behind me might not brake in time",
      "idn": "kemungkinan yang bisa terjadi. Misalnya, saat menyetir, saya berpikir mobil di belakang mungkin tidak sempat mengerem"
     },
@@ -568,7 +568,7 @@
    "transcript": [
     {
      "zh": "根據訪談，太空人哈德菲爾認知的「小題大作」是什麼？",
-     "py": "Gēnjù fǎngtán, tàikōngrén Hā Défēi'ěr rènzhī de “Xiǎotídàzuò” shì shénme?",
+     "py": "Gēnjù fǎngtán, tàikōngrén hā Défēi'ěr rènzhī de “Xiǎotídàzuò” shì shénme?",
      "en": "According to the interview, what does astronaut Hadfield understand by \"making a mountain out of a molehill\"?",
      "idn": "Menurut wawancara ini, apa yang dipahami astronaut Hadfield tentang \"membesar-besarkan masalah kecil\"?"
     }
@@ -604,7 +604,7 @@
    "transcript": [
     {
      "zh": "在訪談中，哈德菲爾為何提到悲觀的態度？",
-     "py": "Zài fǎngtán zhōng, Hā Défēi'ěr wèihé tídào bēiguān de tàidù?",
+     "py": "Zài fǎngtán zhōng, hā Défēi'ěr wèihé tídào bēiguān de tàidù?",
      "en": "In the interview, why does Hadfield mention a pessimistic attitude?",
      "idn": "Dalam wawancara, mengapa Hadfield menyebutkan sikap pesimis?"
     }
@@ -744,7 +744,7 @@
     },
     {
      "zh": "女：你說的是沒錯，但我認為太過重視效率和這些程序，員工很容易被制約而墨",
-     "py": "Nǚ: Nǐ shuō de shì méicuò, dàn wǒ rènwéi tài guò zhòngshì xiàolǜ hé zhèxiē chéngxù, yuángōng hěn róngyì bèi zhìyuē ér Mò",
+     "py": "Nǚ: Nǐ shuō de shì méicuò, dàn wǒ rènwéi tài guò zhòngshì xiàolǜ hé zhèxiē chéngxù, yuángōng hěn róngyì bèi zhìyuē ér mò",
      "en": "Woman: You're right, but I think if efficiency and procedures are overemphasized, employees easily become conditioned and stick",
      "idn": "Wanita: Kamu benar, tapi menurut saya kalau efisiensi dan prosedur terlalu ditekankan, karyawan mudah menjadi terbiasa dan kaku"
     },
@@ -788,7 +788,7 @@
    "transcript": [
     {
      "zh": "這位小姐對「標準作業程序」的看法是什麼？",
-     "py": "Zhèwèi Xiǎojiě duì “Biāozhǔn zuòyè chéngxù” de kànfǎ shì shénme?",
+     "py": "Zhèwèi xiǎojiě duì “Biāozhǔn zuòyè chéngxù” de kànfǎ shì shénme?",
      "en": "What does the woman think of \"standard operating procedures\"?",
      "idn": "Bagaimana pendapat wanita itu tentang \"prosedur operasi standar\"?"
     }
@@ -922,7 +922,7 @@
     },
     {
      "zh": "著李導演一貫的高水準。劇情的話，通俗易懂，如果把這部電影跟李導演的",
-     "py": "zhe Lǐ dǎoyǎn yíguàn de gāo shuǐzhǔn. Jùqíng dehuà, tōngsúyìdǒng, rúguǒ bǎ zhèbù diànyǐng gēn Lǐ dǎoyǎn de",
+     "py": "zhe lǐ dǎoyǎn yíguàn de gāo shuǐzhǔn. Jùqíng dehuà, tōngsúyìdǒng, rúguǒ bǎ zhèbù diànyǐng gēn lǐ dǎoyǎn de",
      "en": "Director Li's usual high standard. As for the plot, it's easy to understand. If you compare this film with Director Li's",
      "idn": "standar tinggi Sutradara Li seperti biasa. Soal alur, mudah dipahami. Kalau kamu membandingkan film ini dengan"
     },
@@ -952,7 +952,7 @@
     },
     {
      "zh": "男：主角的李文，在面對女主角來訪時，那種強裝鎮定，但其實手足無措的神",
-     "py": "nán: Zhǔjué de Lǐwén, zài miànduì nǚzhǔjué láifǎng shí, nàzhǒng qiángzhuāng zhèndìng, dàn qíshí shǒuzúwúcuò de shén",
+     "py": "nán: Zhǔjué de Lǐ Wén, zài miànduì nǚzhǔjué láifǎng shí, nàzhǒng qiángzhuāng zhèndìng, dàn qíshí shǒuzúwúcuò de shén",
      "en": "male lead, Li Wen, when the heroine comes to visit, shows a forced calm while actually being at a complete loss,",
      "idn": "pemeran utama pria, Li Wen, ketika pemeran utama wanita datang berkunjung, menampilkan ketenangan yang dipaksakan padahal sebenarnya kebingungan,"
     },
@@ -1116,7 +1116,7 @@
    "transcript": [
     {
      "zh": "這位小姐對網路影評的看法是什麼？",
-     "py": "Zhèwèi Xiǎojiě duì wǎnglù yǐngpíng de kànfǎ shì shénme?",
+     "py": "Zhèwèi xiǎojiě duì wǎnglù yǐngpíng de kànfǎ shì shénme?",
      "en": "What does the woman think of online film reviews?",
      "idn": "Bagaimana pendapat wanita itu tentang ulasan film daring?"
     }
@@ -1294,7 +1294,7 @@
    "transcript": [
     {
      "zh": "這位小姐為什麼提到羅蘭‧巴特的論點？",
-     "py": "Zhèwèi Xiǎojiě wèishénme tídào Luólán ‧ Bātè de lùndiǎn?",
+     "py": "Zhèwèi xiǎojiě wèishénme tídào Luólán ‧ Bātè de lùndiǎn?",
      "en": "Why does the woman mention Roland Barthes's argument?",
      "idn": "Mengapa wanita itu menyebutkan argumen Roland Barthes?"
     }
@@ -1322,7 +1322,7 @@
     },
     "D": {
      "zh": "作者應該朝讀者能理解方向創作",
-     "py": "Zuòzhě yīnggāi Cháo dúzhě néng lǐjiě fāngxiàng chuàngzuò",
+     "py": "Zuòzhě yīnggāi cháo dúzhě néng lǐjiě fāngxiàng chuàngzuò",
      "en": "(D) Authors should write in a way readers can understand.",
      "idn": "(D) Penulis sebaiknya menulis dengan cara yang bisa dipahami pembaca."
     }
@@ -1366,7 +1366,7 @@
    "transcript": [
     {
      "zh": "這位小姐最後以什麼方式表達她的看法？",
-     "py": "Zhèwèi Xiǎojiě zuìhòu yǐ shénme fāngshì biǎodá tā de kànfǎ?",
+     "py": "Zhèwèi xiǎojiě zuìhòu yǐ shénme fāngshì biǎodá tā de kànfǎ?",
      "en": "How does the woman express her view at the end?",
      "idn": "Bagaimana wanita itu menyampaikan pandangannya di akhir?"
     }
@@ -1572,7 +1572,7 @@
     },
     "B": {
      "zh": "因為他認為病患康復才是當務之急",
-     "py": "Yīnwèi tā rènwéi bìnghuàn Kāngfù cái shì dāngwùzhījí",
+     "py": "Yīnwèi tā rènwéi bìnghuàn kāngfù cái shì dāngwùzhījí",
      "en": "(B) Because he thinks the patients' recovery is the top priority",
      "idn": "(B) Karena dia merasa kesembuhan pasien adalah prioritas utama"
     },
@@ -1592,7 +1592,7 @@
    "transcript": [
     {
      "zh": "這位先生為什麼說這位小姐的說法杞人憂天？",
-     "py": "Zhèwèi xiānsheng wèishénme shuō zhèwèi Xiǎojiě de shuōfǎ qǐrényōutiān?",
+     "py": "Zhèwèi xiānsheng wèishénme shuō zhèwèi xiǎojiě de shuōfǎ qǐrényōutiān?",
      "en": "Why does the man say the woman is worrying needlessly?",
      "idn": "Mengapa pria itu berkata wanita itu terlalu khawatir?"
     }
@@ -1628,7 +1628,7 @@
    "transcript": [
     {
      "zh": "這位小姐為什麼認為必須預先設想基因療法的流弊？",
-     "py": "Zhèwèi Xiǎojiě wèishénme rènwéi bìxū yùxiān shèxiǎng jīyīn liáofǎ de liúbì?",
+     "py": "Zhèwèi xiǎojiě wèishénme rènwéi bìxū yùxiān shèxiǎng jīyīn liáofǎ de liúbì?",
      "en": "Why does the woman think the drawbacks of gene therapy must be anticipated in advance?",
      "idn": "Menurut wanita itu, mengapa kekurangan terapi gen harus diantisipasi sejak awal?"
     }
@@ -1656,7 +1656,7 @@
     },
     "D": {
      "zh": "健康保險受益不大",
-     "py": "Jiànkāng bǎoxiǎn shòuyì bú dà",
+     "py": "Jiànkāng bǎoxiǎn shòuyì búdà",
      "en": "(D) Health insurance benefits little.",
      "idn": "(D) Manfaat bagi asuransi kesehatan kecil."
     }
@@ -1670,7 +1670,7 @@
     },
     {
      "zh": "目前在歐美國家因腦脊髓問題而傷殘的人數約有六十萬，腦部受創傷的病人",
-     "py": "Mùqián zài Ōuměiguójiā yīn nǎojísuǐ wèntí ér shāngcán de rénshù yuē yǒu liùshíwàn, nǎobù shòu chuāngshāng de bìngrén",
+     "py": "Mùqián zài ōuměiguójiā yīn nǎojísuǐ wèntí ér shāngcán de rénshù yuē yǒu liùshíwàn, nǎobù shòu chuāngshāng de bìngrén",
      "en": "Currently about 600,000 people in Europe and America are disabled by brain and spinal cord problems, and patients with brain injuries",
      "idn": "Saat ini sekitar 600.000 orang di Eropa dan Amerika menjadi penyandang disabilitas akibat masalah otak dan sumsum tulang belakang, dan pasien cedera otak"
     },
@@ -2008,7 +2008,7 @@
    "intro": [
     {
      "zh": "螳螂蝦是一種水中生物，牠眼睛的特殊構造引起科學家的興趣。請聽這段關於螳",
-     "py": "Tángláng xiā shì yìzhǒng shuǐzhōng shēngwù, tā yǎnjīng de tèshū gòuzào yǐnqǐ kēxuéjiā de xìngqù. Qǐng tīng zhèduàn guānyú Táng",
+     "py": "Tángláng xiā shì yìzhǒng shuǐzhōng shēngwù, tā yǎnjīng de tèshū gòuzào yǐnqǐ kēxuéjiā de xìngqù. Qǐng tīng zhèduàn guānyú táng",
      "en": "The mantis shrimp is an aquatic creature; the special structure of its eyes has aroused scientists' interest. Listen to this introduction to the",
      "idn": "Udang mantis adalah makhluk air; struktur matanya yang istimewa membangkitkan minat para ilmuwan. Dengarkan perkenalan tentang"
     },
@@ -2044,7 +2044,7 @@
     },
     {
      "zh": "睛只有感受紅、綠、藍 3 個波段的感光細胞，透過比較 3 個波段的亮度來偵測成",
-     "py": "jīng zhǐyǒu gǎnshòu hóng, lǜ, Lán 3 gè bōduàn de gǎnguāng xìbāo, tòuguò bǐjiào 3 gè bōduàn de liàngdù lái zhēncè chéng",
+     "py": "jīng zhǐyǒu gǎnshòu hóng, lǜ, lán 3 gè bōduàn de gǎnguāng xìbāo, tòuguò bǐjiào 3 gè bōduàn de liàngdù lái zhēncè chéng",
      "en": "has photoreceptor cells for only three bands—red, green and blue—and detects thousands of",
      "idn": "hanya punya sel fotoreseptor untuk tiga pita—merah, hijau, dan biru—dan mendeteksi ribuan"
     },
@@ -2074,7 +2074,7 @@
     },
     {
      "zh": "與綠色感光細胞同時受到刺激，因此紅光加綠光與單一波長的黃光在人類的眼中",
-     "py": "yǔ lǜsè gǎnguāng xìbāo tóngshí shòudào cìjī, yīncǐ Hóngguāng jiā lǜguāng yǔ dānyī bōcháng de huángguāng zài rénlèi de yǎnzhōng",
+     "py": "yǔ lǜsè gǎnguāng xìbāo tóngshí shòudào cìjī, yīncǐ hóngguāng jiā lǜguāng yǔ dānyī bōcháng de huángguāng zài rénlèi de yǎnzhōng",
      "en": "and green photoreceptor cells are stimulated at the same time, so red light plus green light looks no different to the human eye from",
      "idn": "dan hijau terangsang bersamaan, sehingga cahaya merah ditambah cahaya hijau tampak tidak berbeda bagi mata manusia dari"
     },
@@ -2110,7 +2110,7 @@
     },
     "C": {
      "zh": "感光細胞的數量和辨色能力成正比",
-     "py": "Gǎnguāng xìbāo de shùliàng hé biànsè nénglì Chéngzhèngbǐ",
+     "py": "Gǎnguāng xìbāo de shùliàng hé biànsè nénglì chéngzhèngbǐ",
      "en": "(C) The number of photoreceptor cells is proportional to the ability to distinguish colors.",
      "idn": "(C) Jumlah sel fotoreseptor sebanding dengan kemampuan membedakan warna."
     },
@@ -2222,7 +2222,7 @@
     },
     {
      "zh": "會嚴重影響票房，因此他特別拜託已經看過電影的觀眾，千萬不要把結局告訴親",
-     "py": "huì yánzhòng yǐngxiǎng piàofáng, yīncǐ tā tèbié Bàituō yǐjīng kànguò diànyǐng de guānzhòng, qiānwàn búyào bǎ jiéjú gàosù qīn",
+     "py": "huì yánzhòng yǐngxiǎng piàofáng, yīncǐ tā tèbié bàituō yǐjīng kànguò diànyǐng de guānzhòng, qiānwàn búyào bǎ jiéjú gàosù qīn",
      "en": "it will seriously hurt the box office, so he has specially asked audiences who've seen the film not to tell relatives",
      "idn": "pendapatan box office akan sangat terpukul, jadi dia secara khusus meminta penonton yang sudah menonton agar tidak menceritakan akhir film kepada kerabat"
     },
@@ -2264,7 +2264,7 @@
     },
     {
      "zh": "向，反而更有參與感。「這或許代表人們對過程比結局更有興趣。」研究人員趙",
-     "py": "xiàng, fǎn'ér gèng yǒu cānyùgǎn. “Zhè huòxǔ dàibiǎo rénmen duì guòchéng bǐ jiéjú gèng yǒu xìngqù.” yánjiū rényuán Zhào",
+     "py": "xiàng, fǎn'ér gèng yǒu cānyùgǎn. “Zhè huòxǔ dàibiǎo rénmen duì guòchéng bǐ jiéjú gèng yǒu xìngqù.” yánjiū rényuán zhào",
      "en": "actually gives a greater sense of involvement. \"This may mean people are more interested in the process than the ending,\" said researcher",
      "idn": "justru memberi rasa keterlibatan yang lebih besar. \"Ini mungkin berarti orang lebih tertarik pada prosesnya daripada akhirnya,\" kata peneliti"
     },
@@ -2282,7 +2282,7 @@
     },
     {
      "zh": "千古。」過去，大家都認為保持電影或小說結局的神祕感很重要，但是根據研究，",
-     "py": "Qiāngǔ.” guòqù, dàjiā dōu rènwéi bǎochí diànyǐng huò xiǎoshuō jiéjú de shénmìgǎn hěn zhòngyào, dànshì gēnjù yánjiū,",
+     "py": "qiāngǔ.” guòqù, dàjiā dōu rènwéi bǎochí diànyǐng huò xiǎoshuō jiéjú de shénmìgǎn hěn zhòngyào, dànshì gēnjù yánjiū,",
      "en": "the ages.\" In the past, everyone thought keeping the ending of a film or novel a mystery was important, but according to the research,",
      "idn": "zaman.\" Dulu, semua orang mengira merahasiakan akhir film atau novel itu penting, tetapi menurut penelitian ini,"
     },
@@ -2396,7 +2396,7 @@
     },
     "D": {
      "zh": "說明作品的價值不會因結局曝光而下降",
-     "py": "Shuōmíng zuòpǐn de jiàzhí búhuì yīn jiéjú Bàoguāng ér xiàjiàng",
+     "py": "Shuōmíng zuòpǐn de jiàzhí búhuì yīn jiéjú bàoguāng ér xiàjiàng",
      "en": "(D) To show that a work's value doesn't fall because its ending is revealed",
      "idn": "(D) Untuk menunjukkan bahwa nilai sebuah karya tidak turun karena akhirnya terungkap"
     }
@@ -2404,7 +2404,7 @@
    "transcript": [
     {
      "zh": "研究人員趙先生為什麼提到莎士比亞的作品？",
-     "py": "Yánjiū rényuán Zhàoxiānsheng wèishénme tídào Shāshìbǐyà de zuòpǐn?",
+     "py": "Yánjiū rényuán Zhào xiānsheng wèishénme tídào Shāshìbǐyà de zuòpǐn?",
      "en": "Why does researcher Mr. Zhao mention Shakespeare's work?",
      "idn": "Mengapa peneliti Tuan Zhao menyebutkan karya Shakespeare?"
     }
@@ -2514,7 +2514,7 @@
     },
     {
      "zh": "留言，還是曾經張貼過色情照片或影片，都會彙整到「社交情報公司」的資料庫",
-     "py": "liúyán, háishì céngjīng Zhāngtiē guò sèqíng zhàopiān huò yǐngpiàn, dōu huì huì zhěngdào “Shèjiāo qíngbào gōngsī” de zīliàokù",
+     "py": "liúyán, háishì céngjīng zhāngtiē guò sèqíng zhàopiān huò yǐngpiàn, dōu huì huì zhěngdào “Shèjiāo qíngbào gōngsī” de zīliàokù",
      "en": "or having posted pornographic photos or videos, it all gets compiled into the \"social intelligence company's\" database",
      "idn": "maupun pernah mengunggah foto atau video porno, semuanya dihimpun ke dalam basis data \"perusahaan intelijen sosial\""
     },
@@ -2664,7 +2664,7 @@
    "passage": [
     {
      "zh": "日前教育學院的李教授表示，他很擔憂年輕人閱讀太簡單的文章，而喪失邏輯思考的能力，然而網路作家們卻有不同的看法。",
-     "py": "Rìqián jiàoyù xuéyuàn de Lǐjiàoshòu biǎoshì, tā hěn dānyōu niánqīngrén yuèdú tài jiǎndān de wénzhāng, ér sàngshī luójí sīkǎo de nénglì, rán'ér wǎnglù zuòjiāmen què yǒu bùtóng de kànfǎ.",
+     "py": "Rìqián jiàoyù xuéyuàn de Lǐ jiàoshòu biǎoshì, tā hěn dānyōu niánqīngrén yuèdú tài jiǎndān de wénzhāng, ér sàngshī luójí sīkǎo de nénglì, rán'ér wǎnglù zuòjiāmen què yǒu bùtóng de kànfǎ.",
      "en": "Professor Li of the College of Education recently said he is worried that young people who read overly simple writing will lose the ability to think logically, but online writers see it differently.",
      "idn": "Profesor Li dari Fakultas Pendidikan belakangan mengatakan dia khawatir anak muda yang membaca tulisan yang terlalu sederhana akan kehilangan kemampuan berpikir logis, tetapi para penulis daring berpendapat lain."
     },
@@ -2690,7 +2690,7 @@
     },
     "C": {
      "zh": "感謝李教授的包容與尊重",
-     "py": "Gǎnxiè Lǐjiàoshòu de bāoróng yǔ zūnzhòng",
+     "py": "Gǎnxiè Lǐ jiàoshòu de bāoróng yǔ zūnzhòng",
      "en": "(C) Thanks for Professor Li's tolerance and respect.",
      "idn": "(C) Berterima kasih atas toleransi dan penghargaan Profesor Li."
     },
@@ -2704,7 +2704,7 @@
    "intro": [
     {
      "zh": "日前教育學院的李教授表示，他很擔憂年輕人閱讀太簡單的文章，而喪失邏輯思",
-     "py": "Rìqián jiàoyù xuéyuàn de Lǐjiàoshòu biǎoshì, tā hěn dānyōu niánqīngrén yuèdú tài jiǎndān de wénzhāng, ér sàngshī luójí sī",
+     "py": "Rìqián jiàoyù xuéyuàn de Lǐ jiàoshòu biǎoshì, tā hěn dānyōu niánqīngrén yuèdú tài jiǎndān de wénzhāng, ér sàngshī luójí sī",
      "en": "Professor Li of the College of Education recently said he is worried that young people who read overly simple writing will lose the ability to think",
      "idn": "Profesor Li dari Fakultas Pendidikan belakangan mengatakan dia khawatir anak muda yang membaca tulisan yang terlalu sederhana akan kehilangan kemampuan berpikir"
     },
@@ -2728,7 +2728,7 @@
     },
     {
      "zh": "李教授認為，網路文章的思考邏輯通常不清楚，看網路文章不如讀法院判決",
-     "py": "Lǐjiàoshòu rènwéi, wǎnglù wénzhāng de sīkǎo luójí tōngcháng bù qīngchǔ, kàn wǎnglù wénzhāng bùrú dú fǎyuàn pànjué",
+     "py": "Lǐ jiàoshòu rènwéi, wǎnglù wénzhāng de sīkǎo luójí tōngcháng bù qīngchǔ, kàn wǎnglù wénzhāng bùrú dú fǎyuàn pànjué",
      "en": "Professor Li believes the logic of online writing is usually unclear, and that it's better to read court judgments than online articles",
      "idn": "Profesor Li berpendapat bahwa logika tulisan daring biasanya tidak jelas, dan lebih baik membaca putusan pengadilan daripada artikel daring"
     },
@@ -2740,7 +2740,7 @@
     },
     {
      "zh": "同世代對於新事物有不同的理解，然而在面對世代交替帶來的轉變時，應抱持一",
-     "py": "tóng shìdài duìyú xīn shìwù yǒu bùtóng de lǐjiě, rán'ér zài miànduì Shìdàijiāotì dàilái de zhuǎnbiàn shí, yīng bàochí yī",
+     "py": "tóng shìdài duìyú xīn shìwù yǒu bùtóng de lǐjiě, rán'ér zài miànduì shìdàijiāotì dàilái de zhuǎnbiàn shí, yīng bàochí yī",
      "en": "generations understand new things differently, and that when facing the changes generational turnover brings, one should be",
      "idn": "antargenerasi terhadap hal baru, dan bahwa saat menghadapi perubahan akibat pergantian generasi, orang sebaiknya"
     },
@@ -2776,7 +2776,7 @@
     },
     {
      "zh": "白話文、法院判決文或是網路文章，都只是一種表達工具，不應有上下之分，重",
-     "py": "Báihuàwén, fǎyuàn pànjué wén huòshì wǎnglù wénzhāng, dōu zhǐshì yìzhǒng biǎodá gōngjù, bù yīngyǒu shàngxià zhī fēn, zhòng",
+     "py": "báihuàwén, fǎyuàn pànjué wén huòshì wǎnglù wénzhāng, dōu zhǐshì yìzhǒng biǎodá gōngjù, bù yīngyǒu shàngxià zhī fēn, zhòng",
      "en": "vernacular Chinese, court judgments or online articles, they're all just tools of expression and shouldn't be ranked; what",
      "idn": "bahasa Tionghoa modern, putusan pengadilan, maupun artikel daring, semuanya hanyalah alat ekspresi dan tidak sepatutnya diberi peringkat; yang"
     },
@@ -2788,7 +2788,7 @@
     },
     {
      "zh": "李教授或許只是想鼓勵年輕人，多看些有深度的文學作品或是經典之作。對",
-     "py": "Lǐjiàoshòu huòxǔ zhǐshì xiǎng gǔlì niánqīngrén, duō kàn xiē yǒu Shēndù de wénxuézuòpǐn huòshì jīngdiǎnzhīzuò. Duì",
+     "py": "Lǐ jiàoshòu huòxǔ zhǐshì xiǎng gǔlì niánqīngrén, duō kàn xiē yǒu shēndù de wénxuézuòpǐn huòshì jīngdiǎnzhīzuò. Duì",
      "en": "Perhaps Professor Li just wants to encourage young people to read more profound literary works or classics.",
      "idn": "Mungkin Profesor Li hanya ingin mendorong anak muda lebih banyak membaca karya sastra atau klasik yang lebih mendalam."
     },
@@ -2800,13 +2800,13 @@
     },
     {
      "zh": "人的視野和胸襟。就像是本校的劉校長勸年輕人：「不要畫地自限，要有廣泛的",
-     "py": "rén de shìyě hé xiōngjīn. Jiù xiàngshì běnxiào de Liúxiàozhǎng quàn niánqīngrén: “Búyào huàdìzìxiàn, yào yǒu guǎngfàn de",
+     "py": "rén de shìyě hé xiōngjīn. Jiù xiàngshì běnxiào de Liú xiàozhǎng quàn niánqīngrén: “Búyào huàdìzìxiàn, yào yǒu guǎngfàn de",
      "en": "people's horizons and minds. Just as our university's President Liu advises young people: \"Don't limit yourselves; have a wide range of",
      "idn": "wawasan dan pikiran orang. Seperti nasihat Rektor Liu dari universitas kami kepada anak muda: \"Jangan membatasi diri; milikilah"
     },
     {
      "zh": "嗜好，培養專業以外的興趣，感受世界的美好。」",
-     "py": "shìhào, péiyǎng zhuānyè yǐwài de xìngqù, gǎnshòu shìjiè de měihǎo.”",
+     "py": "shìhào, péiyǎng zhuānyè yǐwài de xìngqù, gǎnshòu Shìjiè de měihǎo.”",
      "en": "hobbies, cultivate interests beyond your specialty, and feel the beauty of the world.\"",
      "idn": "hobi yang luas, kembangkan minat di luar bidang keahlian, dan rasakan keindahan dunia.\""
     }
@@ -2814,7 +2814,7 @@
    "transcript": [
     {
      "zh": "網路作家們對李教授的說法有什麼回應？",
-     "py": "Wǎnglù zuòjiāmen duì Lǐjiàoshòu de shuōfǎ yǒu shénme huíyìng?",
+     "py": "Wǎnglù zuòjiāmen duì Lǐ jiàoshòu de shuōfǎ yǒu shénme huíyìng?",
      "en": "How do online writers respond to Professor Li's statement?",
      "idn": "Bagaimana para penulis daring menanggapi pernyataan Profesor Li?"
     }
@@ -2836,7 +2836,7 @@
     },
     "C": {
      "zh": "年輕人的文章毫無深度",
-     "py": "Niánqīngrén de wénzhāng háowú Shēndù",
+     "py": "Niánqīngrén de wénzhāng háowú shēndù",
      "en": "(C) Young people's writing has no depth at all.",
      "idn": "(C) Tulisan anak muda sama sekali tidak punya kedalaman."
     },
@@ -2850,7 +2850,7 @@
    "transcript": [
     {
      "zh": "李教授舉判決文書的例子想說明什麼？",
-     "py": "Lǐjiàoshòu jǔ pànjué wénshū de lìzi xiǎng shuōmíng shénme?",
+     "py": "Lǐ jiàoshòu jǔ pànjué wénshū de lìzi xiǎng shuōmíng shénme?",
      "en": "What does Professor Li want to show with the example of court judgments?",
      "idn": "Apa yang ingin ditunjukkan Profesor Li dengan contoh putusan pengadilan?"
     }
@@ -2896,7 +2896,7 @@
    "options": {
     "A": {
      "zh": "說明為什麼否定李教授的觀點",
-     "py": "Shuōmíng wèishénme fǒudìng Lǐjiàoshòu de guāndiǎn",
+     "py": "Shuōmíng wèishénme fǒudìng Lǐ jiàoshòu de guāndiǎn",
      "en": "(A) To explain why she rejects Professor Li's view",
      "idn": "(A) Untuk menjelaskan mengapa dia menolak pandangan Profesor Li"
     },
@@ -2908,13 +2908,13 @@
     },
     "C": {
      "zh": "表示只有劉校長的看法與自己近似",
-     "py": "Biǎoshì zhǐyǒu Liúxiàozhǎng de kànfǎ yǔ zìjǐ jìnsì",
+     "py": "Biǎoshì zhǐyǒu Liú xiàozhǎng de kànfǎ yǔ zìjǐ jìnsì",
      "en": "(C) To show that only President Liu's view is close to her own",
      "idn": "(C) Untuk menunjukkan bahwa hanya pandangan Rektor Liu yang dekat dengan pandangannya"
     },
     "D": {
      "zh": "為李教授的看法提出可接受的解釋",
-     "py": "Wèi Lǐjiàoshòu de kànfǎ tíchū kě jiēshòu de jiěshì",
+     "py": "Wèi Lǐ jiàoshòu de kànfǎ tíchū kě jiēshòu de jiěshì",
      "en": "(D) To offer an acceptable explanation of Professor Li's view",
      "idn": "(D) Untuk memberikan penjelasan yang bisa diterima tentang pandangan Profesor Li"
     }
@@ -2922,7 +2922,7 @@
    "transcript": [
     {
      "zh": "說話者引用劉校長的話，用意是什麼？",
-     "py": "Shuōhuà zhě yǐnyòng Liúxiàozhǎng dehuà, yòngyì shì shénme?",
+     "py": "Shuōhuà zhě yǐnyòng Liú xiàozhǎng dehuà, yòngyì shì shénme?",
      "en": "What is the speaker's purpose in quoting President Liu?",
      "idn": "Apa tujuan pembicara mengutip Rektor Liu?"
     }
@@ -2978,13 +2978,13 @@
     },
     {
      "zh": "20 世紀初期，漁工在探查海底世界時，無意間發現了一個木箱，暗藏在箱",
-     "py": "20 shìjì chūqī, yúgōng zài tànchá hǎidǐ shìjiè shí, wúyìjiān fāxiàn le yí ge mùxiāng, àncáng zài xiāng",
+     "py": "20 shìjì chūqī, yúgōng zài tànchá hǎidǐ Shìjiè shí, wúyìjiān fāxiàn le yí ge mùxiāng, àncáng zài xiāng",
      "en": "In the early 20th century, fishermen exploring the seabed accidentally discovered a wooden box. What was hidden",
      "idn": "Pada awal abad ke-20, nelayan yang menjelajahi dasar laut secara tidak sengaja menemukan sebuah kotak kayu. Isi"
     },
     {
      "zh": "子裡的東西，震撼了百年來的科學史，這個東西以它的發現地命名，稱做安提基",
-     "py": "zi lǐ de Dōngxi, zhènhàn le bǎinián lái de kēxuéshǐ, zhè ge Dōngxi yǐ tā de fāxiàn de mìngmíng, chēngzuò Āntíjī",
+     "py": "zi lǐ de dōngxi, zhènhàn le bǎinián lái de kēxuéshǐ, zhè ge dōngxi yǐ tā de fāxiàn de mìngmíng, chēngzuò Āntíjī",
      "en": "inside shook the history of science for the next hundred years. Named after the place it was found, it is called the Antikythera",
      "idn": "di dalamnya mengguncang sejarah ilmu pengetahuan selama seratus tahun berikutnya. Dinamai menurut tempat ditemukannya, alat ini disebut mekanisme Antikythera."
     },
@@ -2996,19 +2996,19 @@
     },
     {
      "zh": "讓許多學者認為它與天文有關，但也有人認為是航海儀器。經多方研究後，確定",
-     "py": "ràng xǔduō xuézhě rènwéi tā yǔ Tiānwén yǒuguān, dàn yě yǒurén rènwéi shì hánghǎi yíqì. Jīng duōfāng yánjiū hòu, quèdìng",
+     "py": "ràng xǔduō xuézhě rènwéi tā yǔ tiānwén yǒuguān, dàn yě yǒurén rènwéi shì hánghǎi yíqì. Jīng duōfāng yánjiū hòu, quèdìng",
      "en": "led many scholars to think it was related to astronomy, while others thought it was a navigational instrument. After much research, it was confirmed",
      "idn": "membuat banyak akademisi menganggapnya berkaitan dengan astronomi, sedangkan yang lain menganggapnya alat navigasi. Setelah banyak penelitian, alat ini dipastikan"
     },
     {
      "zh": "它是西元前 2 世紀左右的天文儀器，於西元前 1 世紀時，隨著一艘商船沉沒大海。",
-     "py": "tā shì xīyuánqián 2 shìjì zuǒyòu de Tiānwén yíqì, yú xīyuánqián 1 shìjì shí, suízhe yìsōu shāngchuán chénmò Dàhǎi.",
+     "py": "tā shì xīyuánqián 2 shìjì zuǒyòu de tiānwén yíqì, yú xīyuánqián 1 shìjì shí, suízhe yìsōu shāngchuán chénmò Dàhǎi.",
      "en": "to be an astronomical instrument from around the 2nd century BC that sank into the sea with a merchant ship in the 1st century BC.",
      "idn": "sebagai instrumen astronomi dari sekitar abad ke-2 SM yang tenggelam ke laut bersama sebuah kapal dagang pada abad ke-1 SM."
     },
     {
      "zh": "歷史記載中最早的天文儀器是日晷，在中國、古埃及、希臘等地都有記錄，",
-     "py": "Lìshǐ jìzǎi zhōng zuìzǎo de Tiānwén yíqì shì rìguǐ, zài Zhōngguó, Gǔ'āijí, Xīlà děng de dōu yǒu jìlù,",
+     "py": "Lìshǐ jìzǎi zhōng zuìzǎo de tiānwén yíqì shì rìguǐ, zài Zhōngguó, gǔ'āijí, Xīlà děng de dōu yǒu jìlù,",
      "en": "The earliest astronomical instrument in historical records is the sundial, recorded in China, ancient Egypt, Greece and elsewhere,",
      "idn": "Instrumen astronomi paling awal dalam catatan sejarah adalah jam matahari, yang tercatat di Tiongkok, Mesir kuno, Yunani, dan tempat lain,"
     },
@@ -3020,7 +3020,7 @@
     },
     {
      "zh": "天文儀器，次早的是拜占庭的日晷儀，再來是伊斯蘭文化中的齒輪日曆。",
-     "py": "Tiānwén yíqì, cìzǎo de shì Bàizhàntíng de rìguǐyí, zàilái shì Yīsīlán wénhuà zhōng de chǐlún rìlì.",
+     "py": "tiānwén yíqì, cìzǎo de shì Bàizhàntíng de rìguǐyí, zàilái shì Yīsīlán wénhuà zhōng de chǐlún rìlì.",
      "en": "the next earliest is a Byzantine sundial, followed by the geared calendars of Islamic culture.",
      "idn": "berikutnya adalah jam matahari Bizantium, disusul kalender bergigi dari budaya Islam."
     },
@@ -3032,7 +3032,7 @@
     },
     {
      "zh": "現它不僅能說明天體的運行、預測日蝕、月蝕的日期，還能進行加、減、乘、除",
-     "py": "xiàn tā bùjǐn néng shuōmíng tiāntǐ de yùnxíng, yùcè Rìshí, yuèshí de rìqī, hái néng jìnxíng jiā, jiǎn, chéng, chú",
+     "py": "xiàn tā bùjǐn néng shuōmíng tiāntǐ de yùnxíng, yùcè rìshí, yuèshí de rìqī, hái néng jìnxíng jiā, jiǎn, chéng, chú",
      "en": "that it could not only show the movements of celestial bodies and predict the dates of solar and lunar eclipses, but also perform addition, subtraction, multiplication and division.",
      "idn": "bahwa alat ini tidak hanya bisa menunjukkan pergerakan benda langit dan memprediksi tanggal gerhana matahari dan bulan, tetapi juga bisa melakukan penjumlahan, pengurangan, perkalian, dan pembagian."
     },
@@ -3044,7 +3044,7 @@
     },
     {
      "zh": "發現令相關領域的專家感到無比興奮，也重新開啟了古文明的天文知識之窗。",
-     "py": "fāxiàn lìng xiāngguān lǐngyù de zhuānjiā gǎndào wúbǐ xīngfèn, yě chóngxīn kāiqǐ le Gǔwénmíng de Tiānwén zhīshí zhī chuāng.",
+     "py": "fāxiàn lìng xiāngguān lǐngyù de zhuānjiā gǎndào wúbǐ xīngfèn, yě chóngxīn kāiqǐ le gǔ Wénmíng de tiānwén zhīshí zhī chuāng.",
      "en": "discovery thrilled experts in related fields and reopened a window onto the astronomical knowledge of ancient civilizations.",
      "idn": "penemuan ini menggemparkan para ahli di bidang terkait dan membuka kembali jendela menuju pengetahuan astronomi peradaban kuno."
     }
@@ -3116,7 +3116,7 @@
     },
     "D": {
      "zh": "現存最古老的齒輪天文儀器",
-     "py": "Xiàncún zuì Gǔlǎo de chǐlún Tiānwén yíqì",
+     "py": "Xiàncún zuì gǔlǎo de chǐlún tiānwén yíqì",
      "en": "(D) The oldest surviving geared astronomical instrument",
      "idn": "(D) Instrumen astronomi bergigi tertua yang masih ada"
     }
@@ -3152,7 +3152,7 @@
     },
     "D": {
      "zh": "表示安提基瑟拉儀的發現不令人期待",
-     "py": "Biǎoshì Āntíjīsèlā yí de fāxiàn bú Lìngrén qīdài",
+     "py": "Biǎoshì Āntíjīsèlā yí de fāxiàn bú lìngrén qīdài",
      "en": "(D) To show that the discovery of the Antikythera mechanism was not anticipated",
      "idn": "(D) Untuk menunjukkan bahwa penemuan mekanisme Antikythera tidak terduga"
     }
@@ -3170,13 +3170,13 @@
    "options": {
     "A": {
      "zh": "對古文明的科技發展需重新評價",
-     "py": "Duì Gǔwénmíng de kējì fāzhǎn xū chóngxīn píngjià",
+     "py": "Duì gǔ Wénmíng de kējì fāzhǎn xū chóngxīn píngjià",
      "en": "(A) The technological development of ancient civilizations needs to be reassessed.",
      "idn": "(A) Perkembangan teknologi peradaban kuno perlu dinilai ulang."
     },
     "B": {
      "zh": "古代天文知識已經超越現代水平",
-     "py": "Gǔdài Tiānwén zhīshí yǐjīng chāoyuè xiàndài shuǐpíng",
+     "py": "Gǔdài tiānwén zhīshí yǐjīng chāoyuè xiàndài shuǐpíng",
      "en": "(B) Ancient astronomical knowledge surpassed modern levels.",
      "idn": "(B) Pengetahuan astronomi kuno melampaui tingkat modern."
     },

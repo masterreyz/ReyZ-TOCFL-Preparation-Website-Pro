@@ -31,7 +31,7 @@
   "4": {
    "stem": {
     "zh": "林小姐昨天晚上睡覺以前喝了一杯牛奶。",
-    "py": "Línxiǎojiě zuótiānwǎnshàng shuìjiào yǐqián hē le yìbēi niúnǎi.",
+    "py": "Lín xiǎojiě zuótiānwǎnshàng shuìjiào yǐqián hē le yìbēi niúnǎi.",
     "en": "Miss Lin drank a glass of milk last night before going to bed.",
     "idn": "Tadi malam sebelum tidur, Nona Lin minum segelas susu."
    }
@@ -128,7 +128,7 @@
    "options": {
     "A": {
      "zh": "外面出太陽。",
-     "py": "Wàimiàn chū Tàiyáng.",
+     "py": "Wàimiàn chū tàiyáng.",
      "en": "The sun is out.",
      "idn": "Matahari sudah terbit."
     },
@@ -162,7 +162,7 @@
     },
     "C": {
      "zh": "弟弟戴著眼鏡睡覺。",
-     "py": "Dìdi Dàizhe yǎnjìng shuìjiào.",
+     "py": "Dìdi dàizhe yǎnjìng shuìjiào.",
      "en": "Younger brother is sleeping with his glasses on.",
      "idn": "Adik laki-laki tidur dengan memakai kacamata."
     }
@@ -340,31 +340,31 @@
    "image": [
     {
      "zh": "第一場 11:00",
-     "py": "Dìyìcháng 11: 00",
+     "py": "Dìyìcháng 11:00",
      "en": "1st showing 11:00",
      "idn": "Pertunjukan ke-1 11.00"
     },
     {
      "zh": "第二場 13:30",
-     "py": "Dì'èrchǎng 13: 30",
+     "py": "Dì'èrchǎng 13:30",
      "en": "2nd showing 13:30",
      "idn": "Pertunjukan ke-2 13.30"
     },
     {
      "zh": "第三場 16:00",
-     "py": "Dìsānchǎng 16: 00",
+     "py": "Dìsānchǎng 16:00",
      "en": "3rd showing 16:00",
      "idn": "Pertunjukan ke-3 16.00"
     },
     {
      "zh": "第四場 18:30",
-     "py": "Dìsìchǎng 18: 30",
+     "py": "Dìsìchǎng 18:30",
      "en": "4th showing 18:30",
      "idn": "Pertunjukan ke-4 18.30"
     },
     {
      "zh": "第五場 21:00",
-     "py": "Dìwǔchǎng 21: 00",
+     "py": "Dìwǔchǎng 21:00",
      "en": "5th showing 21:00",
      "idn": "Pertunjukan ke-5 21.00"
     },
@@ -514,7 +514,7 @@
     },
     {
      "zh": "服務時間：10:00-22:00",
-     "py": "Fúwù shíjiān: 10: 00 - 22: 00",
+     "py": "Fúwù shíjiān: 10:00-22:00",
      "en": "Service hours: 10:00–22:00",
      "idn": "Jam layanan: 10.00–22.00"
     },
@@ -526,7 +526,7 @@
     },
     {
      "zh": "如果想租車，請先打電話：0912-123456",
-     "py": "Rúguǒ xiǎng zūchē, qǐng xiān dǎdiànhuà: 0912 - 123456",
+     "py": "Rúguǒ xiǎng zūchē, qǐng xiān dǎdiànhuà: 0912-123456",
      "en": "If you want to rent a car, please call first: 0912-123456",
      "idn": "Kalau ingin menyewa mobil, silakan telepon dulu: 0912-123456"
     }
@@ -566,13 +566,13 @@
    "options": {
     "A": {
      "zh": "林心心跟王老師學中文。",
-     "py": "Línxīnxīn gēn Wánglǎoshī xué Zhōngwén.",
+     "py": "Lín Xīnxīn gēn Wáng lǎoshī xué Zhōngwén.",
      "en": "Lin Xinxin learns Chinese from Teacher Wang.",
      "idn": "Lin Xinxin belajar bahasa Mandarin dari Guru Wang."
     },
     "B": {
      "zh": "卡片是王老師寫給林心心的。",
-     "py": "Kǎpiàn shì Wánglǎoshī xiěgěi Línxīnxīn de.",
+     "py": "Kǎpiàn shì Wáng lǎoshī xiěgěi Lín Xīnxīn de.",
      "en": "The card was written by Teacher Wang to Lin Xinxin.",
      "idn": "Kartu itu ditulis oleh Guru Wang untuk Lin Xinxin."
     },
@@ -586,7 +586,7 @@
    "image": [
     {
      "zh": "王老師：",
-     "py": "Wánglǎoshī:",
+     "py": "Wáng lǎoshī:",
      "en": "Teacher Wang:",
      "idn": "Guru Wang:"
     },
@@ -598,7 +598,7 @@
     },
     {
      "zh": "學生 林心心",
-     "py": "Xuéshēng Línxīnxīn",
+     "py": "Xuéshēng Lín Xīnxīn",
      "en": "Your student, Lin Xinxin",
      "idn": "Murid Anda, Lin Xinxin"
     }
@@ -674,7 +674,7 @@
    "options": {
     "A": {
      "zh": "去這家店喝紅茶，就送早餐。",
-     "py": "Qù zhèjiā diàn hē Hóngchá, jiù sòng zǎocān.",
+     "py": "Qù zhèjiā diàn hē hóngchá, jiù sòng zǎocān.",
      "en": "If you drink black tea at this shop, you get a free breakfast.",
      "idn": "Kalau minum teh hitam di toko ini, dapat sarapan gratis."
     },
@@ -700,7 +700,7 @@
     },
     {
      "zh": "買早餐 送紅茶",
-     "py": "Mǎi zǎocān sòng Hóngchá",
+     "py": "Mǎi zǎocān sòng hóngchá",
      "en": "Buy breakfast, get a free black tea",
      "idn": "Beli sarapan, gratis teh hitam"
     },
@@ -805,7 +805,7 @@
   "34": {
    "stem": {
     "zh": "兩隻貓一起在沙發 玩兒。",
-    "py": "Liǎngzhǐ māo yìqǐ zài Shāfā wánr.",
+    "py": "Liǎngzhǐ māo yìqǐ zài shāfā wánr.",
     "en": "The two cats are playing together ___ the sofa.",
     "idn": "Kedua kucing itu sedang bermain bersama ___ sofa."
    },
@@ -833,7 +833,7 @@
   "35": {
    "stem": {
     "zh": "王先生一家人一個小時後 回來。",
-    "py": "Wángxiānsheng yìjiārén yí ge xiǎoshí hòu huílái.",
+    "py": "Wáng xiānsheng yìjiārén yí ge xiǎoshí hòu huílái.",
     "en": "Mr. Wang's family won't be back ___ an hour from now. (blank: not until)",
     "idn": "Keluarga Tuan Wang ___ akan kembali sejam lagi. (isian: baru)"
    },
@@ -1324,7 +1324,7 @@
     },
     {
      "zh": "小明的爸爸對小明說：「這裡有十元，你到郵局買兩張郵票，然後把這兩封信寄出去，這一封是給王伯伯的，另外一封是給李伯伯的。」",
-     "py": "Xiǎomíng de bàba duì xiǎo míngshuō: “Zhèlǐ yǒu shíyuán, nǐ dào yóujú mǎi liǎngzhāng yóupiào, ránhòu bǎ zhè liǎngfēngxìn jìchūqù, zhè yìfēng shì gěi Wáng Bóbo de, lìngwài yìfēng shì gěi Lǐ Bóbo de.”",
+     "py": "Xiǎomíng de bàba duì Xiǎomíng shuō: “Zhèlǐ yǒu shíyuán, nǐ dào yóujú mǎi liǎngzhāng yóupiào, ránhòu bǎ zhè liǎngfēngxìn jìchūqù, zhè yìfēng shì gěi Wáng bóbo de, lìngwài yìfēng shì gěi Lǐ bóbo de.”",
      "en": "Xiaoming's dad said to Xiaoming: \"Here are ten dollars. Go to the post office, buy two stamps, and then mail these two letters. This one is for Uncle Wang, and the other one is for Uncle Li.\"",
      "idn": "Ayah Xiaoming berkata kepadanya: \"Ini sepuluh dolar. Pergilah ke kantor pos, beli dua prangko, lalu kirimkan dua surat ini. Yang ini untuk Paman Wang, dan yang satu lagi untuk Paman Li.\""
     },
@@ -1336,13 +1336,13 @@
     },
     {
      "zh": "爸爸問小明：「怎麼還剩五塊錢呢？」",
-     "py": "Bàba Wènxiǎomíng: “Zěnme hái shèng wǔkuài qián ne?”",
+     "py": "Bàba wèn Xiǎomíng: “Zěnme hái shèng wǔkuài qián ne?”",
      "en": "Dad asked Xiaoming: \"How come there are five dollars left?\"",
      "idn": "Ayah bertanya kepada Xiaoming: \"Kok masih sisa lima dolar?\""
     },
     {
      "zh": "小明回答：「我把給王伯伯的信裝在給李伯伯的信裡面，這樣就不必多花五塊錢啊！」",
-     "py": "Xiǎomíng huídá: “Wǒ bǎ gěi Wáng Bóbo de xìnzhuāng zài gěi Lǐ Bóbo de xìn lǐmiàn, zhèyàng jiù búbì duō huā wǔkuài qián a!”",
+     "py": "Xiǎomíng huídá: “Wǒ bǎ gěi Wáng bóbo de xìnzhuāng zài gěi Lǐ bóbo de xìn lǐmiàn, zhèyàng jiù búbì duō huā wǔkuài qián a!”",
      "en": "Xiaoming answered: \"I put the letter for Uncle Wang inside the letter for Uncle Li, so I didn't have to spend an extra five dollars!\"",
      "idn": "Xiaoming menjawab: \"Surat untuk Paman Wang saya masukkan ke dalam surat untuk Paman Li, jadi tidak perlu keluar lima dolar lagi!\""
     }
@@ -1356,25 +1356,25 @@
    "options": {
     "A": {
      "zh": "王伯伯收到兩封信",
-     "py": "Wáng Bóbo shōudào liǎngfēngxìn",
+     "py": "Wáng bóbo shōudào liǎngfēngxìn",
      "en": "Uncle Wang will receive two letters.",
      "idn": "Paman Wang akan menerima dua surat."
     },
     "B": {
      "zh": "李伯伯收到兩封信",
-     "py": "Lǐ Bóbo shōudào liǎngfēngxìn",
+     "py": "Lǐ bóbo shōudào liǎngfēngxìn",
      "en": "Uncle Li will receive two letters.",
      "idn": "Paman Li akan menerima dua surat."
     },
     "C": {
      "zh": "李伯伯要到王伯伯家拿信",
-     "py": "Lǐ Bóbo yào dào Wáng Bóbo jiā ná xìn",
+     "py": "Lǐ bóbo yào dào Wáng bóbo jiā ná xìn",
      "en": "Uncle Li will have to go to Uncle Wang's home to get the letter.",
      "idn": "Paman Li harus pergi ke rumah Paman Wang untuk mengambil surat."
     },
     "D": {
      "zh": "王伯伯和李伯伯都沒收到信",
-     "py": "Wáng Bóbo hé Lǐ Bóbo dōu mòshōu dào xìn",
+     "py": "Wáng bóbo hé Lǐ bóbo dōu mòshōu dào xìn",
      "en": "Neither Uncle Wang nor Uncle Li will receive a letter.",
      "idn": "Paman Wang maupun Paman Li tidak akan menerima surat."
     }
@@ -1390,26 +1390,26 @@
     },
     {
      "zh": "最近越來越流行上網買東西，不論是吃的、穿的還是用的，只要輕鬆點幾下滑鼠就買得到，還能到處比較價錢再買。",
-     "py": "Zuìjìn yuèláiyuè liúxíng shàngwǎng mǎi Dōngxi, búlùnshì chī de, chuān de háishì yòng de, zhǐyào qīngsōng diǎn jǐxià huáshǔ jiù mǎi dédào, hái néng dàochù bǐjiào jiàqián zài mǎi.",
+     "py": "Zuìjìn yuèláiyuè liúxíng shàngwǎng mǎi dōngxi, búlùnshì chī de, chuān de háishì yòng de, zhǐyào qīngsōng diǎn jǐxià huáshǔ jiù mǎi dédào, hái néng dàochù bǐjiào jiàqián zài mǎi.",
      "en": "Recently, shopping online has become more and more popular. Whether it's food, clothes, or everyday items, you can buy them with just a few easy clicks of the mouse, and you can also compare prices everywhere before buying.",
      "idn": "Belakangan ini belanja daring makin populer. Baik makanan, pakaian, maupun barang kebutuhan sehari-hari, semuanya bisa dibeli hanya dengan beberapa klik tetikus, dan sebelum membeli kita juga bisa membandingkan harga di berbagai tempat."
     },
     {
      "zh": "不過上網買東西也有一些問題，像是衣服不能先試穿，或是一不小心就被「買一送一」、「滿兩千送一百」的廣告吸引，買了一堆本來不必買的東西。",
-     "py": "Búguò shàngwǎng mǎi Dōngxi yě yǒu yìxiē wèntí, xiàngshì yīfú bùnéng xiān shìchuān, huòshì yíbùxiǎoxīn jiù bèi “Mǎiyísòngyī”, “Mǎn liǎngqiān sòng yìbǎi” de guǎnggào xīyǐn, mǎi le yìduī běnlái búbì mǎi de Dōngxi.",
+     "py": "Búguò shàngwǎng mǎi dōngxi yě yǒu yìxiē wèntí, xiàngshì yīfú bùnéng xiān shìchuān, huòshì yíbùxiǎoxīn jiù bèi “Mǎiyísòngyī”, “Mǎn liǎngqiān sòng yìbǎi” de guǎnggào xīyǐn, mǎi le yìduī běnlái búbì mǎi de dōngxi.",
      "en": "However, online shopping also has some problems: for example, you can't try on clothes first, or you can carelessly be attracted by ads such as \"buy one get one free\" or \"spend 2,000, get 100 off\" and buy a pile of things you didn't need.",
      "idn": "Namun, belanja daring juga punya beberapa masalah: misalnya, pakaian tidak bisa dicoba dulu, atau kita bisa tanpa sadar tergoda iklan seperti \"beli satu gratis satu\" atau \"belanja 2.000 potong 100\" lalu membeli setumpuk barang yang tidak diperlukan."
     },
     {
      "zh": "這樣看來，上網買東西雖然方便，卻不一定省錢。",
-     "py": "Zhèyàng kànlái, shàngwǎng mǎi Dōngxi suīrán fāngbiàn, què bù yídìng shěngqián.",
+     "py": "Zhèyàng kànlái, shàngwǎng mǎi dōngxi suīrán fāngbiàn, què bù yídìng shěngqián.",
      "en": "Seen this way, although online shopping is convenient, it doesn't necessarily save money.",
      "idn": "Dilihat dari sini, belanja daring memang praktis, tetapi belum tentu menghemat uang."
     }
    ],
    "stem": {
     "zh": "寫這段短文的人覺得上網買東西怎麼樣？",
-    "py": "Xiě zhèduàn duǎnwén de rén juéde shàngwǎng mǎi Dōngxi zěnmeyàng?",
+    "py": "Xiě zhèduàn duǎnwén de rén juéde shàngwǎng mǎi dōngxi zěnmeyàng?",
     "en": "What does the writer of this passage think of online shopping?",
     "idn": "Bagaimana pendapat penulis teks ini tentang belanja daring?"
    },
@@ -1422,7 +1422,7 @@
     },
     "B": {
      "zh": "容易買太多東西",
-     "py": "Róngyì mǎi tài duō Dōngxi",
+     "py": "Róngyì mǎi tài duō dōngxi",
      "en": "It's easy to buy too many things.",
      "idn": "Mudah membeli terlalu banyak barang."
     },
@@ -1450,7 +1450,7 @@
     },
     {
      "zh": "我最近學會一道臺灣菜，叫做「鹹蛋苦瓜」，這道菜是房東陳媽媽教我做的。",
-     "py": "Wǒ zuìjìn xuéhuì yídào Táiwān cài, jiàozuò “Xiándàn kǔguā”, zhè dàocài shì fángdōng Chénmāma jiāo wǒ zuò de.",
+     "py": "Wǒ zuìjìn xuéhuì yídào Táiwān cài, jiàozuò “Xiándàn kǔguā”, zhè dàocài shì fángdōng Chén māma jiāo wǒ zuò de.",
      "en": "I recently learned a Taiwanese dish called \"salted egg bitter melon\". My landlady, Mrs. Chen, taught me how to make it.",
      "idn": "Belakangan saya belajar memasak satu masakan Taiwan bernama \"pare telur asin\". Ibu kos saya, Nyonya Chen, yang mengajari saya membuatnya."
     },
@@ -1462,13 +1462,13 @@
     },
     {
      "zh": "可是陳媽媽教我做的苦瓜一點都不苦，吃起來又香又甜。",
-     "py": "Kěshì Chénmāma jiāo wǒ zuò de kǔguā yìdiǎn dōu bùkǔ, chī qǐlái yòu xiāng yòu tián.",
+     "py": "Kěshì Chén māma jiāo wǒ zuò de kǔguā yìdiǎn dōu bùkǔ, chī qǐlái yòu xiāng yòu tián.",
      "en": "But the bitter melon Mrs. Chen taught me to make isn't bitter at all; it tastes fragrant and sweet.",
      "idn": "Tetapi pare yang diajarkan Nyonya Chen sama sekali tidak pahit; rasanya harum dan manis."
     },
     {
      "zh": "而且陳媽媽說，吃沒煮過的苦瓜對身體更好，還說下一次要教我用沒煮過的苦瓜做好喝的果汁，我學會以後，要先做給我的好朋友玉芳喝，希望她和我一樣愛上苦瓜。",
-     "py": "Érqiě Chénmāma shuō, chī méi zhǔ guò de kǔguā duì shēntǐ gènghǎo, hái shuō xià yícì yào jiāo wǒ yòng méi zhǔ guò de kǔguā zuòhǎo hē de guǒzhī, wǒ xuéhuì yǐhòu, yào xiān zuò gěi wǒ de hǎo péngyǒu Yùfāng hē, xīwàng tā hé wǒ yíyàng ài shàng kǔguā.",
+     "py": "Érqiě Chén māma shuō, chī méi zhǔ guò de kǔguā duì shēntǐ gènghǎo, hái shuō xià yícì yào jiāo wǒ yòng méi zhǔ guò de kǔguā zuòhǎo hē de guǒzhī, wǒ xuéhuì yǐhòu, yào xiān zuò gěi wǒ de hǎo péngyǒu Yùfāng hē, xīwàng tā hé wǒ yíyàng ài shàng kǔguā.",
      "en": "Moreover, Mrs. Chen said that eating uncooked bitter melon is even better for your health, and she said next time she'll teach me to make a tasty juice with uncooked bitter melon. After I learn it, I'll make some for my good friend Yufang first, hoping she'll fall in love with bitter melon like me.",
      "idn": "Selain itu, Nyonya Chen bilang makan pare mentah lebih baik lagi untuk kesehatan, dan katanya lain kali dia akan mengajari saya membuat jus enak dari pare mentah. Setelah bisa, saya akan membuatkannya dulu untuk sahabat saya Yufang, berharap dia juga akan jatuh cinta pada pare seperti saya."
     }
@@ -1488,7 +1488,7 @@
     },
     "B": {
      "zh": "陳媽媽和他一樣不吃苦瓜",
-     "py": "Chénmāma hé tā yíyàng bùchī kǔguā",
+     "py": "Chén māma hé tā yíyàng bùchī kǔguā",
      "en": "Mrs. Chen, like him, doesn't eat bitter melon.",
      "idn": "Nyonya Chen, sama seperti dia, tidak makan pare."
     },
@@ -1516,25 +1516,25 @@
     },
     {
      "zh": "有一天，李先生和陳先生一起聊天。",
-     "py": "Yǒu yìtiān, Lǐxiānsheng hé Chénxiānsheng yìqǐ Liáotiān.",
+     "py": "Yǒu yìtiān, Lǐ xiānsheng hé Chén xiānsheng yìqǐ liáotiān.",
      "en": "One day, Mr. Li and Mr. Chen were chatting.",
      "idn": "Suatu hari, Tuan Li dan Tuan Chen sedang mengobrol."
     },
     {
      "zh": "陳先生說：「我每天都很忙，一天要工作二十五個小時。」",
-     "py": "Chénxiānsheng shuō: “Wǒ měitiān dōu hěnmáng, yìtiān yào gōngzuò èrshíwǔ ge xiǎoshí.”",
+     "py": "Chén xiānsheng shuō: “Wǒ měitiān dōu hěnmáng, yìtiān yào gōngzuò èrshíwǔ ge xiǎoshí.”",
      "en": "Mr. Chen said: \"I'm very busy every day; I have to work twenty-five hours a day.\"",
      "idn": "Tuan Chen berkata: \"Setiap hari saya sangat sibuk; sehari saya harus bekerja dua puluh lima jam.\""
     },
     {
      "zh": "李先生說：「可是，一天只有二十四小時啊！」",
-     "py": "Lǐxiānsheng shuō: “Kěshì, yìtiān zhǐyǒu èrshísì xiǎoshí a!”",
+     "py": "Lǐ xiānsheng shuō: “Kěshì, yìtiān zhǐyǒu èrshísì xiǎoshí a!”",
      "en": "Mr. Li said: \"But there are only twenty-four hours in a day!\"",
      "idn": "Tuan Li berkata: \"Tapi sehari hanya ada dua puluh empat jam!\""
     },
     {
      "zh": "陳先生回答他：「沒關係，我每天可以早一個小時起床。」",
-     "py": "Chénxiānsheng huídá tā: “Méiguānxì, wǒ měitiān kěyǐ zǎo yí ge xiǎoshí qǐchuáng.”",
+     "py": "Chén xiānsheng huídá tā: “Méiguānxì, wǒ měitiān kěyǐ zǎo yí ge xiǎoshí qǐchuáng.”",
      "en": "Mr. Chen answered him: \"That's OK, I can get up an hour early every day.\"",
      "idn": "Tuan Chen menjawab: \"Tidak apa-apa, setiap hari saya bisa bangun satu jam lebih awal.\""
     }
@@ -1548,25 +1548,25 @@
    "options": {
     "A": {
      "zh": "陳先生每天幾點起床",
-     "py": "Chénxiānsheng měitiān jǐdiǎn qǐchuáng",
+     "py": "Chén xiānsheng měitiān jǐdiǎn qǐchuáng",
      "en": "What time Mr. Chen gets up every day",
      "idn": "Jam berapa Tuan Chen bangun setiap hari"
     },
     "B": {
      "zh": "李先生的數學不太好",
-     "py": "Lǐxiānsheng de shùxué bútàihǎo",
+     "py": "Lǐ xiānsheng de shùxué bútàihǎo",
      "en": "Mr. Li isn't very good at math.",
      "idn": "Tuan Li kurang pandai matematika."
     },
     "C": {
      "zh": "陳先生沒有李先生忙",
-     "py": "Chénxiānsheng méiyǒu Lǐxiānsheng máng",
+     "py": "Chén xiānsheng méiyǒu Lǐ xiānsheng máng",
      "en": "Mr. Chen isn't as busy as Mr. Li.",
      "idn": "Tuan Chen tidak sesibuk Tuan Li."
     },
     "D": {
      "zh": "李先生不相信陳先生",
-     "py": "Lǐxiānsheng bù xiāngxìn Chénxiānsheng",
+     "py": "Lǐ xiānsheng bù xiāngxìn Chén xiānsheng",
      "en": "Mr. Li doesn't believe Mr. Chen.",
      "idn": "Tuan Li tidak percaya pada Tuan Chen."
     }

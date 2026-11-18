@@ -71,7 +71,7 @@ def _isnum(tok):
 def _fix(toks):
     """toks: list of [orig, flag, syls]; adjusts readings in place using neighbouring words."""
     for i, t in enumerate(toks):
-        w, flag, syls = t
+        w, flag, syls = t[:3]
         if not syls or len(syls) != len(w):
             continue
         j = i - 1
@@ -189,7 +189,7 @@ NOT_ERHUA = ("女兒", "嬰兒", "幼兒", "孤兒", "健兒", "寵兒", "胎兒
 def _erhua(toks):
     """Rhotic suffix 兒: 哪兒 nǎr, 一點兒 yìdiǎnr, 一會兒 yíhuìr (but 女兒 nǚ'ér, 兒子 érzi)."""
     for i, t in enumerate(toks):
-        w, flag, syls = t
+        w, flag, syls = t[:3]
         if not syls or len(syls) != len(w):
             continue
         if len(w) > 1 and w.endswith("兒") and not w.endswith(NOT_ERHUA) and syls[-1] in ("ér", "er"):
@@ -202,11 +202,44 @@ def _erhua(toks):
 
 
 # 小/老 + surname as a familiar form of address: 小張 Xiǎo Zhāng, 老王 Lǎo Wáng
-FAMILIAR_SURNAMES = set("張王李陳林黃吳劉趙楊徐孫朱胡郭何羅鄭謝蔡曾彭許蕭葉宋鄧潘杜蘇丁魏")
+FAMILIAR_SURNAMES = set("張王李陳林黃吳劉趙楊徐孫朱胡郭何羅鄭謝蔡曾彭許蕭葉宋鄧潘杜蘇丁魏周高馬江白")
 for _p in "小老":
     for _s in FAMILIAR_SURNAMES:
         jieba.add_word(_t2s.convert(_p + _s), freq=50000, tag="nr")
 jieba.add_word("老公", tag="n")
+# given names that recur in TOCFL texts, so 小明說 is cut 小明 / 說, not 小 / 明說
+GIVEN_NAMES = ("小明 小美 小華 小芳 小玲 小文 小天 小雨 小月 小安 小方 小英 小真 小強 小倩 小智 小偉 小麗 小玉 小雲 "
+               "大明 大華 大文 大成 大山 大同 大海 大中 大衛 美美 明明 文文 心心 美華 月華 文華 美心 志明 立明 天明 "
+               "麗美 美玲 玉芳 文生 文明 明華 明美 家華 佳華 雅文 一正 大偉 小青 麗麗 莉莉 文奇 阿光 小志 阿秀 安黛 小君 "
+               "文玉 巨輝 大忠 寇兒 美珍 小晴 玉珍 順文 榮恩 小寶 小春 小東 東尼 美樂").split()
+for _n in GIVEN_NAMES:
+    jieba.add_word(_t2s.convert(_n), freq=50000, tag="nr")
+NOT_NAMES = set("戴着 钱比 钱得 张卡 张数 周休 于瞎 徐吹 王土 连桥 车高 单寄 须依 卡后 费于".split())
+from pypinyin import load_phrases_dict as _lpd
+_lpd({"陈子昂": [["chén"], ["zǐ"], ["áng"]], "子昂": [["zǐ"], ["áng"]]})
+# full personal names met in the texts (simplified)
+NAMES = set("""王明 李天华 李明 李成 李飞 王华 李云 张强 李大年 王天易 林华 林诚 林东 林立 李文 李义 李光明 陈大文 陈美华 张月英
+王小明 林明华 王大明 李健生 张美乐 王齐福 孙宙 叶林 董振华 黄月华 林一正 李大明 王大华 陈小美 林心心 林小文 陈美美 王文华
+李美华 张文华 王美华 林美华 陈明华 李天明 王光明 黄大明
+李白 武则天 杨紫琼 蔡伦 朱熹 贝聿铭 陈子昂 黄巢 林冲 李鸿章 管仲 韩信 侯景 羊侃 陆佃 林黛玉 王建民 曾雅妮""".split())
+TITLES = ("先生", "太太", "小姐", "老師", "經理", "醫生", "老闆", "伯伯", "媽媽", "阿姨", "奶奶", "爺爺", "同學", "教授", "校長", "主任", "博士", "叔叔", "大哥", "大姐")
+# Proper nouns written with a capital (simplified form, as jieba sees them). jieba's own name/place tags are
+# too noisy to trust (it tags 谢谢, 顾客, 东西, 沙发 … as names), so only listed words and personal names are capitalised.
+PROPER = set("""
+台湾 美国 中国 日本 台北 台北市 韩国 欧洲 亚洲 瑞典 埃及 香港 法国 挪威 德国 英国 阿根廷 缅甸 芬兰 荷兰 台南 台东 台中 台中市
+高雄 高雄市 花莲 花莲市 桃园 嘉义 新竹 基隆 宜兰 屏东 阿里山 北极 拉丁美洲 南美洲 北美 美洲 非洲 澳洲 罗马 旧金山 希腊 拜占庭
+芝加哥 斯德哥尔摩 尼罗河 新加坡 温哥华 北京 义大利 意大利 伦敦 古巴比伦 中东 中亚 东亚 麻州 纽约 西班牙 葡萄牙 俄国 俄罗斯
+越南 泰国 印尼 印度尼西亚 马来西亚 菲律宾 印度 加拿大 墨西哥 巴西 澳大利亚 纽西兰 新西兰 欧美 亚非 富海 大安 中山 中山路
+中华路 和平路 和平西路 仁爱路 忠孝东路 中正路 文化路 长安 圆山 大安森林公园 世界 大东 东成 永丰 新店 上城 新城 旧城
+中文 英文 华语 德语 法文 法语 日语 日文 英语 韩文 韩语 西班牙语 缅甸语 汉语 国语 台语 越南语 泰语 印尼语
+李白 武则天 杨紫琼 庄子 老子 孔子 孟子 蔡伦 朱熹 贝聿铭 达尔文 陈子昂 黄巢 林冲 莎士比亚 哈姆雷特 李鸿章 管仲 韩信 侯景
+梁武帝 羊侃 陆佃 林黛玉 牛顿 卢贝松 雷诺瓦 苏珊 桑塔格 乔姆斯基 梭罗 王建民 曾雅妮 翁山 苏姬 柯林斯 大卫 克里斯 罗兰 欧拉
+红楼梦 水浒传 大英百科全书 纽约时报 联合国 诺贝尔 诺贝尔和平奖 麻省理工学院 英国广播公司 汇丰银行 康乃尔 春秋战国 西汉 东汉
+赛夏 赛夏人 赛夏族 夏族 安提基瑟拉 安提基 瑟拉 佛教 伊斯兰 梅森 巴特 德菲尔 艾维 艾伦 贝格 鲁尔 尼斯 迪纳 卡斯
+马克斯 华莱 帕金森氏 阿兹海默症 鹏 北冥 秋水 老庄 楚 汉 费雪 欧睿 乔山 蔡侯 王福 汤姆 东尼
+""".split())
+# surnames: a personal name tagged nr that starts with one is written "Wáng Xiǎomíng"
+SURNAMES = set("王李張劉陳楊黃趙吳周徐孫馬朱胡郭何高林羅鄭梁謝宋唐許韓馮鄧曹彭曾蕭田董袁潘于蔣蔡余杜葉程蘇魏呂丁任沈姚盧姜崔鍾譚陸汪范金石廖賈夏韋傅方白鄒孟熊秦邱江尹薛閻段雷侯龍史陶黎賀顧毛郝龔邵萬錢嚴覃武戴莫孔向湯")
 
 
 def to_pinyin(text, cont=False):
@@ -228,7 +261,7 @@ def to_pinyin(text, cont=False):
             continue
         syls = lazy_pinyin(w, style=Style.TONE, neutral_tone_with_five=False, errors=lambda s: list(s))
         syls = _sandhi(syls, w) if len(syls) == len(w) else syls
-        toks.append([orig, flag, syls])
+        toks.append([orig, flag, syls, w])
     _fix(toks)
     _erhua(toks)
     # 一 / 不 sandhi across word boundaries (一 + next word, 不 + next word)
@@ -242,7 +275,9 @@ def to_pinyin(text, cont=False):
                     and (i == 0 or not re.match(r"[0-9第○零一二三四五六七八九十百千萬]", toks[i - 1][0][-1:] or "")):
                 t[2][-1] = "yí" if fourth else "yì"
     out = []
-    for orig, flag, syls in toks:
+    for ti, tk in enumerate(toks):
+        orig, flag, syls = tk[:3]
+        w = tk[3] if len(tk) > 3 else _t2s.convert(orig)
         if syls is None:
             if not orig.strip():
                 out.append(" ")
@@ -265,8 +300,26 @@ def to_pinyin(text, cont=False):
         if (orig in ("們", "们") or (orig in ("著", "着") and syls == ["zhe"])) and out and out[-1].strip() and out[-1][-1].isalpha():
             out[-1] += syls[0]
             continue
+        # surname cut off from a given name: 陳 / 大文 -> Chén Dàwén
+        nxt_tok = toks[ti + 1] if ti + 1 < len(toks) else None
+        if len(orig) == 1 and orig in SURNAMES and nxt_tok and (nxt_tok[0] in GIVEN_NAMES or nxt_tok[0] in TITLES) and len(syls) == 1:
+            out.append(" " + syls[0][0].upper() + syls[0][1:])
+            continue
+        title = next((x for x in TITLES if len(orig) == 1 + len(x) and orig[1:] == x), None)
+        if title and orig[0] in SURNAMES and len(syls) == len(orig):
+            rest = syls[1] + "".join(("'" if re.match(r"[aoeāáǎàōóǒòēéěè]", x) else "") + x for x in syls[2:])
+            out.append(" " + syls[0][0].upper() + syls[0][1:] + " " + rest)
+            continue
+        if (w in NAMES or (flag in ("nr", "nrfg") and w not in jieba.dt.FREQ and w not in NOT_NAMES and not any(c in "得的地了是也都就在和跟比把被給不沒很太又才還要會能著过過" for c in orig[1:]))) and len(orig) in (2, 3) and orig[0] in SURNAMES \
+                and len(syls) == len(orig) and orig not in GIVEN_NAMES:
+            syls = [("yī" if c == "一" else x) for c, x in zip(orig, syls)]  # names keep the citation tone
+            given = syls[1] + "".join(("'" if re.match(r"[aoeāáǎàōóǒòēéěè]", x) else "") + x for x in syls[2:])
+            out.append(" " + syls[0][0].upper() + syls[0][1:] + " " + given[0].upper() + given[1:])
+            continue
+        if (orig in GIVEN_NAMES or w in NAMES) and len(syls) == len(orig):
+            syls = [("yī" if c == "一" else x) for c, x in zip(orig, syls)]
         word = syls[0] + "".join(("'" if re.match(r"[aoeāáǎàōóǒòēéěè]", x) else "") + x for x in syls[1:])
-        if flag in ("nr", "ns", "nt", "nz", "nrt", "nrfg") and word:
+        if word and (w in PROPER or w in NAMES or orig in GIVEN_NAMES or _t2s.convert(orig) in PROPER):
             word = word[0].upper() + word[1:]
         out.append(" " + word)
     s = "".join(out)
