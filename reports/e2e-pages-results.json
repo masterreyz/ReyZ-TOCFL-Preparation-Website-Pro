@@ -200,6 +200,26 @@
   "detail": ""
  },
  {
+  "test": "L12 renders all sections",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "L12 dialogue I read-all",
+  "ok": true,
+  "detail": "安同，你計畫在臺灣念多久的書？三年。為什麼要這麼久的時間？我"
+ },
+ {
+  "test": "L12 grammar example speak",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "search finds L12 content",
+  "ok": true,
+  "detail": ""
+ },
+ {
   "test": "book page image loads",
   "ok": true,
   "detail": ""

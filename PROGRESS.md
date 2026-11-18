@@ -41,7 +41,8 @@ Chosen 2026-11-16. Order: A1 Textbook L1→L15, A1 Workbook L1→L15, then A2, B
 | A1 Textbook L9 放假去哪裡玩？ | 208–227 | ✅ complete — original mode (5 grammar points: time-when vs. time-duration, verb+duration, 的時候, 有時候…有時候…, 要是…就…) |
 | A1 Textbook L10 臺灣的水果很好吃 | 228–248 | ✅ complete — original mode (5 grammar points: VV看, reduplicated state verbs, clause as noun modifier, sentential 了, 因為…所以…) |
 | A1 Textbook L11 我要租房子 | 250–271 | ✅ complete — original mode (5 grammar points: 來+VP, sooner-than-expected 就, existential 有, two types of 會, omitting nouns at 2nd mention) |
-| A1 Textbook L12 | 272– | ⏭ next (original mode) |
+| A1 Textbook L12 你在臺灣學多久的中文？ | 272–295 | ✅ complete — original mode (4 grammar points: 先…再…, focus with 是…的, 以後, special meanings of 好/難+verb) |
+| A1 Textbook L13 | 296– | ⏭ next (original mode) |
 | all other lessons | — | page images until migrated |
 
 ### Original mode (from A1 L6 onward, chosen 2026-11-17)
