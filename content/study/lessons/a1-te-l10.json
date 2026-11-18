@@ -1,0 +1,1146 @@
+{
+ "id": "a1-te-l10",
+ "title": "臺灣的水果很好吃 The Fruit in Taiwan Tastes Really Good",
+ "status": "complete",
+ "mode": "original",
+ "statusDetail": "Materi ini ditulis ulang secara orisinal untuk situs ini berdasarkan topik, daftar kosakata, dan pola tata bahasa buku (hlm. PDF 228–248): penjelasan, contoh kalimat, dialog latihan, soal, dan catatan budaya memakai kata-kata sendiri. Dialog, latihan bergambar, dan foto asli ada di buku; audio trek asli tetap ditautkan.",
+ "transcribedBy": "Ditulis ulang secara orisinal berdasarkan isi buku, diperiksa terhadap halaman asli, 2026-11-17",
+ "blocks": [
+  {
+   "type": "heading",
+   "id": "h-obj",
+   "en": "Learning Objectives",
+   "zh": "學習目標",
+   "source": {
+    "pages": [
+     228
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "obj",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Topic: 人或物件外貌 The Appearance of People and Things"
+    },
+    {
+     "lang": "en",
+     "text": "• Learning to give simple descriptions of someone’s appearance."
+    },
+    {
+     "lang": "en",
+     "text": "• Learning to describe the color, smell, and taste of food."
+    },
+    {
+     "lang": "en",
+     "text": "• Learning to briefly explain and give reasons."
+    },
+    {
+     "lang": "en",
+     "text": "• Learning to describe tentative activities and changeable states."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-d1",
+   "en": "Dialogue I",
+   "zh": "對話一",
+   "source": {
+    "pages": [
+     229
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "d1-audio",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Practice dialogue written for this site with the vocabulary of Dialogue I. The book’s own Dialogue I is on book p. 202 (PDF p. 229); its recording is track 10-01."
+    }
+   ],
+   "track": "10-01"
+  },
+  {
+   "type": "dialogue",
+   "id": "d1",
+   "lines": [
+    {
+     "spk": "哥哥",
+     "zh": "這種黃色的水果，你吃吃看，是臺灣的芒果。",
+     "py": "Zhè zhǒng huángsè de shuǐguǒ, nǐ chīchīkàn, shì Táiwān de mángguǒ."
+    },
+    {
+     "spk": "妹妹",
+     "zh": "好，給我一塊。[taking a bite] 嗯，香香的、甜甜的，真好吃！",
+     "py": "Hǎo, gěi wǒ yí kuài. Ń, xiāngxiāng de, tiántián de, zhēn hǎochī!"
+    },
+    {
+     "spk": "哥哥",
+     "zh": "那這個紅色的呢？妳說的是不是西瓜？",
+     "py": "Nà zhè ge hóngsè de ne? Nǐ shuō de shì bú shì xīguā?"
+    },
+    {
+     "spk": "妹妹",
+     "zh": "對對對！以前我不太喜歡吃西瓜，現在很喜歡了。",
+     "py": "Duì duì duì! Yǐqián wǒ bú tài xǐhuān chī xīguā, xiànzài hěn xǐhuān le."
+    },
+    {
+     "spk": "哥哥",
+     "zh": "臺灣有很多好吃的水果，妳可以每一種都吃吃看。",
+     "py": "Táiwān yǒu hěn duō hǎochī de shuǐguǒ, nǐ kěyǐ měi yì zhǒng dōu chīchīkàn."
+    },
+    {
+     "spk": "妹妹",
+     "zh": "聽說泰國的水果也很好吃，要是有機會，我也想吃吃看。",
+     "py": "Tīngshuō Tàiguó de shuǐguǒ yě hěn hǎochī, yàoshì yǒu jīhuì, wǒ yě xiǎng chīchīkàn."
+    },
+    {
+     "spk": "哥哥",
+     "zh": "沒問題，妳來泰國找我，我一定請妳吃。",
+     "py": "Méi wèntí, nǐ lái Tàiguó zhǎo wǒ, wǒ yídìng qǐng nǐ chī."
+    }
+   ],
+   "translation": [
+    {
+     "spk": "Older brother",
+     "en": "Try this yellow fruit — it’s a Taiwanese mango."
+    },
+    {
+     "spk": "Younger sister",
+     "en": "OK, give me a piece. [taking a bite] Mmm, it’s fragrant and sweet, really good!"
+    },
+    {
+     "spk": "Older brother",
+     "en": "And that red one? Is it the watermelon you meant?"
+    },
+    {
+     "spk": "Younger sister",
+     "en": "Yes, yes! I didn’t used to like watermelon much, but now I like it a lot."
+    },
+    {
+     "spk": "Older brother",
+     "en": "Taiwan has so much good fruit — you could try a bit of every kind."
+    },
+    {
+     "spk": "Younger sister",
+     "en": "I’ve heard Thai fruit is good too. If I get the chance, I’d like to try it."
+    },
+    {
+     "spk": "Older brother",
+     "en": "No problem — come find me in Thailand, and I’ll treat you for sure."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-v1",
+   "en": "Vocabulary I",
+   "zh": "生詞一",
+   "source": {
+    "pages": [
+     231
+    ]
+   }
+  },
+  {
+   "type": "vocab",
+   "id": "v1-vocab",
+   "title": "Vocabulary",
+   "items": [
+    {
+     "n": 1,
+     "zh": "水果",
+     "py": "shuǐguǒ",
+     "pos": "N",
+     "en": "fruit"
+    },
+    {
+     "n": 2,
+     "zh": "黃色",
+     "py": "huángsè",
+     "pos": "N",
+     "en": "yellow"
+    },
+    {
+     "n": 3,
+     "zh": "芒果",
+     "py": "mángguǒ",
+     "pos": "N",
+     "en": "mango"
+    },
+    {
+     "n": 4,
+     "zh": "給",
+     "py": "gěi",
+     "pos": "V",
+     "en": "to give"
+    },
+    {
+     "n": 5,
+     "zh": "塊",
+     "py": "kuài",
+     "pos": "M",
+     "en": "measure word for pieces of food (e.g., meat, cake)"
+    },
+    {
+     "n": 6,
+     "zh": "香",
+     "py": "xiāng",
+     "pos": "Vs",
+     "en": "fragrant"
+    },
+    {
+     "n": 7,
+     "zh": "甜",
+     "py": "tián",
+     "pos": "Vs",
+     "en": "sweet (taste)"
+    },
+    {
+     "n": 8,
+     "zh": "紅色",
+     "py": "hóngsè",
+     "pos": "N",
+     "en": "red"
+    },
+    {
+     "n": 9,
+     "zh": "西瓜",
+     "py": "xīguā",
+     "pos": "N",
+     "en": "watermelon"
+    },
+    {
+     "n": 10,
+     "zh": "吧",
+     "py": "ba",
+     "pos": "Ptc",
+     "en": "sentence-final particle for guessing"
+    },
+    {
+     "n": 11,
+     "zh": "對",
+     "py": "duì",
+     "pos": "Vs",
+     "en": "correct, right"
+    },
+    {
+     "n": 12,
+     "zh": "以前",
+     "py": "yǐqián",
+     "pos": "N",
+     "en": "before"
+    },
+    {
+     "n": 13,
+     "zh": "機會",
+     "py": "jīhuì",
+     "pos": "N",
+     "en": "opportunity"
+    },
+    {
+     "n": 14,
+     "zh": "請",
+     "py": "qǐng",
+     "pos": "V",
+     "en": "to treat sb to sth"
+    }
+   ],
+   "track": "10-02",
+   "source": {
+    "pages": [
+     231
+    ]
+   }
+  },
+  {
+   "type": "vocab",
+   "id": "v1-phrases",
+   "title": "Phrases",
+   "items": [
+    {
+     "n": 15,
+     "zh": "吃吃看",
+     "py": "chīchīkàn",
+     "pos": "",
+     "en": "to have a taste, try it, taste it"
+    }
+   ],
+   "source": {
+    "pages": [
+     231
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "h-d2",
+   "en": "Dialogue II",
+   "zh": "對話二",
+   "source": {
+    "pages": [
+     232
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "d2-audio",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Practice dialogue written for this site with the vocabulary of Dialogue II. The book’s own Dialogue II is on book p. 205 (PDF p. 232); its recording is track 10-03."
+    }
+   ],
+   "track": "10-03"
+  },
+  {
+   "type": "dialogue",
+   "id": "d2",
+   "lines": [
+    {
+     "spk": "老師",
+     "zh": "你上個星期去臺南玩，拍了很多照片吧？",
+     "py": "Nǐ shàng ge xīngqí qù Táinán wán, pāi le hěn duō zhàopiàn ba?"
+    },
+    {
+     "spk": "學生",
+     "zh": "對啊，你看，這些都是我拍的。我們笑得很開心！",
+     "py": "Duì a, nǐ kàn, zhèxiē dōu shì wǒ pāi de. Wǒmen xiào de hěn kāixīn!"
+    },
+    {
+     "spk": "老師",
+     "zh": "穿藍色衣服的這個是誰？",
+     "py": "Chuān lánsè yīfú de zhè ge shì shéi?"
+    },
+    {
+     "spk": "學生",
+     "zh": "是我同學。穿黑色衣服的是民宿老闆。",
+     "py": "Shì wǒ tóngxué. Chuān hēisè yīfú de shì mínsù lǎobǎn."
+    },
+    {
+     "spk": "老師",
+     "zh": "矮的跟高的呢？",
+     "py": "Ǎi de gēn gāo de ne?"
+    },
+    {
+     "spk": "學生",
+     "zh": "矮的是老闆的太太，高的是他們的女兒。",
+     "py": "Ǎi de shì lǎobǎn de tàitai, gāo de shì tāmen de nǚ’ér."
+    },
+    {
+     "spk": "老師",
+     "zh": "你們住的民宿怎麼樣？",
+     "py": "Nǐmen zhù de mínsù zěnmeyàng?"
+    },
+    {
+     "spk": "學生",
+     "zh": "很乾淨，從窗戶往外看，是綠色的山。",
+     "py": "Hěn gānjìng, cóng chuānghù wǎng wài kàn, shì lǜsè de shān."
+    },
+    {
+     "spk": "老師",
+     "zh": "貴不貴？",
+     "py": "Guì bú guì?"
+    },
+    {
+     "spk": "學生",
+     "zh": "因為現在去的人比較少，所以不太貴，下次我還想去住。",
+     "py": "Yīnwèi xiànzài qù de rén bǐjiào shǎo, suǒyǐ bú tài guì, xià cì wǒ hái xiǎng qù zhù."
+    }
+   ],
+   "translation": [
+    {
+     "spk": "Teacher",
+     "en": "You went to Tainan last week — took a lot of pictures, I bet?"
+    },
+    {
+     "spk": "Student",
+     "en": "Yes! Look, these are all ones I took. We were all smiling so happily!"
+    },
+    {
+     "spk": "Teacher",
+     "en": "Who’s this one wearing blue?"
+    },
+    {
+     "spk": "Student",
+     "en": "That’s my classmate. The one in black is the B&B owner."
+    },
+    {
+     "spk": "Teacher",
+     "en": "What about the short one and the tall one?"
+    },
+    {
+     "spk": "Student",
+     "en": "The short one is the owner’s wife, the tall one is their daughter."
+    },
+    {
+     "spk": "Teacher",
+     "en": "How was the place you stayed?"
+    },
+    {
+     "spk": "Student",
+     "en": "Very clean — looking out the window, you’d see green mountains."
+    },
+    {
+     "spk": "Teacher",
+     "en": "Was it expensive?"
+    },
+    {
+     "spk": "Student",
+     "en": "Because fewer people go there now, it wasn’t too expensive. I’d like to stay there again next time."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-v2",
+   "en": "Vocabulary II",
+   "zh": "生詞二",
+   "source": {
+    "pages": [
+     234
+    ]
+   }
+  },
+  {
+   "type": "vocab",
+   "id": "v2-vocab",
+   "title": "Vocabulary",
+   "items": [
+    {
+     "n": 1,
+     "zh": "拍",
+     "py": "pāi",
+     "pos": "V",
+     "en": "to take (pictures)"
+    },
+    {
+     "n": 2,
+     "zh": "笑",
+     "py": "xiào",
+     "pos": "V",
+     "en": "to laugh, to smile"
+    },
+    {
+     "n": 3,
+     "zh": "開心",
+     "py": "kāixīn",
+     "pos": "Vs",
+     "en": "happy"
+    },
+    {
+     "n": 4,
+     "zh": "穿",
+     "py": "chuān",
+     "pos": "V",
+     "en": "to wear, to put on"
+    },
+    {
+     "n": 5,
+     "zh": "衣服",
+     "py": "yīfú",
+     "pos": "N",
+     "en": "clothes"
+    },
+    {
+     "n": 6,
+     "zh": "旅館",
+     "py": "lǚguǎn",
+     "pos": "N",
+     "en": "hotel"
+    },
+    {
+     "n": 7,
+     "zh": "太太",
+     "py": "tàitai",
+     "pos": "N",
+     "en": "wife"
+    },
+    {
+     "n": 8,
+     "zh": "男 + noun",
+     "py": "nán",
+     "pos": "N",
+     "en": "boy-, male-"
+    },
+    {
+     "n": 9,
+     "zh": "矮",
+     "py": "ǎi",
+     "pos": "Vs",
+     "en": "short (height)"
+    },
+    {
+     "n": 10,
+     "zh": "高",
+     "py": "gāo",
+     "pos": "Vs",
+     "en": "tall"
+    },
+    {
+     "n": 11,
+     "zh": "弟弟",
+     "py": "dìdi",
+     "pos": "N",
+     "en": "younger brother"
+    },
+    {
+     "n": 12,
+     "zh": "乾淨",
+     "py": "gānjìng",
+     "pos": "Vs",
+     "en": "clean"
+    },
+    {
+     "n": 13,
+     "zh": "窗戶",
+     "py": "chuānghù",
+     "pos": "N",
+     "en": "window"
+    },
+    {
+     "n": 14,
+     "zh": "往",
+     "py": "wǎng",
+     "pos": "Prep",
+     "en": "toward, to"
+    },
+    {
+     "n": 15,
+     "zh": "藍色",
+     "py": "lánsè",
+     "pos": "N",
+     "en": "blue"
+    },
+    {
+     "n": 16,
+     "zh": "因為",
+     "py": "yīnwèi",
+     "pos": "Conj",
+     "en": "because"
+    },
+    {
+     "n": 17,
+     "zh": "住",
+     "py": "zhù",
+     "pos": "V",
+     "en": "to stay"
+    }
+   ],
+   "track": "10-04",
+   "source": {
+    "pages": [
+     234
+    ]
+   }
+  },
+  {
+   "type": "vocab",
+   "id": "v2-phrases",
+   "title": "Phrases",
+   "items": [
+    {
+     "n": 18,
+     "zh": "上個月",
+     "py": "shàng ge yuè",
+     "pos": "",
+     "en": "last month"
+    },
+    {
+     "n": 19,
+     "zh": "這些",
+     "py": "zhèxiē",
+     "pos": "",
+     "en": "these"
+    }
+   ],
+   "source": {
+    "pages": [
+     234
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "h-gr",
+   "en": "Grammar",
+   "zh": "文法",
+   "source": {
+    "pages": [
+     235
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "g1",
+   "en": "I. VV看 kàn: to try and see",
+   "level": 3,
+   "source": {
+    "pages": [
+     235
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g1-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: This pattern reduplicates a mono-syllabic action verb and ends with the cognitive verb 看. It suggests “try (verb) and see”, and because of 看, the sentence carries a highly tentative tone. Basic mono-syllabic action verbs work in this pattern, e.g. 吃, 喝, 打, 寫, 穿, 學, 做, 聽, 唱, 逛, 住."
+    },
+    {
+     "lang": "en",
+     "text": "This pattern is closely related to the plain reduplication introduced in Lesson 6 (這杯咖啡很香，你喝喝看 ≈ 你喝喝). They are usually interchangeable, except when the sentence is not a request to try something (我週末常看看書、喝喝咖啡 — 看 cannot be added), and VV看 generally cannot take an object (you cannot say ＊喝喝看咖啡, though plain VV can: 喝喝咖啡)."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g1-ex",
+   "items": [
+    {
+     "zh": "這塊芒果很香，你吃吃看。",
+     "py": "Zhè kuài mángguǒ hěn xiāng, nǐ chīchīkàn.",
+     "en": "This piece of mango is fragrant — try it."
+    },
+    {
+     "zh": "聽說這家店的西瓜很甜，我想買買看。",
+     "py": "Tīngshuō zhè jiā diàn de xīguā hěn tián, wǒ xiǎng mǎimǎikàn.",
+     "en": "I’ve heard the watermelon at this shop is sweet — I’d like to buy some and try it."
+    },
+    {
+     "zh": "這件藍色的衣服不錯，你穿穿看。",
+     "py": "Zhè jiàn lánsè de yīfú búcuò, nǐ chuānchuānkàn.",
+     "en": "This blue shirt looks nice — try it on."
+    },
+    {
+     "zh": "那家旅館聽說很乾淨，我們去住住看。",
+     "py": "Nà jiā lǚguǎn tīngshuō hěn gānjìng, wǒmen qù zhùzhùkàn.",
+     "en": "I’ve heard that hotel is clean — let’s stay there and see."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "g1-x",
+   "title": "練習 Exercise",
+   "instruction": "Fill in each blank with a VV看 form of a suitable verb.",
+   "items": [
+    {
+     "prompt": "這杯咖啡很香，你＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "這種水果我沒吃過，我想＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "這首歌很好聽，你＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "這條路我不認識，我們＿＿＿＿＿＿，應該可以找到。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "g2",
+   "en": "II. Intensification with Reduplicated State Verbs",
+   "level": 3,
+   "source": {
+    "pages": [
+     236,
+     237
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g2-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: Reduplicating a state verb intensifies the statement, somewhat like 很 + state verb, but it expresses the speaker’s subjective feeling rather than an objective, factual observation."
+    },
+    {
+     "lang": "en",
+     "text": "No degree adverb can appear with reduplication (not ＊這杯茶很香香的). A 的 follows the reduplicated state verb — 這杯茶香香的, not ＊這杯茶香香. When two state verbs appear in sequence, the first 的 can be dropped: 那種水果香香甜甜的."
+    },
+    {
+     "lang": "en",
+     "text": "Not every state verb can be reduplicated. 香、甜、高、熱、大、美、遠、辣、矮 can; 多、貴、近、忙、新、少 cannot."
+    },
+    {
+     "lang": "en",
+     "text": "Because reduplication is subjective, it tends to appear when describing or praising something, not in a plain factual statement — when ordering, say 買一杯熱咖啡, not ＊買一杯熱熱的咖啡."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g2-ex",
+   "items": [
+    {
+     "zh": "這塊芒果香香甜甜的，真好吃。",
+     "py": "Zhè kuài mángguǒ xiāngxiāng tiántián de, zhēn hǎochī.",
+     "en": "This piece of mango is really fragrant and sweet — so good."
+    },
+    {
+     "zh": "熱熱的茶，喝起來很舒服。",
+     "py": "Rèrè de chá, hē qǐlái hěn shūfú.",
+     "en": "Hot tea feels really nice to drink."
+    },
+    {
+     "zh": "她們笑得開心開心的，看起來很幸福。",
+     "py": "Tāmen xiào de kāixīn kāixīn de, kàn qǐlái hěn xìngfú.",
+     "en": "They were smiling so happily — they looked really content."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "g2-x",
+   "title": "練習 Exercise",
+   "instruction": "Describe each item using a reduplicated state verb.",
+   "items": [
+    {
+     "prompt": "那位先生…（高）→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "這杯茶…（甜）→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "那碗湯…（熱）→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "他們家…（大）→ ＿＿＿＿＿＿。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "g3",
+   "en": "III. Clause as Modifiers of Nouns",
+   "level": 3,
+   "source": {
+    "pages": [
+     238,
+     239
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g3-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: Clauses, like all modifiers in Chinese, precede the noun they modify, with 的 directly in front of that noun. A relative clause can be affirmative or negative, and may modify a noun that is the subject, object, or any other role in the clause."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g3-ex",
+   "items": [
+    {
+     "zh": "你說的水果是西瓜。",
+     "py": "Nǐ shuō de shuǐguǒ shì xīguā.",
+     "en": "The fruit you’re talking about is watermelon."
+    },
+    {
+     "zh": "這些是我拍的照片。",
+     "py": "Zhèxiē shì wǒ pāi de zhàopiàn.",
+     "en": "These are photos that I took."
+    },
+    {
+     "zh": "穿藍色衣服的這個人是我同學。",
+     "py": "Chuān lánsè yīfú de zhè ge rén shì wǒ tóngxué.",
+     "en": "The person wearing blue is my classmate."
+    },
+    {
+     "zh": "現在去那家旅館的人比較少。",
+     "py": "Xiànzài qù nà jiā lǚguǎn de rén bǐjiào shǎo.",
+     "en": "Fewer people go to that hotel now."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g3-neg",
+   "items": [
+    {
+     "zh": "不喜歡吃水果的人可以試試看這種芒果。",
+     "py": "Bù xǐhuān chī shuǐguǒ de rén kěyǐ shìshìkàn zhè zhǒng mángguǒ.",
+     "en": "People who don’t usually like fruit could try this kind of mango."
+    },
+    {
+     "zh": "不住旅館的旅客可以去住民宿。",
+     "py": "Bú zhù lǚguǎn de lǚkè kěyǐ qù zhù mínsù.",
+     "en": "Travelers who don’t stay at hotels can stay at a B&B instead."
+    }
+   ],
+   "title": "Negation"
+  },
+  {
+   "type": "exercise",
+   "id": "g3-x",
+   "title": "練習 Exercise",
+   "instruction": "Combine each pair of sentences into one with a relative clause.",
+   "items": [
+    {
+     "prompt": "哥哥給我一塊芒果，那塊芒果很甜。→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "這件衣服很漂亮。妹妹穿這件衣服。→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "他在喝茶。我也喜歡喝那種茶。→ ＿＿＿＿＿＿。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "g4",
+   "en": "IV. Change in Situation with Sentential 了 le",
+   "level": 3,
+   "source": {
+    "pages": [
+     240
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g4-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: The sentential 了 at the end of a sentence marks a change in situation — something has changed, resulting in a new state of affairs. It can be affirmative, negative, or a question."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g4-ex",
+   "items": [
+    {
+     "zh": "這種芒果貴了。",
+     "py": "Zhè zhǒng mángguǒ guì le.",
+     "en": "This kind of mango has gotten expensive."
+    },
+    {
+     "zh": "我現在喜歡吃西瓜了。",
+     "py": "Wǒ xiànzài xǐhuān chī xīguā le.",
+     "en": "I like watermelon now. (I didn’t before.)"
+    },
+    {
+     "zh": "去那家旅館住的人多了。",
+     "py": "Qù nà jiā lǚguǎn zhù de rén duō le.",
+     "en": "More people are staying at that hotel now."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g4-neg",
+   "items": [
+    {
+     "zh": "我不喜歡吃芒果了。",
+     "py": "Wǒ bù xǐhuān chī mángguǒ le.",
+     "en": "I don’t like mango any more."
+    },
+    {
+     "zh": "他不想住那家旅館了。",
+     "py": "Tā bù xiǎng zhù nà jiā lǚguǎn le.",
+     "en": "He doesn’t want to stay at that hotel any more."
+    }
+   ],
+   "title": "Negation"
+  },
+  {
+   "type": "examples",
+   "id": "g4-q",
+   "items": [
+    {
+     "zh": "你現在喜歡吃臺灣水果了嗎？",
+     "py": "Nǐ xiànzài xǐhuān chī Táiwān shuǐguǒ le ma?",
+     "en": "Do you like Taiwanese fruit now?"
+    },
+    {
+     "zh": "去花蓮玩的人少了嗎？",
+     "py": "Qù Huālián wán de rén shǎo le ma?",
+     "en": "Have fewer people been going to Hualien?"
+    }
+   ],
+   "title": "Questions"
+  },
+  {
+   "type": "exercise",
+   "id": "g4-x",
+   "title": "練習 Exercise",
+   "instruction": "Describe each change using sentential 了.",
+   "items": [
+    {
+     "prompt": "我家現在很乾淨了。",
+     "hint": ""
+    },
+    {
+     "prompt": "車票…（貴）→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "這個學生…（想學中文）→ ＿＿＿＿＿＿。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "g5",
+   "en": "V. Cause and Effect with 因為 yīnwèi …，所以 suǒyǐ …",
+   "level": 3,
+   "source": {
+    "pages": [
+     241
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g5-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: 因為…所以… links a cause clause to its effect. The two conjunctions almost always appear as a pair, reinforcing each other, and in Chinese the cause clause always comes first, unlike English where the order is more flexible."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g5-ex",
+   "items": [
+    {
+     "zh": "因為現在去玩的人比較少，所以旅館不太貴。",
+     "py": "Yīnwèi xiànzài qù wán de rén bǐjiào shǎo, suǒyǐ lǚguǎn bú tài guì.",
+     "en": "Because fewer people are visiting now, the hotels aren’t too expensive."
+    },
+    {
+     "zh": "因為這種水果很香很甜，所以很多人喜歡吃。",
+     "py": "Yīnwèi zhè zhǒng shuǐguǒ hěn xiāng hěn tián, suǒyǐ hěn duō rén xǐhuān chī.",
+     "en": "Because this fruit is fragrant and sweet, a lot of people like to eat it."
+    },
+    {
+     "zh": "因為我以前沒吃過芒果，所以想吃吃看。",
+     "py": "Yīnwèi wǒ yǐqián méi chī guò mángguǒ, suǒyǐ xiǎng chīchīkàn.",
+     "en": "Because I’d never had mango before, I wanted to try it."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "g5-x",
+   "title": "練習 Exercise",
+   "instruction": "Connect each pair of sentences with 因為…所以….",
+   "items": [
+    {
+     "prompt": "我喜歡吃甜的東西。我常買水果吃。→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "那家民宿很乾淨。很多人想去住。→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "我剛開始學中文。我的中文說得不好。→ ＿＿＿＿＿＿。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-act",
+   "en": "Classroom Activities",
+   "zh": "課室活動",
+   "source": {
+    "pages": [
+     216
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "act1",
+   "en": "I. Which One Do You Prefer?",
+   "level": 3
+  },
+  {
+   "type": "text",
+   "id": "act1-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Learning to give simple descriptions of someone’s appearance, and to describe the color, smell, and taste of food."
+    },
+    {
+     "lang": "en",
+     "text": "Task: Pair up with a partner. For each pair of pictures below, say which one you prefer and briefly give a reason (you can use VV看, reduplicated state verbs, or 因為…所以…)."
+    },
+    {
+     "lang": "en",
+     "text": "1. 哪一個人比較好看？ 2. 哪一張照片比較漂亮？ 3. 你想看哪一個電影？"
+    },
+    {
+     "lang": "en",
+     "text": "4. 你比較想去哪一個海邊玩？ 5. 你比較想去哪一家餐廳吃飯？ 6. 你比較喜歡吃哪一種西瓜？"
+    },
+    {
+     "lang": "en",
+     "text": "7. 你比較喜歡喝哪一種咖啡？ 8. 你比較喜歡穿什麼衣服？ 9. 你比較想住哪一個地方？"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "act2",
+   "en": "II. Then and Now",
+   "level": 3,
+   "source": {
+    "pages": [
+     218
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "act2-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Learning to describe changes in situation with sentential 了."
+    },
+    {
+     "lang": "en",
+     "text": "Task: Ask classmates whether anything has changed for them since arriving in Taiwan, or in their home country compared to the past. Write down a classmate’s name if the answer is yes."
+    },
+    {
+     "lang": "en",
+     "text": "你會做中國菜了嗎？ 你會唱中文歌了嗎？ 你會寫書法了嗎？ 你現在喜歡吃臭豆腐了嗎？"
+    },
+    {
+     "lang": "en",
+     "text": "在你的國家，吃的東西比以前貴了嗎？ 在你的國家，房子比以前貴了嗎？"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "act3",
+   "en": "III. Your Observations on Taiwanese Society",
+   "level": 3,
+   "source": {
+    "pages": [
+     219
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "act3-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Learning to briefly explain and give reasons, using 因為…所以…."
+    },
+    {
+     "lang": "en",
+     "text": "Task: Pair up and discuss the following questions, then share your conclusions with the class."
+    },
+    {
+     "lang": "en",
+     "text": "1. 為什麼很多人到臺灣來學中文？ 2. 為什麼現在學中文的人比以前多？"
+    },
+    {
+     "lang": "en",
+     "text": "3. 在臺灣，為什麼很多人不常在家吃飯？ 4. 在臺灣，為什麼很多人喜歡去夜市？ 5. 在臺灣，為什麼很多人騎機車？"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-cult",
+   "en": "Bits of Chinese Culture",
+   "zh": "文化",
+   "source": {
+    "pages": [
+     220
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "cult1",
+   "en": "The Meanings of Different Colors",
+   "level": 3
+  },
+  {
+   "type": "text",
+   "id": "cult1-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "In Chinese culture, three colors carry especially strong meanings: red, white, and yellow."
+    },
+    {
+     "lang": "en",
+     "text": "Red is an auspicious color used for happy events. At traditional Chinese weddings, the garments and decorations are red, and wedding guests give red envelopes containing money for good luck. At Chinese New Year, people hang up red scrolls and couplets, and often write the character 福 fú (blessing) on red paper; adults give children money in red envelopes."
+    },
+    {
+     "lang": "en",
+     "text": "White is the opposite: where red is for joy and birth, white is traditionally for mourning. At funerals, the family’s clothing and the items used are white, and visitors paying respects may offer a white envelope to the family. With Western influence, however, brides in Taiwan now also wear white wedding gowns, and — as in the West and in Japan — white has also come to carry a sense of purity."
+    },
+    {
+     "lang": "en",
+     "text": "Yellow was historically reserved for the emperor and the royal family; the emperor’s own robe was called 黃袍 huángpáo, literally “yellow gown”, and yellow was the color of the highest class. Since the end of imperial China, the meaning of yellow has shifted a great deal — today the word is also used in the term 黃色書刊 huángsè shūkān, “pornographic publications”, a meaning with no connection to its old royal associations."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-self",
+   "en": "Self-Assessment Checklist",
+   "source": {
+    "pages": [
+     249
+    ]
+   }
+  },
+  {
+   "type": "checklist",
+   "id": "self",
+   "items": [
+    "I can give simple descriptions of someone’s appearance.",
+    "I can describe the color, smell, and taste of food.",
+    "I can briefly explain and give reasons.",
+    "I can describe tentative activities and changeable states."
+   ]
+  }
+ ]
+}

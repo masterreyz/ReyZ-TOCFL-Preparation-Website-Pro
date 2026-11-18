@@ -160,6 +160,26 @@
   "detail": ""
  },
  {
+  "test": "L10 renders all sections",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "L10 dialogue I read-all",
+  "ok": true,
+  "detail": "這種黃色的水果，你吃吃看，是臺灣的芒果。好，給我一塊。[ta"
+ },
+ {
+  "test": "L10 grammar example speak",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "search finds L10 content",
+  "ok": true,
+  "detail": ""
+ },
+ {
   "test": "book page image loads",
   "ok": true,
   "detail": ""
