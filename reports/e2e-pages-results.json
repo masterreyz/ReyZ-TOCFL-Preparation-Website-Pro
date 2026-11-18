@@ -220,6 +220,26 @@
   "detail": ""
  },
  {
+  "test": "L13 renders all sections",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "L13 dialogue I read-all",
+  "ok": true,
+  "detail": "喂，請問田中在不在？我就是，如玉，好久不見！聽說妳去高雄玩了"
+ },
+ {
+  "test": "L13 grammar example speak",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "search finds L13 content",
+  "ok": true,
+  "detail": ""
+ },
+ {
   "test": "book page image loads",
   "ok": true,
   "detail": ""

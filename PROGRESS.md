@@ -1,6 +1,6 @@
 # Progress — ReyZ TOCFL Preparation Website
 
-_Last updated: 2026-11-18_
+_Last updated: 2026-11-18 (A1 L13 added)_
 
 ## Done
 - Inventory of `TOCFL Study` and `TOCFL Exercise` (see `reports/COMPLETENESS.md` §1).
@@ -42,7 +42,8 @@ Chosen 2026-11-16. Order: A1 Textbook L1→L15, A1 Workbook L1→L15, then A2, B
 | A1 Textbook L10 臺灣的水果很好吃 | 228–248 | ✅ complete — original mode (5 grammar points: VV看, reduplicated state verbs, clause as noun modifier, sentential 了, 因為…所以…) |
 | A1 Textbook L11 我要租房子 | 250–271 | ✅ complete — original mode (5 grammar points: 來+VP, sooner-than-expected 就, existential 有, two types of 會, omitting nouns at 2nd mention) |
 | A1 Textbook L12 你在臺灣學多久的中文？ | 272–295 | ✅ complete — original mode (4 grammar points: 先…再…, focus with 是…的, 以後, special meanings of 好/難+verb) |
-| A1 Textbook L13 | 296– | ⏭ next (original mode) |
+| A1 Textbook L13 生日快樂 | 296–325 (book p. 269–298) | ✅ complete — original mode (7 grammar points: 一…就…, verbal 了, 不 vs. 沒 negation, all-inclusive question words, 多/少+verb, 是不是, 跟…一樣) |
+| A1 Textbook L14 天氣這麼冷！ | 326– | ⏭ next (original mode) |
 | all other lessons | — | page images until migrated |
 
 ### Original mode (from A1 L6 onward, chosen 2026-11-17)

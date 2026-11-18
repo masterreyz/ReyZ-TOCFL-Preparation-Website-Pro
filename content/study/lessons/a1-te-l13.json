@@ -1,0 +1,1407 @@
+{
+ "id": "a1-te-l13",
+ "title": "生日快樂 Happy Birthday",
+ "status": "complete",
+ "mode": "original",
+ "statusDetail": "Materi ini ditulis ulang secara orisinal untuk situs ini berdasarkan topik, daftar kosakata, dan pola tata bahasa buku (hlm. buku 269–298): penjelasan, contoh kalimat, dialog latihan, soal, dan catatan budaya memakai kata-kata sendiri. Dialog, latihan bergambar, dan foto asli ada di buku; audio trek asli tetap ditautkan.",
+ "transcribedBy": "Ditulis ulang secara orisinal berdasarkan isi buku, diperiksa terhadap halaman asli, 2026-11-17",
+ "blocks": [
+  {
+   "type": "heading",
+   "id": "h-obj",
+   "en": "Learning Objectives",
+   "zh": "學習目標",
+   "source": {
+    "pages": [
+     269
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "obj",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Topic: 社交生活 Social Life"
+    },
+    {
+     "lang": "en",
+     "text": "• Learning to make appointments on the phone."
+    },
+    {
+     "lang": "en",
+     "text": "• Learning to ask friends about their dietary preferences."
+    },
+    {
+     "lang": "en",
+     "text": "• Learning to compare cultures."
+    },
+    {
+     "lang": "en",
+     "text": "• Learning to express wishes to others on special occasions and to respond appropriately."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-d1",
+   "en": "Dialogue I",
+   "zh": "對話一",
+   "source": {
+    "pages": [
+     270
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "d1-audio",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Practice dialogue written for this site with the vocabulary of Dialogue I. The book’s own Dialogue I is on book p. 270; its recording is track 13-01."
+    }
+   ],
+   "track": "13-01"
+  },
+  {
+   "type": "dialogue",
+   "id": "d1",
+   "lines": [
+    {
+     "spk": "如玉",
+     "zh": "喂，請問田中在不在？",
+     "py": "Wéi, qǐngwèn Tiánzhōng zài bú zài?"
+    },
+    {
+     "spk": "田中",
+     "zh": "我就是，如玉，好久不見！聽說妳去高雄玩了？",
+     "py": "Wǒ jiù shì, Rúyù, hǎojiǔ bújiàn! Tīngshuō nǐ qù Gāoxióng wán le?"
+    },
+    {
+     "spk": "如玉",
+     "zh": "沒有啊，我剛從花蓮回來。",
+     "py": "Méiyǒu a, wǒ gāng cóng Huālián huílái."
+    },
+    {
+     "spk": "田中",
+     "zh": "妳找我有事嗎？",
+     "py": "Nǐ zhǎo wǒ yǒu shì ma?"
+    },
+    {
+     "spk": "如玉",
+     "zh": "後天是你的生日，你不記得了嗎？",
+     "py": "Hòutiān shì nǐ de shēngrì, nǐ bù jìde le ma?"
+    },
+    {
+     "spk": "田中",
+     "zh": "啊！我怎麼忘了！最近太忙了，謝謝妳還記得。",
+     "py": "A! Wǒ zěnme wàng le! Zuìjìn tài máng le, xièxie nǐ hái jìde."
+    },
+    {
+     "spk": "如玉",
+     "zh": "我當然記得。上次語言交換，你那麼熱心地教我法文呢！",
+     "py": "Wǒ dāngrán jìde. Shàngcì yǔyán jiāohuàn, nǐ nàme rèxīn de jiāo wǒ Fǎwén ne!"
+    },
+    {
+     "spk": "田中",
+     "zh": "妳對我真好，妳也教了我不少中文。",
+     "py": "Nǐ duì wǒ zhēn hǎo, nǐ yě jiāole wǒ bùshǎo Zhōngwén."
+    },
+    {
+     "spk": "如玉",
+     "zh": "明天我想請你吃晚飯，幫你過生日，好不好？",
+     "py": "Míngtiān wǒ xiǎng qǐng nǐ chī wǎnfàn, bāng nǐ guò shēngrì, hǎo bù hǎo?"
+    },
+    {
+     "spk": "田中",
+     "zh": "太客氣了！那要約幾點，在哪裡見面？",
+     "py": "Tài kèqì le! Nà yào yuē jǐ diǎn, zài nǎlǐ jiànmiàn?"
+    },
+    {
+     "spk": "如玉",
+     "zh": "我一下課，就去圖書館門口等你，六點左右，好嗎？",
+     "py": "Wǒ yí xiàkè, jiù qù túshūguǎn ménkǒu děng nǐ, liù diǎn zuǒyòu, hǎo ma?"
+    },
+    {
+     "spk": "田中",
+     "zh": "好，明天見！",
+     "py": "Hǎo, míngtiān jiàn!"
+    }
+   ],
+   "translation": [
+    {
+     "spk": "Ruyu",
+     "en": "Hello, is Tanaka there, please?"
+    },
+    {
+     "spk": "Tanaka",
+     "en": "This is he. Ruyu, long time no see! I heard you went to Kaohsiung?"
+    },
+    {
+     "spk": "Ruyu",
+     "en": "No, I just got back from Hualien."
+    },
+    {
+     "spk": "Tanaka",
+     "en": "Did you call me for some reason?"
+    },
+    {
+     "spk": "Ruyu",
+     "en": "The day after tomorrow is your birthday — don’t you remember?"
+    },
+    {
+     "spk": "Tanaka",
+     "en": "Oh! How did I forget that? I’ve been so busy lately. Thanks for remembering."
+    },
+    {
+     "spk": "Ruyu",
+     "en": "Of course I remember. During our language exchange, you were so enthusiastic about teaching me French!"
+    },
+    {
+     "spk": "Tanaka",
+     "en": "You’re too kind to me. You taught me quite a bit of Chinese too."
+    },
+    {
+     "spk": "Ruyu",
+     "en": "I’d like to treat you to dinner tomorrow to celebrate your birthday — is that all right?"
+    },
+    {
+     "spk": "Tanaka",
+     "en": "That’s very kind of you! What time should we meet, and where?"
+    },
+    {
+     "spk": "Ruyu",
+     "en": "As soon as I get out of class, I’ll go wait for you at the library entrance, around six — is that okay?"
+    },
+    {
+     "spk": "Tanaka",
+     "en": "Sure, see you tomorrow!"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-v1",
+   "en": "Vocabulary I",
+   "zh": "生詞一",
+   "source": {
+    "pages": [
+     272
+    ]
+   }
+  },
+  {
+   "type": "vocab",
+   "id": "v1-vocab",
+   "title": "Vocabulary",
+   "items": [
+    {
+     "n": 1,
+     "zh": "生日",
+     "py": "shēngrì",
+     "pos": "N",
+     "en": "birthday"
+    },
+    {
+     "n": 2,
+     "zh": "快樂",
+     "py": "kuàilè",
+     "pos": "Vs",
+     "en": "happy"
+    },
+    {
+     "n": 3,
+     "zh": "回來",
+     "py": "huílái",
+     "pos": "Vi",
+     "en": "to come back"
+    },
+    {
+     "n": 4,
+     "zh": "啊",
+     "py": "a",
+     "pos": "Ptc",
+     "en": "particle indicating a realization"
+    },
+    {
+     "n": 5,
+     "zh": "怎麼",
+     "py": "zěnme",
+     "pos": "Adv",
+     "en": "how come?"
+    },
+    {
+     "n": 6,
+     "zh": "忘（了）",
+     "py": "wàngle",
+     "pos": "Vpt",
+     "en": "to forget"
+    },
+    {
+     "n": 7,
+     "zh": "記得",
+     "py": "jìde",
+     "pos": "Vst",
+     "en": "to remember"
+    },
+    {
+     "n": 8,
+     "zh": "當然",
+     "py": "dāngrán",
+     "pos": "Adv",
+     "en": "certainly, of course"
+    },
+    {
+     "n": 9,
+     "zh": "語言",
+     "py": "yǔyán",
+     "pos": "N",
+     "en": "language"
+    },
+    {
+     "n": 10,
+     "zh": "交換",
+     "py": "jiāohuàn",
+     "pos": "V",
+     "en": "to exchange"
+    },
+    {
+     "n": 11,
+     "zh": "那麼",
+     "py": "nàme",
+     "pos": "Adv",
+     "en": "so (very)"
+    },
+    {
+     "n": 12,
+     "zh": "熱心",
+     "py": "rèxīn",
+     "pos": "Vs",
+     "en": "with enthusiasm"
+    },
+    {
+     "n": 13,
+     "zh": "西班牙文",
+     "py": "Xībānyá wén",
+     "pos": "N",
+     "en": "the Spanish language"
+    },
+    {
+     "n": 14,
+     "zh": "一樣",
+     "py": "yíyàng",
+     "pos": "Vs",
+     "en": "the same, alike"
+    },
+    {
+     "n": 15,
+     "zh": "過",
+     "py": "guò",
+     "pos": "V",
+     "en": "to celebrate"
+    },
+    {
+     "n": 16,
+     "zh": "左右",
+     "py": "zuǒyòu",
+     "pos": "N",
+     "en": "approximately"
+    },
+    {
+     "n": 17,
+     "zh": "門口",
+     "py": "ménkǒu",
+     "pos": "N",
+     "en": "gate, entrance"
+    }
+   ],
+   "track": "13-02",
+   "source": {
+    "pages": [
+     272
+    ]
+   }
+  },
+  {
+   "type": "vocab",
+   "id": "v1-names",
+   "title": "Names",
+   "items": [
+    {
+     "n": 18,
+     "zh": "西班牙",
+     "py": "Xībānyá",
+     "pos": "",
+     "en": "Spain"
+    }
+   ],
+   "source": {
+    "pages": [
+     272
+    ]
+   }
+  },
+  {
+   "type": "vocab",
+   "id": "v1-phrases",
+   "title": "Phrases",
+   "items": [
+    {
+     "n": 19,
+     "zh": "生日快樂",
+     "py": "shēngrì kuàilè",
+     "pos": "",
+     "en": "Happy Birthday."
+    },
+    {
+     "n": 20,
+     "zh": "我就是",
+     "py": "wǒ jiù shì",
+     "pos": "",
+     "en": "(said of self on the phone) This is s/he speaking."
+    },
+    {
+     "n": 21,
+     "zh": "好久不見",
+     "py": "hǎojiǔ bújiàn",
+     "pos": "",
+     "en": "long time no see"
+    },
+    {
+     "n": 22,
+     "zh": "不必客氣",
+     "py": "búbì kèqì",
+     "pos": "",
+     "en": "No need to stand on formalities, i.e., It’s my pleasure."
+    },
+    {
+     "n": 23,
+     "zh": "太客氣",
+     "py": "tài kèqì",
+     "pos": "",
+     "en": "That’s very kind of you."
+    }
+   ],
+   "source": {
+    "pages": [
+     273
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "h-d2",
+   "en": "Dialogue II",
+   "zh": "對話二",
+   "source": {
+    "pages": [
+     274
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "d2-audio",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Practice dialogue written for this site with the vocabulary of Dialogue II. The book’s own Dialogue II is on book p. 274; its recording is track 13-03."
+    }
+   ],
+   "track": "13-03"
+  },
+  {
+   "type": "dialogue",
+   "id": "d2",
+   "lines": [
+    {
+     "spk": "田中",
+     "zh": "如玉，謝謝妳請我到這家餐廳吃飯，這家的菜看起來都很好吃。",
+     "py": "Rúyù, xièxie nǐ qǐng wǒ dào zhè jiā cāntīng chīfàn, zhè jiā de cài kàn qǐlái dōu hěn hǎochī."
+    },
+    {
+     "spk": "如玉",
+     "zh": "不必客氣，這是我給你的生日禮物。",
+     "py": "Búbì kèqì, zhè shì wǒ gěi nǐ de shēngrì lǐwù."
+    },
+    {
+     "spk": "田中",
+     "zh": "謝謝！真開心，今年有臺灣朋友幫我過生日。",
+     "py": "Xièxie! Zhēn kāixīn, jīnnián yǒu Táiwān péngyǒu bāng wǒ guò shēngrì."
+    },
+    {
+     "spk": "如玉",
+     "zh": "你有沒有不吃的東西？",
+     "py": "Nǐ yǒu méiyǒu bù chī de dōngxi?"
+    },
+    {
+     "spk": "田中",
+     "zh": "我什麼都吃，不過海鮮吃得比較少。",
+     "py": "Wǒ shénme dōu chī, búguò hǎixiān chī de bǐjiào shǎo."
+    },
+    {
+     "spk": "如玉",
+     "zh": "那我多點一點蔬菜，少點一點海鮮。",
+     "py": "Nà wǒ duō diǎn yìdiǎn shūcài, shǎo diǎn yìdiǎn hǎixiān."
+    },
+    {
+     "spk": "田中",
+     "zh": "在你們國家，過生日是不是也都吃蛋糕？",
+     "py": "Zài nǐmen guójiā, guò shēngrì shìbúshì yě dōu chī dàngāo?"
+    },
+    {
+     "spk": "如玉",
+     "zh": "對啊，這是傳統，不過，現在大部分年輕人過生日還會跟朋友出去玩。",
+     "py": "Duì a, zhè shì chuántǒng, búguò, xiànzài dà bùfèn niánqīng rén guò shēngrì hái huì gēn péngyǒu chūqù wán."
+    },
+    {
+     "spk": "田中",
+     "zh": "那麼，你們過生日還會做什麼呢？",
+     "py": "Nàme, nǐmen guò shēngrì hái huì zuò shénme ne?"
+    },
+    {
+     "spk": "如玉",
+     "zh": "跟你一樣，也會吃蛋糕。我已經訂了一個生日蛋糕了。",
+     "py": "Gēn nǐ yíyàng, yě huì chī dàngāo. Wǒ yǐjīng dìngle yí ge shēngrì dàngāo le."
+    },
+    {
+     "spk": "田中",
+     "zh": "妳對我真好。",
+     "py": "Nǐ duì wǒ zhēn hǎo."
+    },
+    {
+     "spk": "如玉",
+     "zh": "田中，祝你生日快樂、萬事如意、心想事成。",
+     "py": "Tiánzhōng, zhù nǐ shēngrì kuàilè, wànshì rúyì, xīnxiǎng shìchéng."
+    },
+    {
+     "spk": "田中",
+     "zh": "謝謝！謝謝！",
+     "py": "Xièxie! Xièxie!"
+    }
+   ],
+   "translation": [
+    {
+     "spk": "Tanaka",
+     "en": "Ruyu, thanks for treating me to this restaurant. Everything here looks delicious."
+    },
+    {
+     "spk": "Ruyu",
+     "en": "No need to stand on formalities — this is my gift for you."
+    },
+    {
+     "spk": "Tanaka",
+     "en": "Thank you! I’m really happy that a Taiwanese friend is celebrating my birthday with me this year."
+    },
+    {
+     "spk": "Ruyu",
+     "en": "Is there anything you don’t eat?"
+    },
+    {
+     "spk": "Tanaka",
+     "en": "I eat anything, but I eat relatively little seafood."
+    },
+    {
+     "spk": "Ruyu",
+     "en": "Then I’ll order a bit more vegetables and a bit less seafood."
+    },
+    {
+     "spk": "Tanaka",
+     "en": "In your country, do people also eat cake on their birthdays?"
+    },
+    {
+     "spk": "Ruyu",
+     "en": "Yes. That’s a tradition, but most young people nowadays also go out with friends on their birthdays."
+    },
+    {
+     "spk": "Tanaka",
+     "en": "Then what else do you do on your birthday?"
+    },
+    {
+     "spk": "Ruyu",
+     "en": "Just like you, we eat cake too. I’ve already ordered a birthday cake."
+    },
+    {
+     "spk": "Tanaka",
+     "en": "You’re really nice to me."
+    },
+    {
+     "spk": "Ruyu",
+     "en": "Tanaka, Happy Birthday — I wish you the best in everything, and may all your wishes come true."
+    },
+    {
+     "spk": "Tanaka",
+     "en": "Thank you! Thank you!"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-v2",
+   "en": "Vocabulary II",
+   "zh": "生詞二",
+   "source": {
+    "pages": [
+     276
+    ]
+   }
+  },
+  {
+   "type": "vocab",
+   "id": "v2-vocab",
+   "title": "Vocabulary",
+   "items": [
+    {
+     "n": 1,
+     "zh": "禮物",
+     "py": "lǐwù",
+     "pos": "N",
+     "en": "gift, present"
+    },
+    {
+     "n": 2,
+     "zh": "今年",
+     "py": "jīnnián",
+     "pos": "N",
+     "en": "this year"
+    },
+    {
+     "n": 3,
+     "zh": "訂",
+     "py": "dìng",
+     "pos": "V",
+     "en": "to order (something in advance)"
+    },
+    {
+     "n": 4,
+     "zh": "了",
+     "py": "le",
+     "pos": "Ptc",
+     "en": "verbal particle indicating a completed action"
+    },
+    {
+     "n": 5,
+     "zh": "豬腳",
+     "py": "zhūjiǎo",
+     "pos": "N",
+     "en": "pork knuckles"
+    },
+    {
+     "n": 6,
+     "zh": "麵線",
+     "py": "miànxiàn",
+     "pos": "N",
+     "en": "extra fine noodles"
+    },
+    {
+     "n": 7,
+     "zh": "蛋",
+     "py": "dàn",
+     "pos": "N",
+     "en": "egg"
+    },
+    {
+     "n": 8,
+     "zh": "一點",
+     "py": "yìdiǎn",
+     "pos": "Vs",
+     "en": "a little, some"
+    },
+    {
+     "n": 9,
+     "zh": "傳統",
+     "py": "chuántǒng",
+     "pos": "N",
+     "en": "tradition, customs"
+    },
+    {
+     "n": 10,
+     "zh": "年輕",
+     "py": "niánqīng",
+     "pos": "Vs",
+     "en": "young"
+    },
+    {
+     "n": 11,
+     "zh": "蛋糕",
+     "py": "dàngāo",
+     "pos": "N",
+     "en": "cake"
+    },
+    {
+     "n": 12,
+     "zh": "對",
+     "py": "duì",
+     "pos": "Prep",
+     "en": "to"
+    },
+    {
+     "n": 13,
+     "zh": "祝",
+     "py": "zhù",
+     "pos": "V",
+     "en": "to wish (somebody happiness, good luck, etc.)"
+    }
+   ],
+   "track": "13-04",
+   "source": {
+    "pages": [
+     276
+    ]
+   }
+  },
+  {
+   "type": "vocab",
+   "id": "v2-phrases",
+   "title": "Phrases",
+   "items": [
+    {
+     "n": 14,
+     "zh": "哪裡，哪裡",
+     "py": "nǎlǐ, nǎlǐ",
+     "pos": "",
+     "en": "Don’t mention it, it’s my pleasure."
+    },
+    {
+     "n": 15,
+     "zh": "大部分",
+     "py": "dà bùfèn",
+     "pos": "",
+     "en": "most (of), mostly"
+    },
+    {
+     "n": 16,
+     "zh": "萬事如意",
+     "py": "wànshì rúyì",
+     "pos": "",
+     "en": "May everything go your way."
+    },
+    {
+     "n": 17,
+     "zh": "心想事成",
+     "py": "xīnxiǎng shìchéng",
+     "pos": "",
+     "en": "May all your wishes come true."
+    }
+   ],
+   "source": {
+    "pages": [
+     276
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "h-gr",
+   "en": "Grammar",
+   "zh": "文法",
+   "source": {
+    "pages": [
+     277
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "g1",
+   "en": "I. 一 yī…就 jiù… as soon as…",
+   "level": 3,
+   "source": {
+    "pages": [
+     277
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g1-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: The pattern 一 A 就 B describes a sequence of two events, with B happening right after A. Both events can be affirmative or negative. 一 and 就 are adverbs and come after the subject of their own clause; when the subject of both clauses is the same, the second subject is usually dropped."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g1-ex",
+   "items": [
+    {
+     "zh": "我一下課，就去圖書館門口等你。",
+     "py": "Wǒ yí xiàkè, jiù qù túshūguǎn ménkǒu děng nǐ.",
+     "en": "I’ll go wait for you at the library entrance as soon as I’m out of class."
+    },
+    {
+     "zh": "他一記得你的生日，就馬上打電話給你。",
+     "py": "Tā yí jìde nǐ de shēngrì, jiù mǎshàng dǎ diànhuà gěi nǐ.",
+     "en": "As soon as he remembered your birthday, he called you right away."
+    },
+    {
+     "zh": "我朋友一回來，就訂了一個蛋糕。",
+     "py": "Wǒ péngyǒu yì huílái, jiù dìngle yí ge dàngāo.",
+     "en": "As soon as my friend got back, she ordered a cake."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "g1-x",
+   "title": "練習 Exercise",
+   "instruction": "Complete each sentence using 一…就….",
+   "items": [
+    {
+     "prompt": "我一聽說他的生日，＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "她一到餐廳，＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "我們一吃完蛋糕，＿＿＿＿＿＿。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "g2",
+   "en": "II. Completed Action with Verbal 了 le",
+   "level": 3,
+   "source": {
+    "pages": [
+     277,
+     278
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g2-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: The verbal 了 is added right after the verb to show that an action has already happened or been completed, in contrast to a plan that has not yet taken place. 了 does not appear in negative sentences — 沒 replaces it instead — and questions add 沒有 at the end of the sentence."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g2-ex",
+   "items": [
+    {
+     "zh": "如玉已經訂了一個生日蛋糕。",
+     "py": "Rúyù yǐjīng dìngle yí ge shēngrì dàngāo.",
+     "en": "Ruyu has already ordered a birthday cake."
+    },
+    {
+     "zh": "他昨天教了我一點西班牙文。",
+     "py": "Tā zuótiān jiāole wǒ yìdiǎn Xībānyá wén.",
+     "en": "He taught me a little Spanish yesterday."
+    },
+    {
+     "zh": "我吃了豬腳麵線，也吃了蛋糕。",
+     "py": "Wǒ chīle zhūjiǎo miànxiàn, yě chīle dàngāo.",
+     "en": "I ate pork-knuckle noodles, and I also had cake."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g2-neg",
+   "items": [
+    {
+     "zh": "我今天沒訂蛋糕，明天再訂。",
+     "py": "Wǒ jīntiān méi dìng dàngāo, míngtiān zài dìng.",
+     "en": "I didn’t order the cake today — I’ll order it tomorrow instead."
+    },
+    {
+     "zh": "他沒忘記你的生日，只是太忙了。",
+     "py": "Tā méi wàngjì nǐ de shēngrì, zhǐshì tài máng le.",
+     "en": "He didn’t forget your birthday — he was just too busy."
+    }
+   ],
+   "title": "Negation"
+  },
+  {
+   "type": "exercise",
+   "id": "g2-x",
+   "title": "練習 Exercise",
+   "instruction": "Fill in the blank with 了 or 沒, based on the cue.",
+   "items": [
+    {
+     "prompt": "我已經（打電話給他）了嗎？→ 我＿＿＿＿＿＿。（是）",
+     "hint": ""
+    },
+    {
+     "prompt": "她昨天（買禮物）＿＿＿＿＿＿嗎？（否，太晚了）",
+     "hint": ""
+    },
+    {
+     "prompt": "我今天（吃早餐）＿＿＿＿＿＿。（否）",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "g3",
+   "en": "III. 不 bù Negation vs. 沒 méi Negation",
+   "level": 3,
+   "source": {
+    "pages": [
+     278,
+     279,
+     280
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g3-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: 不 and 沒 are both negation markers, but they attach to different kinds of verbs. Action verbs can take either 不 (habitual or an intention not to) or 沒 (something that didn’t happen in the past). State verbs — adjective-like verbs such as 忙, 熱心, 一樣 — can only be negated by 不. Process verbs — verbs describing a change, such as 忘, 決定, 結束 — can only be negated by 沒."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g3-ex",
+   "items": [
+    {
+     "zh": "我平常不喝咖啡，不過今天想喝一杯。",
+     "py": "Wǒ píngcháng bù hē kāfēi, búguò jīntiān xiǎng hē yì bēi.",
+     "en": "I usually don’t drink coffee, but today I feel like having a cup. (habitual)"
+    },
+    {
+     "zh": "他不去夜市，想在家休息。",
+     "py": "Tā bú qù yèshì, xiǎng zài jiā xiūxí.",
+     "en": "He’s not going to the night market — he wants to rest at home. (intention)"
+    },
+    {
+     "zh": "昨天太忙了，我沒打電話給她。",
+     "py": "Zuótiān tài máng le, wǒ méi dǎ diànhuà gěi tā.",
+     "en": "I was too busy yesterday, so I didn’t call her. (non-happening, action verb)"
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g3-state",
+   "items": [
+    {
+     "zh": "這家餐廳的菜不貴，大家都喜歡來。",
+     "py": "Zhè jiā cāntīng de cài bú guì, dàjiā dōu xǐhuān lái.",
+     "en": "The food at this restaurant isn’t expensive — everyone likes to come."
+    },
+    {
+     "zh": "我的生日跟他的不一樣。",
+     "py": "Wǒ de shēngrì gēn tā de bù yíyàng.",
+     "en": "My birthday isn’t the same as his."
+    }
+   ],
+   "title": "Negation of state verbs (不 only)"
+  },
+  {
+   "type": "examples",
+   "id": "g3-process",
+   "items": [
+    {
+     "zh": "我還沒決定要訂什麼蛋糕。",
+     "py": "Wǒ hái méi juédìng yào dìng shénme dàngāo.",
+     "en": "I still haven’t decided what cake to order."
+    },
+    {
+     "zh": "語言交換還沒結束，我們再聊一下。",
+     "py": "Yǔyán jiāohuàn hái méi jiéshù, wǒmen zài liáo yíxià.",
+     "en": "The language exchange hasn’t ended yet — let’s chat a bit more."
+    }
+   ],
+   "title": "Negation of process verbs (沒 only)"
+  },
+  {
+   "type": "exercise",
+   "id": "g3-x",
+   "title": "練習 Exercise",
+   "instruction": "Fill in 不 or 沒 and briefly explain why.",
+   "items": [
+    {
+     "prompt": "他常常（　）記得朋友的生日。",
+     "hint": ""
+    },
+    {
+     "prompt": "這兩種蛋糕的味道（　）一樣。",
+     "hint": ""
+    },
+    {
+     "prompt": "我（　）決定要不要去語言交換。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "g4",
+   "en": "IV. All-inclusive with Question Words",
+   "level": 3,
+   "source": {
+    "pages": [
+     280,
+     281
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g4-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: Question words such as 誰, 哪裡, 什麼, 什麼時候, and 怎麼+V can appear in statements rather than questions. Paired with 都 dōu, they show total inclusion (“everyone”, “everywhere”, “no matter how”) in affirmative sentences; with 都 or 也 plus a negative, they show total exclusion (“no one”, “nowhere”, “not at all”)."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g4-ex",
+   "items": [
+    {
+     "zh": "誰都想在生日的時候收到禮物。",
+     "py": "Shéi dōu xiǎng zài shēngrì de shíhòu shōudào lǐwù.",
+     "en": "Everyone wants to receive a gift on their birthday."
+    },
+    {
+     "zh": "這家店的蛋糕什麼都好吃。",
+     "py": "Zhè jiā diàn de dàngāo shénme dōu hǎochī.",
+     "en": "Everything at this shop’s cake counter is delicious."
+    },
+    {
+     "zh": "他怎麼過生日都很開心。",
+     "py": "Tā zěnme guò shēngrì dōu hěn kāixīn.",
+     "en": "No matter how he celebrates his birthday, he’s always happy."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g4-neg",
+   "items": [
+    {
+     "zh": "今天太忙了，我哪裡都沒去。",
+     "py": "Jīntiān tài máng le, wǒ nǎlǐ dōu méi qù.",
+     "en": "I was too busy today — I didn’t go anywhere."
+    },
+    {
+     "zh": "他這個星期什麼時候都不在家，在準備考試。",
+     "py": "Tā zhè ge xīngqí shénme shíhòu dōu bú zài jiā, zài zhǔnbèi kǎoshì.",
+     "en": "He’s not home at all this week — he’s preparing for an exam."
+    }
+   ],
+   "title": "Negation"
+  },
+  {
+   "type": "exercise",
+   "id": "g4-x",
+   "title": "練習 Exercise",
+   "instruction": "Rewrite each sentence into an all-inclusive or all-exclusive pattern.",
+   "items": [
+    {
+     "prompt": "大家都喜歡吃豬腳麵線。→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "他早上、中午、晚上都在打電話。→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "這個禮物，他看了也不喜歡，摸了也不喜歡。→ ＿＿＿＿＿＿。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "g5",
+   "en": "V. More/Less…Than Planned with 多 duō / 少 shǎo + Verb…",
+   "level": 3,
+   "source": {
+    "pages": [
+     281,
+     282
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g5-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: Pre-verbal 多 (“more”) and 少 (“less/fewer”) describe doing more or less of an action than originally planned or than usual. 一點 often follows the object to soften the amount, and the pattern can describe either past or future actions."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g5-ex",
+   "items": [
+    {
+     "zh": "海鮮比較貴，我們少點一點。",
+     "py": "Hǎixiān bǐjiào guì, wǒmen shǎo diǎn yìdiǎn.",
+     "en": "Seafood is relatively pricey — let’s order a bit less."
+    },
+    {
+     "zh": "他喜歡吃蔬菜，我多買了一點。",
+     "py": "Tā xǐhuān chī shūcài, wǒ duō mǎile yìdiǎn.",
+     "en": "He likes vegetables, so I bought a bit extra."
+    },
+    {
+     "zh": "今年他的生日人比較多，我們應該多訂一個蛋糕。",
+     "py": "Jīnnián tā de shēngrì rén bǐjiào duō, wǒmen yīnggāi duō dìng yí ge dàngāo.",
+     "en": "More people are coming to his birthday this year, so we should order an extra cake."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "g5-x",
+   "title": "練習 Exercise",
+   "instruction": "Give a suggestion for each situation using 多/少 + Verb + 一點.",
+   "items": [
+    {
+     "prompt": "朋友最近很忙，常常很晚才睡覺。→ 他應該＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "你的中文不太好，可是你很少說中文。→ 你應該＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "這個星期你花了不少錢。→ 下個星期你應該＿＿＿＿＿＿。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "g6",
+   "en": "VI. 是不是 shìbúshì — is it true?",
+   "level": 3,
+   "source": {
+    "pages": [
+     282,
+     283
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g6-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: 是不是 asks for confirmation of something the speaker already believes or finds obvious, rather than asking for brand-new information, as 嗎 or A-not-A questions do. Structure: Subject + 是不是 + VP？ This pattern must be used, instead of A-not-A, with sentences that already contain 比 (comparison) or a degree adverb such as 太/很."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g6-ex",
+   "items": [
+    {
+     "zh": "你是不是忘了他的生日？",
+     "py": "Nǐ shìbúshì wàngle tā de shēngrì?",
+     "en": "You forgot his birthday, didn’t you?"
+    },
+    {
+     "zh": "這家餐廳是不是很有名？",
+     "py": "Zhè jiā cāntīng shìbúshì hěn yǒumíng?",
+     "en": "This restaurant is famous, isn’t it?"
+    },
+    {
+     "zh": "你是不是比他忙？",
+     "py": "Nǐ shìbúshì bǐ tā máng?",
+     "en": "You’re busier than him, aren’t you? (comparison — A-not-A is not possible here)"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "g6-x",
+   "title": "練習 Exercise",
+   "instruction": "Insert 是不是 into the right place in each sentence.",
+   "items": [
+    {
+     "prompt": "我們明天給他過生日。→ ＿＿＿＿＿＿？",
+     "hint": ""
+    },
+    {
+     "prompt": "你比較喜歡吃甜點。→ ＿＿＿＿＿＿？",
+     "hint": ""
+    },
+    {
+     "prompt": "他最近太忙了。→ ＿＿＿＿＿＿？",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "g7",
+   "en": "VII. Comparison with 跟 gēn…一樣 yíyàng",
+   "level": 3,
+   "source": {
+    "pages": [
+     283
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g7-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: 跟…一樣 compares two people or things and states that they are the same or equal; the quality being compared, if given, follows 一樣. Structure: A 跟 B 一樣 (state verb). Negating with 不 before 一樣 says the two are different; negating with 不 before 跟 instead shifts the “different” object, so the sentence then says what A is the same as."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g7-ex",
+   "items": [
+    {
+     "zh": "我的生日跟田中的一樣，都是十二月。",
+     "py": "Wǒ de shēngrì gēn Tiánzhōng de yíyàng, dōu shì shí'èr yuè.",
+     "en": "My birthday is the same as Tanaka’s — both are in December."
+    },
+    {
+     "zh": "這個蛋糕跟那個一樣甜。",
+     "py": "Zhè ge dàngāo gēn nàge yíyàng tián.",
+     "en": "This cake is just as sweet as that one."
+    },
+    {
+     "zh": "他跟我一樣，都喜歡交外國朋友。",
+     "py": "Tā gēn wǒ yíyàng, dōu xǐhuān jiāo wàiguó péngyǒu.",
+     "en": "He’s like me — we both enjoy making foreign friends."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g7-neg",
+   "items": [
+    {
+     "zh": "海鮮跟蔬菜不一樣貴。",
+     "py": "Hǎixiān gēn shūcài bù yíyàng guì.",
+     "en": "Seafood and vegetables don’t cost the same."
+    },
+    {
+     "zh": "他不跟我一樣高，跟如玉一樣高。",
+     "py": "Tā bù gēn wǒ yíyàng gāo, gēn Rúyù yíyàng gāo.",
+     "en": "He’s not the same height as me — he’s the same height as Ruyu."
+    }
+   ],
+   "title": "Negation"
+  },
+  {
+   "type": "exercise",
+   "id": "g7-x",
+   "title": "練習 Exercise",
+   "instruction": "Ask a question about each pair using 跟…一樣, with either the A-not-A form or 是不是.",
+   "items": [
+    {
+     "prompt": "牛肉麵／牛肉湯 → ＿＿＿＿＿＿？",
+     "hint": ""
+    },
+    {
+     "prompt": "今年的生日／去年的生日 → ＿＿＿＿＿＿？",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-act",
+   "en": "Classroom Activities",
+   "zh": "課室活動",
+   "source": {
+    "pages": [
+     294
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "act1",
+   "en": "I. Going to the Night Market",
+   "level": 3
+  },
+  {
+   "type": "text",
+   "id": "act1-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Learning to ask people about their preferences."
+    },
+    {
+     "lang": "en",
+     "text": "Task: You heard that a classmate went to the night market yesterday. Ask whether they tried each item below, using the verbal 了 pattern, e.g. 你昨天逛夜市，吃了珍珠奶茶沒有？ Possible answers: 喝了，很好喝 / 沒有，我點了別的飲料 / 我沒喝珍珠奶茶."
+    },
+    {
+     "lang": "en",
+     "text": "Items to ask about: 牛肉麵、小籠包、甜點、珍珠奶茶、臭豆腐、熱咖啡、芒果、豬腳、越南菜、西瓜、熱烏龍茶、牛肉湯."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "act2",
+   "en": "II. How Do You Celebrate Your Birthday?",
+   "level": 3,
+   "source": {
+    "pages": [
+     295
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "act2-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Learning to compare cultures briefly."
+    },
+    {
+     "lang": "en",
+     "text": "Task: Pair up with a classmate from a different country and ask each other how birthdays are celebrated back home. Check off which of the following apply, then report to the class the similarities and differences you found: family celebrates it for you / friends celebrate it for you / celebrated at home / eaten out at a restaurant / cake is eaten / friends give gifts / you buy your own cake to share with friends / pork-knuckle noodles are eaten / it’s different from how we do it here."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "act3",
+   "en": "III. Calling a Friend",
+   "level": 3,
+   "source": {
+    "pages": [
+     296
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "act3-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Learning to make appointments on the phone."
+    },
+    {
+     "lang": "en",
+     "text": "Task: Your teacher’s birthday is tomorrow. Pair up with a classmate and call each other to plan taking the teacher out for a meal. In your call, be sure to cover: why you’re inviting him/her, what time to meet, where to meet, and how everyone will find each other there."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "act4",
+   "en": "IV. Congratulatory Words",
+   "level": 3,
+   "source": {
+    "pages": [
+     296
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "act4-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Learning to express wishes on happy occasions."
+    },
+    {
+     "lang": "en",
+     "text": "Task: It’s your teacher’s birthday today. Write him or her a short card wishing them well, using at least one of the phrases 萬事如意 or 心想事成."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-cult",
+   "en": "Bits of Chinese Culture",
+   "zh": "文化",
+   "source": {
+    "pages": [
+     297
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "cult1",
+   "en": "Congratulatory Expressions in Chinese",
+   "level": 3
+  },
+  {
+   "type": "text",
+   "id": "cult1-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Chinese culture places a lot of value on saying the right caring thing, at the right moment, for the right occasion — this is part of why congratulatory expressions are so common. Most of these set sayings are four-character phrases with a fixed, auspicious meaning, often used together, such as 萬事如意、心想事成 wànshì rúyì, xīnxiǎng shìchéng, “may everything go your way and all your wishes come true” — probably the most all-purpose good wish of all, suitable for almost any happy occasion, not only birthdays. These phrases turn up everywhere from spoken well-wishes to red envelopes and decorative scrolls hung at home."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "cult2",
+   "en": "Taiwanese Birthdays",
+   "level": 3,
+   "source": {
+    "pages": [
+     297,
+     298
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "cult2-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Traditionally, birthdays in Taiwan were tracked by the lunar calendar, though most people today mark theirs by the regular Gregorian calendar instead. Birthdays matter a good deal in Taiwanese culture, and some are celebrated more elaborately than others: a baby’s first month and first full year are both commonly marked with a gathering, and so are milestone decades later in life, such as turning 60, 70, or 80. One well-known custom tied to a baby’s first birthday is 抓週 zhuāzhōu (“grabbing at the first year”): a variety of small objects are placed in front of the child, and whichever one they reach for and grab is taken as a playful sign of the kind of personality or career they might have later in life."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-self",
+   "en": "Self-Assessment Checklist",
+   "source": {
+    "pages": [
+     298
+    ]
+   }
+  },
+  {
+   "type": "checklist",
+   "id": "self",
+   "items": [
+    "I can make appointments on the phone.",
+    "I can ask friends about their dietary preferences.",
+    "I can compare cultures.",
+    "I can express wishes to others on special occasions and respond appropriately when others offer me wishes."
+   ]
+  }
+ ]
+}
