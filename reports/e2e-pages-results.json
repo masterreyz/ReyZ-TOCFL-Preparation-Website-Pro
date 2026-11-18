@@ -180,6 +180,26 @@
   "detail": ""
  },
  {
+  "test": "L11 renders all sections",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "L11 dialogue I read-all",
+  "ok": true,
+  "detail": "陳小姐，妳好，我姓高，我來看房子。高先生，你好，請進，請進。"
+ },
+ {
+  "test": "L11 grammar example speak",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "search finds L11 content",
+  "ok": true,
+  "detail": ""
+ },
+ {
   "test": "book page image loads",
   "ok": true,
   "detail": ""

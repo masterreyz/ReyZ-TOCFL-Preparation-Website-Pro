@@ -1,0 +1,1281 @@
+{
+ "id": "a1-te-l11",
+ "title": "我要租房子 I Would Like to Rent a Place",
+ "status": "complete",
+ "mode": "original",
+ "statusDetail": "Materi ini ditulis ulang secara orisinal untuk situs ini berdasarkan topik, daftar kosakata, dan pola tata bahasa buku (hlm. PDF 250–271): penjelasan, contoh kalimat, dialog latihan, soal, dan catatan budaya memakai kata-kata sendiri. Dialog, latihan bergambar, dan foto asli ada di buku; audio trek asli tetap ditautkan.",
+ "transcribedBy": "Ditulis ulang secara orisinal berdasarkan isi buku, diperiksa terhadap halaman asli, 2026-11-17",
+ "blocks": [
+  {
+   "type": "heading",
+   "id": "h-obj",
+   "en": "Learning Objectives",
+   "zh": "學習目標",
+   "source": {
+    "pages": [
+     250
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "obj",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Topic: 租房子 Renting a Place"
+    },
+    {
+     "lang": "en",
+     "text": "• Learning to talk about renting a place to live."
+    },
+    {
+     "lang": "en",
+     "text": "• Learning to talk about the environment of a room or a house."
+    },
+    {
+     "lang": "en",
+     "text": "• Learning to make requests, e.g., to one’s landlord."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-d1",
+   "en": "Dialogue I",
+   "zh": "對話一",
+   "source": {
+    "pages": [
+     251
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "d1-audio",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Practice dialogue written for this site with the vocabulary of Dialogue I. The book’s own Dialogue I is on book p. 224 (PDF p. 251); its recording is track 11-01."
+    }
+   ],
+   "track": "11-01"
+  },
+  {
+   "type": "dialogue",
+   "id": "d1",
+   "lines": [
+    {
+     "spk": "房客",
+     "zh": "陳小姐，妳好，我姓高，我來看房子。",
+     "py": "Chén xiǎojiě, nǐ hǎo, wǒ xìng Gāo, wǒ lái kàn fángzi."
+    },
+    {
+     "spk": "房東",
+     "zh": "高先生，你好，請進，請進。",
+     "py": "Gāo xiānshēng, nǐ hǎo, qǐng jìn, qǐng jìn."
+    },
+    {
+     "spk": "房東",
+     "zh": "這裡是客廳，右邊是廚房，廚房旁邊有浴室。",
+     "py": "Zhèlǐ shì kètīng, yòubiān shì chúfáng, chúfáng pángbiān yǒu yùshì."
+    },
+    {
+     "spk": "房客",
+     "zh": "房子不錯，很乾淨。",
+     "py": "Fángzi búcuò, hěn gānjìng."
+    },
+    {
+     "spk": "房東",
+     "zh": "這裡很方便，附近有超市，走路五分鐘就到了，捷運站也不遠。",
+     "py": "Zhèlǐ hěn fāngbiàn, fùjìn yǒu chāoshì, zǒulù wǔ fēnzhōng jiù dào le, jiéyùnzhàn yě bù yuǎn."
+    },
+    {
+     "spk": "房客",
+     "zh": "現在有人住嗎？",
+     "py": "Xiànzài yǒu rén zhù ma?"
+    },
+    {
+     "spk": "房東",
+     "zh": "沒有，還有一間空房間，是套房，房間裡面可以上網。",
+     "py": "Méi yǒu, hái yǒu yì jiān kōng fángjiān, shì tàofáng, fángjiān lǐmiàn kěyǐ shàngwǎng."
+    },
+    {
+     "spk": "房客",
+     "zh": "我想看看那間套房。妳覺得這個地方怎麼樣？",
+     "py": "Wǒ xiǎng kànkàn nà jiān tàofáng. Nǐ juéde zhè ge dìfāng zěnmeyàng?"
+    },
+    {
+     "spk": "房東",
+     "zh": "很安靜，而且有一個學生已經住了兩年了。",
+     "py": "Hěn ānjìng, érqiě yǒu yí ge xuéshēng yǐjīng zhù le liǎng nián le."
+    },
+    {
+     "spk": "房客",
+     "zh": "聽起來不錯，我回去想想，再打電話給妳。",
+     "py": "Tīng qǐlái búcuò, wǒ huíqù xiǎngxiǎng, zài dǎ diànhuà gěi nǐ."
+    }
+   ],
+   "translation": [
+    {
+     "spk": "Tenant",
+     "en": "Hi, Miss Chen. My name is Gao. I’m here to look at the place."
+    },
+    {
+     "spk": "Landlord",
+     "en": "Mr. Gao, please come in, come in."
+    },
+    {
+     "spk": "Landlord",
+     "en": "This is the living room. The kitchen is to the right, and there’s a bathroom next to the kitchen."
+    },
+    {
+     "spk": "Tenant",
+     "en": "The place is nice — very clean."
+    },
+    {
+     "spk": "Landlord",
+     "en": "It’s very convenient here. There’s a supermarket nearby, five minutes on foot, and the MRT station isn’t far either."
+    },
+    {
+     "spk": "Tenant",
+     "en": "Is anyone living here now?"
+    },
+    {
+     "spk": "Landlord",
+     "en": "No. There’s still one vacant room — a suite. You can get online from inside the room."
+    },
+    {
+     "spk": "Tenant",
+     "en": "I’d like to take a look at that suite. What do you think of this place?"
+    },
+    {
+     "spk": "Landlord",
+     "en": "It’s quiet, and a student has already been living here for two years."
+    },
+    {
+     "spk": "Tenant",
+     "en": "Sounds good. Let me go back and think about it, and I’ll call you again."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-v1",
+   "en": "Vocabulary I",
+   "zh": "生詞一",
+   "source": {
+    "pages": [
+     253
+    ]
+   }
+  },
+  {
+   "type": "vocab",
+   "id": "v1-vocab",
+   "title": "Vocabulary",
+   "items": [
+    {
+     "n": 1,
+     "zh": "租",
+     "py": "zū",
+     "pos": "V",
+     "en": "to rent"
+    },
+    {
+     "n": 2,
+     "zh": "房東",
+     "py": "fángdōng",
+     "pos": "N",
+     "en": "landlord"
+    },
+    {
+     "n": 3,
+     "zh": "客廳",
+     "py": "kètīng",
+     "pos": "N",
+     "en": "living room"
+    },
+    {
+     "n": 4,
+     "zh": "廚房",
+     "py": "chúfáng",
+     "pos": "N",
+     "en": "kitchen"
+    },
+    {
+     "n": 5,
+     "zh": "左邊",
+     "py": "zuǒbiān",
+     "pos": "N",
+     "en": "left (side)"
+    },
+    {
+     "n": 6,
+     "zh": "右邊",
+     "py": "yòubiān",
+     "pos": "N",
+     "en": "right (side)"
+    },
+    {
+     "n": 7,
+     "zh": "浴室",
+     "py": "yùshì",
+     "pos": "N",
+     "en": "bathroom"
+    },
+    {
+     "n": 8,
+     "zh": "超市",
+     "py": "chāoshì",
+     "pos": "N",
+     "en": "supermarket"
+    },
+    {
+     "n": 9,
+     "zh": "走路",
+     "py": "zǒulù",
+     "pos": "V-sep",
+     "en": "to walk"
+    },
+    {
+     "n": 10,
+     "zh": "分鐘",
+     "py": "fēnzhōng",
+     "pos": "M",
+     "en": "measure word for minutes"
+    },
+    {
+     "n": 11,
+     "zh": "就",
+     "py": "jiù",
+     "pos": "Adv",
+     "en": "only, merely"
+    },
+    {
+     "n": 12,
+     "zh": "到",
+     "py": "dào",
+     "pos": "Vp",
+     "en": "arrive"
+    },
+    {
+     "n": 13,
+     "zh": "間",
+     "py": "jiān",
+     "pos": "M",
+     "en": "measure word for houses, rooms, etc."
+    },
+    {
+     "n": 14,
+     "zh": "空",
+     "py": "kōng",
+     "pos": "Vs",
+     "en": "vacant, empty"
+    },
+    {
+     "n": 15,
+     "zh": "房間",
+     "py": "fángjiān",
+     "pos": "N",
+     "en": "room"
+    },
+    {
+     "n": 16,
+     "zh": "套房",
+     "py": "tàofáng",
+     "pos": "N",
+     "en": "suite"
+    },
+    {
+     "n": 17,
+     "zh": "回去",
+     "py": "huíqù",
+     "pos": "Vi",
+     "en": "to go back, to return"
+    },
+    {
+     "n": 18,
+     "zh": "想",
+     "py": "xiǎng",
+     "pos": "V",
+     "en": "to think"
+    },
+    {
+     "n": 19,
+     "zh": "再",
+     "py": "zài",
+     "pos": "Adv",
+     "en": "and then"
+    },
+    {
+     "n": 20,
+     "zh": "電話",
+     "py": "diànhuà",
+     "pos": "N",
+     "en": "telephone"
+    },
+    {
+     "n": 21,
+     "zh": "給",
+     "py": "gěi",
+     "pos": "Prep",
+     "en": "to"
+    }
+   ],
+   "track": "11-02",
+   "source": {
+    "pages": [
+     253
+    ]
+   }
+  },
+  {
+   "type": "vocab",
+   "id": "v1-names",
+   "title": "Names",
+   "items": [
+    {
+     "n": 22,
+     "zh": "林",
+     "py": "Lín",
+     "pos": "",
+     "en": "Chinese last name, common in Taiwan"
+    }
+   ],
+   "source": {
+    "pages": [
+     253
+    ]
+   }
+  },
+  {
+   "type": "vocab",
+   "id": "v1-phrases",
+   "title": "Phrases",
+   "items": [
+    {
+     "n": 23,
+     "zh": "打電話",
+     "py": "dǎ diànhuà",
+     "pos": "",
+     "en": "to make a phone call"
+    }
+   ],
+   "source": {
+    "pages": [
+     253
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "h-d2",
+   "en": "Dialogue II",
+   "zh": "對話二",
+   "source": {
+    "pages": [
+     254
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "d2-audio",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Practice dialogue written for this site with the vocabulary of Dialogue II. The book’s own Dialogue II is on book p. 227 (PDF p. 254); its recording is track 11-03."
+    }
+   ],
+   "track": "11-03"
+  },
+  {
+   "type": "dialogue",
+   "id": "d2",
+   "lines": [
+    {
+     "spk": "房客",
+     "zh": "喂，陳小姐，妳好，我是高明，妳收到我的房租了嗎？",
+     "py": "Wéi, Chén xiǎojiě, nǐ hǎo, wǒ shì Gāo Míng, nǐ shōudào wǒ de fángzū le ma?"
+    },
+    {
+     "spk": "房東",
+     "zh": "我已經收到了，謝謝。你習慣了嗎？",
+     "py": "Wǒ yǐjīng shōudào le, xièxie. Nǐ xíguàn le ma?"
+    },
+    {
+     "spk": "房客",
+     "zh": "習慣了。可是，有一個問題，房間裡的網路好像不太快。",
+     "py": "Xíguàn le. Kěshì, yǒu yí ge wèntí, fángjiān lǐ de wǎnglù hǎoxiàng bú tài kuài."
+    },
+    {
+     "spk": "房東",
+     "zh": "這樣啊，我今天會請人來看看。你什麼時候方便？晚上可以嗎？",
+     "py": "Zhèyàng a, wǒ jīntiān huì qǐng rén lái kànkàn. Nǐ shénme shíhòu fāngbiàn? Wǎnshàng kěyǐ ma?"
+    },
+    {
+     "spk": "房客",
+     "zh": "不好意思，今天晚上我有事，不能在家。",
+     "py": "Bùhǎo yìsi, jīntiān wǎnshàng wǒ yǒu shì, bù néng zài jiā."
+    },
+    {
+     "spk": "房東",
+     "zh": "沒關係，明天下午呢？",
+     "py": "Méi guānxi, míngtiān xiàwǔ ne?"
+    },
+    {
+     "spk": "房客",
+     "zh": "好，我在家等你們。",
+     "py": "Hǎo, wǒ zài jiā děng nǐmen."
+    },
+    {
+     "spk": "房東",
+     "zh": "那我們明天下午三點到。還有問題嗎？",
+     "py": "Nà wǒmen míngtiān xiàwǔ sāndiǎn dào. Hái yǒu wèntí ma?"
+    },
+    {
+     "spk": "房客",
+     "zh": "我想裝冷氣，請問可以嗎？",
+     "py": "Wǒ xiǎng zhuāng lěngqì, qǐngwèn kěyǐ ma?"
+    },
+    {
+     "spk": "房東",
+     "zh": "可以，不過你得自己付錢。",
+     "py": "Kěyǐ, búguò nǐ děi zìjǐ fùqián."
+    },
+    {
+     "spk": "房客",
+     "zh": "好的，謝謝妳。",
+     "py": "Hǎode, xièxie nǐ."
+    }
+   ],
+   "translation": [
+    {
+     "spk": "Tenant",
+     "en": "Hello, Miss Chen. This is Gao Ming. Have you received my rent?"
+    },
+    {
+     "spk": "Landlord",
+     "en": "I’ve received it, thank you. Have you settled in alright?"
+    },
+    {
+     "spk": "Tenant",
+     "en": "Yes. But there’s a problem — the internet in the room doesn’t seem very fast."
+    },
+    {
+     "spk": "Landlord",
+     "en": "I see. I’ll have someone come take a look today. When’s convenient for you? Is tonight okay?"
+    },
+    {
+     "spk": "Tenant",
+     "en": "Sorry, I have plans tonight — I won’t be home."
+    },
+    {
+     "spk": "Landlord",
+     "en": "That’s fine. How about tomorrow afternoon?"
+    },
+    {
+     "spk": "Tenant",
+     "en": "Okay, I’ll wait for you at home."
+    },
+    {
+     "spk": "Landlord",
+     "en": "Then we’ll be there at three tomorrow afternoon. Any other problems?"
+    },
+    {
+     "spk": "Tenant",
+     "en": "I’d like to install an air conditioner. Would that be okay?"
+    },
+    {
+     "spk": "Landlord",
+     "en": "Yes, but you’ll have to pay for it yourself."
+    },
+    {
+     "spk": "Tenant",
+     "en": "Alright, thank you."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-v2",
+   "en": "Vocabulary II",
+   "zh": "生詞二",
+   "source": {
+    "pages": [
+     256
+    ]
+   }
+  },
+  {
+   "type": "vocab",
+   "id": "v2-vocab",
+   "title": "Vocabulary",
+   "items": [
+    {
+     "n": 1,
+     "zh": "喂",
+     "py": "wéi",
+     "pos": "Ptc",
+     "en": "a particle used in addressing people, especially over the phone"
+    },
+    {
+     "n": 2,
+     "zh": "房租",
+     "py": "fángzū",
+     "pos": "N",
+     "en": "rent (for a room or a house)"
+    },
+    {
+     "n": 3,
+     "zh": "已經",
+     "py": "yǐjīng",
+     "pos": "Adv",
+     "en": "already"
+    },
+    {
+     "n": 4,
+     "zh": "習慣",
+     "py": "xíguàn",
+     "pos": "Vs",
+     "en": "to get settled down, to get used to"
+    },
+    {
+     "n": 5,
+     "zh": "問題",
+     "py": "wèntí",
+     "pos": "N",
+     "en": "problem, question"
+    },
+    {
+     "n": 6,
+     "zh": "熱水器",
+     "py": "rèshuǐqì",
+     "pos": "N",
+     "en": "water heater"
+    },
+    {
+     "n": 7,
+     "zh": "好像",
+     "py": "hǎoxiàng",
+     "pos": "Adv",
+     "en": "to seem to be, to appear to be"
+    },
+    {
+     "n": 8,
+     "zh": "會",
+     "py": "huì",
+     "pos": "Vaux",
+     "en": "will"
+    },
+    {
+     "n": 9,
+     "zh": "等",
+     "py": "děng",
+     "pos": "V",
+     "en": "to wait for"
+    },
+    {
+     "n": 10,
+     "zh": "那",
+     "py": "nà",
+     "pos": "Ptc",
+     "en": "then, in that case"
+    },
+    {
+     "n": 11,
+     "zh": "裝",
+     "py": "zhuāng",
+     "pos": "V",
+     "en": "to install"
+    },
+    {
+     "n": 12,
+     "zh": "不過",
+     "py": "búguò",
+     "pos": "Conj",
+     "en": "however, but"
+    },
+    {
+     "n": 13,
+     "zh": "付",
+     "py": "fù",
+     "pos": "V",
+     "en": "to pay"
+    }
+   ],
+   "track": "11-04",
+   "source": {
+    "pages": [
+     256
+    ]
+   }
+  },
+  {
+   "type": "vocab",
+   "id": "v2-phrases",
+   "title": "Phrases",
+   "items": [
+    {
+     "n": 14,
+     "zh": "收到",
+     "py": "shōudào",
+     "pos": "",
+     "en": "to receive"
+    },
+    {
+     "n": 15,
+     "zh": "不好意思",
+     "py": "bùhǎo yìsi",
+     "pos": "",
+     "en": "sorry"
+    },
+    {
+     "n": 16,
+     "zh": "沒關係",
+     "py": "méi guānxi",
+     "pos": "",
+     "en": "Not a problem."
+    },
+    {
+     "n": 17,
+     "zh": "有線電視",
+     "py": "yǒuxiàn diànshì",
+     "pos": "",
+     "en": "cable TV"
+    }
+   ],
+   "source": {
+    "pages": [
+     256
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "h-gr",
+   "en": "Grammar",
+   "zh": "文法",
+   "source": {
+    "pages": [
+     257
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "g1",
+   "en": "I. To Come to Do Something with 來 lái",
+   "level": 3,
+   "source": {
+    "pages": [
+     257
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g1-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: 來 lái + VP indicates the subject’s intention of coming over to do something. Negation markers, auxiliary verbs, or adverbs go before the first verbal element 來."
+    },
+    {
+     "lang": "en",
+     "text": "The function of 來 + VP here is the same as that of 去 + VP introduced in Lesson 3 — the only difference is the direction of the subject’s action: 來 is toward the speaker’s location, and 去 is away from it."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g1-ex",
+   "items": [
+    {
+     "zh": "我來看房子。",
+     "py": "Wǒ lái kàn fángzi.",
+     "en": "I’ve come to look at the place."
+    },
+    {
+     "zh": "房東來裝有線電視。",
+     "py": "Fángdōng lái zhuāng yǒuxiàn diànshì.",
+     "en": "The landlord has come to install cable TV."
+    },
+    {
+     "zh": "我跟朋友來看套房。",
+     "py": "Wǒ gēn péngyǒu lái kàn tàofáng.",
+     "en": "My friend and I have come to look at the suite."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g1-neg",
+   "items": [
+    {
+     "zh": "我今天很忙，不來看房子了。",
+     "py": "Wǒ jīntiān hěn máng, bù lái kàn fángzi le.",
+     "en": "I’m busy today — I won’t come look at the place after all."
+    },
+    {
+     "zh": "他不跟我來看房間。",
+     "py": "Tā bù gēn wǒ lái kàn fángjiān.",
+     "en": "He isn’t coming with me to look at the room."
+    }
+   ],
+   "title": "Negation"
+  },
+  {
+   "type": "examples",
+   "id": "g1-q",
+   "items": [
+    {
+     "zh": "你要來看套房嗎？",
+     "py": "Nǐ yào lái kàn tàofáng ma?",
+     "en": "Are you coming to look at the suite?"
+    },
+    {
+     "zh": "房東會不會來修熱水器？",
+     "py": "Fángdōng huì bú huì lái xiū rèshuǐqì?",
+     "en": "Is the landlord coming to fix the water heater?"
+    }
+   ],
+   "title": "Questions"
+  },
+  {
+   "type": "exercise",
+   "id": "g1-x",
+   "title": "練習 Exercise",
+   "instruction": "Complete each sentence with 來 or 去 + VP, choosing the direction that fits.",
+   "items": [
+    {
+     "prompt": "[speaking to the landlord, who is at the house] 我明天下午三點＿＿＿＿＿＿（看房子）。",
+     "hint": ""
+    },
+    {
+     "prompt": "[speaking to a friend about visiting them] 我星期六＿＿＿＿＿＿（找你）。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "g2",
+   "en": "II. Sooner Than Expected with 就 jiù",
+   "level": 3,
+   "source": {
+    "pages": [
+     258
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g2-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: When 就 refers to time or place, the event being discussed takes place sooner than expected. 就 often co-occurs with the sentence-final 了, though the sentence means the same with or without 了."
+    },
+    {
+     "lang": "en",
+     "text": "就 is a high-frequency adverb with several functions — this lesson introduces its “sooner than expected” sense within a single sentence; Lesson 9 introduced a different, linking use of 就 (connecting 要是…就…)."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g2-ex",
+   "items": [
+    {
+     "zh": "這裡很方便，走路五分鐘就到了。",
+     "py": "Zhèlǐ hěn fāngbiàn, zǒulù wǔ fēnzhōng jiù dào le.",
+     "en": "It’s very convenient here — five minutes on foot and you’re there."
+    },
+    {
+     "zh": "那家房東不遠，很快就到了。",
+     "py": "Nà jiā fángdōng bù yuǎn, hěn kuài jiù dào le.",
+     "en": "That landlord’s place isn’t far — you’ll get there very quickly."
+    },
+    {
+     "zh": "房東等一下就來。",
+     "py": "Fángdōng děng yíxià jiù lái.",
+     "en": "The landlord will be here in a bit."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "g2-x",
+   "title": "練習 Exercise",
+   "instruction": "Complete each sentence with 就 (plus 了 when appropriate).",
+   "items": [
+    {
+     "prompt": "套房很近，坐捷運兩分鐘＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "房東今天沒事，下午三點＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "他剛打電話給我，他說等一下＿＿＿＿＿＿。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "g3",
+   "en": "III. Existential Subject with 有 yǒu",
+   "level": 3,
+   "source": {
+    "pages": [
+     259,
+     260
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g3-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: 有 introduces the existence of an indefinite subject; the following VP describes what that subject does. The subject in Chinese is usually definite, so when it is indefinite it must be preceded by 有. 有 is always negated with 沒."
+    },
+    {
+     "lang": "en",
+     "text": "“有 + NP + 在 + location” means the same as “location + 有 + NP”, but the two differ in focus: 地上有一支手機 (‘The floor has a cellphone on it’) focuses on the floor, while 有一支手機在地上 (‘There is a cellphone on the floor’) focuses on the cellphone."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g3-ex",
+   "items": [
+    {
+     "zh": "有人要租這間套房。",
+     "py": "Yǒu rén yào zū zhè jiān tàofáng.",
+     "en": "Someone wants to rent this suite."
+    },
+    {
+     "zh": "有兩個學生來看房子。",
+     "py": "Yǒu liǎng ge xuéshēng lái kàn fángzi.",
+     "en": "Two students have come to look at the place."
+    },
+    {
+     "zh": "昨天有一個先生來修熱水器。",
+     "py": "Zuótiān yǒu yí ge xiānshēng lái xiū rèshuǐqì.",
+     "en": "Yesterday a man came to fix the water heater."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g3-neg",
+   "items": [
+    {
+     "zh": "這間套房沒有人住。",
+     "py": "Zhè jiān tàofáng méi yǒu rén zhù.",
+     "en": "No one is living in this suite."
+    },
+    {
+     "zh": "沒有人想租那個房間。",
+     "py": "Méi yǒu rén xiǎng zū nà ge fángjiān.",
+     "en": "No one wants to rent that room."
+    }
+   ],
+   "title": "Negation"
+  },
+  {
+   "type": "examples",
+   "id": "g3-q",
+   "items": [
+    {
+     "zh": "有沒有人要看這間房子？",
+     "py": "Yǒu méi yǒu rén yào kàn zhè jiān fángzi?",
+     "en": "Is there anyone who wants to see this place?"
+    },
+    {
+     "zh": "有沒有人不喜歡住套房？",
+     "py": "Yǒu méi yǒu rén bù xǐhuān zhù tàofáng?",
+     "en": "Is there anyone who doesn’t like living in a suite?"
+    }
+   ],
+   "title": "Questions"
+  },
+  {
+   "type": "exercise",
+   "id": "g3-x",
+   "title": "練習 Exercise",
+   "instruction": "Rearrange each set of words into an existential-subject sentence.",
+   "items": [
+    {
+     "prompt": "一個房客／有／在／打電話 → ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "有／照相／一個小姐／在客廳 → ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "人／有／來看房子／今天早上 → ＿＿＿＿＿＿？",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "g4",
+   "en": "IV. Different Types of 會 huì",
+   "level": 3,
+   "source": {
+    "pages": [
+     260
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g4-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: 會 has two different meanings. The first, from Lesson 5, refers to an acquired skill — 會₁. The second, introduced here, refers to possibility or likelihood — 會₂."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g4-ex",
+   "items": [
+    {
+     "zh": "房東會修熱水器。（會₁）",
+     "py": "Fángdōng huì xiū rèshuǐqì. (huì₁)",
+     "en": "The landlord knows how to fix water heaters. (acquired skill)"
+    },
+    {
+     "zh": "我不會修網路。（會₁）",
+     "py": "Wǒ bú huì xiū wǎnglù. (huì₁)",
+     "en": "I don’t know how to fix the internet. (acquired skill)"
+    },
+    {
+     "zh": "他明天會來看房子。（會₂）",
+     "py": "Tā míngtiān huì lái kàn fángzi. (huì₂)",
+     "en": "He will come look at the place tomorrow. (likelihood)"
+    },
+    {
+     "zh": "房東今天不會來裝冷氣。（會₂）",
+     "py": "Fángdōng jīntiān bú huì lái zhuāng lěngqì. (huì₂)",
+     "en": "The landlord won’t come install the air conditioner today. (likelihood)"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "g4-x",
+   "title": "練習 Exercise",
+   "instruction": "Identify which type of 會 each sentence uses — 會₁ (skill) or 會₂ (likelihood).",
+   "items": [
+    {
+     "prompt": "我姐姐「會」做甜點了。",
+     "hint": ""
+    },
+    {
+     "prompt": "他等一下就「會」來看房子了。",
+     "hint": ""
+    },
+    {
+     "prompt": "我弟弟已經「會」騎機車了。",
+     "hint": ""
+    },
+    {
+     "prompt": "房東明天不「會」去修熱水器。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "g5",
+   "en": "V. Omitting Nouns at 2nd Mention",
+   "level": 3,
+   "source": {
+    "pages": [
+     260,
+     261
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g5-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: In Chinese, old information already mentioned or understood from context is often omitted later. A pronoun that is omitted this way is called a “zero pronoun” (written ∅ below). The most frequently omitted elements are the subject and the object:"
+    },
+    {
+     "lang": "en",
+     "text": "1. subject predictable from context, e.g. [landlord opening the door] ∅ 請進！ (You, please come in.)"
+    },
+    {
+     "lang": "en",
+     "text": "2. subject previously mentioned, e.g. 我姓高，∅ 叫高明。 (I’m surnamed Gao, (I’m) called Gao Ming.)"
+    },
+    {
+     "lang": "en",
+     "text": "3. object previously mentioned, e.g. 昨天房東給我一把鑰匙，我沒用 ∅。 (Yesterday the landlord gave me a key; I haven’t used (it).)"
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g5-ex",
+   "items": [
+    {
+     "zh": "我以前不喜歡住套房，∅現在很喜歡了。",
+     "py": "Wǒ yǐqián bù xǐhuān zhù tàofáng, ∅ xiànzài hěn xǐhuān le.",
+     "en": "I didn’t use to like living in a suite; (I) like it a lot now."
+    },
+    {
+     "zh": "那間房子很方便，∅走路五分鐘就到捷運站了。",
+     "py": "Nà jiān fángzi hěn fāngbiàn, ∅ zǒulù wǔ fēnzhōng jiù dào jiéyùnzhàn le.",
+     "en": "That place is convenient; (it’s) five minutes on foot to the MRT station."
+    },
+    {
+     "zh": "房東給我一把鑰匙，我不想用∅。",
+     "py": "Fángdōng gěi wǒ yì bǎ yàoshi, wǒ bù xiǎng yòng ∅.",
+     "en": "The landlord gave me a key; I don’t want to use (it)."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "g5-x",
+   "title": "練習 Exercise",
+   "instruction": "Identify the omitted element(s) in each dialogue.",
+   "items": [
+    {
+     "prompt": "房客：房東，熱水器好像不熱，（　　）可以今天來看看嗎？",
+     "hint": ""
+    },
+    {
+     "prompt": "A：那間套房很乾淨，我室友也住（　　）。B：（　　）貴不貴？",
+     "hint": ""
+    },
+    {
+     "prompt": "房東：我明天下午會去，（　　）兩點到，可以嗎？",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-act",
+   "en": "Classroom Activities",
+   "zh": "課室活動",
+   "source": {
+    "pages": [
+     239
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "act1",
+   "en": "I. Life in Taiwan / Photo Journal",
+   "level": 3
+  },
+  {
+   "type": "text",
+   "id": "act1-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Learning to use indefinite subjects to describe events."
+    },
+    {
+     "lang": "en",
+     "text": "Task: Imagine a classmate took a walk around their neighborhood and snapped a few photos to share online. Help write a caption for each one, saying where the action took place, using 有 + person + 在 + location + VP."
+    },
+    {
+     "lang": "en",
+     "text": "1. 有一個學生在學校打籃球。 2. 有兩個朋友在咖啡店聊天。 3. 有一個女生在客廳唱歌。 4. 有兩個朋友在飲料店喝手搖飲。"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "act2",
+   "en": "II. Where I Live",
+   "level": 3,
+   "source": {
+    "pages": [
+     240
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "act2-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Learning to talk about the environment of a room or a house."
+    },
+    {
+     "lang": "en",
+     "text": "Task: Pair up with a classmate and describe your current residence, or your residence back home. As you listen to your partner, sketch a floor plan of their place and label each room (客廳, 廚房, 浴室, 房間…)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "act3",
+   "en": "III. Story-telling",
+   "level": 3,
+   "source": {
+    "pages": [
+     240
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "act3-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Learning to comprehend a passage and add to it."
+    },
+    {
+     "lang": "en",
+     "text": "Task: Form groups of two or three. Read the following story and complete it with your partners, then read the finished story to the class."
+    },
+    {
+     "lang": "en",
+     "text": "高明的室友昨天已經搬走了。現在他一個人住，他想，房間裡好像有一點安靜，可是也有一點無聊。他打電話給房東，問她還有沒有空房間，房東說，剛好還有一間套房，就在他隔壁。高明覺得這是個好機會，所以……（請幫他想想吧！）"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "act4",
+   "en": "IV. For Rent Ads",
+   "level": 3,
+   "source": {
+    "pages": [
+     241
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "act4-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Learning to understand rental advertisements."
+    },
+    {
+     "lang": "en",
+     "text": "Task: Imagine you and a friend see the ad below. Discuss it using the questions that follow."
+    },
+    {
+     "lang": "en",
+     "text": "租 — 近捷運站、超市、學校。兩套衛浴，有廚房。冰箱、網路、有線電視一應俱全。月租一萬二，不包水電。地址：中山路三巷八號三樓。意者請電林太太 02-23456789 / 0912345678。"
+    },
+    {
+     "lang": "en",
+     "text": "1. 租這個房子一個月要多少錢？ 2. 租這個房子，可以做飯嗎？ 3. 要是我想看房子，應該打電話給誰？打哪個電話？"
+    },
+    {
+     "lang": "en",
+     "text": "4. 什麼是「衛浴」？ 5. 你現在住的房子比這個房子好嗎？ 6. 要是你想租房子，你會租這個地方嗎？為什麼？"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "act5",
+   "en": "V. Something’s Wrong with My Room",
+   "level": 3,
+   "source": {
+    "pages": [
+     242
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "act5-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Learning to make requests, e.g., to one’s landlord."
+    },
+    {
+     "lang": "en",
+     "text": "Task: You have just started renting a place, but you’ve discovered that the internet isn’t working and the kitchen has no hot running water. Call your landlord, tell them about the problems, and ask them to take care of it. (Have a classmate role-play the landlord.)"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-cult",
+   "en": "Bits of Chinese Culture",
+   "zh": "文化",
+   "source": {
+    "pages": [
+     243
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "cult1",
+   "en": "Renting a Place in Taiwan",
+   "level": 3
+  },
+  {
+   "type": "text",
+   "id": "cult1-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "While real estate agents do handle some rental listings, in Taiwan it’s more common for landlords to rent out their own places directly — often advertised on simple flyers posted around a neighborhood."
+    },
+    {
+     "lang": "en",
+     "text": "Renting in Taiwan is very much a free market: although there are going rates for a given area, the final rent is set by the landlord, and it’s normal to negotiate it down a bit. Once landlord and tenant agree and sign a lease, that agreement is legally binding."
+    },
+    {
+     "lang": "en",
+     "text": "Application fees or background-screening fees aren’t part of the process. A landlord may ask for a deposit of up to two months’ rent, but prepaying the final month’s rent in advance is not the usual practice."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-self",
+   "en": "Self-Assessment Checklist",
+   "source": {
+    "pages": [
+     271
+    ]
+   }
+  },
+  {
+   "type": "checklist",
+   "id": "self",
+   "items": [
+    "I can talk about renting a place to live.",
+    "I can talk about the environment of a room or a house.",
+    "I can make requests to someone, e.g., to my landlord."
+   ]
+  }
+ ]
+}

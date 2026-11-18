@@ -40,7 +40,8 @@ Chosen 2026-11-16. Order: A1 Textbook L1→L15, A1 Workbook L1→L15, then A2, B
 | A1 Textbook L8 坐火車去臺南 | 186–207 | ✅ complete — original mode (5 grammar points: 跟, 怎麼, 比較, 又…又…, 比; adds -iang/-ying pinyin note) |
 | A1 Textbook L9 放假去哪裡玩？ | 208–227 | ✅ complete — original mode (5 grammar points: time-when vs. time-duration, verb+duration, 的時候, 有時候…有時候…, 要是…就…) |
 | A1 Textbook L10 臺灣的水果很好吃 | 228–248 | ✅ complete — original mode (5 grammar points: VV看, reduplicated state verbs, clause as noun modifier, sentential 了, 因為…所以…) |
-| A1 Textbook L11 我要租房子 | 250– | ⏭ next (original mode) |
+| A1 Textbook L11 我要租房子 | 250–271 | ✅ complete — original mode (5 grammar points: 來+VP, sooner-than-expected 就, existential 有, two types of 會, omitting nouns at 2nd mention) |
+| A1 Textbook L12 | 272– | ⏭ next (original mode) |
 | all other lessons | — | page images until migrated |
 
 ### Original mode (from A1 L6 onward, chosen 2026-11-17)
