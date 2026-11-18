@@ -100,7 +100,13 @@ Pinyin rules live in `pipeline/pinyin_util.py`: context rules for 得 (de/děi/d
 | novice-l1 | 75 | ✅ complete | ✅ complete |
 | novice-r1 | 45 | ✅ complete | ✅ complete |
 
-- Per-part bank (pb-*) explanations: not yet. About 6,945 lines have no full-test match and need pinyin/EN/ID; 282 items have their text only in the picture and must be read from the image.
+- Per-part bank (pb-*) explanations: ✅ complete — all 136 bank tests in 22 sections (`content/exercise/explain/pb-*.json`, englishComplete + indonesianComplete). Each passage line, picture text, stem and option has pinyin, audio, English and Indonesian.
+  - Tool: `pipeline/bank_explain.py` — `stats`, `items <sec>` (shows the printed text layer), `todo <sec> [n]` (numbered untranslated lines, writes /tmp/bank/<sec>.todo.json), `apply <sec> <tsv>` (`id<TAB>English<TAB>Indonesian`), `load <sec> <file>` (reading transcriptions), `merge <sec>`.
+  - Data: `pipeline/explain_bank/<sec>.json` = transcribed items + translation memory. Lines already translated in the full tests or another section are reused automatically.
+  - Transcription format: `@<item>`, `P:` passage line, `I:` text printed in the picture, `S<k>:` stem, `<A-F><k>:` option (`<A-F>*` = shared by all sub-questions). Gap-fill blanks are written ` k ` in the passage and shown as `___k___` in EN/ID.
+  - Items whose text existed only in the picture (Band B/C reading: 48 items) were read from the item images.
+  - Pinyin rules (pipeline/pinyin_util.py): personal names capitalised as one unit (Wáng Xiǎomíng, Xiǎo Zhāng, Wáng xiānsheng); capitals only for names and the curated PROPER list (jieba ns/nz tags are not trusted); clock times, dates and ranges kept together (7:45, 2018/03/27).
+  - After any change: re-merge the section, `npm run build`, `npm test`, `python3 scripts/e2e.py`, `python3 scripts/e2e_pages.py`.
 
 ## Per-part question bank (TOCFL Exercise → "Bank soal per bagian")
 Built by `pipeline/build_partbank.py` from each part folder's `*_Answer.xlsx` + item PDFs (original item image, official key, script for listening).
