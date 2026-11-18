@@ -1,0 +1,656 @@
+{
+ "id": "a1-wo-l02",
+ "title": "我的家人 My Family",
+ "status": "complete",
+ "mode": "original",
+ "statusDetail": "Materi ini ditulis ulang secara orisinal untuk situs ini berdasarkan topik dan kosakata Pelajaran 2 buku kerja (hlm. buku 9–15): soal latihan, kalimat contoh, bacaan, dan kunci memakai kata-kata sendiri. Soal bergambar asli ada di buku; audio trek asli tetap ditautkan.",
+ "transcribedBy": "Ditulis ulang secara orisinal berdasarkan isi buku, diperiksa terhadap halaman asli, 2026-11-18",
+ "blocks": [
+  {
+   "type": "heading",
+   "id": "h-obj",
+   "en": "Learning Objectives",
+   "zh": "學習目標",
+   "source": {
+    "pages": [
+     9
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "obj",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Topic: 我的家人 Family Members"
+    },
+    {
+     "lang": "en",
+     "text": "• Practicing tone recognition for Lesson 2 vocabulary."
+    },
+    {
+     "lang": "en",
+     "text": "• Practicing listening/reading comprehension about family size, members and what they like to do."
+    },
+    {
+     "lang": "en",
+     "text": "• Practicing the measure words 個 and 張, and introducing one's own family in writing."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h1",
+   "en": "I. Differentiating Tones",
+   "zh": "一、辨別聲調",
+   "level": 3,
+   "source": {
+    "pages": [
+     9
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "h1-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Practice exercise written for this site using Lesson 2 vocabulary. The book's own tone-marking exercise is on book p. 9; its recording is track 02-01."
+    }
+   ],
+   "track": "02-01"
+  },
+  {
+   "type": "table",
+   "id": "h1-tab",
+   "head": [
+    "中文",
+    "Pinyin (fill in the tone marks)"
+   ],
+   "rows": [
+    [
+     "看書",
+     "kanshu"
+    ],
+    [
+     "漂亮",
+     "piaoliang"
+    ],
+    [
+     "伯母",
+     "bomu"
+    ],
+    [
+     "家人",
+     "jiaren"
+    ],
+    [
+     "您好",
+     "ninhao"
+    ],
+    [
+     "照片",
+     "zhaopian"
+    ],
+    [
+     "房子",
+     "fangzi"
+    ],
+    [
+     "老師",
+     "laoshi"
+    ],
+    [
+     "兩個",
+     "liangge"
+    ],
+    [
+     "姐姐",
+     "jiejie"
+    ]
+   ],
+   "source": {
+    "pages": [
+     9
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "h2",
+   "en": "II. Listen and Respond: Family Introductions",
+   "zh": "二、請聽並回答：我的家人",
+   "level": 3,
+   "source": {
+    "pages": [
+     9,
+     10
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "h2-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Practice exercise written for this site using Lesson 2 vocabulary. The book's own listening exercises are on book pp. 9–10; their recordings are tracks 02-02, 02-03 and 02-04."
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "h2a-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "A. Read about Mr. Zhang's family and choose what each person likes to do. (track 02-02)"
+    },
+    {
+     "lang": "en",
+     "text": "張先生的家人：張先生喜歡看書，張太太喜歡喝咖啡。張先生的女兒喜歡照相，兒子喜歡打籃球。"
+    }
+   ],
+   "track": "02-02"
+  },
+  {
+   "type": "exercise",
+   "id": "h2a-x",
+   "title": "A. 張先生的家人",
+   "instruction": "Choose the correct answer for each question.",
+   "items": [
+    {
+     "prompt": "張先生喜歡做什麼？ a. 看書　b. 喝咖啡　c. 打籃球",
+     "hint": ""
+    },
+    {
+     "prompt": "張太太喜歡做什麼？ a. 看書　b. 喝咖啡　c. 照相",
+     "hint": ""
+    },
+    {
+     "prompt": "張先生的女兒喜歡做什麼？ a. 看書　b. 打籃球　c. 照相",
+     "hint": ""
+    },
+    {
+     "prompt": "張先生的兒子喜歡做什麼？ a. 看書　b. 打籃球　c. 照相",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "h2b-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "B. Read about Mr. Lin and Miss Chen. Write the appropriate letter in each blank. (a. 林先生　b. 陳小姐　c. 老師　d. 臺灣人 — track 02-03)"
+    },
+    {
+     "lang": "en",
+     "text": "林先生的爸爸是老師，他喜歡看書。陳小姐是臺灣人，她的伯母喜歡照相。"
+    }
+   ],
+   "track": "02-03"
+  },
+  {
+   "type": "exercise",
+   "id": "h2b-x",
+   "title": "B. 林先生、陳小姐",
+   "instruction": "Write the appropriate letter in each blank.",
+   "items": [
+    {
+     "prompt": "（　）的爸爸是老師。",
+     "hint": ""
+    },
+    {
+     "prompt": "（　）是臺灣人。",
+     "hint": ""
+    },
+    {
+     "prompt": "林先生的爸爸是（　）。",
+     "hint": ""
+    },
+    {
+     "prompt": "陳小姐的伯母喜歡（　）照相。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "h2c-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "C. Listen to the dialogue. Write ○ if the statement is true, × if it is false. (track 02-04)"
+    },
+    {
+     "lang": "en",
+     "text": "大衛：陳小姐，妳家有幾個人？"
+    },
+    {
+     "lang": "en",
+     "text": "陳小姐：我家有四個人，爸爸、媽媽、我和妹妹。"
+    },
+    {
+     "lang": "en",
+     "text": "大衛：你們家人都喜歡做什麼？"
+    },
+    {
+     "lang": "en",
+     "text": "陳小姐：我爸爸是老師，他喜歡看書。我媽媽喜歡喝茶，我喜歡照相，妹妹喜歡看電視。"
+    }
+   ],
+   "track": "02-04"
+  },
+  {
+   "type": "exercise",
+   "id": "h2c-x",
+   "title": "C. 對不對",
+   "instruction": "Mark each statement ○ (true) or × (false).",
+   "items": [
+    {
+     "prompt": "（　）陳小姐家有四個人。",
+     "hint": ""
+    },
+    {
+     "prompt": "（　）陳小姐的爸爸是老師。",
+     "hint": ""
+    },
+    {
+     "prompt": "（　）陳小姐的媽媽喜歡照相。",
+     "hint": ""
+    },
+    {
+     "prompt": "（　）陳小姐喜歡看電視。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h3",
+   "en": "III. Create Dialogue Pairs",
+   "zh": "三、對話配對",
+   "level": 3,
+   "source": {
+    "pages": [
+     10,
+     11
+    ]
+   }
+  },
+  {
+   "type": "exercise",
+   "id": "h3-x",
+   "title": "句子配對",
+   "instruction": "Match the sentence on the left with the appropriate reply on the right; write the matching letter in each blank.",
+   "items": [
+    {
+     "prompt": "（　）這是誰？　　　(D) 不是，我爸爸是日本人。",
+     "hint": ""
+    },
+    {
+     "prompt": "（　）王先生的家有幾個人？　　　(A) 不客氣。",
+     "hint": ""
+    },
+    {
+     "prompt": "（　）你要不要喝咖啡？　　　(E) 是的，她是。",
+     "hint": ""
+    },
+    {
+     "prompt": "（　）你爸爸媽媽都是臺灣人嗎？　　　(C) 不要，謝謝。",
+     "hint": ""
+    },
+    {
+     "prompt": "（　）李小姐的媽媽是老師嗎？　　　(B) 五個。",
+     "hint": ""
+    },
+    {
+     "prompt": "（　）你有沒有你家人的照片？　　　(H) 是的，他們都喜歡。",
+     "hint": ""
+    },
+    {
+     "prompt": "（　）林先生的兄弟姐妹都喜歡看書嗎？　　　(F) 我哥哥。",
+     "hint": ""
+    },
+    {
+     "prompt": "（　）謝謝你們來接我。　　　(G) 有，我有很多照片。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h4",
+   "en": "IV. Reading Comprehension",
+   "zh": "四、閱讀理解",
+   "level": 3,
+   "source": {
+    "pages": [
+     11
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "h4a-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "林大為 introduces his family. Read the paragraph and answer the questions below."
+    },
+    {
+     "lang": "en",
+     "text": "你們好，我叫林大為，我家有五個人：爸爸、媽媽、哥哥、妹妹和我。我爸爸是老師，媽媽喜歡喝茶、看書。我哥哥喜歡打籃球，妹妹喜歡照相。我家有很多照片，也有很多書。"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "h4-x",
+   "title": "對不對",
+   "instruction": "Mark each statement ○ (true) or × (false).",
+   "items": [
+    {
+     "prompt": "（　）林大為的家有五個人。",
+     "hint": ""
+    },
+    {
+     "prompt": "（　）林大為的爸爸是老師。",
+     "hint": ""
+    },
+    {
+     "prompt": "（　）林大為的哥哥喜歡看書。",
+     "hint": ""
+    },
+    {
+     "prompt": "（　）林大為家有很多照片。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h5",
+   "en": "V. Fill in the Blanks",
+   "zh": "五、填空",
+   "level": 3,
+   "source": {
+    "pages": [
+     12,
+     13
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "h5a-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "A. Fill in the blanks using the words provided: a. 個　b. 的　c. 張"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "h5a-x",
+   "title": "A. 填空",
+   "instruction": "Fill in each blank with 個, 的, or 張.",
+   "items": [
+    {
+     "prompt": "林太太＿＿＿＿＿＿照片很漂亮。",
+     "hint": ""
+    },
+    {
+     "prompt": "我有很多好看＿＿＿＿＿＿照片。",
+     "hint": ""
+    },
+    {
+     "prompt": "陳小姐的家有六＿＿＿＿＿＿人。",
+     "hint": ""
+    },
+    {
+     "prompt": "王先生有五＿＿＿＿＿＿照片。",
+     "hint": ""
+    },
+    {
+     "prompt": "他有三＿＿＿＿＿＿妹妹。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "h5b-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "B. 安同 Antong overhears two people talking about photos, but he misses some words. Can you help him?"
+    },
+    {
+     "lang": "en",
+     "text": "a. 哪　b. 誰　c. 幾　d. 兩　e. 坐　f. 都　g. 進　h. 照片　i. 照相　j. 好看"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "h5b-x",
+   "title": "B. 完成對話",
+   "instruction": "Fill in each blank using a word from the box above.",
+   "items": [
+    {
+     "prompt": "A：你家有＿＿＿＿＿＿個人？",
+     "hint": ""
+    },
+    {
+     "prompt": "B：我家有＿＿＿＿＿＿個人，爸爸和我。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：你有沒有家人的＿＿＿＿＿＿？",
+     "hint": ""
+    },
+    {
+     "prompt": "B：有，我家人都很＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：這張照片裡的人是＿＿＿＿＿＿？",
+     "hint": ""
+    },
+    {
+     "prompt": "B：那是我哥哥，他喜歡＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：歡迎你＿＿＿＿＿＿來我家坐坐！",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h6",
+   "en": "VI. Rearrange the Characters Below to Make Good Sentences",
+   "zh": "六、重組句子",
+   "level": 3,
+   "source": {
+    "pages": [
+     13
+    ]
+   }
+  },
+  {
+   "type": "exercise",
+   "id": "h6-x",
+   "title": "練習 Exercise",
+   "instruction": "Rearrange the given characters into a correct sentence.",
+   "items": [
+    {
+     "prompt": "很好看　你的　照片　→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "都　我家人　喜歡　看電影　→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "老師　都　我們　是　姓林的　→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "兩個　陳小姐　哥哥　有　→ ＿＿＿＿＿＿。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h7",
+   "en": "VII. Write Out in Chinese Characters",
+   "zh": "七、聽寫漢字",
+   "level": 3,
+   "source": {
+    "pages": [
+     13,
+     14
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "h7-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Practice exercise written for this site using Lesson 2 vocabulary. The book's own dictation exercise is on book p. 13; its recording is track 02-05."
+    }
+   ],
+   "track": "02-05"
+  },
+  {
+   "type": "exercise",
+   "id": "h7-x",
+   "title": "練習 Exercise",
+   "instruction": "Listen to the recording and write out the sentences below in Chinese characters.",
+   "items": [
+    {
+     "prompt": "Wǒ jiā yǒu wǔ ge rén.　→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "Nǐ jiārén dōu xǐhuān kàn zhàopiàn ma?　→ ＿＿＿＿＿＿？",
+     "hint": ""
+    },
+    {
+     "prompt": "Wǒ bàba shì lǎoshī.　→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "Zhè zhāng zhàopiàn hěn piàoliang.　→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "Nǐ yǒu jǐ ge jiějie?　→ ＿＿＿＿＿＿？",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h8",
+   "en": "VIII. Complete the Dialogue",
+   "zh": "八、完成對話",
+   "level": 3,
+   "source": {
+    "pages": [
+     14,
+     15
+    ]
+   }
+  },
+  {
+   "type": "exercise",
+   "id": "h8-x",
+   "title": "練習 Exercise",
+   "instruction": "Fill in the missing line of each short dialogue.",
+   "items": [
+    {
+     "prompt": "A：你家有幾個人？　B：＿＿＿＿＿＿＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：你爸爸是不是老師？　B：＿＿＿＿＿＿＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：＿＿＿＿＿＿＿＿＿＿＿＿？　B：這是我姐姐的照片。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：你哥哥喜歡做什麼？　B：＿＿＿＿＿＿＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：＿＿＿＿＿＿＿＿＿＿＿＿？　B：不是，是我妹妹。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：你有沒有家人的照片？　B：＿＿＿＿＿＿＿＿＿＿＿＿。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h9",
+   "en": "IX. Picture Story",
+   "zh": "九、看圖寫作",
+   "level": 3,
+   "source": {
+    "pages": [
+     15
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "h9-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use the new words below to introduce 李小姐's family in writing."
+    },
+    {
+     "lang": "en",
+     "text": "李小姐的家：李小姐、李小姐的爸爸、李小姐的媽媽和李小姐的弟弟，一共四個人。他們坐在家門口，爸爸拿著一本書，媽媽拿著一杯茶，弟弟拿著一個照相機。"
+    },
+    {
+     "lang": "en",
+     "text": "都、喜歡、漂亮、看書、喝茶、照相"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "h9-x",
+   "title": "練習 Exercise",
+   "instruction": "Write 4–5 sentences introducing 李小姐's family using the word bank above.",
+   "items": [
+    {
+     "prompt": "李小姐的家有幾個人？他們是誰？",
+     "hint": ""
+    },
+    {
+     "prompt": "他們喜歡做什麼？",
+     "hint": ""
+    }
+   ]
+  }
+ ]
+}

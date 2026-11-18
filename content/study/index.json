@@ -1,1030 +1,1030 @@
 {
- "levels": [
-  {
-   "id": "a1",
-   "label": "A1",
-   "vol": 1,
-   "books": [
+  "levels": [
     {
-     "id": "a1-te",
-     "kind": "textbook",
-     "label": "Textbook 課本",
-     "pages": 399,
-     "lessons": [
-      {
-       "id": "a1-te-l01",
-       "n": 1,
-       "title": "歡迎你來臺灣！",
-       "migrated": true
-      },
-      {
-       "id": "a1-te-l02",
-       "n": 2,
-       "title": "我的家人",
-       "migrated": true
-      },
-      {
-       "id": "a1-te-l03",
-       "n": 3,
-       "title": "週末做什麼？",
-       "migrated": true
-      },
-      {
-       "id": "a1-te-l04",
-       "n": 4,
-       "title": "請問一共多少錢？",
-       "migrated": true
-      },
-      {
-       "id": "a1-te-l05",
-       "n": 5,
-       "title": "牛肉麵真好吃",
-       "migrated": true
-      },
-      {
-       "id": "a1-te-l06",
-       "n": 6,
-       "title": "他們學校在山上",
-       "migrated": true
-      },
-      {
-       "id": "a1-te-l07",
-       "n": 7,
-       "title": "早上九點去KTV",
-       "migrated": true
-      },
-      {
-       "id": "a1-te-l08",
-       "n": 8,
-       "title": "坐火車去臺南",
-       "migrated": true
-      },
-      {
-       "id": "a1-te-l09",
-       "n": 9,
-       "title": "放假去哪裡玩？",
-       "migrated": true
-      },
-      {
-       "id": "a1-te-l10",
-       "n": 10,
-       "title": "臺灣的水果很好吃",
-       "migrated": true
-      },
-      {
-       "id": "a1-te-l11",
-       "n": 11,
-       "title": "我要租房子",
-       "migrated": true
-      },
-      {
-       "id": "a1-te-l12",
-       "n": 12,
-       "title": "你在臺灣學多久的中文？",
-       "migrated": true
-      },
-      {
-       "id": "a1-te-l13",
-       "n": 13,
-       "title": "生日快樂",
-       "migrated": true
-      },
-      {
-       "id": "a1-te-l14",
-       "n": 14,
-       "title": "天氣這麼冷！",
-       "migrated": true
-      },
-      {
-       "id": "a1-te-l15",
-       "n": 15,
-       "title": "我很不舒服",
-       "migrated": true
-      }
-     ]
+      "id": "a1",
+      "label": "A1",
+      "vol": 1,
+      "books": [
+        {
+          "id": "a1-te",
+          "kind": "textbook",
+          "label": "Textbook 課本",
+          "pages": 399,
+          "lessons": [
+            {
+              "id": "a1-te-l01",
+              "n": 1,
+              "title": "歡迎你來臺灣！",
+              "migrated": true
+            },
+            {
+              "id": "a1-te-l02",
+              "n": 2,
+              "title": "我的家人",
+              "migrated": true
+            },
+            {
+              "id": "a1-te-l03",
+              "n": 3,
+              "title": "週末做什麼？",
+              "migrated": true
+            },
+            {
+              "id": "a1-te-l04",
+              "n": 4,
+              "title": "請問一共多少錢？",
+              "migrated": true
+            },
+            {
+              "id": "a1-te-l05",
+              "n": 5,
+              "title": "牛肉麵真好吃",
+              "migrated": true
+            },
+            {
+              "id": "a1-te-l06",
+              "n": 6,
+              "title": "他們學校在山上",
+              "migrated": true
+            },
+            {
+              "id": "a1-te-l07",
+              "n": 7,
+              "title": "早上九點去KTV",
+              "migrated": true
+            },
+            {
+              "id": "a1-te-l08",
+              "n": 8,
+              "title": "坐火車去臺南",
+              "migrated": true
+            },
+            {
+              "id": "a1-te-l09",
+              "n": 9,
+              "title": "放假去哪裡玩？",
+              "migrated": true
+            },
+            {
+              "id": "a1-te-l10",
+              "n": 10,
+              "title": "臺灣的水果很好吃",
+              "migrated": true
+            },
+            {
+              "id": "a1-te-l11",
+              "n": 11,
+              "title": "我要租房子",
+              "migrated": true
+            },
+            {
+              "id": "a1-te-l12",
+              "n": 12,
+              "title": "你在臺灣學多久的中文？",
+              "migrated": true
+            },
+            {
+              "id": "a1-te-l13",
+              "n": 13,
+              "title": "生日快樂",
+              "migrated": true
+            },
+            {
+              "id": "a1-te-l14",
+              "n": 14,
+              "title": "天氣這麼冷！",
+              "migrated": true
+            },
+            {
+              "id": "a1-te-l15",
+              "n": 15,
+              "title": "我很不舒服",
+              "migrated": true
+            }
+          ]
+        },
+        {
+          "id": "a1-wo",
+          "kind": "workbook",
+          "label": "Workbook 作業本",
+          "pages": 130,
+          "lessons": [
+            {
+              "id": "a1-wo-l01",
+              "n": 1,
+              "title": "歡迎你來臺灣！",
+              "migrated": true
+            },
+            {
+              "id": "a1-wo-l02",
+              "n": 2,
+              "title": "我的家人",
+              "migrated": true
+            },
+            {
+              "id": "a1-wo-l03",
+              "n": 3,
+              "title": "週末做什麼？",
+              "migrated": false
+            },
+            {
+              "id": "a1-wo-l04",
+              "n": 4,
+              "title": "請問一共多少錢？",
+              "migrated": false
+            },
+            {
+              "id": "a1-wo-l05",
+              "n": 5,
+              "title": "牛肉麵真好吃",
+              "migrated": false
+            },
+            {
+              "id": "a1-wo-l06",
+              "n": 6,
+              "title": "他們學校在山上",
+              "migrated": false
+            },
+            {
+              "id": "a1-wo-l07",
+              "n": 7,
+              "title": "早上九點去KTV",
+              "migrated": false
+            },
+            {
+              "id": "a1-wo-l08",
+              "n": 8,
+              "title": "坐火車去臺南",
+              "migrated": false
+            },
+            {
+              "id": "a1-wo-l09",
+              "n": 9,
+              "title": "放假去哪裡玩？",
+              "migrated": false
+            },
+            {
+              "id": "a1-wo-l10",
+              "n": 10,
+              "title": "臺灣的水果很好吃",
+              "migrated": false
+            },
+            {
+              "id": "a1-wo-l11",
+              "n": 11,
+              "title": "我要租房子",
+              "migrated": false
+            },
+            {
+              "id": "a1-wo-l12",
+              "n": 12,
+              "title": "你在臺灣學多久的中文？",
+              "migrated": false
+            },
+            {
+              "id": "a1-wo-l13",
+              "n": 13,
+              "title": "生日快樂",
+              "migrated": false
+            },
+            {
+              "id": "a1-wo-l14",
+              "n": 14,
+              "title": "天氣這麼冷！",
+              "migrated": false
+            },
+            {
+              "id": "a1-wo-l15",
+              "n": 15,
+              "title": "我很不舒服",
+              "migrated": false
+            }
+          ]
+        }
+      ]
     },
     {
-     "id": "a1-wo",
-     "kind": "workbook",
-     "label": "Workbook 作業本",
-     "pages": 130,
-     "lessons": [
-      {
-       "id": "a1-wo-l01",
-       "n": 1,
-       "title": "歡迎你來臺灣！",
-       "migrated": true
-      },
-      {
-       "id": "a1-wo-l02",
-       "n": 2,
-       "title": "我的家人",
-       "migrated": false
-      },
-      {
-       "id": "a1-wo-l03",
-       "n": 3,
-       "title": "週末做什麼？",
-       "migrated": false
-      },
-      {
-       "id": "a1-wo-l04",
-       "n": 4,
-       "title": "請問一共多少錢？",
-       "migrated": false
-      },
-      {
-       "id": "a1-wo-l05",
-       "n": 5,
-       "title": "牛肉麵真好吃",
-       "migrated": false
-      },
-      {
-       "id": "a1-wo-l06",
-       "n": 6,
-       "title": "他們學校在山上",
-       "migrated": false
-      },
-      {
-       "id": "a1-wo-l07",
-       "n": 7,
-       "title": "早上九點去KTV",
-       "migrated": false
-      },
-      {
-       "id": "a1-wo-l08",
-       "n": 8,
-       "title": "坐火車去臺南",
-       "migrated": false
-      },
-      {
-       "id": "a1-wo-l09",
-       "n": 9,
-       "title": "放假去哪裡玩？",
-       "migrated": false
-      },
-      {
-       "id": "a1-wo-l10",
-       "n": 10,
-       "title": "臺灣的水果很好吃",
-       "migrated": false
-      },
-      {
-       "id": "a1-wo-l11",
-       "n": 11,
-       "title": "我要租房子",
-       "migrated": false
-      },
-      {
-       "id": "a1-wo-l12",
-       "n": 12,
-       "title": "你在臺灣學多久的中文？",
-       "migrated": false
-      },
-      {
-       "id": "a1-wo-l13",
-       "n": 13,
-       "title": "生日快樂",
-       "migrated": false
-      },
-      {
-       "id": "a1-wo-l14",
-       "n": 14,
-       "title": "天氣這麼冷！",
-       "migrated": false
-      },
-      {
-       "id": "a1-wo-l15",
-       "n": 15,
-       "title": "我很不舒服",
-       "migrated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "a2",
-   "label": "A2",
-   "vol": 2,
-   "books": [
-    {
-     "id": "a2-te",
-     "kind": "textbook",
-     "label": "Textbook 課本",
-     "pages": 456,
-     "lessons": [
-      {
-       "id": "a2-te-l01",
-       "n": 1,
-       "title": "請問，到師大怎麼走？",
-       "migrated": false
-      },
-      {
-       "id": "a2-te-l02",
-       "n": 2,
-       "title": "還是坐捷運吧！",
-       "migrated": false
-      },
-      {
-       "id": "a2-te-l03",
-       "n": 3,
-       "title": "你的中文進步了！",
-       "migrated": false
-      },
-      {
-       "id": "a2-te-l04",
-       "n": 4,
-       "title": "我打工，我教法文",
-       "migrated": false
-      },
-      {
-       "id": "a2-te-l05",
-       "n": 5,
-       "title": "吃喜酒",
-       "migrated": false
-      },
-      {
-       "id": "a2-te-l06",
-       "n": 6,
-       "title": "我打算搬到學校附近",
-       "migrated": false
-      },
-      {
-       "id": "a2-te-l07",
-       "n": 7,
-       "title": "垃圾車來了！",
-       "migrated": false
-      },
-      {
-       "id": "a2-te-l08",
-       "n": 8,
-       "title": "學功夫",
-       "migrated": false
-      },
-      {
-       "id": "a2-te-l09",
-       "n": 9,
-       "title": "那個城市好漂亮",
-       "migrated": false
-      },
-      {
-       "id": "a2-te-l10",
-       "n": 10,
-       "title": "歡迎到我家來包餃子",
-       "migrated": false
-      },
-      {
-       "id": "a2-te-l11",
-       "n": 11,
-       "title": "台灣好玩的地方真多",
-       "migrated": false
-      },
-      {
-       "id": "a2-te-l12",
-       "n": 12,
-       "title": "怎麼吃才健康？",
-       "migrated": false
-      },
-      {
-       "id": "a2-te-l13",
-       "n": 13,
-       "title": "我的手機掉了",
-       "migrated": false
-      },
-      {
-       "id": "a2-te-l14",
-       "n": 14,
-       "title": "我要開始工作了",
-       "migrated": false
-      },
-      {
-       "id": "a2-te-l15",
-       "n": 15,
-       "title": "過春節",
-       "migrated": false
-      }
-     ]
+      "id": "a2",
+      "label": "A2",
+      "vol": 2,
+      "books": [
+        {
+          "id": "a2-te",
+          "kind": "textbook",
+          "label": "Textbook 課本",
+          "pages": 456,
+          "lessons": [
+            {
+              "id": "a2-te-l01",
+              "n": 1,
+              "title": "請問，到師大怎麼走？",
+              "migrated": false
+            },
+            {
+              "id": "a2-te-l02",
+              "n": 2,
+              "title": "還是坐捷運吧！",
+              "migrated": false
+            },
+            {
+              "id": "a2-te-l03",
+              "n": 3,
+              "title": "你的中文進步了！",
+              "migrated": false
+            },
+            {
+              "id": "a2-te-l04",
+              "n": 4,
+              "title": "我打工，我教法文",
+              "migrated": false
+            },
+            {
+              "id": "a2-te-l05",
+              "n": 5,
+              "title": "吃喜酒",
+              "migrated": false
+            },
+            {
+              "id": "a2-te-l06",
+              "n": 6,
+              "title": "我打算搬到學校附近",
+              "migrated": false
+            },
+            {
+              "id": "a2-te-l07",
+              "n": 7,
+              "title": "垃圾車來了！",
+              "migrated": false
+            },
+            {
+              "id": "a2-te-l08",
+              "n": 8,
+              "title": "學功夫",
+              "migrated": false
+            },
+            {
+              "id": "a2-te-l09",
+              "n": 9,
+              "title": "那個城市好漂亮",
+              "migrated": false
+            },
+            {
+              "id": "a2-te-l10",
+              "n": 10,
+              "title": "歡迎到我家來包餃子",
+              "migrated": false
+            },
+            {
+              "id": "a2-te-l11",
+              "n": 11,
+              "title": "台灣好玩的地方真多",
+              "migrated": false
+            },
+            {
+              "id": "a2-te-l12",
+              "n": 12,
+              "title": "怎麼吃才健康？",
+              "migrated": false
+            },
+            {
+              "id": "a2-te-l13",
+              "n": 13,
+              "title": "我的手機掉了",
+              "migrated": false
+            },
+            {
+              "id": "a2-te-l14",
+              "n": 14,
+              "title": "我要開始工作了",
+              "migrated": false
+            },
+            {
+              "id": "a2-te-l15",
+              "n": 15,
+              "title": "過春節",
+              "migrated": false
+            }
+          ]
+        },
+        {
+          "id": "a2-wo",
+          "kind": "workbook",
+          "label": "Workbook 作業本",
+          "pages": 128,
+          "lessons": [
+            {
+              "id": "a2-wo-l01",
+              "n": 1,
+              "title": "請問，到師大怎麼走？",
+              "migrated": false
+            },
+            {
+              "id": "a2-wo-l02",
+              "n": 2,
+              "title": "還是坐捷運吧！",
+              "migrated": false
+            },
+            {
+              "id": "a2-wo-l03",
+              "n": 3,
+              "title": "你的中文進步了！",
+              "migrated": false
+            },
+            {
+              "id": "a2-wo-l04",
+              "n": 4,
+              "title": "我打工，我教法文",
+              "migrated": false
+            },
+            {
+              "id": "a2-wo-l05",
+              "n": 5,
+              "title": "吃喜酒",
+              "migrated": false
+            },
+            {
+              "id": "a2-wo-l06",
+              "n": 6,
+              "title": "我打算搬到學校附近",
+              "migrated": false
+            },
+            {
+              "id": "a2-wo-l07",
+              "n": 7,
+              "title": "垃圾車來了！",
+              "migrated": false
+            },
+            {
+              "id": "a2-wo-l08",
+              "n": 8,
+              "title": "學功夫",
+              "migrated": false
+            },
+            {
+              "id": "a2-wo-l09",
+              "n": 9,
+              "title": "那個城市好漂亮",
+              "migrated": false
+            },
+            {
+              "id": "a2-wo-l10",
+              "n": 10,
+              "title": "歡迎到我家來包餃子",
+              "migrated": false
+            },
+            {
+              "id": "a2-wo-l11",
+              "n": 11,
+              "title": "台灣好玩的地方真多",
+              "migrated": false
+            },
+            {
+              "id": "a2-wo-l12",
+              "n": 12,
+              "title": "怎麼吃才健康？",
+              "migrated": false
+            },
+            {
+              "id": "a2-wo-l13",
+              "n": 13,
+              "title": "我的手機掉了",
+              "migrated": false
+            },
+            {
+              "id": "a2-wo-l14",
+              "n": 14,
+              "title": "我要開始工作了",
+              "migrated": false
+            },
+            {
+              "id": "a2-wo-l15",
+              "n": 15,
+              "title": "過春節",
+              "migrated": false
+            }
+          ]
+        }
+      ]
     },
     {
-     "id": "a2-wo",
-     "kind": "workbook",
-     "label": "Workbook 作業本",
-     "pages": 128,
-     "lessons": [
-      {
-       "id": "a2-wo-l01",
-       "n": 1,
-       "title": "請問，到師大怎麼走？",
-       "migrated": false
-      },
-      {
-       "id": "a2-wo-l02",
-       "n": 2,
-       "title": "還是坐捷運吧！",
-       "migrated": false
-      },
-      {
-       "id": "a2-wo-l03",
-       "n": 3,
-       "title": "你的中文進步了！",
-       "migrated": false
-      },
-      {
-       "id": "a2-wo-l04",
-       "n": 4,
-       "title": "我打工，我教法文",
-       "migrated": false
-      },
-      {
-       "id": "a2-wo-l05",
-       "n": 5,
-       "title": "吃喜酒",
-       "migrated": false
-      },
-      {
-       "id": "a2-wo-l06",
-       "n": 6,
-       "title": "我打算搬到學校附近",
-       "migrated": false
-      },
-      {
-       "id": "a2-wo-l07",
-       "n": 7,
-       "title": "垃圾車來了！",
-       "migrated": false
-      },
-      {
-       "id": "a2-wo-l08",
-       "n": 8,
-       "title": "學功夫",
-       "migrated": false
-      },
-      {
-       "id": "a2-wo-l09",
-       "n": 9,
-       "title": "那個城市好漂亮",
-       "migrated": false
-      },
-      {
-       "id": "a2-wo-l10",
-       "n": 10,
-       "title": "歡迎到我家來包餃子",
-       "migrated": false
-      },
-      {
-       "id": "a2-wo-l11",
-       "n": 11,
-       "title": "台灣好玩的地方真多",
-       "migrated": false
-      },
-      {
-       "id": "a2-wo-l12",
-       "n": 12,
-       "title": "怎麼吃才健康？",
-       "migrated": false
-      },
-      {
-       "id": "a2-wo-l13",
-       "n": 13,
-       "title": "我的手機掉了",
-       "migrated": false
-      },
-      {
-       "id": "a2-wo-l14",
-       "n": 14,
-       "title": "我要開始工作了",
-       "migrated": false
-      },
-      {
-       "id": "a2-wo-l15",
-       "n": 15,
-       "title": "過春節",
-       "migrated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "b1",
-   "label": "B1",
-   "vol": 3,
-   "books": [
-    {
-     "id": "b1-te",
-     "kind": "textbook",
-     "label": "Textbook 課本",
-     "pages": 360,
-     "lessons": [
-      {
-       "id": "b1-te-l01",
-       "n": 1,
-       "title": "開學了",
-       "migrated": false
-      },
-      {
-       "id": "b1-te-l02",
-       "n": 2,
-       "title": "八折起",
-       "migrated": false
-      },
-      {
-       "id": "b1-te-l03",
-       "n": 3,
-       "title": "外套帶了沒有？",
-       "migrated": false
-      },
-      {
-       "id": "b1-te-l04",
-       "n": 4,
-       "title": "我愛台灣的人情味",
-       "migrated": false
-      },
-      {
-       "id": "b1-te-l05",
-       "n": 5,
-       "title": "現在流行什麼？",
-       "migrated": false
-      },
-      {
-       "id": "b1-te-l06",
-       "n": 6,
-       "title": "到鄉下住一晚！",
-       "migrated": false
-      },
-      {
-       "id": "b1-te-l07",
-       "n": 7,
-       "title": "我最親的家「人」",
-       "migrated": false
-      },
-      {
-       "id": "b1-te-l08",
-       "n": 8,
-       "title": "我想做自己",
-       "migrated": false
-      },
-      {
-       "id": "b1-te-l09",
-       "n": 9,
-       "title": "網購時代",
-       "migrated": false
-      },
-      {
-       "id": "b1-te-l10",
-       "n": 10,
-       "title": "我住院了",
-       "migrated": false
-      },
-      {
-       "id": "b1-te-l11",
-       "n": 11,
-       "title": "台灣故事",
-       "migrated": false
-      },
-      {
-       "id": "b1-te-l12",
-       "n": 12,
-       "title": "我要去投票",
-       "migrated": false
-      }
-     ]
+      "id": "b1",
+      "label": "B1",
+      "vol": 3,
+      "books": [
+        {
+          "id": "b1-te",
+          "kind": "textbook",
+          "label": "Textbook 課本",
+          "pages": 360,
+          "lessons": [
+            {
+              "id": "b1-te-l01",
+              "n": 1,
+              "title": "開學了",
+              "migrated": false
+            },
+            {
+              "id": "b1-te-l02",
+              "n": 2,
+              "title": "八折起",
+              "migrated": false
+            },
+            {
+              "id": "b1-te-l03",
+              "n": 3,
+              "title": "外套帶了沒有？",
+              "migrated": false
+            },
+            {
+              "id": "b1-te-l04",
+              "n": 4,
+              "title": "我愛台灣的人情味",
+              "migrated": false
+            },
+            {
+              "id": "b1-te-l05",
+              "n": 5,
+              "title": "現在流行什麼？",
+              "migrated": false
+            },
+            {
+              "id": "b1-te-l06",
+              "n": 6,
+              "title": "到鄉下住一晚！",
+              "migrated": false
+            },
+            {
+              "id": "b1-te-l07",
+              "n": 7,
+              "title": "我最親的家「人」",
+              "migrated": false
+            },
+            {
+              "id": "b1-te-l08",
+              "n": 8,
+              "title": "我想做自己",
+              "migrated": false
+            },
+            {
+              "id": "b1-te-l09",
+              "n": 9,
+              "title": "網購時代",
+              "migrated": false
+            },
+            {
+              "id": "b1-te-l10",
+              "n": 10,
+              "title": "我住院了",
+              "migrated": false
+            },
+            {
+              "id": "b1-te-l11",
+              "n": 11,
+              "title": "台灣故事",
+              "migrated": false
+            },
+            {
+              "id": "b1-te-l12",
+              "n": 12,
+              "title": "我要去投票",
+              "migrated": false
+            }
+          ]
+        },
+        {
+          "id": "b1-wo",
+          "kind": "workbook",
+          "label": "Workbook 作業本",
+          "pages": 98,
+          "lessons": [
+            {
+              "id": "b1-wo-l01",
+              "n": 1,
+              "title": "開學了",
+              "migrated": false
+            },
+            {
+              "id": "b1-wo-l02",
+              "n": 2,
+              "title": "八折起",
+              "migrated": false
+            },
+            {
+              "id": "b1-wo-l03",
+              "n": 3,
+              "title": "外套帶了沒有？",
+              "migrated": false
+            },
+            {
+              "id": "b1-wo-l04",
+              "n": 4,
+              "title": "我愛台灣的人情味",
+              "migrated": false
+            },
+            {
+              "id": "b1-wo-l05",
+              "n": 5,
+              "title": "現在流行什麼？",
+              "migrated": false
+            },
+            {
+              "id": "b1-wo-l06",
+              "n": 6,
+              "title": "到鄉下住一晚！",
+              "migrated": false
+            },
+            {
+              "id": "b1-wo-l07",
+              "n": 7,
+              "title": "我最親的家「人」",
+              "migrated": false
+            },
+            {
+              "id": "b1-wo-l08",
+              "n": 8,
+              "title": "我想做自己",
+              "migrated": false
+            },
+            {
+              "id": "b1-wo-l09",
+              "n": 9,
+              "title": "網購時代",
+              "migrated": false
+            },
+            {
+              "id": "b1-wo-l10",
+              "n": 10,
+              "title": "我住院了",
+              "migrated": false
+            },
+            {
+              "id": "b1-wo-l11",
+              "n": 11,
+              "title": "台灣故事",
+              "migrated": false
+            },
+            {
+              "id": "b1-wo-l12",
+              "n": 12,
+              "title": "我要去投票",
+              "migrated": false
+            }
+          ]
+        }
+      ]
     },
     {
-     "id": "b1-wo",
-     "kind": "workbook",
-     "label": "Workbook 作業本",
-     "pages": 98,
-     "lessons": [
-      {
-       "id": "b1-wo-l01",
-       "n": 1,
-       "title": "開學了",
-       "migrated": false
-      },
-      {
-       "id": "b1-wo-l02",
-       "n": 2,
-       "title": "八折起",
-       "migrated": false
-      },
-      {
-       "id": "b1-wo-l03",
-       "n": 3,
-       "title": "外套帶了沒有？",
-       "migrated": false
-      },
-      {
-       "id": "b1-wo-l04",
-       "n": 4,
-       "title": "我愛台灣的人情味",
-       "migrated": false
-      },
-      {
-       "id": "b1-wo-l05",
-       "n": 5,
-       "title": "現在流行什麼？",
-       "migrated": false
-      },
-      {
-       "id": "b1-wo-l06",
-       "n": 6,
-       "title": "到鄉下住一晚！",
-       "migrated": false
-      },
-      {
-       "id": "b1-wo-l07",
-       "n": 7,
-       "title": "我最親的家「人」",
-       "migrated": false
-      },
-      {
-       "id": "b1-wo-l08",
-       "n": 8,
-       "title": "我想做自己",
-       "migrated": false
-      },
-      {
-       "id": "b1-wo-l09",
-       "n": 9,
-       "title": "網購時代",
-       "migrated": false
-      },
-      {
-       "id": "b1-wo-l10",
-       "n": 10,
-       "title": "我住院了",
-       "migrated": false
-      },
-      {
-       "id": "b1-wo-l11",
-       "n": 11,
-       "title": "台灣故事",
-       "migrated": false
-      },
-      {
-       "id": "b1-wo-l12",
-       "n": 12,
-       "title": "我要去投票",
-       "migrated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "b2",
-   "label": "B2",
-   "vol": 4,
-   "books": [
-    {
-     "id": "b2-te",
-     "kind": "textbook",
-     "label": "Textbook 課本",
-     "pages": 375,
-     "lessons": [
-      {
-       "id": "b2-te-l01",
-       "n": 1,
-       "title": "十七歲還是二十五歲？",
-       "migrated": false
-      },
-      {
-       "id": "b2-te-l02",
-       "n": 2,
-       "title": "眼睛、耳朵的饗宴",
-       "migrated": false
-      },
-      {
-       "id": "b2-te-l03",
-       "n": 3,
-       "title": "雲端科技",
-       "migrated": false
-      },
-      {
-       "id": "b2-te-l04",
-       "n": 4,
-       "title": "床該擺哪裡？",
-       "migrated": false
-      },
-      {
-       "id": "b2-te-l05",
-       "n": 5,
-       "title": "有夢最美",
-       "migrated": false
-      },
-      {
-       "id": "b2-te-l06",
-       "n": 6,
-       "title": "天搖地動",
-       "migrated": false
-      },
-      {
-       "id": "b2-te-l07",
-       "n": 7,
-       "title": "大學生的事",
-       "migrated": false
-      },
-      {
-       "id": "b2-te-l08",
-       "n": 8,
-       "title": "他們的選擇",
-       "migrated": false
-      },
-      {
-       "id": "b2-te-l09",
-       "n": 9,
-       "title": "再談台灣故事",
-       "migrated": false
-      },
-      {
-       "id": "b2-te-l10",
-       "n": 10,
-       "title": "應徵",
-       "migrated": false
-      },
-      {
-       "id": "b2-te-l11",
-       "n": 11,
-       "title": "文化、種族的大熔爐",
-       "migrated": false
-      },
-      {
-       "id": "b2-te-l12",
-       "n": 12,
-       "title": "期待美好的未來",
-       "migrated": false
-      }
-     ]
+      "id": "b2",
+      "label": "B2",
+      "vol": 4,
+      "books": [
+        {
+          "id": "b2-te",
+          "kind": "textbook",
+          "label": "Textbook 課本",
+          "pages": 375,
+          "lessons": [
+            {
+              "id": "b2-te-l01",
+              "n": 1,
+              "title": "十七歲還是二十五歲？",
+              "migrated": false
+            },
+            {
+              "id": "b2-te-l02",
+              "n": 2,
+              "title": "眼睛、耳朵的饗宴",
+              "migrated": false
+            },
+            {
+              "id": "b2-te-l03",
+              "n": 3,
+              "title": "雲端科技",
+              "migrated": false
+            },
+            {
+              "id": "b2-te-l04",
+              "n": 4,
+              "title": "床該擺哪裡？",
+              "migrated": false
+            },
+            {
+              "id": "b2-te-l05",
+              "n": 5,
+              "title": "有夢最美",
+              "migrated": false
+            },
+            {
+              "id": "b2-te-l06",
+              "n": 6,
+              "title": "天搖地動",
+              "migrated": false
+            },
+            {
+              "id": "b2-te-l07",
+              "n": 7,
+              "title": "大學生的事",
+              "migrated": false
+            },
+            {
+              "id": "b2-te-l08",
+              "n": 8,
+              "title": "他們的選擇",
+              "migrated": false
+            },
+            {
+              "id": "b2-te-l09",
+              "n": 9,
+              "title": "再談台灣故事",
+              "migrated": false
+            },
+            {
+              "id": "b2-te-l10",
+              "n": 10,
+              "title": "應徵",
+              "migrated": false
+            },
+            {
+              "id": "b2-te-l11",
+              "n": 11,
+              "title": "文化、種族的大熔爐",
+              "migrated": false
+            },
+            {
+              "id": "b2-te-l12",
+              "n": 12,
+              "title": "期待美好的未來",
+              "migrated": false
+            }
+          ]
+        },
+        {
+          "id": "b2-wo",
+          "kind": "workbook",
+          "label": "Workbook 作業本",
+          "pages": 87,
+          "lessons": [
+            {
+              "id": "b2-wo-l01",
+              "n": 1,
+              "title": "十七歲還是二十五歲？",
+              "migrated": false
+            },
+            {
+              "id": "b2-wo-l02",
+              "n": 2,
+              "title": "眼睛、耳朵的饗宴",
+              "migrated": false
+            },
+            {
+              "id": "b2-wo-l03",
+              "n": 3,
+              "title": "雲端科技",
+              "migrated": false
+            },
+            {
+              "id": "b2-wo-l04",
+              "n": 4,
+              "title": "床該擺哪裡？",
+              "migrated": false
+            },
+            {
+              "id": "b2-wo-l05",
+              "n": 5,
+              "title": "有夢最美",
+              "migrated": false
+            },
+            {
+              "id": "b2-wo-l06",
+              "n": 6,
+              "title": "天搖地動",
+              "migrated": false
+            },
+            {
+              "id": "b2-wo-l07",
+              "n": 7,
+              "title": "大學生的事",
+              "migrated": false
+            },
+            {
+              "id": "b2-wo-l08",
+              "n": 8,
+              "title": "他們的選擇",
+              "migrated": false
+            },
+            {
+              "id": "b2-wo-l09",
+              "n": 9,
+              "title": "再談台灣故事",
+              "migrated": false
+            },
+            {
+              "id": "b2-wo-l10",
+              "n": 10,
+              "title": "應徵",
+              "migrated": false
+            },
+            {
+              "id": "b2-wo-l11",
+              "n": 11,
+              "title": "文化、種族的大熔爐",
+              "migrated": false
+            },
+            {
+              "id": "b2-wo-l12",
+              "n": 12,
+              "title": "期待美好的未來",
+              "migrated": false
+            }
+          ]
+        }
+      ]
     },
     {
-     "id": "b2-wo",
-     "kind": "workbook",
-     "label": "Workbook 作業本",
-     "pages": 87,
-     "lessons": [
-      {
-       "id": "b2-wo-l01",
-       "n": 1,
-       "title": "十七歲還是二十五歲？",
-       "migrated": false
-      },
-      {
-       "id": "b2-wo-l02",
-       "n": 2,
-       "title": "眼睛、耳朵的饗宴",
-       "migrated": false
-      },
-      {
-       "id": "b2-wo-l03",
-       "n": 3,
-       "title": "雲端科技",
-       "migrated": false
-      },
-      {
-       "id": "b2-wo-l04",
-       "n": 4,
-       "title": "床該擺哪裡？",
-       "migrated": false
-      },
-      {
-       "id": "b2-wo-l05",
-       "n": 5,
-       "title": "有夢最美",
-       "migrated": false
-      },
-      {
-       "id": "b2-wo-l06",
-       "n": 6,
-       "title": "天搖地動",
-       "migrated": false
-      },
-      {
-       "id": "b2-wo-l07",
-       "n": 7,
-       "title": "大學生的事",
-       "migrated": false
-      },
-      {
-       "id": "b2-wo-l08",
-       "n": 8,
-       "title": "他們的選擇",
-       "migrated": false
-      },
-      {
-       "id": "b2-wo-l09",
-       "n": 9,
-       "title": "再談台灣故事",
-       "migrated": false
-      },
-      {
-       "id": "b2-wo-l10",
-       "n": 10,
-       "title": "應徵",
-       "migrated": false
-      },
-      {
-       "id": "b2-wo-l11",
-       "n": 11,
-       "title": "文化、種族的大熔爐",
-       "migrated": false
-      },
-      {
-       "id": "b2-wo-l12",
-       "n": 12,
-       "title": "期待美好的未來",
-       "migrated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "c1",
-   "label": "C1",
-   "vol": 5,
-   "books": [
-    {
-     "id": "c1-te",
-     "kind": "textbook",
-     "label": "Textbook 課本",
-     "pages": 299,
-     "lessons": [
-      {
-       "id": "c1-te-l01",
-       "n": 1,
-       "title": "言論自由的界線",
-       "migrated": false
-      },
-      {
-       "id": "c1-te-l02",
-       "n": 2,
-       "title": "關於基改食品，我有話要說",
-       "migrated": false
-      },
-      {
-       "id": "c1-te-l03",
-       "n": 3,
-       "title": "整型好不好",
-       "migrated": false
-      },
-      {
-       "id": "c1-te-l04",
-       "n": 4,
-       "title": "傳統與現代",
-       "migrated": false
-      },
-      {
-       "id": "c1-te-l05",
-       "n": 5,
-       "title": "代理孕母，帶來幸福？",
-       "migrated": false
-      },
-      {
-       "id": "c1-te-l06",
-       "n": 6,
-       "title": "死刑的存廢",
-       "migrated": false
-      },
-      {
-       "id": "c1-te-l07",
-       "n": 7,
-       "title": "增富人稅＝減窮人苦？",
-       "migrated": false
-      },
-      {
-       "id": "c1-te-l08",
-       "n": 8,
-       "title": "左右為難的難民問題",
-       "migrated": false
-      },
-      {
-       "id": "c1-te-l09",
-       "n": 9,
-       "title": "有核到底可不可？",
-       "migrated": false
-      },
-      {
-       "id": "c1-te-l10",
-       "n": 10,
-       "title": "同性婚姻合法化",
-       "migrated": false
-      }
-     ]
+      "id": "c1",
+      "label": "C1",
+      "vol": 5,
+      "books": [
+        {
+          "id": "c1-te",
+          "kind": "textbook",
+          "label": "Textbook 課本",
+          "pages": 299,
+          "lessons": [
+            {
+              "id": "c1-te-l01",
+              "n": 1,
+              "title": "言論自由的界線",
+              "migrated": false
+            },
+            {
+              "id": "c1-te-l02",
+              "n": 2,
+              "title": "關於基改食品，我有話要說",
+              "migrated": false
+            },
+            {
+              "id": "c1-te-l03",
+              "n": 3,
+              "title": "整型好不好",
+              "migrated": false
+            },
+            {
+              "id": "c1-te-l04",
+              "n": 4,
+              "title": "傳統與現代",
+              "migrated": false
+            },
+            {
+              "id": "c1-te-l05",
+              "n": 5,
+              "title": "代理孕母，帶來幸福？",
+              "migrated": false
+            },
+            {
+              "id": "c1-te-l06",
+              "n": 6,
+              "title": "死刑的存廢",
+              "migrated": false
+            },
+            {
+              "id": "c1-te-l07",
+              "n": 7,
+              "title": "增富人稅＝減窮人苦？",
+              "migrated": false
+            },
+            {
+              "id": "c1-te-l08",
+              "n": 8,
+              "title": "左右為難的難民問題",
+              "migrated": false
+            },
+            {
+              "id": "c1-te-l09",
+              "n": 9,
+              "title": "有核到底可不可？",
+              "migrated": false
+            },
+            {
+              "id": "c1-te-l10",
+              "n": 10,
+              "title": "同性婚姻合法化",
+              "migrated": false
+            }
+          ]
+        },
+        {
+          "id": "c1-wo",
+          "kind": "workbook",
+          "label": "Workbook 作業本",
+          "pages": 55,
+          "lessons": [
+            {
+              "id": "c1-wo-l01",
+              "n": 1,
+              "title": "言論自由的界線",
+              "migrated": false
+            },
+            {
+              "id": "c1-wo-l02",
+              "n": 2,
+              "title": "關於基改食品，我有話要說",
+              "migrated": false
+            },
+            {
+              "id": "c1-wo-l03",
+              "n": 3,
+              "title": "整型好不好",
+              "migrated": false
+            },
+            {
+              "id": "c1-wo-l04",
+              "n": 4,
+              "title": "傳統與現代",
+              "migrated": false
+            },
+            {
+              "id": "c1-wo-l05",
+              "n": 5,
+              "title": "代理孕母，帶來幸福？",
+              "migrated": false
+            },
+            {
+              "id": "c1-wo-l06",
+              "n": 6,
+              "title": "死刑的存廢",
+              "migrated": false
+            },
+            {
+              "id": "c1-wo-l07",
+              "n": 7,
+              "title": "增富人稅＝減窮人苦？",
+              "migrated": false
+            },
+            {
+              "id": "c1-wo-l08",
+              "n": 8,
+              "title": "左右為難的難民問題",
+              "migrated": false
+            },
+            {
+              "id": "c1-wo-l09",
+              "n": 9,
+              "title": "有核到底可不可？",
+              "migrated": false
+            },
+            {
+              "id": "c1-wo-l10",
+              "n": 10,
+              "title": "同性婚姻合法化",
+              "migrated": false
+            }
+          ]
+        }
+      ]
     },
     {
-     "id": "c1-wo",
-     "kind": "workbook",
-     "label": "Workbook 作業本",
-     "pages": 55,
-     "lessons": [
-      {
-       "id": "c1-wo-l01",
-       "n": 1,
-       "title": "言論自由的界線",
-       "migrated": false
-      },
-      {
-       "id": "c1-wo-l02",
-       "n": 2,
-       "title": "關於基改食品，我有話要說",
-       "migrated": false
-      },
-      {
-       "id": "c1-wo-l03",
-       "n": 3,
-       "title": "整型好不好",
-       "migrated": false
-      },
-      {
-       "id": "c1-wo-l04",
-       "n": 4,
-       "title": "傳統與現代",
-       "migrated": false
-      },
-      {
-       "id": "c1-wo-l05",
-       "n": 5,
-       "title": "代理孕母，帶來幸福？",
-       "migrated": false
-      },
-      {
-       "id": "c1-wo-l06",
-       "n": 6,
-       "title": "死刑的存廢",
-       "migrated": false
-      },
-      {
-       "id": "c1-wo-l07",
-       "n": 7,
-       "title": "增富人稅＝減窮人苦？",
-       "migrated": false
-      },
-      {
-       "id": "c1-wo-l08",
-       "n": 8,
-       "title": "左右為難的難民問題",
-       "migrated": false
-      },
-      {
-       "id": "c1-wo-l09",
-       "n": 9,
-       "title": "有核到底可不可？",
-       "migrated": false
-      },
-      {
-       "id": "c1-wo-l10",
-       "n": 10,
-       "title": "同性婚姻合法化",
-       "migrated": false
-      }
-     ]
+      "id": "c2",
+      "label": "C2",
+      "vol": 6,
+      "books": [
+        {
+          "id": "c2-te",
+          "kind": "textbook",
+          "label": "Textbook 課本",
+          "pages": 326,
+          "lessons": [
+            {
+              "id": "c2-te-l01",
+              "n": 1,
+              "title": "職校教育",
+              "migrated": false
+            },
+            {
+              "id": "c2-te-l02",
+              "n": 2,
+              "title": "科技與生活",
+              "migrated": false
+            },
+            {
+              "id": "c2-te-l03",
+              "n": 3,
+              "title": "舞蹈藝術",
+              "migrated": false
+            },
+            {
+              "id": "c2-te-l04",
+              "n": 4,
+              "title": "做人心法",
+              "migrated": false
+            },
+            {
+              "id": "c2-te-l05",
+              "n": 5,
+              "title": "國際語言",
+              "migrated": false
+            },
+            {
+              "id": "c2-te-l06",
+              "n": 6,
+              "title": "貓熊角色",
+              "migrated": false
+            },
+            {
+              "id": "c2-te-l07",
+              "n": 7,
+              "title": "感情世界",
+              "migrated": false
+            },
+            {
+              "id": "c2-te-l08",
+              "n": 8,
+              "title": "奧運黑洞",
+              "migrated": false
+            },
+            {
+              "id": "c2-te-l09",
+              "n": 9,
+              "title": "鄉關何處",
+              "migrated": false
+            },
+            {
+              "id": "c2-te-l10",
+              "n": 10,
+              "title": "智慧與能力",
+              "migrated": false
+            }
+          ]
+        },
+        {
+          "id": "c2-wo",
+          "kind": "workbook",
+          "label": "Workbook 作業本",
+          "pages": 42,
+          "lessons": [
+            {
+              "id": "c2-wo-l01",
+              "n": 1,
+              "title": "職校教育",
+              "migrated": false
+            },
+            {
+              "id": "c2-wo-l02",
+              "n": 2,
+              "title": "科技與生活",
+              "migrated": false
+            },
+            {
+              "id": "c2-wo-l03",
+              "n": 3,
+              "title": "舞蹈藝術",
+              "migrated": false
+            },
+            {
+              "id": "c2-wo-l04",
+              "n": 4,
+              "title": "做人心法",
+              "migrated": false
+            },
+            {
+              "id": "c2-wo-l05",
+              "n": 5,
+              "title": "國際語言",
+              "migrated": false
+            },
+            {
+              "id": "c2-wo-l06",
+              "n": 6,
+              "title": "貓熊角色",
+              "migrated": false
+            },
+            {
+              "id": "c2-wo-l07",
+              "n": 7,
+              "title": "感情世界",
+              "migrated": false
+            },
+            {
+              "id": "c2-wo-l08",
+              "n": 8,
+              "title": "奧運黑洞",
+              "migrated": false
+            },
+            {
+              "id": "c2-wo-l09",
+              "n": 9,
+              "title": "鄉關何處",
+              "migrated": false
+            },
+            {
+              "id": "c2-wo-l10",
+              "n": 10,
+              "title": "智慧與能力",
+              "migrated": false
+            }
+          ]
+        }
+      ]
     }
-   ]
-  },
-  {
-   "id": "c2",
-   "label": "C2",
-   "vol": 6,
-   "books": [
-    {
-     "id": "c2-te",
-     "kind": "textbook",
-     "label": "Textbook 課本",
-     "pages": 326,
-     "lessons": [
-      {
-       "id": "c2-te-l01",
-       "n": 1,
-       "title": "職校教育",
-       "migrated": false
-      },
-      {
-       "id": "c2-te-l02",
-       "n": 2,
-       "title": "科技與生活",
-       "migrated": false
-      },
-      {
-       "id": "c2-te-l03",
-       "n": 3,
-       "title": "舞蹈藝術",
-       "migrated": false
-      },
-      {
-       "id": "c2-te-l04",
-       "n": 4,
-       "title": "做人心法",
-       "migrated": false
-      },
-      {
-       "id": "c2-te-l05",
-       "n": 5,
-       "title": "國際語言",
-       "migrated": false
-      },
-      {
-       "id": "c2-te-l06",
-       "n": 6,
-       "title": "貓熊角色",
-       "migrated": false
-      },
-      {
-       "id": "c2-te-l07",
-       "n": 7,
-       "title": "感情世界",
-       "migrated": false
-      },
-      {
-       "id": "c2-te-l08",
-       "n": 8,
-       "title": "奧運黑洞",
-       "migrated": false
-      },
-      {
-       "id": "c2-te-l09",
-       "n": 9,
-       "title": "鄉關何處",
-       "migrated": false
-      },
-      {
-       "id": "c2-te-l10",
-       "n": 10,
-       "title": "智慧與能力",
-       "migrated": false
-      }
-     ]
-    },
-    {
-     "id": "c2-wo",
-     "kind": "workbook",
-     "label": "Workbook 作業本",
-     "pages": 42,
-     "lessons": [
-      {
-       "id": "c2-wo-l01",
-       "n": 1,
-       "title": "職校教育",
-       "migrated": false
-      },
-      {
-       "id": "c2-wo-l02",
-       "n": 2,
-       "title": "科技與生活",
-       "migrated": false
-      },
-      {
-       "id": "c2-wo-l03",
-       "n": 3,
-       "title": "舞蹈藝術",
-       "migrated": false
-      },
-      {
-       "id": "c2-wo-l04",
-       "n": 4,
-       "title": "做人心法",
-       "migrated": false
-      },
-      {
-       "id": "c2-wo-l05",
-       "n": 5,
-       "title": "國際語言",
-       "migrated": false
-      },
-      {
-       "id": "c2-wo-l06",
-       "n": 6,
-       "title": "貓熊角色",
-       "migrated": false
-      },
-      {
-       "id": "c2-wo-l07",
-       "n": 7,
-       "title": "感情世界",
-       "migrated": false
-      },
-      {
-       "id": "c2-wo-l08",
-       "n": 8,
-       "title": "奧運黑洞",
-       "migrated": false
-      },
-      {
-       "id": "c2-wo-l09",
-       "n": 9,
-       "title": "鄉關何處",
-       "migrated": false
-      },
-      {
-       "id": "c2-wo-l10",
-       "n": 10,
-       "title": "智慧與能力",
-       "migrated": false
-      }
-     ]
-    }
-   ]
-  }
- ]
+  ]
 }

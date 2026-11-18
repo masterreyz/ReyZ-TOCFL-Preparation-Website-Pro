@@ -284,6 +284,18 @@ with sync_playwright() as p:
     page.wait_for_selector(".search-results li")
     check("search finds WoL1 content", page.locator(".search-results a[href='#/lesson/a1-wo-l01']").count() >= 1)
 
+    # ---- A1 Workbook L2 (original mode)
+    page.goto(BASE + "#/lesson/a1-wo-l02")
+    page.wait_for_selector("#h9-x")
+    check("WoL2 renders all sections", all(page.locator(f"#{i}").count() == 1 for i in ["h1-tab", "h2a-x", "h3-x", "h4-x", "h5a-x", "h6-x", "h7-x", "h8-x", "h9-x"]))
+    page.evaluate("window.__spoken.length = 0")
+    page.click("#h6-x .tts-mini >> nth=0")
+    page.wait_for_timeout(300)
+    check("WoL2 exercise item speak", page.evaluate("window.__spoken.map(s=>s.text).join('')").startswith("很好看"))
+    page.goto(BASE + "#/search?q=林大為")
+    page.wait_for_selector(".search-results li")
+    check("search finds WoL2 content", page.locator(".search-results a[href='#/lesson/a1-wo-l02']").count() >= 1)
+
     page.goto(BASE + "#/lesson/a2-te-l03")
     page.wait_for_selector("figure.page img")
     page.locator("figure.page img").first.scroll_into_view_if_needed()
