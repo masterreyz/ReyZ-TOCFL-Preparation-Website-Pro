@@ -260,6 +260,26 @@
   "detail": ""
  },
  {
+  "test": "L15 renders all sections",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "L15 dialogue I read-all",
+  "ok": true,
+  "detail": "王小姐，妳怎麼了？我這兩天一直流鼻水，頭很痛，胃口也很差，什"
+ },
+ {
+  "test": "L15 grammar example speak",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "search finds L15 content",
+  "ok": true,
+  "detail": ""
+ },
+ {
   "test": "book page image loads",
   "ok": true,
   "detail": ""

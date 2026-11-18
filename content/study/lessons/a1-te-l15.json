@@ -1,0 +1,1349 @@
+{
+ "id": "a1-te-l15",
+ "title": "我很不舒服 I Don't Feel Well",
+ "status": "complete",
+ "mode": "original",
+ "statusDetail": "Materi ini ditulis ulang secara orisinal untuk situs ini berdasarkan topik, daftar kosakata, dan pola tata bahasa buku (hlm. buku 324–350): penjelasan, contoh kalimat, dialog latihan, soal, dan catatan budaya memakai kata-kata sendiri. Dialog, latihan bergambar, dan foto asli ada di buku; audio trek asli tetap ditautkan.",
+ "transcribedBy": "Ditulis ulang secara orisinal berdasarkan isi buku, diperiksa terhadap halaman asli, 2026-11-18",
+ "blocks": [
+  {
+   "type": "heading",
+   "id": "h-obj",
+   "en": "Learning Objectives",
+   "zh": "學習目標",
+   "source": {
+    "pages": [
+     324
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "obj",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Topic: 健康 Health"
+    },
+    {
+     "lang": "en",
+     "text": "• Learning to ask someone how they are feeling."
+    },
+    {
+     "lang": "en",
+     "text": "• Learning to describe symptoms in simple terms."
+    },
+    {
+     "lang": "en",
+     "text": "• Learning to make suggestions to somebody who is sick."
+    },
+    {
+     "lang": "en",
+     "text": "• Learning to politely accept or reject suggestions."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-d1",
+   "en": "Dialogue I",
+   "zh": "對話一",
+   "source": {
+    "pages": [
+     324
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "d1-audio",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Practice dialogue written for this site with the vocabulary of Dialogue I. The book’s own Dialogue I is on book p. 324; its recording is track 15-01."
+    }
+   ],
+   "track": "15-01"
+  },
+  {
+   "type": "dialogue",
+   "id": "d1",
+   "lines": [
+    {
+     "spk": "醫生",
+     "zh": "王小姐，妳怎麼了？",
+     "py": "Wáng Xiǎojiě, nǐ zěnme le?"
+    },
+    {
+     "spk": "王小姐",
+     "zh": "我這兩天一直流鼻水，頭很痛，胃口也很差，什麼都不想吃。",
+     "py": "Wǒ zhè liǎng tiān yìzhí liú bíshuǐ, tóu hěn tòng, wèikǒu yě hěn chā, shénme dōu bù xiǎng chī."
+    },
+    {
+     "spk": "醫生",
+     "zh": "我看看妳的喉嚨。喉嚨有一點發炎，妳也有一點發燒，應該是感冒了。",
+     "py": "Wǒ kànkàn nǐ de hóulóng. Hóulóng yǒu yìdiǎn fāyán, nǐ yě yǒu yìdiǎn fāshāo, yīnggāi shì gǎnmào le."
+    },
+    {
+     "spk": "王小姐",
+     "zh": "請問我生病了，需要吃藥嗎？",
+     "py": "Qǐngwèn wǒ shēngbìng le, xūyào chī yào ma?"
+    },
+    {
+     "spk": "醫生",
+     "zh": "需要，妳先去藥局拿藥。",
+     "py": "Xūyào, nǐ xiān qù yàojú ná yào."
+    },
+    {
+     "spk": "王小姐",
+     "zh": "好的。請問我的病什麼時候會好？",
+     "py": "Hǎode. Qǐngwèn wǒ de bìng shénme shíhòu huì hǎo?"
+    },
+    {
+     "spk": "醫生",
+     "zh": "把藥吃了，多喝水，多休息，早一點睡覺，很快就會好。",
+     "py": "Bǎ yào chīle, duō hē shuǐ, duō xiūxí, zǎo yìdiǎn shuìjiào, hěn kuài jiù huì hǎo."
+    },
+    {
+     "spk": "王小姐",
+     "zh": "謝謝您。",
+     "py": "Xièxie nín."
+    }
+   ],
+   "translation": [
+    {
+     "spk": "Doctor",
+     "en": "Miss Wang, what's wrong?"
+    },
+    {
+     "spk": "Miss Wang",
+     "en": "I've had a runny nose nonstop for the past two days, my head really hurts, and my appetite is poor too — I don't feel like eating anything."
+    },
+    {
+     "spk": "Doctor",
+     "en": "Let me look at your throat. Your throat is a bit inflamed, and you have a slight fever too — you've probably caught a cold."
+    },
+    {
+     "spk": "Miss Wang",
+     "en": "Excuse me, since I'm sick, do I need to take medicine?"
+    },
+    {
+     "spk": "Doctor",
+     "en": "Yes, go to the pharmacy first to get your medicine."
+    },
+    {
+     "spk": "Miss Wang",
+     "en": "Okay. Excuse me, when will I get better?"
+    },
+    {
+     "spk": "Doctor",
+     "en": "Take your medicine, drink plenty of water, get plenty of rest, go to bed a bit earlier, and you'll be better soon."
+    },
+    {
+     "spk": "Miss Wang",
+     "en": "Thank you."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-v1",
+   "en": "Vocabulary I",
+   "zh": "生詞一",
+   "source": {
+    "pages": [
+     326
+    ]
+   }
+  },
+  {
+   "type": "vocab",
+   "id": "v1-vocab",
+   "title": "Vocabulary",
+   "items": [
+    {
+     "n": 1,
+     "zh": "醫生",
+     "py": "yīshēng",
+     "pos": "N",
+     "en": "doctor"
+    },
+    {
+     "n": 2,
+     "zh": "一直",
+     "py": "yìzhí",
+     "pos": "Adv",
+     "en": "continuously, all the way"
+    },
+    {
+     "n": 3,
+     "zh": "流",
+     "py": "liú",
+     "pos": "V",
+     "en": "to flow"
+    },
+    {
+     "n": 4,
+     "zh": "鼻水",
+     "py": "bíshuǐ",
+     "pos": "N",
+     "en": "snot, nasal mucus, a running nose"
+    },
+    {
+     "n": 5,
+     "zh": "頭",
+     "py": "tóu",
+     "pos": "N",
+     "en": "head"
+    },
+    {
+     "n": 6,
+     "zh": "痛",
+     "py": "tòng",
+     "pos": "Vs",
+     "en": "painful"
+    },
+    {
+     "n": 7,
+     "zh": "胃口",
+     "py": "wèikǒu",
+     "pos": "N",
+     "en": "appetite"
+    },
+    {
+     "n": 8,
+     "zh": "差",
+     "py": "chā",
+     "pos": "Vs",
+     "en": "poor, bad"
+    },
+    {
+     "n": 9,
+     "zh": "喉嚨",
+     "py": "hóulóng",
+     "pos": "N",
+     "en": "throat"
+    },
+    {
+     "n": 10,
+     "zh": "發炎",
+     "py": "fāyán",
+     "pos": "Vp-sep",
+     "en": "to be inflamed"
+    },
+    {
+     "n": 11,
+     "zh": "生病",
+     "py": "shēngbìng",
+     "pos": "Vp-sep",
+     "en": "to fall ill"
+    },
+    {
+     "n": 12,
+     "zh": "發燒",
+     "py": "fāshāo",
+     "pos": "Vp-sep",
+     "en": "to have a fever"
+    },
+    {
+     "n": 13,
+     "zh": "感冒",
+     "py": "gǎnmào",
+     "pos": "Vp",
+     "en": "to catch/have a cold"
+    },
+    {
+     "n": 14,
+     "zh": "藥",
+     "py": "yào",
+     "pos": "N",
+     "en": "medicine"
+    },
+    {
+     "n": 15,
+     "zh": "藥局",
+     "py": "yàojú",
+     "pos": "N",
+     "en": "pharmacy, drug store"
+    },
+    {
+     "n": 16,
+     "zh": "拿",
+     "py": "ná",
+     "pos": "V",
+     "en": "to get"
+    },
+    {
+     "n": 17,
+     "zh": "把",
+     "py": "bǎ",
+     "pos": "Ptc",
+     "en": "disposal marker"
+    },
+    {
+     "n": 18,
+     "zh": "水",
+     "py": "shuǐ",
+     "pos": "N",
+     "en": "water"
+    },
+    {
+     "n": 19,
+     "zh": "休息",
+     "py": "xiūxí",
+     "pos": "Vi",
+     "en": "to take a rest"
+    },
+    {
+     "n": 20,
+     "zh": "睡覺",
+     "py": "shuìjiào",
+     "pos": "V-sep",
+     "en": "to sleep"
+    }
+   ],
+   "track": "15-02",
+   "source": {
+    "pages": [
+     326,
+     327
+    ]
+   }
+  },
+  {
+   "type": "vocab",
+   "id": "v1-phrases",
+   "title": "Phrases",
+   "items": [
+    {
+     "n": 21,
+     "zh": "早一點",
+     "py": "zǎo yìdiǎn",
+     "pos": "",
+     "en": "a bit earlier"
+    }
+   ],
+   "source": {
+    "pages": [
+     327
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "h-d2",
+   "en": "Dialogue II",
+   "zh": "對話二",
+   "source": {
+    "pages": [
+     327
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "d2-audio",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Practice dialogue written for this site with the vocabulary of Dialogue II. The book’s own Dialogue II is on book p. 327; its recording is track 15-03."
+    }
+   ],
+   "track": "15-03"
+  },
+  {
+   "type": "dialogue",
+   "id": "d2",
+   "lines": [
+    {
+     "spk": "如玉",
+     "zh": "大衛，你怎麼了？臉色這麼難看。",
+     "py": "Dàwèi, nǐ zěnme le? Liǎnsè zhème nánkàn."
+    },
+    {
+     "spk": "大衛",
+     "zh": "我昨天晚上肚子很不舒服，吐了好幾次。",
+     "py": "Wǒ zuótiān wǎnshàng dùzi hěn bù shūfú, tùle hǎo jǐ cì."
+    },
+    {
+     "spk": "如玉",
+     "zh": "你這麼不舒服，要不要我跟你一起去看病？",
+     "py": "Nǐ zhème bù shūfú, yào bú yào wǒ gēn nǐ yìqǐ qù kànbìng?"
+    },
+    {
+     "spk": "大衛",
+     "zh": "不用了，我在臺灣沒有健康保險，我想自己去藥局買藥就好。",
+     "py": "Búyòng le, wǒ zài Táiwān méiyǒu jiànkāng bǎoxiǎn, wǒ xiǎng zìjǐ qù yàojú mǎi yào jiù hǎo."
+    },
+    {
+     "spk": "如玉",
+     "zh": "你真的不去看病嗎？學校的健康中心很方便，而且不用付很多錢。",
+     "py": "Nǐ zhēnde bú qù kànbìng ma? Xuéxiào de jiànkāng zhōngxīn hěn fāngbiàn, érqiě búyòng fù hěn duō qián."
+    },
+    {
+     "spk": "大衛",
+     "zh": "好吧，那麻煩妳陪我去健康中心。",
+     "py": "Hǎo ba, nà máfán nǐ péi wǒ qù jiànkāng zhōngxīn."
+    },
+    {
+     "spk": "如玉",
+     "zh": "好。你要多小心，冰的、油的東西最好都別吃。",
+     "py": "Hǎo. Nǐ yào duō xiǎoxīn, bīng de, yóu de dōngxi zuìhǎo dōu bié chī."
+    },
+    {
+     "spk": "大衛",
+     "zh": "謝謝妳的關心。",
+     "py": "Xièxie nǐ de guānxīn."
+    },
+    {
+     "spk": "大衛",
+     "zh": "醫生說我吃一包藥，睡一個小時以後就會好一點。",
+     "py": "Yīshēng shuō wǒ chī yì bāo yào, shuì yí ge xiǎoshí yǐhòu jiù huì hǎo yìdiǎn."
+    },
+    {
+     "spk": "如玉",
+     "zh": "太好了，你趕快回家休息吧。",
+     "py": "Tài hǎo le, nǐ gǎnkuài huíjiā xiūxí ba."
+    }
+   ],
+   "translation": [
+    {
+     "spk": "Ruyu",
+     "en": "David, what's wrong? You don't look good at all."
+    },
+    {
+     "spk": "David",
+     "en": "My stomach was really upset last night — I threw up several times."
+    },
+    {
+     "spk": "Ruyu",
+     "en": "You're feeling that bad — do you want me to go with you to see a doctor?"
+    },
+    {
+     "spk": "David",
+     "en": "No need. I don't have health insurance in Taiwan — I think I'll just go buy some medicine at the pharmacy myself."
+    },
+    {
+     "spk": "Ruyu",
+     "en": "Are you really not going to see a doctor? The school's health center is convenient, and it doesn't cost much."
+    },
+    {
+     "spk": "David",
+     "en": "All right, then please go with me to the health center."
+    },
+    {
+     "spk": "Ruyu",
+     "en": "Okay. Be careful — you'd best not eat anything icy or oily."
+    },
+    {
+     "spk": "David",
+     "en": "Thanks for your concern."
+    },
+    {
+     "spk": "David",
+     "en": "(After seeing the doctor) The doctor said I should take a packet of medicine, and I'll feel a bit better after sleeping for an hour."
+    },
+    {
+     "spk": "Ruyu",
+     "en": "Great, go home and rest right away."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-v2",
+   "en": "Vocabulary II",
+   "zh": "生詞二",
+   "source": {
+    "pages": [
+     330
+    ]
+   }
+  },
+  {
+   "type": "vocab",
+   "id": "v2-vocab",
+   "title": "Vocabulary",
+   "items": [
+    {
+     "n": 1,
+     "zh": "臉色",
+     "py": "liǎnsè",
+     "pos": "N",
+     "en": "a person's \"color\" (said of the face when healthy or sick, pleased or angry etc.)"
+    },
+    {
+     "n": 2,
+     "zh": "難看",
+     "py": "nánkàn",
+     "pos": "Vs",
+     "en": "not to look good"
+    },
+    {
+     "n": 3,
+     "zh": "肚子",
+     "py": "dùzi",
+     "pos": "N",
+     "en": "stomach, abdomen"
+    },
+    {
+     "n": 4,
+     "zh": "吐",
+     "py": "tù",
+     "pos": "V",
+     "en": "to throw up, to vomit"
+    },
+    {
+     "n": 5,
+     "zh": "幾",
+     "py": "jǐ",
+     "pos": "N",
+     "en": "(a) few"
+    },
+    {
+     "n": 6,
+     "zh": "次",
+     "py": "cì",
+     "pos": "M",
+     "en": "measure word for times, occurrences"
+    },
+    {
+     "n": 7,
+     "zh": "陪",
+     "py": "péi",
+     "pos": "V",
+     "en": "to go/stay with somebody, to accompany"
+    },
+    {
+     "n": 8,
+     "zh": "看病",
+     "py": "kànbìng",
+     "pos": "V-sep",
+     "en": "to see a doctor"
+    },
+    {
+     "n": 9,
+     "zh": "健康",
+     "py": "jiànkāng",
+     "pos": "N",
+     "en": "health"
+    },
+    {
+     "n": 10,
+     "zh": "保險",
+     "py": "bǎoxiǎn",
+     "pos": "N",
+     "en": "insurance"
+    },
+    {
+     "n": 11,
+     "zh": "跟",
+     "py": "gēn",
+     "pos": "Prep",
+     "en": "to, with"
+    },
+    {
+     "n": 12,
+     "zh": "油",
+     "py": "yóu",
+     "pos": "Vs",
+     "en": "oily, greasy"
+    },
+    {
+     "n": 13,
+     "zh": "冰",
+     "py": "bīng",
+     "pos": "Vs",
+     "en": "icy"
+    },
+    {
+     "n": 14,
+     "zh": "別",
+     "py": "bié",
+     "pos": "Adv",
+     "en": "don't (used in imperatives)"
+    },
+    {
+     "n": 15,
+     "zh": "關心",
+     "py": "guānxīn",
+     "pos": "Vst",
+     "en": "to be concerned about"
+    },
+    {
+     "n": 16,
+     "zh": "包",
+     "py": "bāo",
+     "pos": "M",
+     "en": "measure word for bags, packages etc."
+    },
+    {
+     "n": 17,
+     "zh": "睡",
+     "py": "shuì",
+     "pos": "Vi",
+     "en": "to sleep"
+    },
+    {
+     "n": 18,
+     "zh": "小時",
+     "py": "xiǎoshí",
+     "pos": "N",
+     "en": "hour"
+    }
+   ],
+   "track": "15-04",
+   "source": {
+    "pages": [
+     330
+    ]
+   }
+  },
+  {
+   "type": "vocab",
+   "id": "v2-phrases",
+   "title": "Phrases",
+   "items": [
+    {
+     "n": 19,
+     "zh": "怎麼了",
+     "py": "zěnme le",
+     "pos": "",
+     "en": "What's wrong?"
+    },
+    {
+     "n": 20,
+     "zh": "不用了",
+     "py": "búyòng le",
+     "pos": "",
+     "en": "It's not necessary."
+    },
+    {
+     "n": 21,
+     "zh": "健康中心",
+     "py": "jiànkāng zhōngxīn",
+     "pos": "",
+     "en": "health center"
+    },
+    {
+     "n": 22,
+     "zh": "回家",
+     "py": "huí jiā",
+     "pos": "",
+     "en": "go home"
+    },
+    {
+     "n": 23,
+     "zh": "最好",
+     "py": "zuìhǎo",
+     "pos": "",
+     "en": "It would be best.../ (You) should..."
+    }
+   ],
+   "source": {
+    "pages": [
+     330,
+     331
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "h-gr",
+   "en": "Grammar",
+   "zh": "文法",
+   "source": {
+    "pages": [
+     331
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "g1",
+   "en": "I. Non-committal Stance with Question Words",
+   "level": 3,
+   "source": {
+    "pages": [
+     331
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g1-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: When a question word (什麼, 多少, 幾, 哪裡, 什麼地方, 誰, 什麼時候, etc.) occurs in a statement rather than in a question, it shows the speaker is giving a vague, non-committal answer instead of a clear one. A non-committal statement like this is always negative."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g1-ex",
+   "items": [
+    {
+     "zh": "我感冒了，什麼東西都不想吃。",
+     "py": "Wǒ gǎnmào le, shénme dōngxi dōu bù xiǎng chī.",
+     "en": "I've caught a cold — I don't feel like eating anything at all."
+    },
+    {
+     "zh": "她生病了，哪裡都不想去。",
+     "py": "Tā shēngbìng le, nǎlǐ dōu bù xiǎng qù.",
+     "en": "She's sick — she doesn't want to go anywhere."
+    },
+    {
+     "zh": "我這幾天沒有胃口，吃不下多少東西。",
+     "py": "Wǒ zhè jǐ tiān méiyǒu wèikǒu, chī bú xià duōshǎo dōngxi.",
+     "en": "I haven't had any appetite these past few days — I can't manage to eat much of anything."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "g1-x",
+   "title": "練習 Exercise",
+   "instruction": "Complete each sentence with a question word showing a non-committal, negative stance.",
+   "items": [
+    {
+     "prompt": "他今天胃口不好，不想吃＿＿＿＿＿＿（什麼）。",
+     "hint": ""
+    },
+    {
+     "prompt": "她感冒以後，一直待在家裡，不想去＿＿＿＿＿＿（哪裡）。",
+     "hint": ""
+    },
+    {
+     "prompt": "我沒有力氣，不想花＿＿＿＿＿＿（多少）時間打掃房間。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "g2",
+   "en": "II. To Dispose of Something with 把 bǎ",
+   "level": 3,
+   "source": {
+    "pages": [
+     332,
+     333
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g2-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: 把 bǎ, the “disposal construction,” describes how the subject disposes of or handles a definite object. Structure: 把 + definite object + (bare, one-syllable, outward-transitive) verb + 了. The object must be definite (a bare noun, or one modified by 這個, 那個, 他的, etc.). Negation uses 沒 or 別 before 把."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g2-ex",
+   "items": [
+    {
+     "zh": "我把藥吃了。",
+     "py": "Wǒ bǎ yào chīle.",
+     "en": "I took the medicine."
+    },
+    {
+     "zh": "她把感冒藥放在包包裡了。",
+     "py": "Tā bǎ gǎnmào yào fàng zài bāobāo lǐ le.",
+     "en": "She put the cold medicine in her bag."
+    },
+    {
+     "zh": "護士把我的藥拿來了。",
+     "py": "Hùshì bǎ wǒ de yào ná lái le.",
+     "en": "The nurse brought my medicine over."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "g2-x",
+   "title": "練習 Exercise",
+   "instruction": "Complete each sentence using the 把 disposal construction.",
+   "items": [
+    {
+     "prompt": "請你＿＿＿＿＿＿（把／藥）喝了。",
+     "hint": ""
+    },
+    {
+     "prompt": "妳＿＿＿＿＿＿（把／窗戶）打開了嗎？",
+     "hint": ""
+    },
+    {
+     "prompt": "我已經＿＿＿＿＿＿（把／咳嗽藥水）喝完了。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "g3",
+   "en": "III. V 了 le…就 jiù… — do...right after doing...",
+   "level": 3,
+   "source": {
+    "pages": [
+     333,
+     334
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g3-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: The pattern “V 了…就…” shows that the second event happens right after the first one is completed. It differs from the 一…就… pattern (Lesson 13) in that the verbal phrase after V了 is not restricted to being short, and 以後 can be added after V了 (but not after 一)."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g3-ex",
+   "items": [
+    {
+     "zh": "他看了醫生就回家了。",
+     "py": "Tā kànle yīshēng jiù huíjiā le.",
+     "en": "He went home right after seeing the doctor."
+    },
+    {
+     "zh": "我吃了藥就覺得舒服多了。",
+     "py": "Wǒ chīle yào jiù juéde shūfú duō le.",
+     "en": "I felt a lot better right after taking the medicine."
+    },
+    {
+     "zh": "她下了課就去藥局拿藥。",
+     "py": "Tā xiàle kè jiù qù yàojú ná yào.",
+     "en": "She went to the pharmacy to get medicine right after class."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "g3-x",
+   "title": "練習 Exercise",
+   "instruction": "Answer each question using the V了…就… pattern.",
+   "items": [
+    {
+     "prompt": "你什麼時候要去看醫生？（下班）→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "你什麼時候要吃藥？（吃飯）→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "他什麼時候會覺得好一點？（睡覺）→ ＿＿＿＿＿＿。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "g4",
+   "en": "IV. 一點 yìdiǎn — a bit",
+   "level": 3,
+   "source": {
+    "pages": [
+     335
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g4-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: 一點 yìdiǎn indicates a minimal quantity or degree. It can go before a noun as its modifier (一點 + NP), after a state verb to show comparison (Vs + 一點, “a little more/less…”), or after 有 before a state verb without implying comparison (有(一)點 + Vs)."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g4-ex",
+   "items": [
+    {
+     "zh": "她喝了一點熱湯，覺得舒服多了。",
+     "py": "Tā hēle yìdiǎn rè tāng, juéde shūfú duō le.",
+     "en": "She drank a bit of hot soup and felt a lot more comfortable."
+    },
+    {
+     "zh": "這個藥有一點苦，可是很有效。",
+     "py": "Zhè ge yào yǒu yìdiǎn kǔ, kěshì hěn yǒuxiào.",
+     "en": "This medicine is a bit bitter, but it's very effective."
+    },
+    {
+     "zh": "請你早一點回家休息。",
+     "py": "Qǐng nǐ zǎo yìdiǎn huíjiā xiūxí.",
+     "en": "Please go home a bit earlier to rest."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "g4-x",
+   "title": "練習 Exercise",
+   "instruction": "Complete the sentences below using 一點, 有一點, or 多/少 V 一點 as appropriate.",
+   "items": [
+    {
+     "prompt": "你不舒服，要＿＿＿＿＿＿（休息）。",
+     "hint": ""
+    },
+    {
+     "prompt": "他感冒了，臉色看起來＿＿＿＿＿＿（難看）。",
+     "hint": ""
+    },
+    {
+     "prompt": "醫生說我的病＿＿＿＿＿＿（嚴重），要多注意。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "g5",
+   "en": "V. Comparing Actions with a 得 de Complement",
+   "level": 3,
+   "source": {
+    "pages": [
+     336,
+     337
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g5-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: This pattern compares how an action is performed. Most commonly: Action + 得 + Comparative + State, with the verb repeated when it takes an object (e.g., 看病看得比…快). Negation places 不 before 比."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g5-ex",
+   "items": [
+    {
+     "zh": "這位醫生看病看得比較仔細。",
+     "py": "Zhè wèi yīshēng kànbìng kàn de bǐjiào zǐxì.",
+     "en": "This doctor examines patients more carefully."
+    },
+    {
+     "zh": "弟弟睡覺睡得比我晚。",
+     "py": "Dìdi shuìjiào shuì de bǐ wǒ wǎn.",
+     "en": "My younger brother goes to sleep later than I do."
+    },
+    {
+     "zh": "她吃藥吃得不比我快。",
+     "py": "Tā chī yào chī de bù bǐ wǒ kuài.",
+     "en": "She doesn't take her medicine faster than I do."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "g5-x",
+   "title": "練習 Exercise",
+   "instruction": "Compare the two actions using 得 de and complete the sentences.",
+   "items": [
+    {
+     "prompt": "王小姐看病看了半個小時，田中看病看了二十分鐘。→ 王小姐看病＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "哥哥昨天晚上睡了五個鐘頭，妹妹睡了八個鐘頭。→ 哥哥昨天晚上＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "如玉吃藥吃得很快，大衛吃藥吃得很慢。→ 如玉＿＿＿＿＿＿。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "g6",
+   "en": "VI. Complements of Degree in Comparison Structures",
+   "level": 3,
+   "source": {
+    "pages": [
+     338
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g6-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: A degree of difference can be added after a comparison with 比 using …一點 (a little), …得多 (a lot), or …多了 (a lot more). All three go after the state verb."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g6-ex",
+   "items": [
+    {
+     "zh": "這次的感冒比上次嚴重一點。",
+     "py": "Zhè cì de gǎnmào bǐ shàng cì yánzhòng yìdiǎn.",
+     "en": "This cold is a little more serious than the last one."
+    },
+    {
+     "zh": "喝熱湯比喝冷水舒服得多。",
+     "py": "Hē rè tāng bǐ hē lěng shuǐ shūfú de duō.",
+     "en": "Drinking hot soup is a lot more pleasant than drinking cold water."
+    },
+    {
+     "zh": "我現在覺得比早上好多了。",
+     "py": "Wǒ xiànzài juéde bǐ zǎoshàng hǎo duō le.",
+     "en": "I feel a lot better now than I did this morning."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "g6-x",
+   "title": "練習 Exercise",
+   "instruction": "Answer the questions below using 一點, 得多, or 多了 in the complement.",
+   "items": [
+    {
+     "prompt": "這種藥比那種藥貴嗎？→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "你今天的胃口是不是比昨天好？→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "田中的燒是不是比如玉的高得多？→ ＿＿＿＿＿＿。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "g7",
+   "en": "VII. Separable Verbs",
+   "level": 3,
+   "source": {
+    "pages": [
+     339
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "g7-f",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Use: Separable verbs have the inherent structure [V+N]; an element — 了, an object, or a time-duration — can be inserted between the V and the N, after which the two behave like a verb and its object. Examples among the words of this lesson: 看病, 生病, 睡覺."
+    }
+   ]
+  },
+  {
+   "type": "examples",
+   "id": "g7-ex",
+   "items": [
+    {
+     "zh": "他這個月看了三次病。",
+     "py": "Tā zhège yuè kànle sān cì bìng.",
+     "en": "He's seen a doctor three times this month."
+    },
+    {
+     "zh": "我想睡一個下午的覺。",
+     "py": "Wǒ xiǎng shuì yí ge xiàwǔ de jiào.",
+     "en": "I'd like to sleep the whole afternoon."
+    },
+    {
+     "zh": "她照顧了我好幾天。",
+     "py": "Tā zhàogùle wǒ hǎo jǐ tiān.",
+     "en": "She took care of me for several days."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "g7-x",
+   "title": "練習 Exercise",
+   "instruction": "Separate the elements V and N below, then insert something between them to form a good sentence.",
+   "items": [
+    {
+     "prompt": "看病 → ＿＿＿＿＿＿",
+     "hint": ""
+    },
+    {
+     "prompt": "生病 → ＿＿＿＿＿＿",
+     "hint": ""
+    },
+    {
+     "prompt": "睡覺 → ＿＿＿＿＿＿",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-act",
+   "en": "Classroom Activities",
+   "zh": "課室活動",
+   "source": {
+    "pages": [
+     345
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "act1",
+   "en": "I. Let's Compare",
+   "level": 3
+  },
+  {
+   "type": "text",
+   "id": "act1-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Learning to make comparisons of varying degrees using a 得 complement."
+    },
+    {
+     "lang": "en",
+     "text": "Task: The chart below shows how long four classmates slept last night and how many times each saw a doctor this semester. Using the questions as a guide, compare the four people with a classmate."
+    },
+    {
+     "lang": "en",
+     "text": "睡覺時間：田中 6 小時 / 如玉 7 個半小時 / 安同 5 個小時 / 月美 8 個小時"
+    },
+    {
+     "lang": "en",
+     "text": "看病次數（這學期）：田中 1 次 / 如玉 3 次 / 安同 0 次 / 月美 2 次"
+    },
+    {
+     "lang": "en",
+     "text": "1. 誰睡得比較久？誰睡得比較少？"
+    },
+    {
+     "lang": "en",
+     "text": "2. 誰看病看得比較多次？誰一次都沒看過？"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "act2",
+   "en": "II. Who Is Taking Care of Me?",
+   "level": 3,
+   "source": {
+    "pages": [
+     346
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "act2-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Learning to ask how someone is feeling and to give suggestions to somebody who is sick."
+    },
+    {
+     "lang": "en",
+     "text": "Task 1: Act out the roles A and B with a classmate and write down your conversation. A asks B what's wrong; B describes a symptom; A suggests something B should do (應該/最好); B accepts or politely declines the suggestion."
+    },
+    {
+     "lang": "en",
+     "text": "Task 2: Role-play being a patient who has a headache and a slight fever. Your partner plays the doctor. Describe your symptoms, and have the doctor give you some advice."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "act3",
+   "en": "III. Taking Medication",
+   "level": 3,
+   "source": {
+    "pages": [
+     347
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "act3-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Learning to read the instructions on a prescription label."
+    },
+    {
+     "lang": "en",
+     "text": "Task: Look at the prescription label below and ask a classmate the three questions that follow."
+    },
+    {
+     "lang": "en",
+     "text": "健康藥局：一天 3 次，4 日份，飯後 30 分鐘"
+    },
+    {
+     "lang": "en",
+     "text": "1. 這種藥一天吃幾次？"
+    },
+    {
+     "lang": "en",
+     "text": "2. 這些藥夠吃幾天？"
+    },
+    {
+     "lang": "en",
+     "text": "3. 應該在飯前還是飯後吃？"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "act4",
+   "en": "IV. Use 把 Construction",
+   "level": 3,
+   "source": {
+    "pages": [
+     348
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "act4-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Learning to use the disposal construction 把."
+    },
+    {
+     "lang": "en",
+     "text": "Task: With a partner, complete the dialogues below based on the situations given."
+    },
+    {
+     "lang": "en",
+     "text": "1. A：醫生說我的藥一天要吃三次，可是我常常忘記。B：那你要記得按時＿＿＿＿＿＿（把／藥）吃了。"
+    },
+    {
+     "lang": "en",
+     "text": "2. A：你怎麼還沒去藥局？B：我等一下就去，我想先＿＿＿＿＿＿（把／這碗湯）喝完。"
+    },
+    {
+     "lang": "en",
+     "text": "3. A：你的感冒好一點了嗎？B：好多了，昨天晚上我＿＿＿＿＿＿（把／醫生開的藥）吃了，今天就不發燒了。"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "act5",
+   "en": "V. How Are You Feeling?",
+   "level": 3,
+   "source": {
+    "pages": [
+     348
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "act5-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Goal: Learning to talk about having a cold."
+    },
+    {
+     "lang": "en",
+     "text": "Task: Your friend 田中 is sick at home. Call him and ask how he is feeling, then ask four more questions about his condition."
+    },
+    {
+     "lang": "en",
+     "text": "1. ＿＿＿＿＿＿？"
+    },
+    {
+     "lang": "en",
+     "text": "2. ＿＿＿＿＿＿？"
+    },
+    {
+     "lang": "en",
+     "text": "3. ＿＿＿＿＿＿？"
+    },
+    {
+     "lang": "en",
+     "text": "4. ＿＿＿＿＿＿？"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-cult",
+   "en": "Bits of Chinese Culture",
+   "zh": "文化",
+   "source": {
+    "pages": [
+     349
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "cult1",
+   "en": "Wearing Surgical Masks",
+   "level": 3
+  },
+  {
+   "type": "text",
+   "id": "cult1-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Seeing someone wearing a surgical mask on the street in Taiwan doesn't necessarily mean that person is ill."
+    },
+    {
+     "lang": "en",
+     "text": "Because colds spread easily through the respiratory system, especially when the seasons are changing, many people wear a mask on crowded buses or the MRT simply to lower the chance of catching or spreading one."
+    },
+    {
+     "lang": "en",
+     "text": "People wear masks for other everyday reasons too: scooter riders wear them in winter to stay warm and to filter out exhaust and dust; restaurant staff wear them so that they don't unintentionally let anything land in the food they're preparing; and in hospitals, both staff and patients wear them to help prevent infections from spreading. In short, a mask in Taiwan is usually a simple precaution, not a sign that something is wrong."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h-self",
+   "en": "Self-Assessment Checklist",
+   "source": {
+    "pages": [
+     350
+    ]
+   }
+  },
+  {
+   "type": "checklist",
+   "id": "self",
+   "items": [
+    "I can ask someone how they are feeling.",
+    "I can describe symptoms in simple terms.",
+    "I can make suggestions to somebody who is sick.",
+    "I can politely accept or reject suggestions."
+   ]
+  }
+ ]
+}

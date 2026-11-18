@@ -47,7 +47,7 @@ out = {
     "status": STATUS,
     "mode": "original",
     "statusDetail": DETAIL,
-    "transcribedBy": "Ditulis ulang secara orisinal berdasarkan isi buku, diperiksa terhadap halaman asli, 2026-11-17",
+    "transcribedBy": "Ditulis ulang secara orisinal berdasarkan isi buku, diperiksa terhadap halaman asli, 2026-11-18",
     "blocks": B,
 }
 ids = [b["id"] for b in B]
