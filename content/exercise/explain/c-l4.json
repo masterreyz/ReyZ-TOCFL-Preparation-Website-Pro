@@ -2,6 +2,7 @@
  "testId": "c-l4",
  "segments": 456,
  "englishComplete": true,
+ "indonesianComplete": false,
  "questions": {
   "1": {
    "options": {
@@ -17,7 +18,7 @@
     },
     "C": {
      "zh": "原來小張最近都忙著工作",
-     "py": "Yuánlái xiǎozhāng zuìjìn dōu máng zhù gōngzuò",
+     "py": "Yuánlái xiǎozhāng zuìjìn dōu máng zhe gōngzuò",
      "en": "(C) So Xiao Zhang has been busy with work lately."
     },
     "D": {
@@ -99,7 +100,7 @@
     },
     "B": {
      "zh": "想追求那位美女的話，得趕快行動",
-     "py": "Xiǎng zhuīqiú nàwèi měinǚ dehuà, dé gǎnkuài xíngdòng",
+     "py": "Xiǎng zhuīqiú nàwèi měinǚ dehuà, děi gǎnkuài xíngdòng",
      "en": "(B) If he wants to pursue that beauty, he must act fast."
     },
     "C": {
@@ -155,7 +156,7 @@
     },
     "D": {
      "zh": "教練有教練的打算，用不著操心",
-     "py": "Jiàoliàn yǒu jiàoliàn de dǎsuàn, yòng búzhù cāoxīn",
+     "py": "Jiàoliàn yǒu jiàoliàn de dǎsuàn, yòng bùzháo cāoxīn",
      "en": "(D) The coach has his own plans; there's no need to worry."
     }
    },
@@ -242,7 +243,7 @@
     },
     "D": {
      "zh": "應該像他一樣地熱心才對",
-     "py": "Yīnggāi xiàng tā yíyàng dì rèxīn cái duì",
+     "py": "Yīnggāi xiàng tā yíyàng de rèxīn cái duì",
      "en": "(D) People should be as enthusiastic as him."
     }
    },
@@ -309,7 +310,7 @@
    "options": {
     "A": {
      "zh": "狠狠地教訓小陳一頓就夠了",
-     "py": "Hěnhěn dì jiàoxùn xiǎo Chén yídùn jiù gòu le",
+     "py": "Hěnhěn de jiàoxùn xiǎo Chén yídùn jiù gòu le",
      "en": "(A) Giving Xiao Chen a good telling-off will do."
     },
     "B": {
@@ -341,7 +342,7 @@
     },
     {
      "zh": "女：他可能有什麼急事吧，等他回來再好好跟他說就好了，用不著發那麼大的脾",
-     "py": "Nǚ: Tā kěnéng yǒu shénme jíshì ba, děng tā huílái zài hǎohǎo gēn tā shuō jiù hǎo le, yòng búzhù fā nàme dà de pí",
+     "py": "Nǚ: Tā kěnéng yǒu shénme jíshì ba, děng tā huílái zài hǎohǎo gēn tā shuō jiù hǎo le, yòng bùzháo fā nàme dà de pí",
      "en": "Woman: Maybe he had something urgent. Just talk to him properly when he's back—there's no need to lose your"
     },
     {
@@ -356,7 +357,7 @@
     },
     {
      "zh": "以下這段討論和古典詩詞有關，討論中提到陳子昂與他的詩作《登幽州臺歌》。",
-     "py": "Yǐxià zhè duàn tǎolùn hé Gǔdiǎn shīcí yǒuguān, tǎolùn zhōng tídào Chénziáng yǔ tā de shīzuò «Dēng yōuzhōu táigē».",
+     "py": "Yǐxià zhè duàn tǎolùn hé Gǔdiǎn shīcí yǒuguān, tǎolùn zhōng tídào Chénzi'áng yǔ tā de shīzuò «Dēng yōuzhōu táigē».",
      "en": "The following discussion is about classical poetry; it mentions Chen Zi'ang and his poem \"Song on Ascending the Youzhou Terrace.\""
     }
    ]
@@ -365,7 +366,7 @@
    "passage": [
     {
      "zh": "以下這段討論和古典詩詞有關，討論中提到陳子昂與他的詩作《登幽州臺歌》。",
-     "py": "Yǐxià zhè duàn tǎolùn hé Gǔdiǎn shīcí yǒuguān, tǎolùn zhōng tídào Chénziáng yǔ tā de shīzuò «Dēng yōuzhōu táigē».",
+     "py": "Yǐxià zhè duàn tǎolùn hé Gǔdiǎn shīcí yǒuguān, tǎolùn zhōng tídào Chénzi'áng yǔ tā de shīzuò «Dēng yōuzhōu táigē».",
      "en": "The following discussion is about classical poetry; it mentions Chen Zi'ang and his poem \"Song on Ascending the Youzhou Terrace.\""
     },
     {
@@ -429,7 +430,7 @@
     },
     {
      "zh": "男：你這是拐著彎罵我沒同理心。你瞧這些詩不是愁就是悲，我讀多了能不麻痺",
-     "py": "Nán: Nǐ zhè shì guǎizhù wānmà wǒ méi tónglǐ xīn. Nǐ qiáo zhèxiē shī búshì chóu jiùshì bēi, wǒ dú duō le néng bù mábì",
+     "py": "Nán: Nǐ zhè shì guǎizhe wānmà wǒ méi tónglǐ xīn. Nǐ qiáo zhèxiē shī búshì chóu jiùshì bēi, wǒ dú duō le néng bù mábì",
      "en": "Man: You're indirectly calling me unempathetic. Look, these poems are all either sorrowful or mournful—if I read too many, won't I go numb?"
     },
     {
@@ -444,7 +445,7 @@
     },
     {
      "zh": "女：這是陳子昂的《登幽州臺歌》。你這詩讀的「只知其一」啊！陳子昂的感慨",
-     "py": "Nǚ: Zhè shì Chénziáng de «Dēng yōuzhōu táigē». Nǐ zhè shī dú de “Zhǐzhīqíyī” a! Chénziáng de gǎnkǎi",
+     "py": "Nǚ: Zhè shì Chénzi'áng de «Dēng yōuzhōu táigē». Nǐ zhè shī dú de “Zhǐzhīqíyī” a! Chénzi'áng de gǎnkǎi",
      "en": "Woman: That's Chen Zi'ang's \"Song on Ascending the Youzhou Terrace.\" You've only read one side of it! Chen Zi'ang's lament"
     },
     {
@@ -651,7 +652,7 @@
     },
     {
      "zh": "男：我們拒絕過許多尋求合作的廣告，為的就是不希望閱讀網頁充斥著一大堆的",
-     "py": "Nán: Wǒmen jùjué guò xǔduō xúnqiú hézuò de guǎnggào, wèi de jiùshì bù xīwàng yuèdú wǎngyè chōngchì zhù yídàduī de",
+     "py": "Nán: Wǒmen jùjué guò xǔduō xúnqiú hézuò de guǎnggào, wèi de jiùshì bù xīwàng yuèdú wǎngyè chōngchì zhe yídàduī de",
      "en": "Man: We've turned down many advertisers seeking partnerships, precisely because we don't want the reading page to be filled with lots of"
     },
     {
@@ -728,7 +729,7 @@
    "options": {
     "A": {
      "zh": "不對大眾開放",
-     "py": "Bù duì dàzhòng kāifàng",
+     "py": "Bú duì dàzhòng kāifàng",
      "en": "(A) It isn't open to the public."
     },
     "B": {
@@ -738,12 +739,12 @@
     },
     "C": {
      "zh": "不擴大網站規模",
-     "py": "Bù kuòdà wǎngzhàn guīmó",
+     "py": "Bú kuòdà wǎngzhàn guīmó",
      "en": "(C) It doesn't expand the site's scale."
     },
     "D": {
      "zh": "不以營利為目的",
-     "py": "Bù yǐ yínglì wèi mùdì",
+     "py": "Bù yǐ yínglì wéi mùdì",
      "en": "(D) It isn't profit-driven."
     }
    },
@@ -849,7 +850,7 @@
     },
     {
      "zh": "範疇。隨著精神醫學日益發達，許多病症也開始受人關注。「過動症」就是",
-     "py": "Fànchóu. Suízhù jīngshén yīxué rìyì fādá, xǔduō bìngzhèng yě kāishǐ shòu rén guānzhù. “Guòdòngzhèng” jiùshì",
+     "py": "Fànchóu. Suízhe jīngshén yīxué rìyì fādá, xǔduō bìngzhèng yě kāishǐ shòu rén guānzhù. “Guòdòngzhèng” jiùshì",
      "en": "As psychiatry develops, many conditions are starting to get attention, and ADHD is"
     },
     {
@@ -901,7 +902,7 @@
    "transcript": [
     {
      "zh": "這位先生一開始提到什麼？",
-     "py": "Zhèwèi xiānsheng yī kāishǐ tídào shénme?",
+     "py": "Zhèwèi xiānsheng yì kāishǐ tídào shénme?",
      "en": "What does the man mention at first?"
     }
    ]
@@ -956,7 +957,7 @@
     },
     "D": {
      "zh": "認為應該從教學著手改善的方法",
-     "py": "Rènwéi yīnggāi cóng jiàoxué zhùshǒu gǎishàn de fāngfǎ",
+     "py": "Rènwéi yīnggāi cóng jiàoxué zhuóshǒu gǎishàn de fāngfǎ",
      "en": "(D) He thinks it should be improved by starting with teaching."
     }
    },
@@ -977,7 +978,7 @@
     },
     "B": {
      "zh": "說明醫生僅能從醫學診療著手",
-     "py": "Shuōmíng yīshēng jǐn néng cóng yīxué zhěnliáo zhùshǒu",
+     "py": "Shuōmíng yīshēng jǐn néng cóng yīxué zhěnliáo zhuóshǒu",
      "en": "(B) To explain that doctors can only work through medical treatment"
     },
     "C": {
@@ -1052,7 +1053,7 @@
     },
     {
      "zh": "女：嗯，聽起來似乎是個好消息，可是這則消息只說其一，未說其二。你知道這",
-     "py": "Nǚ: ń, tīng qǐlái sìhū shì gè hǎoxiāoxī, kěshì zhè zé xiāoxī zhǐ shuō qíyī, wèi shuō qíèr. Nǐ zhīdào zhè",
+     "py": "Nǚ: ń, tīng qǐlái sìhū shì gè hǎoxiāoxī, kěshì zhè zé xiāoxī zhǐ shuō qíyī, wèi shuō qí'èr. Nǐ zhīdào zhè",
      "en": "Woman: Hmm, that sounds like good news, but it only tells half the story. You know these"
     },
     {
@@ -1067,7 +1068,7 @@
     },
     {
      "zh": "靠呼吸器活著，你覺得這樣的壽命有意義嗎？",
-     "py": "Kào hūxīqì huózhù, nǐ juéde zhèyàng de shòumìng yǒu yìyì ma?",
+     "py": "Kào hūxīqì huózhe, nǐ juéde zhèyàng de shòumìng yǒu yìyì ma?",
      "en": "live on a ventilator, do you think that life is meaningful?"
     },
     {
@@ -1087,7 +1088,7 @@
     },
     {
      "zh": "女：對啊！所以不要聽到壽命延長就高興。我們既然要活，就要活得有面子也有",
-     "py": "Nǚ: Duì a! Suǒyǐ búyào tīngdào shòumìng yáncháng jiù gāoxìng. Wǒmen jìrán yào huó, jiùyào huódé yǒu miànzi yě yǒu",
+     "py": "Nǚ: Duì a! Suǒyǐ búyào tīngdào shòumìng yáncháng jiù gāoxìng. Wǒmen jìrán yào huó, jiùyào huó de yǒu miànzi yě yǒu",
      "en": "Woman: Exactly! So don't be pleased just because you hear life expectancy has risen. If we're going to live, we should live well, both in appearance and"
     },
     {
@@ -1109,7 +1110,7 @@
    "transcript": [
     {
      "zh": "關於我國壽命，這位先生一開始說了什麼？",
-     "py": "Guānyú wǒguó shòumìng, zhèwèi xiānsheng yī kāishǐ shuō le shénme?",
+     "py": "Guānyú wǒguó shòumìng, zhèwèi xiānsheng yì kāishǐ shuō le shénme?",
      "en": "About life expectancy in our country, what does the man say at first?"
     }
    ]
@@ -1159,7 +1160,7 @@
     },
     "C": {
      "zh": "長照體系",
-     "py": "Zhǎng zhào tǐxì",
+     "py": "Cháng zhào tǐxì",
      "en": "(C) The long-term care system"
     },
     "D": {
@@ -1190,7 +1191,7 @@
     },
     "C": {
      "zh": "已經開始著手興建大型養老院",
-     "py": "Yǐjīng kāishǐ zhùshǒu xīngjiàn dàxíng Yǎnglǎoyuàn",
+     "py": "Yǐjīng kāishǐ zhuóshǒu xīngjiàn dàxíng Yǎnglǎoyuàn",
      "en": "(C) It has begun building large retirement homes."
     },
     "D": {
@@ -1285,7 +1286,7 @@
     },
     {
      "zh": "出四種不同的氣色，先是死氣沈沈、再來生氣盎然、接著深不可測、最後飄",
-     "py": "Chū sìzhǒng bùtóng de qìsè, xiānshì Sǐqìshěnshěn, zài lái shēngqì àngrán, jiēzhù shēnbùkěcè, zuìhòu piāo",
+     "py": "Chū sìzhǒng bùtóng de qìsè, xiānshì Sǐqìshěnshěn, zài lái shēngqì àngrán, jiēzhe shēnbùkěcè, zuìhòu piāo",
      "en": "four different appearances: first lifeless, then full of vitality, then unfathomable, and finally"
     },
     {
@@ -1305,7 +1306,7 @@
     },
     {
      "zh": "就是我剛說的，只要附和對方說的話就好了，萬法歸一嘛！",
-     "py": "Jiùshì wǒ gāng shuō de, zhǐyào fùhè duìfāng shuō dehuà jiù hǎo le, wàn fǎ guī yī ma!",
+     "py": "Jiùshì wǒ gāng shuō de, zhǐyào fùhè duìfāng shuō dehuà jiù hǎo le, wàn fǎ guī yì ma!",
      "en": "exactly what I said—just go along with what the other side says? All roads lead to the same place!"
     },
     {
@@ -1315,12 +1316,12 @@
     },
     {
      "zh": "寂靜，才能順著萬物變化而變化，強調的是本心的澄澈，也同時凸顯老莊的",
-     "py": "Jìjìng, cáinéng shùnzhù wànwù biànhuà ér biànhuà, qiángdiào de shì běnxīn de chéngchè, yě tóngshí tūxiǎn Lǎozhuāng de",
+     "py": "Jìjìng, cáinéng shùnzhe wànwù biànhuà ér biànhuà, qiángdiào de shì běnxīn de chéngchè, yě tóngshí tūxiǎn Lǎozhuāng de",
      "en": "and still, and only then can you change along with all things. It emphasizes the clarity of one's original mind, and also highlights Laozi and Zhuangzi's"
     },
     {
      "zh": "「無欲而求」的哲學思想…你聽話聽一半，真是不求甚解啊！",
-     "py": "“Wúyùérqiú” de zhéxuésīxiǎng… nǐ tīnghuà tīng yíbàn, zhēnshì bùqiúshènjiě a!",
+     "py": "“Wúyù'érqiú” de zhéxuésīxiǎng… nǐ tīnghuà tīng yíbàn, zhēnshì bùqiúshènjiě a!",
      "en": "philosophy of \"seeking without desire\"… You only listen to half of what's said—you really don't try to understand things deeply!"
     }
    ],
@@ -1498,7 +1499,7 @@
     },
     {
      "zh": "對囊中羞澀的小情侶來說非常有吸引力。隨著技術的成熟與市場需求，將會讓開",
-     "py": "Duì nángzhōngxiūsè de xiǎo qínglǚ láishuō fēicháng yǒu xīyǐnlì. Suízhù jìshù de chéngshú yǔ shìchǎngxūqiú, jiāng huì ràngkāi",
+     "py": "Duì nángzhōngxiūsè de xiǎo qínglǚ láishuō fēicháng yǒu xīyǐnlì. Suízhe jìshù de chéngshú yǔ shìchǎngxūqiú, jiāng huì ràngkāi",
      "en": "which is very attractive to young couples short of money. As the technology matures and market demand grows, development"
     },
     {
@@ -1726,7 +1727,7 @@
     },
     {
      "zh": "研究者認為，越多人趨向某一使用原則，就表示此原則是經過個人理性分析後得",
-     "py": "Yánjiūzhě rènwéi, yuè duō rén qūxiàng mǒu yī shǐyòng yuánzé, jiù biǎoshì cǐ yuánzé shì jīngguò gèrén lǐxìngfēnxī hòu dé",
+     "py": "Yánjiūzhě rènwéi, yuè duō rén qūxiàng mǒu yì shǐyòng yuánzé, jiù biǎoshì cǐ yuánzé shì jīngguò gèrén lǐxìngfēnxī hòu děi",
      "en": "The researcher believes that the more people lean toward a particular principle, the more it shows that the principle is the result of"
     },
     {
@@ -1751,7 +1752,7 @@
     },
     {
      "zh": "我不認同研究者將「大眾的趨向」等同於「理性」，所以我不認同「道德判",
-     "py": "Wǒ bù rèntóng yánjiūzhě jiāng “Dàzhòng de qūxiàng” děngtóngyú “Lǐxìng”, suǒyǐ wǒ bù rèntóng “Dàodé pàn",
+     "py": "Wǒ bú rèntóng yánjiūzhě jiāng “Dàzhòng de qūxiàng” děngtóngyú “Lǐxìng”, suǒyǐ wǒ bú rèntóng “Dàodé pàn",
      "en": "I don't agree with the researcher equating \"the majority's tendency\" with \"rationality,\" so I don't agree that \"moral"
     },
     {
@@ -1761,7 +1762,7 @@
     },
     {
      "zh": "有所做為，才有「行動原則」較具一致性的結果。而「意圖原則」指的是做決定",
-     "py": "Yǒusuǒ zuò wèi, cái yǒu “Xíngdòng yuánzé” jiào jù yízhìxìng de jiéguǒ. Ér “Yìtú yuánzé” zhǐ de shì zuò juédìng",
+     "py": "Yǒusuǒ zuò wéi, cái yǒu “Xíngdòng yuánzé” jiào jù yízhìxìng de jiéguǒ. Ér “Yìtú yuánzé” zhǐ de shì zuò juédìng",
      "en": "instinct, which is why the \"action principle\" is more consistent. The \"intention principle\" refers to all the considerations at the moment"
     },
     {
@@ -1869,7 +1870,7 @@
     },
     "C": {
      "zh": "勿以善小而不為",
-     "py": "Wù yǐ shànxiǎoér bù wèi",
+     "py": "Wù yǐ shànxiǎo'ér bù wéi",
      "en": "(C) Don't fail to do good just because it's small."
     },
     "D": {
@@ -1949,12 +1950,12 @@
     },
     {
      "zh": "武則天要擺脫原本常伴青燈的生活，並不只是單純的遞了一首短詩，就能重",
-     "py": "Wǔzétiān yào bǎituō yuánběn chángbàn qīngdēng de shēnghuó, bìng bù zhǐshì dānchún de dì le yìshǒu duǎnshī, jiù néng zhòng",
+     "py": "Wǔzétiān yào bǎituō yuánběn chángbàn qīngdēng de shēnghuó, bìng bù zhǐshì dānchún de dì le yìshǒu duǎnshī, jiù néng chóng",
      "en": "For Wu Zetian to escape her life of keeping company with a lonely lamp in a nunnery, simply handing over a short poem wasn't enough to"
     },
     {
      "zh": "回宮中。從佛寺到皇宮的這一段路，武則天得要反覆推敲、運籌帷幄、打通關節",
-     "py": "Huí gōngzhōng. Cóng Fósì dào huánggōng de zhè yíduànlù, Wǔzétiān dé yào fǎnfùtuīqiāo, yùnchóuwéiwò, dǎtōng guānjié",
+     "py": "Huí gōngzhōng. Cóng Fósì dào huánggōng de zhè yíduànlù, Wǔzétiān děi yào fǎnfùtuīqiāo, yùnchóuwéiwò, dǎtōng guānjié",
      "en": "return to the palace. On the road from Buddhist temple to imperial palace, she had to deliberate over and over, plan strategically and pull strings"
     },
     {
@@ -1999,7 +2000,7 @@
     },
     {
      "zh": "從客觀角度來說，她盡了一切為人母、為人妻的努力，在丈夫刻意扶持下，",
-     "py": "Cóng kèguān jiǎodù láishuō, tā jǐn le yíqiè wèi rénmǔ, wèi rénqī de nǔlì, zài zhàngfū kèyì fúchí xià,",
+     "py": "Cóng kèguān jiǎodù láishuō, tā jǐn le yíqiè wéi rénmǔ, wéi rénqī de nǔlì, zài zhàngfū kèyì fúchí xià,",
      "en": "Objectively speaking, she did everything she could as a mother and wife, and with her husband's deliberate support"
     },
     {
@@ -2009,7 +2010,7 @@
     },
     {
      "zh": "主體。皇后依附著君王而生；母親依附著子女而活；妻子仰望著丈夫的鼻息。",
-     "py": "Zhǔtǐ. Huánghòu yīfù zhù Jūnwáng ér shēng; mǔqīn yīfù zhù zǐnǚ ér huó; qīzǐ yǎngwàng zhù zhàngfū de bíxī.",
+     "py": "Zhǔtǐ. Huánghòu yīfù zhe Jūnwáng ér shēng; mǔqīn yīfù zhe zǐnǚ ér huó; qīzǐ yǎngwàng zhe zhàngfū de bíxī.",
      "en": "being. An empress depended on the emperor; a mother depended on her children; a wife looked to her husband's every breath."
     },
     {
@@ -2019,7 +2020,7 @@
     },
     {
      "zh": "怒是可想而知的。登基後的她，歷史評價「一意孤行，人格丕變」甚至大殺夫家",
-     "py": "Nù shì kěxiǎngérzhī de. Dēngjī hòu de tā, lìshǐ píngjià “Yíyìgūxíng, réngé pī biàn” shènzhì dà shā fūjiā",
+     "py": "Nù shì kěxiǎng'érzhī de. Dēngjī hòu de tā, lìshǐ píngjià “Yíyìgūxíng, réngé pī biàn” shènzhì dà shā fūjiā",
      "en": "anger can be imagined. After she took the throne, history judged that she \"acted willfully and her character changed drastically,\" and she even massacred"
     },
     {
@@ -2112,7 +2113,7 @@
    "options": {
     "A": {
      "zh": "她受不了摯愛丈夫的辭世",
-     "py": "Tā shòubùliǎo zhìài zhàngfū de císhì",
+     "py": "Tā shòubùliǎo zhì'ài zhàngfū de císhì",
      "en": "(A) She couldn't bear the death of her beloved husband."
     },
     "B": {
@@ -2148,12 +2149,12 @@
     },
     "B": {
      "zh": "說明武則天的後世以她為榮",
-     "py": "Shuōmíng Wǔzétiān de hòushì yǐ tā wèi Róng",
+     "py": "Shuōmíng Wǔzétiān de hòushì yǐ tā wéi Róng",
      "en": "(B) Showing that Wu Zetian's descendants were proud of her"
     },
     "C": {
      "zh": "讚許武則天勇敢地展現了自我",
-     "py": "Zànxǔ Wǔzétiān yǒnggǎn dì zhǎnxiàn le zìwǒ",
+     "py": "Zànxǔ Wǔzétiān yǒnggǎn de zhǎnxiàn le zìwǒ",
      "en": "(C) Praising Wu Zetian for bravely expressing herself"
     },
     "D": {
@@ -2174,7 +2175,7 @@
    "passage": [
     {
      "zh": "全人醫療是一種非傳統醫療照護方式，宗旨是反對一般西方醫學採取侵入性物理治療、著重處理局部病灶的簡化做法。",
-     "py": "Quán rén yīliáo shì yìzhǒng fēichuántǒng yīliáo zhàohù fāngshì, zōngzhǐ shì fǎnduì yìbān xīfāng yīxué cǎiqǔ qīnrù xìng wùlǐ zhìliáo, zhùzhòng chǔlǐ júbù bìngzào de jiǎnhuà zuòfǎ.",
+     "py": "Quán rén yīliáo shì yìzhǒng fēichuántǒng yīliáo zhàohù fāngshì, zōngzhǐ shì fǎnduì yìbān xīfāng yīxué cǎiqǔ qīnrù xìng wùlǐ zhìliáo, zhuózhòng chǔlǐ júbù bìngzào de jiǎnhuà zuòfǎ.",
      "en": "Holistic medicine is a non-traditional approach to healthcare. Its aim is to oppose the simplified approach of mainstream Western medicine, which uses invasive physical treatments and focuses on treating local lesions."
     },
     {
@@ -2218,7 +2219,7 @@
     },
     {
      "zh": "治療、著重處理局部病灶的簡化做法。全人醫療傾向從心理甚至靈性角度探討病",
-     "py": "Zhìliáo, zhùzhòng chǔlǐ júbù bìngzào de jiǎnhuà zuòfǎ. Quán rén yīliáo qīngxiàng cóng xīnlǐ shènzhì língxìng jiǎodù tàntǎo bìng",
+     "py": "Zhìliáo, zhuózhòng chǔlǐ júbù bìngzào de jiǎnhuà zuòfǎ. Quán rén yīliáo qīngxiàng cóng xīnlǐ shènzhì língxìng jiǎodù tàntǎo bìng",
      "en": "treatments and focuses on treating local lesions. Holistic medicine tends to explore and treat the causes of illness from psychological and even spiritual angles. The following is a"
     },
     {
@@ -2238,7 +2239,7 @@
     },
     {
      "zh": "病源自於身、心、靈的「失衡」，著重點應是「整個人的平衡」而非局部器官病",
-     "py": "Bìng yuánzì yú shēn, xīn, líng de “Shīhéng”, zhù zhòngdiǎn yīng shì “Zhěng ge rén de pínghéng” ér fēi júbù qìguān bìng",
+     "py": "Bìng yuánzì yú shēn, xīn, líng de “Shīhéng”, zhuó zhòngdiǎn yīng shì “Zhěng ge rén de pínghéng” ér fēi júbù qìguān bìng",
      "en": "diseases stem from an \"imbalance\" of body, mind and spirit, and the focus should be \"the balance of the whole person\" rather than diseases of individual organs."
     },
     {
@@ -2273,7 +2274,7 @@
     },
     {
      "zh": "果不發揮潛能，就容易罹患疾病。」，就不能忽視其中隱含著以罹病事實譴責病",
-     "py": "Guǒbù fāhuī qiánnéng, jiù róngyì líhuàn jíbìng.”, jiù bùnéng hūshì qízhōng yǐnhán zhùyǐ líbìng shìshí qiǎnzé bìng",
+     "py": "Guǒbù fāhuī qiánnéng, jiù róngyì líhuàn jíbìng.”, jiù bùnéng hūshì qízhōng yǐnhán zhe yǐ líbìng shìshí qiǎnzé bìng",
      "en": "you don't fulfill your potential, you'll easily get sick,\" we can't ignore the implicit attitude of blaming patients for falling ill—"
     },
     {
@@ -2288,7 +2289,7 @@
     },
     {
      "zh": "美國評論家蘇珊．桑塔格在《疾病的隱喻》一書中指出的，有些人認為心理",
-     "py": "Měiguó pínglùnjiā Sūshān. Sāngtǎgé zài «Jíbìng de yǐnyù» yī shū zhōng zhǐchū de, yǒuxiē rén rènwéi xīnlǐ",
+     "py": "Měiguó pínglùnjiā Sūshān. Sāngtǎgé zài «Jíbìng de yǐnyù» yì shū zhōng zhǐchū de, yǒuxiē rén rènwéi xīnlǐ",
      "en": "As American critic Susan Sontag pointed out in \"Illness as Metaphor,\" the attitude of some people that mental"
     },
     {
@@ -2298,7 +2299,7 @@
     },
     {
      "zh": "了解不足，一如發現結核桿菌為真實病因前，肺結核病患也飽受社會的指責與歧",
-     "py": "Liǎojiě bùzú, yìrú fāxiàn jiéhégǎnjūn wèi zhēnshí bìngyīn qián, fèijiéhé bìnghuàn yě bǎoshòu shèhuì de zhǐzé yǔ qí",
+     "py": "Liǎojiě bùzú, yìrú fāxiàn jiéhégǎnjūn wéi zhēnshí bìngyīn qián, fèijiéhé bìnghuàn yě bǎoshòu shèhuì de zhǐzé yǔ qí",
      "en": "just as, before the tuberculosis bacillus was discovered as the real cause, TB patients suffered social blame and discrimination."
     },
     {
@@ -2537,7 +2538,7 @@
     },
     {
      "zh": "如何考證神話？無法考證不代表不存在，北冥裡的鯤就是悠游於神話時間的魚。",
-     "py": "Rúhé kǎozhèng shénhuà? Wúfǎ kǎozhèng bù dàibiǎo bù cúnzài, Běimínglǐ de kūn jiùshì yōuyóu yú shénhuà shíjiān de yú.",
+     "py": "Rúhé kǎozhèng shénhuà? Wúfǎ kǎozhèng bú dàibiǎo bù cúnzài, Běimínglǐ de kūn jiùshì yōuyóu yú shénhuà shíjiān de yú.",
      "en": "how can myth be verified? Being unverifiable doesn't mean it doesn't exist; the Kun in the Northern Darkness is a fish that swims in mythical time."
     },
     {
@@ -2547,7 +2548,7 @@
     },
     {
      "zh": "牠望著無邊無際的空白，牠想飛起來。牠鼓動鰓，嘗試搧動自己的鰭，牠的鰭立",
-     "py": "Tā wàng zhù wúbiānwújì de kòngbái, tā xiǎng fēi qǐlái. Tā gǔdòng sāi, chángshì shāndòng zìjǐ de qí, tā de qí lì",
+     "py": "Tā wàng zhe wúbiānwújì de kòngbái, tā xiǎng fēi qǐlái. Tā gǔdòng sāi, chángshì shāndòng zìjǐ de qí, tā de qí lì",
      "en": "it gazes at the boundless emptiness and wants to fly. It beats its gills and tries to flap its fins; its fins rise"
     },
     {
@@ -2567,19 +2568,19 @@
     },
     {
      "zh": "「怒而飛」，莊子只用了三個字，敘述魚飛起來的情景。「怒」是心情的激",
-     "py": "“Nùérfēi”, Zhuāngzi zhǐyòng le sān ge zì, xùshù Yúfēi qǐlái de qíngjǐng. “Nù” shì xīnqíng de jī",
+     "py": "“Nù'érfēi”, Zhuāngzi zhǐyòng le sān ge zì, xùshù Yúfēi qǐlái de qíngjǐng. “Nù” shì xīnqíng de jī",
      "en": "\"Roused, it flew\"—Zhuangzi used only three characters to describe the fish taking flight. \"Roused\" (nu) is a surge of"
     },
     {
      "zh": "動。牠一振翅，天空彷彿被劈開一般，大魚終於成了一隻翱翔空中的大鳥。",
-     "py": "Dòng. Tā yī zhènchì, tiānkōng fǎngfú bèi pīkāi yìbān, dàyú zhōngyú chéng le yìzhī áoxiáng kōngzhōng de dàniǎo.",
+     "py": "Dòng. Tā yí zhènchì, tiānkōng fǎngfú bèi pīkāi yìbān, dàyú zhōngyú chéng le yìzhī áoxiáng kōngzhōng de dàniǎo.",
      "en": "emotion. With one beat of its wings, the sky seemed split open, and the great fish finally became a great bird soaring in the sky."
     }
    ],
    "transcript": [
     {
      "zh": "說話者一開始指出將「鯤」比喻成島嶼，是因為哪個因素？",
-     "py": "Shuōhuà zhě yī kāishǐ zhǐchū jiāng “Kūn” bǐyù chéng dǎoyǔ, shìyīnwèi nǎ ge yīnsù?",
+     "py": "Shuōhuà zhě yì kāishǐ zhǐchū jiāng “Kūn” bǐyù chéng dǎoyǔ, shìyīnwèi nǎ ge yīnsù?",
      "en": "At the start, the speaker says the \"Kun\" is used as a metaphor for the island because of which factor?"
     }
    ]
@@ -2588,7 +2589,7 @@
    "options": {
     "A": {
      "zh": "因為莊子為人荒誕不經",
-     "py": "Yīnwèi Zhuāngzi wèi rén huāngdànbùjīng",
+     "py": "Yīnwèi Zhuāngzi wéi rén huāngdànbùjīng",
      "en": "(A) Because Zhuangzi was absurd"
     },
     "B": {
@@ -2610,7 +2611,7 @@
    "transcript": [
     {
      "zh": "為什麼說話者認為《莊子》一書不能考證？",
-     "py": "Wèishénme shuōhuà zhě rènwéi «Zhuāngzi» yī shū bùnéng kǎozhèng?",
+     "py": "Wèishénme shuōhuà zhě rènwéi «Zhuāngzi» yì shū bùnéng kǎozhèng?",
      "en": "Why does the speaker think the Zhuangzi can't be verified by textual research?"
     }
    ]
@@ -2703,7 +2704,7 @@
    "transcript": [
     {
      "zh": "說話者認為「怒而飛」的「怒」是什麼？",
-     "py": "Shuōhuà zhě rènwéi “Nùérfēi” de “Nù” shì shénme?",
+     "py": "Shuōhuà zhě rènwéi “Nù'érfēi” de “Nù” shì shénme?",
      "en": "What does the speaker think \"nu\" (roused) in \"roused, it flew\" means?"
     }
    ]

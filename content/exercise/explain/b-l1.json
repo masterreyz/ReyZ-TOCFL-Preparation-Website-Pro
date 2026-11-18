@@ -2,6 +2,7 @@
  "testId": "b-l1",
  "segments": 370,
  "englishComplete": true,
+ "indonesianComplete": false,
  "questions": {
   "1": {
    "options": {
@@ -29,7 +30,7 @@
    "transcript": [
     {
      "zh": "男：我想坐早上九點的火車到高雄去，中午到得了嗎？",
-     "py": "Nán: Wǒ xiǎng zuò zǎoshàng jiǔdiǎn de huǒchē dào Gāoxióng qù, zhōngwǔ dào dé le ma?",
+     "py": "Nán: Wǒ xiǎng zuò zǎoshàng jiǔdiǎn de huǒchē dào Gāoxióng qù, zhōngwǔ dào de liǎo ma?",
      "en": "Man: I want to take the 9 a.m. train to Kaohsiung. Can I get there by noon?"
     },
     {
@@ -75,7 +76,7 @@
     },
     {
      "zh": "女：嗯，小李的房東要把房子賣了，他下個月就得搬家。",
-     "py": "Nǚ: ń, Xiǎolǐ de fángdōng yào bǎ fángzi mài le, tā xiàgèyuè jiù dé bānjiā.",
+     "py": "Nǚ: ń, Xiǎolǐ de fángdōng yào bǎ fángzi mài le, tā xiàgèyuè jiù děi bānjiā.",
      "en": "Woman: Yeah, Xiao Li's landlord is selling the place, so he has to move next month."
     },
     {
@@ -145,7 +146,7 @@
     },
     "D": {
      "zh": "她還沒想好去哪兒玩",
-     "py": "Tā hái méi xiǎng hǎo qù nǎér wán",
+     "py": "Tā hái méi xiǎng hǎo qù nǎr wán",
      "en": "(D) She hasn't decided where to go yet."
     }
    },
@@ -157,7 +158,7 @@
     },
     {
      "zh": "女：昨天玩得太累了，今天又是寒假的最後一天，當然要好好地在家休息啊！",
-     "py": "Nǚ: Zuótiān wán dé tài lèi le, jīntiān yòu shì hánjià de zuìhòu yìtiān, dāngrán yào hǎohǎo dì zàijiā xiūxí a!",
+     "py": "Nǚ: Zuótiān wán de tài lèi le, jīntiān yòu shì hánjià de zuìhòu yìtiān, dāngrán yào hǎohǎo de zàijiā xiūxí a!",
      "en": "Woman: I got too tired going out yesterday, and today is the last day of the winter break, so of course I want to have a good rest at home!"
     },
     {
@@ -234,7 +235,7 @@
    "transcript": [
     {
      "zh": "男：老師要我們寫的作業，妳寫得怎麼樣？",
-     "py": "Nán: Lǎoshī yào wǒmen xiě de zuòyè, nǐ xiě dé zěnmeyàng?",
+     "py": "Nán: Lǎoshī yào wǒmen xiě de zuòyè, nǐ xiě de zěnmeyàng?",
      "en": "Man: How's the homework the teacher asked us to write going?"
     },
     {
@@ -294,7 +295,7 @@
    "options": {
     "A": {
      "zh": "她做菜做得不好",
-     "py": "Tā zuòcài zuò dé bùhǎo",
+     "py": "Tā zuòcài zuò de bùhǎo",
      "en": "(A) She isn't good at cooking."
     },
     "B": {
@@ -350,7 +351,7 @@
     },
     "D": {
      "zh": "她一聽見考試就開始緊張",
-     "py": "Tā yī tīngjiàn kǎoshì jiù kāishǐ jǐnzhāng",
+     "py": "Tā yì tīngjiàn kǎoshì jiù kāishǐ jǐnzhāng",
      "en": "(D) She gets nervous as soon as she hears about exams."
     }
    },
@@ -422,7 +423,7 @@
     },
     "B": {
      "zh": "老師教了十個漢字",
-     "py": "Lǎoshī jiào le shí ge Hànzì",
+     "py": "Lǎoshī jiāo le shí ge Hànzì",
      "en": "(B) The teacher taught ten characters."
     },
     "C": {
@@ -439,7 +440,7 @@
    "transcript": [
     {
      "zh": "男：今天是我第一次上中文課，老師教了語法和二十五個漢字。",
-     "py": "Nán: Jīntiān shì wǒ dìyícì shàng Zhōngwén kè, lǎoshī jiào le yǔfǎ hé èrshíwǔ ge Hànzì.",
+     "py": "Nán: Jīntiān shì wǒ dìyícì shàng Zhōngwén kè, lǎoshī jiāo le yǔfǎ hé èrshíwǔ ge Hànzì.",
      "en": "Man: Today was my first Chinese class. The teacher taught grammar and twenty-five characters."
     },
     {
@@ -505,7 +506,7 @@
     },
     {
      "zh": "女：我看得差不多了。",
-     "py": "Nǚ: Wǒ kàn dé chàbuduō le.",
+     "py": "Nǚ: Wǒ kàn de chàbuduō le.",
      "en": "Woman: I'm almost done."
     },
     {
@@ -519,17 +520,17 @@
    "options": {
     "A": {
      "zh": "她還有點兒餓",
-     "py": "Tā hái yǒudiǎnér è",
+     "py": "Tā hái yǒudiǎnr è",
      "en": "(A) She's still a bit hungry."
     },
     "B": {
      "zh": "蛋糕有點兒難吃",
-     "py": "Dàngāo yǒudiǎnér nánchī",
+     "py": "Dàngāo yǒudiǎnr nánchī",
      "en": "(B) The cake doesn't taste very good."
     },
     "C": {
      "zh": "她可以再吃一點兒東西",
-     "py": "Tā kěyǐ zài chī yìdiǎnér Dōngxi",
+     "py": "Tā kěyǐ zài chī yìdiǎnr Dōngxi",
      "en": "(C) She can eat a little more."
     },
     "D": {
@@ -541,12 +542,12 @@
    "transcript": [
     {
      "zh": "男：多吃一點兒吧！",
-     "py": "Nán: Duō chī yìdiǎnér ba!",
+     "py": "Nán: Duō chī yìdiǎnr ba!",
      "en": "Man: Have some more!"
     },
     {
      "zh": "女：不，謝了！我吃得很飽。",
-     "py": "Nǚ: Bù, xiè le! Wǒ chī dé hěnbǎo.",
+     "py": "Nǚ: Bù, xiè le! Wǒ chī de hěnbǎo.",
      "en": "Woman: No, thanks! I'm really full."
     },
     {
@@ -556,7 +557,7 @@
     },
     {
      "zh": "女：好吧！吃一點兒蛋糕也沒關係。",
-     "py": "Nǚ: Hǎo ba! Chī yìdiǎnér dàngāo yě méiguānxì.",
+     "py": "Nǚ: Hǎo ba! Chī yìdiǎnr dàngāo yě méiguānxì.",
      "en": "Woman: All right! A little cake won't hurt."
     },
     {
@@ -621,7 +622,7 @@
    "options": {
     "A": {
      "zh": "他不用功",
-     "py": "Tā bù yònggōng",
+     "py": "Tā bú yònggōng",
      "en": "(A) He doesn't study hard."
     },
     "B": {
@@ -643,7 +644,7 @@
    "transcript": [
     {
      "zh": "男：小明這次考試考得太差了。",
-     "py": "Nán: Xiǎomíng zhècì kǎoshì kǎodé tài chà le.",
+     "py": "Nán: Xiǎomíng zhècì kǎoshì kǎo de tài chà le.",
      "en": "Man: Xiaoming did really badly on this exam."
     },
     {
@@ -653,7 +654,7 @@
     },
     {
      "zh": "男：不是吧！很多學生都考得不錯，有好幾個都考一百分呢！",
-     "py": "Nán: Búshì ba! Hěnduō xuéshēng dōu kǎodé búcuò, yǒu hǎojǐ ge dōu kǎo yìbǎifēn ne!",
+     "py": "Nán: Búshì ba! Hěnduō xuéshēng dōu kǎo de búcuò, yǒu hǎojǐ ge dōu kǎo yìbǎifēn ne!",
      "en": "Man: I don't think so! Lots of students did well—several even got a hundred!"
     },
     {
@@ -750,7 +751,7 @@
    "transcript": [
     {
      "zh": "男：我覺得我的頭有點兒疼，我很久沒這樣了。",
-     "py": "Nán: Wǒ juéde wǒ de tóu yǒudiǎnér téng, wǒ hěnjiǔméi zhèyàng le.",
+     "py": "Nán: Wǒ juéde wǒ de tóu yǒudiǎnr téng, wǒ hěnjiǔméi zhèyàng le.",
      "en": "Man: I've got a bit of a headache. I haven't had one in a long time."
     },
     {
@@ -806,7 +807,7 @@
     },
     {
      "zh": "女：我打算以後過著單身生活，想去哪裡旅行就去哪裡。",
-     "py": "Nǚ: Wǒ dǎsuàn yǐhòu guòzhù dānshēnshēnghuó, xiǎng qù nǎlǐ lǚxíng jiù qù nǎlǐ.",
+     "py": "Nǚ: Wǒ dǎsuàn yǐhòu guòzhe dānshēnshēnghuó, xiǎng qù nǎlǐ lǚxíng jiù qù nǎlǐ.",
      "en": "Woman: I plan to stay single and travel wherever I want."
     },
     {
@@ -913,7 +914,7 @@
    "transcript": [
     {
      "zh": "男：我明明就把電視的聲音調到最大了，為什麼聽起來還是這麼小？",
-     "py": "Nán: Wǒ míngmíng jiù bǎ diànshì de shēngyīn diào dào zuìdà le, wèishénme tīng qǐlái háishì zhème xiǎo?",
+     "py": "Nán: Wǒ míngmíng jiù bǎ diànshì de shēngyīn tiáo dào zuìdà le, wèishénme tīng qǐlái háishì zhème xiǎo?",
      "en": "Man: I've clearly turned the TV volume all the way up—why does it still sound so quiet?"
     },
     {
@@ -999,7 +1000,7 @@
     },
     {
      "zh": "女：我可以教你網站怎麼操作，你很快就能學會的。",
-     "py": "Nǚ: Wǒ kěyǐ jiào nǐ wǎngzhàn zěnme cāozuò, nǐ hěnkuài jiù néng xuéhuì de.",
+     "py": "Nǚ: Wǒ kěyǐ jiāo nǐ wǎngzhàn zěnme cāozuò, nǐ hěnkuài jiù néng xuéhuì de.",
      "en": "Woman: I can show you how to use the website—you'll learn quickly."
     }
    ],
@@ -1098,7 +1099,7 @@
     },
     {
      "zh": "女：好主意！爸爸的確需要多一點兒運動。",
-     "py": "Nǚ: Hǎo zhǔyì! Bàba díquè xūyào duōyìdiǎnér yùndòng.",
+     "py": "Nǚ: Hǎo zhǔyì! Bàba díquè xūyào duōyìdiǎnr yùndòng.",
      "en": "Woman: Good idea! Dad really does need more exercise."
     },
     {
@@ -1118,7 +1119,7 @@
     },
     {
      "zh": "且我自己得先學怎麼騎腳踏車才行。",
-     "py": "Qiě wǒ zìjǐ dé xiānxué zěnme qí jiǎotàchē cái xíng.",
+     "py": "Qiě wǒ zìjǐ děi xiānxué zěnme qí jiǎotàchē cái xíng.",
      "en": "I'll have to learn how to ride a bicycle first."
     }
    ],
@@ -1139,7 +1140,7 @@
     },
     "B": {
      "zh": "她要教爸爸騎腳踏車",
-     "py": "Tā yào jiào bàba qí jiǎotàchē",
+     "py": "Tā yào jiāo bàba qí jiǎotàchē",
      "en": "(B) She'll teach Dad to ride a bicycle."
     },
     "C": {
@@ -1357,7 +1358,7 @@
     },
     "D": {
      "zh": "認識新朋友要花很長的時間",
-     "py": "Rènshi xīn péngyǒu yào huā hěn zhǎng de shíjiān",
+     "py": "Rènshi xīn péngyǒu yào huā hěn cháng de shíjiān",
      "en": "(D) It takes a long time to meet new friends."
     }
    },
@@ -1393,7 +1394,7 @@
     },
     "D": {
      "zh": "無法認識多一點兒女生",
-     "py": "Wúfǎ rènshi duōyìdiǎnér nǚshēng",
+     "py": "Wúfǎ rènshi duōyìdiǎnr nǚshēng",
      "en": "(D) You can't meet more women."
     }
    },
@@ -1436,7 +1437,7 @@
     },
     {
      "zh": "各位旅客，很抱歉！因為大雨的關係，十二點五十分往台北的一一零號火車",
-     "py": "Gèwèi lǚkè, hěn bàoqiàn! Yīnwèi dàyǔ de guānxì, shíèrdiǎn wǔ shífēn wǎng Táiběi de yīyī línghào huǒchē",
+     "py": "Gèwèi lǚkè, hěn bàoqiàn! Yīnwèi dàyǔ de guānxì, shí'èrdiǎn wǔ shífēn wǎng Táiběi de yīyī línghào huǒchē",
      "en": "Attention, passengers. We're very sorry! Because of heavy rain, train No. 110 to Taipei at 12:50"
     },
     {
@@ -1515,7 +1516,7 @@
     },
     "C": {
      "zh": "有老師教唱歌",
-     "py": "Yǒu lǎoshī jiào chànggē",
+     "py": "Yǒu lǎoshī jiāo chànggē",
      "en": "(C) A teacher teaching singing"
     },
     "D": {
@@ -1532,17 +1533,17 @@
     },
     {
      "zh": "各位同學，今天晚上的新年晚會有很多節目，有法國同學唱法國歌兒，還有",
-     "py": "Gèwèi tóngxué, jīntiān wǎnshàng de xīnnián wǎnhuì yǒu hěnduō jiémù, yǒu Fǎguó tóngxué chàng Fǎguó gēér, háiyǒu",
+     "py": "Gèwèi tóngxué, jīntiān wǎnshàng de xīnnián wǎnhuì yǒu hěnduō jiémù, yǒu Fǎguó tóngxué chàng Fǎguó gēr, háiyǒu",
      "en": "Everyone, tonight's New Year party has lots of acts: French classmates will sing French songs, and"
     },
     {
      "zh": "日本同學跳日本的舞，最特別的是有一位學生要學小鳥叫。最後，老師們會教大",
-     "py": "Rìběn tóngxué tiào Rìběn de wǔ, zuì tèbié de shì yǒu yíwèi xuéshēng yàoxué xiǎoniǎo jiào. Zuìhòu, lǎoshī men huì jiào dà",
+     "py": "Rìběn tóngxué tiào Rìběn de wǔ, zuì tèbié de shì yǒu yíwèi xuéshēng yàoxué xiǎoniǎo jiào. Zuìhòu, lǎoshī men huì jiāo dà",
      "en": "Japanese classmates will do a Japanese dance. The most special is a student who will imitate birdsong. Finally, the teachers will teach"
     },
     {
      "zh": "家唱中國新年的歌兒。",
-     "py": "Jiā chàng Zhōngguó xīnnián de gēér.",
+     "py": "Jiā chàng Zhōngguó xīnnián de gēr.",
      "en": "everyone to sing a Chinese New Year song."
     }
    ],
@@ -1590,7 +1591,7 @@
     },
     {
      "zh": "可是日本人認得漢字，所以他們常常用寫字的方式跟日本人談話。在飯館兒點菜",
-     "py": "Kěshì Rìběn rén rènde Hànzì, suǒyǐ tāmen chángcháng yòng xiězì de fāngshì gēn Rìběn rén tánhuà. Zài fànguǎnér diǎncài",
+     "py": "Kěshì Rìběn rén rènde Hànzì, suǒyǐ tāmen chángcháng yòng xiězì de fāngshì gēn Rìběn rén tánhuà. Zài fànguǎnr diǎncài",
      "en": "but Japanese people know Chinese characters, they often communicated with Japanese people by writing. When ordering food in restaurants,"
     },
     {
@@ -1643,12 +1644,12 @@
     },
     {
      "zh": "文，第二是記住這一課全部的生字，第三是在一張練習紙上寫下五個句子。你們",
-     "py": "Wén, dìèr shì jìzhù zhèyī kè quánbù de shēngzì, dìsān shì zài yìzhāng liànxí zhǐ shàng xiěxià wǔ ge jùzi. Nǐmen",
+     "py": "Wén, dì'èr shì jìzhù zhèyī kè quánbù de shēngzì, dìsān shì zài yìzhāng liànxí zhǐ shàng xiěxià wǔ ge jùzi. Nǐmen",
      "en": "text; second, remember all the new characters in this lesson; third, write five sentences on a practice sheet. You"
     },
     {
      "zh": "也要複習第七課，下次一上課，我們就先考第七課的內容。",
-     "py": "Yě yào fùxí dìqīkè, xiàcì yī shàngkè, wǒmen jiù xiānkǎo dìqīkè de nèiróng.",
+     "py": "Yě yào fùxí dìqīkè, xiàcì yí shàngkè, wǒmen jiù xiānkǎo dìqīkè de nèiróng.",
      "en": "also need to review Lesson 7—as soon as the next class starts, we'll have a test on Lesson 7."
     }
    ],
@@ -1664,7 +1665,7 @@
    "options": {
     "A": {
      "zh": "教第八課",
-     "py": "Jiào dìbākè",
+     "py": "Jiāo dìbākè",
      "en": "(A) Teach Lesson 8"
     },
     "B": {
@@ -1700,7 +1701,7 @@
     },
     "B": {
      "zh": "白天時間變長",
-     "py": "Báitiān shíjiān biàn zhǎng",
+     "py": "Báitiān shíjiān biàn cháng",
      "en": "(B) The days get longer."
     },
     "C": {
@@ -1722,7 +1723,7 @@
     },
     {
      "zh": "秋天到了，白天的時間越來越短，晚上的時間越來越長，天氣也變得涼一點",
-     "py": "Qiūtiān dào le, báitiān de shíjiān yuèláiyuè duǎn, wǎnshàng de shíjiān yuèláiyuè zhǎng, tiānqì yě biàndé liáng yìdiǎn",
+     "py": "Qiūtiān dào le, báitiān de shíjiān yuèláiyuè duǎn, wǎnshàng de shíjiān yuèláiyuè cháng, tiānqì yě biàn de liáng yìdiǎn",
      "en": "Autumn has arrived: the days are getting shorter and the nights longer, and the weather has become a little"
     },
     {
@@ -1732,7 +1733,7 @@
     },
     {
      "zh": "感覺還是很熱，但是，夜裡風很大，有點兒冷，所以明天出門的時候，別忘了多",
-     "py": "Gǎnjué háishì hěn rè, dànshì, yèlǐ fēng hěndà, yǒudiǎnér lěng, suǒyǐ míngtiān chūmén de shíhòu, biéwàngle duō",
+     "py": "Gǎnjué háishì hěn rè, dànshì, yèlǐ fēng hěndà, yǒudiǎnr lěng, suǒyǐ míngtiān chūmén de shíhòu, biéwàngle duō",
      "en": "and it will still feel hot, but at night it will be very windy and a bit cold, so when you go out tomorrow, don't forget to"
     },
     {
@@ -1821,7 +1822,7 @@
     },
     {
      "zh": "顏色，叫聲也很好聽，我覺得鳥兒真是可愛！那裡還有人在擠牛奶，我吃了那邊",
-     "py": "Yánsè, jiàoshēng yě hěn hǎotīng, wǒ juéde niǎoér zhēnshì kěài! Nàlǐ háiyǒu rén zài jǐ niúnǎi, wǒ chī le nàbiān",
+     "py": "Yánsè, jiàoshēng yě hěn hǎotīng, wǒ juéde niǎor zhēnshì kě'ài! Nàlǐ háiyǒu rén zài jǐ niúnǎi, wǒ chī le nàbiān",
      "en": "colors and their calls sound lovely. I think birds are really cute! There were also people milking cows there, and I had the"
     },
     {
@@ -1941,7 +1942,7 @@
     },
     "C": {
      "zh": "青菜多吃一點兒",
-     "py": "Qīngcài duō chī yìdiǎnér",
+     "py": "Qīngcài duō chī yìdiǎnr",
      "en": "(C) Eat more vegetables"
     },
     "D": {
@@ -1999,7 +2000,7 @@
     },
     {
      "zh": "偉的文章寫得怎麼樣。大偉說他大學是念英國文學的，所以這項工作對他來說不",
-     "py": "Wěi de wénzhāng xiě dé zěnmeyàng. Dàwěi shuō tā dàxué shì niàn Yīngguówénxué de, suǒyǐ zhèxiàng gōngzuò duì tā láishuō bù",
+     "py": "Wěi de wénzhāng xiě de zěnmeyàng. Dàwěi shuō tā dàxué shì niàn Yīngguówénxué de, suǒyǐ zhèxiàng gōngzuò duì tā láishuō bù",
      "en": "how good his writing was. Dawei said he studied English literature at university, so this work would not be"
     },
     {
@@ -2073,7 +2074,7 @@
     },
     "B": {
      "zh": "早上早點兒起床",
-     "py": "Zǎoshàng zǎodiǎnér qǐchuáng",
+     "py": "Zǎoshàng zǎodiǎnr qǐchuáng",
      "en": "(B) Getting up a bit earlier in the morning"
     },
     "C": {
@@ -2147,12 +2148,12 @@
    "options": {
     "A": {
      "zh": "睡得多就是睡得飽",
-     "py": "Shuì dé duō jiùshì shuì dé bǎo",
+     "py": "Shuì de duō jiùshì shuì de bǎo",
      "en": "(A) Sleeping more means sleeping enough."
     },
     "B": {
      "zh": "睡得少代表睡不好",
-     "py": "Shuì dé shǎo dàibiǎo shuì bùhǎo",
+     "py": "Shuì de shǎo dàibiǎo shuì bùhǎo",
      "en": "(B) Sleeping less means sleeping badly."
     },
     "C": {

@@ -2,6 +2,7 @@
  "testId": "b-r5",
  "segments": 326,
  "englishComplete": true,
+ "indonesianComplete": false,
  "questions": {
   "1": {
    "passage": [
@@ -188,7 +189,7 @@
     },
     {
      "zh": "隨著科技進步， 7 只有五分鐘，人們也能利用網路進行社交活動。",
-     "py": "Suízhù kējìjìnbù, 7 zhǐyǒu wǔfēnzhōng, rénmen yě néng lìyòng wǎnglù jìnxíng shèjiāohuódòng.",
+     "py": "Suízhe kējìjìnbù, 7 zhǐyǒu wǔfēnzhōng, rénmen yě néng lìyòng wǎnglù jìnxíng shèjiāohuódòng.",
      "en": "With advances in technology, ___7___ you only have five minutes, people can still socialize online."
     },
     {
@@ -208,7 +209,7 @@
     },
     {
      "zh": "現在只要申請成為該公司的付費 11 ，你就能隨時隨地與人交流，不受時間地點 12 ，更有效率地認識新朋友。",
-     "py": "Xiànzài zhǐyào shēnqǐng chéngwéi gāi gōngsī de fùfèi 11, nǐ jiù néng suíshísuídì yǔ rén jiāoliú, bù shòu shíjiān dìdiǎn 12, gèng yǒuxiàolǜ dì rènshi xīn péngyǒu.",
+     "py": "Xiànzài zhǐyào shēnqǐng chéngwéi gāi gōngsī de fùfèi 11, nǐ jiù néng suíshísuídì yǔ rén jiāoliú, bú shòu shíjiān dìdiǎn 12, gèng yǒuxiàolǜ de rènshi xīn péngyǒu.",
      "en": "Now, just apply to become one of the company's paying ___11___ and you can communicate with people anytime, anywhere, without ___12___ of time or place, and meet new friends more efficiently."
     }
    ],
@@ -230,7 +231,7 @@
     },
     "D": {
      "zh": "反而",
-     "py": "Fǎnér",
+     "py": "Fǎn'ér",
      "en": "(D) on the contrary"
     }
    }
@@ -406,7 +407,7 @@
     },
     "C": {
      "zh": "然而",
-     "py": "Ránér",
+     "py": "Rán'ér",
      "en": "(C) however; yet"
     },
     "D": {
@@ -468,7 +469,7 @@
    "options": {
     "A": {
      "zh": "一會兒",
-     "py": "Yíhuìer",
+     "py": "Yíhuìr",
      "en": "(A) a moment"
     },
     "B": {
@@ -478,7 +479,7 @@
     },
     "C": {
      "zh": "一回事",
-     "py": "Yī huíshì",
+     "py": "Yì huíshì",
      "en": "(C) a matter; a thing"
     },
     "D": {
@@ -545,7 +546,7 @@
     },
     {
      "zh": "方便的交通讓旅行更容易了，到哪兒都不是問題。",
-     "py": "Fāngbiàn de jiāotōng ràng lǚxíng gèng róngyì le, dào nǎér dōu búshì wèntí.",
+     "py": "Fāngbiàn de jiāotōng ràng lǚxíng gèng róngyì le, dào nǎr dōu búshì wèntí.",
      "en": "Convenient transportation has made travel easier; getting anywhere is no problem."
     },
     {
@@ -555,7 +556,7 @@
     },
     {
      "zh": "可是，有些人一到旅行地點就是拿出手機照相，把拍的照片放網站上，告訴大家自己去過哪裡，都忘了好好看看這些風景。",
-     "py": "Kěshì, yǒuxiē rén yī dào lǚxíng dìdiǎn jiùshì náchū shǒujī zhàoxiàng, bǎ pāi de zhàopiān fàng wǎngzhàn shàng, gàosù dàjiā zìjǐ qùguò nǎlǐ, dōu wàng le hǎohǎo kànkàn zhèxiē fēngjǐng.",
+     "py": "Kěshì, yǒuxiē rén yí dào lǚxíng dìdiǎn jiùshì náchū shǒujī zhàoxiàng, bǎ pāi de zhàopiān fàng wǎngzhàn shàng, gàosù dàjiā zìjǐ qùguò nǎlǐ, dōu wàng le hǎohǎo kànkàn zhèxiē fēngjǐng.",
      "en": "But some people, as soon as they reach their destination, just take out their phones to take pictures and post them online to tell everyone where they've been, forgetting to really look at the scenery."
     }
    ],
@@ -577,7 +578,7 @@
     },
     "C": {
      "zh": "享受風景比拍照來得重要",
-     "py": "Xiǎngshòu fēngjǐng bǐ pāizhào láide zhòngyào",
+     "py": "Xiǎngshòu fēngjǐng bǐ pāizhào lái de zhòngyào",
      "en": "(C) Enjoying the scenery is more important than taking photos."
     },
     "D": {
@@ -601,7 +602,7 @@
     },
     {
      "zh": "咖啡廳內坐著來自四面八方的人，像是等待外帶的上班族、安靜閱讀書報的學生，或是與三五好友一起聊天的老人家。",
-     "py": "Kāfēitīng nèi zuòzhù láizì sìmiànbāfāng de rén, xiàngshì děngdài wàidài de Shàngbānzú, Ānjìng yuèdú shūbào de xuéshēng, huòshì yǔ sānwǔ hǎoyǒu yìqǐ Liáotiān de lǎorénjiā.",
+     "py": "Kāfēitīng nèi zuòzhe láizì sìmiànbāfāng de rén, xiàngshì děngdài wàidài de Shàngbānzú, Ānjìng yuèdú shūbào de xuéshēng, huòshì yǔ sānwǔ hǎoyǒu yìqǐ Liáotiān de lǎorénjiā.",
      "en": "The café is full of people from all over: office workers waiting for takeaway, students quietly reading books and newspapers, or old people chatting with a few friends."
     },
     {
@@ -618,7 +619,7 @@
    "options": {
     "A": {
      "zh": "平日喜愛在咖啡廳用餐",
-     "py": "Píngrì xǐài zài kāfēitīng yòngcān",
+     "py": "Píngrì xǐ'ài zài kāfēitīng yòngcān",
      "en": "(A) She likes to eat meals at cafés on weekdays."
     },
     "B": {
@@ -701,7 +702,7 @@
     },
     {
      "zh": "2. 店員會先把您的水果分不同的種類，量一量它們的重量，機器會再把金額印在價錢貼紙上。",
-     "py": "2. Diànyuán huì xiān bǎ nín de shuǐguǒ fēn bùtóng de zhǒnglèi, liàng yíliàng tāmen de zhòngliàng, jīqì huì zài bǎ jīné yìn zài jiàqián tiēzhǐ shàng.",
+     "py": "2. Diànyuán huì xiān bǎ nín de shuǐguǒ fēn bùtóng de zhǒnglèi, liáng yiliáng tāmen de zhòngliàng, jīqì huì zài bǎ jīn'é yìn zài jiàqián tiēzhǐ shàng.",
      "en": "2. The staff member will sort your fruit by type and weigh it; the machine then prints the amount on a price sticker."
     },
     {
@@ -808,7 +809,7 @@
     },
     {
      "zh": "想徵求兩到三個女生跟我們一起坐車，這樣平均一人就只要四百或五百元！",
-     "py": "Xiǎng zhēngqiú liǎng dào sān ge nǚshēng gēn wǒmen yìqǐ zuòchē, zhèyàng píngjūn yī rén jiù zhǐyào sìbǎi huò wǔbǎiyuán!",
+     "py": "Xiǎng zhēngqiú liǎng dào sān ge nǚshēng gēn wǒmen yìqǐ zuòchē, zhèyàng píngjūn yì rén jiù zhǐyào sìbǎi huò wǔbǎiyuán!",
      "en": "We're looking for two or three girls to share the taxi with us—that way it's only NT$400 or 500 per person on average!"
     },
     {
@@ -818,7 +819,7 @@
     },
     {
      "zh": "※ 年齡不限。不過，如果跟我們一樣是大學生更好，這樣在車上應該比較有話題聊！",
-     "py": "※ niánlíng bù xiàn. Búguò, rúguǒ gēn wǒmen yíyàng shì dàxuéshēng gènghǎo, zhèyàng zài chēshàng yīnggāi bǐjiào yǒu huàtí liáo!",
+     "py": "※ niánlíng bú xiàn. Búguò, rúguǒ gēn wǒmen yíyàng shì dàxuéshēng gènghǎo, zhèyàng zài chēshàng yīnggāi bǐjiào yǒu huàtí liáo!",
      "en": "※ Any age. But it's even better if you're university students like us—then we should have more to talk about in the car!"
     },
     {
@@ -963,12 +964,12 @@
     },
     {
      "zh": "其次是上午時段，多受不靠勞力工作的人所喜愛，如在學青年和退休人士。",
-     "py": "Qícì shì shàngwǔ shíduàn, duō shòu búkào láolì gōngzuò de rén suǒ xǐài, rúzài xué qīngnián hé tuìxiū rénshì.",
+     "py": "Qícì shì shàngwǔ shíduàn, duō shòu búkào láolì gōngzuò de rén suǒ xǐ'ài, rúzài xué qīngnián hé tuìxiū rénshì.",
      "en": "next is the morning, preferred mostly by people who don't do physical work, such as young people in school and retirees."
     },
     {
      "zh": "另外，在一週之中，週末被認為最不適合學習，原因在於成年人大多希望利用週末從事家庭休閒活動。",
-     "py": "Lìngwài, zài yìzhōu zhīzhōng, zhōumò bèi rènwéi zuì bù shìhé xuéxí, yuányīn zàiyú chéngniánrén dàduō xīwàng lìyòng zhōumò cóngshì jiātíng xiūxiánhuódòng.",
+     "py": "Lìngwài, zài yìzhōu zhīzhōng, zhōumò bèi rènwéi zuì bú shìhé xuéxí, yuányīn zàiyú chéngniánrén dàduō xīwàng lìyòng zhōumò cóngshì jiātíng xiūxiánhuódòng.",
      "en": "In addition, within the week, weekends are considered the least suitable time to study, because most adults want to use weekends for family leisure activities."
     },
     {
@@ -1245,12 +1246,12 @@
     },
     {
      "zh": "其中一人聽了以後，仔細看了看自己的畫，最後不但以兩千元賣掉畫，還更加努力成為著名的畫家。",
-     "py": "Qízhōng yī rén tīng le yǐhòu, zǐxì kàn le kàn zìjǐ de huà, zuìhòu búdàn yǐ liǎngqiānyuán màidiào huà, hái gèngjiā nǔlì chéngwéi zhùmíng de huàjiā.",
+     "py": "Qízhōng yì rén tīng le yǐhòu, zǐxì kàn le kàn zìjǐ de huà, zuìhòu búdàn yǐ liǎngqiānyuán màidiào huà, hái gèngjiā nǔlì chéngwéi zhùmíng de huàjiā.",
      "en": "One of them, on hearing this, looked carefully at his painting; in the end he not only sold it for NT$2,000, but worked even harder and became a famous painter."
     },
     {
      "zh": "另一人聽了以後只是把畫撕了，從此不畫了，他努力學習攝影而成為有名的攝影大師。",
-     "py": "Lìngyìrén tīng le yǐhòu zhǐshì bǎ huà sī le, cóngcǐ bù huà le, tā Nǔlìxuéxí shèyǐng ér chéngwéi yǒumíng de shèyǐng dàshī.",
+     "py": "Lìngyìrén tīng le yǐhòu zhǐshì bǎ huà sī le, cóngcǐ bú huà le, tā Nǔlìxuéxí shèyǐng ér chéngwéi yǒumíng de shèyǐng dàshī.",
      "en": "Another, on hearing it, just tore up his painting and stopped painting from then on; he worked hard at learning photography and became a famous master photographer."
     },
     {
@@ -1297,7 +1298,7 @@
     },
     "C": {
      "zh": "要試著學習講價的技巧",
-     "py": "Yào shìzhù xuéxí jiǎngjià de jìqiǎo",
+     "py": "Yào shìzhe xuéxí jiǎngjià de jìqiǎo",
      "en": "(C) Try to learn bargaining skills."
     },
     "D": {
@@ -1355,7 +1356,7 @@
     },
     {
      "zh": "在溫哥華上週的無車日活動上，就擺了一個賣熱狗水的攤子，雖然商品說明聽起來很吸引人，可是誰都看得出來，它就是一瓶水裡面泡著一條熱狗而已，最後卻仍在活動當天賣出了六十瓶。",
-     "py": "Zài Wēngēhuá shàngzhōu de wúchērì huódòng shàng, jiù bǎi le yí ge mài règǒu shuǐ de tānzi, suīrán shāngpǐn shuōmíng tīng qǐlái hěn xīyǐn rén, kěshì shuí dōu kàndéchūlái, tā jiùshì yìpíng shuǐ lǐmiàn pàozhù yìtiáo règǒu éryǐ, zuìhòu què réng zài huódòng dàngtiān màichū le liùshí píng.",
+     "py": "Zài Wēngēhuá shàngzhōu de wúchērì huódòng shàng, jiù bǎi le yí ge mài règǒu shuǐ de tānzi, suīrán shāngpǐn shuōmíng tīng qǐlái hěn xīyǐn rén, kěshì shuí dōu kàndéchūlái, tā jiùshì yìpíng shuǐ lǐmiàn pàozhe yìtiáo règǒu éryǐ, zuìhòu què réng zài huódòng dàngtiān màichū le liùshí píng.",
      "en": "At last week's car-free day event in Vancouver there was a stall selling hot dog water. Although the product description sounded attractive, anyone could see it was just a bottle of water with a hot dog soaking in it—yet sixty bottles were sold on the day."
     },
     {
@@ -1375,7 +1376,7 @@
     },
     {
      "zh": "那得看他們是否知道自己上當了，即使知道，恐怕也不保證他們下一次不會再度賠上冤枉錢。",
-     "py": "Nà dé kàn tāmen shìfǒu zhīdào zìjǐ shàngdàng le, jíshǐ zhīdào, kǒngpà yě bù bǎozhèng tāmen xià yícì búhuì zàidù péi shàng yuānwǎngqián.",
+     "py": "Nà děi kàn tāmen shìfǒu zhīdào zìjǐ shàngdàng le, jíshǐ zhīdào, kǒngpà yě bù bǎozhèng tāmen xià yícì búhuì zàidù péi shàng yuānwǎngqián.",
      "en": "That depends on whether they know they were tricked. Even if they know, there's probably no guarantee they won't waste their money again next time."
     }
    ],
@@ -1508,22 +1509,22 @@
     },
     {
      "zh": "平日租車，可享有六折優惠；假日連續租車兩天以上，第二天享有九折優惠，第三天以上八五折。",
-     "py": "Píngrì zūchē, kě xiǎngyǒu liùzhé yōuhuì; jiàrì liánxù zūchē liǎngtiān yǐshàng, dìèrtiān xiǎngyǒu jiǔzhé yōuhuì, dìsāntiān yǐshàng bāwǔzhé.",
+     "py": "Píngrì zūchē, kě xiǎngyǒu liùzhé yōuhuì; jiàrì liánxù zūchē liǎngtiān yǐshàng, dì'èrtiān xiǎngyǒu jiǔzhé yōuhuì, dìsāntiān yǐshàng bāwǔzhé.",
      "en": "Weekday rentals get 40% off. For holiday rentals of two or more consecutive days, the second day is 10% off and the third day onward 15% off."
     },
     {
      "zh": "每日不得開車超過四百公里，每超出一公里加收二元。",
-     "py": "Měirì bùdé kāichē chāoguò sìbǎigōnglǐ, měi chāochū yī gōnglǐ jiāshōu èryuán.",
+     "py": "Měirì bùdé kāichē chāoguò sìbǎigōnglǐ, měi chāochū yì gōnglǐ jiāshōu èryuán.",
      "en": "You may not drive more than 400 km per day; each extra kilometer costs NT$2."
     },
     {
      "zh": "超過約定時間還車一小時以上者，每小時加收每日租金十分之一，超過六小時以上，以一日租金計算。",
-     "py": "Chāoguò yuēdìng shíjiān háichē yī xiǎoshí yǐshàngzhě, měi xiǎoshí jiāshōu měirì zūjīn shífēnzhīyī, chāoguò liùxiǎoshí yǐshàng, yǐ yírì zūjīn jìsuàn.",
+     "py": "Chāoguò yuēdìng shíjiān háichē yì xiǎoshí yǐshàngzhě, měi xiǎoshí jiāshōu měirì zūjīn shífēnzhīyī, chāoguò liùxiǎoshí yǐshàng, yǐ yírì zūjīn jìsuàn.",
      "en": "If the car is returned more than one hour late, each hour costs an extra tenth of the daily rate; more than six hours late is charged as a full day."
     },
     {
      "zh": "＊平日為週一至週四；假日為週五至週日、國定假日及前一日。",
-     "py": "＊ píngrì wèi zhōuyī zhì zhōusì; jiàrì wèi zhōuwǔ zhì zhōurì, guódìngjiàrì jí qián yírì.",
+     "py": "＊ píngrì wéi zhōuyī zhì zhōusì; jiàrì wéi zhōuwǔ zhì zhōurì, guódìngjiàrì jí qián yírì.",
      "en": "*Weekdays are Monday to Thursday; holidays are Friday to Sunday, national holidays and the day before them."
     },
     {
@@ -1553,7 +1554,7 @@
     },
     {
      "zh": "預定取車日取消或未通知取消，不退還費用。預定取車日前取消，退還總金額80%。",
-     "py": "Yùdìng qǔchē rì qǔxiāo huòwèi tōngzhī qǔxiāo, bù tuìhuán fèiyòng. Yùdìng qǔchē rìqián qǔxiāo, tuìhuán zǒngjīné 80 %.",
+     "py": "Yùdìng qǔchē rì qǔxiāo huòwèi tōngzhī qǔxiāo, bú tuìhuán fèiyòng. Yùdìng qǔchē rìqián qǔxiāo, tuìhuán zǒngjīn'é 80 %.",
      "en": "Cancellation on the scheduled pickup day, or no-show without notice: no refund. Cancellation before the scheduled pickup day: 80% of the total is refunded."
     }
    ]
@@ -1582,7 +1583,7 @@
     },
     "D": {
      "zh": "只要超過還車時間就得多付一天租金",
-     "py": "Zhǐyào chāoguò háichē shíjiān jiù dé duōfù yìtiān zūjīn",
+     "py": "Zhǐyào chāoguò háichē shíjiān jiù de duōfù yìtiān zūjīn",
      "en": "(D) Going over the return time at all means paying an extra day's rent."
     }
    }
@@ -1620,7 +1621,7 @@
    "passage": [
     {
      "zh": "（十二）",
-     "py": "(Shíèr)",
+     "py": "(Shí'èr)",
      "en": "(12)"
     },
     {
@@ -1635,7 +1636,7 @@
     },
     {
      "zh": "事實上，一個人並不意味著寂寞，與此相反，更可以將注意力放在享受餐盤上的美食。",
-     "py": "Shìshíshàng, yí ge rén bìng bù yìwèizhù jìmò, yǔcǐxiāngfǎn, gèng kěyǐ jiāng zhùyìlì fàngzài xiǎngshòu cānpán shàng de měishí.",
+     "py": "Shìshíshàng, yí ge rén bìng bú yìwèizhe jìmò, yǔcǐxiāngfǎn, gèng kěyǐ jiāng zhùyìlì fàngzài xiǎngshòu cānpán shàng de měishí.",
      "en": "In fact, being alone doesn't mean being lonely; on the contrary, you can focus more on enjoying the food on your plate."
     },
     {
@@ -1645,7 +1646,7 @@
     },
     {
      "zh": "當你因為獨自吃飯而害怕被貼上「人際障礙」的標籤時，也許根本沒有人注意到你，或是覺得你性格古怪。",
-     "py": "Dāng nǐ yīnwèi dúzì chīfàn ér hàipà bèi tiē shàng “Rénjì zhàngài” de biāoqiān shí, yěxǔ gēnběn méiyǒu rén zhùyì dào nǐ, huòshì juéde nǐ xìnggé gǔguài.",
+     "py": "Dāng nǐ yīnwèi dúzì chīfàn ér hàipà bèi tiē shàng “Rénjì zhàng'ài” de biāoqiān shí, yěxǔ gēnběn méiyǒu rén zhùyì dào nǐ, huòshì juéde nǐ xìnggé gǔguài.",
      "en": "when you fear being labeled as having \"social difficulties\" because you eat alone, perhaps nobody even notices you or thinks you're odd."
     },
     {
@@ -1655,7 +1656,7 @@
     },
     {
      "zh": "久而久之，你將發現，那些異樣眼光只是一種自我限制，而能一個人吃飯，竟然是那麼寶貴。",
-     "py": "Jiǔérjiǔzhī, nǐ jiāng fāxiàn, nàxiē yìyàng yǎnguāng zhǐshì yìzhǒng zìwǒ xiànzhì, ér néng yí ge rén chīfàn, jìngrán shì nàme Bǎoguì.",
+     "py": "Jiǔ'érjiǔzhī, nǐ jiāng fāxiàn, nàxiē yìyàng yǎnguāng zhǐshì yìzhǒng zìwǒ xiànzhì, ér néng yí ge rén chīfàn, jìngrán shì nàme Bǎoguì.",
      "en": "Over time you'll find that those strange looks are just a self-imposed limit, and being able to eat alone is actually so precious."
     }
    ],
@@ -1701,7 +1702,7 @@
     },
     "B": {
      "zh": "反而更不顧別人感受",
-     "py": "Fǎnér gèng búgù biérén gǎnshòu",
+     "py": "Fǎn'ér gèng búgù biérén gǎnshòu",
      "en": "(B) It makes you care even less about others' feelings."
     },
     "C": {
@@ -1711,7 +1712,7 @@
     },
     "D": {
      "zh": "每個人都得面對生活的寂寞",
-     "py": "Měi ge rén dōu dé miànduì shēnghuó de jìmò",
+     "py": "Měi ge rén dōu děi miànduì shēnghuó de jìmò",
      "en": "(D) Everyone has to face the loneliness of life."
     }
    }
@@ -1806,7 +1807,7 @@
     },
     "B": {
      "zh": "其材質容易弄髒不耐用",
-     "py": "Qí cáizhì róngyì nòngzāng bù nàiyòng",
+     "py": "Qí cáizhì róngyì nòngzāng bú nàiyòng",
      "en": "(B) Their material gets dirty easily and doesn't last."
     },
     "C": {
@@ -1908,7 +1909,7 @@
     },
     {
      "zh": "當文奇剛走進總經理的辦公室，總經理就一臉驚喜地對文奇說：「啊！",
-     "py": "Dāng Wénqígāng zǒujìn zǒngjīnglǐ de bàngōngshì, zǒngjīnglǐ jiù yìliǎn jīngxǐ dì duì Wénqí shuō: “A!",
+     "py": "Dāng Wénqígāng zǒujìn zǒngjīnglǐ de bàngōngshì, zǒngjīnglǐ jiù yìliǎn jīngxǐ de duì Wénqí shuō: “A!",
      "en": "As soon as Wenqi walked into the general manager's office, the general manager said to him with a look of delighted surprise: \"Ah!"
     },
     {
@@ -1918,12 +1919,12 @@
     },
     {
      "zh": "說著，就馬上站起來跟文奇握手。",
-     "py": "Shuōzhù, jiù mǎshàng zhàn qǐlái gēn Wénqí wòshǒu.",
+     "py": "Shuōzhe, jiù mǎshàng zhàn qǐlái gēn Wénqí wòshǒu.",
      "en": "As he said this, he immediately stood up and shook Wenqi's hand."
     },
     {
      "zh": "接著，他又對辦公室的秘書說：「這個年輕人就是上個月在游泳池救了我女兒的那個人，沒留下姓名就走了，沒想到，今天在這兒又見面了，真是太巧了。」",
-     "py": "Jiēzhù, tā yòu duì bàngōngshì de mìshū shuō: “Zhè ge niánqīngrén jiùshì shànggèyuè zài yóuyǒngchí jiù le wǒ nǚér de nà ge rén, méi liúxià xìngmíng jiù zǒu le, méixiǎngdào, jīntiān zài zhèér yòu jiànmiàn le, zhēnshì tàiqiǎo le.”",
+     "py": "Jiēzhe, tā yòu duì bàngōngshì de mìshū shuō: “Zhè ge niánqīngrén jiùshì shànggèyuè zài yóuyǒngchí jiù le wǒ nǚ'ér de nà ge rén, méi liúxià xìngmíng jiù zǒu le, méixiǎngdào, jīntiān zài zhèr yòu jiànmiàn le, zhēnshì tàiqiǎo le.”",
      "en": "Then he said to the secretary in the office: \"This young man is the one who saved my daughter at the swimming pool last month and left without giving his name. Who'd have thought we'd meet again here today—what a coincidence.\""
     },
     {
@@ -1963,7 +1964,7 @@
     },
     {
      "zh": "文奇平靜地說。",
-     "py": "Wénqí píngjìng dì shuō.",
+     "py": "Wénqí píngjìng de shuō.",
      "en": "Wenqi said calmly."
     },
     {
@@ -1973,12 +1974,12 @@
     },
     {
      "zh": "文奇問了秘書，救總經理女兒的年輕人找到了沒？",
-     "py": "Wénqí wèn le mìshū, jiù zǒngjīnglǐ nǚér de niánqīngrén zhǎodào le méi?",
+     "py": "Wénqí wèn le mìshū, jiù zǒngjīnglǐ nǚ'ér de niánqīngrén zhǎodào le méi?",
      "en": "Wenqi asked the secretary whether the young man who saved the general manager's daughter had been found."
     },
     {
      "zh": "秘書笑著說：「總經理哪有女兒啊！」",
-     "py": "Mìshū xiào zhù shuō: “Zǒngjīnglǐ nǎ yǒu nǚér a!”",
+     "py": "Mìshū xiào zhe shuō: “Zǒngjīnglǐ nǎ yǒu nǚ'ér a!”",
      "en": "The secretary laughed: \"The general manager doesn't even have a daughter!\""
     }
    ],
@@ -2013,7 +2014,7 @@
   "48": {
    "stem": {
     "zh": "總經理面試時為什麼說文奇救了他女兒？",
-    "py": "Zǒngjīnglǐ miànshì shí wèishénme shuō Wénqí jiù le tā nǚér?",
+    "py": "Zǒngjīnglǐ miànshì shí wèishénme shuō Wénqí jiù le tā nǚ'ér?",
     "en": "Why did the general manager say in the interview that Wenqi had saved his daughter?"
    },
    "options": {
@@ -2024,7 +2025,7 @@
     },
     "B": {
      "zh": "他得確認文奇真正的身分",
-     "py": "Tā dé quèrèn Wénqí zhēnzhèng de shēnfèn",
+     "py": "Tā děi quèrèn Wénqí zhēnzhèng de shēnfèn",
      "en": "(B) He had to confirm Wenqi's real identity."
     },
     "C": {
@@ -2034,7 +2035,7 @@
     },
     "D": {
      "zh": "他要表揚文奇幫助他女兒",
-     "py": "Tā yào biǎoyáng Wénqí bāngzhù tā nǚér",
+     "py": "Tā yào biǎoyáng Wénqí bāngzhù tā nǚ'ér",
      "en": "(D) He wanted to praise Wenqi for helping his daughter."
     }
    }
@@ -2058,7 +2059,7 @@
     },
     "C": {
      "zh": "他救了總經理的女兒",
-     "py": "Tā jiù le zǒngjīnglǐ de nǚér",
+     "py": "Tā jiù le zǒngjīnglǐ de nǚ'ér",
      "en": "(C) He saved the general manager's daughter."
     },
     "D": {
@@ -2077,7 +2078,7 @@
    "options": {
     "A": {
      "zh": "他是一個女兒的父親",
-     "py": "Tā shì yí ge nǚér de fùqīn",
+     "py": "Tā shì yí ge nǚ'ér de fùqīn",
      "en": "(A) He is the father of a daughter."
     },
     "B": {
@@ -2087,7 +2088,7 @@
     },
     "C": {
      "zh": "只有他一人被該公司錄取",
-     "py": "Zhǐyǒu tā yī rén bèi gāi gōngsī lùqǔ",
+     "py": "Zhǐyǒu tā yì rén bèi gāi gōngsī lùqǔ",
      "en": "(C) He was the only one hired by the company."
     },
     "D": {

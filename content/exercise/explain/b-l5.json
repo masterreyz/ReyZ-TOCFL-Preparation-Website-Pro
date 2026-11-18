@@ -2,6 +2,7 @@
  "testId": "b-l5",
  "segments": 446,
  "englishComplete": true,
+ "indonesianComplete": false,
  "questions": {
   "1": {
    "options": {
@@ -63,7 +64,7 @@
     },
     "D": {
      "zh": "她不確定家裡有沒有牛肉",
-     "py": "Tā bù quèdìng jiālǐ yǒuméiyǒu niúròu",
+     "py": "Tā bú quèdìng jiālǐ yǒuméiyǒu niúròu",
      "en": "(D) She's not sure whether there's beef at home."
     }
    },
@@ -94,7 +95,7 @@
     },
     "B": {
      "zh": "她不願意送小新生日禮物",
-     "py": "Tā bù yuànyì sòng xiǎo xīn shēngrìlǐwù",
+     "py": "Tā bú yuànyì sòng xiǎo xīn shēngrìlǐwù",
      "en": "(B) She doesn't want to give Xiaoxin a birthday present."
     },
     "C": {
@@ -140,7 +141,7 @@
     },
     "C": {
      "zh": "看病的結果可能不正確",
-     "py": "Kànbìng de jiéguǒ kěnéng bù zhèngquè",
+     "py": "Kànbìng de jiéguǒ kěnéng bú zhèngquè",
      "en": "(C) The diagnosis may not be correct."
     },
     "D": {
@@ -162,7 +163,7 @@
     },
     {
      "zh": "女：是嗎？我不認為這是一個好消息。再說，看病的結果可靠嗎？",
-     "py": "Nǚ: Shì ma? Wǒ bù rènwéi zhè shì yí ge hǎoxiāoxī. Zàishuō, kànbìng de jiéguǒ kěkào ma?",
+     "py": "Nǚ: Shì ma? Wǒ bú rènwéi zhè shì yí ge hǎoxiāoxī. Zàishuō, kànbìng de jiéguǒ kěkào ma?",
      "en": "Woman: Is it? I don't think it's good news. Besides, are the diagnoses reliable?"
     },
     {
@@ -181,7 +182,7 @@
     },
     "B": {
      "zh": "她今天得整理資料給老闆",
-     "py": "Tā jīntiān dé zhěnglǐ zīliào gěi lǎobǎn",
+     "py": "Tā jīntiān děi zhěnglǐ zīliào gěi lǎobǎn",
      "en": "(B) She has to sort out materials for the boss today."
     },
     "C": {
@@ -249,7 +250,7 @@
     },
     {
      "zh": "女：我倒是比較重視廚師的能力。店內的布置有點老舊，也許顧客反而覺得更自在。",
-     "py": "Nǚ: Wǒ dào shì bǐjiào zhòngshì chúshī de nénglì. Diàn nèi de bùzhì yǒudiǎn lǎo jiù, yěxǔ Gùkè fǎnér juéde gèngzì zài.",
+     "py": "Nǚ: Wǒ dào shì bǐjiào zhòngshì chúshī de nénglì. Diàn nèi de bùzhì yǒudiǎn lǎo jiù, yěxǔ Gùkè fǎn'ér juéde gèngzì zài.",
      "en": "Woman: I care more about the chef's skill. The decor being a bit old might actually make customers feel more at ease."
     },
     {
@@ -290,7 +291,7 @@
     },
     {
      "zh": "女：我幫你查一查，請問姓名、地址是…",
-     "py": "Nǚ: Wǒ bāng nǐ chá yī chá, qǐngwèn xìngmíng, dìzhǐ shì…",
+     "py": "Nǚ: Wǒ bāng nǐ chá yì chá, qǐngwèn xìngmíng, dìzhǐ shì…",
      "en": "Woman: Let me check for you. May I have your name and address…"
     },
     {
@@ -336,7 +337,7 @@
    "transcript": [
     {
      "zh": "男：你上次跟朋友去自助旅行，怎麼鬧得不開心？",
-     "py": "Nán: Nǐ shàngcì gēn péngyǒu qù zìzhù lǚxíng, zěnme nào dé bù kāixīn?",
+     "py": "Nán: Nǐ shàngcì gēn péngyǒu qù zìzhù lǚxíng, zěnme nào de bù kāixīn?",
      "en": "Man: Last time you went backpacking with your friend, how did it end so badly?"
     },
     {
@@ -351,12 +352,12 @@
     },
     {
      "zh": "男：聽起來你們習慣的旅行方式不太一樣啊！",
-     "py": "Nán: Tīng qǐlái nǐmen xíguàn de lǚxíng fāngshì bù tài yíyàng a!",
+     "py": "Nán: Tīng qǐlái nǐmen xíguàn de lǚxíng fāngshì bú tài yíyàng a!",
      "en": "Man: Sounds like you have different travel styles!"
     },
     {
      "zh": "女：是啊，兩個人鬧得很不愉快，回來後連朋友都做不成。",
-     "py": "Nǚ: Shì a, liǎng ge rén nào dé hěn bù yúkuài, huílái hòu lián péngyǒu dōu zuò bùchéng.",
+     "py": "Nǚ: Shì a, liǎng ge rén nào de hěn bù yúkuài, huílái hòu lián péngyǒu dōu zuò bùchéng.",
      "en": "Woman: Yes, we fell out badly—after we got back we couldn't even stay friends."
     },
     {
@@ -375,7 +376,7 @@
     },
     "B": {
      "zh": "抱著肯定的態度",
-     "py": "Bàozhù kěndìng de tàidù",
+     "py": "Bàozhe kěndìng de tàidù",
      "en": "(B) She's positive about it."
     },
     "C": {
@@ -402,7 +403,7 @@
     },
     {
      "zh": "再說，有了家庭以後，生活上所有的花費也會跟著增加，可是薪水卻不會跟",
-     "py": "Zàishuō, yǒu le jiātíng yǐhòu, shēnghuó shàng suǒyǒu de huāfèi yě huì gēnzhù zēngjiā, kěshì xīnshuǐ què búhuì gēn",
+     "py": "Zàishuō, yǒu le jiātíng yǐhòu, shēnghuó shàng suǒyǒu de huāfèi yě huì gēnzhe zēngjiā, kěshì xīnshuǐ què búhuì gēn",
      "en": "Besides, once you have a family, all your living expenses go up too, but your salary doesn't"
     },
     {
@@ -443,7 +444,7 @@
    "transcript": [
     {
      "zh": "男：考試不是快到了嗎？你怎麼還想著吃喝玩樂？以為自己很聰明就不複習了",
-     "py": "Nán: Kǎoshì búshì kuài dào le ma? Nǐ zěnme hái xiǎngzhù chīhēwánlè? Yǐwéi zìjǐ hěn cōngmíng jiù bù fùxí le",
+     "py": "Nán: Kǎoshì búshì kuài dào le ma? Nǐ zěnme hái xiǎngzhe chīhēwánlè? Yǐwéi zìjǐ hěn cōngmíng jiù bú fùxí le",
      "en": "Man: Isn't the exam coming up? Why are you still thinking about having fun? Do you think you're so smart you don't need to review?"
     },
     {
@@ -472,7 +473,7 @@
    "options": {
     "A": {
      "zh": "她不會放棄提這個計畫案",
-     "py": "Tā búhuì fàngqì tí zhè ge jìhuààn",
+     "py": "Tā búhuì fàngqì tí zhè ge jìhuà'àn",
      "en": "(A) She won't give up on proposing this plan."
     },
     "B": {
@@ -482,7 +483,7 @@
     },
     "C": {
      "zh": "她覺得這個計畫案無法通過",
-     "py": "Tā juéde zhè ge jìhuààn wúfǎ tōngguò",
+     "py": "Tā juéde zhè ge jìhuà'àn wúfǎ tōngguò",
      "en": "(C) She thinks this plan won't be approved."
     },
     "D": {
@@ -494,7 +495,7 @@
    "transcript": [
     {
      "zh": "男：我們提的計畫案，被公司退回了，這個計畫案大概是沒希望了。",
-     "py": "Nán: Wǒmen tí de jìhuààn, bèi gōngsī tuìhuí le, zhè ge jìhuààn dàgài shì méi xīwàng le.",
+     "py": "Nán: Wǒmen tí de jìhuà'àn, bèi gōngsī tuìhuí le, zhè ge jìhuà'àn dàgài shì méi xīwàng le.",
      "en": "Man: The plan we proposed was sent back by the company. There's probably no hope for this plan."
     },
     {
@@ -550,12 +551,12 @@
     },
     {
      "zh": "男：我回家擦了你們的藥，眼睛就變得紅紅的。",
-     "py": "Nán: Wǒ huíjiā cā le nǐmen de yào, yǎnjīng jiù biàndé hónghóngde.",
+     "py": "Nán: Wǒ huíjiā cā le nǐmen de yào, yǎnjīng jiù biàn de hónghóngde.",
      "en": "Man: When I got home and put on your medicine, my eyes turned red."
     },
     {
      "zh": "女：擦這種藥都會這樣的。不放心的話，請你明天來醫院讓我看看。",
-     "py": "Nǚ: Cā zhèzhǒng yàodōu huì zhèyàng de. Bù fàngxīn dehuà, qǐng nǐ míngtiān lái yīyuàn ràng wǒ kànkàn.",
+     "py": "Nǚ: Cā zhèzhǒng yàodōu huì zhèyàng de. Bú fàngxīn dehuà, qǐng nǐ míngtiān lái yīyuàn ràng wǒ kànkàn.",
      "en": "Woman: That always happens with this medicine. If you're worried, come to the hospital tomorrow and let me take a look."
     },
     {
@@ -647,7 +648,7 @@
     },
     {
      "zh": "男：唉！今天下班後又得先打掃家裡才能休息。",
-     "py": "Nán: Āi! Jīntiān xiàbān hòu yòu dé xiān dǎsǎo jiālǐ cáinéng xiūxí.",
+     "py": "Nán: Āi! Jīntiān xiàbān hòu yòu děi xiān dǎsǎo jiālǐ cáinéng xiūxí.",
      "en": "Man: Sigh! After work today I have to clean the house again before I can rest."
     },
     {
@@ -693,7 +694,7 @@
     },
     "D": {
      "zh": "購買能掃得更乾淨的工具",
-     "py": "Gòumǎi néng sǎo dé gèng gānjìng de gōngjù",
+     "py": "Gòumǎi néng sǎo de gèng gānjìng de gōngjù",
      "en": "(D) Buy a tool that cleans more thoroughly."
     }
    },
@@ -761,7 +762,7 @@
     },
     {
      "zh": "得無法接受了。",
-     "py": "Dé wúfǎ jiēshòu le.",
+     "py": "De wúfǎ jiēshòu le.",
      "en": "finds it unacceptable."
     },
     {
@@ -872,7 +873,7 @@
    "transcript": [
     {
      "zh": "這位小姐一開始對這件事情有什麼看法？",
-     "py": "Zhèwèi Xiǎojiě yī kāishǐ duì zhèjiàn shìqing yǒu shénme kànfǎ?",
+     "py": "Zhèwèi Xiǎojiě yì kāishǐ duì zhèjiàn shìqing yǒu shénme kànfǎ?",
      "en": "What does the woman think about this at first?"
     }
    ]
@@ -912,12 +913,12 @@
    "options": {
     "A": {
      "zh": "在裡面才能安靜地看電影",
-     "py": "Zài lǐmiàn cáinéng Ānjìng dì kàn diànyǐng",
+     "py": "Zài lǐmiàn cáinéng Ānjìng de kàn diànyǐng",
      "en": "(A) Inside you can watch the movie quietly."
     },
     "B": {
      "zh": "孩子一哭鬧，就會被帶進去",
-     "py": "Háizi yī kūnào, jiù huì bèi dàijìnqù",
+     "py": "Háizi yì kūnào, jiù huì bèi dàijìnqù",
      "en": "(B) As soon as children cry, they get taken inside."
     },
     "C": {
@@ -964,7 +965,7 @@
     },
     {
      "zh": "男：這個設計跟教堂裡給親子專用的房間，有一樣的功能，讓父母能安心帶著孩",
-     "py": "Nán: Zhè ge shèjì gēn jiàotáng lǐ gěi qīnzǐ zhuānyòng de fángjiān, yǒu yíyàng de gōngnéng, ràng fùmǔ néng ānxīn dàizhù hái",
+     "py": "Nán: Zhè ge shèjì gēn jiàotáng lǐ gěi qīnzǐ zhuānyòng de fángjiān, yǒu yíyàng de gōngnéng, ràng fùmǔ néng ānxīn dàizhe hái",
      "en": "Man: That design has the same function as the parent-and-child rooms in churches—it lets parents bring their kids to activities"
     },
     {
@@ -1078,12 +1079,12 @@
     },
     {
      "zh": "男：那都是廠商行銷的手段。我不反對你喝咖啡，但像你這樣把咖啡當水喝，一",
-     "py": "Nán: Nà dōu shì chǎngshāng xíngxiāo de shǒuduàn. Wǒ bù fǎnduì nǐ Hēkāfēi, dàn xiàng nǐ zhèyàng bǎ kāfēi dāng shuǐ hē, yī",
+     "py": "Nán: Nà dōu shì chǎngshāng xíngxiāo de shǒuduàn. Wǒ bù fǎnduì nǐ Hēkāfēi, dàn xiàng nǐ zhèyàng bǎ kāfēi dàng shuǐ hē, yī",
      "en": "Man: That's all manufacturers' marketing. I'm not against you drinking coffee, but drinking it like water the way you do"
     },
     {
      "zh": "定對身體不好，你啊！早晚得去看醫生。",
-     "py": "Dìngduì shēntǐ bùhǎo, nǐ a! Zǎowǎn dé qù kàn yīshēng.",
+     "py": "Dìngduì shēntǐ bùhǎo, nǐ a! Zǎowǎn děi qù kàn yīshēng.",
      "en": "must be bad for you. You! Sooner or later you'll have to see a doctor."
     }
    ],
@@ -1104,7 +1105,7 @@
     },
     "B": {
      "zh": "可降低得心臟疾病的風險",
-     "py": "Kě jiàngdī dé xīnzàng jíbìng de fēngxiǎn",
+     "py": "Kě jiàngdī de xīnzàng jíbìng de fēngxiǎn",
      "en": "(B) It can lower the risk of heart disease."
     },
     "C": {
@@ -1254,7 +1255,7 @@
     },
     "D": {
      "zh": "慢跑讓她的身體變得更好",
-     "py": "Mànpǎo ràng tā de shēntǐ biàndé gènghǎo",
+     "py": "Mànpǎo ràng tā de shēntǐ biàn de gènghǎo",
      "en": "(D) Jogging has made her healthier."
     }
    },
@@ -1271,7 +1272,7 @@
     },
     {
      "zh": "女：我昨天慢跑了三公里，現在腿痛得不得了。",
-     "py": "Nǚ: Wǒ zuótiān mànpǎo le sān gōnglǐ, xiànzài tuǐ tòng dé bùdéle.",
+     "py": "Nǚ: Wǒ zuótiān mànpǎo le sān gōnglǐ, xiànzài tuǐ tòng de bùdéliǎo.",
      "en": "Woman: I jogged three kilometers yesterday and now my legs really hurt."
     },
     {
@@ -1291,7 +1292,7 @@
     },
     {
      "zh": "男：妳沒有慢跑的經驗，先不管跑步的速度怎麼樣，一開始最好不要跑長距離，",
-     "py": "Nán: Nǐ méiyǒu mànpǎo de jīngyàn, xiān bùguǎn pǎobù de sùdù zěnmeyàng, yī kāishǐ zuìhǎo búyào pǎo zhǎngjùlí,",
+     "py": "Nán: Nǐ méiyǒu mànpǎo de jīngyàn, xiān bùguǎn pǎobù de sùdù zěnmeyàng, yì kāishǐ zuìhǎo búyào pǎo zhǎngjùlí,",
      "en": "Man: You've no jogging experience. Never mind your speed for now—at the start it's best not to run long distances,"
     },
     {
@@ -1385,7 +1386,7 @@
     },
     {
      "zh": "Ⅱ. 為什麼這位先生覺得這個合作方案對挪威沒有好處？",
-     "py": "Ⅱ. Wèishénme zhèwèi xiānsheng juéde zhè ge hézuò fāngàn duì Nuówēi méiyǒu hǎochù?",
+     "py": "Ⅱ. Wèishénme zhèwèi xiānsheng juéde zhè ge hézuò fāng'àn duì Nuówēi méiyǒu hǎochù?",
      "en": "II. Why does the man think this arrangement does Norway no good?"
     },
     {
@@ -1405,7 +1406,7 @@
     },
     {
      "zh": "女：這是因為瑞典垃圾分類做得太好了，回收再利用的比例很高，所以能作為燃",
-     "py": "Nǚ: Zhè shìyīnwèi Ruìdiǎn lājī fēnlèi zuò dé tàihǎole, huíshōu zài lìyòng de bǐlì hěn gāo, suǒyǐ néng zuòwéi rán",
+     "py": "Nǚ: Zhè shìyīnwèi Ruìdiǎn lājī fēnlèi zuò de tàihǎole, huíshōu zài lìyòng de bǐlì hěn gāo, suǒyǐ néng zuòwéi rán",
      "en": "Woman: It's because Sweden sorts its garbage so well and recycles such a high proportion that there isn't enough garbage to burn as fuel"
     },
     {
@@ -1415,12 +1416,12 @@
     },
     {
      "zh": "男：但是挪威把垃圾出口到瑞典還得先付一筆垃圾處理費，此外，燒完垃圾剩下",
-     "py": "Nán: Dànshì Nuówēi bǎ lājī chūkǒu dào Ruìdiǎn hái dé xiānfù yìbǐ lājīchǔlǐ fèi, cǐwài, shāowán lājī shèngxià",
+     "py": "Nán: Dànshì Nuówēi bǎ lājī chūkǒu dào Ruìdiǎn hái děi xiānfù yìbǐ lājīchǔlǐ fèi, cǐwài, shāowán lājī shèngxià",
      "en": "Man: But Norway has to pay a garbage-handling fee to export its garbage to Sweden, and the residue left after burning"
     },
     {
      "zh": "的東西也得自己運回國，這樣對挪威來說好像沒什麼好處。",
-     "py": "De Dōngxi yě dé zìjǐ yùn Huíguó, zhèyàng duì Nuówēi láishuō hǎoxiàng méishénme hǎochù.",
+     "py": "De Dōngxi yě děi zìjǐ yùn Huíguó, zhèyàng duì Nuówēi láishuō hǎoxiàng méishénme hǎochù.",
      "en": "has to be shipped back home too. It doesn't seem to do Norway much good."
     },
     {
@@ -1476,7 +1477,7 @@
     },
     "B": {
      "zh": "因為得負責相關費用及運送",
-     "py": "Yīnwèi dé fùzé xiāngguān fèiyòng jí yùnsòng",
+     "py": "Yīnwèi děi fùzé xiāngguān fèiyòng jí yùnsòng",
      "en": "(B) Because it has to bear the related fees and transport"
     },
     "C": {
@@ -1493,7 +1494,7 @@
    "transcript": [
     {
      "zh": "為什麼這位先生覺得這個合作方案對挪威沒有好處？",
-     "py": "Wèishénme zhèwèi xiānsheng juéde zhè ge hézuò fāngàn duì Nuówēi méiyǒu hǎochù?",
+     "py": "Wèishénme zhèwèi xiānsheng juéde zhè ge hézuò fāng'àn duì Nuówēi méiyǒu hǎochù?",
      "en": "Why does the man think this arrangement does Norway no good?"
     }
    ]
@@ -1512,7 +1513,7 @@
     },
     "C": {
      "zh": "反而會製造出更多汙染物質",
-     "py": "Fǎnér huì zhìzào chū gèng duō wūrǎn wùzhì",
+     "py": "Fǎn'ér huì zhìzào chū gèng duō wūrǎn wùzhì",
      "en": "(C) It actually creates more pollutants."
     },
     "D": {
@@ -1601,7 +1602,7 @@
     },
     "C": {
      "zh": "李大華希望大家教他寫作業",
-     "py": "Lǐ Dàhuá xīwàng dàjiā jiào tā xiě zuòyè",
+     "py": "Lǐ Dàhuá xīwàng dàjiā jiāo tā xiě zuòyè",
      "en": "(C) Li Dahua hopes everyone will teach him to do homework."
     },
     "D": {
@@ -1649,7 +1650,7 @@
     },
     {
      "zh": "各位旅客您好，這是車長廣播。本班車為第 74 號班車，本班車開車後，直",
-     "py": "Gèwèi lǚkè nínhǎo, zhè shì chēzhǎng guǎngbō. Běn bānchē wèi dì 74 hào bānchē, běn bānchē kāichē hòu, zhí",
+     "py": "Gèwèi lǚkè nínhǎo, zhè shì chēzhǎng guǎngbō. Běn bānchē wéi dì 74 hào bānchē, běn bānchē kāichē hòu, zhí",
      "en": "Good day, passengers. This is the conductor speaking. This is train No. 74. After departure, this train goes directly"
     },
     {
@@ -1783,7 +1784,7 @@
     },
     {
      "zh": "不多。我真的覺得這個錢花得不值得啊。",
-     "py": "Bù duō. Wǒ zhēnde juéde zhè ge qián huā dé bù zhíde a.",
+     "py": "Bù duō. Wǒ zhēnde juéde zhè ge qián huā de bù zhíde a.",
      "en": "much time to look around. I really feel the money wasn't well spent."
     }
    ],
@@ -1862,7 +1863,7 @@
     },
     {
      "zh": "金額多少，憑本日收據到五樓服務櫃臺，就能獲得本店贈送的紀念杯組。前一百",
-     "py": "Jīné duōshǎo, píng běnrì shōujù dào wǔ lóu fúwù guìtái, jiù néng huòdé běndiàn zèngsòng de jìniàn bēizǔ. Qián yìbǎi",
+     "py": "Jīn'é duōshǎo, píng běnrì shōujù dào wǔ lóu fúwù guìtái, jiù néng huòdé běndiàn zèngsòng de jìniàn bēizǔ. Qián yìbǎi",
      "en": "the amount, can bring today's receipt to the service counter on the fifth floor to receive a commemorative cup set. The first hundred"
     },
     {
@@ -1951,7 +1952,7 @@
     },
     {
      "zh": "大家對自動販賣機應該不陌生，是一台專門賣飲料、零食的機器，只要投下",
-     "py": "Dàjiā duì zìdòng fànmàijī yīnggāi bù mòshēng, shì yìtái zhuānmén mài yǐnliào, língshí de jīqì, zhǐyào tóu xià",
+     "py": "Dàjiā duì zìdòng fànmàijī yīnggāi bú mòshēng, shì yìtái zhuānmén mài yǐnliào, língshí de jīqì, zhǐyào tóu xià",
      "en": "Everyone should be familiar with vending machines—machines that sell drinks and snacks. Just put in"
     },
     {
@@ -1971,7 +1972,7 @@
     },
     {
      "zh": "有五萬多則故事，就算提早到車站也不無聊。有腦筋動得快的人，建議這款自動",
-     "py": "Yǒu wǔwànduō zé gùshì, jiùsuàn tízǎodào chēzhàn yě bù wúliáo. Yǒu nǎojīn dòng dé kuài de rén, jiànyì zhè kuǎn zìdòng",
+     "py": "Yǒu wǔwànduō zé gùshì, jiùsuàn tízǎodào chēzhàn yě bù wúliáo. Yǒu nǎojīn dòng de kuài de rén, jiànyì zhè kuǎn zìdòng",
      "en": "over fifty thousand stories, so even if you arrive at the station early you won't be bored. Some quick thinkers have suggested this vending"
     },
     {
@@ -2055,7 +2056,7 @@
     },
     {
      "zh": "觀光價值。然而近日卻有少部分的人民認為，放煙火就是造成空氣品質變差的主",
-     "py": "Guānguāng jiàzhí. Ránér jìnrì què yǒu shǎobùfèn de rénmín rènwéi, fàngyānhuǒ jiùshì zàochéng kōngqì pǐnzhì biànchà de zhǔ",
+     "py": "Guānguāng jiàzhí. Rán'ér jìnrì què yǒu shǎobùfèn de rénmín rènwéi, fàngyānhuǒ jiùshì zàochéng kōngqì pǐnzhì biànchà de zhǔ",
      "en": "tourism value. Recently, however, a small number of people have argued that fireworks are the main cause of worsening air"
     },
     {
@@ -2075,7 +2076,7 @@
     },
     {
      "zh": "為，煙火象徵著新的開始，令人十分感動，實在沒理由停辦。",
-     "py": "Wèi, yānhuǒ xiàngzhēng zhùxīn de kāishǐ, Lìngrén shífēn gǎndòng, shízài méilǐyóu tíngbàn.",
+     "py": "Wéi, yānhuǒ xiàngzhēng zhe xīn de kāishǐ, Lìngrén shífēn gǎndòng, shízài méilǐyóu tíngbàn.",
      "en": "feel fireworks symbolize a new beginning and are very moving. There's really no reason to cancel them."
     }
    ],
@@ -2149,7 +2150,7 @@
     },
     {
      "zh": "從飲食消費到金融經濟，日常生活各方面都深受全球化的影響。然而，新聞",
-     "py": "Cóng yǐnshí xiāofèi dào jīnróng jīngjì, rìchángshēnghuó gè fāngmiàn dōu shēnshòu quánqiúhuà de yǐngxiǎng. Ránér, xīnwén",
+     "py": "Cóng yǐnshí xiāofèi dào jīnróng jīngjì, rìchángshēnghuó gè fāngmiàn dōu shēnshòu quánqiúhuà de yǐngxiǎng. Rán'ér, xīnwén",
      "en": "From food consumption to finance, every aspect of daily life is deeply affected by globalization. Yet the news"
     },
     {
@@ -2179,7 +2180,7 @@
     },
     {
      "zh": "如果電視台並未針對購買而來的新聞作出平衡報導，反而容易造成錯誤訊息",
-     "py": "Rúguǒ diànshìtái bìngwèi zhēnduì gòumǎi érlái de xīnwén zuòchū pínghéng bàodǎo, fǎnér róngyì zàochéng cuòwù xùnxī",
+     "py": "Rúguǒ diànshìtái bìngwèi zhēnduì gòumǎi érlái de xīnwén zuòchū pínghéng bàodǎo, fǎn'ér róngyì zàochéng cuòwù xùnxī",
      "en": "If TV stations don't balance the news they buy, it easily leads to the spread of wrong information,"
     },
     {
@@ -2288,7 +2289,7 @@
     },
     {
      "zh": "來越嚴重，而且人們買得多，丟得也多。因此負責人就把這些衣服集中起來，提",
-     "py": "Lái yuè yánzhòng, érqiě rénmen mǎi dé duō, diū dé yě duō. Yīncǐ fùzérén jiù bǎ zhèxiē yīfú jízhōng qǐlái, tí",
+     "py": "Lái yuè yánzhòng, érqiě rénmen mǎi de duō, diū de yě duō. Yīncǐ fùzérén jiù bǎ zhèxiē yīfú jízhōng qǐlái, tí",
      "en": "more and more serious, and people buy a lot and throw away a lot. So the person in charge collected these clothes and"
     },
     {
@@ -2308,12 +2309,12 @@
     },
     {
      "zh": "高級服飾店。加入會員以後，每個月只要 700 元，就能租一到四件衣服，而且沒",
-     "py": "Gāojí fúshìdiàn. Jiārù huìyuán yǐhòu, měi ge yuè zhǐyào 700 yuán, jiù néng zū yī dào sìjiàn yīfú, érqiě méi",
+     "py": "Gāojí fúshìdiàn. Jiārù huìyuán yǐhòu, měi ge yuè zhǐyào 700 yuán, jiù néng zū yí dào sìjiàn yīfú, érqiě méi",
      "en": "upscale boutique. After joining as a member, for just 700 a month you can borrow one to four items, with no"
     },
     {
      "zh": "有歸還期限，等客人穿膩了再來交換。如果真的很喜愛某件衣服，還可以用折扣",
-     "py": "Yǒu guīhuán qīxiàn, děng kèrén chuān nì le zài lái jiāohuàn. Rúguǒ zhēnde hěn xǐài mǒu jiàn yīfú, hái kěyǐ yòng zhékòu",
+     "py": "Yǒu guīhuán qīxiàn, děng kèrén chuān nì le zài lái jiāohuàn. Rúguǒ zhēnde hěn xǐ'ài mǒu jiàn yīfú, hái kěyǐ yòng zhékòu",
      "en": "return deadline—customers come and swap when they're tired of them. If you really love an item, you can also buy it at a discount"
     },
     {
@@ -2458,7 +2459,7 @@
     },
     {
      "zh": "現代人越來越重視運動，以臺灣為例，每年有許多大小不同的路跑活動。不",
-     "py": "Xiàndàirén yuèláiyuè zhòngshì yùndòng, yǐ Táiwān wèi lì, měinián yǒu xǔduō dàxiǎo bùtóng de lù pǎo huódòng. Bù",
+     "py": "Xiàndàirén yuèláiyuè zhòngshì yùndòng, yǐ Táiwān wéi lì, měinián yǒu xǔduō dàxiǎo bùtóng de lù pǎo huódòng. Bù",
      "en": "People today care more and more about exercise. In Taiwan, for example, there are many road running events of all sizes every year. Not"
     },
     {
@@ -2478,7 +2479,7 @@
     },
     {
      "zh": "比賽，培養運動人口成長，接著是政府鼓勵，然後慢慢地成為全民運動。以臺灣",
-     "py": "Bǐsài, péiyǎng yùndòng rénkǒu chéngzhǎng, jiēzhù shì zhèngfǔ gǔlì, ránhòu mànmàn dì chéngwéi Quánmínyùndòng. Yǐ Táiwān",
+     "py": "Bǐsài, péiyǎng yùndòng rénkǒu chéngzhǎng, jiēzhe shì zhèngfǔ gǔlì, ránhòu mànmàn de chéngwéi Quánmínyùndòng. Yǐ Táiwān",
      "en": "competitions to grow the exercising population; then came government encouragement, and gradually it became exercise for all. In Taiwan's"
     },
     {
@@ -2503,7 +2504,7 @@
     },
     {
      "zh": "的，而是認為有商業機會的都會出錢支持，也讓戶外運動休閒事業慢慢地發展起",
-     "py": "De, érshì rènwéi yǒu Shāngyèjīhuì de dōu huì chūqián zhīchí, yě ràng Hùwàiyùndòng xiūxián shìyè mànmàn dì fāzhǎn qǐ",
+     "py": "De, érshì rènwéi yǒu Shāngyèjīhuì de dōu huì chūqián zhīchí, yě ràng Hùwàiyùndòng xiūxián shìyè mànmàn de fāzhǎn qǐ",
      "en": "anyone who sees a business opportunity will put up money, which has also gradually developed the outdoor sports and leisure industry"
     },
     {

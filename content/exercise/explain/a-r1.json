@@ -2,18 +2,19 @@
  "testId": "a-r1",
  "segments": 162,
  "englishComplete": true,
+ "indonesianComplete": false,
  "questions": {
   "1": {
    "stem": {
     "zh": "桌子上放著三種水果。",
-    "py": "Zhuōzi shàng fàngzhù sānzhǒng shuǐguǒ.",
+    "py": "Zhuōzi shàng fàngzhe sānzhǒng shuǐguǒ.",
     "en": "Three kinds of fruit are placed on the table."
    }
   },
   "2": {
    "stem": {
     "zh": "老王正畫著小天的臉。",
-    "py": "Lǎowáng zhèng huà zhù xiǎo tiān de liǎn.",
+    "py": "Lǎowáng zhèng huà zhe xiǎo tiān de liǎn.",
     "en": "Lao Wang is drawing Xiaotian's face."
    }
   },
@@ -48,7 +49,7 @@
   "7": {
    "stem": {
     "zh": "過了前面的路口，再往前走一會兒就到醫院了。",
-    "py": "Guò le qiánmiàn de lùkǒu, zài wǎngqiánzǒu yíhuìer jiù dào yīyuàn le.",
+    "py": "Guò le qiánmiàn de lùkǒu, zài wǎngqiánzǒu yíhuìr jiù dào yīyuàn le.",
     "en": "Go past the intersection ahead, walk on a little further, and you'll be at the hospital."
    }
   },
@@ -112,7 +113,7 @@
    "options": {
     "A": {
      "zh": "小狗正追著小貓。",
-     "py": "Xiǎogǒu zhèng zhuīzhù xiǎomāo.",
+     "py": "Xiǎogǒu zhèng zhuīzhe xiǎomāo.",
      "en": "The puppy is chasing the kitten."
     },
     "B": {
@@ -174,12 +175,12 @@
     },
     "B": {
      "zh": "長頭髮的小姐穿裙子。",
-     "py": "Zhǎng tóufà de Xiǎojiě chuān qúnzi.",
+     "py": "Cháng tóufà de Xiǎojiě chuān qúnzi.",
      "en": "The lady with long hair is wearing a skirt."
     },
     "C": {
      "zh": "穿裙子的小姐拿著皮包。",
-     "py": "Chuān qúnzi de Xiǎojiě názhù píbāo.",
+     "py": "Chuān qúnzi de Xiǎojiě názhe píbāo.",
      "en": "The lady wearing a skirt is holding a handbag."
     }
    }
@@ -193,12 +194,12 @@
     },
     "B": {
      "zh": "小吃店十二點開始休息。",
-     "py": "Xiǎochīdiàn shíèrdiǎn kāishǐ xiūxí.",
+     "py": "Xiǎochīdiàn shí'èrdiǎn kāishǐ xiūxí.",
      "en": "The snack shop starts its break at twelve o'clock."
     },
     "C": {
      "zh": "十二點以後可以去小吃店吃飯。",
-     "py": "Shíèrdiǎn yǐhòu kěyǐ qù xiǎochīdiàn chīfàn.",
+     "py": "Shí'èrdiǎn yǐhòu kěyǐ qù xiǎochīdiàn chīfàn.",
      "en": "After twelve o'clock you can go eat at the snack shop."
     }
    },
@@ -291,7 +292,7 @@
    "options": {
     "A": {
      "zh": "教室的門是關著的。",
-     "py": "Jiàoshì de mén shì guānzhù de.",
+     "py": "Jiàoshì de mén shì guānzhe de.",
      "en": "The classroom door is closed."
     },
     "B": {
@@ -353,7 +354,7 @@
     },
     "B": {
      "zh": "在這兒住一晚要兩百多塊。",
-     "py": "Zài zhèér zhù yī wǎn yào liǎngbǎiduō kuài.",
+     "py": "Zài zhèr zhù yì wǎn yào liǎngbǎiduō kuài.",
      "en": "Staying here one night costs over two hundred dollars."
     },
     "C": {
@@ -372,7 +373,7 @@
     },
     "B": {
      "zh": "等車的小姐拿著一袋水果。",
-     "py": "Děng chē de Xiǎojiě názhù yídài shuǐguǒ.",
+     "py": "Děng chē de Xiǎojiě názhe yídài shuǐguǒ.",
      "en": "The lady waiting for the bus is holding a bag of fruit."
     },
     "C": {
@@ -483,12 +484,12 @@
     },
     {
      "zh": "兩個人一起來，一個人可以便宜500元",
-     "py": "Liǎng ge rén yī qǐlái, yí ge rén kěyǐ piányi 500 yuán",
+     "py": "Liǎng ge rén yì qǐlái, yí ge rén kěyǐ piányi 500 yuán",
      "en": "Come as two, and each person saves NT$500"
     },
     {
      "zh": "三個人一起來，一個人可以便宜1000元，再送你好喝的紅茶一盒",
-     "py": "Sān ge rén yī qǐlái, yí ge rén kěyǐ piányi 1000 yuán, zài sòng nǐ hǎohē de Hóngchá yìhé",
+     "py": "Sān ge rén yì qǐlái, yí ge rén kěyǐ piányi 1000 yuán, zài sòng nǐ hǎohē de Hóngchá yìhé",
      "en": "Come as three, and each person saves NT$1,000, plus a free box of delicious black tea"
     },
     {
@@ -501,7 +502,7 @@
   "31": {
    "stem": {
     "zh": "著眼鏡的小女孩在看書。",
-    "py": "Zhù yǎnjìng de xiǎonǚhái zài kànshū.",
+    "py": "Zhe yǎnjìng de xiǎonǚhái zài kànshū.",
     "en": "The little girl ___ glasses is reading a book. (blank: wearing)"
    },
    "options": {
@@ -757,7 +758,7 @@
     },
     {
      "zh": "這幾天的天氣一會兒熱，一會兒冷，（44）。",
-     "py": "Zhè jǐtiān de tiānqì yíhuìer rè, yíhuìer lěng, (44).",
+     "py": "Zhè jǐtiān de tiānqì yíhuìr rè, yíhuìr lěng, (44).",
      "en": "The weather these days is hot one moment and cold the next, (44)."
     },
     {
@@ -779,7 +780,7 @@
     },
     "B": {
      "zh": "頭有點兒痛",
-     "py": "Tóu yǒudiǎnér tòng",
+     "py": "Tóu yǒudiǎnr tòng",
      "en": "my head hurt a bit"
     },
     "C": {
@@ -813,7 +814,7 @@
     },
     "B": {
      "zh": "頭有點兒痛",
-     "py": "Tóu yǒudiǎnér tòng",
+     "py": "Tóu yǒudiǎnr tòng",
      "en": "my head hurt a bit"
     },
     "C": {
@@ -847,7 +848,7 @@
     },
     "B": {
      "zh": "頭有點兒痛",
-     "py": "Tóu yǒudiǎnér tòng",
+     "py": "Tóu yǒudiǎnr tòng",
      "en": "my head hurt a bit"
     },
     "C": {
@@ -881,7 +882,7 @@
     },
     "B": {
      "zh": "頭有點兒痛",
-     "py": "Tóu yǒudiǎnér tòng",
+     "py": "Tóu yǒudiǎnr tòng",
      "en": "my head hurt a bit"
     },
     "C": {
@@ -915,7 +916,7 @@
     },
     "B": {
      "zh": "頭有點兒痛",
-     "py": "Tóu yǒudiǎnér tòng",
+     "py": "Tóu yǒudiǎnr tòng",
      "en": "my head hurt a bit"
     },
     "C": {
@@ -976,7 +977,7 @@
    "options": {
     "A": {
      "zh": "老闆應該給員工多一點兒假",
-     "py": "Lǎobǎn yīnggāi gěi yuángōng duōyìdiǎnér jiǎ",
+     "py": "Lǎobǎn yīnggāi gěi yuángōng duōyìdiǎnr jià",
      "en": "Bosses should give employees a bit more leave."
     },
     "B": {
@@ -1010,12 +1011,12 @@
     },
     {
      "zh": "這份報告提到了下面幾種可能：不愛運動、水喝得不夠多、總是把事情想得太壞、不吃早餐、吃太多沒營養的食物等。",
-     "py": "Zhèfèn bàogào tídào le xiàmiàn jǐzhǒng kěnéng: Bù ài yùndòng, shuǐ hē dé búgòu duō, zǒngshì bǎ shìqing xiǎng dé tàihuài, bùchī zǎocān, chī tài duō méi yíngyǎng de shíwù děng.",
+     "py": "Zhèfèn bàogào tídào le xiàmiàn jǐzhǒng kěnéng: Bú ài yùndòng, shuǐ hē de búgòu duō, zǒngshì bǎ shìqing xiǎng de tàihuài, bùchī zǎocān, chī tài duō méi yíngyǎng de shíwù děng.",
      "en": "The report mentions the following possibilities: not liking to exercise, not drinking enough water, always thinking the worst of things, skipping breakfast, eating too much non-nutritious food, and so on."
     },
     {
      "zh": "以上幾點，只要簡單思考一下自己符合了幾項，再試著做出一些改變，想讓自己更健康一點也不難。",
-     "py": "Yǐshàng jǐdiǎn, zhǐyào jiǎndān sīkǎo yíxià zìjǐ fúhé le jǐxiàng, zài shìzhù zuòchū yìxiē gǎibiàn, xiǎng ràng zìjǐ gèng jiànkāng yìdiǎn yě bùnán.",
+     "py": "Yǐshàng jǐdiǎn, zhǐyào jiǎndān sīkǎo yíxià zìjǐ fúhé le jǐxiàng, zài shìzhe zuòchū yìxiē gǎibiàn, xiǎng ràng zìjǐ gèng jiànkāng yìdiǎn yě bùnán.",
      "en": "Just think briefly about how many of the points above apply to you, then try to make some changes; making yourself a little healthier is not hard."
     }
    ],
@@ -1127,7 +1128,7 @@
     },
     {
      "zh": "這句話說得很有道理，人們因為對錢的看法不同，而選擇不同的生活方式。",
-     "py": "Zhè jù huà shuō dé hěn yǒu dàolǐ, rénmen yīnwèi duì qián de kànfǎ bùtóng, ér xuǎnzé bùtóng de shēnghuó fāngshì.",
+     "py": "Zhè jù huà shuō de hěn yǒu dàolǐ, rénmen yīnwèi duì qián de kànfǎ bùtóng, ér xuǎnzé bùtóng de shēnghuó fāngshì.",
      "en": "This saying makes a lot of sense: because people view money differently, they choose different ways of life."
     },
     {
@@ -1164,7 +1165,7 @@
     },
     "D": {
      "zh": "錢得放在銀行裡才有價值",
-     "py": "Qiándé fàngzài yínháng lǐ cái yǒu jiàzhí",
+     "py": "Qián děi fàngzài yínháng lǐ cái yǒu jiàzhí",
      "en": "Money only has value if it is kept in the bank."
     }
    }
@@ -1188,7 +1189,7 @@
     },
     {
      "zh": "說到這個問題，我認為，電影院的要求不是沒有道理，因為電影結束以後，他們還得打掃那些垃圾。",
-     "py": "Shuō dào zhè ge wèntí, wǒ rènwéi, diànyǐngyuàn de yāoqiú búshì méiyǒu dàolǐ, yīnwèi diànyǐng jiéshù yǐhòu, tāmen hái dé dǎsǎo nàxiē lājī.",
+     "py": "Shuō dào zhè ge wèntí, wǒ rènwéi, diànyǐngyuàn de yāoqiú búshì méiyǒu dàolǐ, yīnwèi diànyǐng jiéshù yǐhòu, tāmen hái děi dǎsǎo nàxiē lājī.",
      "en": "On this issue, I think the cinemas' request is not unreasonable, because after the movie ends they still have to clean up all that trash."
     },
     {

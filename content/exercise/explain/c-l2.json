@@ -2,6 +2,7 @@
  "testId": "c-l2",
  "segments": 463,
  "englishComplete": true,
+ "indonesianComplete": false,
  "questions": {
   "1": {
    "options": {
@@ -39,7 +40,7 @@
     },
     {
      "zh": "女：他啊！簡直把跳槽當成家常便飯。仗著自己學歷高，只要稍不如意，就把老",
-     "py": "Nǚ: Tā a! Jiǎnzhí bǎ tiàocáo dàngchéng jiāchángbiànfàn. Zhàng zhù zìjǐ xuélì gāo, zhǐyào shāo bùrúyì, jiù bǎ lǎo",
+     "py": "Nǚ: Tā a! Jiǎnzhí bǎ tiàocáo dàngchéng jiāchángbiànfàn. Zhàng zhe zìjǐ xuélì gāo, zhǐyào shāo bùrúyì, jiù bǎ lǎo",
      "en": "Woman: Him! He treats job-hopping as an everyday thing. Relying on his high qualifications, the moment anything isn't to his liking, he fires his"
     },
     {
@@ -59,7 +60,7 @@
     },
     {
      "zh": "女：幹我們這一行的，學歷和背景都不重要，經驗與人脈的經營才是最大的本錢。",
-     "py": "Nǚ: Gàn wǒmen zhè yìxíng de, xuélì hé bèijǐng dōu bù zhòngyào, jīngyàn yǔ rénmài de jīngyíng cái shì zuìdà de běnqián.",
+     "py": "Nǚ: Gàn wǒmen zhè yìxíng de, xuélì hé bèijǐng dōu bú zhòngyào, jīngyàn yǔ rénmài de jīngyíng cái shì zuìdà de běnqián.",
      "en": "Woman: In our line of work, qualifications and background don't matter; experience and building connections are the biggest assets."
     },
     {
@@ -138,7 +139,7 @@
     },
     {
      "zh": "女：喂，林老闆，您好、您好。我先前提過，9 月和 10 月，這兩個月我們這兒",
-     "py": "Nǚ: Wèi, lín lǎobǎn, nínhǎo, nínhǎo. Wǒ xiān qiántí guò, 9 yuè hé 10 yuè, zhè liǎng ge yuè wǒmen zhèér",
+     "py": "Nǚ: Wèi, lín lǎobǎn, nínhǎo, nínhǎo. Wǒ xiān qiántí guò, 9 yuè hé 10 yuè, zhè liǎng ge yuè wǒmen zhèr",
      "en": "Woman: Hello, Mr. Lin, hello. As I mentioned before, in September and October we really can't spare anyone here"
     },
     {
@@ -153,7 +154,7 @@
     },
     {
      "zh": "哪兒找人啊！你放心，該給的，只會多不會少。",
-     "py": "Nǎér zhǎo rén a! Nǐ fàngxīn, gāi gěi de, zhǐ huì duō búhuì shǎo.",
+     "py": "Nǎr zhǎo rén a! Nǐ fàngxīn, gāi gěi de, zhǐ huì duō búhuì shǎo.",
      "en": "to find someone? Don't worry—you'll get what's due, more if anything, not less."
     },
     {
@@ -227,12 +228,12 @@
    "options": {
     "A": {
      "zh": "投資人的不信任",
-     "py": "Tóuzīrén de bù xìnrèn",
+     "py": "Tóuzīrén de bú xìnrèn",
      "en": "(A) Investors' lack of trust"
     },
     "B": {
      "zh": "存款人的不信任",
-     "py": "Cúnkuǎnrén de bù xìnrèn",
+     "py": "Cúnkuǎnrén de bú xìnrèn",
      "en": "(B) Depositors' lack of trust"
     },
     "C": {
@@ -279,17 +280,17 @@
     },
     {
      "zh": "藉著這次的金融危機，剛好可以讓保險市場回歸基本面。",
-     "py": "Jí zhù zhècì de jīnróngwēijī, gānghǎo kěyǐ ràng bǎoxiǎnshìchǎng huíguī jīběnmiàn.",
+     "py": "Jí zhe zhècì de jīnróngwēijī, gānghǎo kěyǐ ràng bǎoxiǎnshìchǎng huíguī jīběnmiàn.",
      "en": "This financial crisis is just the opportunity for the insurance market to return to fundamentals."
     },
     {
      "zh": "女：回到基本面，真是發人深省的話。近年來保單的價值顛倒了，以投資為目的",
-     "py": "Nǚ: Huídào jīběnmiàn, zhēnshì fārénshēnxǐng dehuà. Jìnniánlái bǎodān de jiàzhí diāndǎo le, yǐ tóuzī wèi mùdì",
+     "py": "Nǚ: Huídào jīběnmiàn, zhēnshì fārénshēnxǐng dehuà. Jìnniánlái bǎodān de jiàzhí diāndǎo le, yǐ tóuzī wéi mùdì",
      "en": "Woman: Back to fundamentals—that's really thought-provoking. In recent years the values of insurance policies have been turned upside down: investment-oriented"
     },
     {
      "zh": "的商品大幅成長，以保障為目的的商品反而變少了，好像大家都忘了保險制",
-     "py": "De shāngpǐn dàfú chéngzhǎng, yǐ bǎozhàng wèi mùdì de shāngpǐn fǎnér biànshǎo le, hǎoxiàng dàjiā dōu wàng le bǎoxiǎn zhì",
+     "py": "De shāngpǐn dàfú chéngzhǎng, yǐ bǎozhàng wéi mùdì de shāngpǐn fǎn'ér biànshǎo le, hǎoxiàng dàjiā dōu wàng le bǎoxiǎn zhì",
      "en": "products have grown sharply, while protection-oriented products have declined, as if everyone has forgotten the original purpose and basic value of the insurance"
     },
     {
@@ -299,7 +300,7 @@
     },
     {
      "zh": "男：這幾年社會上瀰漫著一股急功近利的氣息，拼命鼓吹投資理財，還有奢華的",
-     "py": "Nán: Zhè jǐnián shèhuì shàng mímàn zhù yìgǔ jígōngjìnlì de qìxī, pīnmìng gǔchuī tóuzī lǐcái, háiyǒu shēhuá de",
+     "py": "Nán: Zhè jǐnián shèhuì shàng mímàn zhe yìgǔ jígōngjìnlì de qìxī, pīnmìng gǔchuī tóuzī lǐcái, háiyǒu shēhuá de",
      "en": "Man: In recent years society has been filled with a mood of seeking quick success and instant benefits, frantically promoting investment and wealth management, plus a luxurious"
     },
     {
@@ -382,7 +383,7 @@
    "passage": [
     {
      "zh": "太空人克里斯‧哈德菲爾上校退役後，上節目分享他當太空人的心路歷程。",
-     "py": "Tàikōng rén Kèlǐsī ‧ Hā Défēiěr shàngxiào tuìyì hòu, shàng jiémù fēnxiǎng tā dāng tàikōng rén de xīnlùlìchéng.",
+     "py": "Tàikōng rén Kèlǐsī ‧ Hā Défēi'ěr shàngxiào tuìyì hòu, shàng jiémù fēnxiǎng tā dāng tàikōng rén de xīnlùlìchéng.",
      "en": "After retiring, astronaut Colonel Chris Hadfield appeared on a show to share his experiences as an astronaut."
     },
     {
@@ -416,7 +417,7 @@
    "intro": [
     {
      "zh": "太空人克里斯‧哈德菲爾上校退役後，上節目分享他當太空人的心路歷程。以下",
-     "py": "Tàikōng rén Kèlǐsī ‧ Hā Défēiěr shàngxiào tuìyì hòu, shàng jiémù fēnxiǎng tā dāng tàikōng rén de xīnlùlìchéng. Yǐxià",
+     "py": "Tàikōng rén Kèlǐsī ‧ Hā Défēi'ěr shàngxiào tuìyì hòu, shàng jiémù fēnxiǎng tā dāng tàikōng rén de xīnlùlìchéng. Yǐxià",
      "en": "After retiring, astronaut Colonel Chris Hadfield appeared on a show to share his experiences as an astronaut. Below are"
     },
     {
@@ -446,12 +447,12 @@
     },
     {
      "zh": "男：哈哈，我這麼說吧，看一件事，我會用最悲觀的態度來看，並且設想著所有",
-     "py": "Nán: Hāhā, wǒ zhème shuō ba, kàn yíjiàn shì, wǒhuì yòng zuì bēiguān de tàidù láikàn, bìngqiě shèxiǎng zhù suǒyǒu",
+     "py": "Nán: Hāhā, wǒ zhème shuō ba, kàn yíjiàn shì, wǒhuì yòng zuì bēiguān de tàidù láikàn, bìngqiě shèxiǎng zhe suǒyǒu",
      "en": "Man: Ha ha, let me put it this way: when I look at something, I look at it in the most pessimistic way and imagine everything"
     },
     {
      "zh": "可能發生的狀況。例如，開車上路時，我就想著後頭的車子可能會煞車不及",
-     "py": "Kěnéng fāshēng de zhuàngkuàng. Lìrú, kāichē Shànglù shí, wǒ jiù xiǎngzhù hòutou de chēzi kěnéng huì shāchē bùjí",
+     "py": "Kěnéng fāshēng de zhuàngkuàng. Lìrú, kāichē Shànglù shí, wǒ jiù xiǎngzhe hòutou de chēzi kěnéng huì shāchē bùjí",
      "en": "that might happen. For example, when I'm driving, I think the car behind me might not brake in time"
     },
     {
@@ -461,7 +462,7 @@
     },
     {
      "zh": "女：您的意思是，設想所有最糟的情況，在危急時刻就能有效地反應嗎？",
-     "py": "Nǚ: Nín de yìsi shì, shèxiǎng suǒyǒu zuìzāo de qíngkuàng, zài wēijí shíkè jiù néng yǒuxiào dì fǎnyìng ma?",
+     "py": "Nǚ: Nín de yìsi shì, shèxiǎng suǒyǒu zuìzāo de qíngkuàng, zài wēijí shíkè jiù néng yǒuxiào de fǎnyìng ma?",
      "en": "Woman: You mean that by imagining all the worst cases, you can react effectively in a crisis?"
     },
     {
@@ -476,14 +477,14 @@
     },
     {
      "zh": "女：嗯，太空人真是一個高風險的行業，確實有「居安思危」的必要性。",
-     "py": "Nǚ: ń, tàikōng rén zhēnshì yí ge gāofēngxiǎn de hángyè, quèshí yǒu “Jūānsīwēi” de bìyàoxìng.",
+     "py": "Nǚ: ń, tàikōng rén zhēnshì yí ge gāofēngxiǎn de hángyè, quèshí yǒu “Jū'ānsīwēi” de bìyàoxìng.",
      "en": "Woman: Mm, being an astronaut really is a high-risk profession—you really do need to be prepared for danger in times of safety."
     }
    ],
    "transcript": [
     {
      "zh": "根據訪談，太空人哈德菲爾認知的「小題大作」是什麼？",
-     "py": "Gēnjù fǎngtán, tàikōng rén hā Défēiěr rènzhī de “Xiǎotídàzuò” shì shénme?",
+     "py": "Gēnjù fǎngtán, tàikōng rén hā Défēi'ěr rènzhī de “Xiǎotídàzuò” shì shénme?",
      "en": "According to the interview, what does astronaut Hadfield understand by \"making a mountain out of a molehill\"?"
     }
    ]
@@ -514,7 +515,7 @@
    "transcript": [
     {
      "zh": "在訪談中，哈德菲爾為何提到悲觀的態度？",
-     "py": "Zài fǎngtán zhōng, Hā Défēiěr wèihé tídào bēiguān de tàidù?",
+     "py": "Zài fǎngtán zhōng, Hā Défēi'ěr wèihé tídào bēiguān de tàidù?",
      "en": "In the interview, why does Hadfield mention a pessimistic attitude?"
     }
    ]
@@ -545,7 +546,7 @@
    "transcript": [
     {
      "zh": "哈德菲爾在訪談最後所說的話是什麼意思？",
-     "py": "Hā Défēiěr zài fǎngtán zuìhòu suǒshuō dehuà shì shénme yìsi?",
+     "py": "Hā Défēi'ěr zài fǎngtán zuìhòu suǒshuō dehuà shì shénme yìsi?",
      "en": "What does Hadfield mean by what he says at the end of the interview?"
     }
    ]
@@ -618,7 +619,7 @@
     },
     {
      "zh": "程序」就能縮短新進人員摸索和學習的時間，他們只要按著步驟和指示就能",
-     "py": "Chéngxù” jiù néng suōduǎn xīnjìnrényuán mōsuǒ hé xuéxí de shíjiān, tāmen zhǐyào ànzhù bùzhòu hé zhǐshì jiù néng",
+     "py": "Chéngxù” jiù néng suōduǎn xīnjìnrényuán mōsuǒ hé xuéxí de shíjiān, tāmen zhǐyào ànzhe bùzhòu hé zhǐshì jiù néng",
      "en": "are set, new staff spend less time figuring things out and learning; they just follow the steps and instructions to"
     },
     {
@@ -785,7 +786,7 @@
     },
     {
      "zh": "著李導演一貫的高水準。劇情的話，通俗易懂，如果把這部電影跟李導演的",
-     "py": "Zhù Lǐ dǎoyǎn yíguàn de gāo shuǐzhǔn. Jùqíng dehuà, tōngsúyìdǒng, rúguǒ bǎ zhèbù diànyǐng gēn Lǐ dǎoyǎn de",
+     "py": "Zhe Lǐ dǎoyǎn yíguàn de gāo shuǐzhǔn. Jùqíng dehuà, tōngsúyìdǒng, rúguǒ bǎ zhèbù diànyǐng gēn Lǐ dǎoyǎn de",
      "en": "Director Li's usual high standard. As for the plot, it's easy to understand. If you compare this film with Director Li's"
     },
     {
@@ -805,7 +806,7 @@
     },
     {
      "zh": "男：哈，我正想接著說，演員們精湛的演技可以說是這部片的賣點之一，像飾演",
-     "py": "Nán: Hā, wǒ zhèng xiǎng jiēzhù shuō, yǎnyuán men jīngzhàn de yǎnjì kěyǐ shuō shì zhèbù piàn de màidiǎn zhīyī, xiàng shìyǎn",
+     "py": "Nán: Hā, wǒ zhèng xiǎng jiēzhe shuō, yǎnyuán men jīngzhàn de yǎnjì kěyǐ shuō shì zhèbù piàn de màidiǎn zhīyī, xiàng shìyǎn",
      "en": "Man: Ha, I was just about to say—the actors' superb performances are one of the film's selling points. For example, as the"
     },
     {
@@ -830,7 +831,7 @@
     },
     {
      "zh": "也極為恰當，讓觀眾在恨透女主角的同時，又情不自禁地悲憫著她。",
-     "py": "Yě jíwéi qiàdàng, ràng guānzhòng zài hèntòu nǚzhǔjué de tóngshí, yòu qíngbúzìjīn dì bēimǐn zhù tā.",
+     "py": "Yě jíwéi qiàdàng, ràng guānzhòng zài hèntòu nǚzhǔjué de tóngshí, yòu qíngbúzìjīn de bēimǐn zhe tā.",
      "en": "just right, so that while the audience hates the heroine, they can't help pitying her at the same time."
     },
     {
@@ -845,12 +846,12 @@
     },
     {
      "zh": "式，我覺得這才是一部電影的精髓，但網路影評卻對此少有著墨。所以，即",
-     "py": "Shì, wǒ juéde zhè cái shì yíbù diànyǐng de jīngsuǐ, dàn wǎnglù yǐngpíng què duìcǐ shǎoyǒu zhùmò. Suǒyǐ, jí",
+     "py": "Shì, wǒ juéde zhè cái shì yíbù diànyǐng de jīngsuǐ, dàn wǎnglù yǐngpíng què duìcǐ shǎoyǒu zhuómò. Suǒyǐ, jí",
      "en": "interprets the plot—I think that's the essence of a film—but online reviews hardly touch on it. So even"
     },
     {
      "zh": "使看完評論，還是有些不著邊際的感覺！",
-     "py": "Shǐkàn wán pínglùn, háishì yǒuxiē búzhù biānjì de gǎnjué!",
+     "py": "Shǐkàn wán pínglùn, háishì yǒuxiē bùzháo biānjì de gǎnjué!",
      "en": "after reading the reviews, I still feel they miss the point!"
     }
    ],
@@ -1018,7 +1019,7 @@
     },
     {
      "zh": "教也啊！",
-     "py": "Jiào yě a!",
+     "py": "Jiāo yě a!",
      "en": "students!"
     },
     {
@@ -1033,7 +1034,7 @@
     },
     {
      "zh": "男：話是這樣說的嗎？雖然對於文章的解讀可能多少因人而異，但是，我認為好",
-     "py": "Nán: Huà shì zhèyàng shuō de ma? Suīrán duìyú wénzhāng de jiědú kěnéng duōshǎo yīnrénéryì, dànshì, wǒ rènwéi hǎo",
+     "py": "Nán: Huà shì zhèyàng shuō de ma? Suīrán duìyú wénzhāng de jiědú kěnéng duōshǎo yīnrén'éryì, dànshì, wǒ rènwéi hǎo",
      "en": "Man: Is that really so? Although interpretations of a text may differ from person to person, I think a good"
     },
     {
@@ -1058,7 +1059,7 @@
     },
     {
      "zh": "情小說。然而在有了一些人生歷練後，重新讀起舊書，卻有讀盡人生百態的",
-     "py": "Qíng xiǎoshuō. Ránér zài yǒu le yìxiē rénshēng lìliàn hòu, chóngxīn dú qǐ jiùshū, què yǒu dú jǐn rénshēng bǎitài de",
+     "py": "Qíng xiǎoshuō. Rán'ér zài yǒu le yìxiē rénshēng lìliàn hòu, chóngxīn dú qǐ jiùshū, què yǒu dú jǐn rénshēng bǎitài de",
      "en": "romance. But after some life experience, rereading the old book, I felt it captured all the varieties of human"
     },
     {
@@ -1156,7 +1157,7 @@
     },
     "D": {
      "zh": "以自身經驗為例間接贊同巴特的觀點",
-     "py": "Yǐ zìshēn jīngyàn wèi lì jiànjiē zàntóng Bātè de guāndiǎn",
+     "py": "Yǐ zìshēn jīngyàn wéi lì jiànjiē zàntóng Bātè de guāndiǎn",
      "en": "(D) Indirectly agreeing with Barthes's view using her own experience as an example"
     }
    },
@@ -1199,7 +1200,7 @@
     },
     "D": {
      "zh": "不太贊同",
-     "py": "Bù tài zàntóng",
+     "py": "Bú tài zàntóng",
      "en": "(D) Not really in favor"
     }
    },
@@ -1251,7 +1252,7 @@
     },
     {
      "zh": "瘧疾就具有免疫力。所以，執行基因療法前實在得謹慎思考：一旦改變了人",
-     "py": "Nüèjí jiù jùyǒu miǎnyìlì. Suǒyǐ, zhíxíng jīyīn liáofǎ qián shízài dé jǐnshèn sīkǎo: Yídàn gǎibiàn le rén",
+     "py": "Nüèjí jiù jùyǒu miǎnyìlì. Suǒyǐ, zhíxíng jīyīn liáofǎ qián shízài de jǐnshèn sīkǎo: Yídàn gǎibiàn le rén",
      "en": "immunity to malaria. So before carrying out gene therapy we really must think carefully: once we change human"
     },
     {
@@ -1266,12 +1267,12 @@
     },
     {
      "zh": "基因缺陷的父母，為了後代著想而選擇了基因治療，都是一種「不得不」的",
-     "py": "Jīyīn quēxiàn de fùmǔ, wèile hòudài zhùxiǎng ér xuǎnzé le jīyīnzhìliáo, dōu shì yìzhǒng “Bùdébù” de",
+     "py": "Jīyīn quēxiàn de fùmǔ, wèile hòudài zhuóxiǎng ér xuǎnzé le jīyīnzhìliáo, dōu shì yìzhǒng “Bùdébù” de",
      "en": "genetic defects who choose gene therapy for their children's sake, it's a choice they \"have no choice\" but to"
     },
     {
      "zh": "選擇啊。更何況如果這一代人不健康又如何生養下一代？又怎麼可能對未來",
-     "py": "Xuǎnzé a. Gènghékuàng rúguǒ zhè yídàirén bù jiànkāng yòu rúhé shēngyǎng xiàyídài? Yòu zěnme kěnéng duì wèilái",
+     "py": "Xuǎnzé a. Gènghékuàng rúguǒ zhè yídàirén bú jiànkāng yòu rúhé shēngyǎng xiàyídài? Yòu zěnme kěnéng duì wèilái",
      "en": "make. Besides, if this generation isn't healthy, how can it raise the next? And how could it possibly take responsibility for the survival of future"
     },
     {
@@ -1286,7 +1287,7 @@
     },
     {
      "zh": "是不能不預先設想它的流弊，防微杜漸啊！",
-     "py": "Shì bùnéngbù yùxiān shèxiǎng tā de liúbì, fángwēidùjiàn a!",
+     "py": "Shì bùnéngbú yùxiān shèxiǎng tā de liúbì, fángwēidùjiàn a!",
      "en": "we have to anticipate its drawbacks in advance and nip problems in the bud!"
     }
    ],
@@ -1369,7 +1370,7 @@
     },
     "B": {
      "zh": "醫學的發展通常不受到控制",
-     "py": "Yīxué de fāzhǎn tōngcháng bù shòudào kòngzhì",
+     "py": "Yīxué de fāzhǎn tōngcháng bú shòudào kòngzhì",
      "en": "(B) Medical developments are usually uncontrolled."
     },
     "C": {
@@ -1410,7 +1411,7 @@
     },
     "D": {
      "zh": "健康保險受益不大",
-     "py": "Jiànkāng bǎoxiǎn shòuyì bù dà",
+     "py": "Jiànkāng bǎoxiǎn shòuyì bú dà",
      "en": "(D) Health insurance benefits little."
     }
    },
@@ -1447,7 +1448,7 @@
     },
     {
      "zh": "失敗收場，要重拾藥物開發，不但得先克服過去遇到的問題，還須藉由跨領域的",
-     "py": "Shībài shōuchǎng, yào zhòngshí yàowù kāifā, búdàn dé xiān kèfú guòqù yùdào de wèntí, hái xū jiè yóu kuà lǐngyù de",
+     "py": "Shībài shōuchǎng, yào zhòngshí yàowù kāifā, búdàn děi xiān kèfú guòqù yùdào de wèntí, hái xū jiè yóu kuà lǐngyù de",
      "en": "ended in failure. To restart drug development, they must not only overcome past problems but also, through cross-disciplinary"
     },
     {
@@ -1464,7 +1465,7 @@
    "transcript": [
     {
      "zh": "為什麼藥商不願意繼續開發神經疾病的藥物？",
-     "py": "Wèishénme yàoshāng bù yuànyì jìxù kāifā shénjīng jíbìng de yàowù?",
+     "py": "Wèishénme yàoshāng bú yuànyì jìxù kāifā shénjīng jíbìng de yàowù?",
      "en": "Why are drug companies unwilling to keep developing drugs for neurological diseases?"
     }
    ]
@@ -1548,7 +1549,7 @@
     },
     {
      "zh": "當蜂蜜垂直落到吐司表面時，並不會均勻地往各個方向流散開來，而是轉啊",
-     "py": "Dāng fēngmì chuízhí luòdào tǔsī biǎomiàn shí, bìng búhuì jūnyún dì wǎng gè ge fāngxiàng liúsàn kāilái, érshì zhuǎn a",
+     "py": "Dāng fēngmì chuízhí luòdào tǔsī biǎomiàn shí, bìng búhuì jūnyún de wǎng gè ge fāngxiàng liúsàn kāilái, érshì zhuǎn a",
      "en": "When honey falls vertically onto the surface of toast, it doesn't spread out evenly in all directions; instead it turns"
     },
     {
@@ -1598,7 +1599,7 @@
     },
     {
      "zh": "應的數學方程式，來證明繩捲現象可以由不同的模式產生。",
-     "py": "Yīng de shùxué fāngchéngshì, lái zhèngmíng shéngjuǎn xiànxiàng kěyǐ yóu bùtóng de móshì chǎnshēng.",
+     "py": "Yìng de shùxué fāngchéngshì, lái zhèngmíng shéngjuǎn xiànxiàng kěyǐ yóu bùtóng de móshì chǎnshēng.",
      "en": "effect, to prove that rope coiling can arise from different modes."
     }
    ],
@@ -1755,7 +1756,7 @@
     },
     {
      "zh": "運作，平行處理各波段的光線，使得螳螂蝦的彩色視覺系統有著極高的效率。",
-     "py": "Yùnzuò, píngxíng chǔlǐ gè bōduàn de guāngxiàn, shǐde tángláng xiā de cǎisè shìjué xìtǒng yǒuzhù jígāo de xiàolǜ.",
+     "py": "Yùnzuò, píngxíng chǔlǐ gè bōduàn de guāngxiàn, shǐde tángláng xiā de cǎisè shìjué xìtǒng yǒuzhe jígāo de xiàolǜ.",
      "en": "processing light in each band in parallel, the mantis shrimp's color vision system is extremely efficient."
     },
     {
@@ -1855,7 +1856,7 @@
    "options": {
     "A": {
      "zh": "電影不賣座",
-     "py": "Diànyǐng bù màizuò",
+     "py": "Diànyǐng bú màizuò",
      "en": "(A) The film won't do well at the box office."
     },
     "B": {
@@ -1865,7 +1866,7 @@
     },
     "C": {
      "zh": "電影宣傳做得不好",
-     "py": "Diànyǐng xuānchuán zuò dé bùhǎo",
+     "py": "Diànyǐng xuānchuán zuò de bùhǎo",
      "en": "(C) The film's promotion was poor."
     },
     "D": {
@@ -1912,7 +1913,7 @@
     },
     {
      "zh": "到 10 給予評分。研究結果顯示，即使研究人員一開始就把曲折的結局告訴讀者，",
-     "py": "Dào 10 jǐyǔ píngfēn. Yánjiū jiéguǒxiǎnshì, jíshǐ yánjiū rényuán yī kāishǐ jiù bǎ qūzhé de jiéjú gàosù dúzhě,",
+     "py": "Dào 10 jǐyǔ píngfēn. Yánjiū jiéguǒxiǎnshì, jíshǐ yánjiū rényuán yì kāishǐ jiù bǎ qūzhé de jiéjú gàosù dúzhě,",
      "en": "to 10. The results showed that even when the researchers told readers the twist ending at the start,"
     },
     {
@@ -1927,7 +1928,7 @@
     },
     {
      "zh": "向，反而更有參與感。「這或許代表人們對過程比結局更有興趣。」研究人員趙",
-     "py": "Xiàng, fǎnér gèng yǒu cānyùgǎn. “Zhè huòxǔ dàibiǎo rénmen duì guòchéng bǐ jiéjú gèng yǒu xìngqù.” yánjiū rényuán Zhào",
+     "py": "Xiàng, fǎn'ér gèng yǒu cānyùgǎn. “Zhè huòxǔ dàibiǎo rénmen duì guòchéng bǐ jiéjú gèng yǒu xìngqù.” yánjiū rényuán Zhào",
      "en": "actually gives a greater sense of involvement. \"This may mean people are more interested in the process than the ending,\" said researcher"
     },
     {
@@ -1937,7 +1938,7 @@
     },
     {
      "zh": "一個悲劇故事，也知道結局，但不影響讀者對它的喜愛，『哈姆雷特』依然流芳",
-     "py": "Yí ge bēijù gùshì, yě zhīdào jiéjú, dàn bù yǐngxiǎng dúzhě duì tā de xǐài, ‘Hāmǔléitè’ yīrán liúfāng",
+     "py": "Yí ge bēijù gùshì, yě zhīdào jiéjú, dàn bù yǐngxiǎng dúzhě duì tā de xǐ'ài, ‘Hāmǔléitè’ yīrán liúfāng",
      "en": "a tragedy and knows the ending, that doesn't affect readers' love for it; 'Hamlet' still lives on through"
     },
     {
@@ -2100,7 +2101,7 @@
     },
     {
      "zh": "他們信用貸款的紀錄。如今，隨著網路發達，某些企業表示，了解求職者在社群",
-     "py": "Tāmen xìnyòngdàikuǎn de jìlù. Rújīn, suízhù wǎnglù fādá, mǒuxiē qǐyè biǎoshì, liǎojiě qiúzhízhě zài shèqún",
+     "py": "Tāmen xìnyòngdàikuǎn de jìlù. Rújīn, suízhe wǎnglù fādá, mǒuxiē qǐyè biǎoshì, liǎojiě qiúzhízhě zài shèqún",
      "en": "their credit history. Now, with the growth of the internet, some companies say it's necessary to know what job seekers do on social"
     },
     {
@@ -2110,7 +2111,7 @@
     },
     {
      "zh": "們總是不希望招募進來的人有種族歧視或性別歧視。藉著觀察這些求職者在網路",
-     "py": "Men zǒngshì bù xīwàng zhāomù jìnlái de rén yǒu zhǒngzúqíshì huò xìngbiéqíshì. Jí zhù guānchá zhèxiē qiúzhízhě zài wǎnglù",
+     "py": "Men zǒngshì bù xīwàng zhāomù jìnlái de rén yǒu zhǒngzúqíshì huò xìngbiéqíshì. Jí zhe guānchá zhèxiē qiúzhízhě zài wǎnglù",
      "en": "never want to hire people who are racist or sexist. By looking at what these job seekers post online,"
     },
     {
@@ -2125,7 +2126,7 @@
     },
     {
      "zh": "因為有這樣的需求，蒐集這類資訊的公司便應運而生。這些公司被稱為「社",
-     "py": "Yīnwèi yǒu zhèyàng de xūqiú, sōují zhè lèi zīxùn de gōngsī biàn yìngyùnérshēng. Zhèxiē gōngsī bèi chēngwéi “Shè",
+     "py": "Yīnwèi yǒu zhèyàng de xūqiú, sōují zhè lèi zīxùn de gōngsī biàn yìngyùn'érshēng. Zhèxiē gōngsī bèi chēngwéi “Shè",
      "en": "Because of this demand, companies that collect this kind of information have emerged. These companies are called \"social"
     },
     {
@@ -2269,7 +2270,7 @@
    "passage": [
     {
      "zh": "日前教育學院的李教授表示，他很擔憂年輕人閱讀太簡單的文章，而喪失邏輯思考的能力，然而網路作家們卻有不同的看法。",
-     "py": "Rìqián jiàoyù xuéyuàn de Lǐjiàoshòu biǎoshì, tā hěn dānyōu niánqīngrén yuèdú tài jiǎndān de wénzhāng, ér sàngshī luójí sīkǎo de nénglì, ránér wǎnglù zuòjiā men què yǒu bùtóng de kànfǎ.",
+     "py": "Rìqián jiàoyù xuéyuàn de Lǐjiàoshòu biǎoshì, tā hěn dānyōu niánqīngrén yuèdú tài jiǎndān de wénzhāng, ér sàngshī luójí sīkǎo de nénglì, rán'ér wǎnglù zuòjiā men què yǒu bùtóng de kànfǎ.",
      "en": "Professor Li of the College of Education recently said he is worried that young people who read overly simple writing will lose the ability to think logically, but online writers see it differently."
     },
     {
@@ -2308,7 +2309,7 @@
     },
     {
      "zh": "考的能力，然而網路作家們卻有不同的看法。以下是一段綜合兩方觀點所作的評",
-     "py": "Kǎo de nénglì, ránér wǎnglù zuòjiā men què yǒu bùtóng de kànfǎ. Yǐxià shì yíduàn zōnghé liǎngfāng guāndiǎn suǒzuò de píng",
+     "py": "Kǎo de nénglì, rán'ér wǎnglù zuòjiā men què yǒu bùtóng de kànfǎ. Yǐxià shì yíduàn zōnghé liǎngfāng guāndiǎn suǒzuò de píng",
      "en": "logically, but online writers see it differently. The following is a commentary combining both"
     },
     {
@@ -2328,17 +2329,17 @@
     },
     {
      "zh": "文來學習思路的表達。對於這一點，網路作家們表示，這樣的想法其實代表著不",
-     "py": "Wén lái xuéxí sīlù de biǎodá. Duìyú zhè yìdiǎn, wǎnglù zuòjiā men biǎoshì, zhèyàng de xiǎngfǎ qíshí dàibiǎo zhù bù",
+     "py": "Wén lái xuéxí sīlù de biǎodá. Duìyú zhè yìdiǎn, wǎnglù zuòjiā men biǎoshì, zhèyàng de xiǎngfǎ qíshí dàibiǎo zhe bù",
      "en": "to learn how to express a line of thought. On this point, online writers say this view actually reflects how different"
     },
     {
      "zh": "同世代對於新事物有不同的理解，然而在面對世代交替帶來的轉變時，應抱持一",
-     "py": "Tóng shìdài duìyú xīn shìwù yǒu bùtóng de lǐjiě, ránér zài miànduì Shìdàijiāotì dàilái de zhuǎnbiàn shí, yīng bàochí yī",
+     "py": "Tóng shìdài duìyú xīn shìwù yǒu bùtóng de lǐjiě, rán'ér zài miànduì Shìdàijiāotì dàilái de zhuǎnbiàn shí, yīng bàochí yī",
      "en": "generations understand new things differently, and that when facing the changes generational turnover brings, one should be"
     },
     {
      "zh": "份寬容，因為文學的價值在於它所表達的內容，而不在於文字本身。網路作家代",
-     "py": "Fèn kuānróng, yīnwèi wénxué de jiàzhí zàiyú tā suǒ biǎodá de nèiróng, ér bù zàiyú wénzì běnshēn. Wǎnglù zuòjiā dài",
+     "py": "Fèn kuānróng, yīnwèi wénxué de jiàzhí zàiyú tā suǒ biǎodá de nèiróng, ér bú zàiyú wénzì běnshēn. Wǎnglù zuòjiā dài",
      "en": "tolerant, because the value of literature lies in what it expresses, not in the words themselves. A representative of the online writers"
     },
     {
@@ -2541,7 +2542,7 @@
     },
     {
      "zh": "子裡的東西，震撼了百年來的科學史，這個東西以它的發現地命名，稱做安提基",
-     "py": "Zi lǐ de Dōngxi, zhènhàn le bǎinián lái de kēxuéshǐ, zhè ge Dōngxi yǐ tā de fāxiàn dì mìngmíng, chēngzuò Āntíjī",
+     "py": "Zi lǐ de Dōngxi, zhènhàn le bǎinián lái de kēxuéshǐ, zhè ge Dōngxi yǐ tā de fāxiàn de mìngmíng, chēngzuò Āntíjī",
      "en": "inside shook the history of science for the next hundred years. Named after the place it was found, it is called the Antikythera"
     },
     {
@@ -2556,12 +2557,12 @@
     },
     {
      "zh": "它是西元前 2 世紀左右的天文儀器，於西元前 1 世紀時，隨著一艘商船沉沒大海。",
-     "py": "Tā shì xīyuánqián 2 shìjì zuǒyòu de Tiānwén yíqì, yú xīyuánqián 1 shìjì shí, suízhù yìsōu shāngchuán chénmò Dàhǎi.",
+     "py": "Tā shì xīyuánqián 2 shìjì zuǒyòu de Tiānwén yíqì, yú xīyuánqián 1 shìjì shí, suízhe yìsōu shāngchuán chénmò Dàhǎi.",
      "en": "to be an astronomical instrument from around the 2nd century BC that sank into the sea with a merchant ship in the 1st century BC."
     },
     {
      "zh": "歷史記載中最早的天文儀器是日晷，在中國、古埃及、希臘等地都有記錄，",
-     "py": "Lìshǐ jìzǎi zhōng zuìzǎo de Tiānwén yíqì shì rìguǐ, zài Zhōngguó, Gǔāijí, Xīlà děng dì dōu yǒu jìlù,",
+     "py": "Lìshǐ jìzǎi zhōng zuìzǎo de Tiānwén yíqì shì rìguǐ, zài Zhōngguó, Gǔ'āijí, Xīlà děng de dōu yǒu jìlù,",
      "en": "The earliest astronomical instrument in historical records is the sundial, recorded in China, ancient Egypt, Greece and elsewhere,"
     },
     {
@@ -2684,14 +2685,14 @@
     },
     "D": {
      "zh": "表示安提基瑟拉儀的發現不令人期待",
-     "py": "Biǎoshì Āntíjīsèlā yí de fāxiàn bù Lìngrén qīdài",
+     "py": "Biǎoshì Āntíjīsèlā yí de fāxiàn bú Lìngrén qīdài",
      "en": "(D) To show that the discovery of the Antikythera mechanism was not anticipated"
     }
    },
    "transcript": [
     {
      "zh": "為什麼提到中國等地早已有類似儀器的記載？",
-     "py": "Wèishénme tídào Zhōngguó děng dì zǎoyǐ yǒu lèisì yíqì de jìzǎi?",
+     "py": "Wèishénme tídào Zhōngguó děng de zǎoyǐ yǒu lèisì yíqì de jìzǎi?",
      "en": "Why does it mention that places such as China had records of similar instruments long ago?"
     }
    ]

@@ -2,6 +2,7 @@
  "testId": "a-l2",
  "segments": 197,
  "englishComplete": true,
+ "indonesianComplete": false,
  "questions": {
   "1": {
    "transcript": [
@@ -271,22 +272,22 @@
    "transcript": [
     {
      "zh": "這三個人，哪一個人最矮？",
-     "py": "Zhè sān ge rén, nǎ yí ge rén zuìǎi?",
+     "py": "Zhè sān ge rén, nǎ yí ge rén zuì'ǎi?",
      "en": "Of these three people, which one is the shortest?"
     },
     {
      "zh": "(A) 穿短褲的男生最矮",
-     "py": "(A) chuān duǎnkù de nánshēng zuìǎi",
+     "py": "(A) chuān duǎnkù de nánshēng zuì'ǎi",
      "en": "(A) The boy in shorts is the shortest."
     },
     {
      "zh": "(B) 穿短褲的女生最矮",
-     "py": "(B) chuān duǎnkù de nǚshēng zuìǎi",
+     "py": "(B) chuān duǎnkù de nǚshēng zuì'ǎi",
      "en": "(B) The girl in shorts is the shortest."
     },
     {
      "zh": "(C) 穿長褲的女生最矮",
-     "py": "(C) chuān chángkù de nǚshēng zuìǎi",
+     "py": "(C) chuān chángkù de nǚshēng zuì'ǎi",
      "en": "(C) The girl in long pants is the shortest."
     }
    ]
@@ -621,7 +622,7 @@
    "transcript": [
     {
      "zh": "男：請問賣照相機的店在哪兒？",
-     "py": "Nán: Qǐngwèn mài zhàoxiàngjī de diàn zài nǎér?",
+     "py": "Nán: Qǐngwèn mài zhàoxiàngjī de diàn zài nǎr?",
      "en": "Man: Excuse me, where is the camera shop?"
     },
     {
@@ -682,7 +683,7 @@
     },
     {
      "zh": "女：喔，她不在，她出去買東西了。",
-     "py": "Nǚ: Ō, tā bù zài, tā chūqù mǎi Dōngxi le.",
+     "py": "Nǚ: Ō, tā bú zài, tā chūqù mǎi Dōngxi le.",
      "en": "Woman: Oh, she's not here; she went out shopping."
     }
    ]
@@ -691,7 +692,7 @@
    "transcript": [
     {
      "zh": "男：您好，請問洗手間在哪兒？",
-     "py": "Nán: Nínhǎo, qǐngwèn xǐshǒujiān zài nǎér?",
+     "py": "Nán: Nínhǎo, qǐngwèn xǐshǒujiān zài nǎr?",
      "en": "Man: Hello, where is the restroom, please?"
     },
     {
@@ -775,7 +776,7 @@
    "transcript": [
     {
      "zh": "男：妳畫畫畫得真好，可不可以幫我在牆上畫一些花？",
-     "py": "Nán: Nǐ huàhuà huà dé zhēnhǎo, kěbùkěyǐ bāng wǒ zài qiángshàng huà yìxiē huā?",
+     "py": "Nán: Nǐ huàhuà huà de zhēnhǎo, kěbùkěyǐ bāng wǒ zài qiángshàng huà yìxiē huā?",
      "en": "Man: You draw so well. Could you paint some flowers on my wall?"
     },
     {
@@ -789,7 +790,7 @@
    "transcript": [
     {
      "zh": "男：小寶最近吵著要買玩具車，你覺得呢？",
-     "py": "Nán: Xiǎobǎo zuìjìn chǎozhù yào mǎi wánjùchē, nǐ juéde ne?",
+     "py": "Nán: Xiǎobǎo zuìjìn chǎozhe yào mǎi wánjùchē, nǐ juéde ne?",
      "en": "Man: Xiaobao has been pestering us lately to buy him a toy car. What do you think?"
     },
     {
@@ -832,7 +833,7 @@
     },
     {
      "zh": "女：電梯旁邊第二間，門上掛著一張畫的就是了。",
-     "py": "Nǚ: Diàntī pángbiān dìèrjiān, ménshàng guàzhù yìzhāng huà de jiùshì le.",
+     "py": "Nǚ: Diàntī pángbiān dì'èrjiān, ménshàng guàzhe yìzhāng huà de jiùshì le.",
      "en": "Woman: The second room next to the elevator—the one with a painting hanging on the door."
     },
     {
@@ -909,7 +910,7 @@
     },
     {
      "zh": "女：沒關係，這些盒子要放在哪兒?",
-     "py": "Nǚ: Méiguānxì, zhèxiē hézi yào fàngzài nǎér?",
+     "py": "Nǚ: Méiguānxì, zhèxiē hézi yào fàngzài nǎr?",
      "en": "Woman: That's OK. Where should these boxes go?"
     },
     {
@@ -924,7 +925,7 @@
     },
     {
      "zh": "男：請問盒子會被搬到哪兒?",
-     "py": "Nán: Qǐngwèn hézi huì bèi bāndào nǎér?",
+     "py": "Nán: Qǐngwèn hézi huì bèi bāndào nǎr?",
      "en": "Man: Where will the boxes be moved to?"
     }
    ]
@@ -962,7 +963,7 @@
    "options": {
     "A": {
      "zh": "睡得不好",
-     "py": "Shuì dé bùhǎo",
+     "py": "Shuì de bùhǎo",
      "en": "Sleeping poorly"
     },
     "B": {
@@ -984,7 +985,7 @@
    "transcript": [
     {
      "zh": "男：最近我的鼻子不太舒服，晚上都睡不好。可以給我一點藥嗎？",
-     "py": "Nán: Zuìjìn wǒ de bízi bù tài shūfú, wǎnshàng dōu shuì bùhǎo. Kěyǐ gěi wǒ yìdiǎn yào ma?",
+     "py": "Nán: Zuìjìn wǒ de bízi bú tài shūfú, wǎnshàng dōu shuì bùhǎo. Kěyǐ gěi wǒ yìdiǎn yào ma?",
      "en": "Man: Lately my nose has been uncomfortable and I can't sleep well at night. Could you give me some medicine?"
     },
     {
@@ -1040,7 +1041,7 @@
     },
     {
      "zh": "女：鄰居夜裡經常玩樂器，吵得不得了。",
-     "py": "Nǚ: Línjū yèlǐ jīngcháng wán yuèqì, chǎodé bùdéle.",
+     "py": "Nǚ: Línjū yèlǐ jīngcháng wán yuèqì, chǎo de bùdéliǎo.",
      "en": "Woman: The neighbors often play instruments at night; it's incredibly noisy."
     },
     {
@@ -1152,7 +1153,7 @@
     },
     {
      "zh": "女：先洗一洗吧！我後天才能去買新的。",
-     "py": "Nǚ: Xiānxǐ yī xǐ ba! Wǒ hòutiān cáinéng qù mǎi xīn de.",
+     "py": "Nǚ: Xiānxǐ yì xǐ ba! Wǒ hòutiān cáinéng qù mǎi xīn de.",
      "en": "Woman: Wash them first! I can't go buy new ones until the day after tomorrow."
     },
     {

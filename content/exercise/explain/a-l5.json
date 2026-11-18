@@ -2,6 +2,7 @@
  "testId": "a-l5",
  "segments": 226,
  "englishComplete": true,
+ "indonesianComplete": false,
  "questions": {
   "1": {
    "transcript": [
@@ -406,7 +407,7 @@
     },
     {
      "zh": "女：他們一討論小孩的事情，就會不太開心。",
-     "py": "Nǚ: Tāmen yī tǎolùn xiǎohái de shìqing, jiù huì bù tài kāixīn.",
+     "py": "Nǚ: Tāmen yì tǎolùn xiǎohái de shìqing, jiù huì bú tài kāixīn.",
      "en": "Woman: Whenever they discuss things about the children, they get unhappy."
     }
    ]
@@ -448,7 +449,7 @@
     },
     {
      "zh": "女：我剛洗好，現在還沒乾喔！",
-     "py": "Nǚ: Wǒ gāng xǐ hǎo, xiànzài hái méi gàn ō!",
+     "py": "Nǚ: Wǒ gāng xǐ hǎo, xiànzài hái méi gān ō!",
      "en": "Woman: I just washed it; it's not dry yet!"
     }
    ]
@@ -615,7 +616,7 @@
    "transcript": [
     {
      "zh": "男：要不要喝點兒啤酒？",
-     "py": "Nán: Yào búyào hē diǎnér píjiǔ?",
+     "py": "Nán: Yào búyào hē diǎnr píjiǔ?",
      "en": "Man: Do you want some beer?"
     },
     {
@@ -625,7 +626,7 @@
     },
     {
      "zh": "男：那，喝點兒汽水吧？",
-     "py": "Nán: Nà, hē diǎnér qìshuǐ ba?",
+     "py": "Nán: Nà, hē diǎnr qìshuǐ ba?",
      "en": "Man: Then how about some soda?"
     },
     {
@@ -828,7 +829,7 @@
     },
     {
      "zh": "男：我不放心妳一個人回家，還是等會兒我開車送妳回去。",
-     "py": "Nán: Wǒ bù fàngxīn nǐ yí ge rén huíjiā, háishì děnghuìer wǒ kāichē sòng nǐ huíqù.",
+     "py": "Nán: Wǒ bú fàngxīn nǐ yí ge rén huíjiā, háishì děnghuìr wǒ kāichē sòng nǐ huíqù.",
      "en": "Man: I don't feel comfortable with you going home alone; I'll drive you back in a bit."
     },
     {
@@ -949,7 +950,7 @@
    "options": {
     "A": {
      "zh": "她怕考得不好",
-     "py": "Tā pà kǎodé bùhǎo",
+     "py": "Tā pà kǎo de bùhǎo",
      "en": "She's afraid she did badly on the exam."
     },
     "B": {
@@ -971,7 +972,7 @@
    "transcript": [
     {
      "zh": "男：妳怎麼了？好像不太開心的樣子。",
-     "py": "Nán: Nǐ zěnme le? Hǎoxiàng bù tài kāixīn de yàngzi.",
+     "py": "Nán: Nǐ zěnme le? Hǎoxiàng bú tài kāixīn de yàngzi.",
      "en": "Man: What's wrong? You don't seem very happy."
     },
     {
@@ -1032,12 +1033,12 @@
     },
     {
      "zh": "女：我總是聽到您走路的聲音，有時還聽到您與女朋友大聲地講話。我找您好",
-     "py": "Nǚ: Wǒ zǒngshì tīngdào nín zǒulù de shēngyīn, yǒushí hái tīngdào nín yǔ nǚpéngyǒu dàshēng dì jiǎnghuà. Wǒ zhǎo nínhǎo",
+     "py": "Nǚ: Wǒ zǒngshì tīngdào nín zǒulù de shēngyīn, yǒushí hái tīngdào nín yǔ nǚpéngyǒu dàshēng de jiǎnghuà. Wǒ zhǎo nínhǎo",
      "en": "Woman: I always hear the sound of you walking, and sometimes I hear you talking loudly with your girlfriend. I've come looking for you"
     },
     {
      "zh": "幾次了，可是您都不在家。",
-     "py": "Jǐcì le, kěshì nín dōu bù zàijiā.",
+     "py": "Jǐcì le, kěshì nín dōu bú zàijiā.",
      "en": "(continued) several times, but you're never home."
     },
     {
@@ -1083,7 +1084,7 @@
     },
     {
      "zh": "女：我昨天十二點多睡的，我不覺得晚啊！",
-     "py": "Nǚ: Wǒ zuótiān shíèrdiǎn duō shuì de, wǒ bù juéde wǎn a!",
+     "py": "Nǚ: Wǒ zuótiān shí'èrdiǎn duō shuì de, wǒ bù juéde wǎn a!",
      "en": "Woman: I went to bed after twelve yesterday; I don't think that's late!"
     },
     {

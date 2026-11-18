@@ -402,5 +402,9 @@ details.explain[open] > summary { border-bottom: 1px dashed var(--line); }
 .ex-zh { display: flex; align-items: baseline; gap: .5rem; flex-wrap: wrap; font-size: calc(1.22rem * var(--reading-scale)); font-family: var(--font-zh); line-height: 1.6; }
 .ex-mark { font-weight: 700; color: var(--brand); font-family: var(--font-display); min-width: 2.4em; }
 .ex-py { color: var(--brand); font-size: .92rem; line-height: 1.5; margin-top: .1rem; }
-.ex-en { color: var(--ink-2, var(--text)); font-size: .93rem; line-height: 1.5; margin-top: .1rem; }
+.ex-py { font-size: calc(1rem * var(--reading-scale)); }
+.ex-tr { display: grid; grid-template-columns: 2.1rem 1fr; gap: .1rem .5rem; margin-top: .25rem; font-size: .95rem; line-height: 1.55; }
+.ex-tr dt { font-size: .7rem; font-weight: 700; color: var(--muted); border: 1px solid var(--line-strong); border-radius: 4px; text-align: center; height: 1.25rem; line-height: 1.15rem; margin-top: .15rem; }
+.ex-tr dd { margin: 0; color: var(--text); }
+.ex-tr dd[lang="id"] { color: var(--muted); }
 .ex-note, .ex-pending { padding: .2rem .95rem .7rem; margin: 0; }

@@ -2,6 +2,7 @@
  "testId": "b-r3",
  "segments": 321,
  "englishComplete": true,
+ "indonesianComplete": false,
  "questions": {
   "1": {
    "passage": [
@@ -116,7 +117,7 @@
    "options": {
     "A": {
      "zh": "寫著",
-     "py": "Xiězhù",
+     "py": "Xiězhe",
      "en": "is written (寫著)"
     },
     "B": {
@@ -126,7 +127,7 @@
     },
     "C": {
      "zh": "讀著",
-     "py": "Dúzhù",
+     "py": "Dúzhe",
      "en": "is reading"
     },
     "D": {
@@ -203,7 +204,7 @@
     },
     {
      "zh": "這個星期，李明每天早上得先坐公共汽車， 10 坐電車，才能到公司。",
-     "py": "Zhè ge xīngqī, Lǐmíng měitiān zǎoshàng dé xiān zuò Gōnggòngqìchē, 10 zuò diànchē, cáinéng dào gōngsī.",
+     "py": "Zhè ge xīngqī, Lǐmíng měitiān zǎoshàng děi xiān zuò Gōnggòngqìchē, 10 zuò diànchē, cáinéng dào gōngsī.",
      "en": "This week, every morning Li Ming has to take the bus first, ___10___ take the train, to get to his company."
     },
     {
@@ -556,7 +557,7 @@
    ],
    "stem": {
     "zh": "安安要從台北坐火車去台中，他和朋友約十點三十分在台中站見 面，他應該坐幾點的火車，才不會太早到或遲到？",
-    "py": "Ānān yào cóng Táiběi zuòhuǒchē qù táizhōng, tā hé péngyǒu yuē shídiǎn sānshífēn zài táizhōng zhàn jiàn miàn, tā yīnggāi zuò jǐdiǎn de huǒchē, cái búhuì tài zǎo dào huò chídào?",
+    "py": "Ān'ān yào cóng Táiběi zuòhuǒchē qù táizhōng, tā hé péngyǒu yuē shídiǎn sānshífēn zài táizhōng zhàn jiàn miàn, tā yīnggāi zuò jǐdiǎn de huǒchē, cái búhuì tài zǎo dào huò chídào?",
     "en": "An'an wants to take the train from Taipei to Taichung. He has arranged to meet a friend at Taichung Station at 10:30. Which train should he take so he won't arrive too early or be late?"
    },
    "options": {
@@ -614,7 +615,7 @@
    ],
    "stem": {
     "zh": "根據廣告內容，下面哪一個不對？",
-    "py": "Gēnjù guǎnggào nèiróng, xiàmiàn nǎ yí ge bù duì?",
+    "py": "Gēnjù guǎnggào nèiróng, xiàmiàn nǎ yí ge bú duì?",
     "en": "According to the ad, which of the following is NOT correct?"
    },
    "options": {
@@ -696,7 +697,7 @@
     },
     "C": {
      "zh": "吳小姐和她的女兒",
-     "py": "Wúxiǎojiě hé tā de nǚér",
+     "py": "Wúxiǎojiě hé tā de nǚ'ér",
      "en": "Miss Wu and her daughter"
     },
     "D": {
@@ -732,7 +733,7 @@
     },
     "C": {
      "zh": "先按著「0」兩秒",
-     "py": "Xiān ànzhù “0” liǎngmiǎo",
+     "py": "Xiān ànzhe “0” liǎngmiǎo",
      "en": "First hold down \"0\" for two seconds."
     },
     "D": {
@@ -759,7 +760,7 @@
     },
     {
      "zh": "3. 要關掉聲音，請按「停止」鈕或按著號碼0不放約2秒。",
-     "py": "3. Yào guāndiào shēngyīn, qǐng àn “Tíngzhǐ” Niǔ huò ànzhù hàomǎ 0 búfàng yuē 2 miǎo.",
+     "py": "3. Yào guāndiào shēngyīn, qǐng àn “Tíngzhǐ” Niǔ huò ànzhe hàomǎ 0 búfàng yuē 2 miǎo.",
      "en": "3. To turn off the sound, press the \"Stop\" button or hold down number 0 for about 2 seconds."
     },
     {
@@ -849,7 +850,7 @@
     },
     "C": {
      "zh": "在工作上是否受到尊敬是最不被重視的條件之一",
-     "py": "Zài gōngzuò shàng shìfǒu shòudào zūnjìng shì zuì bù bèi zhòngshì de tiáojiàn zhīyī",
+     "py": "Zài gōngzuò shàng shìfǒu shòudào zūnjìng shì zuì bú bèi zhòngshì de tiáojiàn zhīyī",
      "en": "Whether one is respected at work is one of the least valued conditions."
     },
     "D": {
@@ -968,7 +969,7 @@
     },
     {
      "zh": "1. 春節期間，每日發行減少為三大張，特價10元，零售讀者可至本報指定的便利商店購買。",
-     "py": "1. Chūnjié qījiān, měirì fāxíng jiǎnshǎo wèi sān dàzhāng, tèjià 10 yuán, língshòu dúzhě kězhì běnbào zhǐdìng de biànlìshāngdiàn gòumǎi.",
+     "py": "1. Chūnjié qījiān, měirì fāxíng jiǎnshǎo wéi sān dàzhāng, tèjià 10 yuán, língshòu dúzhě kězhì běnbào zhǐdìng de biànlìshāngdiàn gòumǎi.",
      "en": "1. During the Spring Festival, each daily issue is reduced to three large sheets at a special price of 10 dollars; single-copy readers can buy it at our designated convenience stores."
     },
     {
@@ -1021,12 +1022,12 @@
     },
     {
      "zh": "根據一項芬蘭的研究發現，還在母親肚中的嬰兒，其實聽得見外界的聲音，而且會開始學習記憶。",
-     "py": "Gēnjù yíxiàng Fēnlán de yánjiū fāxiàn, hái zài mǔqīn dùzhōng de yīngér, qíshí tīngdejiàn wàijiè de shēngyīn, érqiě huì kāishǐ xuéxí jìyì.",
+     "py": "Gēnjù yíxiàng Fēnlán de yánjiū fāxiàn, hái zài mǔqīn dùzhōng de yīng'ér, qíshí tīngdejiàn wàijiè de shēngyīn, érqiě huì kāishǐ xuéxí jìyì.",
      "en": "According to a Finnish study, babies still in their mother's womb can actually hear sounds from outside and begin learning and remembering."
     },
     {
      "zh": "芬蘭一所大學讓三十三位懷孕母親，從懷孕二十九週到嬰兒出生那一天，每天聽一個芬蘭單字，每天重複播放同樣的聲音好幾百遍，等到嬰兒出生後，研究人員利用儀器觀察嬰兒腦部活動，記錄他們聽到聲音的反應，結果發現，嬰兒聽到過去熟悉的聲音時反應特別明顯。",
-     "py": "Fēnlán yìsuǒ dàxué ràng sānshí sānwèi huáiyùn mǔqīn, cóng huáiyùn èrshíjiǔ zhōudào yīngér chūshēng nà yìtiān, měitiān tīng yí ge Fēnlán dānzì, měitiān chóngfù bōfàng tóngyàng de shēngyīn hǎo jǐbǎibiàn, děngdào yīngér chūshēng hòu, yánjiū rényuán lìyòng yíqì guānchá yīngér nǎobù huódòng, jìlù tāmen tīngdào shēngyīn de fǎnyìng, jiéguǒ fāxiàn, yīngér tīngdào guòqù shúxī de shēngyīn shí fǎnyìng tèbié míngxiǎn.",
+     "py": "Fēnlán yìsuǒ dàxué ràng sānshí sānwèi huáiyùn mǔqīn, cóng huáiyùn èrshíjiǔ zhōudào yīng'ér chūshēng nà yìtiān, měitiān tīng yí ge Fēnlán dānzì, měitiān chóngfù bōfàng tóngyàng de shēngyīn hǎo jǐbǎibiàn, děngdào yīng'ér chūshēng hòu, yánjiū rényuán lìyòng yíqì guānchá yīng'ér nǎobù huódòng, jìlù tāmen tīngdào shēngyīn de fǎnyìng, jiéguǒ fāxiàn, yīng'ér tīngdào guòqù shúxī de shēngyīn shí fǎnyìng tèbié míngxiǎn.",
      "en": "A Finnish university had thirty-three pregnant mothers, from the 29th week of pregnancy until the day the babies were born, listen to a Finnish word every day, with the same sound played hundreds of times daily. After the babies were born, researchers used instruments to observe the babies' brain activity and record their reactions to sounds, and found that babies reacted especially clearly when they heard previously familiar sounds."
     },
     {
@@ -1036,22 +1037,22 @@
     },
     {
      "zh": "對此，芬蘭研究人員表示：「已經有證據顯示，在母親肚中的嬰兒會學習。",
-     "py": "Duìcǐ, Fēnlán yánjiū rényuán biǎoshì: “Yǐjīng yǒu zhèngjù xiǎnshì, zài mǔqīn dùzhōng de yīngér huì xuéxí.",
+     "py": "Duìcǐ, Fēnlán yánjiū rényuán biǎoshì: “Yǐjīng yǒu zhèngjù xiǎnshì, zài mǔqīn dùzhōng de yīng'ér huì xuéxí.",
      "en": "Regarding this, the Finnish researchers said: \"There is already evidence that babies in the mother's womb learn."
     },
     {
      "zh": "而且嬰兒出生後，仍會記得當初聽過的歌曲或是某一部分的詞句。」",
-     "py": "Érqiě yīngér chūshēng hòu, réng huì jìde dāngchū tīng guò de gēqǔ huòshì mǒu yíbùfèn de cíjù.”",
+     "py": "Érqiě yīng'ér chūshēng hòu, réng huì jìde dāngchū tīng guò de gēqǔ huòshì mǒu yíbùfèn de cíjù.”",
      "en": "And after birth, babies still remember songs or certain phrases they heard back then.\""
     },
     {
      "zh": "研究人員也發現，在母親肚中就聽過同一單字的嬰兒，說出單字的能力，比沒聽過的嬰兒更好。",
-     "py": "Yánjiū rényuán yě fāxiàn, zài mǔqīn dùzhōng jiù tīng guò tóngyī dānzì de yīngér, shuōchū dānzì de nénglì, bǐ méitīng guò de yīngér gènghǎo.",
+     "py": "Yánjiū rényuán yě fāxiàn, zài mǔqīn dùzhōng jiù tīng guò tóngyī dānzì de yīng'ér, shuōchū dānzì de nénglì, bǐ méitīng guò de yīng'ér gènghǎo.",
      "en": "The researchers also found that babies who had heard the same word in the womb were better at saying the word than babies who hadn't."
     },
     {
      "zh": "美國語言專家寇兒表示：「從研究結果來看，人類並不是出生後才開始學習語言，而是在母親肚中時就開始透過聽聲音去學習。",
-     "py": "Měiguó yǔyán zhuānjiā Kòuér biǎoshì: “Cóng yánjiū jiéguǒ láikàn, rénlèi bìng búshì chūshēng hòucái kāishǐ xuéxí yǔyán, érshì zài mǔqīn dù zhōng shí jiù kāishǐ tòuguò tīng shēngyīn qù xuéxí.",
+     "py": "Měiguó yǔyán zhuānjiā Kòur biǎoshì: “Cóng yánjiū jiéguǒ láikàn, rénlèi bìng búshì chūshēng hòucái kāishǐ xuéxí yǔyán, érshì zài mǔqīn dù zhōng shí jiù kāishǐ tòuguò tīng shēngyīn qù xuéxí.",
      "en": "American language expert Kuhl said: \"Judging from the results, humans don't begin learning language only after birth; they start learning through listening to sounds while in the mother's womb."
     },
     {
@@ -1068,12 +1069,12 @@
    "options": {
     "A": {
      "zh": "用儀器讓嬰兒說話",
-     "py": "Yòng yíqì ràng yīngér shuōhuà",
+     "py": "Yòng yíqì ràng yīng'ér shuōhuà",
      "en": "Instruments were used to make babies talk."
     },
     "B": {
      "zh": "每天讓嬰兒聽同樣的音樂",
-     "py": "Měitiān ràng yīngér tīng tóngyàng de yīnyuè",
+     "py": "Měitiān ràng yīng'ér tīng tóngyàng de yīnyuè",
      "en": "Babies listened to the same music every day."
     },
     "C": {
@@ -1083,7 +1084,7 @@
     },
     "D": {
      "zh": "嬰兒出生後，每天播放一個單字",
-     "py": "Yīngér chūshēng hòu, měitiān bōfàng yí ge dānzì",
+     "py": "Yīng'ér chūshēng hòu, měitiān bōfàng yí ge dānzì",
      "en": "After the babies were born, a word was played every day."
     }
    }
@@ -1102,7 +1103,7 @@
     },
     "B": {
      "zh": "母親看連續劇，嬰兒比較聰明",
-     "py": "Mǔqīn kàn liánxùjù, yīngér bǐjiào cōngmíng",
+     "py": "Mǔqīn kàn liánxùjù, yīng'ér bǐjiào cōngmíng",
      "en": "If the mother watches TV dramas, the baby is smarter."
     },
     "C": {
@@ -1112,7 +1113,7 @@
     },
     "D": {
      "zh": "語言專家寇兒對研究結果感到驚訝",
-     "py": "Yǔyán zhuānjiā Kòuér duì yánjiū jiéguǒ gǎndào jīngyà",
+     "py": "Yǔyán zhuānjiā Kòur duì yánjiū jiéguǒ gǎndào jīngyà",
      "en": "Language expert Kuhl was surprised by the results."
     }
    }
@@ -1131,7 +1132,7 @@
     },
     "B": {
      "zh": "聽力障礙的症狀",
-     "py": "Tīnglì zhàngài de zhèngzhuàng",
+     "py": "Tīnglì zhàng'ài de zhèngzhuàng",
      "en": "Symptoms of hearing impairment"
     },
     "C": {
@@ -1180,12 +1181,12 @@
     },
     {
      "zh": "電影描述一位非常有想像力的父親，總是告訴小兒子一些以自己為主角的神奇故事，然而隨著年齡增長，小兒子從原本對父親的敬愛和崇拜，逐漸轉變成忽視。",
-     "py": "Diànyǐng miáoshù yíwèi fēicháng yǒu xiǎngxiànglì de fùqīn, zǒngshì gàosù Xiǎoérzi yìxiē yǐ zìjǐ wèi zhǔjué de shénqí gùshì, ránér suízhù niánlíng zēngzhǎng, Xiǎoérzi cóng yuánběn duì fùqīn de Jìngài hé Chóngbài, zhújiàn zhuǎnbiànchéng hūshì.",
+     "py": "Diànyǐng miáoshù yíwèi fēicháng yǒu xiǎngxiànglì de fùqīn, zǒngshì gàosù Xiǎo'érzi yìxiē yǐ zìjǐ wèi zhǔjué de shénqí gùshì, rán'ér suízhe niánlíng zēngzhǎng, Xiǎo'érzi cóng yuánběn duì fùqīn de Jìng'ài hé Chóngbài, zhújiàn zhuǎnbiànchéng hūshì.",
      "en": "The film depicts a very imaginative father who always tells his young son magical stories starring himself; but as the son grows older, his respect and admiration for his father gradually turn into neglect."
     },
     {
      "zh": "他不喜歡父親仍然把他當小孩一樣，繼續說著那些聽起來很「誇張」的故事。",
-     "py": "Tā bù xǐhuān fùqīn réngrán bǎ tā dāng xiǎohái yíyàng, jìxù shuōzhù nàxiē tīng qǐlái hěn “Kuāzhāng” de gùshì.",
+     "py": "Tā bù xǐhuān fùqīn réngrán bǎ tā dàng xiǎohái yíyàng, jìxù shuōzhe nàxiē tīng qǐlái hěn “Kuāzhāng” de gùshì.",
      "en": "He doesn't like that his father still treats him like a child and keeps telling those \"exaggerated\"-sounding stories."
     },
     {
@@ -1195,7 +1196,7 @@
     },
     {
      "zh": "直到父親去世後，在父親的葬禮上，小兒子看見父親故事裡的那些人物竟然都出席了，他才明白，父親只是希望，他始終能擁有兒時的天真。",
-     "py": "Zhídào fùqīn qùshì hòu, zài fùqīn de zànglǐ shàng, Xiǎoérzi kànjiàn fùqīn gùshì lǐ de nàxiē rénwù jìngrán dōu chūxí le, tā cái Míngbái, fùqīn zhǐshì xīwàng, tā shǐzhōng néng yōngyǒu érshí de Tiānzhēn.",
+     "py": "Zhídào fùqīn qùshì hòu, zài fùqīn de zànglǐ shàng, Xiǎo'érzi kànjiàn fùqīn gùshì lǐ de nàxiē rénwù jìngrán dōu chūxí le, tā cái Míngbái, fùqīn zhǐshì xīwàng, tā shǐzhōng néng yōngyǒu érshí de Tiānzhēn.",
      "en": "Only after his father dies, at his father's funeral, when the son sees that the characters from his father's stories have actually all come, does he understand that his father only hoped he could always keep his childhood innocence."
     },
     {
@@ -1217,7 +1218,7 @@
     },
     "B": {
      "zh": "人們應該完全像小孩一樣活著",
-     "py": "Rénmen yīnggāi wánquán xiàng xiǎohái yíyàng huózhù",
+     "py": "Rénmen yīnggāi wánquán xiàng xiǎohái yíyàng huózhe",
      "en": "People should live entirely like children."
     },
     "C": {
@@ -1235,7 +1236,7 @@
   "32": {
    "stem": {
     "zh": "請問下面哪一段文字最符合第二段中所說的「主題」？",
-    "py": "Qǐngwèn xiàmiàn nǎ yíduàn wénzì zuì fúhé dìèrduàn zhōng suǒshuō de “Zhǔtí”?",
+    "py": "Qǐngwèn xiàmiàn nǎ yíduàn wénzì zuì fúhé dì'èrduàn zhōng suǒshuō de “Zhǔtí”?",
     "en": "Which of the following best matches the \"theme\" mentioned in the second paragraph?"
    },
    "options": {
@@ -1264,7 +1265,7 @@
   "33": {
    "stem": {
     "zh": "根據短文，為什麼小兒子後來和父親的關係不好？",
-    "py": "Gēnjù duǎnwén, wèishénme Xiǎoérzi hòulái hé fùqīn de guānxì bùhǎo?",
+    "py": "Gēnjù duǎnwén, wèishénme Xiǎo'érzi hòulái hé fùqīn de guānxì bùhǎo?",
     "en": "According to the passage, why did the son later have a bad relationship with his father?"
    },
    "options": {
@@ -1411,7 +1412,7 @@
     },
     "B": {
      "zh": "眼睛一有血絲應立刻就醫",
-     "py": "Yǎnjīng yī yǒu xuèsī yīng lìkè jiùyī",
+     "py": "Yǎnjīng yì yǒu xuèsī yīng lìkè jiùyī",
      "en": "As soon as the eyes are bloodshot, see a doctor immediately."
     },
     "C": {
@@ -1421,7 +1422,7 @@
     },
     "D": {
      "zh": "觀察症狀的變化以一週為原則",
-     "py": "Guānchá zhèngzhuàng de biànhuà yǐ yìzhōu wèi yuánzé",
+     "py": "Guānchá zhèngzhuàng de biànhuà yǐ yìzhōu wéi yuánzé",
      "en": "Observe changes in symptoms over about a week as a rule."
     }
    }
@@ -1435,7 +1436,7 @@
     },
     {
      "zh": "有時在外面用餐，總是想念著七零年代那時流行的美式早餐。",
-     "py": "Yǒushí zài wàimiàn yòngcān, zǒngshì xiǎngniàn zhù qīlíng niándài nàshí liúxíng de měishì zǎocān.",
+     "py": "Yǒushí zài wàimiàn yòngcān, zǒngshì xiǎngniàn zhe qīlíng niándài nàshí liúxíng de měishì zǎocān.",
      "en": "Sometimes when eating out, I always miss the American-style breakfast that was popular in the 1970s."
     },
     {
@@ -1445,12 +1446,12 @@
     },
     {
      "zh": "只要客人坐下來，服務人員就先給你一杯味道淡得像水一樣的美式熱咖啡，然後二話不說，不論你點什麼，先送上一些烤吐司和炒蛋；",
-     "py": "Zhǐyào kèrén zuòxià lái, fúwù rényuán jiùxiān gěi nǐ yìbēi wèidào dàn dé xiàng shuǐ yíyàng de měishì Rèkāfēi, ránhòu èrhuàbùshuō, búlùn nǐ diǎn shénme, xiān sòng shàng yìxiē kǎo tǔsī hé chǎodàn;",
+     "py": "Zhǐyào kèrén zuòxià lái, fúwù rényuán jiùxiān gěi nǐ yìbēi wèidào dàn de xiàng shuǐ yíyàng de měishì Rèkāfēi, ránhòu èrhuàbùshuō, búlùn nǐ diǎn shénme, xiān sòng shàng yìxiē kǎo tǔsī hé chǎodàn;",
      "en": "As soon as you sat down, the server would first give you a cup of American hot coffee so weak it tasted like water, and then without a word, no matter what you ordered, they'd first bring some toast and scrambled eggs;"
     },
     {
      "zh": "然後開始登場的是主要食物──煎香腸，培根或火腿，旁邊放著一大堆像座小山一樣的馬鈴薯，還附上蜂蜜、果醬、奶油等一堆配料。",
-     "py": "Ránhòu kāishǐ dēngcháng de shì zhǔyào shíwù ─ ─ jiān xiāngcháng, Péigēn huò huǒtuǐ, pángbiān fàngzhù yídàduī xiàng zuò Xiǎoshān yíyàng de mǎlíngshǔ, hái fùshàng fēngmì, guǒjiàng, nǎiyóu děng yìduī pèiliào.",
+     "py": "Ránhòu kāishǐ dēngcháng de shì zhǔyào shíwù ─ ─ jiān xiāngcháng, Péigēn huò huǒtuǐ, pángbiān fàngzhe yídàduī xiàng zuò Xiǎoshān yíyàng de mǎlíngshǔ, hái fùshàng fēngmì, guǒjiàng, nǎiyóu děng yìduī pèiliào.",
      "en": "then the main food would make its appearance—fried sausages, bacon or ham, with a big pile of potatoes like a little mountain beside them, plus honey, jam, butter, and a heap of other condiments."
     },
     {
@@ -1460,12 +1461,12 @@
     },
     {
      "zh": "後來，義大利式連鎖店漸漸地代替美式早餐店，在每個城市流行起來。",
-     "py": "Hòulái, Yìdàlìshì liánsuǒdiàn jiànjiàn dì dàitì měishì zǎocān diàn, zài měi ge Chéngshì liúxíngqǐlái.",
+     "py": "Hòulái, Yìdàlìshì liánsuǒdiàn jiànjiàn de dàitì měishì zǎocān diàn, zài měi ge Chéngshì liúxíngqǐlái.",
      "en": "Later, Italian-style chains gradually replaced American breakfast shops and became popular in every city."
     },
     {
      "zh": "早餐一杯義式咖啡加上一份麵包，吃一個算一個的錢，加上漂亮的裝潢與浪漫的音樂，在某一方面是精緻、好看多了，也環保得多，但那份充滿熱情的文化卻也逐漸消失中。",
-     "py": "Zǎocān yìbēi yìshì kāfēi jiāshàng yífèn miànbāo, chī yí ge suàn yí ge de qián, jiāshàng piàoliang de zhuānghuáng yǔ làngmàn de yīnyuè, zài mǒuyìfāngmiàn shì jīngzhì, hǎokàn duō le, yě huánbǎo dé duō, dàn nàfèn chōngmǎnrèqíng de wénhuà què yě zhújiàn xiāoshī zhōng.",
+     "py": "Zǎocān yìbēi yìshì kāfēi jiāshàng yífèn miànbāo, chī yí ge suàn yí ge de qián, jiāshàng piàoliang de zhuānghuáng yǔ làngmàn de yīnyuè, zài mǒuyìfāngmiàn shì jīngzhì, hǎokàn duō le, yě huánbǎo de duō, dàn nàfèn chōngmǎnrèqíng de wénhuà què yě zhújiàn xiāoshī zhōng.",
      "en": "Breakfast became an espresso plus a bread roll, paying item by item, with pretty decor and romantic music; in some ways it's more refined, better-looking, and much more environmentally friendly, but that culture full of warmth is gradually disappearing."
     }
    ],
@@ -1614,7 +1615,7 @@
     },
     {
      "zh": "5.2 郵件資料需異動者，同一訂單以兩次異動為限。",
-     "py": "5.2 yóujiàn zīliào xū yìdòng zhě, tóngyī dìngdān yǐ liǎngcì yìdòng wèi xiàn.",
+     "py": "5.2 yóujiàn zīliào xū yìdòng zhě, tóngyī dìngdān yǐ liǎngcì yìdòng wéi xiàn.",
      "en": "5.2 If mail details need to be changed, each order is limited to two changes."
     },
     {
@@ -1629,22 +1630,22 @@
     },
     {
      "zh": "(1) 裝寄法定紙幣，每件報值限額為壹萬元。",
-     "py": "(1) zhuāng jì fǎdìng zhǐbì, měijiàn bàozhí xiàné wèi yī wànyuán.",
+     "py": "(1) zhuāng jì fǎdìng zhǐbì, měijiàn bàozhí xiàn'é wéi yī wànyuán.",
      "en": "(1) Containing legal-tender banknotes: the declared value limit per item is 10,000 dollars."
     },
     {
      "zh": "(2) 不裝寄法定紙幣，每件限額為伍萬元。",
-     "py": "(2) bù zhuāng jì fǎdìng zhǐbì, měijiàn xiàné wéiwǔ wànyuán.",
+     "py": "(2) bù zhuāng jì fǎdìng zhǐbì, měijiàn xiàn'é wéiwǔ wànyuán.",
      "en": "(2) Not containing legal-tender banknotes: the limit per item is 50,000 dollars."
     },
     {
      "zh": "(3) 法定紙幣與非法定紙幣混合裝寄者，每件限額為伍萬",
-     "py": "(3) fǎdìng zhǐbì yǔ fēifǎdìng zhǐbì hùnhé zhuāngjìzhě, měijiàn xiàné wéiwǔ wàn",
+     "py": "(3) fǎdìng zhǐbì yǔ fēifǎdìng zhǐbì hùnhé zhuāngjìzhě, měijiàn xiàn'é wéiwǔ wàn",
      "en": "(3) Mixed legal-tender and non-legal-tender contents: the limit per item is 50,000"
     },
     {
      "zh": "元，但其中法定紙幣以壹萬元為限。",
-     "py": "Yuán, dàn qízhōng fǎdìng zhǐbì yǐ yī wànyuán wèi xiàn.",
+     "py": "Yuán, dàn qízhōng fǎdìng zhǐbì yǐ yī wànyuán wéi xiàn.",
      "en": "dollars, but legal-tender banknotes are limited to 10,000 dollars."
     }
    ],
@@ -1708,7 +1709,7 @@
   "42": {
    "stem": {
     "zh": "榮恩想在指定時間寄送現金及物品給客戶，下列哪一項正確？",
-    "py": "Róngēn xiǎng zài zhǐdìng shíjiān jìsòng xiànjīn jí wùpǐn gěi kèhù, xiàliè nǎ yíxiàng zhèngquè?",
+    "py": "Róng'ēn xiǎng zài zhǐdìng shíjiān jìsòng xiànjīn jí wùpǐn gěi kèhù, xiàliè nǎ yíxiàng zhèngquè?",
     "en": "Ron wants to send cash and items to a client at a specified time. Which of the following is correct?"
    },
    "options": {
@@ -1719,7 +1720,7 @@
     },
     "B": {
      "zh": "若兩者併寄，現金金額以一萬元為限",
-     "py": "Ruò liǎngzhě bìng jì, xiànjīn jīné yǐ yíwànyuán wèi xiàn",
+     "py": "Ruò liǎngzhě bìng jì, xiànjīn jīn'é yǐ yíwànyuán wéi xiàn",
      "en": "If sent together, the cash amount is limited to ten thousand dollars."
     },
     "C": {
@@ -1729,7 +1730,7 @@
     },
     "D": {
      "zh": "若單寄現金，金額須介於一萬至五萬元",
-     "py": "Ruò Dānjì xiànjīn, jīné xū jièyú yíwàn zhì wǔwànyuán",
+     "py": "Ruò Dānjì xiànjīn, jīn'é xū jièyú yíwàn zhì wǔwànyuán",
      "en": "If sending cash only, the amount must be between ten thousand and fifty thousand dollars."
     }
    }
@@ -1748,22 +1749,22 @@
     },
     {
      "zh": "之所以會有這麼多人進電影院看這部傳記型電影，我認為有兩個原因，一是翁山蘇姬為 1991 年諾貝爾和平奬得主，是一位英勇、了不起的女性，而且她現在仍然在為她的國家與人民奮鬥，不以抗爭為手段地努力爭取和平；",
-     "py": "Zhīsuǒyǐ huì yǒu zhème duō rén jìn diànyǐngyuàn kàn zhèbù zhuànjì xíng diànyǐng, wǒ rènwéi yǒu liǎng ge yuányīn, yī shì Wēngshān Sūjī wèi 1991 nián Nuòbèiěrhépíngjiǎng dézhǔ, shì yíwèi Yīngyǒng, liǎobùqǐ de nǚxìng, érqiě tā xiànzài réngrán zài wèi tā de guójiā yǔ rénmín fèndòu, bù yǐ Kàngzhēng wèi shǒuduàn dì Nǔlìzhēngqǔ Hépíng;",
+     "py": "Zhīsuǒyǐ huì yǒu zhème duō rén jìn diànyǐngyuàn kàn zhèbù zhuànjì xíng diànyǐng, wǒ rènwéi yǒu liǎng ge yuányīn, yí shì Wēngshān Sūjī wèi 1991 nián Nuòbèi'ěrhépíngjiǎng dézhǔ, shì yíwèi Yīngyǒng, liǎobùqǐ de nǚxìng, érqiě tā xiànzài réngrán zài wèi tā de guójiā yǔ rénmín fèndòu, bù yǐ Kàngzhēng wéi shǒuduàn de Nǔlìzhēngqǔ Hépíng;",
      "en": "There are two reasons, I think, why so many people went to the cinema to see this biographical film: first, Aung San Suu Kyi, winner of the 1991 Nobel Peace Prize, is a brave and remarkable woman who is still fighting for her country and people today, striving for peace without using confrontation as a means;"
     },
     {
      "zh": "二，華人演員楊紫瓊入木三分的演技，也吸引著觀眾想看她如何詮釋這個真實故事。",
-     "py": "Èr, huárén yǎnyuán Yángzǐqióng rùmùsānfēn de yǎnjì, yě xīyǐn zhù guānzhòng xiǎng kàn tā rúhé quánshì zhè ge zhēnshí gùshì.",
+     "py": "Èr, huárén yǎnyuán Yángzǐqióng rùmùsānfēn de yǎnjì, yě xīyǐn zhe guānzhòng xiǎng kàn tā rúhé quánshì zhè ge zhēnshí gùshì.",
      "en": "second, Chinese actress Michelle Yeoh's penetrating acting also draws audiences who want to see how she interprets this true story."
     },
     {
      "zh": "多年前，楊紫瓊主動向該片的法國導演盧貝松要求飾演主角翁山蘇姬，更令人驚訝的是，她竟然花了長達四年的時間做了相關的準備。",
-     "py": "Duōnián qián, Yángzǐqióng zhǔdòng xiàng gāipiàn de Fǎguó dǎoyǎn Lúbèisōng yāoqiú shìyǎn zhǔjué Wēngshān Sūjī, gèng Lìngrén jīngyà de shì, tā jìngrán huā le zhǎng dá sìnián de shíjiān zuò le xiāngguān de zhǔnbèi.",
+     "py": "Duōnián qián, Yángzǐqióng zhǔdòng xiàng gāipiàn de Fǎguó dǎoyǎn Lúbèisōng yāoqiú shìyǎn zhǔjué Wēngshān Sūjī, gèng Lìngrén jīngyà de shì, tā jìngrán huā le cháng dá sìnián de shíjiān zuò le xiāngguān de zhǔnbèi.",
      "en": "Years ago, Michelle Yeoh took the initiative to ask the film's French director Luc Besson to let her play the lead role of Aung San Suu Kyi; even more surprising, she spent as long as four years on related preparation."
     },
     {
      "zh": "原本就清瘦的楊紫瓊，為了把翁山蘇姬演得更像，竟然在短時間內減了十公斤；",
-     "py": "Yuánběn jiù qīngshòu de Yángzǐqióng, wèile bǎ Wēngshān Sūjī yǎndé gèng xiàng, jìngrán zài duǎnshíjiān nèi jiǎn le shígōngjīn;",
+     "py": "Yuánběn jiù qīngshòu de Yángzǐqióng, wèile bǎ Wēngshān Sūjī yǎn de gèng xiàng, jìngrán zài duǎnshíjiān nèi jiǎn le shígōngjīn;",
      "en": "Michelle Yeoh, already slim, lost ten kilograms in a short time to portray Aung San Suu Kyi more faithfully;"
     },
     {
@@ -1773,7 +1774,7 @@
     },
     {
      "zh": "除了外型和語言的努力，楊紫瓊在拍片期間還克服了緬甸軍政府的阻礙，與翁山蘇姬本人見上一面，為這部片增添了不少可看性。",
-     "py": "Chúle wàixíng hé yǔyán de nǔlì, Yángzǐqióng zài pāipiàn qījiān hái kèfú le Miǎndiān Jūnzhèngfǔ de zǔài, yǔ Wēngshān Sūjī běnrén jiàn shàng yímiàn, wèi zhèbù piàn zēngtiān le bùshǎo kěkànxìng.",
+     "py": "Chúle wàixíng hé yǔyán de nǔlì, Yángzǐqióng zài pāipiàn qījiān hái kèfú le Miǎndiān Jūnzhèngfǔ de zǔ'ài, yǔ Wēngshān Sūjī běnrén jiàn shàng yímiàn, wèi zhèbù piàn zēngtiān le bùshǎo kěkànxìng.",
      "en": "Besides her efforts on appearance and language, during filming Michelle Yeoh also overcame obstacles from Myanmar's military government to meet Aung San Suu Kyi in person, which added a lot to the film's appeal."
     }
    ],
@@ -1866,7 +1867,7 @@
   "46": {
    "stem": {
     "zh": "第二段主要在說什麼事？",
-    "py": "Dìèrduàn zhǔyào zài shuō shénme shì?",
+    "py": "Dì'èrduàn zhǔyào zài shuō shénme shì?",
     "en": "What is the second paragraph mainly about?"
    },
    "options": {
@@ -1896,22 +1897,22 @@
    "passage": [
     {
      "zh": "（十二）",
-     "py": "(Shíèr)",
+     "py": "(Shí'èr)",
      "en": "(12)"
     },
     {
      "zh": "300 多年前，歐洲到處都出現小麥產量過少的狀況，當時，馬鈴薯剛從美洲傳入歐洲，有位國王一接觸到馬鈴薯，就認為這神奇的作物正是國家的救星，不但種起來容易，蟲又少，吃了也容易讓人有飽足的感覺，相當適合代替麵包成為主要食物，因此下令推廣全國。",
-     "py": "300 duōnián qián, Ōuzhōu dàochù dōu chūxiàn xiǎomài chǎnliàng guò shǎo de zhuàngkuàng, dāngshí, mǎlíngshǔ gāng cóng Měizhōu chuánrù Ōuzhōu, yǒuwèi guówáng yī jiēchù dào mǎlíngshǔ, jiù rènwéi zhè shénqí de zuòwù zhèngshì guójiā de jiùxīng, búdàn zhǒng qǐlái róngyì, chóng yòu shǎo, chī le yě róngyì ràng rén yǒu bǎozú de gǎnjué, xiāngdāng shìhé dàitì miànbāo chéngwéi zhǔyào shíwù, yīncǐ xiàlìng tuīguǎng quánguó.",
+     "py": "300 duōnián qián, Ōuzhōu dàochù dōu chūxiàn xiǎomài chǎnliàng guò shǎo de zhuàngkuàng, dāngshí, mǎlíngshǔ gāng cóng Měizhōu chuánrù Ōuzhōu, yǒuwèi guówáng yì jiēchù dào mǎlíngshǔ, jiù rènwéi zhè shénqí de zuòwù zhèngshì guójiā de jiùxīng, búdàn zhòng qǐlái róngyì, chóng yòu shǎo, chī le yě róngyì ràng rén yǒu bǎozú de gǎnjué, xiāngdāng shìhé dàitì miànbāo chéngwéi zhǔyào shíwù, yīncǐ xiàlìng tuīguǎng quánguó.",
      "en": "More than 300 years ago, wheat production was too low all over Europe. At that time potatoes had just been introduced to Europe from the Americas. A certain king, as soon as he encountered potatoes, believed this magical crop was the nation's savior: not only easy to grow with few pests, but also filling to eat, quite suitable to replace bread as a staple food; so he ordered it promoted throughout the country."
     },
     {
      "zh": "他在公告裡寫著：「馬鈴薯是個容易種、而且營養豐富的食物，希望大家多種、多吃，這樣一來就能解決麵粉不夠的問題了。」",
-     "py": "Tā zài gōnggào lǐ xiězhù: “Mǎlíngshǔ shì gè róngyì zhǒng, érqiě yíngyǎng fēngfù de shíwù, xīwàng dàjiā duōzhǒng, duō chī, zhèyàngyìlái jiù néng jiějué miànfěn búgòu de wèntí le.”",
+     "py": "Tā zài gōnggào lǐ xiězhe: “Mǎlíngshǔ shì gè róngyì zhòng, érqiě yíngyǎng fēngfù de shíwù, xīwàng dàjiā duōzhǒng, duō chī, zhèyàngyìlái jiù néng jiějué miànfěn búgòu de wèntí le.”",
      "en": "In his proclamation he wrote: \"The potato is an easy-to-grow and highly nutritious food. I hope everyone will grow more and eat more; this way the problem of insufficient flour can be solved.\""
     },
     {
      "zh": "沒想到公告以後，「市場反應」卻讓國王很意外，幾乎沒有人願意在家種馬鈴薯，大部分的民眾不願改變以麵包作為主食的習慣。",
-     "py": "Méixiǎngdào gōnggào yǐhòu, “Shìchǎng fǎnyìng” què ràng guówáng hěn yìwài, jīhū méiyǒu rén yuànyì zàijiā zhǒng mǎlíngshǔ, dàbùfèn de mínzhòng bù yuàn gǎibiàn yǐ miànbāo zuòwéi zhǔshí de xíguàn.",
+     "py": "Méixiǎngdào gōnggào yǐhòu, “Shìchǎng fǎnyìng” què ràng guówáng hěn yìwài, jīhū méiyǒu rén yuànyì zàijiā zhòng mǎlíngshǔ, dàbùfèn de mínzhòng bú yuàn gǎibiàn yǐ miànbāo zuòwéi zhǔshí de xíguàn.",
      "en": "Unexpectedly, after the proclamation, the \"market response\" surprised the king: almost no one was willing to grow potatoes at home, and most people were unwilling to change their habit of eating bread as the staple."
     },
     {
@@ -1926,7 +1927,7 @@
     },
     {
      "zh": "還準備了一塊很大的田專門種馬鈴薯，派了幾名軍人在那兒看著。",
-     "py": "Hái zhǔnbèi le yíkuài hěndà de tián zhuānmén zhǒng mǎlíngshǔ, pài le jǐmíng jūnrén zài nàér kànzhù.",
+     "py": "Hái zhǔnbèi le yíkuài hěndà de tián zhuānmén zhòng mǎlíngshǔ, pài le jǐmíng jūnrén zài nàr kànzhe.",
      "en": "He also prepared a large field just for growing potatoes and sent several soldiers to guard it."
     },
     {
@@ -1941,7 +1942,7 @@
     },
     {
      "zh": "大家都想吃吃看，很多人到國王的田裡偷馬鈴薯回家種，倒是在那兒的軍人都睜一隻眼閉一隻眼地讓民眾偷。",
-     "py": "Dàjiā dōu xiǎng chī chī kàn, hěnduō rén dào guówáng de tiánlǐ tōu mǎlíngshǔ huíjiā zhǒng, dào shì zài nàér de jūnrén dōu zhēngyìzhīyǎn bìyìzhīyǎn dì ràng mínzhòng tōu.",
+     "py": "Dàjiā dōu xiǎng chī chī kàn, hěnduō rén dào guówáng de tiánlǐ tōu mǎlíngshǔ huíjiā zhòng, dào shì zài nàr de jūnrén dōu zhēngyìzhīyǎn bìyìzhīyǎn de ràng mínzhòng tōu.",
      "en": "Everyone wanted to try them, and many people went to the king's field to steal potatoes to plant at home, while the soldiers there turned a blind eye and let them steal."
     },
     {
@@ -1981,7 +1982,7 @@
   "48": {
    "stem": {
     "zh": "第二段中的「市場反應」指的是什麼？",
-    "py": "Dìèrduàn zhōng de “Shìchǎng fǎnyìng” zhǐ de shì shénme?",
+    "py": "Dì'èrduàn zhōng de “Shìchǎng fǎnyìng” zhǐ de shì shénme?",
     "en": "What does the \"market response\" in the second paragraph refer to?"
    },
    "options": {
@@ -1997,7 +1998,7 @@
     },
     "C": {
      "zh": "農民認為馬鈴薯不容易種",
-     "py": "Nóngmín rènwéi mǎlíngshǔ bù róngyì zhǒng",
+     "py": "Nóngmín rènwéi mǎlíngshǔ bù róngyì zhòng",
      "en": "Farmers thought potatoes were hard to grow."
     },
     "D": {

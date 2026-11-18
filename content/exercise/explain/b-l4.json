@@ -2,6 +2,7 @@
  "testId": "b-l4",
  "segments": 425,
  "englishComplete": true,
+ "indonesianComplete": false,
  "questions": {
   "1": {
    "options": {
@@ -70,12 +71,12 @@
    "transcript": [
     {
      "zh": "男：你看，大明這次表演得可真生動。",
-     "py": "Nán: Nǐ kàn, Dàmíng zhècì biǎoyǎn dé kě zhēn shēngdòng.",
+     "py": "Nán: Nǐ kàn, Dàmíng zhècì biǎoyǎn de kě zhēn shēngdòng.",
      "en": "Man: Look, Daming's performance this time was really vivid."
     },
     {
      "zh": "女：對啊，這次是他最拿手的角色，他當然發揮得很好。",
-     "py": "Nǚ: Duì a, zhècì shì tā zuì náshǒu de juésè, tā dāngrán fāhuī dé hěn hǎo.",
+     "py": "Nǚ: Duì a, zhècì shì tā zuì náshǒu de juésè, tā dāngrán fāhuī de hěn hǎo.",
      "en": "Woman: Yes, this is the role he's best at, so of course he did a great job."
     },
     {
@@ -217,7 +218,7 @@
     },
     "B": {
      "zh": "請這位先生還她傘",
-     "py": "Qǐng zhèwèi xiānsheng hái tā sǎn",
+     "py": "Qǐng zhèwèi xiānsheng huán tā sǎn",
      "en": "(B) Ask the man to return her umbrella"
     },
     "C": {
@@ -258,12 +259,12 @@
     },
     "B": {
      "zh": "她一開始以為只是小事一件",
-     "py": "Tā yī kāishǐ yǐwéi zhǐshì xiǎoshì yíjiàn",
+     "py": "Tā yì kāishǐ yǐwéi zhǐshì xiǎoshì yíjiàn",
      "en": "(B) At first she thought it was just a small thing."
     },
     "C": {
      "zh": "她一開始就把東西準備好了",
-     "py": "Tā yī kāishǐ jiù bǎ Dōngxi zhǔnbèi hǎo le",
+     "py": "Tā yì kāishǐ jiù bǎ Dōngxi zhǔnbèi hǎo le",
      "en": "(C) She had everything ready from the start."
     },
     "D": {
@@ -294,12 +295,12 @@
    "options": {
     "A": {
      "zh": "活動的時間太長",
-     "py": "Huódòng de shíjiān tài zhǎng",
+     "py": "Huódòng de shíjiān tài cháng",
      "en": "(A) The event was too long."
     },
     "B": {
      "zh": "活動安排得不好",
-     "py": "Huódòng ānpái dé bùhǎo",
+     "py": "Huódòng ānpái de bùhǎo",
      "en": "(B) The event was badly organized."
     },
     "C": {
@@ -316,7 +317,7 @@
    "transcript": [
     {
      "zh": "男：妳看起來不太開心，是不是不喜歡今天的活動？",
-     "py": "Nán: Nǐ kànqǐlái bù tài kāixīn, shìbúshì bù xǐhuān jīntiān de huódòng?",
+     "py": "Nán: Nǐ kànqǐlái bú tài kāixīn, shìbúshì bù xǐhuān jīntiān de huódòng?",
      "en": "Man: You don't look very happy. Didn't you like today's event?"
     },
     {
@@ -326,7 +327,7 @@
     },
     {
      "zh": "男：這位小姐為什麼不太開心？",
-     "py": "Nán: Zhèwèi Xiǎojiě wèishénme bù tài kāixīn?",
+     "py": "Nán: Zhèwèi Xiǎojiě wèishénme bú tài kāixīn?",
      "en": "Man: Why isn't the woman very happy?"
     }
    ]
@@ -357,7 +358,7 @@
    "transcript": [
     {
      "zh": "男：我的皮膚最近變得很乾，還紅紅的，我得去看醫生。",
-     "py": "Nán: Wǒ de pífū zuìjìn biàndé hěn gàn, hái hónghóngde, wǒ dé qù kàn yīshēng.",
+     "py": "Nán: Wǒ de pífū zuìjìn biàn de hěn gān, hái hónghóngde, wǒ děi qù kàn yīshēng.",
      "en": "Man: My skin has become very dry and red lately. I need to see a doctor."
     },
     {
@@ -449,7 +450,7 @@
     },
     {
      "zh": "女：好啊！可是我現在不在家，你要過來時，先打電話給我，免得白跑一趟。",
-     "py": "Nǚ: Hǎo a! Kěshì wǒ xiànzài bù zàijiā, nǐ yào guòlái shí, xiān dǎdiànhuà gěi wǒ, miǎnde báipǎoyítàng.",
+     "py": "Nǚ: Hǎo a! Kěshì wǒ xiànzài bú zàijiā, nǐ yào guòlái shí, xiān dǎdiànhuà gěi wǒ, miǎnde báipǎoyítàng.",
      "en": "Woman: Sure! But I'm not home right now. Call me before you come so you don't make a wasted trip."
     },
     {
@@ -524,7 +525,7 @@
     },
     "C": {
      "zh": "她覺得坐火車也不太安全",
-     "py": "Tā juéde zuòhuǒchē yě bù tài ānquán",
+     "py": "Tā juéde zuòhuǒchē yě bú tài ānquán",
      "en": "(C) She thinks the train isn't very safe either."
     },
     "D": {
@@ -565,7 +566,7 @@
     },
     "B": {
      "zh": "這項計畫案裡要有她公司的人",
-     "py": "Zhèxiàng jìhuààn lǐ yào yǒu tā gōngsī de rén",
+     "py": "Zhèxiàng jìhuà'àn lǐ yào yǒu tā gōngsī de rén",
      "en": "(B) Her company's people must be part of this project."
     },
     "C": {
@@ -633,7 +634,7 @@
     },
     {
      "zh": "男：偶爾吃一次，換換口味嘛！",
-     "py": "Nán: Ǒuěr chī yícì, huànhuàn kǒuwèi ma!",
+     "py": "Nán: Ǒu'ěr chī yícì, huànhuàn kǒuwèi ma!",
      "en": "Man: Just once in a while, for a change!"
     },
     {
@@ -759,7 +760,7 @@
     },
     "B": {
      "zh": "學得越久，寫得越好",
-     "py": "Xué dé yuè jiǔ, xiě dé yuèhǎo",
+     "py": "Xué de yuè jiǔ, xiě de yuèhǎo",
      "en": "(B) The longer you study, the better you write."
     },
     "C": {
@@ -791,7 +792,7 @@
     },
     {
      "zh": "女：書法就像畫畫一樣，字寫得好不好，要看空間的安排，比如空白的比例、顏",
-     "py": "Nǚ: Shūfǎ jiù xiàng huàhuà yíyàng, zì xiě dé hǎobùhǎo, yào kàn kōngjiān de ānpái, bǐrú kòngbái de bǐlì, Yán",
+     "py": "Nǚ: Shūfǎ jiù xiàng huàhuà yíyàng, zì xiě de hǎobùhǎo, yào kàn kōngjiān de ānpái, bǐrú kòngbái de bǐlì, Yán",
      "en": "Woman: Calligraphy is like painting: how good the writing is depends on the arrangement of space—for example, the proportion of blank space and how dark or light"
     },
     {
@@ -801,12 +802,12 @@
     },
     {
      "zh": "男：這幾個部分我認為我做得很好啊！你看我寫的這些。",
-     "py": "Nán: Zhè jǐ ge bùfèn wǒ rènwéi wǒ zuò dé hěn hǎo a! Nǐ kàn wǒ xiě de zhèxiē.",
+     "py": "Nán: Zhè jǐ ge bùfèn wǒ rènwéi wǒ zuò de hěn hǎo a! Nǐ kàn wǒ xiě de zhèxiē.",
      "en": "Man: I think I've done those parts very well! Look at what I've written."
     },
     {
      "zh": "女：哇，沒想到你寫得這麼棒，幾乎跟大師寫的一模一樣。",
-     "py": "Nǚ: Wa, méixiǎngdào nǐ xiě dé zhème bàng, jīhū gēn dàshī xiě de yìmúyíyàng.",
+     "py": "Nǚ: Wa, méixiǎngdào nǐ xiě de zhème bàng, jīhū gēn dàshī xiě de yìmúyíyàng.",
      "en": "Woman: Wow, I didn't expect yours to be so good—it's almost identical to the masters'."
     },
     {
@@ -930,7 +931,7 @@
     },
     {
      "zh": "男：沒想到有這種好處啊，那讓你刷卡，我不就損失了嗎！下次我可要帶張信用",
-     "py": "Nán: Méixiǎngdào yǒu zhèzhǒng hǎochù a, nà ràng nǐ shuākǎ, wǒ bù jiù sǔnshī le ma! Xiàcì wǒ kě yào dài Zhāng xìnyòng",
+     "py": "Nán: Méixiǎngdào yǒu zhèzhǒng hǎochù a, nà ràng nǐ shuākǎ, wǒ bú jiù sǔnshī le ma! Xiàcì wǒ kě yào dài Zhāng xìnyòng",
      "en": "Man: I didn't know there were benefits like that—so letting you pay with your card means I lose out! Next time I'll bring a credit"
     },
     {
@@ -1014,12 +1015,12 @@
     },
     {
      "zh": "男：你不是都隨身帶著一瓶水的嗎？",
-     "py": "Nán: Nǐ búshì dōu suíshēndài zhù yìpíng shuǐ de ma?",
+     "py": "Nán: Nǐ búshì dōu suíshēndài zhe yìpíng shuǐ de ma?",
      "en": "Man: Don't you always carry a bottle of water with you?"
     },
     {
      "zh": "女：我不是跟你說我今天不帶，要你在車上放個水壺嗎？因為那個瓶子關不緊，",
-     "py": "Nǚ: Wǒ búshì gēn nǐ shuō wǒ jīntiān bù dài, yào nǐ zài chēshàng fàng gè shuǐhú ma? Yīnwèi nà ge píngzi guānbùjǐn,",
+     "py": "Nǚ: Wǒ búshì gēn nǐ shuō wǒ jīntiān bú dài, yào nǐ zài chēshàng fàng gè shuǐhú ma? Yīnwèi nà ge píngzi guānbùjǐn,",
      "en": "Woman: Didn't I tell you I wouldn't bring one today and asked you to put a water bottle in the car? Because that bottle doesn't close properly,"
     },
     {
@@ -1039,7 +1040,7 @@
     },
     {
      "zh": "女：你竟然想用果汁配藥吃？吃藥配水，才是最正確的方式。等一會兒看到便利",
-     "py": "Nǚ: Nǐ jìngrán xiǎng yòng guǒzhī pèiyào chī? Chīyào pèishuǐ, cái shì zuì zhèngquè de fāngshì. Děng yíhuìer kàndào biànlì",
+     "py": "Nǚ: Nǐ jìngrán xiǎng yòng guǒzhī pèiyào chī? Chīyào pèishuǐ, cái shì zuì zhèngquè de fāngshì. Děng yíhuìr kàndào biànlì",
      "en": "Woman: You actually want to give him medicine with juice? Medicine should be taken with water—that's the right way. When we see a convenience"
     },
     {
@@ -1138,7 +1139,7 @@
     },
     {
      "zh": "我實在不贊同。",
-     "py": "Wǒ shízài bù zàntóng.",
+     "py": "Wǒ shízài bú zàntóng.",
      "en": "money."
     },
     {
@@ -1148,7 +1149,7 @@
     },
     {
      "zh": "男：現在他長大了，不該老是伸手要錢，他得學習靠自己的勞力賺錢，才能在社",
-     "py": "Nán: Xiànzài tā Zhǎngdà le, bùgāi lǎo shì shēnshǒu yàoqián, tā dé xuéxí kào zìjǐ de láolì zhuànqián, cáinéng zài shè",
+     "py": "Nán: Xiànzài tā Zhǎngdà le, bùgāi lǎo shì shēnshǒu yàoqián, tā děi xuéxí kào zìjǐ de láolì zhuànqián, cáinéng zài shè",
      "en": "Man: Now that he's grown up, he shouldn't keep holding out his hand for money. He has to learn to earn money by his own work to survive in"
     },
     {
@@ -1257,7 +1258,7 @@
     },
     {
      "zh": "男：好啊！不過，你不是不愛寫文章的嗎？怎麼突然要開始寫日記？",
-     "py": "Nán: Hǎo a! Búguò, nǐ búshì bù ài xiěwénzhāng de ma? Zěnme tūrán yào kāishǐ xiěrìjì?",
+     "py": "Nán: Hǎo a! Búguò, nǐ búshì bú ài xiěwénzhāng de ma? Zěnme tūrán yào kāishǐ xiěrìjì?",
      "en": "Man: Sure! But don't you dislike writing? How come you suddenly want to start a diary?"
     },
     {
@@ -1267,7 +1268,7 @@
     },
     {
      "zh": "他個性好不好、專業知識夠不夠，也會看他一般文章寫得怎麼樣。",
-     "py": "Tā gèxìng hǎobùhǎo, zhuānyèzhīshí gòubúgòu, yě huì kàn tā yìbān wénzhāng xiě dé zěnmeyàng.",
+     "py": "Tā gèxìng hǎobùhǎo, zhuānyèzhīshí gòubúgòu, yě huì kàn tā yìbān wénzhāng xiě de zěnmeyàng.",
      "en": "whether they have a good personality and enough professional knowledge, and also how well they write in general?"
     },
     {
@@ -1282,7 +1283,7 @@
     },
     {
      "zh": "能表現自己的方法。不愛也得強迫自己寫。",
-     "py": "Néng biǎoxiàn zìjǐ de fāngfǎ. Bù ài yě dé qiǎngpò zìjǐ xiě.",
+     "py": "Néng biǎoxiàn zìjǐ de fāngfǎ. Bú ài yě děi qiǎngpò zìjǐ xiě.",
      "en": "way for me to show myself. Even if I don't like it, I have to make myself write."
     },
     {
@@ -1328,7 +1329,7 @@
     },
     "B": {
      "zh": "可以清楚地表現個性特色",
-     "py": "Kěyǐ qīngchǔ dì biǎoxiàn gèxìng tèsè",
+     "py": "Kěyǐ qīngchǔ de biǎoxiàn gèxìng tèsè",
      "en": "(B) It can clearly show your personality."
     },
     "C": {
@@ -1354,7 +1355,7 @@
    "options": {
     "A": {
      "zh": "不適合用來找工作",
-     "py": "Bù shìhé yònglái zhǎo gōngzuò",
+     "py": "Bú shìhé yònglái zhǎo gōngzuò",
      "en": "(A) It isn't suitable for finding a job."
     },
     "B": {
@@ -1385,7 +1386,7 @@
    "options": {
     "A": {
      "zh": "補助金額偏低",
-     "py": "Bǔzhù jīné piāndī",
+     "py": "Bǔzhù jīn'é piāndī",
      "en": "(A) The subsidy amount is on the low side."
     },
     "B": {
@@ -1452,7 +1453,7 @@
     },
     {
      "zh": "男：六千塊的補助金額恐怕還是不夠。尤其是中年人口，大多數都還要照顧年老",
-     "py": "Nán: Liùqiānkuài de bǔzhù jīné kǒngpà háishì búgòu. Yóuqí shì zhōngnián rénkǒu, dàduōshù dōu háiyào zhàogù niánlǎo",
+     "py": "Nán: Liùqiānkuài de bǔzhù jīn'é kǒngpà háishì búgòu. Yóuqí shì zhōngnián rénkǒu, dàduōshù dōu háiyào zhàogù niánlǎo",
      "en": "Man: I'm afraid a subsidy of six thousand still isn't enough. Especially for middle-aged people—most still have to look after elderly"
     },
     {
@@ -1472,7 +1473,7 @@
     },
     {
      "zh": "男：你知道得可真多，我現在才曉得你這麼關心社會大眾的相關問題呢。",
-     "py": "Nán: Nǐ zhīdào dé kě zhēnduō, wǒ xiànzài cái xiǎode nǐ zhème guānxīn shèhuì dàzhòng de xiāngguān wèntí ne.",
+     "py": "Nán: Nǐ zhīdào de kě zhēnduō, wǒ xiànzài cái xiǎode nǐ zhème guānxīn shèhuì dàzhòng de xiāngguān wèntí ne.",
      "en": "Man: You really know a lot. Only now do I realize how much you care about public issues."
     },
     {
@@ -1570,7 +1571,7 @@
     },
     "C": {
      "zh": "數現金比較有意思",
-     "py": "Shù xiànjīn bǐjiào yǒuyìsi",
+     "py": "Shǔ xiànjīn bǐjiào yǒuyìsi",
      "en": "(C) Counting cash is more fun."
     },
     "D": {
@@ -1587,17 +1588,17 @@
     },
     {
      "zh": "這次出國旅行，我決定不帶信用卡出門了。因為刷卡實在是太方便了，讓我",
-     "py": "Zhècì chūguó lǚxíng, wǒ juédìng bù dài xìnyòngkǎ chūmén le. Yīnwèi shuākǎ shízài shì tài fāngbiàn le, ràng wǒ",
+     "py": "Zhècì chūguó lǚxíng, wǒ juédìng bú dài xìnyòngkǎ chūmén le. Yīnwèi shuākǎ shízài shì tài fāngbiàn le, ràng wǒ",
      "en": "On this trip abroad, I've decided not to take my credit card. Because paying by card is so convenient, I"
     },
     {
      "zh": "花錢的時候一點兒感覺都沒有，不像用現金時還得一張一張數。以前每次出國都",
-     "py": "Huāqián de shíhòu yìdiǎnér gǎnjué dōu méiyǒu, bù xiàng yòng xiànjīn shí hái dé yìzhāng yìzhāng shù. Yǐqián měicì chūguó dōu",
+     "py": "Huāqián de shíhòu yìdiǎnr gǎnjué dōu méiyǒu, bú xiàng yòng xiànjīn shí hái děi yìzhāng yìzhāng shǔ. Yǐqián měicì chūguó dōu",
      "en": "don't feel anything when I spend money—unlike cash, where you have to count it note by note. Every time I went abroad before, I'd"
     },
     {
      "zh": "會亂買一大堆不實用的東西，一回到家馬上就後悔了，結果既不能退也不能換，",
-     "py": "Huì luàn mǎi yídàduī bù shíyòng de Dōngxi, yī huídào jiā mǎshàng jiù hòuhuǐ le, jiéguǒ jì bùnéng tuì yě bùnéng Huàn,",
+     "py": "Huì luàn mǎi yídàduī bù shíyòng de Dōngxi, yì huídào jiā mǎshàng jiù hòuhuǐ le, jiéguǒ jì bùnéng tuì yě bùnéng Huàn,",
      "en": "buy a whole pile of impractical things and regret it as soon as I got home, and they could neither be returned nor exchanged—"
     },
     {
@@ -1609,7 +1610,7 @@
    "transcript": [
     {
      "zh": "這個人為什麼決定不帶信用卡出國？",
-     "py": "Zhè ge rén wèishénme juédìng bù dài xìnyòngkǎ chūguó?",
+     "py": "Zhè ge rén wèishénme juédìng bú dài xìnyòngkǎ chūguó?",
      "en": "Why did this person decide not to take a credit card abroad?"
     }
    ]
@@ -1618,17 +1619,17 @@
    "options": {
     "A": {
      "zh": "鄉下人比較不客氣",
-     "py": "Xiāngxiàrén bǐjiào bù kèqì",
+     "py": "Xiāngxiàrén bǐjiào bú kèqì",
      "en": "(A) Country people are less polite."
     },
     "B": {
      "zh": "城市裡的人都不客氣",
-     "py": "Chéngshì lǐ de rén dōu bù kèqì",
+     "py": "Chéngshì lǐ de rén dōu bú kèqì",
      "en": "(B) City people are all impolite."
     },
     "C": {
      "zh": "現在的人都很不客氣",
-     "py": "Xiànzài de rén dōu hěn bù kèqì",
+     "py": "Xiànzài de rén dōu hěn bú kèqì",
      "en": "(C) People nowadays are all very impolite."
     },
     "D": {
@@ -1645,7 +1646,7 @@
     },
     {
      "zh": "我是一個鄉下人，去大城市讀書以前，有人告訴我城市裡的人都很不客氣，",
-     "py": "Wǒ shì yí ge xiāngxiàrén, qù Dàchéngshì dúshū yǐqián, yǒurén gàosù wǒ Chéngshì lǐ de rén dōu hěn bù kèqì,",
+     "py": "Wǒ shì yí ge xiāngxiàrén, qù Dàchéngshì dúshū yǐqián, yǒurén gàosù wǒ Chéngshì lǐ de rén dōu hěn bú kèqì,",
      "en": "I'm from the countryside. Before I went to study in the big city, people told me city people are all very impolite and"
     },
     {
@@ -1655,7 +1656,7 @@
     },
     {
      "zh": "也有不客氣的人，城市裡也有客氣的人。",
-     "py": "Yě yǒu bù kèqì de rén, Chéngshì lǐ yě yǒu kèqì de rén.",
+     "py": "Yě yǒu bú kèqì de rén, Chéngshì lǐ yě yǒu kèqì de rén.",
      "en": "has impolite people too, and the city has polite people too."
     }
    ],
@@ -1698,7 +1699,7 @@
     },
     {
      "zh": "中山足球場離這兒不遠，你不必坐計程車。我告訴你啊，你往前一直走，到",
-     "py": "Zhōngshān zúqiúchǎng lí zhèér bùyuǎn, nǐ búbì zuò jìchéngchē. Wǒ gàosù nǐ a, nǐ wǎngqián yìzhí zǒu, dào",
+     "py": "Zhōngshān zúqiúchǎng lí zhèr bùyuǎn, nǐ búbì zuò jìchéngchē. Wǒ gàosù nǐ a, nǐ wǎngqián yìzhí zǒu, dào",
      "en": "Zhongshan Soccer Stadium isn't far from here—you don't need a taxi. Listen, go straight ahead, turn left at"
     },
     {
@@ -1761,7 +1762,7 @@
     },
     {
      "zh": "這幾天的天氣大概都是這樣子，下星期空氣就會好一點兒了。",
-     "py": "Zhè jǐtiān de tiānqì dàgài dōu shì zhè yàngzi, xiàxīngqī kōngqì jiù huì hǎo yìdiǎnér le.",
+     "py": "Zhè jǐtiān de tiānqì dàgài dōu shì zhè yàngzi, xiàxīngqī kōngqì jiù huì hǎo yìdiǎnr le.",
      "en": "The weather will probably be like this for the next few days; the air will be a bit better next week."
     }
    ],
@@ -1804,7 +1805,7 @@
     },
     {
      "zh": "小高本來是一個很隨便的人，但自從跟女朋友交往以後，變得有點兒不一樣。",
-     "py": "Xiǎogāo běnlái shì yí ge hěn suíbiàn de rén, dàn zìcóng gēn nǚpéngyǒu jiāowǎng yǐhòu, biàndé yǒudiǎnér bù yíyàng.",
+     "py": "Xiǎogāo běnlái shì yí ge hěn suíbiàn de rén, dàn zìcóng gēn nǚpéngyǒu jiāowǎng yǐhòu, biàn de yǒudiǎnr bù yíyàng.",
      "en": "Xiao Gao used to be very casual, but since he started dating his girlfriend he's become a bit different."
     },
     {
@@ -1903,12 +1904,12 @@
     },
     {
      "zh": "不願意去讀大學，認為不僅浪費時間又要花很多錢，還說在大學裡學到的東西對",
-     "py": "Bù yuànyì qù dú dàxué, rènwéi bùjǐn làngfèishíjiān yòu yào huā hěnduō qián, hái shuō zài dàxué lǐ xuédào de Dōngxi duì",
+     "py": "Bú yuànyì qù dú dàxué, rènwéi bùjǐn làngfèishíjiān yòu yào huā hěnduō qián, hái shuō zài dàxué lǐ xuédào de Dōngxi duì",
      "en": "refused to go to university, thinking it was not only a waste of time but also very expensive, and saying what you learn at university is"
     },
     {
      "zh": "工作沒有用。但我那時候覺得，要是我也不讀大學，不就跟別人一樣了嗎？以後",
-     "py": "Gōngzuò méiyǒu yòng. Dàn wǒ nà shíhòu juéde, yàoshì wǒ yě bùdú dàxué, bù jiù gēn biérén yíyàng le ma? Yǐhòu",
+     "py": "Gōngzuò méiyǒu yòng. Dàn wǒ nà shíhòu juéde, yàoshì wǒ yě bùdú dàxué, bú jiù gēn biérén yíyàng le ma? Yǐhòu",
      "en": "useless for work. But I thought then: if I didn't go to university either, wouldn't I be just like everyone else? Would"
     },
     {
@@ -1918,14 +1919,14 @@
     },
     {
      "zh": "反而因為自己找工作時的資料不如我，開始後悔當年怎麼不跟我做一樣的選擇。",
-     "py": "Fǎnér yīnwèi zìjǐ zhǎo gōngzuò shí de zīliào bùrú wǒ, kāishǐ hòuhuǐ dāngnián zěnme bù gēn wǒ zuò yíyàng de xuǎnzé.",
+     "py": "Fǎn'ér yīnwèi zìjǐ zhǎo gōngzuò shí de zīliào bùrú wǒ, kāishǐ hòuhuǐ dāngnián zěnme bù gēn wǒ zuò yíyàng de xuǎnzé.",
      "en": "now find their qualifications weaker than mine when job hunting and regret not making the same choice as me."
     }
    ],
    "transcript": [
     {
      "zh": "說話的人一開始提到什麼事？",
-     "py": "Shuōhuà de rén yī kāishǐ tídào shénme shì?",
+     "py": "Shuōhuà de rén yì kāishǐ tídào shénme shì?",
      "en": "What does the speaker mention first?"
     }
    ]
@@ -1949,7 +1950,7 @@
     },
     "D": {
      "zh": "大學學位變得越來越沒有用",
-     "py": "Dàxué xuéwèi biàndé yuèláiyuè méiyǒu yòng",
+     "py": "Dàxué xuéwèi biàn de yuèláiyuè méiyǒu yòng",
      "en": "(D) University degrees are becoming less and less useful."
     }
    },
@@ -1997,7 +1998,7 @@
     },
     {
      "zh": "得這不僅沒道理，也太片面了。",
-     "py": "Dé zhè bùjǐn méidàolǐ, yě tài piànmiàn le.",
+     "py": "De zhè bùjǐn méidàolǐ, yě tài piànmiàn le.",
      "en": "this is not only unreasonable but also too one-sided."
     },
     {
@@ -2200,7 +2201,7 @@
     },
     {
      "zh": "室，不用擔心孩子搶著洗澡的問題。一樓有一個大房間，很適合給家裡的老人住。",
-     "py": "Shì, búyòng dānxīn háizi qiǎngzhù xǐzǎo de wèntí. Yìlóu yǒu yí ge dà fángjiān, hěn shìhé gěi jiālǐ de lǎorén zhù.",
+     "py": "Shì, búyòng dānxīn háizi qiǎngzhe xǐzǎo de wèntí. Yìlóu yǒu yí ge dà fángjiān, hěn shìhé gěi jiālǐ de lǎorén zhù.",
      "en": "bathroom, so no worries about the kids fighting over the bath. There's a big room on the first floor, ideal for elderly family members."
     },
     {
@@ -2294,7 +2295,7 @@
     },
     {
      "zh": "的事不被他人關心的心理壓力下，使得人們在享受假日時，還是不斷地拿起手機",
-     "py": "De shì bù bèi tārén guānxīn de xīnlǐyālì xià, shǐde rénmen zài xiǎngshòu jiàrì shí, háishì búduàn dì náqǐ shǒujī",
+     "py": "De shì bú bèi tārén guānxīn de xīnlǐyālì xià, shǐde rénmen zài xiǎngshòu jiàrì shí, háishì búduàn de náqǐ shǒujī",
      "en": "do won't get others' attention, people keep picking up their phones even while enjoying their holiday,"
     },
     {
@@ -2315,7 +2316,7 @@
    "options": {
     "A": {
      "zh": "人們不願休假的心態",
-     "py": "Rénmen bù yuàn xiūjià de xīntài",
+     "py": "Rénmen bú yuàn xiūjià de xīntài",
      "en": "(A) People's unwillingness to take time off"
     },
     "B": {
@@ -2346,7 +2347,7 @@
    "options": {
     "A": {
      "zh": "他抱持著樂觀的態度",
-     "py": "Tā bàochí zhù lèguān de tàidù",
+     "py": "Tā bàochí zhe lèguān de tàidù",
      "en": "(A) He has an optimistic attitude."
     },
     "B": {
@@ -2368,7 +2369,7 @@
    "intro": [
     {
      "zh": "有時候我們會幻想心愛的人死去。科學家表示，這是當我們在乎、關愛某些人時",
-     "py": "Yǒushíhòu wǒmen huì huànxiǎng xīnài de rén sǐqù. Kēxuéjiā biǎoshì, zhè shì dāng wǒmen zàihū, guānài mǒuxiē rén shí",
+     "py": "Yǒushíhòu wǒmen huì huànxiǎng xīn'ài de rén sǐqù. Kēxuéjiā biǎoshì, zhè shì dāng wǒmen zàihū, guān'ài mǒuxiē rén shí",
      "en": "Sometimes we fantasize about a loved one dying. Scientists say this is the ambivalence we inevitably experience when we care about and love"
     },
     {
@@ -2403,12 +2404,12 @@
     },
     {
      "zh": "時希望日子過得順心如意。這些對所愛之人的感情，讓人們產生正面與負面情緒",
-     "py": "Shí xīwàng rìzi guò dé shùnxīnrúyì. Zhèxiē duì suǒài zhī rén de gǎnqíng, ràng rénmen chǎnshēng zhèngmiàn yǔ fùmiàn qíngxù",
+     "py": "Shí xīwàng rìzi guò de shùnxīnrúyì. Zhèxiē duì suǒ'ài zhī rén de gǎnqíng, ràng rénmen chǎnshēng zhèngmiàn yǔ fùmiàn qíngxù",
      "en": "time hope life goes smoothly. These feelings toward the people we love create an ambivalence in which positive and negative emotions"
     },
     {
      "zh": "夾雜在一起的矛盾心理，例如，有時候我們會幻想心愛的人死去。對你越重要的",
-     "py": "Jiāzá zài yìqǐ de máodùn xīnlǐ, lìrú, yǒushíhòu wǒmen huì huànxiǎng xīnài de rén sǐqù. Duì nǐ yuè zhòngyào de",
+     "py": "Jiāzá zài yìqǐ de máodùn xīnlǐ, lìrú, yǒushíhòu wǒmen huì huànxiǎng xīn'ài de rén sǐqù. Duì nǐ yuè zhòngyào de",
      "en": "are mixed together—for example, sometimes we fantasize about a loved one dying. The more important someone is to you,"
     },
     {
@@ -2418,7 +2419,7 @@
     },
     {
      "zh": "因為「愛一個人免不了會有挫折」，與所愛的人一起生活有時並不是一件容",
-     "py": "Yīnwèi “Ài yí ge rén miǎnbùliǎo huì yǒu cuòzhé”, yǔ suǒài de rén yìqǐ shēnghuó yǒushí bìng búshì yíjiàn róng",
+     "py": "Yīnwèi “Ài yí ge rén miǎnbùliǎo huì yǒu cuòzhé”, yǔ suǒ'ài de rén yìqǐ shēnghuó yǒushí bìng búshì yíjiàn róng",
      "en": "Because \"loving someone inevitably brings frustration,\" living with the people you love isn't always"
     },
     {
@@ -2428,7 +2429,7 @@
     },
     {
      "zh": "所以，人們才會對心愛的人產生這種令人不安、甚至近於黑暗的小小願望。",
-     "py": "Suǒyǐ, rénmen cái huì duì xīnài de rén chǎnshēng zhèzhǒng lìngrénbùān, shènzhì jìnyú hēiàn de xiǎoxiǎo yuànwàng.",
+     "py": "Suǒyǐ, rénmen cái huì duì xīn'ài de rén chǎnshēng zhèzhǒng lìngrénbù'ān, shènzhì jìnyú hēi'àn de xiǎoxiǎo yuànwàng.",
      "en": "That's why people have these unsettling, even almost dark, little wishes about their loved ones."
     },
     {
@@ -2438,7 +2439,7 @@
     },
     {
      "zh": "你所愛的人也正在幻想你被一輛快速開過的公車壓得扁扁的。",
-     "py": "Nǐ suǒài de rén yě zhèngzài huànxiǎng nǐ bèi yíliàng kuàisù kāiguò de gōngchē yā dé biǎnbiǎnde.",
+     "py": "Nǐ suǒ'ài de rén yě zhèngzài huànxiǎng nǐ bèi yíliàng kuàisù kāiguò de gōngchē yā de biǎnbiǎnde.",
      "en": "the person you love is right now fantasizing about you being flattened by a speeding bus."
     }
    ],
@@ -2454,12 +2455,12 @@
    "options": {
     "A": {
      "zh": "因為所愛之人不再愛自己",
-     "py": "Yīnwèi suǒài zhī rén búzài ài zìjǐ",
+     "py": "Yīnwèi suǒ'ài zhī rén búzài ài zìjǐ",
      "en": "(A) Because the person they love no longer loves them"
     },
     "B": {
      "zh": "因為有時相處的不太順利",
-     "py": "Yīnwèi yǒushí xiāngchǔ de bù tài shùnlì",
+     "py": "Yīnwèi yǒushí xiāngchǔ de bú tài shùnlì",
      "en": "(B) Because sometimes they don't get along smoothly"
     },
     "C": {

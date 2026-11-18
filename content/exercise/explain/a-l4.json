@@ -2,6 +2,7 @@
  "testId": "a-l4",
  "segments": 235,
  "englishComplete": true,
+ "indonesianComplete": false,
  "questions": {
   "1": {
    "transcript": [
@@ -322,7 +323,7 @@
     },
     {
      "zh": "女：你往前走，然後在第二個路口左轉，你就會看到動物園了。",
-     "py": "Nǚ: Nǐ wǎngqiánzǒu, ránhòu zài dìèr ge lùkǒu Zuǒzhuǎn, nǐ jiù huì kàndào dòngwùyuán le.",
+     "py": "Nǚ: Nǐ wǎngqiánzǒu, ránhòu zài dì'èr ge lùkǒu Zuǒzhuǎn, nǐ jiù huì kàndào dòngwùyuán le.",
      "en": "Woman: Go straight, then turn left at the second intersection, and you'll see the zoo."
     }
    ]
@@ -525,7 +526,7 @@
     },
     {
      "zh": "男：這件衣服太小了，還有大一點兒的嗎?",
-     "py": "Nán: Zhèjiàn yīfú tàixiǎo le, háiyǒu dà yìdiǎnér de ma?",
+     "py": "Nán: Zhèjiàn yīfú tàixiǎo le, háiyǒu dà yìdiǎnr de ma?",
      "en": "Man: This is too small. Do you have a bigger one?"
     },
     {
@@ -569,7 +570,7 @@
     },
     {
      "zh": "不練習。",
-     "py": "Bù liànxí.",
+     "py": "Bú liànxí.",
      "en": "don't practice."
     },
     {
@@ -677,7 +678,7 @@
    "transcript": [
     {
      "zh": "男：月華，你把數學作業的答案寫在黑板上吧！",
-     "py": "Nán: Yuèhuá, nǐ bǎ shùxué zuòyè de dáàn xiě zài hēibǎn shàng ba!",
+     "py": "Nán: Yuèhuá, nǐ bǎ shùxué zuòyè de dá'àn xiě zài hēibǎn shàng ba!",
      "en": "Man: Yuehua, write the answers to the math homework on the blackboard!"
     },
     {
@@ -769,7 +770,7 @@
     },
     {
      "zh": "女：對面鄰居種了很多花，所以有時候會有花香。",
-     "py": "Nǚ: Duìmiàn línjū zhǒng le hěnduō huā, suǒyǐ yǒushíhòu huì yǒu Huāxiāng.",
+     "py": "Nǚ: Duìmiàn línjū zhòng le hěnduō huā, suǒyǐ yǒushíhòu huì yǒu Huāxiāng.",
      "en": "Woman: The neighbors across the street planted lots of flowers, so sometimes there's a floral scent."
     },
     {
@@ -808,7 +809,7 @@
     },
     {
      "zh": "女：我剛剛吃東西吃太快了，等一會兒就好了。",
-     "py": "Nǚ: Wǒ gānggāng chī Dōngxi chī tài kuài le, děng yíhuìer jiù hǎo le.",
+     "py": "Nǚ: Wǒ gānggāng chī Dōngxi chī tài kuài le, děng yíhuìr jiù hǎo le.",
      "en": "Woman: I just ate too fast; I'll be fine in a moment."
     },
     {
@@ -832,7 +833,7 @@
     },
     {
      "zh": "男：我也是數學不好。我們要不要在暑假的時候，找老師教我們？",
-     "py": "Nán: Wǒ yě shì shùxué bùhǎo. Wǒmen yào búyào zài shǔjià de shíhòu, zhǎo lǎoshī jiào wǒmen?",
+     "py": "Nán: Wǒ yě shì shùxué bùhǎo. Wǒmen yào búyào zài shǔjià de shíhòu, zhǎo lǎoshī jiāo wǒmen?",
      "en": "Man: My math is bad too. Should we find a teacher to tutor us during summer vacation?"
     },
     {
@@ -919,7 +920,7 @@
     },
     "C": {
      "zh": "這位先生要大家往樓梯那兒走",
-     "py": "Zhèwèi xiānsheng yào dàjiā wǎng lóutī nàér zǒu",
+     "py": "Zhèwèi xiānsheng yào dàjiā wǎng lóutī nàr zǒu",
      "en": "This gentleman wants everyone to head toward the stairs."
     },
     "D": {
@@ -1048,7 +1049,7 @@
     },
     {
      "zh": "女：好棒的經理，下次我就去你那兒吃飯！",
-     "py": "Nǚ: Hǎo bàng de jīnglǐ, xiàcì wǒ jiù qù nǐ nàér chīfàn!",
+     "py": "Nǚ: Hǎo bàng de jīnglǐ, xiàcì wǒ jiù qù nǐ nàr chīfàn!",
      "en": "Woman: What a great manager. Next time I'll go eat at your place!"
     },
     {
@@ -1094,7 +1095,7 @@
     },
     {
      "zh": "男：妳一放假就出國玩，妳不了解一份好工作有多重要。",
-     "py": "Nán: Nǐ yī fàngjià jiù chūguó wán, nǐ bù liǎojiě yífèn hǎo gōngzuò yǒu duō zhòngyào.",
+     "py": "Nán: Nǐ yí fàngjià jiù chūguó wán, nǐ bù liǎojiě yífèn hǎo gōngzuò yǒu duō zhòngyào.",
      "en": "Man: You go abroad to have fun as soon as you're on vacation; you don't understand how important a good job is."
     },
     {
@@ -1113,7 +1114,7 @@
    "options": {
     "A": {
      "zh": "他喜歡和明美聊天兒",
-     "py": "Tā xǐhuān hé míngměi Liáotiānér",
+     "py": "Tā xǐhuān hé míngměi Liáotiānr",
      "en": "He likes chatting with Mingmei."
     },
     "B": {
@@ -1135,7 +1136,7 @@
    "transcript": [
     {
      "zh": "男：謝謝你，今天的舞會，我玩得很愉快。",
-     "py": "Nán: Xièxiè nǐ, jīntiān de wǔhuì, wǒ wán dé hěn yúkuài.",
+     "py": "Nán: Xièxiè nǐ, jīntiān de wǔhuì, wǒ wán de hěn yúkuài.",
      "en": "Man: Thank you. I had a great time at today's party."
     },
     {
@@ -1145,7 +1146,7 @@
     },
     {
      "zh": "男：喔，妳說明美啊！雖然我們以前沒見過面，可是我們聊得很開心。",
-     "py": "Nán: Ō, nǐ shuōmíng měi a! Suīrán wǒmen yǐqián méi jiànguòmiàn, kěshì wǒmen liáodé hěn kāixīn.",
+     "py": "Nán: Ō, nǐ shuōmíng měi a! Suīrán wǒmen yǐqián méi jiànguòmiàn, kěshì wǒmen liáo de hěn kāixīn.",
      "en": "Man: Oh, you mean Mingmei! Although we'd never met before, we had a great chat."
     },
     {
@@ -1169,12 +1170,12 @@
     },
     "B": {
      "zh": "這位先生現在不太高興",
-     "py": "Zhèwèi xiānsheng xiànzài bù Tàigāoxìng",
+     "py": "Zhèwèi xiānsheng xiànzài bú Tàigāoxìng",
      "en": "This gentleman is not very happy right now."
     },
     "C": {
      "zh": "這位先生著急地找這位小姐",
-     "py": "Zhèwèi xiānsheng zhùjí dì zhǎo zhèwèi Xiǎojiě",
+     "py": "Zhèwèi xiānsheng zháojí de zhǎo zhèwèi Xiǎojiě",
      "en": "This gentleman is anxiously looking for this young lady."
     },
     "D": {
@@ -1225,7 +1226,7 @@
     },
     "C": {
      "zh": "他需要有人教他",
-     "py": "Tā xūyào yǒurén jiào tā",
+     "py": "Tā xūyào yǒurén jiāo tā",
      "en": "He needs someone to teach him."
     },
     "D": {
@@ -1237,7 +1238,7 @@
    "transcript": [
     {
      "zh": "男：經理也太不客氣了吧！就我們三個人，要做完全部的事。",
-     "py": "Nán: Jīnglǐ yě tài bù kèqì le ba! Jiù wǒmen sān ge rén, yào zuò wánquán bù de shì.",
+     "py": "Nán: Jīnglǐ yě tài bú kèqì le ba! Jiù wǒmen sān ge rén, yào zuò wánquán bù de shì.",
      "en": "Man: The manager is too much! Only the three of us, and we have to finish everything."
     },
     {
@@ -1247,7 +1248,7 @@
     },
     {
      "zh": "男：教你們可以，可是我們幾個人怎麼可能處理完全部的事啦！",
-     "py": "Nán: Jiào nǐmen kěyǐ, kěshì wǒmen jǐ ge rén zěnme kěnéng chǔlǐ wánquán bù de shì la!",
+     "py": "Nán: Jiāo nǐmen kěyǐ, kěshì wǒmen jǐ ge rén zěnme kěnéng chǔlǐ wánquán bù de shì la!",
      "en": "Man: I can teach you, but how could just a few of us possibly handle everything!"
     },
     {
@@ -1281,14 +1282,14 @@
     },
     "D": {
      "zh": "一運動就覺得累",
-     "py": "Yī yùndòng jiù juéde lèi",
+     "py": "Yí yùndòng jiù juéde lèi",
      "en": "Feels tired as soon as he exercises"
     }
    },
    "transcript": [
     {
      "zh": "男：我最近都睡得不好，剛剛去看病。",
-     "py": "Nán: Wǒ zuìjìn dōu shuì dé bùhǎo, gānggāng qù kànbìng.",
+     "py": "Nán: Wǒ zuìjìn dōu shuì de bùhǎo, gānggāng qù kànbìng.",
      "en": "Man: I haven't been sleeping well lately; I just went to see a doctor."
     },
     {
@@ -1298,7 +1299,7 @@
     },
     {
      "zh": "男：他叫我要常常出去走走、多運動，就可以睡得比較好。",
-     "py": "Nán: Tā jiào wǒ yào chángcháng chūqù zǒuzǒu, duō yùndòng, jiù kěyǐ shuì dé bǐjiào hǎo.",
+     "py": "Nán: Tā jiào wǒ yào chángcháng chūqù zǒuzǒu, duō yùndòng, jiù kěyǐ shuì de bǐjiào hǎo.",
      "en": "Man: He told me to go out for walks often and exercise more, and then I'd sleep better."
     },
     {
@@ -1344,7 +1345,7 @@
     },
     {
      "zh": "女：警察先生，我沒有喝酒，我只是拿著酒，沒有喝。",
-     "py": "Nǚ: Jǐngchá xiānsheng, wǒ méiyǒu hējiǔ, wǒ zhǐshì názhù jiǔ, méiyǒu hē.",
+     "py": "Nǚ: Jǐngchá xiānsheng, wǒ méiyǒu hējiǔ, wǒ zhǐshì názhe jiǔ, méiyǒu hē.",
      "en": "Woman: Officer, I didn't drink; I'm just holding the alcohol, not drinking it."
     },
     {
@@ -1354,7 +1355,7 @@
     },
     {
      "zh": "女：我一隻手拿著酒、一隻手開車，沒有手可以放到頭上了。",
-     "py": "Nǚ: Wǒ yìzhī shǒu názhù jiǔ, yìzhī shǒu kāichē, méiyǒu shǒu kěyǐ fàngdào tóushàng le.",
+     "py": "Nǚ: Wǒ yìzhī shǒu názhe jiǔ, yìzhī shǒu kāichē, méiyǒu shǒu kěyǐ fàngdào tóushàng le.",
      "en": "Woman: I'm holding the alcohol with one hand and driving with the other—I have no hands left to put on my head."
     },
     {
@@ -1400,7 +1401,7 @@
     },
     {
      "zh": "男：只要能夠了解自己的太太或是先生，日子就會過得很幸福。",
-     "py": "Nán: Zhǐyào nénggòu liǎojiě zìjǐ de tàitai huòshì xiānsheng, rìzi jiù huì guò dé hěn xìngfú.",
+     "py": "Nán: Zhǐyào nénggòu liǎojiě zìjǐ de tàitai huòshì xiānsheng, rìzi jiù huì guò de hěn xìngfú.",
      "en": "Man: As long as you understand your wife or husband, life will be very happy."
     },
     {

@@ -2,6 +2,7 @@
  "testId": "a-l1",
  "segments": 201,
  "englishComplete": true,
+ "indonesianComplete": false,
  "questions": {
   "1": {
    "transcript": [
@@ -262,7 +263,7 @@
     },
     {
      "zh": "(C) 他們正在唱歌兒",
-     "py": "(C) tāmen zhèngzài chànggē ér",
+     "py": "(C) tāmen zhèngzài chànggēr",
      "en": "(C) They are singing."
     }
    ]
@@ -324,7 +325,7 @@
     },
     {
      "zh": "(A) 一本書",
-     "py": "(A) yī běnshū",
+     "py": "(A) yì běnshū",
      "en": "(A) A book"
     },
     {
@@ -511,7 +512,7 @@
    "transcript": [
     {
      "zh": "請問，筆在哪兒？",
-     "py": "Qǐngwèn, bǐ zài nǎér?",
+     "py": "Qǐngwèn, bǐ zài nǎr?",
      "en": "Excuse me, where is the pen?"
     },
     {
@@ -635,12 +636,12 @@
    "transcript": [
     {
      "zh": "男：你覺得桌子放在哪兒比較好呢？",
-     "py": "Nán: Nǐ juéde zhuōzi fàngzài nǎér bǐjiào hǎo ne?",
+     "py": "Nán: Nǐ juéde zhuōzi fàngzài nǎr bǐjiào hǎo ne?",
      "en": "Man: Where do you think the desk should go?"
     },
     {
      "zh": "女：放在窗戶前面吧！那兒比較亮。",
-     "py": "Nǚ: Fàngzài chuānghù qiánmiàn ba! Nàér bǐjiào liàng.",
+     "py": "Nǚ: Fàngzài chuānghù qiánmiàn ba! Nàr bǐjiào liàng.",
      "en": "Woman: Put it in front of the window! It's brighter there."
     }
    ]
@@ -649,7 +650,7 @@
    "transcript": [
     {
      "zh": "男：這個週末，你想去哪兒玩？",
-     "py": "Nán: Zhè ge zhōumò, nǐ xiǎng qù nǎér wán?",
+     "py": "Nán: Zhè ge zhōumò, nǐ xiǎng qù nǎr wán?",
      "en": "Man: Where do you want to go this weekend?"
     },
     {
@@ -677,7 +678,7 @@
    "transcript": [
     {
      "zh": "男：王小美長得怎麼樣？",
-     "py": "Nán: Wángxiǎoměi zhǎng dé zěnmeyàng?",
+     "py": "Nán: Wángxiǎoměi zhǎng de zěnmeyàng?",
      "en": "Man: What does Wang Xiaomei look like?"
     },
     {
@@ -724,7 +725,7 @@
     },
     {
      "zh": "女：我要去公園聽音樂會，一起來吧！",
-     "py": "Nǚ: Wǒ yào qù gōngyuán tīng Yīnyuèhuì, yī qǐlái ba!",
+     "py": "Nǚ: Wǒ yào qù gōngyuán tīng Yīnyuèhuì, yì qǐlái ba!",
      "en": "Woman: I'm going to a concert in the park—come along!"
     }
    ]
@@ -817,7 +818,7 @@
    "transcript": [
     {
      "zh": "男：這件褲子有大一點兒的嗎？",
-     "py": "Nán: Zhèjiàn kùzi yǒudà yìdiǎnér de ma?",
+     "py": "Nán: Zhèjiàn kùzi yǒudà yìdiǎnr de ma?",
      "en": "Man: Do you have these pants in a slightly bigger size?"
     },
     {
@@ -887,7 +888,7 @@
     },
     {
      "zh": "女：你好，這張紙上寫著現在學游泳，比較便宜。",
-     "py": "Nǚ: Nǐhǎo, zhè zhāng zhǐ shàng xiězhù xiànzài xué yóuyǒng, bǐjiào piányi.",
+     "py": "Nǚ: Nǐhǎo, zhè zhāng zhǐ shàng xiězhe xiànzài xué yóuyǒng, bǐjiào piányi.",
      "en": "Woman: Hello, this paper says learning to swim is cheaper right now."
     },
     {
@@ -914,7 +915,7 @@
    "image": [
     {
      "zh": "星期一 星期二 星期三 星期四 星期五",
-     "py": "Xīngqīyī xīngqīèr xīngqīsān xīngqīsì xīngqīwǔ",
+     "py": "Xīngqīyī xīngqī'èr xīngqīsān xīngqīsì xīngqīwǔ",
      "en": "Monday, Tuesday, Wednesday, Thursday, Friday"
     }
    ]
@@ -986,7 +987,7 @@
     },
     "B": {
      "zh": "課本不在書桌上",
-     "py": "Kèběn bù zài shūzhuōshàng",
+     "py": "Kèběn bú zài shūzhuōshàng",
      "en": "The textbook isn't on the desk."
     },
     "C": {

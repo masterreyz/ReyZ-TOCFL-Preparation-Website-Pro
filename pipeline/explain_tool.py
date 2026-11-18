@@ -3,7 +3,10 @@
   python explain_tool.py sheet <testId>    -> prints numbered Chinese segments to translate
   python explain_tool.py merge <testId>    -> reads pipeline/explain_src/<testId>.json (id -> English,
                                               plus "img:<n>": [[zh, en], ...] for text printed inside pictures)
+                                              and pipeline/explain_src_id/<testId>.json (id -> Indonesian,
+                                              "img:<n>:<k>" -> Indonesian for the k-th picture line),
                                               and writes content/exercise/explain/<testId>.json
+  python explain_tool.py idsheet <testId>  -> prints id, Chinese and English for every segment (for the Indonesian pass)
 Every segment must be translated; merge fails if any is missing.
 """
 import json
@@ -99,11 +102,17 @@ def merge(tid):
     ids, order = segments(test)
     missing = [i for i in map(str, range(1, len(order) + 1)) if not src.get(i, "").strip()]
     complete = not missing and src.get("_images_done") is True
+    idf = ROOT / "pipeline" / "explain_src_id" / f"{tid}.json"
+    ind = json.loads(idf.read_text(encoding="utf-8")) if idf.exists() else {}
+    img_keys = [f"{k}:{j}" for k, v in src.items() if k.startswith("img:") for j in range(len(v or []))]
+    id_missing = [i for i in list(map(str, range(1, len(order) + 1))) + img_keys if not ind.get(i, "").strip()]
 
     def seg(zh):
         d = dict(zh=zh, py=to_pinyin(zh))
         if src.get(ids[zh], "").strip():
             d["en"] = src[ids[zh]].strip()
+        if ind.get(ids[zh], "").strip():
+            d["idn"] = ind[ids[zh]].strip()
         return d
     out = {}
     for n, field, key, zh in structure(test):
@@ -116,12 +125,25 @@ def merge(tid):
             e.setdefault(field, []).append(seg(zh))
     for k, v in src.items():
         if k.startswith("img:") and v:
-            out.setdefault(k[4:], {})["image"] = [dict(zh=zh, py=to_pinyin(zh), en=en) for zh, en in v]
+            out.setdefault(k[4:], {})["image"] = [dict(zh=zh, py=to_pinyin(zh), en=en, **({"idn": ind[f"{k}:{j}"].strip()} if ind.get(f"{k}:{j}", "").strip() else {}))
+                                                  for j, (zh, en) in enumerate(v)]
     d = ROOT / "content" / "exercise" / "explain"
     d.mkdir(exist_ok=True)
-    (d / f"{tid}.json").write_text(json.dumps(dict(testId=tid, segments=len(order), englishComplete=complete, questions=out), ensure_ascii=False, indent=1), encoding="utf-8")
-    print(tid, "segments", len(order), "untranslated", len(missing), "complete", complete, "questions", len(out), "image texts", sum(1 for k in src if k.startswith("img:")))
+    (d / f"{tid}.json").write_text(json.dumps(dict(testId=tid, segments=len(order), englishComplete=complete, indonesianComplete=complete and not id_missing, questions=out), ensure_ascii=False, indent=1), encoding="utf-8")
+    print(tid, "segments", len(order), "untranslated", len(missing), "complete", complete, "indonesian missing", len(id_missing), "questions", len(out), "image texts", sum(1 for k in src if k.startswith("img:")))
+
+
+def idsheet(tid):
+    test = load(tid)
+    ids, order = segments(test)
+    src = json.loads((ROOT / "pipeline" / "explain_src" / f"{tid}.json").read_text(encoding="utf-8"))
+    for i, zh in enumerate(order, 1):
+        print(f"{i}\t{zh}\t{src.get(str(i), '')}")
+    for k, v in src.items():
+        if k.startswith("img:"):
+            for j, (zh, en) in enumerate(v):
+                print(f"{k}:{j}\t{zh}\t{en}")
 
 
 if __name__ == "__main__":
-    {"sheet": sheet, "merge": merge}[sys.argv[1]](sys.argv[2])
+    {"sheet": sheet, "merge": merge, "idsheet": idsheet}[sys.argv[1]](sys.argv[2])

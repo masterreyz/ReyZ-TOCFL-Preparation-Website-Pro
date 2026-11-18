@@ -2,6 +2,7 @@
  "testId": "b-r4",
  "segments": 319,
  "englishComplete": true,
+ "indonesianComplete": false,
  "questions": {
   "1": {
    "passage": [
@@ -12,7 +13,7 @@
     },
     {
      "zh": "我叫王齊福，剛 1 大學畢業，今年二十二歲。",
-     "py": "Wǒ jiào Wángqífú, gāng 1 dàxuébìyè, jīnnián èrshíèrsuì.",
+     "py": "Wǒ jiào Wángqífú, gāng 1 dàxuébìyè, jīnnián èrshí'èrsuì.",
      "en": "My name is Wang Qifu. I ___1___ graduated from university and I'm twenty-two this year."
     },
     {
@@ -32,7 +33,7 @@
     },
     {
      "zh": "現在我已經會說一點兒德語，雖然都是一些生活中最 5 的簡單句子，但是我會繼續努力的。",
-     "py": "Xiànzài wǒ yǐjīng huì shuō yìdiǎnér Déyǔ, suīrán dōu shì yìxiē shēnghuó zhōng zuì 5 de jiǎndān jùzi, dànshì wǒhuì jìxù nǔlì de.",
+     "py": "Xiànzài wǒ yǐjīng huì shuō yìdiǎnr Déyǔ, suīrán dōu shì yìxiē shēnghuó zhōng zuì 5 de jiǎndān jùzi, dànshì wǒhuì jìxù nǔlì de.",
      "en": "Now I can already speak a little German. Although they're all the most ___5___ simple sentences from daily life, I will keep working hard."
     }
    ],
@@ -97,12 +98,12 @@
     },
     "C": {
      "zh": "得",
-     "py": "Dé",
+     "py": "Děi",
      "en": "(C) 得 (complement particle)"
     },
     "D": {
      "zh": "著",
-     "py": "Zhù",
+     "py": "Zhe",
      "en": "(D) 著 (continuous particle)"
     }
    }
@@ -345,12 +346,12 @@
     },
     {
      "zh": "日前該計畫主持人在接受記者訪問時，憂心地表示，這些資源不足的學校普遍面臨師資 14 的問題，找不著老師，教學品質就無法提高。",
-     "py": "Rìqián gāi jìhuà zhǔchírén zài jiēshòu jìzhě fǎngwèn shí, yōuxīn dì biǎoshì, zhèxiē zīyuán bùzú de xuéxiào pǔbiàn miànlín shīzī 14 de wèntí, zhǎo búzhù lǎoshī, jiàoxué pǐnzhì jiù wúfǎ tígāo.",
+     "py": "Rìqián gāi jìhuà zhǔchírén zài jiēshòu jìzhě fǎngwèn shí, yōuxīn de biǎoshì, zhèxiē zīyuán bùzú de xuéxiào pǔbiàn miànlín shīzī 14 de wèntí, zhǎo bùzháo lǎoshī, jiàoxué pǐnzhì jiù wúfǎ tígāo.",
      "en": "Recently, when interviewed by a reporter, the program's director said with concern that these under-resourced schools commonly face a ___14___ of teachers—if you can't find teachers, the quality of teaching can't be raised."
     },
     {
      "zh": "儘管教育部已經推動很多 15 ，吸引老師前去，可是， 16 提高老師的薪水是不夠的，還要想辦法的讓老師們願意長期 17 著，從事教學工作才行。",
-     "py": "Jǐnguǎn jiàoyùbù yǐjīng tuīdòng hěnduō 15, xīyǐn lǎoshī qiánqù, kěshì, 16 tígāo lǎoshī de xīnshuǐ shì búgòu de, háiyào xiǎng bànfǎ de ràng lǎoshī men yuànyì chángqī 17 zhù, cóngshì jiàoxué gōngzuò cái xíng.",
+     "py": "Jǐnguǎn jiàoyùbù yǐjīng tuīdòng hěnduō 15, xīyǐn lǎoshī qiánqù, kěshì, 16 tígāo lǎoshī de xīnshuǐ shì búgòu de, háiyào xiǎng bànfǎ de ràng lǎoshī men yuànyì chángqī 17 zhe, cóngshì jiàoxué gōngzuò cái xíng.",
      "en": "Although the Ministry of Education has already launched many ___15___ to attract teachers there, ___16___ raising teachers' salaries is not enough; ways must also be found to make teachers willing to ___17___ there long-term and work in teaching."
     }
    ],
@@ -444,7 +445,7 @@
     },
     "D": {
      "zh": "方案",
-     "py": "Fāngàn",
+     "py": "Fāng'àn",
      "en": "(D) schemes; programs"
     }
    }
@@ -506,12 +507,12 @@
     },
     {
      "zh": "「平價旅館」的概念在歐、美、日等國已形成風潮，這些由老舊建築物改建的平價旅館，雖然少了健身房、游泳池等硬體設備，但房價便宜，而且在安全、乾淨等指標上一點也不差。",
-     "py": "“Píngjià lǚguǎn” de gàiniàn zài Ōu, Měi, rì děng guó yǐ xíngchéng fēngcháo, zhèxiē yóu lǎo jiù jiànzhùwù gǎijiàn de píngjià lǚguǎn, suīrán shǎo le jiànshēnfáng, yóuyǒngchí děng yìngtǐ shèbèi, dàn fángjià piányi, érqiě zài ānquán, gānjìng děng zhǐbiāo shàng yìdiǎn yě bù chà.",
+     "py": "“Píngjià lǚguǎn” de gàiniàn zài Ōu, Měi, rì děng guó yǐ xíngchéng fēngcháo, zhèxiē yóu lǎo jiù jiànzhùwù gǎijiàn de píngjià lǚguǎn, suīrán shǎo le jiànshēnfáng, yóuyǒngchí děng yìngtǐ shèbèi, dàn fángjià piányi, érqiě zài ānquán, gānjìng děng zhǐbiāo shàng yìdiǎn yě bú chà.",
      "en": "The concept of the \"budget hotel\" has already become a trend in Europe, America, Japan and other countries. These budget hotels, converted from old buildings, lack hardware such as gyms and swimming pools, but their rooms are cheap and they're not at all worse on indicators like safety and cleanliness."
     },
     {
      "zh": "因而吸引經常至外地出差而入住的人，也有許多的觀光客希望省下住宿費用來做其他消費，種種因素讓許多平價旅館成為旅客的首選。",
-     "py": "Yīnér xīyǐn jīngcháng zhì wàidì chūchāi ér rùzhù de rén, yě yǒu xǔduō de Guānguāngkè xīwàng shěng xià zhùsùfèi yònglái zuò qítā xiāofèi, zhǒngzhǒng yīnsù ràng xǔduō píngjià lǚguǎn chéngwéi lǚkè de shǒuxuǎn.",
+     "py": "Yīn'ér xīyǐn jīngcháng zhì wàidì chūchāi ér rùzhù de rén, yě yǒu xǔduō de Guānguāngkè xīwàng shěng xià zhùsùfèi yònglái zuò qítā xiāofèi, zhǒngzhǒng yīnsù ràng xǔduō píngjià lǚguǎn chéngwéi lǚkè de shǒuxuǎn.",
      "en": "So they attract people who often travel elsewhere on business, and many tourists also want to save on accommodation to spend on other things. All these factors make many budget hotels travelers' first choice."
     }
    ],
@@ -557,7 +558,7 @@
     },
     {
      "zh": "我先生下班後會一起做家事，但他不是一開始就這樣的。",
-     "py": "Wǒ xiānsheng xiàbān hòu huì yìqǐ zuò jiāshì, dàn tā búshì yī kāishǐ jiù zhèyàng de.",
+     "py": "Wǒ xiānsheng xiàbān hòu huì yìqǐ zuò jiāshì, dàn tā búshì yì kāishǐ jiù zhèyàng de.",
      "en": "My husband does housework with me after work, but he wasn't like this from the start."
     },
     {
@@ -572,7 +573,7 @@
     },
     {
      "zh": "每次只要他做了家事，我就說「你做得真好！」",
-     "py": "Měicì zhǐyào tā zuò le jiāshì, wǒ jiù shuō “Nǐ zuò dé zhēnhǎo!”",
+     "py": "Měicì zhǐyào tā zuò le jiāshì, wǒ jiù shuō “Nǐ zuò de zhēnhǎo!”",
      "en": "Every time he did some housework, I'd say, \"You did a great job!\""
     },
     {
@@ -701,12 +702,12 @@
     },
     {
      "zh": "只要在美味法國麵包店消費滿150元，就可獲得一個點數，集滿30個點數，可以到美味法國麵包總店換會員卡一張，持會員卡來店消費可享購物八折、不限次數的優惠。",
-     "py": "Zhǐyào zài Měiwèi Fǎguó miànbāodiàn xiāofèi mǎn 150 yuán, jiù kě huòdé yí ge diǎnshù, jímǎn 30 gè diǎnshù, kěyǐ dào Měiwèi Fǎguó miànbāo zǒngdiàn Huàn huìyuánkǎ yìzhāng, chí huìyuánkǎ lái diàn xiāofèi kěxiǎng gòuwù bāzhé, bù xiàn cìshù de yōuhuì.",
+     "py": "Zhǐyào zài Měiwèi Fǎguó miànbāodiàn xiāofèi mǎn 150 yuán, jiù kě huòdé yí ge diǎnshù, jímǎn 30 gè diǎnshù, kěyǐ dào Měiwèi Fǎguó miànbāo zǒngdiàn Huàn huìyuánkǎ yìzhāng, chí huìyuánkǎ lái diàn xiāofèi kěxiǎng gòuwù bāzhé, bú xiàn cìshù de yōuhuì.",
      "en": "Spend NT$150 or more at Delicious French Bakery and you get one point. Collect 30 points and you can exchange them for a membership card at the bakery's main store. With the membership card you get 20% off your purchases, with no limit on how many times."
     },
     {
      "zh": "★會員卡不限本人使用，使用期限為一年。",
-     "py": "★ huìyuánkǎ bù xiàn běnrén shǐyòng, shǐyòng qīxiàn wèi yìnián.",
+     "py": "★ huìyuánkǎ bú xiàn běnrén shǐyòng, shǐyòng qīxiàn wéi yìnián.",
      "en": "★The membership card isn't restricted to the cardholder; it is valid for one year."
     },
     {
@@ -771,7 +772,7 @@
     },
     "C": {
      "zh": "使用以前都得先開大火十分鐘",
-     "py": "Shǐyòng yǐqián dōu dé xiān kāi dàhuǒ shífēnzhōng",
+     "py": "Shǐyòng yǐqián dōu děi xiān kāi dàhuǒ shífēnzhōng",
      "en": "(C) Before every use you must first turn it on high heat for ten minutes."
     },
     "D": {
@@ -798,12 +799,12 @@
     },
     {
      "zh": "※第一次使用本產品以前及每次使用後，都應做好清理工作。基本清潔方式為：",
-     "py": "※ dìyícì shǐyòng běn chǎnpǐn yǐqián jí měicì shǐyòng hòu, dōu yīng zuòhǎo qīnglǐ gōngzuò. Jīběn qīngjié fāngshì wèi:",
+     "py": "※ dìyícì shǐyòng běn chǎnpǐn yǐqián jí měicì shǐyòng hòu, dōu yīng zuòhǎo qīnglǐ gōngzuò. Jīběn qīngjié fāngshì wéi:",
      "en": "※Before using this product for the first time and after every use, clean it properly. Basic cleaning method:"
     },
     {
      "zh": "1. 把溫水和清潔劑混在一起，比例為3：1，用沾濕的海綿擦在機器上。",
-     "py": "1. Bǎ wēnshuǐ hé qīngjiéjì hùn zài yìqǐ, bǐlì wèi 3: 1, yòng zhānshī de hǎimián cā zài jīqì shàng.",
+     "py": "1. Bǎ wēnshuǐ hé qīngjiéjì hùn zài yìqǐ, bǐlì wéi 3: 1, yòng zhānshī de hǎimián cā zài jīqì shàng.",
      "en": "1. Mix warm water and detergent in a 3:1 ratio and wipe the machine with a damp sponge."
     },
     {
@@ -895,12 +896,12 @@
     },
     {
      "zh": "永豐信用卡、詮能小客車，一同解決您的麻煩事！我們提供舒適專車，讓您出國能開心地到達機場；回國後安全地返家，不必再擔心愛車停放在機場的安全問題。",
-     "py": "Yǒngfēng xìnyòngkǎ, quánnéng xiǎokèchē, yìtóng jiějué nín de máfánshì! Wǒmen tígōng shūshì zhuānchē, ràng nín chūguó néng kāixīn dì dàodá jīchǎng; Huíguó hòu ānquán dì fǎnjiā, búbì zài dānxīn àichē tíngfàng zài jīchǎng de ānquán wèntí.",
+     "py": "Yǒngfēng xìnyòngkǎ, quánnéng xiǎokèchē, yìtóng jiějué nín de máfánshì! Wǒmen tígōng shūshì zhuānchē, ràng nín chūguó néng kāixīn de dàodá jīchǎng; Huíguó hòu ānquán de fǎnjiā, búbì zài dānxīn àichē tíngfàng zài jīchǎng de ānquán wèntí.",
      "en": "Yongfeng Credit Card and Quanneng Cars solve your problems together! We provide a comfortable private car so you can arrive happily at the airport when going abroad and get home safely when you return—no more worrying about the safety of your car parked at the airport."
     },
     {
      "zh": "◎適用對象（須符合以下所有條件）：1. 持有永豐銀行信用卡 2. 信用卡本人刷卡支付當次機票全額",
-     "py": "◎ shìyòng duìxiàng (Xū fúhé yǐxià suǒyǒu tiáojiàn): 1. Chíyǒu Yǒngfēng yínháng xìnyòngkǎ 2. Xìnyòngkǎ běnrén shuākǎ zhīfù dāng cì jīpiào quáné",
+     "py": "◎ shìyòng duìxiàng (Xū fúhé yǐxià suǒyǒu tiáojiàn): 1. Chíyǒu Yǒngfēng yínháng xìnyòngkǎ 2. Xìnyòngkǎ běnrén shuākǎ zhīfù dàng cì jīpiào quán'é",
      "en": "◎Eligibility (all conditions must be met): 1. You hold a Yongfeng Bank credit card. 2. The cardholder paid the full fare for that flight with the card."
     },
     {
@@ -910,7 +911,7 @@
     },
     {
      "zh": "(2)於電話中確認您的班機時間、搭乘人數、行李數量等訊息，並提供信用卡的相關資料，以證明為本人申請。",
-     "py": "(2) yú diànhuà zhōng quèrèn nín de bānjī shíjiān, dāchéng rénshù, xínglǐ shùliàng děng xùnxī, bìng tígōng xìnyòngkǎ de xiāngguān zīliào, yǐ zhèngmíng wèi běnrén shēnqǐng.",
+     "py": "(2) yú diànhuà zhōng quèrèn nín de bānjī shíjiān, dāchéng rénshù, xínglǐ shùliàng děng xùnxī, bìng tígōng xìnyòngkǎ de xiāngguān zīliào, yǐ zhèngmíng wéi běnrén shēnqǐng.",
      "en": "(2) On the phone, confirm your flight time, number of passengers, amount of luggage, etc., and provide your credit card details to prove you are applying in person."
     },
     {
@@ -1031,7 +1032,7 @@
     },
     {
      "zh": "親愛的朋友：",
-     "py": "Qīnài de péngyǒu:",
+     "py": "Qīn'ài de péngyǒu:",
      "en": "Dear friends:"
     },
     {
@@ -1143,12 +1144,12 @@
     },
     {
      "zh": "心理學家卡斯楚也發表過很多關於早餐的論文，他認為吃較多的早餐能讓肥胖者午、晚餐吃得較少，最後達成瘦身的目的。",
-     "py": "Xīnlǐxuéjiā Kǎsī Chǔ yě fābiǎo guò hěnduō guānyú zǎocān de Lùnwén, tā rènwéi chī jiào duō de zǎocān néng ràng féipàngzhě wǔ, wǎncān chī dé jiào shǎo, zuìhòu dáchéng shòushēn de mùdì.",
+     "py": "Xīnlǐxuéjiā Kǎsī Chǔ yě fābiǎo guò hěnduō guānyú zǎocān de Lùnwén, tā rènwéi chī jiào duō de zǎocān néng ràng féipàngzhě wǔ, wǎncān chī de jiào shǎo, zuìhòu dáchéng shòushēn de mùdì.",
      "en": "Psychologist Castro has also published many papers on breakfast. He believes eating a bigger breakfast lets overweight people eat less at lunch and dinner, eventually helping them lose weight."
     },
     {
      "zh": "但康乃爾大學的研究指出，早上吃很多的人，並不會減少吃午飯的量，經過仔細的計算，一天下來吃進肚子裡的食物總量反而增加。",
-     "py": "Dàn Kāngnǎiěr dàxué de yánjiū zhǐchū, zǎoshàng chī hěnduō de rén, bìng búhuì jiǎnshǎo chī wǔfàn de liàng, jīngguò zǐxì de jìsuàn, yìtiān xiàlái chī jìn dǔzi lǐ de shíwù zǒngliàng fǎnér zēngjiā.",
+     "py": "Dàn Kāngnǎi'ěr dàxué de yánjiū zhǐchū, zǎoshàng chī hěnduō de rén, bìng búhuì jiǎnshǎo chī wǔfàn de liàng, jīngguò zǐxì de jìsuàn, yìtiān xiàlái chī jìn dǔzi lǐ de shíwù zǒngliàng fǎn'ér zēngjiā.",
      "en": "But research from Cornell University found that people who eat a lot in the morning don't eat less at lunch; after careful calculation, the total amount of food eaten over the day actually increased."
     },
     {
@@ -1165,7 +1166,7 @@
    "options": {
     "A": {
      "zh": "早餐讓他們的身體變得健康",
-     "py": "Zǎocān ràng tāmen de shēntǐ biàndé jiànkāng",
+     "py": "Zǎocān ràng tāmen de shēntǐ biàn de jiànkāng",
      "en": "(A) Breakfast makes their bodies healthy."
     },
     "B": {
@@ -1188,18 +1189,18 @@
   "32": {
    "stem": {
     "zh": "根據本文，康乃爾大學的研究指出什麼事？",
-    "py": "Gēnjù běnwén, Kāngnǎiěr dàxué de yánjiū zhǐchū shénme shì?",
+    "py": "Gēnjù běnwén, Kāngnǎi'ěr dàxué de yánjiū zhǐchū shénme shì?",
     "en": "According to the article, what did the Cornell University research show?"
    },
    "options": {
     "A": {
      "zh": "午餐、晚餐吃得少能有效瘦身",
-     "py": "Wǔcān, wǎncān chī dé shǎo néng yǒuxiào shòushēn",
+     "py": "Wǔcān, wǎncān chī de shǎo néng yǒuxiào shòushēn",
      "en": "(A) Eating less at lunch and dinner is an effective way to lose weight."
     },
     "B": {
      "zh": "吃大份早餐讓人午餐吃得更多",
-     "py": "Chī dàfèn zǎocān ràng rén wǔcān chī dé gèng duō",
+     "py": "Chī dàfèn zǎocān ràng rén wǔcān chī de gèng duō",
      "en": "(B) Eating a big breakfast makes people eat more at lunch."
     },
     "C": {
@@ -1209,7 +1210,7 @@
     },
     "D": {
      "zh": "早餐吃得多對減輕體重沒幫助",
-     "py": "Zǎocān chī dé duō duì jiǎnqīng tǐzhòng méi bāngzhù",
+     "py": "Zǎocān chī de duō duì jiǎnqīng tǐzhòng méi bāngzhù",
      "en": "(D) Eating a lot at breakfast doesn't help with losing weight."
     }
    }
@@ -1252,27 +1253,27 @@
     },
     {
      "zh": "由英國廣播公司所製作的紀錄片《地球脈動》最近推出第二季，第一集詳細拍下了一隻小海鬣蜥遭到蛇群追殺的過程。",
-     "py": "Yóu Yīngguóguǎngbōgōngsī suǒ zhìzuò de jìlùpiàn «Dìqiú màidòng» zuìjìn tuīchū dìèrjì, dìyìjí xiángxì pāixià le yìzhī Xiǎohǎi lièxī zāodào shéqún zhuīshā de guòchéng.",
+     "py": "Yóu Yīngguóguǎngbōgōngsī suǒ zhìzuò de jìlùpiàn «Dìqiú màidòng» zuìjìn tuīchū dì'èrjì, dìyìjí xiángxì pāixià le yìzhī Xiǎohǎi lièxī zāodào shéqún zhuīshā de guòchéng.",
      "en": "The documentary \"Planet Earth,\" produced by the BBC, recently launched its second season. The first episode filmed in detail a baby marine iguana being chased by a pack of snakes."
     },
     {
      "zh": "在費爾南迪納島上，海鬣蜥寶寶剛誕生不久就要面對恐怖的敵人──蛇。",
-     "py": "Zài Fèiěrnán Dínà dǎoshàng, hǎi lièxī Bǎobǎo gāng dànshēng bùjiǔ jiùyào miànduì kǒngbù de dírén ─ ─ shé.",
+     "py": "Zài Fèi'ěrnán Dínà dǎoshàng, hǎi lièxī Bǎobǎo gāng dànshēng bùjiǔ jiùyào miànduì kǒngbù de dírén ─ ─ shé.",
      "en": "On Fernandina Island, marine iguana babies face a terrifying enemy soon after hatching—snakes."
     },
     {
      "zh": "影片中可見，一隻小海鬣蜥的四周有好幾條蛇，由於這些蛇的眼睛看不太清楚，只感覺得到動靜，所以小海鬣蜥一開始完全靜止不動，以免讓蛇發現牠的存在。",
-     "py": "Yǐngpiàn zhōng kějiàn, yìzhī Xiǎohǎi lièxī de sìzhōu yǒu hǎojǐtiáo shé, yóuyú zhèxiē shé de yǎnjīng kàn bù tài qīngchǔ, zhǐ gǎnjuédédào dòngjìng, suǒyǐ Xiǎohǎi lièxī yī kāishǐ wánquán jìngzhǐbúdòng, yǐmiǎn ràng shé fāxiàn tā de cúnzài.",
+     "py": "Yǐngpiàn zhōng kějiàn, yìzhī Xiǎohǎi lièxī de sìzhōu yǒu hǎojǐtiáo shé, yóuyú zhèxiē shé de yǎnjīng kàn bú tài qīngchǔ, zhǐ gǎnjuédédào dòngjìng, suǒyǐ Xiǎohǎi lièxī yì kāishǐ wánquán jìngzhǐbúdòng, yǐmiǎn ràng shé fāxiàn tā de cúnzài.",
      "en": "In the film, several snakes surround a baby marine iguana. Because these snakes can't see very clearly and can only sense movement, the little iguana at first stays completely still so the snakes won't notice it."
     },
     {
      "zh": "沒想到，一條蛇突然從後方撲來，小海鬣蜥只好開始狂奔，但是這麼一跑又引來了更多的蛇。",
-     "py": "Méixiǎngdào, yìtiáo shé tūrán cóng hòufāng pū lái, Xiǎohǎi lièxī zhǐhǎo kāishǐ kuángbēn, dànshì zhème yī pǎo yòu yǐnlái le gèng duō de shé.",
+     "py": "Méixiǎngdào, yìtiáo shé tūrán cóng hòufāng pū lái, Xiǎohǎi lièxī zhǐhǎo kāishǐ kuángbēn, dànshì zhème yì pǎo yòu yǐnlái le gèng duō de shé.",
      "en": "Unexpectedly, a snake suddenly lunges from behind, and the little iguana has to start running wildly—but running attracts even more snakes."
     },
     {
      "zh": "途中牠一度被蛇群抓住，但牠幸運溜走，最後跳上一顆大石頭，痛快地把張大嘴巴、準備大吃一頓的蛇全都甩在腦後。",
-     "py": "Túzhōng tā yídù bèi shé qún zhuāzhù, dàn tā xìngyùn liūzǒu, zuìhòu tiào shàng yìkē dàshítou, tòngkuài dì bǎ Zhāngdàzuǐbā, zhǔnbèi dàchīyídùn de shé quándōu shuǎi zài nǎo hòu.",
+     "py": "Túzhōng tā yídù bèi shé qún zhuāzhù, dàn tā xìngyùn liūzǒu, zuìhòu tiào shàng yìkē dàshítou, tòngkuài de bǎ Zhāngdàzuǐbā, zhǔnbèi dàchīyídùn de shé quándōu shuǎi zài nǎo hòu.",
      "en": "On the way it is caught by the snakes at one point, but it luckily slips away and finally jumps onto a big rock, gleefully leaving behind all the snakes that had opened their mouths wide, ready for a big meal."
     },
     {
@@ -1396,12 +1397,12 @@
     },
     {
      "zh": "這類電影，總是被人們一拍再拍的原因其實很簡單，因為電影裡主角們生存困難的地方也是觀眾現實生活裡過不去的地方。",
-     "py": "Zhè lèi diànyǐng, zǒngshì bèi rénmen yī pāi zài pāi de yuányīn qíshí hěn jiǎndān, yīnwèi diànyǐng lǐ zhǔjué men shēngcún kùnnán de dìfāng yě shì guānzhòng xiànshíshēnghuó lǐ guòbúqù de dìfāng.",
+     "py": "Zhè lèi diànyǐng, zǒngshì bèi rénmen yì pāi zài pāi de yuányīn qíshí hěn jiǎndān, yīnwèi diànyǐng lǐ zhǔjué men shēngcún kùnnán de dìfāng yě shì guānzhòng xiànshíshēnghuó lǐ guòbúqù de dìfāng.",
      "en": "The reason this kind of film keeps being made again and again is actually simple: the difficulties the characters struggle to survive are also the obstacles the audience can't get past in real life."
     },
     {
      "zh": "當人們看見主角們遇到挫折、遭遇困難時，便不自主的把自己的挫折與主角們結合，將自己的情感帶入。",
-     "py": "Dāng rénmen kànjiàn zhǔjué men yùdào cuòzhé, zāoyù kùnnán shí, biàn bù zìzhǔ de bǎ zìjǐ de cuòzhé yǔ zhǔjué men jiéhé, jiāng zìjǐ de qínggǎn dàirù.",
+     "py": "Dāng rénmen kànjiàn zhǔjué men yùdào cuòzhé, zāoyù kùnnán shí, biàn bú zìzhǔ de bǎ zìjǐ de cuòzhé yǔ zhǔjué men jiéhé, jiāng zìjǐ de qínggǎn dàirù.",
      "en": "When people see the characters meet setbacks and difficulties, they can't help connecting their own setbacks with the characters' and bringing in their own feelings."
     },
     {
@@ -1451,7 +1452,7 @@
   "38": {
    "stem": {
     "zh": "作者認為這類的電影能一拍再拍的原因是什麼？",
-    "py": "Zuòzhě rènwéi zhèlèi de diànyǐng néng yī pāi zài pāi de yuányīn shì shénme?",
+    "py": "Zuòzhě rènwéi zhèlèi de diànyǐng néng yì pāi zài pāi de yuányīn shì shénme?",
     "en": "Why does the author think this kind of film can be made again and again?"
    },
    "options": {
@@ -1515,12 +1516,12 @@
     },
     {
      "zh": "一般人對養老中心的印象常是老人們無聊地在院內走來走去。",
-     "py": "Yìbān rén duì Yǎnglǎo zhōngxīn de yìnxiàng cháng shì lǎo rénmen wúliáo dì zài yuànnèi zǒuláizǒuqù.",
+     "py": "Yìbān rén duì Yǎnglǎo zhōngxīn de yìnxiàng cháng shì lǎo rénmen wúliáo de zài yuànnèi zǒuláizǒuqù.",
      "en": "Most people's impression of retirement homes is of old people wandering around bored."
     },
     {
      "zh": "但是現在卻有一間養老院不僅照顧老人，同時也是一間托兒所。",
-     "py": "Dànshì xiànzài què yǒu yìjiān Yǎnglǎoyuàn bùjǐn zhàogù lǎorén, tóngshí yě shì yìjiān tuōérsuǒ.",
+     "py": "Dànshì xiànzài què yǒu yìjiān Yǎnglǎoyuàn bùjǐn zhàogù lǎorén, tóngshí yě shì yìjiān tuō'érsuǒ.",
      "en": "But now there is a retirement home that not only cares for the elderly but is also a nursery school."
     },
     {
@@ -1550,7 +1551,7 @@
     },
     {
      "zh": "可是，正因為小孩沒有社會經驗，而老人家也不趕時間，所以他們可以花很長的時間，在一件對一般人來說，一點都不重要的事情上。",
-     "py": "Kěshì, zhèng yīnwèi xiǎohái méiyǒu shèhuì jīngyàn, ér lǎorénjiā yě bù gǎnshíjiān, suǒyǐ tāmen kěyǐ huā hěn zhǎng de shíjiān, zài yíjiàn duì yìbān rén láishuō, yìdiǎn dōu bù zhòngyào de shìqing shàng.",
+     "py": "Kěshì, zhèng yīnwèi xiǎohái méiyǒu shèhuì jīngyàn, ér lǎorénjiā yě bù gǎnshíjiān, suǒyǐ tāmen kěyǐ huā hěn cháng de shíjiān, zài yíjiàn duì yìbān rén láishuō, yìdiǎn dōu bú zhòngyào de shìqing shàng.",
      "en": "But precisely because children have no social experience and the elderly are in no hurry, they can spend a long time on something that, to ordinary people, isn't important at all."
     },
     {
@@ -1669,7 +1670,7 @@
     },
     {
      "zh": "華語是這七種語言中速度最慢的，接著是德語。",
-     "py": "Huáyǔ shì zhè qīzhǒng yǔyán zhōng sùdù zuìmàn de, jiēzhù shì Déyǔ.",
+     "py": "Huáyǔ shì zhè qīzhǒng yǔyán zhōng sùdù zuìmàn de, jiēzhe shì Déyǔ.",
      "en": "Chinese was the slowest of the seven languages, followed by German."
     },
     {
@@ -1684,7 +1685,7 @@
     },
     {
      "zh": "相對地，華語每個音節裡包含了較多資訊，可能是因為華語的音節還帶有四聲。",
-     "py": "Xiāngduì dì, Huáyǔ měi ge yīnjié lǐ bāohán le jiào duō zīxùn, kěnéng shìyīnwèi Huáyǔ de yīnjié hái dàiyǒu sìshēng.",
+     "py": "Xiāngduì de, Huáyǔ měi ge yīnjié lǐ bāohán le jiào duō zīxùn, kěnéng shìyīnwèi Huáyǔ de yīnjié hái dàiyǒu sìshēng.",
      "en": "in contrast, each Chinese syllable contains more information, possibly because Chinese syllables also carry four tones."
     },
     {
@@ -1709,7 +1710,7 @@
     },
     {
      "zh": "但就上述的研究顯示，各語言都在確保說話者與聽者之間能穩定的交流，所以，自 1950 年後科學家找出了各語言間的共同結構為，不論何種語言其傳達給聽者的資訊速度皆是固定的，這將會進一步改變我們對全球語言多樣性的看法。",
-     "py": "Dàn jiù shàngshù de yánjiū xiǎnshì, gè yǔyán dōu zài quèbǎo shuōhuà zhě yǔ tīngzhě zhījiān néng wěndìng de jiāoliú, suǒyǐ, zì 1950 nián hòu kēxuéjiā zhǎochū le gè yǔyán jiān de gòngtóng jiégòu wèi, búlùn hézhǒng yǔyán qí chuándá gěi tīngzhě de zīxùn sùdù jiē shì gùdìng de, zhè jiāng huì jìnyíbù gǎibiàn wǒmen duì quánqiú yǔyán duōyàngxìng de kànfǎ.",
+     "py": "Dàn jiù shàngshù de yánjiū xiǎnshì, gè yǔyán dōu zài quèbǎo shuōhuà zhě yǔ tīngzhě zhījiān néng wěndìng de jiāoliú, suǒyǐ, zì 1950 nián hòu kēxuéjiā zhǎochū le gè yǔyán jiān de gòngtóng jiégòu wéi, búlùn hézhǒng yǔyán qí chuándá gěi tīngzhě de zīxùn sùdù jiē shì gùdìng de, zhè jiāng huì jìnyíbù gǎibiàn wǒmen duì quánqiú yǔyán duōyàngxìng de kànfǎ.",
      "en": "However, the research above shows that every language ensures stable communication between speaker and listener; so the common structure scientists have found among languages since 1950 is that, whatever the language, the speed at which it conveys information to the listener is fixed. This will further change how we view the diversity of the world's languages."
     }
    ],
@@ -1832,7 +1833,7 @@
    "passage": [
     {
      "zh": "（十二）",
-     "py": "(Shíèr)",
+     "py": "(Shí'èr)",
      "en": "(12)"
     },
     {
@@ -1852,7 +1853,7 @@
     },
     {
      "zh": "導演對此曾表示，他所追尋的「創作自由」，就是不被國家政策干擾、限制的自由。",
-     "py": "Dǎoyǎn duìcǐ céng biǎoshì, tā suǒ zhuīxún de “Chuàngzuòzìyóu”, jiùshì bù bèi guójiā zhèngcè gānrǎo, xiànzhì de zìyóu.",
+     "py": "Dǎoyǎn duìcǐ céng biǎoshì, tā suǒ zhuīxún de “Chuàngzuòzìyóu”, jiùshì bú bèi guójiā zhèngcè gānrǎo, xiànzhì de zìyóu.",
      "en": "The director once said that the \"creative freedom\" he pursues is freedom from interference and restriction by state policy."
     },
     {
@@ -1862,7 +1863,7 @@
     },
     {
      "zh": "當年他離開自己生長的土地，離開那些從小一起相處的親人，一頭往大城市裡栽進去，在追尋著電影夢的同時，卻忽略了他的母親在長期的孤單寂寞中，已經開始出現喃喃自語的症狀。",
-     "py": "Dāngnián tā líkāi zìjǐ shēngzhǎng de tǔdì, líkāi nàxiē cóngxiǎo yìqǐ xiāngchǔ de qīnrén, yìtóu wǎng Dàchéngshì lǐ zāijìnqù, zài zhuīxún zhù diànyǐng mèng de tóngshí, què hūlüè le tā de mǔqīn zài chángqī de gūdān jìmò zhōng, yǐjīng kāishǐ chūxiàn nánnánzìyǔ de zhèngzhuàng.",
+     "py": "Dāngnián tā líkāi zìjǐ shēngzhǎng de tǔdì, líkāi nàxiē cóngxiǎo yìqǐ xiāngchǔ de qīnrén, yìtóu wǎng Dàchéngshì lǐ zāijìnqù, zài zhuīxún zhe diànyǐng mèng de tóngshí, què hūlüè le tā de mǔqīn zài chángqī de gūdān jìmò zhōng, yǐjīng kāishǐ chūxiàn nánnánzìyǔ de zhèngzhuàng.",
      "en": "Back then he left the land where he grew up and the relatives he'd been with since childhood, and threw himself headlong into the big city. While chasing his film dream, he overlooked that his mother, after long loneliness, had begun to show symptoms of talking to herself."
     },
     {
@@ -1882,7 +1883,7 @@
     },
     {
      "zh": "就是這種不安的情緒，完整地傳達了導演的意識：所有外在的一切都會消失，只有故人的情感會被永遠地留下。",
-     "py": "Jiùshì zhèzhǒng bùān de qíngxù, wánzhěng dì chuándá le dǎoyǎn de yìshí: Suǒyǒu wàizài de yíqiè dōu huì xiāoshī, zhǐyǒu gùrén de qínggǎn huì bèi yǒngyuǎn dì liúxià.",
+     "py": "Jiùshì zhèzhǒng bù'ān de qíngxù, wánzhěng de chuándá le dǎoyǎn de yìshí: Suǒyǒu wàizài de yíqiè dōu huì xiāoshī, zhǐyǒu gùrén de qínggǎn huì bèi yǒngyuǎn de liúxià.",
      "en": "It is this feeling of unease that fully conveys the director's awareness: everything external will disappear; only the feelings of people from the past will remain forever."
     }
    ],
@@ -1991,7 +1992,7 @@
     },
     "C": {
      "zh": "對生活的不確定",
-     "py": "Duì shēnghuó de bù quèdìng",
+     "py": "Duì shēnghuó de bú quèdìng",
      "en": "(C) The uncertainty of life"
     },
     "D": {

@@ -2,6 +2,7 @@
  "testId": "c-l1",
  "segments": 438,
  "englishComplete": true,
+ "indonesianComplete": false,
  "questions": {
   "1": {
    "options": {
@@ -39,7 +40,7 @@
     },
     {
      "zh": "女：我房東最近老說要漲我的房租。本來想重找一間算了，但得先準備兩個月的",
-     "py": "Nǚ: Wǒ fángdōng zuìjìn lǎo shuō yào zhǎng wǒ de fángzū. Běnlái xiǎng zhòng zhǎo yìjiān suànle, dàn dé xiān zhǔnbèi liǎng ge yuè de",
+     "py": "Nǚ: Wǒ fángdōng zuìjìn lǎo shuō yào zhǎng wǒ de fángzū. Běnlái xiǎng chóng zhǎo yìjiān suànle, dàn děi xiān zhǔnbèi liǎng ge yuè de",
      "en": "Woman: My landlord keeps saying lately that he's going to raise my rent. I was thinking of just finding another place, but I'd have to come up with two months'"
     },
     {
@@ -49,7 +50,7 @@
     },
     {
      "zh": "男：我的房東也好不到哪去。那台洗衣機，已經用了不知道多少年了，最後壞了",
-     "py": "Nán: Wǒ de fángdōng yěhǎo bù dàonǎqù. Nà tái xǐyījī, yǐjīng yòng le bù zhīdào duōshǎo nián le, zuìhòu huài le",
+     "py": "Nán: Wǒ de fángdōng yěhǎo bú dàonǎqù. Nà tái xǐyījī, yǐjīng yòng le bù zhīdào duōshǎo nián le, zuìhòu huài le",
      "en": "Man: My landlord isn't much better. That washing machine had been used for who knows how many years, and when it finally broke"
     },
     {
@@ -64,7 +65,7 @@
     },
     {
      "zh": "男：我啊，房東一天不退押金給我，我就一天不搬家。",
-     "py": "Nán: Wǒ a, fángdōng yìtiān bù tuì yājīn gěi wǒ, wǒ jiù yìtiān bù bānjiā.",
+     "py": "Nán: Wǒ a, fángdōng yìtiān bú tuì yājīn gěi wǒ, wǒ jiù yìtiān bù bānjiā.",
      "en": "Man: Me? As long as the landlord doesn't return my deposit, I won't move out."
     }
    ],
@@ -111,17 +112,17 @@
    "options": {
     "A": {
      "zh": "能克服天生的障礙",
-     "py": "Néngkèfú tiānshēng de zhàngài",
+     "py": "Néngkèfú tiānshēng de zhàng'ài",
      "en": "(A) He was able to overcome a congenital disability."
     },
     "B": {
      "zh": "專門為殘障兒童作曲",
-     "py": "Zhuānmén wèi cánzhàngértóng zuòqǔ",
+     "py": "Zhuānmén wèi cánzhàng'értóng zuòqǔ",
      "en": "(B) He composes music especially for disabled children."
     },
     "C": {
      "zh": "文章寫得比作家還好",
-     "py": "Wénzhāng xiě dé bǐ zuòjiā háihǎo",
+     "py": "Wénzhāng xiě de bǐ zuòjiā háihǎo",
      "en": "(C) He writes better than a writer."
     },
     "D": {
@@ -148,7 +149,7 @@
     },
     {
      "zh": "部殘障，在語言上沒辦法正常發展，但他並沒有因此自暴自棄，憑著獨特的",
-     "py": "Bù cánzhàng, zài yǔyán shàng méi bànfǎ zhèngcháng fāzhǎn, dàn tā bìng méiyǒu yīncǐ zìbàozìqì, píng zhù dútè de",
+     "py": "Bù cánzhàng, zài yǔyán shàng méi bànfǎ zhèngcháng fāzhǎn, dàn tā bìng méiyǒu yīncǐ zìbàozìqì, píng zhe dútè de",
      "en": "disability and couldn't develop language normally, but he didn't give up on himself because of it—with his unique"
     },
     {
@@ -158,7 +159,7 @@
     },
     {
      "zh": "男：是這樣嗎？我想大江先生一定以他兒子為榮！",
-     "py": "Nán: Shì zhèyàng ma? Wǒ xiǎng Dàjiāng xiānsheng yídìng yǐ tā érzi wèi Róng!",
+     "py": "Nán: Shì zhèyàng ma? Wǒ xiǎng Dàjiāng xiānsheng yídìng yǐ tā érzi wéi Róng!",
      "en": "Man: Is that so? I imagine Mr. Oe must be proud of his son!"
     },
     {
@@ -173,7 +174,7 @@
     },
     {
      "zh": "有人聽了我兒子的作品以後，還是睡不著，那就來看看我寫的書吧！」哈哈！",
-     "py": "Yǒurén tīng le wǒ érzi de zuòpǐn yǐhòu, háishì shuì búzhù, nà jiù lái kànkàn wǒ xiě de shūba!” hāhā!",
+     "py": "Yǒurén tīng le wǒ érzi de zuòpǐn yǐhòu, háishì shuì bùzháo, nà jiù lái kànkàn wǒ xiě de shūba!” hāhā!",
      "en": "anyone still can't sleep after listening to my son's work, then come and read my books!\" Ha ha!"
     }
    ],
@@ -290,7 +291,7 @@
     },
     "C": {
      "zh": "病人遍尋不著診間的情況",
-     "py": "Bìngrén biànxún búzhù zhěnjiān de qíngkuàng",
+     "py": "Bìngrén biànxún bùzháo zhěnjiān de qíngkuàng",
      "en": "(C) Patients being unable to find the consulting room"
     },
     "D": {
@@ -364,7 +365,7 @@
    "options": {
     "A": {
      "zh": "食品類等產品較不受歡迎",
-     "py": "Shípǐnlèi děng chǎnpǐn jiào bù shòuhuānyíng",
+     "py": "Shípǐnlèi děng chǎnpǐn jiào bú shòuhuānyíng",
      "en": "(A) Food products are less popular."
     },
     "B": {
@@ -416,7 +417,7 @@
     },
     {
      "zh": "法，護士小姐一叫我的名字，所有候診室的人都會聽到，如果沒有人認識我",
-     "py": "Fǎ, hùshì Xiǎojiě yī jiào wǒ de míngzi, suǒyǒu hòuzhěnshì de rén dōu huì tīngdào, rúguǒ méiyǒu rén rènshi wǒ",
+     "py": "Fǎ, hùshì Xiǎojiě yí jiào wǒ de míngzi, suǒyǒu hòuzhěnshì de rén dōu huì tīngdào, rúguǒ méiyǒu rén rènshi wǒ",
      "en": "as soon as the nurse called my name, everyone in the waiting room would hear. If nobody knows me,"
     },
     {
@@ -431,7 +432,7 @@
     },
     {
      "zh": "該可以到醫院附近走走，不用老是等在那兒了吧！",
-     "py": "Gāi kěyǐ dào yīyuàn fùjìn zǒuzǒu, búyòng lǎo shì děng zài nàér le ba!",
+     "py": "Gāi kěyǐ dào yīyuàn fùjìn zǒuzǒu, búyòng lǎo shì děng zài nàr le ba!",
      "en": "could go for a walk near the hospital instead of always waiting there!"
     },
     {
@@ -461,7 +462,7 @@
     },
     {
      "zh": "酒精消毒，防止病毒傳染，貼心得不得了呢！",
-     "py": "Jiǔjīng xiāodú, fángzhǐ bìngdú chuánrǎn, tiēxīn dé bùdéle ne!",
+     "py": "Jiǔjīng xiāodú, fángzhǐ bìngdú chuánrǎn, tiēxīn de bùdéliǎo ne!",
      "en": "disinfect them with alcohol to prevent the spread of viruses—it's incredibly thoughtful!"
     },
     {
@@ -502,7 +503,7 @@
     },
     "C": {
      "zh": "監獄生產的商品頗受大眾喜愛",
-     "py": "Jiānyù shēngchǎn de shāngpǐn pǒshòu dàzhòng xǐài",
+     "py": "Jiānyù shēngchǎn de shāngpǐn pǒshòu dàzhòng xǐ'ài",
      "en": "(C) Products made in prisons are quite popular with the public."
     },
     "D": {
@@ -576,7 +577,7 @@
     },
     "B": {
      "zh": "因為找到了沉香不受蟲害的方法",
-     "py": "Yīnwèi zhǎodào le chénxiāng bù shòu chónghài de fāngfǎ",
+     "py": "Yīnwèi zhǎodào le chénxiāng bú shòu chónghài de fāngfǎ",
      "en": "(B) Because she found a way to protect agarwood from insect damage"
     },
     "C": {
@@ -623,7 +624,7 @@
     },
     {
      "zh": "高度技巧的手工藝品，雖然費時又費力，卻很適合刑期較長的犯人。",
-     "py": "Gāodù jìqiǎo de shǒugōngyìpǐn, suīrán fèishí yòu fèilì, què hěn shìhé xíngqī jiào zhǎng de fànrén.",
+     "py": "Gāodù jìqiǎo de shǒugōngyìpǐn, suīrán fèishí yòu fèilì, què hěn shìhé xíngqī jiào cháng de fànrén.",
      "en": "a high level of skill. Although they take time and effort, they're well suited to prisoners with longer sentences."
     },
     {
@@ -688,7 +689,7 @@
     },
     {
      "zh": "一是，您的研究在提高沉香產量上，有著非常驚人的發現，但是這麼完整的",
-     "py": "Yī shì, nín de yánjiū zài tígāo chénxiāng chǎnliàng shàng, yǒuzhù fēicháng jīngrén de fāxiàn, dànshì zhème wánzhěng de",
+     "py": "Yí shì, nín de yánjiū zài tígāo chénxiāng chǎnliàng shàng, yǒuzhe fēicháng jīngrén de fāxiàn, dànshì zhème wánzhěng de",
      "en": "First, your research made a remarkable discovery on increasing agarwood yields, but such complete"
     },
     {
@@ -818,7 +819,7 @@
    "options": {
     "A": {
      "zh": "只購買一本書就免運費",
-     "py": "Zhǐ gòumǎi yī běnshū jiù miǎn yùnfèi",
+     "py": "Zhǐ gòumǎi yì běnshū jiù miǎn yùnfèi",
      "en": "(A) Free shipping even when buying just one book"
     },
     "B": {
@@ -828,12 +829,12 @@
     },
     "C": {
      "zh": "運費隨著消費金額提高而增加",
-     "py": "Yùnfèi suízhù xiāofèi jīné tígāo ér zēngjiā",
+     "py": "Yùnfèi suízhe xiāofèi jīn'é tígāo ér zēngjiā",
      "en": "(C) Shipping costs rising as the amount spent rises"
     },
     "D": {
      "zh": "消費一定的金額，享有低廉運費",
-     "py": "Xiāofèi yídìng de jīné, xiǎngyǒu dīlián yùnfèi",
+     "py": "Xiāofèi yídìng de jīn'é, xiǎngyǒu dīlián yùnfèi",
      "en": "(D) Spend a certain amount and get cheap shipping."
     }
    },
@@ -876,7 +877,7 @@
     },
     "C": {
      "zh": "提高享有免運費服務的購物金額",
-     "py": "Tígāo xiǎngyǒu miǎn yùnfèi fúwù de gòuwù jīné",
+     "py": "Tígāo xiǎngyǒu miǎn yùnfèi fúwù de gòuwù jīn'é",
      "en": "(C) Raising the purchase amount needed for free shipping"
     },
     "D": {
@@ -1013,7 +1014,7 @@
     },
     {
      "zh": "購物消費滿 200 元，就可以免費停車一小時，所以我常為了這個優惠，花費",
-     "py": "Gòuwù xiāofèi mǎn 200 yuán, jiù kěyǐ miǎnfèi tíngchē yī xiǎoshí, suǒyǐ wǒ cháng wèile zhè ge yōuhuì, huāfèi",
+     "py": "Gòuwù xiāofèi mǎn 200 yuán, jiù kěyǐ miǎnfèi tíngchē yì xiǎoshí, suǒyǐ wǒ cháng wèile zhè ge yōuhuì, huāfèi",
      "en": "spend NT$200 or more shopping, I get an hour's free parking, so I often end up spending more for that"
     },
     {
@@ -1033,7 +1034,7 @@
     },
     {
      "zh": "那時候，只要你的訂單金額達到…嗯，假設是一千塊，那麼運費其實都只要",
-     "py": "Nà shíhòu, zhǐyào nǐ de dìngdān jīné dádào… ń, jiǎshè shì yīqiānkuài, nàme yùnfèi qíshí dōu zhǐyào",
+     "py": "Nà shíhòu, zhǐyào nǐ de dìngdān jīn'é dádào… ń, jiǎshè shì yīqiānkuài, nàme yùnfèi qíshí dōu zhǐyào",
      "en": "Back then, as long as your order reached… say, a thousand dollars, the shipping was only"
     },
     {
@@ -1043,7 +1044,7 @@
     },
     {
      "zh": "們索性提高門檻，改成購物滿兩千塊就可以免運費，結果銷售量反而大大增",
-     "py": "Men suǒxìng tígāo ménkǎn, gǎichéng gòuwùmǎn liǎngqiānkuài jiù kěyǐ miǎn yùnfèi, jiéguǒ xiāoshòuliàng fǎnér dà dàzēng",
+     "py": "Men suǒxìng tígāo ménkǎn, gǎichéng gòuwùmǎn liǎngqiānkuài jiù kěyǐ miǎn yùnfèi, jiéguǒ xiāoshòuliàng fǎn'ér dà dàzēng",
      "en": "simply raised the threshold, changing it to free shipping on purchases over two thousand—and sales actually increased"
     },
     {
@@ -1068,7 +1069,7 @@
     },
     {
      "zh": "想，不花一毛錢怎麼可能有損失呢？所以一定會選擇免費的方案，反而忘記",
-     "py": "Xiǎng, bù huā yìmáoqián zěnme kěnéng yǒu sǔnshī ne? Suǒyǐ yídìng huì xuǎnzé miǎnfèi de fāngàn, fǎnér wàngjì",
+     "py": "Xiǎng, bù huā yìmáoqián zěnme kěnéng yǒu sǔnshī ne? Suǒyǐ yídìng huì xuǎnzé miǎnfèi de fāng'àn, fǎn'ér wàngjì",
      "en": "thinks, how can you lose if you don't spend a cent? So they always choose the free option and forget"
     },
     {
@@ -1083,7 +1084,7 @@
     },
     {
      "zh": "減肥的，反而喝得更多，吃得更多。",
-     "py": "Jiǎnféi de, fǎnér hē dé gèng duō, chī dé gèng duō.",
+     "py": "Jiǎnféi de, fǎn'ér hē de gèng duō, chī de gèng duō.",
      "en": "lose weight, and end up drinking more and eating more."
     },
     {
@@ -1103,7 +1104,7 @@
   "19": {
    "stem": {
     "zh": "關於這個網站所提供的檔案，哪一個是對的？",
-    "py": "Guānyú zhè ge wǎngzhàn suǒ tígōng de dàngàn, nǎ yí ge shì duì de?",
+    "py": "Guānyú zhè ge wǎngzhàn suǒ tígōng de dàng'àn, nǎ yí ge shì duì de?",
     "en": "About the file this website provides, which of the following is correct?"
    },
    "options": {
@@ -1131,7 +1132,7 @@
    "transcript": [
     {
      "zh": "關於這個網站所提供的檔案，哪一個是對的？",
-     "py": "Guānyú zhè ge wǎngzhàn suǒ tígōng de dàngàn, nǎ yí ge shì duì de?",
+     "py": "Guānyú zhè ge wǎngzhàn suǒ tígōng de dàng'àn, nǎ yí ge shì duì de?",
      "en": "About the file this website provides, which of the following is correct?"
     }
    ]
@@ -1191,12 +1192,12 @@
     },
     "C": {
      "zh": "不願網站藉此打知名度",
-     "py": "Bù yuàn wǎngzhàn jiècǐ dǎ zhīmíngdù",
+     "py": "Bú yuàn wǎngzhàn jiècǐ dǎ zhīmíngdù",
      "en": "(C) She doesn't want the website to use it to raise its profile."
     },
     "D": {
      "zh": "不願讓別人覺得沒有面子",
-     "py": "Bù yuàn ràng biérén juéde méiyǒu miànzi",
+     "py": "Bú yuàn ràng biérén juéde méiyǒu miànzi",
      "en": "(D) She doesn't want others to lose face."
     }
    },
@@ -1276,7 +1277,7 @@
     },
     {
      "zh": "老公」。然後，你只要付一塊美金，網站就會寄給你一個檔案。把這個檔案",
-     "py": "Lǎogōng”. Ránhòu, nǐ zhǐyào fù yíkuài měijīn, wǎngzhàn jiù huì jìgěi nǐ yí ge dàngàn. Bǎ zhè ge dàngàn",
+     "py": "Lǎogōng”. Ránhòu, nǐ zhǐyào fù yíkuài měijīn, wǎngzhàn jiù huì jìgěi nǐ yí ge dàng'àn. Bǎ zhè ge dàng'àn",
      "en": "world.\" Then you just pay one US dollar, and the website sends you a file. Print this file"
     },
     {
@@ -1286,7 +1287,7 @@
     },
     {
      "zh": "拿給別人看，好好地炫耀一下！如果你不喜歡它的風格，還可以選擇加錢換",
-     "py": "Nágěi biérén kàn, hǎohǎo dì xuànyào yíxià! Rúguǒ nǐ bù xǐhuān tā de fēnggé, hái kěyǐ xuǎnzé jiāqián huàn",
+     "py": "Nágěi biérén kàn, hǎohǎo de xuànyào yíxià! Rúguǒ nǐ bù xǐhuān tā de fēnggé, hái kěyǐ xuǎnzé jiāqián huàn",
      "en": "to others and really show off! If you don't like the style, you can also pay extra to change the"
     },
     {
@@ -1296,7 +1297,7 @@
     },
     {
      "zh": "女：聽起來是蠻好玩兒，不過說穿了還不就是個騙錢的玩意兒。",
-     "py": "Nǚ: Tīng qǐlái shì mán hǎowánér, búguò shuōchuān le hái bù jiùshì gè piànqián de wányìér.",
+     "py": "Nǚ: Tīng qǐlái shì mán hǎowánr, búguò shuōchuān le hái bú jiùshì gè piànqián de wányìr.",
      "en": "Woman: Sounds quite fun, but when it comes down to it, it's just a money-making gimmick."
     },
     {
@@ -1341,7 +1342,7 @@
     },
     {
      "zh": "一家的情形，那麼其他慈善團體所能拿到的捐款就相對地減少了，反而更不",
-     "py": "Yìjiā de qíngxíng, nàme qítā Císhàn tuántǐ suǒ néng nádào de juānkuǎn jiù xiāngduì dì jiǎnshǎo le, fǎnér gèng bù",
+     "py": "Yìjiā de qíngxíng, nàme qítā Císhàn tuántǐ suǒ néng nádào de juānkuǎn jiù xiāngduì de jiǎnshǎo le, fǎn'ér gèng bù",
      "en": "that one, so the donations other charities can get decrease correspondingly, making it even harder for them"
     },
     {
@@ -1366,7 +1367,7 @@
     },
     {
      "zh": "男：19 世紀的達爾文認為，物種不是天生完美，而是經過生存競爭以後，漸漸",
-     "py": "Nán: 19 shìjì de Dáěrwén rènwéi, wùzhǒng búshì tiānshēng wánměi, érshì jīngguò shēngcúnjìngzhēng yǐhòu, jiànjiàn",
+     "py": "Nán: 19 shìjì de Dá'ěrwén rènwéi, wùzhǒng búshì tiānshēng wánměi, érshì jīngguò shēngcúnjìngzhēng yǐhòu, jiànjiàn",
      "en": "Man: In the 19th century, Darwin argued that species are not born perfect but gradually become"
     },
     {
@@ -1386,12 +1387,12 @@
     },
     {
      "zh": "家，也多抱持著質疑的態度，舉例來說：孔雀華麗的尾巴，在危難時，往",
-     "py": "Jiā, yě duō bàochí zhù zhìyí de tàidù, jǔlìláishuō: Kǒngquè Huálì de wěiba, zài wēinàn shí, wǎng",
+     "py": "Jiā, yě duō bàochí zhe zhìyí de tàidù, jǔlìláishuō: Kǒngquè Huálì de wěiba, zài wēinàn shí, wǎng",
      "en": "mostly doubted that idea. For example, a peacock's gorgeous tail often hinders its escape in danger;"
     },
     {
      "zh": "往妨礙它逃命，既然「物競天擇、適者生存」，又怎麼會演化出危害生存",
-     "py": "Wǎng fángài tā táomìng, jìrán “Wùjìngtiānzé, shìzhěshēngcún”, yòu zěnme huì yǎnhuàchū wēihài shēngcún",
+     "py": "Wǎng fáng'ài tā táomìng, jìrán “Wùjìngtiānzé, shìzhěshēngcún”, yòu zěnme huì yǎnhuàchū wēihài shēngcún",
      "en": "if it's \"natural selection, survival of the fittest,\" how could a trait that endangers survival"
     },
     {
@@ -1401,12 +1402,12 @@
     },
     {
      "zh": "男：為了解釋這個矛盾，補足「演化論」的缺失，達爾文另外提出了「性擇論」，",
-     "py": "Nán: Wèile jiěshì zhè ge máodùn, bǔzú “Yǎnhuàlùn” de quēshī, Dáěrwén lìngwài tíchū le “Xìngzélùn”,",
+     "py": "Nán: Wèile jiěshì zhè ge máodùn, bǔzú “Yǎnhuàlùn” de quēshī, Dá'ěrwén lìngwài tíchū le “Xìngzélùn”,",
      "en": "Man: To explain this contradiction and fill the gap in the theory of evolution, Darwin also proposed the theory of \"sexual selection\":"
     },
     {
      "zh": "雌性動物會依據雄性動物身上的裝飾擇偶。孔雀鮮豔的尾巴就是最好的例",
-     "py": "Cíxìng dòngwù huì yījù xióngxìng dòngwù shēnshàng de zhuāngshì zéǒu. Kǒngquè xiānyàn de wěiba jiùshì zuìhǎo de lì",
+     "py": "Cíxìng dòngwù huì yījù xióngxìng dòngwù shēnshàng de zhuāngshì zé'ǒu. Kǒngquè xiānyàn de wěiba jiùshì zuìhǎo de lì",
      "en": "females choose mates according to the ornaments on males. The peacock's brilliant tail is the best"
     },
     {
@@ -1416,7 +1417,7 @@
     },
     {
      "zh": "女：「性擇論」，完全無法說服學界，像是與達爾文同時建立生物演化學說的華萊",
-     "py": "Nǚ: “Xìngzélùn”, wánquán wúfǎ shuōfú xuéjiè, xiàngshì yǔ Dáěrwén tóngshí jiànlì shēngwù yǎnhuà xuéshuō de Huálái",
+     "py": "Nǚ: “Xìngzélùn”, wánquán wúfǎ shuōfú xuéjiè, xiàngshì yǔ Dá'ěrwén tóngshí jiànlì shēngwù yǎnhuà xuéshuō de Huálái",
      "en": "Woman: \"Sexual selection\" completely failed to convince the academic world. For example, Wallace, who developed the theory of biological"
     },
     {
@@ -1529,7 +1530,7 @@
     },
     "C": {
      "zh": "這位小姐有效地反擊對方",
-     "py": "Zhèwèi Xiǎojiě yǒuxiào dì fǎnjī duìfāng",
+     "py": "Zhèwèi Xiǎojiě yǒuxiào de fǎnjī duìfāng",
      "en": "(C) The woman effectively struck back at the other side."
     },
     "D": {
@@ -1602,7 +1603,7 @@
     },
     {
      "zh": "一個消費者，可能得祈禱這家慢遞公司的生意越做越好，不要在寄送時間到之前",
-     "py": "Yí ge xiāofèizhě, kěnéng dé qídǎo zhèjiā màn dì gōngsī de shēngyì yuèzuòyuè hǎo, búyào zài jìsòng shíjiān dào zhīqián",
+     "py": "Yí ge xiāofèizhě, kěnéng de qídǎo zhèjiā màn dì gōngsī de shēngyì yuèzuòyuè hǎo, búyào zài jìsòng shíjiān dào zhīqián",
      "en": "a consumer, you may have to pray that this slow-delivery company's business keeps growing and that it doesn't go bust before"
     },
     {
@@ -1660,7 +1661,7 @@
    ],
    "stem": {
     "zh": "朱熹一開始聽到買「東西」時，他的反應是什麼？",
-    "py": "Zhūxī yī kāishǐ tīngdào mǎi “Dōngxi” shí, tā de fǎnyìng shì shénme?",
+    "py": "Zhūxī yì kāishǐ tīngdào mǎi “Dōngxi” shí, tā de fǎnyìng shì shénme?",
     "en": "How did Zhu Xi react when he first heard about buying \"dongxi\" (things; literally \"east-west\")?"
    },
    "options": {
@@ -1695,7 +1696,7 @@
    "transcript": [
     {
      "zh": "朱熹一開始聽到買「東西」時，他的反應是什麼？",
-     "py": "Zhūxī yī kāishǐ tīngdào mǎi “Dōngxi” shí, tā de fǎnyìng shì shénme?",
+     "py": "Zhūxī yì kāishǐ tīngdào mǎi “Dōngxi” shí, tā de fǎnyìng shì shénme?",
      "en": "How did Zhu Xi react when he first heard about buying \"dongxi\" (things; literally \"east-west\")?"
     }
    ]
@@ -1815,7 +1816,7 @@
     },
     {
      "zh": "隨著科技發達與網路普及，電子信箱、網路銀行、社群交友網站及線上即",
-     "py": "Suízhù kējì fādá yǔ wǎnglù Pǔjí, diànzixìnxiāng, wǎnglù yínháng, shèqún jiāoyǒu wǎngzhàn jí xiàn shàng jí",
+     "py": "Suízhe kējì fādá yǔ wǎnglù Pǔjí, diànzixìnxiāng, wǎnglù yínháng, shèqún jiāoyǒu wǎngzhàn jí xiàn shàng jí",
      "en": "With advances in technology and the spread of the internet, email, online banking, social networking sites and instant messaging"
     },
     {
@@ -1840,7 +1841,7 @@
     },
     {
      "zh": "為了解決這些疑慮和考量，不少經營代管網路帳號的公司便應運而生。使用",
-     "py": "Wèile jiějué zhèxiē yílǜ hé kǎoliáng, bùshǎo jīngyíng dàiguǎn wǎnglù zhànghào de gōngsī biàn yìngyùnérshēng. Shǐyòng",
+     "py": "Wèile jiějué zhèxiē yílǜ hé kǎoliáng, bùshǎo jīngyíng dàiguǎn wǎnglù zhànghào de gōngsī biàn yìngyùn'érshēng. Shǐyòng",
      "en": "To address these concerns, quite a few companies offering online account custody services have emerged. After paying a fee,"
     },
     {
@@ -2108,17 +2109,17 @@
     },
     "B": {
      "zh": "腦細胞一出生就已經發展完備",
-     "py": "Nǎoxìbāo yī chūshēng jiù yǐjīng fāzhǎn wánbèi",
+     "py": "Nǎoxìbāo yì chūshēng jiù yǐjīng fāzhǎn wánbèi",
      "en": "(B) Brain cells are fully developed at birth."
     },
     "C": {
      "zh": "比其他細胞更快速地進行汰換",
-     "py": "Bǐ qítā xìbāo gèng kuàisù dì jìnxíng tàihuàn",
+     "py": "Bǐ qítā xìbāo gèng kuàisù de jìnxíng tàihuàn",
      "en": "(C) They are replaced faster than other cells."
     },
     "D": {
      "zh": "存活的時間不受軀體存活限制",
-     "py": "Cúnhuó de shíjiān bù shòu qūtǐ cúnhuó xiànzhì",
+     "py": "Cúnhuó de shíjiān bú shòu qūtǐ cúnhuó xiànzhì",
      "en": "(D) Their lifespan isn't limited by the lifespan of the body."
     }
    },
@@ -2165,7 +2166,7 @@
     },
     {
      "zh": "大家鼠胎兒的腦部裡。接著讓大家鼠長大，直到牠們年老垂死，剩下壽命預估不",
-     "py": "Dàjiāshǔ tāiér de nǎobù lǐ. Jiēzhù ràng dàjiāshǔ Zhǎngdà, zhídào tā men niánlǎo chuísǐ, shèngxià shòumìng yùgū bù",
+     "py": "Dàjiāshǔ tāi'ér de nǎobù lǐ. Jiēzhe ràng dàjiāshǔ Zhǎngdà, zhídào tā men niánlǎo chuísǐ, shèngxià shòumìng yùgū bù",
      "en": "rat embryos. They then let the rats grow up until they were old and dying, with an estimated less than"
     },
     {
@@ -2175,7 +2176,7 @@
     },
     {
      "zh": "研究員發現，實驗裡的大家鼠可完全正常地成長，而且年老時沒有產生任何",
-     "py": "Yánjiūyuán fāxiàn, shíyàn lǐ de dàjiāshǔ kě wánquán zhèngcháng dì chéngzhǎng, érqiě niánlǎo shí méiyǒu chǎnshēng rènhé",
+     "py": "Yánjiūyuán fāxiàn, shíyàn lǐ de dàjiāshǔ kě wánquán zhèngcháng de chéngzhǎng, érqiě niánlǎo shí méiyǒu chǎnshēng rènhé",
      "en": "The researchers found that the rats in the experiment grew up completely normally and had no"
     },
     {
@@ -2185,12 +2186,12 @@
     },
     {
      "zh": "死後，小家鼠的腦神經依然活著。科學家因此推論，如果腦細胞是移植到壽命更",
-     "py": "Sǐ hòu, Xiǎojiāshǔ de nǎoshénjīng yīrán huózhù. Kēxuéjiā yīncǐ tuīlùn, rúguǒ nǎoxìbāo shì yízhí dào shòumìng gèng",
+     "py": "Sǐ hòu, Xiǎojiāshǔ de nǎoshénjīng yīrán huózhe. Kēxuéjiā yīncǐ tuīlùn, rúguǒ nǎoxìbāo shì yízhí dào shòumìng gèng",
      "en": "died, the mice's brain neurons were still alive. The scientists therefore inferred that if brain cells are transplanted into longer-lived"
     },
     {
      "zh": "長的生物，小家鼠的腦細胞壽命也會跟著延長。",
-     "py": "Zhǎng de shēngwù, Xiǎojiāshǔ de nǎoxìbāo shòumìng yě huì gēnzhù yáncháng.",
+     "py": "Cháng de shēngwù, Xiǎojiāshǔ de nǎoxìbāo shòumìng yě huì gēnzhe yáncháng.",
      "en": "organisms, the lifespan of the mouse brain cells will be extended accordingly."
     }
    ],
@@ -2273,7 +2274,7 @@
     },
     "B": {
      "zh": "小家鼠的壽命比大家鼠長",
-     "py": "Xiǎojiāshǔ de shòumìng bǐ dàjiāshǔ zhǎng",
+     "py": "Xiǎojiāshǔ de shòumìng bǐ dàjiāshǔ cháng",
      "en": "(B) Mice live longer than rats."
     },
     "C": {
@@ -2436,7 +2437,7 @@
     },
     "C": {
      "zh": "得先訴諸國際輿論",
-     "py": "Dé xiān sùzhū guójìyúlùn",
+     "py": "Děi xiān sùzhū guójìyúlùn",
      "en": "(C) It must first appeal to international public opinion."
     },
     "D": {
@@ -2501,7 +2502,7 @@
     },
     {
      "zh": "這祭典為「巴斯答愛」。相傳在很久以前，有一群居住在山裡的矮人，身高只有",
-     "py": "Zhè jìdiǎn wèi “Bāsī dáài”. Xiāngchuán zài hěnjiǔyǐqián, yǒu yìqún jūzhù zài shānlǐ de ǎirén, shēngāo zhǐyǒu",
+     "py": "Zhè jìdiǎn wèi “Bāsī dá'ài”. Xiāngchuán zài hěnjiǔyǐqián, yǒu yìqún jūzhù zài shānlǐ de ǎirén, shēngāo zhǐyǒu",
      "en": "it \"Pas-ta'ai.\" Legend has it that long ago a group of dwarfs lived in the mountains. They were only"
     },
     {
@@ -2541,12 +2542,12 @@
     },
     {
      "zh": "這兩位矮人知道是自己咎由自取，便決定離開，離開前，還將祭歌與舞步教",
-     "py": "Zhè liǎngwèi ǎi rén zhīdào shì zìjǐ jiùyóuzìqǔ, biàn juédìng líkāi, líkāi qián, hái jiāng jì gē yǔ wǔbù jiào",
+     "py": "Zhè liǎngwèi ǎi rén zhīdào shì zìjǐ jiùyóuzìqǔ, biàn juédìng líkāi, líkāi qián, hái jiāng jì gē yǔ wǔbù jiāo",
      "en": "These two dwarfs knew they had brought it on themselves, so they decided to leave. Before leaving, they taught the ritual songs and dance steps"
     },
     {
      "zh": "授給賽夏人。只是，賽夏人雖然除去了心頭大患，內心卻感到不安，於是開始祭",
-     "py": "Shòugěi sàixià rén. Zhǐshì, Sàixiàrén suīrán chúqù le xīntóu dà huàn, nèixīn què gǎndào bùān, yúshì kāishǐ jì",
+     "py": "Shòugěi sàixià rén. Zhǐshì, Sàixiàrén suīrán chúqù le xīntóu dà huàn, nèixīn què gǎndào bù'ān, yúshì kāishǐ jì",
      "en": "to the Saisiyat. But although the Saisiyat had rid themselves of a great threat, they felt uneasy, so they began to offer"
     },
     {
@@ -2556,7 +2557,7 @@
     },
     {
      "zh": "從此以後，就在秋收冬藏之際的月圓夜裡，賽夏人不斷地唱著、跳著，邀請",
-     "py": "Cóngcǐyǐhòu, jiù zài Qiūshōudōngcáng zhījì de yuèyuányè lǐ, Sàixiàrén búduàn dì chàngzhù, tiàozhù, yāoqǐng",
+     "py": "Cóngcǐyǐhòu, jiù zài Qiūshōudōngcáng zhījì de yuèyuányè lǐ, Sàixiàrén búduàn de chàngzhe, tiàozhe, yāoqǐng",
      "en": "Ever since, on the full-moon night at the time of autumn harvest and winter storage, the Saisiyat keep singing and dancing, inviting"
     },
     {

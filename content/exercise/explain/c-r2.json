@@ -2,6 +2,7 @@
  "testId": "c-r2",
  "segments": 310,
  "englishComplete": true,
+ "indonesianComplete": false,
  "questions": {
   "1": {
    "passage": [
@@ -27,7 +28,7 @@
     },
     {
      "zh": "第二種冒險則完全相反，當人在生活飽暖、安定時，便會有 5 去尋找人生不凡的價值，為實踐自己的夢想而冒險，這屬於「自我實現」的動力。",
-     "py": "Dìèrzhǒng màoxiǎn zé wánquán xiāngfǎn, dāng rén zài shēnghuó bǎonuǎn, āndìng shí, biàn huì yǒu 5 qù xúnzhǎo rénshēng bùfán de jiàzhí, wèi shíjiàn zìjǐ de mèngxiǎng ér màoxiǎn, zhè shǔyú “Zìwǒshíxiàn” de dònglì.",
+     "py": "Dì'èrzhǒng màoxiǎn zé wánquán xiāngfǎn, dāng rén zài shēnghuó bǎonuǎn, āndìng shí, biàn huì yǒu 5 qù xúnzhǎo rénshēng bùfán de jiàzhí, wèi shíjiàn zìjǐ de mèngxiǎng ér màoxiǎn, zhè shǔyú “Zìwǒshíxiàn” de dònglì.",
      "en": "the second kind of risk-taking is the complete opposite: when people are well fed, warm and settled, they develop the ___5___ to seek extraordinary value in life and take risks to realize their dreams; this belongs to the motive of \"self-realization.\""
     }
    ],
@@ -106,7 +107,7 @@
    "options": {
     "A": {
      "zh": "不安於室",
-     "py": "Bùānyúshì",
+     "py": "Bù'ānyúshì",
      "en": "(A) restless at home (idiom)"
     },
     "B": {
@@ -159,7 +160,7 @@
     },
     {
      "zh": "對許多人來說，揮灑藝術的過程應是無所拘束、 6 的，但在紙雕的世界裡，每個摺痕、下刀位置都得經過精確的計算、",
-     "py": "Duì xǔduō rén láishuō, huīsǎ yìshù de guòchéng yīng shì wúsuǒ jūshù, 6 de, dàn zài zhǐdiāo de shìjiè lǐ, měi ge zhéhén, xià dāo wèizhì dōu dé jīngguò jīngquè de jìsuàn,",
+     "py": "Duì xǔduō rén láishuō, huīsǎ yìshù de guòchéng yīng shì wúsuǒ jūshù, 6 de, dàn zài zhǐdiāo de shìjiè lǐ, měi ge zhéhén, xià dāo wèizhì dōu děi jīngguò jīngquè de jìsuàn,",
      "en": "For many people, the process of making art should be unconstrained and ___6___, but in the world of paper sculpture every crease and cutting position must be precisely calculated and"
     },
     {
@@ -174,7 +175,7 @@
     },
     {
      "zh": "他認為：「紙雕好比鑽石，一件成品可謂科學與藝術的 9 ，除摺痕要算得精準，刻畫、打磨皆有功夫所在。」",
-     "py": "Tā rènwéi: “Zhǐdiāo hǎobǐ zuànshí, yíjiàn chéngpǐn kěwèi kēxué yǔ yìshù de 9, chú zhéhén yào suàn dé jīngzhǔn, kèhuà, dǎmó jiē yǒu gōngfu suǒzài.”",
+     "py": "Tā rènwéi: “Zhǐdiāo hǎobǐ zuànshí, yíjiàn chéngpǐn kěwèi kēxué yǔ yìshù de 9, chú zhéhén yào suàn de jīngzhǔn, kèhuà, dǎmó jiē yǒu gōngfu suǒzài.”",
      "en": "He believes: \"Paper sculpture is like a diamond—a finished piece can be called the ___9___ of science and art. Besides calculating the creases precisely, carving and polishing both take skill.\""
     },
     {
@@ -449,7 +450,7 @@
     },
     "D": {
      "zh": "接踵而至",
-     "py": "Jiēzhǒngérzhì",
+     "py": "Jiēzhǒng'érzhì",
      "en": "(D) follow one after another (idiom)"
     }
    }
@@ -492,7 +493,7 @@
     },
     {
      "zh": "有的推出免學雜費優待，有的提供免費住宿，更有不少學校祭出高額獎學金以吸引學生青睞。",
-     "py": "Yǒu de tuīchū miǎn xuézáfèi yōudài, yǒu de tígōng miǎnfèi zhùsù, gèng yǒu bùshǎo xuéxiào jì chū gāoé jiǎngxuéjīn yǐ xīyǐn xuéshēng qīnglài.",
+     "py": "Yǒu de tuīchū miǎn xuézáfèi yōudài, yǒu de tígōng miǎnfèi zhùsù, gèng yǒu bùshǎo xuéxiào jì chū gāo'é jiǎngxuéjīn yǐ xīyǐn xuéshēng qīnglài.",
      "en": "Some offered tuition waivers, some free accommodation, and many schools put up large scholarships to win students' favor."
     },
     {
@@ -616,7 +617,7 @@
     },
     {
      "zh": "二、病人之配偶、直系血親及代為申請者須持雙方身分證（或戶口名簿）、圖章及病人親自簽署之「病歷資料影印委託同意書」（需載明委託意旨及範圍；重症昏迷、死亡、未成年者其監護人免附簽名），向本院提出申請。",
-     "py": "Èr, bìngrén zhī pèiǒu, zhíxì xuèqīn jí dàiwéi shēnqǐngzhě xūchí shuāngfāng shēnfènzhèng (Huò hùkǒumíngbù), túzhāng jí bìngrén qīnzì qiānshǔ zhī “Bìnglì zīliào yǐngyìn wěituō tóngyìshū” (Xū zàimíng wěituō yìzhǐ jí fànwéi; zhòngzhèng hūnmí, sǐwáng, wèichéngnián zhě qí jiānhùrén miǎnfù qiānmíng), xiàng běnyuàn tíchūshēnqǐng.",
+     "py": "Èr, bìngrén zhī pèi'ǒu, zhíxì xuèqīn jí dàiwéi shēnqǐngzhě xūchí shuāngfāng shēnfènzhèng (Huò hùkǒumíngbù), túzhāng jí bìngrén qīnzì qiānshǔ zhī “Bìnglì zīliào yǐngyìn wěituō tóngyìshū” (Xū zàimíng wěituō yìzhǐ jí fànwéi; zhòngzhèng hūnmí, sǐwáng, wèichéngnián zhě qí jiānhùrén miǎnfù qiānmíng), xiàng běnyuàn tíchūshēnqǐng.",
      "en": "2. The patient's spouse, lineal relatives and anyone applying on the patient's behalf must bring both parties' ID cards (or household registers), seals, and an \"Authorization and Consent for Copying Medical Records\" signed by the patient personally (stating the purpose and scope of the authorization; no patient signature is needed for patients in a coma from serious illness, deceased patients, or minors represented by their guardians)."
     },
     {
@@ -693,7 +694,7 @@
    "image": [
     {
      "zh": "親愛的客戶您好：",
-     "py": "Qīnài de kèhù nínhǎo:",
+     "py": "Qīn'ài de kèhù nínhǎo:",
      "en": "Dear customer,"
     },
     {
@@ -713,7 +714,7 @@
     },
     {
      "zh": "每月繳款期限前，請務必確認信用卡可用額度及帳戶餘額，以便扣款作業。謝謝您的合作。敬祝萬事如意",
-     "py": "Měiyuè jiǎokuǎn qīxiàn qián, qǐng wùbì quèrèn xìnyòngkǎ kěyòng édù jí zhànghù yúé, yǐbiàn kòukuǎn zuòyè. Xièxiènín de hézuò. Jìngzhù wànshìrúyì",
+     "py": "Měiyuè jiǎokuǎn qīxiàn qián, qǐng wùbì quèrèn xìnyòngkǎ kěyòng édù jí zhànghù yú'é, yǐbiàn kòukuǎn zuòyè. Xièxiènín de hézuò. Jìngzhù wànshìrúyì",
      "en": "Before each monthly payment deadline, please be sure to check your available credit and account balance so the deduction can go through. Thank you for your cooperation. With best wishes,"
     },
     {
@@ -771,12 +772,12 @@
     },
     {
      "zh": "然而在全球化的時代，國內缺乏勞工，可轉而從海外引進，如此一來，低技術的工作機會便轉移到海外其他國家。",
-     "py": "Ránér zài quánqiúhuà de shídài, guónèi quēfá láogōng, kě zhuǎnér cóng hǎiwài yǐnjìn, rúcǐyìlái, dī jìshù de gōngzuò jīhuì biàn zhuǎnyí dào hǎiwài qítā guójiā.",
+     "py": "Rán'ér zài quánqiúhuà de shídài, guónèi quēfá láogōng, kě zhuǎn'ér cóng hǎiwài yǐnjìn, rúcǐyìlái, dī jìshù de gōngzuò jīhuì biàn zhuǎnyí dào hǎiwài qítā guójiā.",
      "en": "But in the age of globalization, when there's a shortage of workers at home, they can be brought in from overseas instead; in this way, low-skill jobs move to other countries abroad."
     },
     {
      "zh": "於是，富裕國家中那些缺乏專業技術的勞工，就得面臨薪資下降甚至失業的危機。",
-     "py": "Yúshì, fùyù guójiā zhōng nàxiē quēfá zhuānyè jìshù de láogōng, jiù dé miànlín xīnzī xiàjiàng shènzhì shīyè de wēijī.",
+     "py": "Yúshì, fùyù guójiā zhōng nàxiē quēfá zhuānyè jìshù de láogōng, jiù děi miànlín xīnzī xiàjiàng shènzhì shīyè de wēijī.",
      "en": "So workers in rich countries who lack specialized skills face falling wages or even unemployment."
     },
     {
@@ -880,12 +881,12 @@
     },
     {
      "zh": "最近常在電視、報紙上看到類似的新聞：有外籍人士來台旅遊，不小心遺失了巨額旅費，幸好總有熱心的司機、路人將撿到的錢物歸原主，讓外國旅客豎起大拇指，大讚台灣民眾的誠實。",
-     "py": "Zuìjìn cháng zài diànshì, bàozhǐ shàng kàndào lèisì de xīnwén: Yǒu wàijírénshì lái tái lǚyóu, bù xiǎoxīn yíshī le jùé lǚfèi, xìnghǎo zǒng yǒu rèxīn de sījī, lùrén jiāng jiǎn dào de qián wùguīyuánzhǔ, ràng Wàiguó lǚkè shùqǐ dàmǔzhǐ, Dàzàn Táiwān mínzhòng de chéngshí.",
+     "py": "Zuìjìn cháng zài diànshì, bàozhǐ shàng kàndào lèisì de xīnwén: Yǒu wàijírénshì lái tái lǚyóu, bù xiǎoxīn yíshī le jù'é lǚfèi, xìnghǎo zǒng yǒu rèxīn de sījī, lùrén jiāng jiǎn dào de qián wùguīyuánzhǔ, ràng Wàiguó lǚkè shùqǐ dàmǔzhǐ, Dàzàn Táiwān mínzhòng de chéngshí.",
      "en": "Recently we often see similar news on TV and in the papers: a foreigner traveling in Taiwan accidentally loses a huge sum of travel money, but fortunately a kind-hearted driver or passer-by always returns the money to its owner, and the foreign traveler gives a thumbs-up, praising Taiwanese people's honesty."
     },
     {
      "zh": "這樣的新聞雖然能對社會產生正面的影響，但也不得不讓人進一步思量：拾金不昧的消息屢屢登上新聞版面，是不是也代表這類行為已經不再被人們視為理所當然？",
-     "py": "Zhèyàng de xīnwén suīrán néng duì shèhuì chǎnshēng zhèngmiàn de yǐngxiǎng, dàn yě bùdébù ràng rén jìnyíbù sīliáng: Shíjīnbúmèi de xiāoxī lǚlǚ dēngshàng xīnwén bǎnmiàn, shìbúshì yě dàibiǎo zhè lèi xíngwéi yǐjīng búzài bèi rénmen shìwèi lǐsuǒdāngrán?",
+     "py": "Zhèyàng de xīnwén suīrán néng duì shèhuì chǎnshēng zhèngmiàn de yǐngxiǎng, dàn yě bùdébú ràng rén jìnyíbù sīliáng: Shíjīnbúmèi de xiāoxī lǚlǚ dēngshàng xīnwén bǎnmiàn, shìbúshì yě dàibiǎo zhè lèi xíngwéi yǐjīng búzài bèi rénmen shìwèi lǐsuǒdāngrán?",
      "en": "Although such news can have a positive effect on society, it also makes one think further: does the fact that stories of returning lost money keep making the news mean that such behavior is no longer taken for granted?"
     },
     {
@@ -900,7 +901,7 @@
     },
     {
      "zh": "如果有那麼一天，拾金不昧不再是新聞，而那些不願物歸原主、愛占人便宜的人，反而登上新聞版面，這才代表拾金不昧已經成為我們社會裡自然流露的美德。",
-     "py": "Rúguǒ yǒu nàme yìtiān, shíjīnbúmèi búzài shì xīnwén, ér nàxiē bù yuàn wùguīyuánzhǔ, ài zhàn rén piányi de rén, fǎnér dēngshàng xīnwén bǎnmiàn, zhè cái dàibiǎo shíjīnbúmèi yǐjīng chéngwéi wǒmen shèhuì lǐ zìrán liúlù de Měidé.",
+     "py": "Rúguǒ yǒu nàme yìtiān, shíjīnbúmèi búzài shì xīnwén, ér nàxiē bú yuàn wùguīyuánzhǔ, ài zhàn rén piányi de rén, fǎn'ér dēngshàng xīnwén bǎnmiàn, zhè cái dàibiǎo shíjīnbúmèi yǐjīng chéngwéi wǒmen shèhuì lǐ zìrán liúlù de Měidé.",
      "en": "If one day returning lost money is no longer news, and instead those who won't return things and like to take advantage of others make the news, only then will it mean that returning lost property has become a virtue that comes naturally in our society."
     }
    ],
@@ -917,7 +918,7 @@
     },
     "B": {
      "zh": "大家不認為拾金不昧是美德",
-     "py": "Dàjiā bù rènwéi shíjīnbúmèi shì Měidé",
+     "py": "Dàjiā bú rènwéi shíjīnbúmèi shì Měidé",
      "en": "(B) People don't think returning lost money is a virtue."
     },
     "C": {
@@ -935,7 +936,7 @@
   "27": {
    "stem": {
     "zh": "第二段中的「這類行為」指的是什麼？",
-    "py": "Dìèrduàn zhōng de “Zhè lèi xíngwéi” zhǐ de shì shénme?",
+    "py": "Dì'èrduàn zhōng de “Zhè lèi xíngwéi” zhǐ de shì shénme?",
     "en": "What does \"such behavior\" in the second paragraph refer to?"
    },
    "options": {
@@ -1004,12 +1005,12 @@
     },
     {
      "zh": "這棟建築的鋼架是個巨大的「X」，這個符號在中華文化中意味著「遭殃」，只有罪犯名字上才會出現。",
-     "py": "Zhèdòng jiànzhù de gāngjià shì gè jùdà de “X”, zhè ge fúhào zài Zhōnghuáwénhuà zhōng yìwèizhù “Zāoyāng”, zhǐyǒu zuìfàn míngzi shàngcái huì chūxiàn.",
+     "py": "Zhèdòng jiànzhù de gāngjià shì gè jùdà de “X”, zhè ge fúhào zài Zhōnghuáwénhuà zhōng yìwèizhe “Zāoyāng”, zhǐyǒu zuìfàn míngzi shàngcái huì chūxiàn.",
      "en": "The building's steel frame forms a giant \"X,\" a symbol that in Chinese culture means \"disaster\" and only appears on criminals' names."
     },
     {
      "zh": "風波爆發後，貝聿銘將這個符號巧妙地隱藏了起來，用類似佛教吉祥標誌的建物蓋住，這才皆大歡喜。",
-     "py": "Fēngbō bàofā hòu, Bèiyùmíng jiāng zhè ge fúhào qiǎomiào dì yǐncáng le qǐlái, yòng lèisì Fójiào Jíxiáng biāozhì de jiànwù gàizhù, zhè cái jiēdàhuānxǐ.",
+     "py": "Fēngbō bàofā hòu, Bèiyùmíng jiāng zhè ge fúhào qiǎomiào de yǐncáng le qǐlái, yòng lèisì Fójiào Jíxiáng biāozhì de jiànwù gàizhù, zhè cái jiēdàhuānxǐ.",
      "en": "After the controversy broke out, Pei cleverly hid the symbol, covering it with a structure resembling an auspicious Buddhist emblem, and only then was everyone happy."
     },
     {
@@ -1019,7 +1020,7 @@
     },
     {
      "zh": "除此之外，附近的滙豐銀行也正好與此刀鋒相對，使銀行業績受到嚴重影響，於是滙豐銀行便在自家樓頂加裝兩座對著中銀大廈的砲台，用這種特殊的道具來反制對方的殺氣，業績才逐漸好轉。",
-     "py": "Chúcǐzhīwài, fùjìn de Huìfēngyínháng yě zhènghǎo yǔ cǐ dāofēng xiāngduì, shǐ yínháng yèjì shòudào yánzhòng yǐngxiǎng, yúshì Huìfēngyínháng biàn zài zìjiā lóudǐng jiāzhuāng liǎngzuò duìzhù Zhōngyín dàshà de pào tái, yòng zhèzhǒng tèshū de dàojù lái fǎnzhì duìfāng de shāqì, yèjì cái zhújiàn hǎozhuǎn.",
+     "py": "Chúcǐzhīwài, fùjìn de Huìfēngyínháng yě zhènghǎo yǔ cǐ dāofēng xiāngduì, shǐ yínháng yèjì shòudào yánzhòng yǐngxiǎng, yúshì Huìfēngyínháng biàn zài zìjiā lóudǐng jiāzhuāng liǎngzuò duìzhe Zhōngyín dàshà de pào tái, yòng zhèzhǒng tèshū de dàojù lái fǎnzhì duìfāng de shāqì, yèjì cái zhújiàn hǎozhuǎn.",
      "en": "Besides that, the nearby HSBC building happened to face the blade too, and the bank's business was seriously affected. So HSBC installed two cannons on its own roof pointing at the Bank of China Tower, using this special prop to counter the other side's killing energy, and its business gradually improved."
     },
     {
@@ -1039,7 +1040,7 @@
     },
     {
      "zh": "另外，辦公室常見的盆栽也是改變運勢的好幫手，能夠扭轉乾坤並帶來好運的盆栽如金錢竹、蘭花等，當這些植物的花謝了、葉枯了，一定得立即更換，好運才能延續。",
-     "py": "Lìngwài, bàngōngshì chángjiàn de pénzāi yě shì gǎibiàn yùnshì de hǎobāngshǒu, nénggòu niǔzhuǎnqiánkūn bìng dàilái hǎoyùn de pénzāi rú jīnqián zhú, Lánhuā děng, dāng zhèxiē zhíwù de huāxiè le, yè kū le, yídìng dé lìjí gēnghuàn, hǎoyùn cáinéng yánxù.",
+     "py": "Lìngwài, bàngōngshì chángjiàn de pénzāi yě shì gǎibiàn yùnshì de hǎobāngshǒu, nénggòu niǔzhuǎnqiánkūn bìng dàilái hǎoyùn de pénzāi rú jīnqián zhú, Lánhuā děng, dāng zhèxiē zhíwù de huāxiè le, yè kū le, yídìng děi lìjí gēnghuàn, hǎoyùn cáinéng yánxù.",
      "en": "in addition, the potted plants common in offices are also good helpers for changing your fortune. Plants that can turn things around and bring good luck include lucky bamboo and orchids; when these plants' flowers fade or leaves wither, they must be replaced immediately for the good luck to continue."
     }
    ],
@@ -1051,7 +1052,7 @@
    "options": {
     "A": {
      "zh": "外形長得像刀子",
-     "py": "Wàixíng zhǎng dé xiàng dāozi",
+     "py": "Wàixíng zhǎng de xiàng dāozi",
      "en": "(A) Its shape looks like a knife."
     },
     "B": {
@@ -1085,7 +1086,7 @@
     },
     "B": {
      "zh": "說明中銀大廈建造過程中的工安問題",
-     "py": "Shuōmíng Zhōngyín dàshà jiànzào guòchéng zhōng de gōngān wèntí",
+     "py": "Shuōmíng Zhōngyín dàshà jiànzào guòchéng zhōng de gōng'ān wèntí",
      "en": "(B) To explain safety problems during the tower's construction"
     },
     "C": {
@@ -1124,7 +1125,7 @@
     },
     "D": {
      "zh": "他們用砲台巧妙地化解了風水問題",
-     "py": "Tāmen yòng pào tái qiǎomiào dì huàjiě le fēngshuǐ wèntí",
+     "py": "Tāmen yòng pào tái qiǎomiào de huàjiě le fēngshuǐ wèntí",
      "en": "(D) They cleverly solved the feng shui problem with cannons."
     }
    }
@@ -1177,12 +1178,12 @@
     },
     {
      "zh": "在中國南方，稻田在第一期收割完成後，經常接著栽種菱角幼苗，並在水田中放養泥鰍或淡水魚以增加收入。",
-     "py": "Zài Zhōngguó nánfāng, dàotián zài dìyìqī shōugē wánchéng hòu, jīngcháng jiēzhù zāizhòng língjiǎo yòumiáo, bìng zài shuǐtián zhōng fàngyǎng níqiū huò dànshuǐyú yǐ zēngjiāshōurù.",
+     "py": "Zài Zhōngguó nánfāng, dàotián zài dìyìqī shōugē wánchéng hòu, jīngcháng jiēzhe zāizhòng língjiǎo yòumiáo, bìng zài shuǐtián zhōng fàngyǎng níqiū huò dànshuǐyú yǐ zēngjiāshōurù.",
      "en": "In southern China, after the first rice harvest, water caltrop seedlings are often planted in the paddies, and loaches or freshwater fish are raised in them to increase income."
     },
     {
      "zh": "收穫：農夫從種下菱角幼苗到菱角開花結果收成，通常需要90到120天。採收後依菱角的重量篩選，重者為優品。",
-     "py": "Shōuhuò: Nóngfū cóng zhǒng xià língjiǎo yòumiáo dào língjiǎo kāihuājiéguǒ shōuchéng, tōngcháng xūyào 90 dào 120 tiān. Cǎishōu hòu yī língjiǎo de zhòngliàng shāixuǎn, zhòngzhě wèi yōupǐn.",
+     "py": "Shōuhuò: Nóngfū cóng zhòng xià língjiǎo yòumiáo dào língjiǎo kāihuājiéguǒ shōuchéng, tōngcháng xūyào 90 dào 120 tiān. Cǎishōu hòu yī língjiǎo de zhòngliàng shāixuǎn, zhòngzhě wéi yōupǐn.",
      "en": "Harvest: From planting the seedlings to flowering, fruiting and harvest usually takes 90 to 120 days. After harvesting, the caltrops are sorted by weight; heavier ones are top grade."
     },
     {
@@ -1192,12 +1193,12 @@
     },
     {
      "zh": "花朵：花朵顏色為白色，體積不大，但特性和有「太陽花」之稱的向日葵一樣，花朵會自然地面朝太陽，所以上午時花朵面朝東，傍晚時則面朝西。",
-     "py": "Huāduǒ: Huāduǒ yánsè wèi báisè, tǐjī bù dà, dàn tèxìng hé yǒu “Tàiyáng huā” zhī chēng de xiàngrìkuí yíyàng, huāduǒ huì zìrán dìmiàn Cháo Tàiyáng, suǒyǐ shàngwǔ shí huāduǒ miàncháo Dōng, bàngwǎn shízé miàncháo xī.",
+     "py": "Huāduǒ: Huāduǒ yánsè wèi báisè, tǐjī bú dà, dàn tèxìng hé yǒu “Tàiyáng huā” zhī chēng de xiàngrìkuí yíyàng, huāduǒ huì zìrán dìmiàn Cháo Tàiyáng, suǒyǐ shàngwǔ shí huāduǒ miàncháo Dōng, bàngwǎn shízé miàncháo xī.",
      "en": "Flowers: The flowers are white and small, but like the sunflower, known as the \"sun flower,\" they naturally face the sun—so in the morning they face east and in the evening west."
     },
     {
      "zh": "不過，有別於鮮黃耀眼的向日葵能輕易地捕捉眾人目光，菱角白皙的小花像是靜靜的少女，不爭奇鬥豔，正因平凡、不醒目，也就能保護自己不被隨便摘折。",
-     "py": "Búguò, yǒubiéyú xiānhuáng yàoyǎn de xiàngrìkuí néng qīngyì dì bǔzhuō zhòngrén mùguāng, língjiǎo Báixī de xiǎohuā xiàngshì jìngjìngde shàonǚ, bù zhēngqídòuyàn, zhèng yīn píngfán, bù xǐngmù, yě jiù néng bǎohù zìjǐ bù bèi suíbiàn zhāizhé.",
+     "py": "Búguò, yǒubiéyú xiānhuáng yàoyǎn de xiàngrìkuí néng qīngyì de bǔzhuō zhòngrén mùguāng, língjiǎo Báixī de xiǎohuā xiàngshì jìngjìngde shàonǚ, bù zhēngqídòuyàn, zhèng yīn píngfán, bù xǐngmù, yě jiù néng bǎohù zìjǐ bú bèi suíbiàn zhāizhé.",
      "en": "However, unlike the bright yellow sunflower that easily catches everyone's eye, the caltrop's small white flower is like a quiet young girl that doesn't compete for attention; precisely because it is plain and inconspicuous, it protects itself from being casually picked."
     }
    ]
@@ -1205,7 +1206,7 @@
   "33": {
    "stem": {
     "zh": "第一段文字中有關菱角的敘述，下列哪一個不對？",
-    "py": "Dìyíduàn wénzì zhōng yǒuguān língjiǎo de xùshù, xiàliè nǎ yí ge bù duì?",
+    "py": "Dìyíduàn wénzì zhōng yǒuguān língjiǎo de xùshù, xiàliè nǎ yí ge bú duì?",
     "en": "Which statement about the water caltrop in the first paragraph is NOT correct?"
    },
    "options": {
@@ -1226,7 +1227,7 @@
     },
     "D": {
      "zh": "適合種在濕潤的泥土地",
-     "py": "Shìhé zhǒng zài shīrùn de nítǔ dì",
+     "py": "Shìhé zhòng zài shīrùn de nítǔ dì",
      "en": "(D) It's suited to planting in wet, muddy ground."
     }
    }
@@ -1234,7 +1235,7 @@
   "34": {
    "stem": {
     "zh": "關於第二段文字的內容，下面哪一項是對的？",
-    "py": "Guānyú dìèrduàn wénzì de nèiróng, xiàmiàn nǎ yíxiàng shì duì de?",
+    "py": "Guānyú dì'èrduàn wénzì de nèiróng, xiàmiàn nǎ yíxiàng shì duì de?",
     "en": "About the second paragraph, which of the following is correct?"
    },
    "options": {
@@ -1308,7 +1309,7 @@
     },
     {
      "zh": "II 然而，由於民眾自己也會買殺蟲劑噴藥，政府和民眾噴的藥互相干擾，使得病媒蚊產生更強的抗藥性。",
-     "py": "II ránér, yóuyú mínzhòng zìjǐ yě huì mǎi shāchóngjì pēnyào, zhèngfǔ hé mínzhòng pēn de yào hùxiāng gānrǎo, shǐde bìngméi wén chǎnshēng gèng qiáng de Kàngyàoxìng.",
+     "py": "II rán'ér, yóuyú mínzhòng zìjǐ yě huì mǎi shāchóngjì pēnyào, zhèngfǔ hé mínzhòng pēn de yào hùxiāng gānrǎo, shǐde bìngméi wén chǎnshēng gèng qiáng de Kàngyàoxìng.",
      "en": "II However, because people also buy insecticide and spray it themselves, the government's and the public's sprays interfere with each other, giving vector mosquitoes even stronger resistance."
     },
     {
@@ -1404,7 +1405,7 @@
    "options": {
     "A": {
      "zh": "未來得防範野蛇",
-     "py": "Wèilái dé fángfàn yěshé",
+     "py": "Wèilái děi fángfàn yěshé",
      "en": "(A) Wild snakes will have to be guarded against later."
     },
     "B": {
@@ -1503,7 +1504,7 @@
     },
     {
      "zh": "除了個人喜好及飲食習慣使然，根據以下實驗我們還將知道，心理因素也扮演著味覺選擇上的要角。",
-     "py": "Chúle gèrén xǐhào jí yǐnshíxíguàn shǐrán, gēnjù yǐxià shíyàn wǒmen hái jiāng zhīdào, xīnlǐyīnsù yě bànyǎn zhù wèijué xuǎnzé shàng de yàojiǎo.",
+     "py": "Chúle gèrén xǐhào jí yǐnshíxíguàn shǐrán, gēnjù yǐxià shíyàn wǒmen hái jiāng zhīdào, xīnlǐyīnsù yě bànyǎn zhe wèijué xuǎnzé shàng de yàojiǎo.",
      "en": "Besides personal taste and eating habits, the following experiments show that psychological factors also play a key role in taste choices."
     },
     {
@@ -1575,7 +1576,7 @@
     },
     "B": {
      "zh": "適當節食才是養生的不二法門",
-     "py": "Shìdàng jiéshí cái shì yǎngshēng de búèrfǎmén",
+     "py": "Shìdàng jiéshí cái shì yǎngshēng de bú'èrfǎmén",
      "en": "(B) Moderate dieting is the only way to good health."
     },
     "C": {
@@ -1622,7 +1623,7 @@
   "43": {
    "stem": {
     "zh": "若要將「實際的飲食習慣經常與吃出健康的口號背道而馳，」這 段話插入第四段，下面哪個位置最為合適？",
-    "py": "Ruòyào jiāng “Shíjì de yǐnshíxíguàn jīngcháng yǔ chīchū jiànkāng de kǒuhào bèidàoérchí,” zhè duàn huà chārù dìsìduàn, xiàmiàn nǎ ge wèizhì zuìwèi héshì?",
+    "py": "Ruòyào jiāng “Shíjì de yǐnshíxíguàn jīngcháng yǔ chīchū jiànkāng de kǒuhào bèidào'érchí,” zhè duàn huà chārù dìsìduàn, xiàmiàn nǎ ge wèizhì zuìwèi héshì?",
     "en": "If the sentence \"Actual eating habits often run counter to the slogan of eating for health,\" were inserted into the fourth paragraph, which position would be most suitable?"
    }
   },
@@ -1640,7 +1641,7 @@
     },
     "B": {
      "zh": "美食品味的城鄉差異並不令人意外",
-     "py": "Měishí pǐnwèi de chéngxiāngchāyì bìng bù Lìngrén yìwài",
+     "py": "Měishí pǐnwèi de chéngxiāngchāyì bìng bú Lìngrén yìwài",
      "en": "(B) Urban–rural differences in food taste are not surprising."
     },
     "C": {
@@ -1658,13 +1659,13 @@
   "45": {
    "stem": {
     "zh": "若作者想根據此一研究結果進行延伸研究，下面哪一項可能是其 研究方向？",
-    "py": "Ruò zuòzhě xiǎng gēnjù cǐ yī yánjiū jiéguǒ jìnxíng yánshēn yánjiū, xiàmiàn nǎ yíxiàng kěnéng shì qí yánjiū fāngxiàng?",
+    "py": "Ruò zuòzhě xiǎng gēnjù cǐ yì yánjiū jiéguǒ jìnxíng yánshēn yánjiū, xiàmiàn nǎ yíxiàng kěnéng shì qí yánjiū fāngxiàng?",
     "en": "If the author wanted to do follow-up research based on these results, which of the following might be the research direction?"
    },
    "options": {
     "A": {
      "zh": "從食安視角來分析文明病的生成",
-     "py": "Cóng shíān shìjiǎo lái fēnxī Wénmíng bìng de shēngchéng",
+     "py": "Cóng shí'ān shìjiǎo lái fēnxī Wénmíng bìng de shēngchéng",
      "en": "(A) Analyzing the emergence of lifestyle diseases from a food-safety perspective"
     },
     "B": {
@@ -1698,22 +1699,22 @@
     },
     {
      "zh": "他表示，中國人在教育方面的支出「高得越來越離譜」。",
-     "py": "Tā biǎoshì, Zhōngguó rén zài jiàoyù fāngmiàn de zhīchū “Gāo dé yuèláiyuè lípǔ”.",
+     "py": "Tā biǎoshì, Zhōngguó rén zài jiàoyù fāngmiàn de zhīchū “Gāo de yuèláiyuè lípǔ”.",
      "en": "He says Chinese spending on education is \"getting more and more outrageously high.\""
     },
     {
      "zh": "會如此捨得的不只有中產階級家庭，勞工階級也視「接受教育」為未來能確保孩子社會地位的唯一途徑。",
-     "py": "Huì rúcǐ shěde de bù zhǐyǒu zhōngchǎnjiējí jiātíng, láogōngjiējí yě shì “Jiēshòu jiàoyù” wèi wèilái néng quèbǎo háizi shèhuì dìwèi de wéiyī tújìng.",
+     "py": "Huì rúcǐ shěde de bù zhǐyǒu zhōngchǎnjiējí jiātíng, láogōngjiējí yě shì “Jiēshòu jiàoyù” wéi wèilái néng quèbǎo háizi shèhuì dìwèi de wéiyī tújìng.",
      "en": "It's not only middle-class families who are so willing to spend; the working class also see \"getting an education\" as the only way to secure their children's future social status."
     },
     {
      "zh": "為了使子女過得比自己更好，有些人因此深陷負債的泥沼之中。",
-     "py": "Wèile shǐ zǐnǚ guò dé bǐ zìjǐ gènghǎo, yǒuxiē rén yīncǐ shēnxiàn fùzhài de nízhǎo zhīzhōng.",
+     "py": "Wèile shǐ zǐnǚ guò de bǐ zìjǐ gènghǎo, yǒuxiē rén yīncǐ shēnxiàn fùzhài de nízhǎo zhīzhōng.",
      "en": "To make their children's lives better than their own, some people sink deep into a quagmire of debt."
     },
     {
      "zh": "基普尼斯表示，許多鄉村地區的父母不願接受醫療服務，寧可把錢花在子女的教育上，甚至不惜向親戚借錢。",
-     "py": "Jīpǔ Nísī biǎoshì, xǔduō xiāngcūn dìqū de fùmǔ bù yuàn jiēshòu yīliáo fúwù, Nìngkě bǎ qián huā zài zǐnǚ de jiàoyù shàng, shènzhì bùxī xiàng qīnqī jièqián.",
+     "py": "Jīpǔ Nísī biǎoshì, xǔduō xiāngcūn dìqū de fùmǔ bú yuàn jiēshòu yīliáo fúwù, Nìngkě bǎ qián huā zài zǐnǚ de jiàoyù shàng, shènzhì bùxī xiàng qīnqī jièqián.",
      "en": "Kipnis says many parents in rural areas refuse medical services, preferring to spend the money on their children's education, even borrowing from relatives."
     },
     {
@@ -1738,7 +1739,7 @@
     },
     {
      "zh": "這也意味著， III 這批年輕人畢業後，將面臨極大的就業壓力。",
-     "py": "Zhè yě yìwèizhù, III zhè pī niánqīngrén bìyè hòu, jiāng miànlín jídà de jiùyè yālì.",
+     "py": "Zhè yě yìwèizhe, III zhè pī niánqīngrén bìyè hòu, jiāng miànlín jídà de jiùyè yālì.",
      "en": "This also means that ___III___ these young people will face enormous employment pressure after graduating."
     },
     {
@@ -1758,13 +1759,13 @@
     },
     {
      "zh": "倘若希望跳脫文憑主義的牢籠，恐怕只能仰賴亞洲企業主，主動破除學歷至上的就業文化，才能一改人們經年以來對於「崇尚文憑」的迷思。",
-     "py": "Tǎngruò xīwàng tiàotuō wénpíngzhǔyì de láolóng, kǒngpà zhǐnéng yǎnglài Yàzhōu qǐyèzhǔ, zhǔdòng pòchú xuélì zhìshàng de jiùyè wénhuà, cáinéng yī gǎi rénmen jīng nián yǐlái duìyú “Chóngshàng wénpíng” de mísī.",
+     "py": "Tǎngruò xīwàng tiàotuō wénpíngzhǔyì de láolóng, kǒngpà zhǐnéng yǎnglài Yàzhōu qǐyèzhǔ, zhǔdòng pòchú xuélì zhìshàng de jiùyè wénhuà, cáinéng yì gǎi rénmen jīng nián yǐlái duìyú “Chóngshàng wénpíng” de mísī.",
      "en": "If we want to break out of the cage of credentialism, I'm afraid we can only rely on Asian employers to take the initiative to break the employment culture that puts qualifications above all; only then can people's long-held myth of \"worshipping diplomas\" be changed."
     }
    ],
    "stem": {
     "zh": "本文指出，中國勞工階級對教育抱持著什麼樣的態度？",
-    "py": "Běnwén zhǐchū, Zhōngguó láogōngjiējí duì jiàoyù bàochí zhù shénmeyàng de tàidù?",
+    "py": "Běnwén zhǐchū, Zhōngguó láogōngjiējí duì jiàoyù bàochí zhe shénmeyàng de tàidù?",
     "en": "According to the article, what attitude do China's working class hold toward education?"
    },
    "options": {
@@ -1822,7 +1823,7 @@
   "48": {
    "stem": {
     "zh": "如果要將「海外學位的優勢相較於過去早已不可同日而語，」插 入第二段中，哪個位置最為合適？",
-    "py": "Rúguǒ yào jiāng “Hǎiwài xuéwèi de yōushì xiāngjiào yú guòqù zǎoyǐ bùkětóngrìéryǔ,” chā rù dìèrduàn zhōng, nǎ ge wèizhì zuìwèi héshì?",
+    "py": "Rúguǒ yào jiāng “Hǎiwài xuéwèi de yōushì xiāngjiào yú guòqù zǎoyǐ bùkětóngrì'éryǔ,” chā rù dì'èrduàn zhōng, nǎ ge wèizhì zuìwèi héshì?",
     "en": "If the sentence \"The advantage of an overseas degree is no longer what it used to be,\" were inserted into the second paragraph, which position would be most suitable?"
    }
   },

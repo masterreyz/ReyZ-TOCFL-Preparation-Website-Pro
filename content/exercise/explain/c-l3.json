@@ -2,6 +2,7 @@
  "testId": "c-l3",
  "segments": 404,
  "englishComplete": true,
+ "indonesianComplete": false,
  "questions": {
   "1": {
    "options": {
@@ -108,7 +109,7 @@
    "intro": [
     {
      "zh": "小倩要認一位好姊妹的小孩做乾女兒，正在準備所需要的東西，小志看見了很好",
-     "py": "Xiǎoqiàn yào rèn yíwèi hǎozǐmèi de xiǎohái zuò Gànnǚér, zhèngzài zhǔnbèi suǒ xūyào de Dōngxi, Xiǎozhì kànjiàn le hěnhǎo",
+     "py": "Xiǎoqiàn yào rèn yíwèi hǎozǐmèi de xiǎohái zuò Gànnǚ'ér, zhèngzài zhǔnbèi suǒ xūyào de Dōngxi, Xiǎozhì kànjiàn le hěnhǎo",
      "en": "Xiaoqian is going to take a close friend's child as her goddaughter and is preparing the things needed. Xiaozhi saw this and was very"
     },
     {
@@ -123,7 +124,7 @@
     },
     {
      "zh": "男：喔，這套嬰兒服是給小寶寶的吧！顏色真漂亮！但是…茶——壺是怎麼回事",
-     "py": "Nán: Ō, zhè tào yīngér fú shì gěi Xiǎobǎobǎo de ba! Yánsè zhēn piàoliang! Dànshì… chá—— hú shì zěnmehuíshì",
+     "py": "Nán: Ō, zhè tào yīng'ér fú shì gěi Xiǎobǎobǎo de ba! Yánsè zhēn piàoliang! Dànshì… chá—— hú shì zěnmehuíshì",
      "en": "Man: Oh, this baby outfit must be for the little baby! Lovely color! But… what's the teapot"
     },
     {
@@ -133,12 +134,12 @@
     },
     {
      "zh": "女：小志，在中國人的習俗裡，認乾女兒要講禮數的喔，簡單來說，這茶壺裡裝",
-     "py": "Nǚ: Xiǎozhì, zài Zhōngguó rén de xísú lǐ, rèn Gànnǚér yào jiǎng lǐshù de ō, jiǎndān láishuō, zhè cháhú lǐ zhuāng",
+     "py": "Nǚ: Xiǎozhì, zài Zhōngguó rén de xísú lǐ, rèn Gànnǚ'ér yào jiǎng lǐshù de ō, jiǎndān láishuō, zhè cháhú lǐ zhuāng",
      "en": "Woman: Xiaozhi, by Chinese custom, taking a goddaughter involves proper etiquette. Simply put, filling this teapot"
     },
     {
      "zh": "上米和水送給小寶寶，這樣尌表示我收了個乾女兒。",
-     "py": "Shàngmǐhéshuǐ sònggěi Xiǎobǎobǎo, zhèyàng shù biǎoshì wǒ shōu le gè Gànnǚér.",
+     "py": "Shàngmǐhéshuǐ sònggěi Xiǎobǎobǎo, zhèyàng shù biǎoshì wǒ shōu le gè Gànnǚ'ér.",
      "en": "with rice and water and giving it to the baby shows that I've taken her as my goddaughter."
     },
     {
@@ -148,17 +149,17 @@
     },
     {
      "zh": "得要比小孩兒至少年長二十歲以上。如果是夫妻，只要有一方不符規定，尌",
-     "py": "Dé yào bǐ xiǎoháiér zhìshǎo niánzhǎng èrshísuì yǐshàng. Rúguǒ shì fūqī, zhǐyào yǒu yìfāng bùfú guīdìng, shù",
+     "py": "Děi yào bǐ xiǎoháir zhìshǎo niánzhǎng èrshísuì yǐshàng. Rúguǒ shì fūqī, zhǐyào yǒu yìfāng bùfú guīdìng, shù",
      "en": "must be at least twenty years older than the child. If it's a married couple and either one doesn't meet the requirement,"
     },
     {
      "zh": "無效，妳確定要這麼做嗎？妳的條件不太符合耶！",
-     "py": "Wúxiào, nǐ quèdìng yào zhème zuò ma? Nǐ de tiáojiàn bù tài fúhé Yé!",
+     "py": "Wúxiào, nǐ quèdìng yào zhème zuò ma? Nǐ de tiáojiàn bú tài fúhé Yé!",
      "en": "it's invalid. Are you sure you want to do this? You don't really meet the conditions!"
     },
     {
      "zh": "女：唉唷，認乾女兒哪有這麼複雜？不用經過什麼法律程序。小孩還是跟自己的",
-     "py": "Nǚ: Āi yō, rèn Gànnǚér nǎ yǒu zhème fùzá? Búyòng jīngguò shénme fǎlǜ chéngxù. Xiǎohái háishì gēn zìjǐ de",
+     "py": "Nǚ: Āi yō, rèn Gànnǚ'ér nǎ yǒu zhème fùzá? Búyòng jīngguò shénme fǎlǜ chéngxù. Xiǎohái háishì gēn zìjǐ de",
      "en": "Woman: Oh come on, taking a goddaughter isn't that complicated! No legal procedure is needed. The child still lives with her own"
     },
     {
@@ -178,12 +179,12 @@
     },
     {
      "zh": "女：小志，你完全誤會了，認乾兒子、乾女兒，並不是要撫養對方的小孩，而是",
-     "py": "Nǚ: Xiǎozhì, nǐ wánquán wùhuì le, rèn gānérzi, Gànnǚér, bìng búshì yào fǔyǎng duìfāng de xiǎohái, érshì",
+     "py": "Nǚ: Xiǎozhì, nǐ wánquán wùhuì le, rèn gān'érzi, Gànnǚ'ér, bìng búshì yào fǔyǎng duìfāng de xiǎohái, érshì",
      "en": "Woman: Xiaozhi, you've completely misunderstood. Taking a godson or goddaughter doesn't mean raising someone else's child; it's"
     },
     {
      "zh": "因為和朋友交情匪淺，願意把他們的孩子當作自己的孩子一樣疼愛的一種表",
-     "py": "Yīnwèi hé péngyǒu jiāoqíng fěi qiǎn, yuànyì bǎ tāmen de háizi dàngzuò zìjǐ de háizi yíyàng téngài de yìzhǒng biǎo",
+     "py": "Yīnwèi hé péngyǒu jiāoqíng fěi qiǎn, yuànyì bǎ tāmen de háizi dàngzuò zìjǐ de háizi yíyàng téng'ài de yìzhǒng biǎo",
      "en": "a way of showing that, because you're very close to your friends, you're willing to love their child as your own"
     },
     {
@@ -214,7 +215,7 @@
     },
     "C": {
      "zh": "領養與認乾女兒的不同",
-     "py": "Lǐngyǎng yǔ rèn Gànnǚér de bùtóng",
+     "py": "Lǐngyǎng yǔ rèn Gànnǚ'ér de bùtóng",
      "en": "(C) The difference between adoption and taking a goddaughter"
     },
     "D": {
@@ -257,7 +258,7 @@
    "transcript": [
     {
      "zh": "最後，小志覺得認乾女兒這件事怎麼樣？",
-     "py": "Zuìhòu, Xiǎozhì juéde rèn Gànnǚér zhèjiàn shì zěnmeyàng?",
+     "py": "Zuìhòu, Xiǎozhì juéde rèn Gànnǚ'ér zhèjiàn shì zěnmeyàng?",
      "en": "In the end, what does Xiaozhi think about taking a goddaughter?"
     }
    ]
@@ -478,7 +479,7 @@
     },
     {
      "zh": "女：唉呦！敢情是古道西風瘦馬，苦命呦這馬；哈哈！瞧你穿著長袍馬掛—酸秀",
-     "py": "Nǚ: Āi yōu! Gǎnqíngshì gǔdào Xīfēng Shòumǎ, kǔmìng yōu zhè mǎ; hāhā! Qiáo nǐ chuānzhù chángpáo mǎ guà— suānxiù",
+     "py": "Nǚ: Āi yōu! Gǎnqíngshì gǔdào Xīfēng Shòumǎ, kǔmìng yōu zhè mǎ; hāhā! Qiáo nǐ chuānzhe chángpáo mǎ guà— suānxiù",
      "en": "Woman: Oh my! So it's \"ancient road, west wind, thin horse\"—poor horse! Ha ha! Look at you in your long gown and riding jacket—a sour"
     },
     {
@@ -498,7 +499,7 @@
     },
     {
      "zh": "進京趕考，然後…遇到辣妹，接著一時天雷勾動地火、一發不可收拾的故事",
-     "py": "Jìnjīng gǎnkǎo, ránhòu… yùdào làmèi, jiēzhù yìshí tiānléi gōudòng dìhuǒ, yìfā bùkěshōushí de gùshì",
+     "py": "Jìnjīng gǎnkǎo, ránhòu… yùdào làmèi, jiēzhe yìshí tiānléi gōudòng dìhuǒ, yìfā bùkěshōushí de gùshì",
      "en": "going to the capital for the imperial exams, then… meeting a hot girl, and then sparks fly and it gets out of"
     },
     {
@@ -508,7 +509,7 @@
     },
     {
      "zh": "男：瞧你那垂涎樣兒，省省吧！我剛不說了這是個春秋戰國的故事。這春秋戰國",
-     "py": "Nán: Qiáo nǐ nà chuíxián yàngér, shěng shěng ba! Wǒ gāng bù shuō le zhè shì gè Chūnqiūzhànguó de gùshì. Zhè Chūnqiūzhànguó",
+     "py": "Nán: Qiáo nǐ nà chuíxián yàngr, shěng shěng ba! Wǒ gāng bù shuō le zhè shì gè Chūnqiūzhànguó de gùshì. Zhè Chūnqiūzhànguó",
      "en": "Man: Look at you drooling—save it! Didn't I just say this is a story from the Spring and Autumn and Warring States period? How could there be"
     },
     {
@@ -543,7 +544,7 @@
     },
     {
      "zh": "女：欸，你走哪兒去啊？",
-     "py": "Nǚ: Āi, nǐ zǒu nǎér qù a?",
+     "py": "Nǚ: Āi, nǐ zǒu nǎr qù a?",
      "en": "Woman: Hey, where are you going?"
     },
     {
@@ -618,7 +619,7 @@
     },
     {
      "zh": "女：地方繁榮或許能提高房產價值，但是隨之而來的房價飆升，最後真正得利的",
-     "py": "Nǚ: Dìfāng fánróng huòxǔ néng tígāo fángchǎn jiàzhí, dànshì suízhīérlái de fángjià biāoshēng, zuìhòu zhēnzhèng délì de",
+     "py": "Nǚ: Dìfāng fánróng huòxǔ néng tígāo fángchǎn jiàzhí, dànshì suízhī'érlái de fángjià biāoshēng, zuìhòu zhēnzhèng délì de",
      "en": "Woman: Local prosperity may raise property values, but with the soaring house prices that follow, who really benefits in the end—"
     },
     {
@@ -648,14 +649,14 @@
     },
     {
      "zh": "男：哇，經妳這麼一說，我想李博士恐怕是拿不到我手中那一票了，哈哈哈！",
-     "py": "Nán: Wa, jīng nǐ zhème yī shuō, wǒ xiǎng Lǐbóshì kǒngpà shì ná búdào wǒ shǒuzhōng nà yípiào le, hāhāhā!",
+     "py": "Nán: Wa, jīng nǐ zhème yì shuō, wǒ xiǎng Lǐbóshì kǒngpà shì ná búdào wǒ shǒuzhōng nà yípiào le, hāhāhā!",
      "en": "Man: Wow, after what you've said, I'm afraid Dr. Li won't be getting my vote, ha ha ha!"
     }
    ],
    "transcript": [
     {
      "zh": "根據對話，這位候選人著重城市哪方面的發展？",
-     "py": "Gēnjù duìhuà, zhèwèi hòuxuǎnrén zhùzhòng Chéngshì nǎ fāngmiàn de fāzhǎn?",
+     "py": "Gēnjù duìhuà, zhèwèi hòuxuǎnrén zhuózhòng Chéngshì nǎ fāngmiàn de fāzhǎn?",
      "en": "According to the conversation, which aspect of the city's development does this candidate focus on?"
     }
    ]
@@ -831,7 +832,7 @@
     },
     {
      "zh": "們靜止、動也不動地靜態畫面。",
-     "py": "Men jìngzhǐ, dòng yě búdòng dì jìngtài huàmiàn.",
+     "py": "Men jìngzhǐ, dòng yě búdòng de jìngtài huàmiàn.",
      "en": "still, completely motionless."
     },
     {
@@ -1047,7 +1048,7 @@
     },
     {
      "zh": "女：石油價格一漲再漲，連帶造成物價波動。現階段石油公司會不會考慮，自行",
-     "py": "Nǚ: Shíyóujiàgé yī zhǎng zài zhǎng, liándài zàochéng wùjià bōdòng. Xiànjiēduàn shíyóu gōngsī huì búhuì kǎolǜ, zìxíng",
+     "py": "Nǚ: Shíyóujiàgé yì zhǎng zài zhǎng, liándài zàochéng wùjià bōdòng. Xiànjiēduàn shíyóu gōngsī huì búhuì kǎolǜ, zìxíng",
      "en": "Woman: Oil prices keep rising, causing price fluctuations across the board. At this stage, will the oil company consider absorbing"
     },
     {
@@ -1119,7 +1120,7 @@
    "options": {
     "A": {
      "zh": "預告一整年的價格",
-     "py": "Yùgào yī zhěngnián de jiàgé",
+     "py": "Yùgào yì zhěngnián de jiàgé",
      "en": "(A) Announce prices for the whole year"
     },
     "B": {
@@ -1129,7 +1130,7 @@
     },
     "C": {
      "zh": "承諾天然氣不調漲",
-     "py": "Chéngnuò tiānránqì bù diàozhǎng",
+     "py": "Chéngnuò tiānránqì bú diàozhǎng",
      "en": "(C) Promise natural gas won't rise"
     },
     "D": {
@@ -1198,12 +1199,12 @@
     },
     "B": {
      "zh": "民眾可透過電腦及手機報案",
-     "py": "Mínzhòng kě tòuguò diànnǎo jí shǒujī bàoàn",
+     "py": "Mínzhòng kě tòuguò diànnǎo jí shǒujī bào'àn",
      "en": "(B) People can report crimes by computer and mobile phone."
     },
     "C": {
      "zh": "民眾可查詢各區的治安狀況",
-     "py": "Mínzhòng kě cháxún gèqū de zhìānzhuàngkuàng",
+     "py": "Mínzhòng kě cháxún gèqū de zhì'ānzhuàngkuàng",
      "en": "(C) People can check the public safety situation in each district."
     },
     "D": {
@@ -1246,12 +1247,12 @@
     },
     "B": {
      "zh": "犯罪者改到其他地方作案",
-     "py": "Fànzuìzhě gǎi dào qítā dìfāng zuòàn",
+     "py": "Fànzuìzhě gǎi dào qítā dìfāng zuò'àn",
      "en": "(B) Criminals moving elsewhere to commit crimes"
     },
     "C": {
      "zh": "警察無法控制犯罪熱區的治安",
-     "py": "Jǐngchá Wúfǎkòngzhì fànzuì rèqū de Zhìān",
+     "py": "Jǐngchá Wúfǎkòngzhì fànzuì rèqū de Zhì'ān",
      "en": "(C) Police being unable to control security in crime hotspots"
     },
     "D": {
@@ -1277,7 +1278,7 @@
    "options": {
     "A": {
      "zh": "大幅提高警察破案獎金",
-     "py": "Dàfútígāo jǐngchá pòàn jiǎngjīn",
+     "py": "Dàfútígāo jǐngchá pò'àn jiǎngjīn",
      "en": "(A) Greatly raising police rewards for solving cases"
     },
     "B": {
@@ -1292,7 +1293,7 @@
     },
     "D": {
      "zh": "獎勵民眾在第一時間報案",
-     "py": "Jiǎnglì mínzhòng zài dìyī shíjiān bàoàn",
+     "py": "Jiǎnglì mínzhòng zài dìyī shíjiān bào'àn",
      "en": "(D) Rewarding people who report crimes immediately"
     }
    },
@@ -1307,7 +1308,7 @@
   "25": {
    "stem": {
     "zh": "市長為什麼認為這項措施對房價的影響不大？ 現在請聽對話。",
-    "py": "Shìzhǎng wèishénme rènwéi zhèxiàng cuòshī duì fángjià de yǐngxiǎng bù dà? Xiànzài qǐng tīng duìhuà.",
+    "py": "Shìzhǎng wèishénme rènwéi zhèxiàng cuòshī duì fángjià de yǐngxiǎng bú dà? Xiànzài qǐng tīng duìhuà.",
     "en": "Why does the mayor think this measure will have little effect on house prices? Now listen to the conversation."
    },
    "options": {
@@ -1318,7 +1319,7 @@
     },
     "B": {
      "zh": "因為民眾買房最重視治安環境",
-     "py": "Yīnwèi mínzhòng mǎifáng zuì zhòngshì Zhìān huánjìng",
+     "py": "Yīnwèi mínzhòng mǎifáng zuì zhòngshì Zhì'ān huánjìng",
      "en": "(B) Because people value public safety most when buying a home"
     },
     "C": {
@@ -1335,7 +1336,7 @@
    "transcript": [
     {
      "zh": "市長為什麼認為這項措施對房價的影響不大？",
-     "py": "Shìzhǎng wèishénme rènwéi zhèxiàng cuòshī duì fángjià de yǐngxiǎng bù dà?",
+     "py": "Shìzhǎng wèishénme rènwéi zhèxiàng cuòshī duì fángjià de yǐngxiǎng bú dà?",
      "en": "Why does the mayor think this measure will have little effect on house prices?"
     }
    ]
@@ -1439,12 +1440,12 @@
     },
     {
      "zh": "吃綜合維他命的人，反而會提高生病的機率。因此，美國營養專家已經不以綜合",
-     "py": "Chī zōnghé Wéitāmìng de rén, fǎnér huì tígāo shēngbìng de jīlǜ. Yīncǐ, Měiguó yíngyǎng zhuānjiā yǐjīng bù yǐ zōnghé",
+     "py": "Chī zōnghé Wéitāmìng de rén, fǎn'ér huì tígāo shēngbìng de jīlǜ. Yīncǐ, Měiguó yíngyǎng zhuānjiā yǐjīng bù yǐ zōnghé",
      "en": "multivitamins every day actually have a higher chance of getting sick. So American nutrition experts no longer regard multivitamins"
     },
     {
      "zh": "維他命作為日常保養身體的食品，也不推薦病人使用。究竟要如何正確地選擇維",
-     "py": "Wéitāmìng zuòwéi rìcháng bǎoyǎng shēntǐ de shípǐn, yě bù tuījiàn bìngrén shǐyòng. Jiūjìng yào rúhé zhèngquè dì xuǎnzé wéi",
+     "py": "Wéitāmìng zuòwéi rìcháng bǎoyǎng shēntǐ de shípǐn, yě bù tuījiàn bìngrén shǐyòng. Jiūjìng yào rúhé zhèngquè de xuǎnzé wéi",
      "en": "as a food for everyday health maintenance, nor do they recommend them to patients. How exactly should you choose vitamins"
     },
     {
@@ -1561,7 +1562,7 @@
    "options": {
     "A": {
      "zh": "小孩長大以後才能分辨善惡",
-     "py": "Xiǎohái Zhǎngdà yǐhòu cáinéng fēnbiànshànè",
+     "py": "Xiǎohái Zhǎngdà yǐhòu cáinéng fēnbiànshàn'è",
      "en": "(A) Children can only tell good from evil when they grow up."
     },
     "B": {
@@ -1650,7 +1651,7 @@
     },
     "C": {
      "zh": "有病卻不看醫生的人",
-     "py": "Yǒu bìng què bù kàn yīshēng de rén",
+     "py": "Yǒu bìng què bú kàn yīshēng de rén",
      "en": "(C) Someone who is ill but doesn't see a doctor"
     },
     "D": {
@@ -1734,7 +1735,7 @@
     },
     "D": {
      "zh": "觀眾覺得演員演得很差",
-     "py": "Guānzhòng juéde yǎnyuán yǎndé hěn chà",
+     "py": "Guānzhòng juéde yǎnyuán yǎn de hěn chà",
      "en": "(D) The audience thought the actor performed badly."
     }
    },
@@ -1877,7 +1878,7 @@
    "options": {
     "A": {
      "zh": "報導寫得太短",
-     "py": "Bàodǎo xiě dé tàiduǎn",
+     "py": "Bàodǎo xiě de tàiduǎn",
      "en": "(A) The report was too short."
     },
     "B": {
@@ -1887,7 +1888,7 @@
     },
     "C": {
      "zh": "只報導不重要的部分",
-     "py": "Zhǐ bàodǎo bù zhòngyào de bùfèn",
+     "py": "Zhǐ bàodǎo bú zhòngyào de bùfèn",
      "en": "(C) He only reported the unimportant parts."
     },
     "D": {
@@ -2009,7 +2010,7 @@
     },
     "C": {
      "zh": "一開始加入越多網站越好",
-     "py": "Yī kāishǐ jiārù yuè duō wǎngzhàn yuè hǎo",
+     "py": "Yì kāishǐ jiārù yuè duō wǎngzhàn yuè hǎo",
      "en": "(C) Join as many sites as possible at the start."
     },
     "D": {
@@ -2045,7 +2046,7 @@
     },
     "C": {
      "zh": "投資虧損的金額過高",
-     "py": "Tóuzī kuīsǔn de jīné guò gāo",
+     "py": "Tóuzī kuīsǔn de jīn'é guò gāo",
      "en": "(C) Investment losses are too high."
     },
     "D": {
@@ -2278,7 +2279,7 @@
     },
     {
      "zh": "洞是孙宙裡最強大的終極食客，它們誘捕物質，且狼吞虎嚥地吞食著。這個能力，",
-     "py": "Dòng shì Sūn Zhòulǐ zuì qiángdà de zhōngjí shíkè, tāmen yòubǔ wùzhì, qiě lángtūnhǔyàn dì tūnshí zhù. Zhè ge nénglì,",
+     "py": "Dòng shì Sūn Zhòulǐ zuì qiángdà de zhōngjí shíkè, tāmen yòubǔ wùzhì, qiě lángtūnhǔyàn de tūnshí zhe. Zhè ge nénglì,",
      "en": "holes are the most powerful ultimate eaters in the universe: they trap matter and devour it greedily. This ability"
     },
     {
@@ -2293,7 +2294,7 @@
     },
     {
      "zh": "衣機洗衣服一樣。洗衣過程中，一會兒靜止，一會兒高速轉動，這斷斷續續的晃",
-     "py": "Yījī xǐyīfú yíyàng. Xǐyī guòchéng zhōng, yíhuìer jìngzhǐ, yíhuìer gāosù zhuǎndòng, zhè duànduànxùxù de huǎng",
+     "py": "Yījī xǐyīfú yíyàng. Xǐyī guòchéng zhōng, yíhuìr jìngzhǐ, yíhuìr gāosù zhuǎndòng, zhè duànduànxùxù de huǎng",
      "en": "machine washing clothes. During washing, it's still one moment and spinning at high speed the next; this on-and-off"
     },
     {
@@ -2308,7 +2309,7 @@
     },
     {
      "zh": "以極高的速度運動著。若黑洞正在旋轉，它們更會在其周邊隨著更高速旋轉。一",
-     "py": "Yǐ jígāo de sùdù yùndòng zhù. Ruò Hēidòng zhèngzài xuánzhuǎn, tāmen gèng huì zài qí zhōubiān suízhù gèng gāosùxuánzhuǎn. Yī",
+     "py": "Yǐ jígāo de sùdù yùndòng zhe. Ruò Hēidòng zhèngzài xuánzhuǎn, tāmen gèng huì zài qí zhōubiān suízhe gèng gāosùxuánzhuǎn. Yī",
      "en": "still moves at extremely high speed. If the black hole is spinning, the matter spins around it even faster. Once"
     },
     {
@@ -2318,7 +2319,7 @@
     },
     {
      "zh": "尌可以轉化為原子與粒子的運動，以及電磁輻射。",
-     "py": "Shù kěyǐ zhuǎnhuà wèi yuánzi yǔ lìzi de yùndòng, yǐjí diàncífúshè.",
+     "py": "Shù kěyǐ zhuǎnhuà wéi yuánzi yǔ lìzi de yùndòng, yǐjí diàncífúshè.",
      "en": "can be converted into the motion of atoms and particles, and into electromagnetic radiation."
     },
     {
@@ -2500,7 +2501,7 @@
     },
     "D": {
      "zh": "使用有效期為五至十二星期",
-     "py": "Shǐyòng yǒuxiàoqī wèi wǔ zhì shíèr xīngqī",
+     "py": "Shǐyòng yǒuxiàoqī wéi wǔ zhì shí'èr xīngqī",
      "en": "(D) It's effective for five to twelve weeks of use."
     }
    },

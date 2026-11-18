@@ -2,6 +2,7 @@
  "testId": "novice-l1",
  "segments": 75,
  "englishComplete": true,
+ "indonesianComplete": false,
  "questions": {
   "1": {
    "transcript": [
@@ -252,17 +253,17 @@
    "transcript": [
     {
      "zh": "(A) 他拿著票。",
-     "py": "(A) tā ná zhùpiào.",
+     "py": "(A) tā ná zhe piào.",
      "en": "(A) He is holding a ticket."
     },
     {
      "zh": "(B) 他拿著魚。",
-     "py": "(B) tā názhù yú.",
+     "py": "(B) tā názhe yú.",
      "en": "(B) He is holding a fish."
     },
     {
      "zh": "(C) 他拿著藥。",
-     "py": "(C) tā názhù yào.",
+     "py": "(C) tā názhe yào.",
      "en": "(C) He is holding medicine."
     }
    ]
@@ -309,17 +310,17 @@
    "transcript": [
     {
      "zh": "(A) 他覺得他寫得不好。",
-     "py": "(A) tā juéde tā xiě dé bùhǎo.",
+     "py": "(A) tā juéde tā xiě de bùhǎo.",
      "en": "(A) He thinks he didn't write well."
     },
     {
      "zh": "(B) 他覺得他畫得不好。",
-     "py": "(B) tā juéde tā huà dé bùhǎo.",
+     "py": "(B) tā juéde tā huà de bùhǎo.",
      "en": "(B) He thinks he didn't draw well."
     },
     {
      "zh": "(C) 他覺得他唱得不好。",
-     "py": "(C) tā juéde tā chàng dé bùhǎo.",
+     "py": "(C) tā juéde tā chàng de bùhǎo.",
      "en": "(C) He thinks he didn't sing well."
     }
    ]

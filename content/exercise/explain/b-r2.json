@@ -2,6 +2,7 @@
  "testId": "b-r2",
  "segments": 325,
  "englishComplete": true,
+ "indonesianComplete": false,
  "questions": {
   "1": {
    "passage": [
@@ -27,7 +28,7 @@
     },
     {
      "zh": "聽說這座城市西邊的郊區有不少便宜的大房子，那裡 4 交通不方便， 4 有很多自然風景，我希望 5 工作穩定以後，再搬到那兒住。",
-     "py": "Tīngshuō zhè zuò Chéngshì xībiān de jiāoqū yǒu bùshǎo piányi de dàfángzi, nàlǐ 4 jiāotōng bù fāngbiàn, 4 yǒu hěnduō zìránfēngjǐng, wǒ xīwàng 5 gōngzuò wěndìng yǐhòu, zàibān dào nàér zhù.",
+     "py": "Tīngshuō zhè zuò Chéngshì xībiān de jiāoqū yǒu bùshǎo piányi de dàfángzi, nàlǐ 4 jiāotōng bù fāngbiàn, 4 yǒu hěnduō zìránfēngjǐng, wǒ xīwàng 5 gōngzuò wěndìng yǐhòu, zàibān dào nàr zhù.",
      "en": "I heard there are many cheap big houses in the suburbs west of this city; ___4___ transportation there is inconvenient, ___4___ there's a lot of natural scenery. I hope ___5___ my job is stable, and then move there."
     }
    ],
@@ -169,7 +170,7 @@
     },
     {
      "zh": "7 付得了，但她最後還是請醫生想辦法治烏龜的病。",
-     "py": "7 fùdé le, dàn tā zuìhòu háishì qǐng yīshēng xiǎng bànfǎ zhì Wūguī de bìng.",
+     "py": "7 fù de liǎo, dàn tā zuìhòu háishì qǐng yīshēng xiǎng bànfǎ zhì Wūguī de bìng.",
      "en": "___7___ be able to pay it, but in the end she still asked the doctor to find a way to treat the turtle."
     },
     {
@@ -179,7 +180,7 @@
     },
     {
      "zh": "現在，小君總算 9 ，要照顧好動物，除了牠們平常食物的費用， 10 得準備牠們臨時可能需要看病的錢，這真的不是一件容易的事。",
-     "py": "Xiànzài, Xiǎojūn zǒngsuàn 9, yào zhàogù hǎo dòngwù, chúle tā men píngcháng shíwù de fèiyòng, 10 dé zhǔnbèi tā men línshí kěnéng xūyào kànbìng de qián, zhè zhēnde búshì yíjiàn róngyì de shì.",
+     "py": "Xiànzài, Xiǎojūn zǒngsuàn 9, yào zhàogù hǎo dòngwù, chúle tā men píngcháng shíwù de fèiyòng, 10 děi zhǔnbèi tā men línshí kěnéng xūyào kànbìng de qián, zhè zhēnde búshì yíjiàn róngyì de shì.",
      "en": "Now Xiaojun finally ___9___ that to take good care of animals, besides the cost of their usual food, you ___10___ have to prepare money for vet visits they may suddenly need—it's really not easy."
     }
    ],
@@ -311,7 +312,7 @@
     },
     {
      "zh": "每年春分這一天，日、夜時間一樣長，世界 11 地都能照到陽光，有「平等」之意，因此，聯合國將這天定為「世界地球日」，",
-     "py": "Měinián chūnfēn zhè yìtiān, rì, yè shíjiān yíyàng zhǎng, shìjiè 11 dì dōu néng zhàodào Yángguāng, yǒu “Píngděng” zhī yì, yīncǐ, Liánhéguó jiāng zhètiān dìngwèi “Shìjiè dìqiúrì”,",
+     "py": "Měinián chūnfēn zhè yìtiān, rì, yè shíjiān yíyàng cháng, shìjiè 11 de dōu néng zhàodào Yángguāng, yǒu “Píngděng” zhī yì, yīncǐ, Liánhéguó jiāng zhètiān dìngwèi “Shìjiè dìqiúrì”,",
      "en": "Every year on the spring equinox, day and night are equally long, and sunlight reaches ___11___ place in the world—it signifies \"equality\". Therefore, the United Nations designated this day \"World Earth Day\","
     },
     {
@@ -326,7 +327,7 @@
     },
     {
      "zh": "15 該次活動非常成功，此後的地球日就定在 4 月 22 日，主題也轉而趨向環保。",
-     "py": "15 gāicì huódòng fēicháng chénggōng, cǐhòu de dìqiúrì jiùdìng zài 4 yuè 22 rì, zhǔtí yě zhuǎnér qūxiàng huánbǎo.",
+     "py": "15 gāicì huódòng fēicháng chénggōng, cǐhòu de dìqiúrì jiùdìng zài 4 yuè 22 rì, zhǔtí yě zhuǎn'ér qūxiàng huánbǎo.",
      "en": "___15___ that campaign was very successful, Earth Day has since been fixed on April 22, and its theme has shifted toward environmental protection."
     }
    ],
@@ -584,12 +585,12 @@
     },
     {
      "zh": "每晚約七點半，我會拿著家中的垃圾走到十字路口的超級市場前等垃圾車，和附近的鄰居一邊等一邊聊天。",
-     "py": "Měiwǎn yuē qīdiǎn bàn, wǒhuì názhù jiāzhōng de lājī zǒu dào shízìlùkǒu de chāojíshìchǎng qián děng lājīchē, hé fùjìn de línjū yìbiān děng yìbiān Liáotiān.",
+     "py": "Měiwǎn yuē qīdiǎn bàn, wǒhuì názhe jiāzhōng de lājī zǒu dào shízìlùkǒu de chāojíshìchǎng qián děng lājīchē, hé fùjìn de línjū yìbiān děng yìbiān Liáotiān.",
      "en": "Every night around 7:30, I take the household trash to the supermarket at the intersection to wait for the garbage truck, chatting with nearby neighbors while we wait."
     },
     {
      "zh": "那些六十幾歲的老鄰居，都是看著我長大的。",
-     "py": "Nàxiē liùshíjǐsuì de lǎo línjū, dōu shì kànzhù wǒ Zhǎngdà de.",
+     "py": "Nàxiē liùshíjǐsuì de lǎo línjū, dōu shì kànzhe wǒ Zhǎngdà de.",
      "en": "Those neighbors in their sixties all watched me grow up."
     },
     {
@@ -631,7 +632,7 @@
     },
     "D": {
      "zh": "她不願意回答跟交友或工作有關的事",
-     "py": "Tā bù yuànyì huídá gēn jiāoyǒu huò gōngzuò yǒuguān de shì",
+     "py": "Tā bú yuànyì huídá gēn jiāoyǒu huò gōngzuò yǒuguān de shì",
      "en": "She is unwilling to answer questions about dating or work."
     }
    }
@@ -672,7 +673,7 @@
    "options": {
     "A": {
      "zh": "女人在音樂方面的興趣與表現比男人高得多",
-     "py": "Nǚrén zài yīnyuè fāngmiàn de xìngqù yǔ biǎoxiàn bǐ nánrén gāo dé duō",
+     "py": "Nǚrén zài yīnyuè fāngmiàn de xìngqù yǔ biǎoxiàn bǐ nánrén gāo de duō",
      "en": "Women's interest and performance in music are much higher than men's."
     },
     "B": {
@@ -687,7 +688,7 @@
     },
     "D": {
      "zh": "男人比女人更怕痛，牙痛時常不願去看牙醫",
-     "py": "Nánrén bǐ nǚrén gèngpà tòng, yátòng shícháng bù yuàn qù kàn yáyī",
+     "py": "Nánrén bǐ nǚrén gèngpà tòng, yátòng shícháng bú yuàn qù kàn yáyī",
      "en": "Men fear pain more than women and are often unwilling to see a dentist for a toothache."
     }
    }
@@ -818,7 +819,7 @@
     },
     {
      "zh": "日本最新研究發現，CD 也有壽命，如果 CD長期被放在潮濕的地方或陽光下，時間久了，檔案損壞的風險一定較高。",
-     "py": "Rìběn zuìxīn yánjiū fāxiàn, CD yě yǒu shòumìng, rúguǒ CD chángqī bèi fàngzài cháoshī de dìfāng huò Yángguāng xià, shíjiān jiǔ le, dàngàn sǔnhuài de fēngxiǎn yídìng jiào gāo.",
+     "py": "Rìběn zuìxīn yánjiū fāxiàn, CD yě yǒu shòumìng, rúguǒ CD chángqī bèi fàngzài cháoshī de dìfāng huò Yángguāng xià, shíjiān jiǔ le, dàng'àn sǔnhuài de fēngxiǎn yídìng jiào gāo.",
      "en": "The latest Japanese research found that CDs also have a lifespan; if CDs are kept in damp places or in the sun for a long time, the risk of file damage will certainly be higher."
     },
     {
@@ -835,7 +836,7 @@
    "options": {
     "A": {
      "zh": "是最能保障檔案品質的方式",
-     "py": "Shì zuì néng bǎozhàng dàngàn pǐnzhì de fāngshì",
+     "py": "Shì zuì néng bǎozhàng dàng'àn pǐnzhì de fāngshì",
      "en": "It's the way that best guarantees file quality."
     },
     "B": {
@@ -891,7 +892,7 @@
    "options": {
     "A": {
      "zh": "考古學家不贊同蔡倫擅長造紙",
-     "py": "Kǎogǔxuéjiā bù zàntóng Càilún shàncháng zàozhǐ",
+     "py": "Kǎogǔxuéjiā bú zàntóng Càilún shàncháng zàozhǐ",
      "en": "Archaeologists don't agree that Cai Lun was good at making paper."
     },
     "B": {
@@ -1076,7 +1077,7 @@
     },
     {
      "zh": "入選獎勵：獎項 名額 獎勵",
-     "py": "Rùxuǎn jiǎnglì: Jiǎngxiàng míngé jiǎnglì",
+     "py": "Rùxuǎn jiǎnglì: Jiǎngxiàng míng'é jiǎnglì",
      "en": "Prizes: award, number of winners, reward"
     },
     {
@@ -1086,7 +1087,7 @@
     },
     {
      "zh": "第二名 2人 秋水旅館免費住一晚",
-     "py": "Dìèrmíng 2 rén Qiūshuǐ lǚguǎn miǎnfèi zhù yìwǎn",
+     "py": "Dì'èrmíng 2 rén Qiūshuǐ lǚguǎn miǎnfèi zhù yìwǎn",
      "en": "Second place, 2 people: one free night at Qiushui Hotel"
     },
     {
@@ -1096,7 +1097,7 @@
     },
     {
      "zh": "參加獎 不限 秋水鄉明信片一套",
-     "py": "Cānjiā jiǎng bù xiàn Qiūshuǐ xiāng míngxìnpiàn yítào",
+     "py": "Cānjiā jiǎng bú xiàn Qiūshuǐ xiāng míngxìnpiàn yítào",
      "en": "Participation prize, unlimited: a set of Qiushui Township postcards"
     },
     {
@@ -1208,7 +1209,7 @@
     },
     {
      "zh": "運動會早上十點開始，歡迎帶你的家人和朋友一起來！",
-     "py": "Yùndònghuì zǎoshàng shídiǎn kāishǐ, huānyíng dài nǐ de jiārén hé péngyǒu yī qǐlái!",
+     "py": "Yùndònghuì zǎoshàng shídiǎn kāishǐ, huānyíng dài nǐ de jiārén hé péngyǒu yì qǐlái!",
      "en": "Sports day starts at 10 a.m.—you're welcome to bring your family and friends!"
     }
    ]
@@ -1246,7 +1247,7 @@
    "passage": [
     {
      "zh": "（十二）",
-     "py": "(Shíèr)",
+     "py": "(Shí'èr)",
      "en": "(12)"
     }
    ],
@@ -1400,7 +1401,7 @@
     },
     "D": {
      "zh": "學生的家人想參加得另外付費",
-     "py": "Xuéshēng de jiārén xiǎng cānjiā dé lìngwài fùfèi",
+     "py": "Xuéshēng de jiārén xiǎng cānjiā de lìngwài fùfèi",
      "en": "Students' family members who want to join must pay separately."
     }
    },
@@ -1417,7 +1418,7 @@
     },
     {
      "zh": "因巴士座位有限，僅提供80位名額，報名日期自11月4日起至額滿為止，請到華語中心辦公室報名。",
-     "py": "Yīn Bāshì zuòwèi yǒuxiàn, jǐn tígōng 80 wèi míngé, bàomíng rìqī zì 11 yuè 4 rì qǐzhì émǎnwéizhǐ, qǐng dào Huáyǔ zhōngxīn bàngōngshì bàomíng.",
+     "py": "Yīn Bāshì zuòwèi yǒuxiàn, jǐn tígōng 80 wèi míng'é, bàomíng rìqī zì 11 yuè 4 rì qǐzhì émǎnwéizhǐ, qǐng dào Huáyǔ zhōngxīn bàngōngshì bàomíng.",
      "en": "Because bus seats are limited, only 80 places are available. Registration opens November 4 until full; please register at the Chinese Language Center office."
     },
     {
@@ -1432,7 +1433,7 @@
     },
     {
      "zh": "※已經報名的同學如果突然有事無法參加，請於12月15日晚上6:00前帶著保證金收據至華語中心辦公室領回保證金，不可找其他人代替參加旅遊。",
-     "py": "※ yǐjīng bàomíng de tóngxué rúguǒ tūrán yǒushì wúfǎ cānjiā, qǐngyú 12 yuè 15 rì wǎnshàng 6: 00 qián dàizhù bǎozhèngjīn shōujù zhì Huáyǔ zhōngxīn bàngōngshì lǐnghuí bǎozhèngjīn, bùkě zhǎo qítārén dàitì cānjiā lǚyóu.",
+     "py": "※ yǐjīng bàomíng de tóngxué rúguǒ tūrán yǒushì wúfǎ cānjiā, qǐngyú 12 yuè 15 rì wǎnshàng 6: 00 qián dàizhe bǎozhèngjīn shōujù zhì Huáyǔ zhōngxīn bàngōngshì lǐnghuí bǎozhèngjīn, bùkě zhǎo qítārén dàitì cānjiā lǚyóu.",
      "en": "※Registered students who suddenly can't attend should bring the deposit receipt to the Chinese Language Center office before 6:00 p.m. on December 15 to get the deposit back; you may not send someone else in your place."
     },
     {
@@ -1456,7 +1457,7 @@
     },
     "B": {
      "zh": "不去的話應該找同學代替自己參加",
-     "py": "Bù qù dehuà yīnggāi zhǎo tóngxué dàitì zìjǐ cānjiā",
+     "py": "Bú qù dehuà yīnggāi zhǎo tóngxué dàitì zìjǐ cānjiā",
      "en": "If she can't go, she should find a classmate to go in her place."
     },
     "C": {
@@ -1466,7 +1467,7 @@
     },
     "D": {
      "zh": "出發前一星期取消報名的人，不能拿回保證金",
-     "py": "Chūfā qián yī xīngqī qǔxiāo bàomíng de rén, bùnéng ná huí bǎozhèngjīn",
+     "py": "Chūfā qián yì xīngqī qǔxiāo bàomíng de rén, bùnéng ná huí bǎozhèngjīn",
      "en": "People who cancel one week before departure can't get their deposit back."
     }
    }
@@ -1480,12 +1481,12 @@
     },
     {
      "zh": "英國一位十九歲的青年得到一種很奇怪的病，他只能記得最近兩天內的事情，兩天以前的事他都想不起來，連上個禮拜自己的生日晚會都不記得。",
-     "py": "Yīngguó yíwèi shíjiǔsuì de qīngnián dédào yìzhǒng hěn qíguài de bìng, tā zhǐnéng jìde zuìjìn liǎngtiān nèi de shìqing, liǎngtiān yǐqián de shì tā dōu xiǎngbùqǐlái, lián shàng ge Lǐbài zìjǐ de shēngrì wǎnhuì dōu bù jìde.",
+     "py": "Yīngguó yíwèi shíjiǔsuì de qīngnián dédào yìzhǒng hěn qíguài de bìng, tā zhǐnéng jìde zuìjìn liǎngtiān nèi de shìqing, liǎngtiān yǐqián de shì tā dōu xiǎngbùqǐlái, lián shàng ge Lǐbài zìjǐ de shēngrì wǎnhuì dōu bú jìde.",
      "en": "A nineteen-year-old young man in Britain got a very strange illness: he can only remember things from the past two days, and can't recall anything before that—he doesn't even remember his own birthday party last week."
     },
     {
      "zh": "家人和朋友替他拍了許多照片，可是他看了照片，還是完全不記得過去發生的事情。",
-     "py": "Jiārén hé péngyǒu tì tā pāi le xǔduō zhàopiān, kěshì tā kàn le zhàopiān, háishì wánquán bù jìde guòqù fāshēng de shìqing.",
+     "py": "Jiārén hé péngyǒu tì tā pāi le xǔduō zhàopiān, kěshì tā kàn le zhàopiān, háishì wánquán bú jìde guòqù fāshēng de shìqing.",
      "en": "His family and friends took many photos for him, but even after looking at them, he still remembers absolutely nothing about what happened in the past."
     },
     {
@@ -1565,7 +1566,7 @@
     },
     {
      "zh": "去這種餐廳的人，常常覺得要吃得很飽才合算。",
-     "py": "Qù zhèzhǒng cāntīng de rén, chángcháng juéde yào chī dé hěnbǎo cái hésuàn.",
+     "py": "Qù zhèzhǒng cāntīng de rén, chángcháng juéde yào chī de hěnbǎo cái hésuàn.",
      "en": "People who go to these restaurants often feel they must eat until they're very full to make it worthwhile."
     },
     {
@@ -1585,7 +1586,7 @@
     },
     {
      "zh": "所以說，這種餐廳一年當中偶爾去一次還可以，天天吃，就等著向醫生「報到」了。",
-     "py": "Suǒyǐ shuō, zhèzhǒng cāntīng yìnián dāngzhōng ǒuěr qù yícì hái kěyǐ, tiāntiān chī, jiù děngzhù xiàng yīshēng “Bào dào” le.",
+     "py": "Suǒyǐ shuō, zhèzhǒng cāntīng yìnián dāngzhōng ǒu'ěr qù yícì hái kěyǐ, tiāntiān chī, jiù děngzhe xiàng yīshēng “Bào dào” le.",
      "en": "So, going to these restaurants once in a while during the year is fine, but eat there every day and you can expect to \"report\" to the doctor."
     }
    ],
@@ -1677,7 +1678,7 @@
     },
     "D": {
      "zh": "大樓部分區域得事先申請才能進入",
-     "py": "Dàlóu bùfèn qūyù dé shìxiān shēnqǐng cáinéng jìnrù",
+     "py": "Dàlóu bùfèn qūyù děi shìxiān shēnqǐng cáinéng jìnrù",
      "en": "Some areas of the building require advance application to enter."
     }
    },
@@ -1699,7 +1700,7 @@
     },
     {
      "zh": "施工期間，本中心所有英語及電腦研習課程照常舉行，惟研習教室暫移至新生大飯店（仁愛路二段1683號），待施工完畢後再回原教室上課，本中心將提供交通接駁車來回接送，詳細資訊請參考本中心網站及各班研習通知。",
-     "py": "Shīgōng qījiān, běn zhōngxīn suǒyǒu Yīngyǔ jí diànnǎo yánxí kèchéng zhàocháng jǔxíng, wéi yánxí jiàoshì zàn yízhì xīnshēng Dàfàndiàn (Rénàilù èrduàn 1683 hào), dài shīgōng wánbì hòu zài huí yuán jiàoshì shàngkè, běn zhōngxīn jiāng tígōng jiāotōng jiēbó chē láihuí jiēsòng, xiángxì zīxùn qǐng cānkǎo běn zhōngxīn wǎngzhàn jí gè bān yánxí tōngzhī.",
+     "py": "Shīgōng qījiān, běn zhōngxīn suǒyǒu Yīngyǔ jí diànnǎo yánxí kèchéng zhàocháng jǔxíng, wéi yánxí jiàoshì zàn yízhì xīnshēng Dàfàndiàn (Rén'àilù èrduàn 1683 hào), dài shīgōng wánbì hòu zài huí yuán jiàoshì shàngkè, běn zhōngxīn jiāng tígōng jiāotōng jiēbó chē láihuí jiēsòng, xiángxì zīxùn qǐng cānkǎo běn zhōngxīn wǎngzhàn jí gè bān yánxí tōngzhī.",
      "en": "During construction, all English and computer courses will continue as usual, but classes will temporarily move to the Xinsheng Hotel (No. 1683, Sec. 2, Ren'ai Road) and return to the original classrooms after construction. The center will provide a shuttle bus; for details see the center's website and each class's notice."
     },
     {
@@ -1722,7 +1723,7 @@
   "39": {
    "stem": {
     "zh": "2011 年一整年，王福每週五會到這個中心上電腦課，他應該注意 下面哪一件事？",
-    "py": "2011 nián yī zhěngnián, Wángfú měizhōuwǔ huì dào zhè ge zhōngxīn shàng diànnǎokè, tā yīnggāi zhùyì xiàmiàn nǎ yíjiàn shì?",
+    "py": "2011 nián yì zhěngnián, Wángfú měizhōuwǔ huì dào zhè ge zhōngxīn shàng diànnǎokè, tā yīnggāi zhùyì xiàmiàn nǎ yíjiàn shì?",
     "en": "Throughout 2011, Wang Fu will come to this center every Friday for computer class. What should he pay attention to?"
    },
    "options": {
@@ -1767,12 +1768,12 @@
     },
     {
      "zh": "孩童時期，羅老闆因為家裡窮，無論是寒冷的冬天或炎熱的夏天，都只能光著腳到學校讀書。",
-     "py": "Háitóng shíqī, luó lǎobǎn yīnwèi jiālǐ qióng, wúlùnshì hánlěng de dōngtiān huò yánrè de xiàtiān, dōu zhǐnéng guāngzhù jiǎo dào xuéxiào dúshū.",
+     "py": "Háitóng shíqī, luó lǎobǎn yīnwèi jiālǐ qióng, wúlùnshì hánlěng de dōngtiān huò yánrè de xiàtiān, dōu zhǐnéng guāngzhe jiǎo dào xuéxiào dúshū.",
      "en": "As a child, because his family was poor, boss Lo could only go to school barefoot, whether in cold winter or hot summer."
     },
     {
      "zh": "儘管對自己的出身沒有選擇權，但他認為，人生的道路本來就是這樣，必須克服環境阻礙，一步一步往前走。",
-     "py": "Jǐnguǎn duì zìjǐ de chūshēn méiyǒu xuǎnzéquán, dàn tā rènwéi, rénshēng de dàolù běnlái jiùshì zhèyàng, bìxū kèfú huánjìng zǔài, yíbù yíbù wǎngqiánzǒu.",
+     "py": "Jǐnguǎn duì zìjǐ de chūshēn méiyǒu xuǎnzéquán, dàn tā rènwéi, rénshēng de dàolù běnlái jiùshì zhèyàng, bìxū kèfú huánjìng zǔ'ài, yíbù yíbù wǎngqiánzǒu.",
      "en": "Although he had no choice about his origins, he believed that the road of life is just like that: one must overcome environmental obstacles and move forward step by step."
     },
     {
@@ -1782,7 +1783,7 @@
     },
     {
      "zh": "而這股強大的意志力，後來便成為羅老闆經營企業的動力，也讓喬山這家公司三十年來穩定地成長、茁壯。",
-     "py": "Ér zhègǔ qiángdà de yìzhìlì, hòulái biàn chéngwéi luó lǎobǎn jīngyíng qǐyè de dònglì, yě ràng Qiáoshān zhèjiā gōngsī sānshínián lái wěndìng dì chéngzhǎng, zhuózhuàng.",
+     "py": "Ér zhègǔ qiángdà de yìzhìlì, hòulái biàn chéngwéi luó lǎobǎn jīngyíng qǐyè de dònglì, yě ràng Qiáoshān zhèjiā gōngsī sānshínián lái wěndìng de chéngzhǎng, zhuózhuàng.",
      "en": "This strong willpower later became the driving force behind boss Lo's business, and it also allowed the company Johnson to grow steadily and thrive for thirty years."
     }
    ],
@@ -1828,7 +1829,7 @@
     },
     "B": {
      "zh": "不向命運低頭的精神和態度",
-     "py": "Bù xiàng mìngyùn dītóu de jīngshén hé tàidù",
+     "py": "Bú xiàng mìngyùn dītóu de jīngshén hé tàidù",
      "en": "His spirit and attitude of not bowing to fate"
     },
     "C": {
@@ -1852,7 +1853,7 @@
     },
     {
      "zh": "西元七世紀，古埃及一位國王為證明埃及語是世上最古老的語言，於是派官兵與護士將兩名剛出生不久的嬰兒，帶往國內一處無人居住的祕密地點，他規定全體人員除了提供嬰兒飲食以外，不准與嬰兒有任何語言交流。",
-     "py": "Xīyuánqī shìjì, Gǔāijí yíwèi guówáng wèi zhèngmíng Āijí yǔshì shìshàng zuì Gǔlǎo de yǔyán, yúshì pài guānbīng yǔ hùshì jiāng liǎngmíng gāngchūshēng bùjiǔ de yīngér, dài wǎng guónèi yíchù wúrénjūzhù de mìmì dìdiǎn, tā guīdìng quántǐrényuán chúle tígōng yīngér yǐnshí yǐwài, bùzhǔn yǔ yīngér yǒu rènhé yǔyán jiāoliú.",
+     "py": "Xīyuánqī shìjì, Gǔ'āijí yíwèi guówáng wèi zhèngmíng Āijí yǔshì shìshàng zuì Gǔlǎo de yǔyán, yúshì pài guānbīng yǔ hùshì jiāng liǎngmíng gāngchūshēng bùjiǔ de yīng'ér, dài wǎng guónèi yíchù wúrénjūzhù de mìmì dìdiǎn, tā guīdìng quántǐrényuán chúle tígōng yīng'ér yǐnshí yǐwài, bùzhǔn yǔ yīng'ér yǒu rènhé yǔyán jiāoliú.",
      "en": "In the 7th century (BC), an ancient Egyptian king, to prove that Egyptian was the oldest language in the world, sent soldiers and nurses to take two newborn babies to a secret, uninhabited place in the country; he ordered that all personnel, apart from providing the babies with food and drink, were not allowed any verbal communication with them."
     },
     {
@@ -1862,18 +1863,18 @@
     },
     {
      "zh": "然而事與願違，兩年後孩子們最先發出的音與埃及語毫無關係，令國王失望極了。",
-     "py": "Ránér shìyǔyuànwéi, liǎngnián hòu háizi men zuìxiān fāchū de yīn yǔ Āijí yǔ háowúguānxì, lìng guówáng shīwàng jíle.",
+     "py": "Rán'ér shìyǔyuànwéi, liǎngnián hòu háizi men zuìxiān fāchū de yīn yǔ Āijí yǔ háowúguānxì, lìng guówáng shīwàng jíle.",
      "en": "However, things didn't go as hoped: two years later, the first sounds the children made had nothing to do with Egyptian, which greatly disappointed the king."
     },
     {
      "zh": "這就是人類歷史上最早記載的心理學實驗，雖然實驗失敗了，卻證明了人類早在一千多年前，便開始為研究神秘的心理現象而努力著。",
-     "py": "Zhè jiùshì rénlèi lìshǐ shàng zuìzǎo jìzǎi de xīnlǐxué shíyàn, suīrán shíyàn shībài le, què zhèngmíng le rénlèi zǎo zài yīqiānduōnián qián, biàn kāishǐ wèi yánjiū shénmì de xīnlǐxiànxiàng ér nǔlì zhù.",
+     "py": "Zhè jiùshì rénlèi lìshǐ shàng zuìzǎo jìzǎi de xīnlǐxué shíyàn, suīrán shíyàn shībài le, què zhèngmíng le rénlèi zǎo zài yīqiānduōnián qián, biàn kāishǐ wèi yánjiū shénmì de xīnlǐxiànxiàng ér nǔlì zhe.",
      "en": "This is the earliest recorded psychology experiment in human history; although the experiment failed, it proved that more than a thousand years ago, humans had already begun working to study mysterious psychological phenomena."
     }
    ],
    "stem": {
     "zh": "這項以兩名嬰兒為對象的實驗是怎麼進行的？",
-    "py": "Zhèxiàng yǐ liǎngmíng yīngér wèi duìxiàng de shíyàn shì zěnme jìnxíng de?",
+    "py": "Zhèxiàng yǐ liǎngmíng yīng'ér wéi duìxiàng de shíyàn shì zěnme jìnxíng de?",
     "en": "How was this experiment on two babies carried out?"
    },
    "options": {
@@ -1894,7 +1895,7 @@
     },
     "D": {
      "zh": "命令專人教他們學習古老的語言",
-     "py": "Mìnglìng zhuānrén jiào tāmen xuéxí Gǔlǎo de yǔyán",
+     "py": "Mìnglìng zhuānrén jiāo tāmen xuéxí Gǔlǎo de yǔyán",
      "en": "Someone was ordered to teach them an ancient language."
     }
    }
@@ -1923,7 +1924,7 @@
     },
     "D": {
      "zh": "意外發現嬰兒說出第一個字是可以控制的",
-     "py": "Yìwài fāxiàn yīngér shuōchū dìyí ge zì shì kěyǐ kòngzhì de",
+     "py": "Yìwài fāxiàn yīng'ér shuōchū dìyí ge zì shì kěyǐ kòngzhì de",
      "en": "It accidentally discovered that a baby's first word can be controlled."
     }
    }
@@ -1937,7 +1938,7 @@
     },
     {
      "zh": "研究顯示，有 93%的青少年不管去哪裡都帶著手機，沒人打電話來的時候，他們會緊張、擔心。",
-     "py": "Yánjiū xiǎnshì, yǒu 93 % de Qīngshàonián bùguǎn qù nǎlǐ dōu dàizhù shǒujī, méi rén dǎdiànhuà lái de shíhòu, tāmen huì jǐnzhāng, dānxīn.",
+     "py": "Yánjiū xiǎnshì, yǒu 93 % de Qīngshàonián bùguǎn qù nǎlǐ dōu dàizhe shǒujī, méi rén dǎdiànhuà lái de shíhòu, tāmen huì jǐnzhāng, dānxīn.",
      "en": "Research shows that 93% of teenagers carry their cell phones wherever they go; when no one calls, they feel nervous and worried."
     },
     {
@@ -1947,7 +1948,7 @@
     },
     {
      "zh": "有些父母認為孩子帶手機上學比較安全，所以許多孩子也帶著手機到學校。",
-     "py": "Yǒuxiē fùmǔ rènwéi háizi dài shǒujī shàngxué bǐjiào ānquán, suǒyǐ xǔduō háizi yě dàizhù shǒujī dào xuéxiào.",
+     "py": "Yǒuxiē fùmǔ rènwéi háizi dài shǒujī shàngxué bǐjiào ānquán, suǒyǐ xǔduō háizi yě dàizhe shǒujī dào xuéxiào.",
      "en": "Some parents think it's safer for children to take phones to school, so many children bring their phones to school too."
     },
     {
@@ -1957,7 +1958,7 @@
     },
     {
      "zh": "也有老師認為，父母要多了解孩子使用手機的情形，同時教他們在使用手機時，對時間和金錢應有正確的想法。",
-     "py": "Yě yǒu lǎoshī rènwéi, fùmǔ yào duō liǎojiě háizi shǐyòng shǒujī de qíngxíng, tóngshí jiào tāmen zài shǐyòng shǒujī shí, duì shíjiān hé jīnqián yīngyǒu zhèngquè de xiǎngfǎ.",
+     "py": "Yě yǒu lǎoshī rènwéi, fùmǔ yào duō liǎojiě háizi shǐyòng shǒujī de qíngxíng, tóngshí jiāo tāmen zài shǐyòng shǒujī shí, duì shíjiān hé jīnqián yīngyǒu zhèngquè de xiǎngfǎ.",
      "en": "Some teachers also think parents should learn more about how their children use their phones, and at the same time teach them to have the right ideas about time and money when using phones."
     }
    ],
@@ -2061,7 +2062,7 @@
     },
     {
      "zh": "而在我的診所裡，來求診的人幾乎都戴著帽子。",
-     "py": "Ér zài wǒ de zhěnsuǒ lǐ, lái qiúzhěn de rén jīhū dōu dài zhù màozi.",
+     "py": "Ér zài wǒ de zhěnsuǒ lǐ, lái qiúzhěn de rén jīhū dōu dài zhe màozi.",
      "en": "In my clinic, almost everyone who comes for treatment wears a hat."
     },
     {
@@ -2081,7 +2082,7 @@
     },
     {
      "zh": "然而，戴著帽子也容易使他人將視線往自己身上放，也就是說，掩蓋的同時也在顯露，不免讓外人更好奇：裡頭究竟有什麼東西？",
-     "py": "Ránér, Dàizhù màozi yě róngyì shǐ tārén jiāng shìxiàn wǎng zìjǐ shēnshàng fàng, yějiùshìshuō, yǎngài de tóngshí yě zài xiǎnlù, bùmiǎn ràng wàirén gèng hàoqí: Lǐtou jiūjìng yǒu shénme Dōngxi?",
+     "py": "Rán'ér, Dàizhe màozi yě róngyì shǐ tārén jiāng shìxiàn wǎng zìjǐ shēnshàng fàng, yějiùshìshuō, yǎngài de tóngshí yě zài xiǎnlù, bùmiǎn ràng wàirén gèng hàoqí: Lǐtou jiūjìng yǒu shénme Dōngxi?",
      "en": "However, wearing a hat also easily draws others' eyes to oneself; that is, hiding is at the same time revealing, which inevitably makes outsiders even more curious: what on earth is under there?"
     },
     {
@@ -2096,13 +2097,13 @@
     },
     {
      "zh": "我深知此時我不願意與任何人的視線相對，我當然也明白戴帽容易引人注意，但是我更需要它來讓自己的心情趨於穩定。",
-     "py": "Wǒ shēnzhī cǐshí wǒ bù yuànyì yǔ rènhérén de shìxiàn xiāngduì, wǒ dāngrán yě Míngbái Dàimào róngyì yǐnrénzhùyì, dànshì wǒ gèng xūyào tā lái ràng zìjǐ de xīnqíng qūyúwěndìng.",
+     "py": "Wǒ shēnzhī cǐshí wǒ bú yuànyì yǔ rènhérén de shìxiàn xiāngduì, wǒ dāngrán yě Míngbái Dàimào róngyì yǐnrénzhùyì, dànshì wǒ gèng xūyào tā lái ràng zìjǐ de xīnqíng qūyúwěndìng.",
      "en": "I know very well that at such times I don't want to meet anyone's eyes; of course I also understand that wearing a hat easily attracts attention, but I need it even more to help my mood settle."
     }
    ],
    "stem": {
     "zh": "第二段主要在談什麼事？",
-    "py": "Dìèrduàn zhǔyào zài tán shénme shì?",
+    "py": "Dì'èrduàn zhǔyào zài tán shénme shì?",
     "en": "What is the second paragraph mainly about?"
    },
    "options": {
@@ -2166,7 +2167,7 @@
    "options": {
     "A": {
      "zh": "戴上帽子更會讓他感到不安",
-     "py": "Dài shàng màozi gèng huì ràng tā gǎndào bùān",
+     "py": "Dài shàng màozi gèng huì ràng tā gǎndào bù'ān",
      "en": "Wearing a hat makes him feel even more uneasy."
     },
     "B": {

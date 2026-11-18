@@ -2,6 +2,7 @@
  "testId": "a-r3",
  "segments": 150,
  "englishComplete": true,
+ "indonesianComplete": false,
  "questions": {
   "1": {
    "stem": {
@@ -13,7 +14,7 @@
   "2": {
    "stem": {
     "zh": "他拿著手機幫朋友照相。",
-    "py": "Tā názhù shǒujī bāng péngyǒu zhàoxiàng.",
+    "py": "Tā názhe shǒujī bāng péngyǒu zhàoxiàng.",
     "en": "He is holding a cell phone and taking a picture for his friend."
    }
   },
@@ -41,7 +42,7 @@
   "6": {
    "stem": {
     "zh": "房間的門跟窗戶都是關著的。",
-    "py": "Fángjiān de mén gēn chuānghù dōu shì guānzhù de.",
+    "py": "Fángjiān de mén gēn chuānghù dōu shì guānzhe de.",
     "en": "The room's door and window are both closed."
    }
   },
@@ -69,7 +70,7 @@
   "10": {
    "stem": {
     "zh": "他看書看得太累了，所以躺在床上就睡著了。",
-    "py": "Tā kànshū kàn dé tài lèi le, suǒyǐ tǎng zài chuángshàng jiù shuìzhù le.",
+    "py": "Tā kànshū kàn de tài lèi le, suǒyǐ tǎng zài chuángshàng jiù shuìzháo le.",
     "en": "He was so tired from reading that he fell asleep as soon as he lay down on the bed."
    }
   },
@@ -141,7 +142,7 @@
     },
     "C": {
      "zh": "弟弟戴著眼鏡睡覺。",
-     "py": "Dìdi Dàizhù yǎnjìng shuìjiào.",
+     "py": "Dìdi Dàizhe yǎnjìng shuìjiào.",
      "en": "Younger brother is sleeping with his glasses on."
     }
    }
@@ -179,7 +180,7 @@
     },
     "C": {
      "zh": "小華星期二會用電腦。",
-     "py": "Xiǎohuá xīngqīèr huì yòng diànnǎo.",
+     "py": "Xiǎohuá xīngqī'èr huì yòng diànnǎo.",
      "en": "Xiaohua will use a computer on Tuesday."
     }
    },
@@ -191,7 +192,7 @@
     },
     {
      "zh": "星期一 星期二 星期三",
-     "py": "Xīngqīyī xīngqīèr xīngqīsān",
+     "py": "Xīngqīyī xīngqī'èr xīngqīsān",
      "en": "Monday, Tuesday, Wednesday"
     },
     {
@@ -298,7 +299,7 @@
     },
     {
      "zh": "第二場 13:30",
-     "py": "Dìèrchǎng 13: 30",
+     "py": "Dì'èrchǎng 13: 30",
      "en": "2nd showing 13:30"
     },
     {
@@ -332,12 +333,12 @@
     },
     "B": {
      "zh": "星期二天氣可能不好。",
-     "py": "Xīngqīèr tiānqì kěnéng bùhǎo.",
+     "py": "Xīngqī'èr tiānqì kěnéng bùhǎo.",
      "en": "The weather on Tuesday may be bad."
     },
     "C": {
      "zh": "星期二比星期一涼快。",
-     "py": "Xīngqīèr bǐ xīngqīyī liángkuài.",
+     "py": "Xīngqī'èr bǐ xīngqīyī liángkuài.",
      "en": "Tuesday is cooler than Monday."
     }
    },
@@ -349,7 +350,7 @@
     },
     {
      "zh": "星期二",
-     "py": "Xīngqīèr",
+     "py": "Xīngqī'èr",
      "en": "Tuesday"
     }
    ]
@@ -363,7 +364,7 @@
     },
     "B": {
      "zh": "全部的人都拿著杯子。",
-     "py": "Quánbù de rén dōu názhù bēizi.",
+     "py": "Quánbù de rén dōu názhe bēizi.",
      "en": "Everyone is holding a cup."
     },
     "C": {
@@ -377,7 +378,7 @@
    "options": {
     "A": {
      "zh": "每個人都戴著帽子。",
-     "py": "Měi ge rén dōu dài zhù màozi.",
+     "py": "Měi ge rén dōu dài zhe màozi.",
      "en": "Everyone is wearing a hat."
     },
     "B": {
@@ -396,7 +397,7 @@
    "options": {
     "A": {
      "zh": "她只用一條腿站著。",
-     "py": "Tā zhǐyòng yìtiáo tuǐ zhànzhù.",
+     "py": "Tā zhǐyòng yìtiáo tuǐ zhànzhe.",
      "en": "She is standing on only one leg."
     },
     "B": {
@@ -406,7 +407,7 @@
     },
     "C": {
      "zh": "她戴著一頂漂亮的帽子。",
-     "py": "Tā dài zhù yìdǐng piàoliang de màozi.",
+     "py": "Tā dài zhe yìdǐng piàoliang de màozi.",
      "en": "She is wearing a pretty hat."
     }
    }
@@ -425,7 +426,7 @@
     },
     "C": {
      "zh": "租車的價格，一天最少一千二百元。",
-     "py": "Zūchē de jiàgé, yìtiān zuìshǎo yīqiānèrbǎiyuán.",
+     "py": "Zūchē de jiàgé, yìtiān zuìshǎo yīqiān'èrbǎiyuán.",
      "en": "The car rental price is at least 1,200 dollars a day."
     }
    },
@@ -509,7 +510,7 @@
     },
     {
      "zh": "謝謝你教我中文！上你的課很開心，雖然只有三個月，但是我會永遠記得你！",
-     "py": "Xièxiè nǐ jiào wǒ Zhōngwén! Shàng nǐ de kè hěn kāixīn, suīrán zhǐyǒu sān ge yuè, dànshì wǒhuì yǒngyuǎn jìde nǐ!",
+     "py": "Xièxiè nǐ jiāo wǒ Zhōngwén! Shàng nǐ de kè hěn kāixīn, suīrán zhǐyǒu sān ge yuè, dànshì wǒhuì yǒngyuǎn jìde nǐ!",
      "en": "Thank you for teaching me Chinese! Your classes were a joy. Although it was only three months, I will always remember you!"
     },
     {
@@ -667,7 +668,7 @@
   "33": {
    "stem": {
     "zh": "小狗在桌子下睡得很 。",
-    "py": "Xiǎogǒu zài zhuōzi xià shuì dé hěn.",
+    "py": "Xiǎogǒu zài zhuōzi xià shuì de hěn.",
     "en": "The puppy is sleeping very ___ under the table."
    },
    "options": {
@@ -691,7 +692,7 @@
   "34": {
    "stem": {
     "zh": "兩隻貓一起在沙發 玩兒。",
-    "py": "Liǎngzhǐ māo yìqǐ zài Shāfā wánér.",
+    "py": "Liǎngzhǐ māo yìqǐ zài Shāfā wánr.",
     "en": "The two cats are playing together ___ the sofa."
    },
    "options": {
@@ -750,12 +751,12 @@
     },
     {
      "zh": "（38）。我們（39），就到（40），雖然有一點貴，但是大家還是吃得很開心。",
-     "py": "(38). Wǒmen (39), jiù dào (40), suīrán yǒu yìdiǎn guì, dànshì dàjiā háishì chī dé hěn kāixīn.",
+     "py": "(38). Wǒmen (39), jiù dào (40), suīrán yǒu yìdiǎn guì, dànshì dàjiā háishì chī de hěn kāixīn.",
      "en": "(38). We (39), then went to (40). Although it was a bit expensive, everyone still enjoyed the meal."
     },
     {
      "zh": "我不上課的時候，只要有空就找工作做，所以（41）。",
-     "py": "Wǒ bù shàngkè de shíhòu, zhǐyào yǒukòng jiù zhǎo gōngzuò zuò, suǒyǐ (41).",
+     "py": "Wǒ bú shàngkè de shíhòu, zhǐyào yǒukòng jiù zhǎo gōngzuò zuò, suǒyǐ (41).",
      "en": "When I'm not in class, I look for work whenever I'm free, so (41)."
     },
     {
@@ -765,7 +766,7 @@
     },
     {
      "zh": "第一是因為我很愛看書，第二是因為那裡的客人比較有禮貌，工作的時候，",
-     "py": "Dìyī shìyīnwèi wǒ hěn ài kànshū, dìèr shìyīnwèi nàlǐ de kèrén bǐjiào yǒu lǐmào, gōngzuò de shíhòu,",
+     "py": "Dìyī shìyīnwèi wǒ hěn ài kànshū, dì'èr shìyīnwèi nàlǐ de kèrén bǐjiào yǒu lǐmào, gōngzuò de shíhòu,",
      "en": "First because I love reading, and second because the customers there are more polite; when I'm working,"
     },
     {
@@ -775,7 +776,7 @@
     },
     {
      "zh": "可是我不太喜歡新書的味道，要是沒有那種奇怪的味道，（44）。",
-     "py": "Kěshì wǒ bù tài xǐhuān xīnshū de wèidào, yàoshì méiyǒu nàzhǒng qíguài de wèidào, (44).",
+     "py": "Kěshì wǒ bú tài xǐhuān xīnshū de wèidào, yàoshì méiyǒu nàzhǒng qíguài de wèidào, (44).",
      "en": "But I don't really like the smell of new books; if there weren't that strange smell, (44)."
     },
     {
@@ -1225,7 +1226,7 @@
     },
     "D": {
      "zh": "不像大家說的那麼方便",
-     "py": "Bù xiàng dàjiā shuō de nàme fāngbiàn",
+     "py": "Bú xiàng dàjiā shuō de nàme fāngbiàn",
      "en": "It's not as convenient as everyone says."
     }
    }
@@ -1239,7 +1240,7 @@
     },
     {
      "zh": "我最近學會一道臺灣菜，叫做「鹹蛋苦瓜」，這道菜是房東陳媽媽教我做的。",
-     "py": "Wǒ zuìjìn xuéhuì yídào Táiwān cài, jiàozuò “Xiándàn kǔguā”, zhè dàocài shì fángdōng Chénmāma jiào wǒ zuò de.",
+     "py": "Wǒ zuìjìn xuéhuì yídào Táiwān cài, jiàozuò “Xiándàn kǔguā”, zhè dàocài shì fángdōng Chénmāma jiāo wǒ zuò de.",
      "en": "I recently learned a Taiwanese dish called \"salted egg bitter melon\". My landlady, Mrs. Chen, taught me how to make it."
     },
     {
@@ -1249,12 +1250,12 @@
     },
     {
      "zh": "可是陳媽媽教我做的苦瓜一點都不苦，吃起來又香又甜。",
-     "py": "Kěshì Chénmāma jiào wǒ zuò de kǔguā yìdiǎn dōu bùkǔ, chī qǐlái yòu xiāng yòu tián.",
+     "py": "Kěshì Chénmāma jiāo wǒ zuò de kǔguā yìdiǎn dōu bùkǔ, chī qǐlái yòu xiāng yòu tián.",
      "en": "But the bitter melon Mrs. Chen taught me to make isn't bitter at all; it tastes fragrant and sweet."
     },
     {
      "zh": "而且陳媽媽說，吃沒煮過的苦瓜對身體更好，還說下一次要教我用沒煮過的苦瓜做好喝的果汁，我學會以後，要先做給我的好朋友玉芳喝，希望她和我一樣愛上苦瓜。",
-     "py": "Érqiě Chénmāma shuō, chī méi zhǔ guò de kǔguā duì shēntǐ gènghǎo, hái shuō xià yícì yào jiào wǒ yòng méi zhǔ guò de kǔguā zuòhǎo hē de guǒzhī, wǒ xuéhuì yǐhòu, yào xiān zuò gěi wǒ de hǎo péngyǒu Yùfāng hē, xīwàng tā hé wǒ yíyàng ài shàng kǔguā.",
+     "py": "Érqiě Chénmāma shuō, chī méi zhǔ guò de kǔguā duì shēntǐ gènghǎo, hái shuō xià yícì yào jiāo wǒ yòng méi zhǔ guò de kǔguā zuòhǎo hē de guǒzhī, wǒ xuéhuì yǐhòu, yào xiān zuò gěi wǒ de hǎo péngyǒu Yùfāng hē, xīwàng tā hé wǒ yíyàng ài shàng kǔguā.",
      "en": "Moreover, Mrs. Chen said that eating uncooked bitter melon is even better for your health, and she said next time she'll teach me to make a tasty juice with uncooked bitter melon. After I learn it, I'll make some for my good friend Yufang first, hoping she'll fall in love with bitter melon like me."
     }
    ],
@@ -1383,7 +1384,7 @@
     },
     "B": {
      "zh": "請媽媽們教學生做菜",
-     "py": "Qǐng māma men jiào xuéshēng zuòcài",
+     "py": "Qǐng māma men jiāo xuéshēng zuòcài",
      "en": "Inviting moms to teach students to cook"
     },
     "C": {

@@ -2,6 +2,7 @@
  "testId": "a-r4",
  "segments": 156,
  "englishComplete": true,
+ "indonesianComplete": false,
  "questions": {
   "1": {
    "stem": {
@@ -48,7 +49,7 @@
   "7": {
    "stem": {
     "zh": "他們一起看一本書。",
-    "py": "Tāmen yìqǐ kàn yī běnshū.",
+    "py": "Tāmen yìqǐ kàn yì běnshū.",
     "en": "They are reading a book together."
    }
   },
@@ -112,7 +113,7 @@
    "options": {
     "A": {
      "zh": "她的頭髮很長。",
-     "py": "Tā de tóufà hěn zhǎng.",
+     "py": "Tā de tóufà hěn cháng.",
      "en": "Her hair is very long."
     },
     "B": {
@@ -122,7 +123,7 @@
     },
     "C": {
      "zh": "她正拿著盤子。",
-     "py": "Tā zhèng názhù pánzi.",
+     "py": "Tā zhèng názhe pánzi.",
      "en": "She is holding a plate."
     }
    }
@@ -193,7 +194,7 @@
     },
     "B": {
      "zh": "小朋友們手上拿著糖果。",
-     "py": "Xiǎopéngyǒu men shǒushàng názhù tángguǒ.",
+     "py": "Xiǎopéngyǒu men shǒushàng názhe tángguǒ.",
      "en": "The children are holding candy in their hands."
     },
     "C": {
@@ -274,7 +275,7 @@
     },
     "C": {
      "zh": "有一個學生手裡拿著電腦。",
-     "py": "Yǒu yí ge xuéshēng shǒulǐ názhù diànnǎo.",
+     "py": "Yǒu yí ge xuéshēng shǒulǐ názhe diànnǎo.",
      "en": "One student is holding a computer."
     }
    }
@@ -324,7 +325,7 @@
     },
     {
      "zh": "一公斤的紙換半公斤的香蕉",
-     "py": "Yī gōngjīn de zhǐ huàn bàngōngjīn de xiāngjiāo",
+     "py": "Yì gōngjīn de zhǐ huàn bàngōngjīn de xiāngjiāo",
      "en": "One kilogram of paper for half a kilogram of bananas"
     },
     {
@@ -348,7 +349,7 @@
     },
     "B": {
      "zh": "女生宿舍一共停水十二小時。",
-     "py": "Nǚshēngsùshè yígòng tíngshuǐ shíèr xiǎoshí.",
+     "py": "Nǚshēngsùshè yígòng tíngshuǐ shí'èr xiǎoshí.",
      "en": "The women's dormitory has its water cut off for twelve hours in total."
     },
     "C": {
@@ -406,7 +407,7 @@
    "image": [
     {
      "zh": "五月來臺灣住兩晚 第二晚不用錢",
-     "py": "Wǔyuè lái Táiwān zhù liǎng wǎn dìèr wǎn búyòng qián",
+     "py": "Wǔyuè lái Táiwān zhù liǎng wǎn dì'èr wǎn búyòng qián",
      "en": "Come to Taiwan in May and stay two nights—the second night is free"
     }
    ]
@@ -536,7 +537,7 @@
     },
     "C": {
      "zh": "種",
-     "py": "Zhǒng",
+     "py": "Zhòng",
      "en": "(measure word) kind, type"
     }
    }
@@ -642,12 +643,12 @@
     },
     {
      "zh": "但是，大人不這樣認為，因為小孩玩的遊戲常常讓大人 （42）。",
-     "py": "Dànshì, dàrén bù zhèyàng rènwéi, yīnwèi xiǎohái wán de yóuxì chángcháng ràng dàrén (42).",
+     "py": "Dànshì, dàrén bú zhèyàng rènwéi, yīnwèi xiǎohái wán de yóuxì chángcháng ràng dàrén (42).",
      "en": "But adults don't see it this way, because the games children play often make adults (42)."
     },
     {
      "zh": "還有，小孩玩一個遊戲，總是玩一會兒就不玩了，大人要 （43）給小孩玩，這讓大人覺得和小孩一起玩遊戲，真是 （44）。",
-     "py": "Háiyǒu, xiǎohái wán yí ge yóuxì, zǒngshì wán yíhuìer jiù bù wán le, dàrén yào (43) gěi xiǎohái wán, zhè ràng dàrén juéde hé xiǎohái yìqǐ wányóuxì, zhēnshì (44).",
+     "py": "Háiyǒu, xiǎohái wán yí ge yóuxì, zǒngshì wán yíhuìr jiù bù wán le, dàrén yào (43) gěi xiǎohái wán, zhè ràng dàrén juéde hé xiǎohái yìqǐ wányóuxì, zhēnshì (44).",
      "en": "Also, when children play a game, they always stop after a little while, and adults have to (43) for the children to play. This makes adults feel that playing games with children is really (44)."
     },
     {
@@ -684,7 +685,7 @@
    "options": {
     "A": {
      "zh": "玩得很開心",
-     "py": "Wán dé hěn kāixīn",
+     "py": "Wán de hěn kāixīn",
      "en": "have a great time playing"
     },
     "B": {
@@ -704,7 +705,7 @@
     },
     "E": {
      "zh": "不停地找新遊戲",
-     "py": "Bùtíng dì zhǎo xīn yóuxì",
+     "py": "Bùtíng de zhǎo xīn yóuxì",
      "en": "keep looking for new games"
     },
     "F": {
@@ -718,7 +719,7 @@
    "options": {
     "A": {
      "zh": "玩得很開心",
-     "py": "Wán dé hěn kāixīn",
+     "py": "Wán de hěn kāixīn",
      "en": "have a great time playing"
     },
     "B": {
@@ -738,7 +739,7 @@
     },
     "E": {
      "zh": "不停地找新遊戲",
-     "py": "Bùtíng dì zhǎo xīn yóuxì",
+     "py": "Bùtíng de zhǎo xīn yóuxì",
      "en": "keep looking for new games"
     },
     "F": {
@@ -752,7 +753,7 @@
    "options": {
     "A": {
      "zh": "玩得很開心",
-     "py": "Wán dé hěn kāixīn",
+     "py": "Wán de hěn kāixīn",
      "en": "have a great time playing"
     },
     "B": {
@@ -772,7 +773,7 @@
     },
     "E": {
      "zh": "不停地找新遊戲",
-     "py": "Bùtíng dì zhǎo xīn yóuxì",
+     "py": "Bùtíng de zhǎo xīn yóuxì",
      "en": "keep looking for new games"
     },
     "F": {
@@ -786,7 +787,7 @@
    "options": {
     "A": {
      "zh": "玩得很開心",
-     "py": "Wán dé hěn kāixīn",
+     "py": "Wán de hěn kāixīn",
      "en": "have a great time playing"
     },
     "B": {
@@ -806,7 +807,7 @@
     },
     "E": {
      "zh": "不停地找新遊戲",
-     "py": "Bùtíng dì zhǎo xīn yóuxì",
+     "py": "Bùtíng de zhǎo xīn yóuxì",
      "en": "keep looking for new games"
     },
     "F": {
@@ -820,7 +821,7 @@
    "options": {
     "A": {
      "zh": "玩得很開心",
-     "py": "Wán dé hěn kāixīn",
+     "py": "Wán de hěn kāixīn",
      "en": "have a great time playing"
     },
     "B": {
@@ -840,7 +841,7 @@
     },
     "E": {
      "zh": "不停地找新遊戲",
-     "py": "Bùtíng dì zhǎo xīn yóuxì",
+     "py": "Bùtíng de zhǎo xīn yóuxì",
      "en": "keep looking for new games"
     },
     "F": {
@@ -854,7 +855,7 @@
    "options": {
     "A": {
      "zh": "玩得很開心",
-     "py": "Wán dé hěn kāixīn",
+     "py": "Wán de hěn kāixīn",
      "en": "have a great time playing"
     },
     "B": {
@@ -874,7 +875,7 @@
     },
     "E": {
      "zh": "不停地找新遊戲",
-     "py": "Bùtíng dì zhǎo xīn yóuxì",
+     "py": "Bùtíng de zhǎo xīn yóuxì",
      "en": "keep looking for new games"
     },
     "F": {
@@ -888,7 +889,7 @@
    "options": {
     "A": {
      "zh": "玩得很開心",
-     "py": "Wán dé hěn kāixīn",
+     "py": "Wán de hěn kāixīn",
      "en": "have a great time playing"
     },
     "B": {
@@ -908,7 +909,7 @@
     },
     "E": {
      "zh": "不停地找新遊戲",
-     "py": "Bùtíng dì zhǎo xīn yóuxì",
+     "py": "Bùtíng de zhǎo xīn yóuxì",
      "en": "keep looking for new games"
     },
     "F": {
@@ -922,7 +923,7 @@
    "options": {
     "A": {
      "zh": "玩得很開心",
-     "py": "Wán dé hěn kāixīn",
+     "py": "Wán de hěn kāixīn",
      "en": "have a great time playing"
     },
     "B": {
@@ -942,7 +943,7 @@
     },
     "E": {
      "zh": "不停地找新遊戲",
-     "py": "Bùtíng dì zhǎo xīn yóuxì",
+     "py": "Bùtíng de zhǎo xīn yóuxì",
      "en": "keep looking for new games"
     },
     "F": {
@@ -956,7 +957,7 @@
    "options": {
     "A": {
      "zh": "玩得很開心",
-     "py": "Wán dé hěn kāixīn",
+     "py": "Wán de hěn kāixīn",
      "en": "have a great time playing"
     },
     "B": {
@@ -976,7 +977,7 @@
     },
     "E": {
      "zh": "不停地找新遊戲",
-     "py": "Bùtíng dì zhǎo xīn yóuxì",
+     "py": "Bùtíng de zhǎo xīn yóuxì",
      "en": "keep looking for new games"
     },
     "F": {
@@ -990,7 +991,7 @@
    "options": {
     "A": {
      "zh": "玩得很開心",
-     "py": "Wán dé hěn kāixīn",
+     "py": "Wán de hěn kāixīn",
      "en": "have a great time playing"
     },
     "B": {
@@ -1010,7 +1011,7 @@
     },
     "E": {
      "zh": "不停地找新遊戲",
-     "py": "Bùtíng dì zhǎo xīn yóuxì",
+     "py": "Bùtíng de zhǎo xīn yóuxì",
      "en": "keep looking for new games"
     },
     "F": {
@@ -1202,7 +1203,7 @@
     },
     {
      "zh": "上週日，姊姊從宿舍坐公車回家，她一到家就覺得身體不舒服，想在家休息，所以大家只好改變要去河邊騎腳踏車的計畫，幫媽媽打掃家裡。",
-     "py": "Shàngzhōurì, zǐzǐ cóng sùshè zuògōngchē huíjiā, tā yī dào jiā jiù juéde shēntǐ bù shūfú, xiǎng zàijiā xiūxí, suǒyǐ dàjiā zhǐhǎo gǎibiàn yào qù hébiān qí jiǎotàchē de jìhuà, bāng māma dǎsǎo jiālǐ.",
+     "py": "Shàngzhōurì, zǐzǐ cóng sùshè zuògōngchē huíjiā, tā yí dào jiā jiù juéde shēntǐ bù shūfú, xiǎng zàijiā xiūxí, suǒyǐ dàjiā zhǐhǎo gǎibiàn yào qù hébiān qí jiǎotàchē de jìhuà, bāng māma dǎsǎo jiālǐ.",
      "en": "Last Sunday, my older sister took the bus home from her dormitory. As soon as she got home she felt unwell and wanted to rest at home, so everyone had to change our plan of riding bicycles by the river and help Mom clean the house."
     },
     {
@@ -1212,7 +1213,7 @@
     },
     {
      "zh": "弟弟不願意，就和媽媽說：「我的房間太乾淨，就找不到自己的東西了，我還是去整理姊姊的房間好了。」",
-     "py": "Dìdi bù yuànyì, jiù hé māma shuō: “Wǒ de fángjiān tài gānjìng, jiù zhǎo búdào zìjǐ de Dōngxi le, wǒ háishì qù zhěnglǐ zǐzǐ de fángjiān hǎo le.”",
+     "py": "Dìdi bú yuànyì, jiù hé māma shuō: “Wǒ de fángjiān tài gānjìng, jiù zhǎo búdào zìjǐ de Dōngxi le, wǒ háishì qù zhěnglǐ zǐzǐ de fángjiān hǎo le.”",
      "en": "Younger brother didn't want to, so he said to Mom: \"If my room is too clean, I won't be able to find my own things. I'd better go tidy older sister's room instead.\""
     },
     {
@@ -1223,7 +1224,7 @@
    ],
    "stem": {
     "zh": "這個故事裡的弟弟不願意做什麼事？",
-    "py": "Zhè ge gùshì lǐ de dìdi bù yuànyì zuò shénme shì?",
+    "py": "Zhè ge gùshì lǐ de dìdi bú yuànyì zuò shénme shì?",
     "en": "What didn't the younger brother in this story want to do?"
    },
    "options": {

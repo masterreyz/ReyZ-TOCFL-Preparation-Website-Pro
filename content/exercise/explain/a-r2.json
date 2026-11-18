@@ -2,6 +2,7 @@
  "testId": "a-r2",
  "segments": 160,
  "englishComplete": true,
+ "indonesianComplete": false,
  "questions": {
   "1": {
    "stem": {
@@ -48,7 +49,7 @@
   "7": {
    "stem": {
     "zh": "學生看著黑板上的句子說話。",
-    "py": "Xuéshēng kànzhù hēibǎn shàng de jùzi shuōhuà.",
+    "py": "Xuéshēng kànzhe hēibǎn shàng de jùzi shuōhuà.",
     "en": "The students are looking at the sentences on the blackboard and speaking."
    }
   },
@@ -337,12 +338,12 @@
     },
     "B": {
      "zh": "初級中文課在二○一教室上課。",
-     "py": "Chūjí Zhōngwén kèzài èr ○ yī jiàoshì shàngkè.",
+     "py": "Chūjí Zhōngwén kèzài èr líng yī jiàoshì shàngkè.",
      "en": "The beginner Chinese class is held in classroom 201."
     },
     "C": {
      "zh": "這個班的學生五月三日不上課。",
-     "py": "Zhè ge bān de xuéshēng wǔyuè sānrì bù shàngkè.",
+     "py": "Zhè ge bān de xuéshēng wǔyuè sānrì bú shàngkè.",
      "en": "Students in this class have no class on May 3rd."
     }
    },
@@ -383,7 +384,7 @@
     },
     "B": {
      "zh": "醫生要病人試著站起來。",
-     "py": "Yīshēng yào bìngrén shìzhù zhàn qǐlái.",
+     "py": "Yīshēng yào bìngrén shìzhe zhàn qǐlái.",
      "en": "The doctor wants the patient to try standing up."
     },
     "C": {
@@ -397,12 +398,12 @@
    "options": {
     "A": {
      "zh": "小華一星期運動四天。",
-     "py": "Xiǎohuá yī xīngqī yùndòng sìtiān.",
+     "py": "Xiǎohuá yì xīngqī yùndòng sìtiān.",
      "en": "Xiaohua exercises four days a week."
     },
     "B": {
      "zh": "小華只有星期二下午能休息。",
-     "py": "Xiǎohuá zhǐyǒu xīngqīèr xiàwǔ néng xiūxí.",
+     "py": "Xiǎohuá zhǐyǒu xīngqī'èr xiàwǔ néng xiūxí.",
      "en": "Xiaohua can only rest on Tuesday afternoons."
     },
     "C": {
@@ -419,7 +420,7 @@
     },
     {
      "zh": "星期一 星期二 星期三 星期四 星期五",
-     "py": "Xīngqīyī xīngqīèr xīngqīsān xīngqīsì xīngqīwǔ",
+     "py": "Xīngqīyī xīngqī'èr xīngqīsān xīngqīsì xīngqīwǔ",
      "en": "Monday, Tuesday, Wednesday, Thursday, Friday"
     },
     {
@@ -526,7 +527,7 @@
     },
     {
      "zh": "兩房、一客廳、一浴室",
-     "py": "Liǎng fáng, yī kètīng, yī yùshì",
+     "py": "Liǎng fáng, yí kètīng, yí yùshì",
      "en": "Two bedrooms, one living room, one bathroom"
     },
     {
@@ -555,7 +556,7 @@
     },
     "B": {
      "zh": "第二次喝飲料不能用新的杯子。",
-     "py": "Dìèrcì hē yǐnliào bùnéng yòng xīn de bēizi.",
+     "py": "Dì'èrcì hē yǐnliào bùnéng yòng xīn de bēizi.",
      "en": "You can't use a new cup for your second drink."
     },
     "C": {
@@ -663,7 +664,7 @@
    "options": {
     "A": {
      "zh": "著",
-     "py": "Zhù",
+     "py": "Zhe",
      "en": "(continuous aspect particle)"
     },
     "B": {
@@ -673,7 +674,7 @@
     },
     "C": {
      "zh": "得",
-     "py": "Dé",
+     "py": "Děi",
      "en": "(complement particle)"
     }
    }
@@ -1023,7 +1024,7 @@
     },
     {
      "zh": "明麗的朋友都覺得明麗總是開心地過生活，大家從來沒有看過她傷心或生氣。",
-     "py": "Mínglì de péngyǒu dōu juéde mínglì zǒngshì kāixīn dì guò shēnghuó, dàjiā cónglái méiyǒu kànguò tā shāngxīn huò shēngqì.",
+     "py": "Mínglì de péngyǒu dōu juéde mínglì zǒngshì kāixīn de guò shēnghuó, dàjiā cónglái méiyǒu kànguò tā shāngxīn huò shēngqì.",
      "en": "Mingli's friends all feel that Mingli always lives happily; nobody has ever seen her sad or angry."
     },
     {
@@ -1033,12 +1034,12 @@
     },
     {
      "zh": "也可以選擇好心情，喜愛自己的生活。",
-     "py": "Yě kěyǐ xuǎnzé hǎo xīnqíng, xǐài zìjǐ de shēnghuó.",
+     "py": "Yě kěyǐ xuǎnzé hǎo xīnqíng, xǐ'ài zìjǐ de shēnghuó.",
      "en": "or I can choose a good mood and love my life."
     },
     {
      "zh": "如果是你，不會選第二個嗎？」",
-     "py": "Rúguǒ shì nǐ, búhuì xuǎn dìèr ge ma?”",
+     "py": "Rúguǒ shì nǐ, búhuì xuǎn dì'èr ge ma?”",
      "en": "If it were you, wouldn't you choose the second?\""
     }
    ],
@@ -1099,7 +1100,7 @@
     },
     {
      "zh": "現代網路的進步，使賣書變得更容易。",
-     "py": "Xiàndài wǎnglù de jìnbù, shǐ màishū biàndé gèng róngyì.",
+     "py": "Xiàndài wǎnglù de jìnbù, shǐ màishū biàn de gèng róngyì.",
      "en": "Progress in the modern internet has made selling books easier."
     },
     {
@@ -1145,7 +1146,7 @@
     },
     {
      "zh": "順文歌唱得很好，上個月，她參加了一個唱歌比賽，為了能把歌唱好，她每天都練習五個小時，非常辛苦。",
-     "py": "Shùnwén gēchàng dé hěn hǎo, shànggèyuè, tā cānjiā le yí ge chànggē bǐsài, wèile néng bǎ gēchàng hǎo, tā měitiān dōu liànxí wǔ ge xiǎoshí, fēicháng xīnkǔ.",
+     "py": "Shùnwén gēchàng de hěn hǎo, shànggèyuè, tā cānjiā le yí ge chànggē bǐsài, wèile néng bǎ gēchàng hǎo, tā měitiān dōu liànxí wǔ ge xiǎoshí, fēicháng xīnkǔ.",
      "en": "Shunwen sings very well. Last month she entered a singing contest; in order to sing well, she practiced five hours every day, which was very hard work."
     },
     {
@@ -1187,7 +1188,7 @@
     },
     "D": {
      "zh": "為了比賽，健康已經不重要",
-     "py": "Wèile bǐsài, jiànkāng yǐjīng bù zhòngyào",
+     "py": "Wèile bǐsài, jiànkāng yǐjīng bú zhòngyào",
      "en": "For the contest, health no longer mattered."
     }
    }
@@ -1211,7 +1212,7 @@
     },
     {
      "zh": "第二，每天進辦公室或下班以前，可以留半小時到一小時，收、寄電子郵件，這樣的話，就不會因為經常得花時間寫郵件，影響了自己的工作。",
-     "py": "Dìèr, měitiān jìn bàngōngshì huò xiàbān yǐqián, kěyǐ liú bànxiǎoshí dào yī xiǎoshí, shōu, jì diànziyóujiàn, zhèyàngdehuà, jiù búhuì yīnwèi jīngcháng dé huā shíjiān xiě yóujiàn, yǐngxiǎng le zìjǐ de gōngzuò.",
+     "py": "Dì'èr, měitiān jìn bàngōngshì huò xiàbān yǐqián, kěyǐ liú bànxiǎoshí dào yì xiǎoshí, shōu, jì diànziyóujiàn, zhèyàngdehuà, jiù búhuì yīnwèi jīngcháng děi huā shíjiān xiě yóujiàn, yǐngxiǎng le zìjǐ de gōngzuò.",
      "en": "Second, every day, after coming into the office or before leaving work, set aside half an hour to an hour to receive and send emails. That way, your work won't be affected by frequently having to spend time writing emails."
     }
    ],
@@ -1223,7 +1224,7 @@
    "options": {
     "A": {
      "zh": "他們太喜歡找家人、朋友聊天兒",
-     "py": "Tāmen tài xǐhuān zhǎo jiārén, péngyǒu Liáotiānér",
+     "py": "Tāmen tài xǐhuān zhǎo jiārén, péngyǒu Liáotiānr",
      "en": "They like chatting with family and friends too much."
     },
     "B": {
@@ -1233,12 +1234,12 @@
     },
     "C": {
      "zh": "他們可能經常工作到一半就得停下來",
-     "py": "Tāmen kěnéng jīngcháng gōngzuò dào yíbàn jiù dé tíngxiàlái",
+     "py": "Tāmen kěnéng jīngcháng gōngzuò dào yíbàn jiù děi tíngxiàlái",
      "en": "They may often have to stop halfway through their work."
     },
     "D": {
      "zh": "他們不太常注意自己上、下班的時間",
-     "py": "Tāmen bù tàicháng zhùyì zìjǐ shàng, xiàbān de shíjiān",
+     "py": "Tāmen bú tàicháng zhùyì zìjǐ shàng, xiàbān de shíjiān",
      "en": "They don't pay much attention to when they start and finish work."
     }
    }
@@ -1257,12 +1258,12 @@
     },
     {
      "zh": "因為那位老闆講得太好，同學們的問題一個接著一個，大家最想知道的就是：要怎麼做才能快一點兒成功？",
-     "py": "Yīnwèi nàwèi lǎobǎn jiǎng dé tài hǎo, tóngxué men de wèntí yí ge jiēzhù yí ge, dàjiā zuì xiǎng zhīdào de jiùshì: Yào zěnme zuò cáinéng kuài yìdiǎnér chénggōng?",
+     "py": "Yīnwèi nàwèi lǎobǎn jiǎng de tài hǎo, tóngxué men de wèntí yí ge jiēzhe yí ge, dàjiā zuì xiǎng zhīdào de jiùshì: Yào zěnme zuò cáinéng kuài yìdiǎnr chénggōng?",
      "en": "Because the boss spoke so well, the students' questions came one after another. What everyone most wanted to know was: what should one do to succeed a bit faster?"
     },
     {
      "zh": "我本來以為，大老闆會教大家一些實際的方法，但他卻告訴我們：「做好現在應該做的，你們就已經成功了」。",
-     "py": "Wǒ běnlái yǐwéi, dà lǎobǎn huì jiào dàjiā yìxiē shíjì de fāngfǎ, dàntāquè gàosù wǒmen: “Zuòhǎo xiànzài yīnggāi zuò de, nǐmen jiù yǐjīng chénggōng le”.",
+     "py": "Wǒ běnlái yǐwéi, dà lǎobǎn huì jiāo dàjiā yìxiē shíjì de fāngfǎ, dàntāquè gàosù wǒmen: “Zuòhǎo xiànzài yīnggāi zuò de, nǐmen jiù yǐjīng chénggōng le”.",
      "en": "I originally thought the big boss would teach everyone some practical methods, but instead he told us: \"Do well what you should be doing now, and you have already succeeded.\""
     }
    ],
@@ -1289,7 +1290,7 @@
     },
     "D": {
      "zh": "得學會馬上聽懂老闆說的話",
-     "py": "Dé xuéhuì mǎshàng tīngdǒng lǎobǎn shuō dehuà",
+     "py": "Děi xuéhuì mǎshàng tīngdǒng lǎobǎn shuō dehuà",
      "en": "You have to learn to understand what your boss says right away."
     }
    }

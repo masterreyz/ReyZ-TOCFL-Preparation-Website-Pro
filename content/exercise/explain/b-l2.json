@@ -2,6 +2,7 @@
  "testId": "b-l2",
  "segments": 359,
  "englishComplete": true,
+ "indonesianComplete": false,
  "questions": {
   "1": {
    "options": {
@@ -111,12 +112,12 @@
    "transcript": [
     {
      "zh": "男：美美今天早上和我說她頭疼得不得了。",
-     "py": "Nán: Měiměi jīntiān zǎoshàng hé wǒ shuō tā tóuténg dé bùdéle.",
+     "py": "Nán: Měiměi jīntiān zǎoshàng hé wǒ shuō tā tóuténg de bùdéliǎo.",
      "en": "Man: Meimei told me this morning she had a terrible headache."
     },
     {
      "zh": "女：她有點兒發燒，不知道是不是感冒了？我等會兒帶她去看病。",
-     "py": "Nǚ: Tā yǒudiǎnér fāshāo, bù zhīdào shìbúshì gǎnmào le? Wǒ děnghuìer dài tā qù kànbìng.",
+     "py": "Nǚ: Tā yǒudiǎnr fāshāo, bù zhīdào shìbúshì gǎnmào le? Wǒ děnghuìr dài tā qù kànbìng.",
      "en": "Woman: She has a bit of a fever—I wonder if she's caught a cold? I'll take her to see a doctor in a bit."
     },
     {
@@ -345,7 +346,7 @@
     },
     "C": {
      "zh": "沒人知道張小姐去哪兒",
-     "py": "Méi rén zhīdào zhāng Xiǎojiě qù nǎér",
+     "py": "Méi rén zhīdào zhāng Xiǎojiě qù nǎr",
      "en": "(C) No one knows where Ms. Zhang went."
     },
     "D": {
@@ -381,7 +382,7 @@
     },
     "B": {
      "zh": "帶著家人看電影",
-     "py": "Dàizhù jiārén kàn diànyǐng",
+     "py": "Dàizhe jiārén kàn diànyǐng",
      "en": "(B) Take the family to see a movie"
     },
     "C": {
@@ -500,7 +501,7 @@
     },
     {
      "zh": "女：嗯，星期六不太方便，您不用麻煩了。",
-     "py": "Nǚ: ń, xīngqīliù bù tài fāngbiàn, nín búyòng máfán le.",
+     "py": "Nǚ: ń, xīngqīliù bú tài fāngbiàn, nín búyòng máfán le.",
      "en": "Woman: Hmm, Saturday's not very convenient. You don't need to go to the trouble."
     },
     {
@@ -551,7 +552,7 @@
     },
     {
      "zh": "女：我得在家寫功課。有什麼事嗎？",
-     "py": "Nǚ: Wǒ dé zàijiā xiě gōngkè. Yǒu shénme shì ma?",
+     "py": "Nǚ: Wǒ děi zàijiā xiě gōngkè. Yǒu shénme shì ma?",
      "en": "Woman: I have to do homework at home. What's up?"
     },
     {
@@ -648,7 +649,7 @@
    "transcript": [
     {
      "zh": "男：小雪，我在這兒！",
-     "py": "Nán: Xiǎoxuě, wǒ zài zhèér!",
+     "py": "Nán: Xiǎoxuě, wǒ zài zhèr!",
      "en": "Man: Xiaoxue, I'm over here!"
     },
     {
@@ -811,7 +812,7 @@
     },
     {
      "zh": "男：我女朋友走了以後，沒人做飯給我吃，家裡那些鍋子，用不著了。",
-     "py": "Nán: Wǒ nǚpéngyǒu zǒu le yǐhòu, méi rén zuòfàn gěi wǒ chī, jiālǐ nàxiē guōzi, yòng búzhù le.",
+     "py": "Nán: Wǒ nǚpéngyǒu zǒu le yǐhòu, méi rén zuòfàn gěi wǒ chī, jiālǐ nàxiē guōzi, yòng bùzháo le.",
      "en": "Man: Since my girlfriend left, no one cooks for me, so I don't need the pots at home anymore."
     },
     {
@@ -903,7 +904,7 @@
    "transcript": [
     {
      "zh": "男：看你手上提著這麼多東西，連開門都需要人幫忙，你中大獎嗎？",
-     "py": "Nán: Kàn nǐ shǒushàng tízhù zhème duō Dōngxi, Lián kāimén dōu xūyào rén bāngmáng, nǐ Zhōngdàjiǎng ma?",
+     "py": "Nán: Kàn nǐ shǒushàng tízhe zhème duō Dōngxi, Lián kāimén dōu xūyào rén bāngmáng, nǐ Zhōngdàjiǎng ma?",
      "en": "Man: Look at all the stuff you're carrying—you even need help opening the door. Did you win a big prize?"
     },
     {
@@ -913,7 +914,7 @@
     },
     {
      "zh": "男：就算是這樣，東西也多得太誇張了，是不是有朋友請你幫忙買？",
-     "py": "Nán: Jiùsuàn shì zhèyàng, Dōngxi yě duō dé tài kuāzhāng le, shìbúshì yǒu péngyǒu qǐng nǐ bāngmáng mǎi?",
+     "py": "Nán: Jiùsuàn shì zhèyàng, Dōngxi yě duō de tài kuāzhāng le, shìbúshì yǒu péngyǒu qǐng nǐ bāngmáng mǎi?",
      "en": "Man: Even so, that's an absurd amount of stuff. Did a friend ask you to buy things for them?"
     },
     {
@@ -979,7 +980,7 @@
     },
     {
      "zh": "男：你究竟記得哪件事啊！這件事來不及處理好的話，你就不用來了。",
-     "py": "Nán: Nǐ jiūjìng jìde nǎjiàn shì a! Zhèjiàn shì láibùjí chǔlǐ hǎo dehuà, nǐ jiù bù yònglái le.",
+     "py": "Nán: Nǐ jiūjìng jìde nǎjiàn shì a! Zhèjiàn shì láibùjí chǔlǐ hǎo dehuà, nǐ jiù bú yònglái le.",
      "en": "Man: What do you actually remember? If this isn't sorted out in time, you needn't come back."
     },
     {
@@ -1093,7 +1094,7 @@
     },
     {
      "zh": "女：那我得趕緊看看剛買的嬰兒奶粉是不是有問題的商家製造的。",
-     "py": "Nǚ: Nà wǒ dé gǎnjǐn kànkàn gāng mǎi de yīngér nǎifěn shìbúshì yǒu wèntí de shāngjiā zhìzào de.",
+     "py": "Nǚ: Nà wǒ děi gǎnjǐn kànkàn gāng mǎi de yīng'ér nǎifěn shìbúshì yǒu wèntí de shāngjiā zhìzào de.",
      "en": "Woman: Then I'd better check quickly whether the baby formula I just bought was made by one of the problem companies."
     }
    ],
@@ -1114,7 +1115,7 @@
     },
     "B": {
      "zh": "商店聯合調高嬰兒奶粉的售價",
-     "py": "Shāngdiàn liánhé diào gāo yīngér nǎifěn de shòujià",
+     "py": "Shāngdiàn liánhé tiáo gāo yīng'ér nǎifěn de shòujià",
      "en": "(B) Stores jointly raised the price of baby formula."
     },
     "C": {
@@ -1124,7 +1125,7 @@
     },
     "D": {
      "zh": "嬰兒奶粉缺貨的情況越來越嚴重",
-     "py": "Yīngér nǎifěn quēhuò de qíngkuàng yuèláiyuè yánzhòng",
+     "py": "Yīng'ér nǎifěn quēhuò de qíngkuàng yuèláiyuè yánzhòng",
      "en": "(D) The shortage of baby formula is getting more and more serious."
     }
    },
@@ -1167,7 +1168,7 @@
     },
     "D": {
      "zh": "找不到教他做蛋糕的人",
-     "py": "Zhǎo búdào jiào tā zuò dàngāo de rén",
+     "py": "Zhǎo búdào jiāo tā zuò dàngāo de rén",
      "en": "(D) He can't find anyone to teach him to make cakes."
     }
    },
@@ -1311,7 +1312,7 @@
   "29": {
    "stem": {
     "zh": "根據對話，為什麼新生兒的父母要請客和送禮？",
-    "py": "Gēnjù duìhuà, wèishénme xīnshēngér de fùmǔ yào qǐngkè hé sònglǐ?",
+    "py": "Gēnjù duìhuà, wèishénme xīnshēng'ér de fùmǔ yào qǐngkè hé sònglǐ?",
     "en": "According to the conversation, why do a newborn's parents treat people to a meal and give gifts?"
    },
    "options": {
@@ -1322,7 +1323,7 @@
     },
     "B": {
      "zh": "因為想請大家幫忙給新生兒取名字",
-     "py": "Yīnwèi xiǎngqǐng dàjiā bāngmáng gěi xīnshēngér qǔmíngzi",
+     "py": "Yīnwèi xiǎngqǐng dàjiā bāngmáng gěi xīnshēng'ér qǔmíngzi",
      "en": "(B) Because they want everyone to help name the newborn"
     },
     "C": {
@@ -1339,7 +1340,7 @@
    "transcript": [
     {
      "zh": "根據對話，為什麼新生兒的父母要請客和送禮？",
-     "py": "Gēnjù duìhuà, wèishénme xīnshēngér de fùmǔ yào qǐngkè hé sònglǐ?",
+     "py": "Gēnjù duìhuà, wèishénme xīnshēng'ér de fùmǔ yào qǐngkè hé sònglǐ?",
      "en": "According to the conversation, why do a newborn's parents treat people to a meal and give gifts?"
     }
    ]
@@ -1457,7 +1458,7 @@
     },
     "D": {
      "zh": "他在公園種了很多樹",
-     "py": "Tā zài gōngyuán zhǒng le hěnduō shù",
+     "py": "Tā zài gōngyuán zhòng le hěnduō shù",
      "en": "(D) He planted lots of trees in the park."
     }
    },
@@ -1673,7 +1674,7 @@
     },
     {
      "zh": "從來不會忘記幫我們準備飯菜，冰箱裡總是有水果和點心，生日的時候一定有禮",
-     "py": "Cóngláibù huì wàngjì bāng wǒmen zhǔnbèi fàncài, bīngxiāng lǐ zǒngshì yǒu shuǐguǒ hé diǎnxīn, shēngrì de shíhòu yídìng yǒu lǐ",
+     "py": "Cóngláibú huì wàngjì bāng wǒmen zhǔnbèi fàncài, bīngxiāng lǐ zǒngshì yǒu shuǐguǒ hé diǎnxīn, shēngrì de shíhòu yídìng yǒu lǐ",
      "en": "she never forgets to prepare meals for us; there's always fruit and snacks in the fridge, and there's always a present on our"
     },
     {
@@ -1683,7 +1684,7 @@
     },
     {
      "zh": "聊天的機會不太多，真希望她不要這麼忙，能多陪我就好了！",
-     "py": "Liáotiān de jīhuì bù tài duō, zhēn xīwàng tā búyào zhème máng, néng duō péi wǒ jiù hǎo le!",
+     "py": "Liáotiān de jīhuì bú tài duō, zhēn xīwàng tā búyào zhème máng, néng duō péi wǒ jiù hǎo le!",
      "en": "don't get many chances to chat with her. I really wish she weren't so busy and could spend more time with me!"
     }
    ],
@@ -1762,7 +1763,7 @@
     },
     {
      "zh": "辦公室就這麼大，一進來，右手邊有一間小廚房，可以煮咖啡喝，還有冰箱可以",
-     "py": "Bàngōngshì jiù zhème dà, yī jìnlái, yòushǒubiān yǒu yìjiān xiǎochúfáng, kěyǐ zhǔ kāfēi hē, háiyǒu bīngxiāng kěyǐ",
+     "py": "Bàngōngshì jiù zhème dà, yí jìnlái, yòushǒubiān yǒu yìjiān xiǎochúfáng, kěyǐ zhǔ kāfēi hē, háiyǒu bīngxiāng kěyǐ",
      "en": "office is just this size. As you come in, on the right there's a small kitchen where you can make coffee, and there's a fridge you can"
     },
     {
@@ -1866,7 +1867,7 @@
     },
     {
      "zh": "請注意，一人最多訂四張",
-     "py": "Qǐng zhùyì, yī rén zuì duōdìng sìzhāng",
+     "py": "Qǐng zhùyì, yì rén zuì duōdìng sìzhāng",
      "en": "Please note that each person can book a maximum of four tickets."
     },
     {
@@ -1960,7 +1961,7 @@
     },
     {
      "zh": "來的。因為今天有客人到家裡來，所以她一早就出門買菜了。她問我客人來了沒",
-     "py": "Lái de. Yīnwèi jīntiān yǒu kèrén dào jiālǐ lái, suǒyǐ tā yī zǎojiù chūmén mǎicài le. Tā wèn wǒ kèrén lái le méi",
+     "py": "Lái de. Yīnwèi jīntiān yǒu kèrén dào jiālǐ lái, suǒyǐ tā yì zǎojiù chūmén mǎicài le. Tā wèn wǒ kèrén lái le méi",
      "en": "calling. Because we have guests coming today, she went out early to buy groceries. She asked me whether the guests had arrived yet,"
     },
     {
@@ -1996,7 +1997,7 @@
     },
     "D": {
      "zh": "他會好好地招待客人",
-     "py": "Tā huì hǎohǎo dì zhāodài kèrén",
+     "py": "Tā huì hǎohǎo de zhāodài kèrén",
      "en": "(D) He'll take good care of the guests."
     }
    },

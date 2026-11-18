@@ -10,12 +10,14 @@ const loadTest = (id) => getJson(`content/exercise/${id}.json`);
 const SKILL = { listening: 'Listening', reading: 'Reading' };
 const loadExplain = (id) => getJson(`content/exercise/explain/${id}.json`).catch(() => null);
 
-// One Chinese line with its pinyin and English translation.
+// One Chinese line with audio, pinyin, and its English and Indonesian translations.
 function explainLine(seg, mark = '') {
   return h('div', { class: 'ex-line' },
     h('div', { class: 'ex-zh' }, mark ? h('span', { class: 'ex-mark' }, mark) : null, h('span', { lang: 'zh-Hant' }, seg.zh), SpeakButton(seg.zh, 'Dengarkan')),
     h('div', { class: 'ex-py', lang: 'zh-Latn-pinyin' }, seg.py),
-    seg.en ? h('div', { class: 'ex-en', lang: 'en' }, seg.en) : null);
+    seg.en || seg.idn ? h('dl', { class: 'ex-tr' },
+      seg.en ? [h('dt', { title: 'English' }, 'EN'), h('dd', { lang: 'en' }, seg.en)] : null,
+      seg.idn ? [h('dt', { title: 'Bahasa Indonesia' }, 'ID'), h('dd', { lang: 'id' }, seg.idn)] : null) : null);
 }
 const explainGroup = (title, segs) => segs?.length ? h('section', { class: 'ex-group' }, h('h4', {}, title), ...segs) : null;
 
@@ -32,15 +34,15 @@ function explainPanel(test, q, ex, given) {
   const intro = e.intro || (introN ? all[introN]?.intro : null);
   const opts = e.options ? Object.keys(e.options).sort().map((L) => explainLine(e.options[L], `(${L})${L === q.answer ? ' ✓' : (L === given ? ' ✗' : '')}`)) : [];
   return h('details', { class: 'explain', open: true },
-    h('summary', {}, 'Penjelasan: pinyin & terjemahan Inggris'),
+    h('summary', {}, 'Pembahasan: pinyin, audio, terjemahan Inggris & Indonesia'),
     explainGroup(passage && lead && !e.passage ? `Teks bacaan (bersama soal ${leadN})` : 'Teks bacaan', passage?.map((x) => explainLine(x))),
     explainGroup('Teks di dalam gambar', image?.map((x) => explainLine(x))),
     explainGroup('Pengantar audio', intro?.map((x) => explainLine(x))),
     explainGroup('Transkrip audio', e.transcript?.map((x) => explainLine(x))),
     explainGroup('Soal', e.stem ? [explainLine(e.stem)] : null),
     explainGroup('Pilihan jawaban', opts),
-    ex.englishComplete ? null : h('p', { class: 'small ex-pending' }, 'Terjemahan Inggris untuk tes ini sedang ditambahkan bertahap; pinyin sudah lengkap untuk semua teks.'),
-    h('p', { class: 'small muted ex-note' }, 'Pinyin (Hanyu Pinyin) dibuat otomatis dan diperiksa; terjemahan Inggris disusun untuk situs ini, bukan terjemahan resmi TOCFL.'));
+    ex.indonesianComplete ? null : h('p', { class: 'small ex-pending' }, ex.englishComplete ? 'Terjemahan bahasa Indonesia untuk tes ini sedang ditambahkan bertahap.' : 'Terjemahan untuk tes ini sedang ditambahkan bertahap; pinyin sudah lengkap untuk semua teks.'),
+    h('p', { class: 'small muted ex-note' }, 'Pinyin memakai Hanyu Pinyin dengan tanda nada; tombol 🔊 membacakan setiap baris dengan suara Mandarin. Terjemahan Inggris dan Indonesia disusun untuk situs ini dan bukan terjemahan resmi TOCFL.'));
 }
 
 // Speech-synthesis segments for one question, built from the official listening script.

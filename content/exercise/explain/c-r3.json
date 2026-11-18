@@ -2,6 +2,7 @@
  "testId": "c-r3",
  "segments": 316,
  "englishComplete": true,
+ "indonesianComplete": false,
  "questions": {
   "1": {
    "passage": [
@@ -12,7 +13,7 @@
     },
     {
      "zh": "歐洲釀造啤酒的歷史悠久，但最早釀造啤酒的記錄卻出現在中亞和古埃及 1 。",
-     "py": "Ōuzhōu niàngzào píjiǔ de lìshǐyōujiǔ, dàn zuìzǎo niàngzào píjiǔ de jìlù què chūxiàn zài Zhōngyà hé Gǔāijí 1.",
+     "py": "Ōuzhōu niàngzào píjiǔ de lìshǐyōujiǔ, dàn zuìzǎo niàngzào píjiǔ de jìlù què chūxiàn zài Zhōngyà hé Gǔ'āijí 1.",
      "en": "Europe has a long history of brewing beer, but the earliest records of brewing appear in the ___1___ of Central Asia and ancient Egypt."
     },
     {
@@ -49,7 +50,7 @@
     },
     "C": {
      "zh": "一區",
-     "py": "Yī qū",
+     "py": "Yì qū",
      "en": "(C) district"
     },
     "D": {
@@ -63,7 +64,7 @@
    "options": {
     "A": {
      "zh": "然而",
-     "py": "Ránér",
+     "py": "Rán'ér",
      "en": "(A) however"
     },
     "B": {
@@ -78,7 +79,7 @@
     },
     "D": {
      "zh": "因而",
-     "py": "Yīnér",
+     "py": "Yīn'ér",
      "en": "(D) and therefore"
     }
    }
@@ -208,7 +209,7 @@
     },
     {
      "zh": "10 身心俱疲，仍日以繼夜地創作，他以布條將畫筆 11 在變形的手上、離開病床坐在特製輪椅上，視這些 12 為一道道試煉，化作畫布上一抹繽紛愉悅的動人光影。",
-     "py": "10 shēnxīnjùpí, réng rìyǐjìyè dì chuàngzuò, tā yǐ bùtiáo jiāng huàbǐ 11 zài biànxíng de shǒushàng, líkāi bìngchuáng zuòzài tèzhì lúnyǐ shàng, shì zhèxiē 12 wèi yídàodào shìliàn, huàzuò huàbù shàng yìmǒ bīnfēn yúyuè de dòngrén guāngyǐng.",
+     "py": "10 shēnxīnjùpí, réng rìyǐjìyè de chuàngzuò, tā yǐ bùtiáo jiāng huàbǐ 11 zài biànxíng de shǒushàng, líkāi bìngchuáng zuòzài tèzhì lúnyǐ shàng, shì zhèxiē 12 wéi yídàodào shìliàn, huàzuò huàbù shàng yìmǒ bīnfēn yúyuè de dòngrén guāngyǐng.",
      "en": "___10___ exhausted in body and mind, kept painting day and night. He ___11___ his brushes onto his deformed hands with strips of cloth and left his sickbed to sit in a specially made wheelchair, regarding these ___12___ as trials one after another, transforming them into vivid, joyful, moving light and shadow on the canvas."
     }
    ],
@@ -374,7 +375,7 @@
     },
     {
      "zh": "我詫異地發現，老貓打鼾的節奏和鼻息，乍聽來 14 是人熟睡時的呼吸聲。",
-     "py": "Wǒ chàyì dì fāxiàn, lǎomāo dǎhān de jiézòu hé bíxī, zhàtīng lái 14 shì rén shúshuì shí de hūxīshēng.",
+     "py": "Wǒ chàyì de fāxiàn, lǎomāo dǎhān de jiézòu hé bíxī, zhàtīng lái 14 shì rén shúshuì shí de hūxīshēng.",
      "en": "I was surprised to find that the rhythm and breathing of the old cat's snoring, at first hearing, ___14___ the breathing of a person fast asleep."
     },
     {
@@ -389,7 +390,7 @@
     },
     {
      "zh": "我們的故事 17 是一籮筐，但認真回憶，那些細節卻又稀鬆得很，不就是人貓之間的尋常日子嘛！",
-     "py": "Wǒmen de gùshì 17 shì Yìluókuāng, dàn rènzhēn huíyì, nàxiē xìjié què yòu xīsōng dé hěn, bù jiùshì rénmāo zhījiān de xúncháng rìzi ma!",
+     "py": "Wǒmen de gùshì 17 shì Yìluókuāng, dàn rènzhēn huíyì, nàxiē xìjié què yòu xīsōng de hěn, bú jiùshì rénmāo zhījiān de xúncháng rìzi ma!",
      "en": "Our stories ___17___ fill a basket, but when I try to recall them, the details are so ordinary—just everyday days between a person and a cat!"
     },
     {
@@ -560,12 +561,12 @@
     },
     {
      "zh": "但小熊隊從來不缺球迷支持者，他們的球迷甚至練就一身自我解嘲、自我安慰的本事，例如在球季開賽的第一場比賽，就高舉牌子，上面寫著：「別擔心，還有明年！」",
-     "py": "Dàn xiǎo xióngduì cóngláibù quē qiúmí zhīchízhě, tāmen de qiúmí shènzhì liànjiù yìshēn zìwǒjiěcháo, zìwǒānwèi de běnshì, lìrú zài qiújì kāisài de dìyìcháng bǐsài, jiù gāojǔ páizi, shàngmiàn xiězhù: “Bié dānxīn, háiyǒu míngnián!”",
+     "py": "Dàn xiǎo xióngduì cóngláibù quē qiúmí zhīchízhě, tāmen de qiúmí shènzhì liànjiù yìshēn zìwǒjiěcháo, zìwǒ'ānwèi de běnshì, lìrú zài qiújì kāisài de dìyìcháng bǐsài, jiù gāojǔ páizi, shàngmiàn xiězhe: “Bié dānxīn, háiyǒu míngnián!”",
      "en": "But the Cubs have never lacked fans. Their fans have even developed the skill of laughing at themselves and consoling themselves—for example, at the first game of the season they hold up signs saying: \"Don't worry, there's always next year!\""
     },
     {
      "zh": "近來台灣有不少運動員在國際體壇表現卓越，無論媒體或輿論都以「台灣之光」來稱呼這些為國爭光的運動員，一般民眾也與有榮焉，追著觀看這些台灣之光的各項賽事。",
-     "py": "Jìnlái Táiwān yǒu bùshǎo yùndòngyuán zài guójì tǐtán biǎoxiàn Zhuóyuè, wúlùn méitǐ huò yúlùn dōu yǐ “Táiwān zhī guāng” lái chēnghū zhèxiē wèiguózhēngguāng de yùndòngyuán, yìbān mínzhòng yě yǔ yǒu Róngyān, zhuīzhù guānkàn zhèxiē Táiwān zhī guāng de gèxiàng sàishì.",
+     "py": "Jìnlái Táiwān yǒu bùshǎo yùndòngyuán zài guójì tǐtán biǎoxiàn Zhuóyuè, wúlùn méitǐ huò yúlùn dōu yǐ “Táiwān zhī guāng” lái chēnghū zhèxiē wèiguózhēngguāng de yùndòngyuán, yìbān mínzhòng yě yǔ yǒu Róngyān, zhuīzhe guānkàn zhèxiē Táiwān zhī guāng de gèxiàng sàishì.",
      "en": "Recently many Taiwanese athletes have performed outstandingly in international sport. Both the media and the public call these athletes who bring glory to the country \"the pride of Taiwan,\" and ordinary people share in the glory, following these athletes' events closely."
     },
     {
@@ -585,7 +586,7 @@
     },
     {
      "zh": "一旦失去了贏的因素，我們也就毫不客氣地失去對他們的興趣，轉而尋找實力更強的球隊來支持了。",
-     "py": "Yídàn shīqù leyíng de yīnsù, wǒmen yě jiù háobúkèqì dì shīqù duì tāmen de xìngqù, zhuǎnér xúnzhǎo shílì gèng qiáng de qiúduì lái zhīchí le.",
+     "py": "Yídàn shīqù leyíng de yīnsù, wǒmen yě jiù háobúkèqì de shīqù duì tāmen de xìngqù, zhuǎn'ér xúnzhǎo shílì gèng qiáng de qiúduì lái zhīchí le.",
      "en": "Once the winning factor is gone, we unceremoniously lose interest in them and turn to support stronger teams instead."
     }
    ],
@@ -602,7 +603,7 @@
     },
     "B": {
      "zh": "今年別輸得太難看",
-     "py": "Jīnnián biéshū dé tài nánkàn",
+     "py": "Jīnnián biéshū de tài nánkàn",
      "en": "(B) Don't lose too badly this year."
     },
     "C": {
@@ -620,7 +621,7 @@
   "20": {
    "stem": {
     "zh": "第二段提到的「他們」指的是誰？",
-    "py": "Dìèrduàn tídào de “Tāmen” zhǐ de shì shuí?",
+    "py": "Dì'èrduàn tídào de “Tāmen” zhǐ de shì shuí?",
     "en": "Who does \"them\" in the second paragraph refer to?"
    },
    "options": {
@@ -752,7 +753,7 @@
     },
     {
      "zh": "因此，目前為止，許多政府相關的業務都要求本人帶著身分證，親自到場辦理。",
-     "py": "Yīncǐ, mùqiánwéizhǐ, xǔduō zhèngfǔ xiāngguān de yèwù dōu yāoqiú běnrén dàizhù shēnfènzhèng, qīnzì dàochǎng bànlǐ.",
+     "py": "Yīncǐ, mùqiánwéizhǐ, xǔduō zhèngfǔ xiāngguān de yèwù dōu yāoqiú běnrén dàizhe shēnfènzhèng, qīnzì dàochǎng bànlǐ.",
      "en": "So, up to now, many government services have required people to bring their ID card and go in person."
     },
     {
@@ -792,12 +793,12 @@
     },
     {
      "zh": "2. 若卡片遺失欲重辦，得再次繳交卡片工本費（免手續費）。",
-     "py": "2. Ruò Kǎpiàn yíshī yù zhòngbàn, dé zàicì jiǎojiāo Kǎpiàn gōngběnfèi (Miǎn shǒuxùfèi).",
+     "py": "2. Ruò Kǎpiàn yíshī yù zhòngbàn, děi zàicì jiǎojiāo Kǎpiàn gōngběnfèi (Miǎn shǒuxùfèi).",
      "en": "2. If the card is lost and you want a new one, you must pay the card fee again (no handling fee)."
     },
     {
      "zh": "3. 憑證有效期限為五年，若重新辦理，應自第一次申辦起算，而非自重辦之日起算。",
-     "py": "3. Píngzhèng yǒuxiàoqīxiàn wèi wǔnián, ruò chóngxīn bànlǐ, yīng zì dìyícì shēnbàn qǐ suàn, ér fēi zìzhòng bàn Zhīrìqǐ suàn.",
+     "py": "3. Píngzhèng yǒuxiàoqīxiàn wéi wǔnián, ruò chóngxīn bànlǐ, yīng zì dìyícì shēnbàn qǐ suàn, ér fēi zìzhòng bàn Zhīrìqǐ suàn.",
      "en": "3. The certificate is valid for five years; if reissued, validity counts from the first application, not from the date of reissue."
     }
    ]
@@ -840,7 +841,7 @@
    "options": {
     "A": {
      "zh": "剛出生的嬰兒",
-     "py": "Gāngchūshēng de yīngér",
+     "py": "Gāngchūshēng de yīng'ér",
      "en": "(A) A newborn baby"
     },
     "B": {
@@ -928,7 +929,7 @@
     },
     {
      "zh": "據說後來有人在紙鳶上加上竹笛，風一吹就會發出像竹箏一樣的聲響，所以叫「風箏」。",
-     "py": "Jùshuō hòulái yǒurén zài zhǐyuān shàng jiāshàng zhúdí, fēng yī chuī jiù huì fāchū xiàng zhúzhēng yíyàng de shēngxiǎng, suǒyǐ jiào “Fēngzhēng”.",
+     "py": "Jùshuō hòulái yǒurén zài zhǐyuān shàng jiāshàng zhúdí, fēng yì chuī jiù huì fāchū xiàng zhúzhēng yíyàng de shēngxiǎng, suǒyǐ jiào “Fēngzhēng”.",
      "en": "It is said that later someone added a bamboo flute to the paper hawk, which made a sound like a bamboo zither when the wind blew, so it was called a \"fengzheng\" (wind zither)."
     }
    ],
@@ -1066,7 +1067,7 @@
     },
     {
      "zh": "其實這並非是一件新鮮事，如德國知名的魯爾工業區，將廢棄的鋼鐵廠交給設計師改造後，便吸引了無數遊客前往朝聖；",
-     "py": "Qíshí zhè bìngfēi shì yíjiàn Xīnxiānshì, rú Déguó zhīmíng de Lǔěr gōngyèqū, jiāng fèiqì de gāngtiěchǎng jiāogěi shèjìshī gǎizào hòu, biàn xīyǐn le wúshù yóukè qiánwǎng Cháoshèng;",
+     "py": "Qíshí zhè bìngfēi shì yíjiàn Xīnxiānshì, rú Déguó zhīmíng de Lǔ'ěr gōngyèqū, jiāng fèiqì de gāngtiěchǎng jiāogěi shèjìshī gǎizào hòu, biàn xīyǐn le wúshù yóukè qiánwǎng Cháoshèng;",
      "en": "In fact this is nothing new. For example, Germany's famous Ruhr industrial area handed an abandoned steelworks to designers to transform, and it then attracted countless visitors on pilgrimage;"
     },
     {
@@ -1086,22 +1087,22 @@
     },
     {
      "zh": "要參觀生產過程，員工就得加班，並且還得穿著整齊、動作專業，以往邊工作邊說話的習慣都要「收」起來，員工反彈在所難免。",
-     "py": "Yào cānguān shēngchǎn guòchéng, yuángōng jiù dé jiābān, bìngqiě hái dé chuānzhù zhěngqí, dòngzuò zhuānyè, yǐwǎng biān gōngzuò biān shuōhuà de xíguàn dōu yào “Shōu” qǐlái, yuángōng fǎntán zàisuǒnánmiǎn.",
+     "py": "Yào cānguān shēngchǎn guòchéng, yuángōng jiù děi jiābān, bìngqiě hái děi chuānzhe zhěngqí, dòngzuò zhuānyè, yǐwǎng biān gōngzuò biān shuōhuà de xíguàn dōu yào “Shōu” qǐlái, yuángōng fǎntán zàisuǒnánmiǎn.",
      "en": "For visitors to see the production process, employees have to work overtime, and also dress neatly and move professionally; the old habit of chatting while working has to be \"put away,\" so employee resistance is inevitable."
     },
     {
      "zh": "再說，有些經營者無法接受下一代在快沒飯吃的情況下，還打算花大錢裝潢、設計觀光動線、培訓解說人員，而這些為品牌加分的經濟效果並不是立即可見的，於是兩代之間衝突不斷，也常見第二代因此被掃地出門，只好另立品牌的例子。",
-     "py": "Zàishuō, yǒuxiē jīngyíngzhě wúfǎ jiēshòu xiàyídài zài kuài méifàn chī de qíngkuàng xià, hái dǎsuàn Huādàqián zhuānghuáng, shèjì guānguāng dòngxiàn, péixùn jiěshuō rényuán, ér zhèxiē wèi pǐnpái jiāfēn de jīngjì xiàoguǒ bìng búshì lìjí kějiàn de, yúshì liǎngdài zhījiān chōngtū búduàn, yě chángjiàn dìèrdài yīncǐ bèi sǎodìchūmén, zhǐhǎo lìng lì pǐnpái de lìzi.",
+     "py": "Zàishuō, yǒuxiē jīngyíngzhě wúfǎ jiēshòu xiàyídài zài kuài méifàn chī de qíngkuàng xià, hái dǎsuàn Huādàqián zhuānghuáng, shèjì guānguāng dòngxiàn, péixùn jiěshuō rényuán, ér zhèxiē wèi pǐnpái jiāfēn de jīngjì xiàoguǒ bìng búshì lìjí kějiàn de, yúshì liǎngdài zhījiān chōngtū búduàn, yě chángjiàn dì'èrdài yīncǐ bèi sǎodìchūmén, zhǐhǎo lìng lì pǐnpái de lìzi.",
      "en": "Moreover, some operators can't accept that the next generation, when they're almost out of money, still plan to spend heavily on renovation, designing tourist routes and training guides—and the brand-boosting economic effects of these aren't immediately visible. So there is constant conflict between the two generations, and it's common for the second generation to be kicked out as a result and have to set up their own brand."
     },
     {
      "zh": "臺灣的觀光工廠雖然尚未成熟，但當遊客置身在這些傳統工廠裡，除了觀光、學習外，彷彿也進入了時光隧道，重溫數十年前以「臺灣製造」創下經濟奇蹟的故事，並且藉著參觀和購買行為，和業者一同創造新一波的經濟奇蹟。",
-     "py": "Táiwān de guānguāng gōngchǎng suīrán shàngwèi chéngshú, dàn dāng yóukè zhìshēn zài zhèxiē chuántǒng gōngchǎng lǐ, chúle guānguāng, xuéxí wài, fǎngfú yě jìnrù le shíguāngsuìdào, chóngwēn shùshínián qiányǐ “Táiwān zhìzào” chuàngxià jīngjì qíjì de gùshì, bìngqiě jí zhù cānguān hé gòumǎi xíngwéi, hé yèzhě yìtóng chuàngzào Xīnyìbō de jīngjì qíjì.",
+     "py": "Táiwān de guānguāng gōngchǎng suīrán shàngwèi chéngshú, dàn dāng yóukè zhìshēn zài zhèxiē chuántǒng gōngchǎng lǐ, chúle guānguāng, xuéxí wài, fǎngfú yě jìnrù le shíguāngsuìdào, chóngwēn shùshínián qiányǐ “Táiwān zhìzào” chuàngxià jīngjì qíjì de gùshì, bìngqiě jí zhe cānguān hé gòumǎi xíngwéi, hé yèzhě yìtóng chuàngzào Xīnyìbō de jīngjì qíjì.",
      "en": "Although Taiwan's tourist factories are not yet mature, when visitors are inside these traditional factories, besides sightseeing and learning, they seem to enter a time tunnel, reliving the story of the economic miracle created by \"Made in Taiwan\" decades ago, and through visiting and buying they create a new wave of economic miracle together with the businesses."
     },
     {
      "zh": "從這個角度來看，也算得上是好事一樁。",
-     "py": "Cóng zhè ge jiǎodù láikàn, yě suàn dé shàng shì hǎoshì yìzhuāng.",
+     "py": "Cóng zhè ge jiǎodù láikàn, yě suàn de shàng shì hǎoshì yìzhuāng.",
      "en": "From this perspective, it can be counted as a good thing."
     }
    ],
@@ -1136,7 +1137,7 @@
   "32": {
    "stem": {
     "zh": "根據第二段的說明，第二代被「掃地出門」的理由是什麼?",
-    "py": "Gēnjù dìèrduàn de shuōmíng, dìèrdài bèi “Sǎodìchūmén” de lǐyóu shì shénme?",
+    "py": "Gēnjù dì'èrduàn de shuōmíng, dì'èrdài bèi “Sǎodìchūmén” de lǐyóu shì shénme?",
     "en": "According to the second paragraph, why is the second generation \"kicked out\"?"
    },
    "options": {
@@ -1234,7 +1235,7 @@
     },
     {
      "zh": "在 GPS 等無線定位技術問世後，我們便能精確地計算開車成本和道路價值，一個嶄新的交通觀念於是產生：讓駕駛人依據實際開車的里程數來支付道路費用。",
-     "py": "Zài GPS děng wúxiàn dìngwèi jìshù wènshì hòu, wǒmen biàn néng jīngquè dì jìsuàn kāichē chéngběn hé dàolù jiàzhí, yí ge zhǎnxīn de jiāotōng guānniàn yúshì chǎnshēng: Ràng jiàshǐ rén yījù shíjì kāichē de lǐchéng shù lái zhīfù dàolù fèiyòng.",
+     "py": "Zài GPS děng wúxiàn dìngwèi jìshù wènshì hòu, wǒmen biàn néng jīngquè de jìsuàn kāichē chéngběn hé dàolù jiàzhí, yí ge zhǎnxīn de jiāotōng guānniàn yúshì chǎnshēng: Ràng jiàshǐ rén yījù shíjì kāichē de lǐchéng shù lái zhīfù dàolù fèiyòng.",
      "en": "Since wireless positioning technologies such as GPS appeared, we can precisely calculate the cost of driving and the value of roads, and so a brand-new transport concept has emerged: letting drivers pay road charges according to the actual distance they drive."
     },
     {
@@ -1274,7 +1275,7 @@
     },
     {
      "zh": "在德國，大貨車的計費標準不只是里程，還包括了廢氣排放量，污染越嚴重的貨車得支付越高的里程費。",
-     "py": "Zài Déguó, dà huòchē de jìfèi biāozhǔn bù zhǐshì lǐchéng, hái bāokuò le fèiqì páifàngliàng, wūrǎn yuè yánzhòng de huòchē dé zhīfù yuè gāo de lǐchéng fèi.",
+     "py": "Zài Déguó, dà huòchē de jìfèi biāozhǔn bù zhǐshì lǐchéng, hái bāokuò le fèiqì páifàngliàng, wūrǎn yuè yánzhòng de huòchē děi zhīfù yuè gāo de lǐchéng fèi.",
      "en": "In Germany, trucks are charged not only by distance but also by emissions; the more polluting the truck, the higher the distance fee."
     },
     {
@@ -1294,7 +1295,7 @@
     },
     {
      "zh": "經常開車或習慣開快車的駕駛人，得多付一點兒保險金。",
-     "py": "Jīngcháng kāichē huò xíguàn kāikuàichē de jiàshǐ rén, dé duōfù yìdiǎnér bǎoxiǎnjīn.",
+     "py": "Jīngcháng kāichē huò xíguàn kāikuàichē de jiàshǐ rén, děi duōfù yìdiǎnr bǎoxiǎnjīn.",
      "en": "Drivers who drove often or habitually drove fast had to pay a bit more."
     },
     {
@@ -1305,7 +1306,7 @@
    ],
    "stem": {
     "zh": "根據第二段，目前徵收的道路費用有什麼不合理的地方？",
-    "py": "Gēnjù dìèrduàn, mùqián zhēngshōu de dàolù fèiyòng yǒu shénme bùhélǐ de dìfāng?",
+    "py": "Gēnjù dì'èrduàn, mùqián zhēngshōu de dàolù fèiyòng yǒu shénme bùhélǐ de dìfāng?",
     "en": "According to the second paragraph, what is unreasonable about the road charges currently collected?"
    },
    "options": {
@@ -1340,7 +1341,7 @@
    "options": {
     "A": {
      "zh": "使民眾盡量不在尖峰時間出門",
-     "py": "Shǐ mínzhòng jǐnliàng bù zài jiānfēng shíjiān chūmén",
+     "py": "Shǐ mínzhòng jǐnliàng bú zài jiānfēng shíjiān chūmén",
      "en": "(A) It makes people avoid going out at peak times as much as possible."
     },
     "B": {
@@ -1432,7 +1433,7 @@
     },
     "B": {
      "zh": "民眾不配合",
-     "py": "Mínzhòng bù pèihé",
+     "py": "Mínzhòng bú pèihé",
      "en": "(B) The public won't cooperate."
     },
     "C": {
@@ -1476,12 +1477,12 @@
     },
     {
      "zh": "過去，台灣非典型就業的人口多半集中在中高齡、低學歷、二度就業等弱勢族群，然而近年來，非典型就業人口的年齡層卻不斷下降。",
-     "py": "Guòqù, Táiwān fēidiǎnxíng jiùyè de rénkǒu duōbàn jízhōng zài Zhōng gāolíng, dī xuélì, èrdù jiùyè děng ruòshì zúqún, ránér jìnniánlái, fēidiǎnxíng jiùyèrénkǒu de niánlíngcéng què búduàn xiàjiàng.",
+     "py": "Guòqù, Táiwān fēidiǎnxíng jiùyè de rénkǒu duōbàn jízhōng zài Zhōng gāolíng, dī xuélì, èrdù jiùyè děng ruòshì zúqún, rán'ér jìnniánlái, fēidiǎnxíng jiùyèrénkǒu de niánlíngcéng què búduàn xiàjiàng.",
      "en": "In the past, Taiwan's atypical workers were mostly concentrated in disadvantaged groups such as the middle-aged and elderly, the less educated and people returning to work, but in recent years the age of atypical workers has kept falling."
     },
     {
      "zh": "美國《商業周刊》指出，後金融海嘯時代來臨，以臨時工作人員取代正職的作法在美國企業蔚為風尚，先前歷經大裁員的企業尤其熱中此道，不願釋出正式職缺。",
-     "py": "Měiguó «Shāngyè zhōukān» zhǐchū, hòu jīnróng hǎixiào shídài láilín, yǐ línshí gōngzuòrényuán qǔdài zhèngzhí de zuòfǎ zài Měiguó qǐyè Wèiwèi fēngshàng, xiānqián lìjīng dà cáiyuán de qǐyè yóuqí rè zhōng cǐ dào, bù yuàn shìchū zhèngshì zhí quē.",
+     "py": "Měiguó «Shāngyè zhōukān» zhǐchū, hòu jīnróng hǎixiào shídài láilín, yǐ línshí gōngzuòrényuán qǔdài zhèngzhí de zuòfǎ zài Měiguó qǐyè Wèiwèi fēngshàng, xiānqián lìjīng dà cáiyuán de qǐyè yóuqí rè zhōng cǐ dào, bú yuàn shìchū zhèngshì zhí quē.",
      "en": "The American magazine BusinessWeek points out that with the arrival of the post-financial-tsunami era, replacing full-time staff with temporary workers has become fashionable among American companies; companies that previously went through mass layoffs are especially keen on it and unwilling to open full-time positions."
     },
     {
@@ -1551,7 +1552,7 @@
   "41": {
    "stem": {
     "zh": "根據第二段，台灣這幾年的非典型就業人口有什麼變化？",
-    "py": "Gēnjù dìèrduàn, Táiwān zhè jǐnián de fēidiǎnxíng jiùyèrénkǒu yǒu shénme biànhuà?",
+    "py": "Gēnjù dì'èrduàn, Táiwān zhè jǐnián de fēidiǎnxíng jiùyèrénkǒu yǒu shénme biànhuà?",
     "en": "According to the second paragraph, how have Taiwan's atypical workers changed in recent years?"
    },
    "options": {
@@ -1580,13 +1581,13 @@
   "42": {
    "stem": {
     "zh": "根據第二段，近年來非典型就業人數上升的原因是什麼？",
-    "py": "Gēnjù dìèrduàn, jìnniánlái fēidiǎnxíng jiùyèrénshù shàngshēng de yuányīn shì shénme?",
+    "py": "Gēnjù dì'èrduàn, jìnniánlái fēidiǎnxíng jiùyèrénshù shàngshēng de yuányīn shì shénme?",
     "en": "According to the second paragraph, why has the number of atypical workers risen in recent years?"
    },
    "options": {
     "A": {
      "zh": "大企業不願招募正式員工",
-     "py": "Dà qǐyè bù yuàn zhāomù zhèngshì yuángōng",
+     "py": "Dà qǐyè bú yuàn zhāomù zhèngshì yuángōng",
      "en": "(A) Big companies are unwilling to recruit full-time employees."
     },
     "B": {
@@ -1596,7 +1597,7 @@
     },
     "C": {
      "zh": "大企業不願意僱用臨時人員",
-     "py": "Dà qǐyè bù yuànyì gùyòng línshí rényuán",
+     "py": "Dà qǐyè bú yuànyì gùyòng línshí rényuán",
      "en": "(C) Big companies are unwilling to hire temporary staff."
     },
     "D": {
@@ -1683,17 +1684,17 @@
     },
     {
      "zh": "不過，到了 50、60 年代，那些以青少年為代表的街頭文化，反而以革命之姿創造新的時代風格。",
-     "py": "Búguò, dào le 50, 60 niándài, nàxiē yǐ Qīngshàonián wèi dàibiǎo de jiētóu wénhuà, fǎnér yǐ gémìng zhī zī chuàngzào xīn de shídài fēnggé.",
+     "py": "Búguò, dào le 50, 60 niándài, nàxiē yǐ Qīngshàonián wéi dàibiǎo de jiētóu wénhuà, fǎn'ér yǐ gémìng zhī zī chuàngzào xīn de shídài fēnggé.",
      "en": "But in the 1950s and 60s, street culture, represented by teenagers, instead created a new era's style in revolutionary fashion."
     },
     {
      "zh": "當時的年輕族群聚集街頭、彈著樂器、穿著怪異的服飾、無視他人質疑的眼光，發展出極富生命力的文化。",
-     "py": "Dāngshí de niánqīng zúqún jùjí jiētóu, dànzhù yuèqì, chuānzhù guàiyì de fúshì, wúshì tārén zhìyí de yǎnguāng, fāzhǎn chū jífù shēngmìnglì de wénhuà.",
+     "py": "Dāngshí de niánqīng zúqún jùjí jiētóu, dànzhe yuèqì, chuānzhe guàiyì de fúshì, wúshì tārén zhìyí de yǎnguāng, fāzhǎn chū jífù shēngmìnglì de wénhuà.",
      "en": "Young people at the time gathered on the streets, playing instruments and wearing outlandish clothes, ignoring the questioning looks of others, and developed a culture full of vitality."
     },
     {
      "zh": "從嬉皮、龐克、搖滾到嘻哈，每一種潮流都勇於反叛、挑戰權威，既獨特又充滿原創力，讓那些原本緊抓著上流時尚與精緻工藝的設計師們，也不得不低頭，從這群充滿創意的街頭青少年身上擷取靈感。",
-     "py": "Cóng xīpí, Pángkè, yáogǔn dào xī hā, měi yìzhǒng cháoliú dōu yǒngyú fǎnpàn, tiǎozhàn Quánwēi, jì dútè yòu chōngmǎn yuánchuàng lì, ràng nàxiē yuánběn jǐnzhuā zhù shàngliú shíshàng yǔ jīngzhì gōngyì de shèjìshī men, yě bùdébù dītóu, cóng zhè qún chōngmǎn chuàngyì de jiētóu Qīngshàonián shēnshàng xiéqǔ línggǎn.",
+     "py": "Cóng xīpí, Pángkè, yáogǔn dào xī hā, měi yìzhǒng cháoliú dōu yǒngyú fǎnpàn, tiǎozhàn Quánwēi, jì dútè yòu chōngmǎn yuánchuàng lì, ràng nàxiē yuánběn jǐnzhuā zhe shàngliú shíshàng yǔ jīngzhì gōngyì de shèjìshī men, yě bùdébù dītóu, cóng zhè qún chōngmǎn chuàngyì de jiētóu Qīngshàonián shēnshàng xiéqǔ línggǎn.",
      "en": "From hippies, punk and rock to hip-hop, every trend dared to rebel and challenge authority, unique and full of originality, so that even designers who had clung to high-society fashion and fine craftsmanship had to bow their heads and draw inspiration from these creative street teenagers."
     },
     {
@@ -1728,7 +1729,7 @@
     },
     {
      "zh": "IV 下一次，當你看到青少年們頂著五彩頭髮、穿著從未見過的怪異服裝，請不要制止，或許，他們將引領出另一波劃時代的時尚風潮。",
-     "py": "IV xià yícì, dāng nǐ kàndào Qīngshàonián men dǐngzhù Wǔcǎi tóufà, chuānzhù cóngwèijiànguò de guàiyì fúzhuāng, qǐng búyào zhìzhǐ, huòxǔ, tāmen jiāng yǐnlǐng chū lìng yī Bō huàshídài de shíshàng fēngcháo.",
+     "py": "IV xià yícì, dāng nǐ kàndào Qīngshàonián men dǐngzhe Wǔcǎi tóufà, chuānzhe cóngwèijiànguò de guàiyì fúzhuāng, qǐng búyào zhìzhǐ, huòxǔ, tāmen jiāng yǐnlǐng chū lìng yì Bō huàshídài de shíshàng fēngcháo.",
      "en": "IV Next time you see teenagers with rainbow-colored hair and strange clothes you've never seen before, please don't stop them—perhaps they will lead another epoch-making fashion trend."
     }
    ],
@@ -1863,7 +1864,7 @@
    "options": {
     "A": {
      "zh": "穿著不要過分奇特",
-     "py": "Chuānzhù búyào guòfèn Qítè",
+     "py": "Chuānzhe búyào guòfèn Qítè",
      "en": "(A) Not dress too strangely"
     },
     "B": {

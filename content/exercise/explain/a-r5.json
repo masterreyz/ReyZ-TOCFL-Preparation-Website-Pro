@@ -2,6 +2,7 @@
  "testId": "a-r5",
  "segments": 153,
  "englishComplete": true,
+ "indonesianComplete": false,
  "questions": {
   "1": {
    "stem": {
@@ -69,7 +70,7 @@
   "10": {
    "stem": {
     "zh": "到第二個路口以前，會先經過一家銀行。",
-    "py": "Dào dìèr ge lùkǒu yǐqián, huì xiān jīngguò yìjiā yínháng.",
+    "py": "Dào dì'èr ge lùkǒu yǐqián, huì xiān jīngguò yìjiā yínháng.",
     "en": "Before reaching the second intersection, you'll first pass a bank."
    }
   },
@@ -141,7 +142,7 @@
     },
     "C": {
      "zh": "所有的人都正用著筷子。",
-     "py": "Suǒyǒu de rén dōu zhèng yòngzhù kuàizi.",
+     "py": "Suǒyǒu de rén dōu zhèng yòngzhe kuàizi.",
      "en": "Everyone is using chopsticks."
     }
    }
@@ -217,7 +218,7 @@
     },
     "C": {
      "zh": "這個方法教你怎麼烤青菜。",
-     "py": "Zhè ge fāngfǎ jiào nǐ zěnme kǎo qīngcài.",
+     "py": "Zhè ge fāngfǎ jiāo nǐ zěnme kǎo qīngcài.",
      "en": "This method teaches you how to roast vegetables."
     }
    },
@@ -280,7 +281,7 @@
     },
     {
      "zh": "上午九點～十二點",
-     "py": "Shàngwǔ jiǔdiǎn~ shíèrdiǎn",
+     "py": "Shàngwǔ jiǔdiǎn~ shí'èrdiǎn",
      "en": "9 a.m. – 12 noon"
     },
     {
@@ -309,7 +310,7 @@
     },
     "B": {
      "zh": "白小姐想和小美一塊兒住。",
-     "py": "Báixiǎojiě xiǎng hé xiǎo měi yíkuàiér zhù.",
+     "py": "Báixiǎojiě xiǎng hé xiǎo měi yíkuàir zhù.",
      "en": "Miss Bai wants to live together with Xiaomei."
     },
     "C": {
@@ -439,7 +440,7 @@
    "image": [
     {
      "zh": "今天下午請假，送媽媽去醫院，不在辦公室。",
-     "py": "Jīntiānxiàwǔ qǐngjià, sòng māma qù yīyuàn, bù zài bàngōngshì.",
+     "py": "Jīntiānxiàwǔ qǐngjià, sòng māma qù yīyuàn, bú zài bàngōngshì.",
      "en": "I'm taking this afternoon off to take my mom to the hospital, so I'm not in the office."
     },
     {
@@ -463,7 +464,7 @@
     },
     "B": {
      "zh": "警察要大家騎車戴著安全帽。",
-     "py": "Jǐngchá yào dàjiā qíchē Dàizhù Ānquánmào.",
+     "py": "Jǐngchá yào dàjiā qíchē Dàizhe Ānquánmào.",
      "en": "The police want everyone to wear a helmet when riding."
     },
     "C": {
@@ -480,7 +481,7 @@
     },
     {
      "zh": "開燈以後，看得更清楚，騎車更安全",
-     "py": "Kāidēng yǐhòu, kàn dé gèng qīngchǔ, qíchē gèng ānquán",
+     "py": "Kāidēng yǐhòu, kàn de gèng qīngchǔ, qíchē gèng ānquán",
      "en": "With lights on, you see more clearly and riding is safer."
     },
     {
@@ -641,7 +642,7 @@
   "31": {
    "stem": {
     "zh": "冬天快到了，小王想買一______黑色大衣。",
-    "py": "Dōngtiān kuài dào le, Xiǎowáng xiǎng mǎi yī ______ hēisè dàyī.",
+    "py": "Dōngtiān kuài dào le, Xiǎowáng xiǎng mǎi yì ______ hēisè dàyī.",
     "en": "Winter is coming soon; Xiao Wang wants to buy a black overcoat. (blank: measure word for clothing)"
    },
    "options": {
@@ -919,7 +920,7 @@
     },
     "C": {
      "zh": "不認識的人",
-     "py": "Bù rènshi de rén",
+     "py": "Bú rènshi de rén",
      "en": "a stranger"
     },
     "D": {
@@ -953,7 +954,7 @@
     },
     "C": {
      "zh": "不認識的人",
-     "py": "Bù rènshi de rén",
+     "py": "Bú rènshi de rén",
      "en": "a stranger"
     },
     "D": {
@@ -987,7 +988,7 @@
     },
     "C": {
      "zh": "不認識的人",
-     "py": "Bù rènshi de rén",
+     "py": "Bú rènshi de rén",
      "en": "a stranger"
     },
     "D": {
@@ -1021,7 +1022,7 @@
     },
     "C": {
      "zh": "不認識的人",
-     "py": "Bù rènshi de rén",
+     "py": "Bú rènshi de rén",
      "en": "a stranger"
     },
     "D": {
@@ -1055,7 +1056,7 @@
     },
     "C": {
      "zh": "不認識的人",
-     "py": "Bù rènshi de rén",
+     "py": "Bú rènshi de rén",
      "en": "a stranger"
     },
     "D": {
@@ -1100,7 +1101,7 @@
    ],
    "stem": {
     "zh": "為什麼小明不去參加舞會？",
-    "py": "Wèishénme Xiǎomíng bù qù cānjiā wǔhuì?",
+    "py": "Wèishénme Xiǎomíng bú qù cānjiā wǔhuì?",
     "en": "Why isn't Xiaoming going to the dance party?"
    },
    "options": {
@@ -1135,7 +1136,7 @@
     },
     {
      "zh": "小王總是非常認真，功課也不錯，但是他因為生病，請了好幾天的假。",
-     "py": "Xiǎowáng zǒngshì fēicháng rènzhēn, gōngkè yě búcuò, dànshì tā yīnwèi shēngbìng, qǐng le hǎo jǐtiān de jiǎ.",
+     "py": "Xiǎowáng zǒngshì fēicháng rènzhēn, gōngkè yě búcuò, dànshì tā yīnwèi shēngbìng, qǐng le hǎo jǐtiān de jià.",
      "en": "Xiao Wang is always very conscientious and his schoolwork is good, but because he was sick he took several days off."
     },
     {
@@ -1167,7 +1168,7 @@
     },
     "C": {
      "zh": "他準備得還不夠好",
-     "py": "Tā zhǔnbèi dé hái búgòu hǎo",
+     "py": "Tā zhǔnbèi de hái búgòu hǎo",
      "en": "He isn't well enough prepared."
     },
     "D": {
@@ -1283,7 +1284,7 @@
     },
     {
      "zh": "大同想要給家裡更好的生活，所以從南部北上工作，但是北部的東西太貴了，他週末的時候得在公司加班才能賺更多的錢。",
-     "py": "Dàtóng xiǎngyào gěi jiālǐ gènghǎo de shēnghuó, suǒyǐ cóng nánbù běishàng gōngzuò, dànshì běibù de Dōngxi Tàiguì le, tā zhōumò de shíhòu dé zài gōngsī jiābān cáinéng zhuàn gèng duō de qián.",
+     "py": "Dàtóng xiǎngyào gěi jiālǐ gènghǎo de shēnghuó, suǒyǐ cóng nánbù běishàng gōngzuò, dànshì běibù de Dōngxi Tàiguì le, tā zhōumò de shíhòu děi zài gōngsī jiābān cáinéng zhuàn gèng duō de qián.",
      "en": "Datong wanted to give his family a better life, so he moved from the south up north to work. But things in the north are too expensive, and he has to work overtime at the company on weekends to earn more money."
     },
     {

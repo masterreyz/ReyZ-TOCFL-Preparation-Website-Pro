@@ -2,6 +2,7 @@
  "testId": "b-r1",
  "segments": 319,
  "englishComplete": true,
+ "indonesianComplete": false,
  "questions": {
   "1": {
    "passage": [
@@ -22,7 +23,7 @@
     },
     {
      "zh": "五個小時以後，小孩生出來了，是一個可愛的小女生。",
-     "py": "Wǔ ge xiǎoshí yǐhòu, xiǎohái shēng chūlái le, shì yí ge kěài de Xiǎonǚshēng.",
+     "py": "Wǔ ge xiǎoshí yǐhòu, xiǎohái shēng chūlái le, shì yí ge kě'ài de Xiǎonǚshēng.",
      "en": "Five hours later, the baby was born—a cute little girl."
     },
     {
@@ -111,7 +112,7 @@
    "options": {
     "A": {
      "zh": "教",
-     "py": "Jiào",
+     "py": "Jiāo",
      "en": "to teach"
     },
     "B": {
@@ -174,7 +175,7 @@
     },
     {
      "zh": "有一次小陳 8 想起和小李一起讀書的事，他很想知道小李現在過得怎麼樣，所以他找出小李以前寄給他的信，",
-     "py": "Yǒu yícì xiǎo Chén 8 xiǎngqǐ hé xiǎo Lǐ yìqǐ dúshū de shì, tā hěn xiǎng zhīdào xiǎo Lǐ xiànzài guò dé zěnmeyàng, suǒyǐ tā zhǎochū xiǎo Lǐ yǐqián jìgěi tā de xìn,",
+     "py": "Yǒu yícì xiǎo Chén 8 xiǎngqǐ hé xiǎo Lǐ yìqǐ dúshū de shì, tā hěn xiǎng zhīdào xiǎo Lǐ xiànzài guò de zěnmeyàng, suǒyǐ tā zhǎochū xiǎo Lǐ yǐqián jìgěi tā de xìn,",
      "en": "Once, Xiao Chen ___8___ remembered studying together with Xiao Li; he really wanted to know how Xiao Li was doing now, so he dug out the letters Xiao Li had sent him before,"
     },
     {
@@ -225,7 +226,7 @@
     },
     "C": {
      "zh": "很長",
-     "py": "Hěn zhǎng",
+     "py": "Hěn cháng",
      "en": "very long"
     },
     "D": {
@@ -316,7 +317,7 @@
     },
     {
      "zh": "王小姐喜歡跳舞，她認為讓身體隨著音樂擺動不是一件困難的事，所以 11 是老人還是小孩， 11 可以將跳舞當作規律的運動。",
-     "py": "Wángxiǎojiě xǐhuān tiàowǔ, tā rènwéi ràng shēntǐ suízhù yīnyuè bǎidòng búshì yíjiàn kùnnán de shì, suǒyǐ 11 shì lǎorén háishì xiǎohái, 11 kěyǐ jiāng tiàowǔ dàngzuò guīlǜ de yùndòng.",
+     "py": "Wángxiǎojiě xǐhuān tiàowǔ, tā rènwéi ràng shēntǐ suízhe yīnyuè bǎidòng búshì yíjiàn kùnnán de shì, suǒyǐ 11 shì lǎorén háishì xiǎohái, 11 kěyǐ jiāng tiàowǔ dàngzuò guīlǜ de yùndòng.",
      "en": "Miss Wang likes dancing. She thinks moving the body to music is not difficult, so ___11___ old people or children, ___11___ can take up dancing as regular exercise."
     },
     {
@@ -331,7 +332,7 @@
     },
     {
      "zh": "她熱愛跳舞， 15 工作再怎麼忙，她還是會到舞蹈教室報到。",
-     "py": "Tā rèài tiàowǔ, 15 gōngzuò zài zěnme máng, tā háishì huì dào wǔdǎo jiàoshì bào dào.",
+     "py": "Tā rè'ài tiàowǔ, 15 gōngzuò zài zěnme máng, tā háishì huì dào wǔdǎo jiàoshì bào dào.",
      "en": "She loves dancing; ___15___ she is very busy at work, she still goes to the dance studio to check in."
     }
    ],
@@ -468,7 +469,7 @@
     },
     {
      "zh": "他在那兒玩了五天四夜，其中一天，他去了韓國最高的山，那時候，山上下起了雪，他覺得這樣的風景真美。",
-     "py": "Tā zài nàér wán le wǔtiān sìyè, qízhōng yìtiān, tā qù le Hánguó zuìgāo de shān, nà shíhòu, shānshàng xiàqǐ le xuě, tā juéde zhèyàng de fēngjǐng zhēn Měi.",
+     "py": "Tā zài nàr wán le wǔtiān sìyè, qízhōng yìtiān, tā qù le Hánguó zuìgāo de shān, nà shíhòu, shānshàng xiàqǐ le xuě, tā juéde zhèyàng de fēngjǐng zhēn Měi.",
      "en": "He spent five days and four nights there. One day he went to Korea's highest mountain; at that time it was snowing on the mountain, and he thought the scenery was really beautiful."
     },
     {
@@ -524,18 +525,18 @@
     },
     {
      "zh": "媽媽沒忘記你早上出門前，不停地告訴我搭校車是件很恐怖的事，那語氣裡充滿了面對不確定的不安，更讓媽媽覺得不忍心。",
-     "py": "Māma méi wàngjì nǐ zǎoshàng chū ménqián, bùtíng dì gàosù wǒ dā xiàochē shì jiàn hěn kǒngbù de shì, nà yǔqì lǐ chōngmǎn le miànduì bù quèdìng de bùān, gèng ràng māma juéde bùrěnxīn.",
+     "py": "Māma méi wàngjì nǐ zǎoshàng chū ménqián, bùtíng de gàosù wǒ dā xiàochē shì jiàn hěn kǒngbù de shì, nà yǔqì lǐ chōngmǎn le miànduì bú quèdìng de bù'ān, gèng ràng māma juéde bùrěnxīn.",
      "en": "Mom hasn't forgotten that before you went out this morning, you kept telling me that taking the school bus was a frightening thing; your tone was full of unease in the face of uncertainty, which made Mom feel all the more sorry for you."
     },
     {
      "zh": "然而我只是笑著看你，聽你把所有預期中可怕的後果全部說完，然後篤定地告訴你：「這是你人生的另一個開始，你要學著去面對你自己的人生！」",
-     "py": "Ránér wǒ zhǐshì xiào zhù kàn nǐ, tīng nǐ bǎ suǒyǒu yùqī zhōng kěpà de hòuguǒ quánbù shuōwán, ránhòu dǔdìng dì gàosù nǐ: “Zhè shì nǐ rénshēng de lìng yí ge kāishǐ, nǐ yào xuézhù qù miànduì nǐ zìjǐ de rénshēng!”",
+     "py": "Rán'ér wǒ zhǐshì xiào zhe kàn nǐ, tīng nǐ bǎ suǒyǒu yùqī zhōng kěpà de hòuguǒ quánbù shuōwán, ránhòu dǔdìng de gàosù nǐ: “Zhè shì nǐ rénshēng de lìng yí ge kāishǐ, nǐ yào xuézhe qù miànduì nǐ zìjǐ de rénshēng!”",
      "en": "However, I just smiled at you, listened to you finish describing all the terrible consequences you expected, and then told you firmly: \"This is another beginning in your life; you must learn to face your own life!\""
     }
    ],
    "stem": {
     "zh": "在這段短文裡，母親面對孩子的不安時，態度怎麼樣？",
-    "py": "Zài zhèduàn duǎnwén lǐ, mǔqīn miànduì háizi de bùān shí, tàidù zěnmeyàng?",
+    "py": "Zài zhèduàn duǎnwén lǐ, mǔqīn miànduì háizi de bù'ān shí, tàidù zěnmeyàng?",
     "en": "In this passage, what is the mother's attitude when facing the child's unease?"
    },
    "options": {
@@ -580,17 +581,17 @@
     },
     {
      "zh": "旅館的生意非常好，所以他變得很有錢。",
-     "py": "Lǚguǎn de shēngyì fēicháng hǎo, suǒyǐ tā biàndé hěn yǒuqián.",
+     "py": "Lǚguǎn de shēngyì fēicháng hǎo, suǒyǐ tā biàn de hěn yǒuqián.",
      "en": "The hotel's business was very good, so he became very rich."
     },
     {
      "zh": "這原來是一本小說的故事，因為這本小說寫得很棒，就被拍成電影了。",
-     "py": "Zhè yuánlái shì yìběn xiǎoshuō de gùshì, yīnwèi zhèběn xiǎoshuō xiě dé hěnbàng, jiù bèi pāichéngdiànyǐng le.",
+     "py": "Zhè yuánlái shì yìběn xiǎoshuō de gùshì, yīnwèi zhèběn xiǎoshuō xiě de hěnbàng, jiù bèi pāichéngdiànyǐng le.",
      "en": "This was originally the story of a novel; because the novel was so well written, it was made into a movie."
     },
     {
      "zh": "小英覺得這部電影拍得很好，也聽說小說寫得不錯，之後想看看小說和電影的故事內容是不是一樣的。",
-     "py": "Xiǎoyīng juéde zhèbù diànyǐng pāi dé hěn hǎo, yě tīngshuō xiǎoshuō xiě dé búcuò, zhīhòu xiǎng kànkàn xiǎoshuō hé diànyǐng de gùshì nèiróng shìbúshì yíyàng de.",
+     "py": "Xiǎoyīng juéde zhèbù diànyǐng pāi de hěn hǎo, yě tīngshuō xiǎoshuō xiě de búcuò, zhīhòu xiǎng kànkàn xiǎoshuō hé diànyǐng de gùshì nèiróng shìbúshì yíyàng de.",
      "en": "Xiaoying thinks the movie was well made, and she has heard the novel is good too; later she wants to see whether the stories in the novel and the movie are the same."
     }
    ],
@@ -641,7 +642,7 @@
     },
     "C": {
      "zh": "小英認為「旅館主人」這部電影拍得不錯",
-     "py": "Xiǎoyīng rènwéi “Lǚguǎn zhǔrén” zhèbù diànyǐng pāi dé búcuò",
+     "py": "Xiǎoyīng rènwéi “Lǚguǎn zhǔrén” zhèbù diànyǐng pāi de búcuò",
      "en": "Xiaoying thinks the movie \"The Hotel Owner\" was well made."
     },
     "D": {
@@ -670,7 +671,7 @@
     },
     {
      "zh": "今年八月有個大颱風，下大雨、吹大風，火車沒辦法開，飛機停飛，所有人不上班、不上課，大部分的人不敢出去，只能在家看颱風的新聞。",
-     "py": "Jīnnián bāyuè yǒu ge dà Táifēng, xià dàyǔ, chuī dàfēng, huǒchē méi bànfǎ kāi, fēijī tíngfēi, suǒyǒurén bù shàngbān, bù shàngkè, dàbùfèn de rén bùgǎn chūqù, zhǐnéng zàijiā kàn Táifēng de xīnwén.",
+     "py": "Jīnnián bāyuè yǒu ge dà Táifēng, xià dàyǔ, chuī dàfēng, huǒchē méi bànfǎ kāi, fēijī tíngfēi, suǒyǒurén bú shàngbān, bú shàngkè, dàbùfèn de rén bùgǎn chūqù, zhǐnéng zàijiā kàn Táifēng de xīnwén.",
      "en": "This August there was a big typhoon with heavy rain and strong winds; trains couldn't run, flights were suspended, nobody went to work or school, and most people didn't dare go out and could only stay home watching the typhoon news."
     },
     {
@@ -721,7 +722,7 @@
    "options": {
     "A": {
      "zh": "今年八月的颱風雨下得很大",
-     "py": "Jīnnián bāyuè de tái fēngyǔ xià dé hěndà",
+     "py": "Jīnnián bāyuè de tái fēngyǔ xià de hěndà",
      "en": "The rain from this August's typhoon was very heavy."
     },
     "B": {
@@ -755,7 +756,7 @@
     },
     {
      "zh": "相對地，他們想要為你創造出一個形象，例如快樂的家庭、令人興奮的愛情、美麗的身材等。",
-     "py": "Xiāngduì dì, tāmen xiǎngyào wèi nǐ chuàngzào chū yí ge xíngxiàng, lìrú kuàilè de jiātíng, lìngrénxīngfèn de àiqíng, Měilì de shēncái děng.",
+     "py": "Xiāngduì de, tāmen xiǎngyào wèi nǐ chuàngzào chū yí ge xíngxiàng, lìrú kuàilè de jiātíng, lìngrénxīngfèn de àiqíng, Měilì de shēncái děng.",
      "en": "Instead, they want to create an image for you, such as a happy family, exciting romance, a beautiful figure, and so on."
     },
     {
@@ -765,7 +766,7 @@
     },
     {
      "zh": "「形象」通常比任何和產品有關的資訊還要重要，例如啤酒廣告絕不會呈現出酒醉駕駛發生車禍的情形，相反地，廣告中呈現的是人們歡樂的景象。",
-     "py": "“Xíngxiàng” tōngcháng bǐ rènhé hé chǎnpǐn yǒuguān de zīxùn háiyào zhòngyào, lìrú píjiǔ guǎnggào juébúhuì chéngxiànchū jiǔzuì jiàshǐ fāshēng chēhuò de qíngxíng, xiāngfǎn dì, guǎnggào zhōng chéngxiàn de shì rénmen huānlè de jǐngxiàng.",
+     "py": "“Xíngxiàng” tōngcháng bǐ rènhé hé chǎnpǐn yǒuguān de zīxùn háiyào zhòngyào, lìrú píjiǔ guǎnggào juébúhuì chéngxiànchū jiǔzuì jiàshǐ fāshēng chēhuò de qíngxíng, xiāngfǎn de, guǎnggào zhōng chéngxiàn de shì rénmen huānlè de jǐngxiàng.",
      "en": "The \"image\" is usually more important than any information related to the product; for example, beer ads will never show a drunk driver having a car accident—on the contrary, they show scenes of people enjoying themselves."
     },
     {
@@ -981,7 +982,7 @@
     },
     {
      "zh": "對了，聽說妳男朋友大忠畢業後找到了不錯的工作，不知道他的新工作做得怎麼樣？請妳替我向他問好。",
-     "py": "Duì le, tīngshuō nǐ nánpéngyǒu Dàzhōng bìyè hòu zhǎodào le búcuò de gōngzuò, bù zhīdào tā de xīn gōngzuò zuò dé zěnmeyàng? Qǐng nǐ tì wǒ xiàng tā wènhǎo.",
+     "py": "Duì le, tīngshuō nǐ nánpéngyǒu Dàzhōng bìyè hòu zhǎodào le búcuò de gōngzuò, bù zhīdào tā de xīn gōngzuò zuò de zěnmeyàng? Qǐng nǐ tì wǒ xiàng tā wènhǎo.",
      "en": "By the way, I heard your boyfriend Dazhong found a good job after graduating. I wonder how his new job is going? Please say hello to him for me."
     },
     {
@@ -994,7 +995,7 @@
   "27": {
    "stem": {
     "zh": "關於這封信，下面哪一個不對？",
-    "py": "Guānyú zhè Fēngxìn, xiàmiàn nǎ yí ge bù duì?",
+    "py": "Guānyú zhè Fēngxìn, xiàmiàn nǎ yí ge bú duì?",
     "en": "Regarding this letter, which of the following is NOT correct?"
    },
    "options": {
@@ -1015,7 +1016,7 @@
     },
     "D": {
      "zh": "小美想知道大忠的工作做得好不好",
-     "py": "Xiǎo měi xiǎng zhīdào Dàzhōng de gōngzuò zuò dé hǎobùhǎo",
+     "py": "Xiǎo měi xiǎng zhīdào Dàzhōng de gōngzuò zuò de hǎobùhǎo",
      "en": "Xiaomei wants to know whether Dazhong is doing well at his job."
     }
    }
@@ -1030,7 +1031,7 @@
    ],
    "stem": {
     "zh": "這是心美的記事本，下面哪一個不對？",
-    "py": "Zhè shì xīn Měide jìshìběn, xiàmiàn nǎ yí ge bù duì?",
+    "py": "Zhè shì xīn Měide jìshìběn, xiàmiàn nǎ yí ge bú duì?",
     "en": "This is Xinmei's planner. Which of the following is NOT correct?"
    },
    "options": {
@@ -1046,7 +1047,7 @@
     },
     "C": {
      "zh": "心美星期二上數學課",
-     "py": "Xīn měi xīngqīèr shàng shùxuékè",
+     "py": "Xīn měi xīngqī'èr shàng shùxuékè",
      "en": "Xinmei has math class on Tuesday."
     },
     "D": {
@@ -1068,7 +1069,7 @@
     },
     {
      "zh": "13/星期二 7:30~9:00 PM 上英文課",
-     "py": "13 / xīngqīèr 7: 30~ 9: 00 PM shàng Yīngwénkè",
+     "py": "13 / xīngqī'èr 7: 30~ 9: 00 PM shàng Yīngwénkè",
      "en": "13 / Tuesday, 7:30–9:00 PM, English class"
     },
     {
@@ -1112,7 +1113,7 @@
     },
     "B": {
      "zh": "星期一和星期二",
-     "py": "Xīngqīyī hé xīngqīèr",
+     "py": "Xīngqīyī hé xīngqī'èr",
      "en": "Monday and Tuesday"
     },
     "C": {
@@ -1282,7 +1283,7 @@
    "image": [
     {
      "zh": "產品名：豬肉乾",
-     "py": "Chǎnpǐnmíng: Zhūròu gàn",
+     "py": "Chǎnpǐnmíng: Zhūròu gān",
      "en": "Product name: Pork jerky"
     },
     {
@@ -1409,7 +1410,7 @@
     },
     {
      "zh": "不好意思！我們現在只有一個空的房間，這個房間剛好是可以睡四個人的大房間，你們願意不願意住這個大房間呢？",
-     "py": "Bùhǎoyìsī! Wǒmen xiànzài zhǐyǒu yí ge kōng de fángjiān, zhè ge fángjiān gānghǎo shì kěyǐ shuì sì ge rén de dà fángjiān, nǐmen yuànyì bù yuànyì zhù zhè ge dà fángjiān ne?",
+     "py": "Bùhǎoyìsī! Wǒmen xiànzài zhǐyǒu yí ge kōng de fángjiān, zhè ge fángjiān gānghǎo shì kěyǐ shuì sì ge rén de dà fángjiān, nǐmen yuànyì bú yuànyì zhù zhè ge dà fángjiān ne?",
      "en": "Sorry! We now have only one vacant room; it happens to be a large room that can sleep four people. Would you be willing to stay in this large room?"
     },
     {
@@ -1487,7 +1488,7 @@
    "passage": [
     {
      "zh": "（十二）",
-     "py": "(Shíèr)",
+     "py": "(Shí'èr)",
      "en": "(12)"
     },
     {
@@ -1522,7 +1523,7 @@
     },
     {
      "zh": "歸本社所有，若不獲採用，恕不退還。",
-     "py": "Guī běnshè suǒyǒu, ruò bù huò cǎiyòng, shùbútuìhuán.",
+     "py": "Guī běnshè suǒyǒu, ruò bú huò cǎiyòng, shùbútuìhuán.",
      "en": "belongs to the newspaper. If not accepted, submissions will not be returned."
     }
    ],
@@ -1597,7 +1598,7 @@
     },
     {
      "zh": "像是奇美，她用信用卡買了太多東西，結果沒辦法還錢，所以必須同時做三份工作，把賺來的錢全部還給銀行。",
-     "py": "Xiàngshì Qíměi, tā yòng xìnyòngkǎ mǎi le tài duō Dōngxi, jiéguǒ méi bànfǎ hái qián, suǒyǐ bìxū tóngshí zuò sānfèn gōngzuò, bǎ zhuànlái de qián quánbù huángěi yínháng.",
+     "py": "Xiàngshì Qíměi, tā yòng xìnyòngkǎ mǎi le tài duō Dōngxi, jiéguǒ méi bànfǎ huán qián, suǒyǐ bìxū tóngshí zuò sānfèn gōngzuò, bǎ zhuànlái de qián quánbù huángěi yínháng.",
      "en": "Take Qimei, for example: she bought too many things with her credit card and ended up unable to pay, so she has to work three jobs at once and pay all the money she earns back to the bank."
     },
     {
@@ -1607,7 +1608,7 @@
     },
     {
      "zh": "另一個原因是，現在的銀行對使用者的要求越來越低，連沒有工作的學生也能申請信用卡，對還錢的方式一開始也說得不清楚。",
-     "py": "Lìng yí ge yuányīn shì, xiànzài de yínháng duì shǐyòngzhě de yāoqiú yuèláiyuèdī, Lián méiyǒu gōngzuò de xuéshēng yě néng shēnqǐng xìnyòngkǎ, duì huánqián de fāngshì yī kāishǐ yě shuō dé bù qīngchǔ.",
+     "py": "Lìng yí ge yuányīn shì, xiànzài de yínháng duì shǐyòngzhě de yāoqiú yuèláiyuèdī, Lián méiyǒu gōngzuò de xuéshēng yě néng shēnqǐng xìnyòngkǎ, duì huánqián de fāngshì yì kāishǐ yě shuō de bù qīngchǔ.",
      "en": "another reason is that banks' requirements for users are getting lower and lower—even students without jobs can apply for credit cards—and at the start they don't explain the repayment terms clearly."
     },
     {
@@ -1634,7 +1635,7 @@
     },
     "C": {
      "zh": "使用信用卡後怎麼還錢",
-     "py": "Shǐyòng xìnyòngkǎ hòu zěnme hái qián",
+     "py": "Shǐyòng xìnyòngkǎ hòu zěnme huán qián",
      "en": "How to pay back money after using a credit card"
     },
     "D": {
@@ -1663,7 +1664,7 @@
     },
     "C": {
      "zh": "她必須還錢給銀行",
-     "py": "Tā bìxū hái qián gěi yínháng",
+     "py": "Tā bìxū huán qián gěi yínháng",
      "en": "She must pay money back to the bank."
     },
     "D": {
@@ -1757,7 +1758,7 @@
    ],
    "stem": {
     "zh": "為什麼柯林斯夫婦不換房間？",
-    "py": "Wèishénme Kēlínsī fūfù bù Huàn fángjiān?",
+    "py": "Wèishénme Kēlínsī fūfù bú Huàn fángjiān?",
     "en": "Why didn't Mr. and Mrs. Collins change rooms?"
    },
    "options": {
@@ -1860,7 +1861,7 @@
     },
     {
      "zh": "簡單地說，夢讓我們想起白天所錯過的事物，有時候我們太忙而記不得許多在工作上或生活中所發生的事，做夢時，我們就會用不同的方式記憶這些事。",
-     "py": "Jiǎndān dì shuō, mèng ràng wǒmen xiǎngqǐ báitiān suǒ cuòguò de shìwù, yǒushíhòu wǒmen tài máng ér jìbùdé xǔduō zài gōngzuò shàng huò shēnghuó zhōng suǒ fāshēng de shì, zuòmèng shí, wǒmen jiù huì yòng bùtóng de fāngshì jìyì zhèxiē shì.",
+     "py": "Jiǎndān de shuō, mèng ràng wǒmen xiǎngqǐ báitiān suǒ cuòguò de shìwù, yǒushíhòu wǒmen tài máng ér jìbùdé xǔduō zài gōngzuò shàng huò shēnghuó zhōng suǒ fāshēng de shì, zuòmèng shí, wǒmen jiù huì yòng bùtóng de fāngshì jìyì zhèxiē shì.",
      "en": "Simply put, dreams remind us of things we missed during the day. Sometimes we're too busy to remember many things that happen at work or in life, and when we dream, we remember these things in a different way."
     },
     {
@@ -1885,7 +1886,7 @@
     },
     {
      "zh": "這個夢顯示，她得和丈夫溝通了，她必須要把對丈夫的不滿及憤怒告訴他。",
-     "py": "Zhè ge mèng xiǎnshì, tā dé hé zhàngfū gōutōng le, tā bìxū yào bǎ duì zhàngfū de bùmǎn jí fènnù gàosù tā.",
+     "py": "Zhè ge mèng xiǎnshì, tā děi hé zhàngfū gōutōng le, tā bìxū yào bǎ duì zhàngfū de bùmǎn jí fènnù gàosù tā.",
      "en": "This dream shows that she needs to communicate with her husband; she must tell him about her dissatisfaction and anger toward him."
     },
     {
@@ -1954,7 +1955,7 @@
   "46": {
    "stem": {
     "zh": "第二段提到一位婦女所做的夢，作者認為這個夢有什麼意義？",
-    "py": "Dìèrduàn tídào yíwèi fùnǚ suǒ zuò de mèng, zuòzhě rènwéi zhè ge mèng yǒu shénme yìyì?",
+    "py": "Dì'èrduàn tídào yíwèi fùnǚ suǒ zuò de mèng, zuòzhě rènwéi zhè ge mèng yǒu shénme yìyì?",
     "en": "The second paragraph mentions a woman's dream. What meaning does the author think this dream has?"
    },
    "options": {
@@ -1975,7 +1976,7 @@
     },
     "D": {
      "zh": "她和丈夫過得很快樂",
-     "py": "Tā hé zhàngfū guò dé hěn kuàilè",
+     "py": "Tā hé zhàngfū guò de hěn kuàilè",
      "en": "She and her husband live very happily."
     }
    }
@@ -1999,17 +2000,17 @@
     },
     {
      "zh": "那是因為我們把事情看得太嚴重了，如果我們都能以平常心去看事情，去接受這個世界的好與壞，我們就會發現煩惱並沒有什麼了不起。",
-     "py": "Nà shìyīnwèi wǒmen bǎ shìqing kàn dé tài yánzhòng le, rúguǒ wǒmen dōu néng yǐ píngchángxīn qù kàn shìqing, qù jiēshòu zhè ge shìjiè de hǎo yǔ huài, wǒmen jiù huì fāxiàn fánnǎo bìng méiyǒu shénme liǎobùqǐ.",
+     "py": "Nà shìyīnwèi wǒmen bǎ shìqing kàn de tài yánzhòng le, rúguǒ wǒmen dōu néng yǐ píngchángxīn qù kàn shìqing, qù jiēshòu zhè ge shìjiè de hǎo yǔ huài, wǒmen jiù huì fāxiàn fánnǎo bìng méiyǒu shénme liǎobùqǐ.",
      "en": "It's because we take things too seriously. If we could all look at things with a calm mind and accept the good and bad of this world, we would find that worries are nothing special."
     },
     {
      "zh": "解決煩惱的第一步，就是消除一切消極的想法，把不安、抱怨、不樂觀、不感興趣、後悔、無信心、緊張、灰心等想法全部丟到腦外，不要去想它；",
-     "py": "Jiějué fánnǎo de dìyíbù, jiùshì xiāochú yíqiè xiāojí de xiǎngfǎ, bǎ bùān, bàoyuàn, bù lèguān, bùgǎnxìngqù, hòuhuǐ, wú xìnxīn, jǐnzhāng, huīxīn děng xiǎngfǎ quánbù diūdào nǎo wài, búyào qù xiǎng tā;",
+     "py": "Jiějué fánnǎo de dìyíbù, jiùshì xiāochú yíqiè xiāojí de xiǎngfǎ, bǎ bù'ān, bàoyuàn, bú lèguān, bùgǎnxìngqù, hòuhuǐ, wú xìnxīn, jǐnzhāng, huīxīn děng xiǎngfǎ quánbù diūdào nǎo wài, búyào qù xiǎng tā;",
      "en": "The first step to resolving worries is to eliminate all negative thoughts—throw unease, complaints, pessimism, lack of interest, regret, lack of confidence, nervousness, discouragement and such thoughts completely out of your head, and don't think about them;"
     },
     {
      "zh": "第二是積極參加各式各樣的戶外活動，例如登山、郊外旅遊、攝影、露營、看球賽、游泳、看電影等，多和別人聊天，向朋友訴說心事，聽聽別人意見；",
-     "py": "Dìèr shì jījí cānjiā gèshìgèyàng de hùwàihuódòng, lìrú Dēngshān, jiāowài lǚyóu, shèyǐng, lùyíng, kànqiúsài, yóuyǒng, kàn diànyǐng děng, duō hé biérén Liáotiān, xiàng péngyǒu sùshuō xīnshì, tīngtīng biérén yìjiàn;",
+     "py": "Dì'èr shì jījí cānjiā gèshìgèyàng de hùwàihuódòng, lìrú Dēngshān, jiāowài lǚyóu, shèyǐng, lùyíng, kànqiúsài, yóuyǒng, kàn diànyǐng děng, duō hé biérén Liáotiān, xiàng péngyǒu sùshuō xīnshì, tīngtīng biérén yìjiàn;",
      "en": "second, actively take part in all kinds of outdoor activities, such as mountain climbing, excursions, photography, camping, watching ball games, swimming, and watching movies; chat with others more, confide in friends, and listen to others' opinions;"
     },
     {
@@ -2019,7 +2020,7 @@
     },
     {
      "zh": "有一句話說「天塌下來，都有人撐著」，就是告訴我們不要自己尋找煩惱，不管發生什麼事，都一定有辦法度過，讓自己過得快樂一點兒比較重要。",
-     "py": "Yǒu yíjù huà shuō “Tiāntāxiàlái, dōu yǒurén chēngzhù”, jiùshì gàosù wǒmen búyào zìjǐ xúnzhǎo fánnǎo, bùguǎn fāshēng shénme shì, dōu yídìng yǒu bànfǎ dùguò, ràng zìjǐ guò dé kuàilè yìdiǎnér bǐjiào zhòngyào.",
+     "py": "Yǒu yíjù huà shuō “Tiāntāxiàlái, dōu yǒurén chēngzhe”, jiùshì gàosù wǒmen búyào zìjǐ xúnzhǎo fánnǎo, bùguǎn fāshēng shénme shì, dōu yídìng yǒu bànfǎ dùguò, ràng zìjǐ guò de kuàilè yìdiǎnr bǐjiào zhòngyào.",
      "en": "There's a saying, \"If the sky falls, someone will hold it up,\" which tells us not to go looking for worries ourselves; no matter what happens, there is always a way to get through it, and it's more important to let yourself live a bit more happily."
     }
    ],
