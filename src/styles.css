@@ -408,3 +408,11 @@ details.explain[open] > summary { border-bottom: 1px dashed var(--line); }
 .ex-tr dd { margin: 0; color: var(--text); }
 .ex-tr dd[lang="id"] { color: var(--muted); }
 .ex-note, .ex-pending { padding: .2rem .95rem .7rem; margin: 0; }
+
+/* marked questions */
+.qn.marked { position: relative; box-shadow: inset 0 0 0 2px var(--gold); }
+.qn.marked::after { content: '🚩'; position: absolute; top: -7px; right: -4px; font-size: .75rem; }
+.flag-pill { display: inline-block; font-size: .8rem; font-weight: 700; padding: .1rem .55rem; border-radius: 999px; background: color-mix(in srgb, var(--gold) 25%, transparent); border: 1px solid var(--gold); color: var(--text); }
+.btn.warn-on { background: color-mix(in srgb, var(--gold) 28%, transparent); border-color: var(--gold); color: var(--text); }
+.marked-list { margin-top: .6rem; }
+.linkish { background: none; border: 0; padding: 0 .15rem; color: var(--brand); font-weight: 700; text-decoration: underline; cursor: pointer; font: inherit; }

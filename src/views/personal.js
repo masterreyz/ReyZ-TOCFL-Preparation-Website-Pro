@@ -9,22 +9,22 @@ export async function mistakesView(_, query) {
   const s = store.get();
   const latest = new Map();
   for (const a of s.attempts) { const k = (a.testId + (a.range ? `@${a.range.from}-${a.range.to}` : '')); if (!latest.has(k) || latest.get(k).submittedAt < a.submittedAt) latest.set(k, a); }
-  const groups = [...latest.values()].map((a) => ({ a, wrong: a.results.filter((r) => r.status === 'incorrect' || r.status === 'unanswered') })).filter((g) => g.wrong.length);
+  const groups = [...latest.values()].map((a) => ({ a, wrong: a.results.filter((r) => r.status === 'incorrect' || r.status === 'unanswered' || (a.marked || []).includes(r.n)) })).filter((g) => g.wrong.length);
   const only = query.get('test');
   const shown = only ? groups.filter((g) => g.a.id === only) : groups;
   const sections = [];
   for (const g of shown.slice(0, only ? 1 : 50)) {
     const test = await getJson(`content/exercise/${g.a.testId}.json`);
     sections.push(h('section', { class: 'card' },
-      h('h2', { class: 'h3' }, h('a', { href: `#/result/${g.a.id}` }, g.a.title), h('span', { class: 'muted small' }, ` · percobaan terakhir ${fmtDate(g.a.submittedAt)} · ${g.wrong.length} soal salah/kosong`)),
+      h('h2', { class: 'h3' }, h('a', { href: `#/result/${g.a.id}` }, g.a.title), h('span', { class: 'muted small' }, ` · percobaan terakhir ${fmtDate(g.a.submittedAt)} · ${g.wrong.length} soal salah/kosong/ditandai`)),
       only ? h('div', {}, ...g.wrong.map((r) => {
         const q = test.questions.find((x) => x.n === r.n);
-        return h('div', { class: 'review-mini' }, h('h3', {}, `Soal ${q.n} — jawaban Anda ${r.given ? '(' + r.given + ')' : '—'}, benar (${q.answer})`), questionBody(test, q, { review: true, result: r }));
+        return h('div', { class: 'review-mini' }, h('h3', {}, (g.a.marked || []).includes(q.n) ? h('span', { class: 'flag-pill' }, '🚩 Ditandai') : null, (g.a.marked || []).includes(q.n) ? ' ' : '', `Soal ${q.n} — jawaban Anda ${r.given ? '(' + r.given + ')' : '—'}, benar (${q.answer || '—'})`), questionBody(test, q, { review: true, result: r }));
       })) : h('p', {}, h('a', { href: `#/mistakes?test=${g.a.id}` }, 'Ulas soal-soal ini →'), ' · ', h('a', { href: g.a.retry || `#/test/${g.a.testId}/run?mode=practice` }, g.a.range ? 'Kerjakan ulang bagian ini' : 'Kerjakan ulang tes'))));
   }
   return h('div', { class: 'wrap' },
     h('h1', {}, 'Ulas Kesalahan'),
-    h('p', { class: 'muted' }, 'Menampilkan soal yang salah atau tidak dijawab pada percobaan terakhir setiap tes. Percobaan lama tetap tersimpan di Riwayat.'),
+    h('p', { class: 'muted' }, 'Menampilkan soal yang salah, tidak dijawab, atau Anda tandai (🚩) pada percobaan terakhir setiap tes. Percobaan lama tetap tersimpan di Riwayat.'),
     only ? h('p', {}, h('a', { href: '#/mistakes' }, '← Semua tes')) : null,
     sections.length ? sections : h('p', { class: 'card' }, 'Belum ada kesalahan untuk diulas. Kerjakan tes di TOCFL Exercise terlebih dulu.'));
 }

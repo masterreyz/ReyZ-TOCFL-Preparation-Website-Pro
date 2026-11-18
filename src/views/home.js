@@ -72,6 +72,6 @@ export function countMistakes(attempts) {
   const latest = new Map();
   for (const a of attempts) { const k = (a.testId + (a.range ? `@${a.range.from}-${a.range.to}` : '')); if (!latest.has(k) || latest.get(k).submittedAt < a.submittedAt) latest.set(k, a); }
   let n = 0;
-  for (const a of latest.values()) n += a.results.filter((r) => r.status === 'incorrect' || r.status === 'unanswered').length;
+  for (const a of latest.values()) n += a.results.filter((r) => r.status === 'incorrect' || r.status === 'unanswered' || (a.marked || []).includes(r.n)).length;
   return n;
 }

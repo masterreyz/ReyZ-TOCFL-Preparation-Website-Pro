@@ -81,6 +81,25 @@ with sync_playwright() as p:
     page.wait_for_selector("h1")
     check("mistake review lists tests", page.locator("section.card").count() >= 1)
 
+    # ---- mark question + back to selection
+    page.goto(BASE + "#/test/a-r1/run?mode=practice")
+    page.wait_for_selector(".q-pane h2")
+    page.click(".q-actions button:has-text('Tandai soal')")
+    check("mark question shows flag in navigator", page.locator(".qnav .qn.marked").count() == 1)
+    page.click(".qnav .qn:nth-child(3)")
+    page.click(".q-actions button:has-text('Tandai soal')")
+    page.click(".test-status .btn.primary")
+    page.wait_for_selector(".big-score")
+    check("result lists marked questions", page.locator(".review .flag-pill").count() == 2, str(page.locator(".review .flag-pill").count()))
+    check("marked tab present", page.locator(".tabs a:has-text('Ditandai')").count() == 1)
+    check("back to selection button", page.locator("a.btn:has-text('Kembali ke pilihan latihan')").first.get_attribute("href").endswith("#/exercise/a"))
+    page.goto(BASE + "#/mistakes")
+    page.wait_for_selector("h1")
+    check("marked questions saved in Ulas Kesalahan", "ditandai" in page.inner_text("body"))
+    page.locator("a:has-text('Ulas soal-soal ini')").last.click()
+    page.wait_for_selector(".review-mini")
+    check("mistakes review shows flag", page.locator(".review-mini .flag-pill").count() >= 2)
+
     # ---- migrated lesson + audio
     page.goto(BASE + "#/lesson/a1-te-l01")
     page.wait_for_selector(".dlg")

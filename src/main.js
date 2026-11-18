@@ -62,8 +62,7 @@ function shell() {
       nav, h('div', { class: 'header-tools' }, themeBtn, menuBtn)));
   const footer = h('footer', { class: 'site-footer' },
     h('div', { class: 'wrap footer-inner' },
-      h('div', {}, h('strong', {}, t('siteTitle')), h('div', { class: 'sig' }, t('createdBy')),
-        h('p', { class: 'muted small' }, 'Materi belajar: 當代中文課程 (A Course in Contemporary Chinese), NTNU Mandarin Training Center. Soal latihan: TOCFL mock tests, SC-TOP. Situs ini dibuat secara independen dan tidak berafiliasi dengan TOCFL/SC-TOP, NTNU, maupun penerbitnya.')),
+      h('div', {}, h('strong', {}, t('siteTitle')), h('div', { class: 'sig' }, t('createdBy'))),
       h('ul', { class: 'social', 'aria-label': 'Media sosial Reynard Agahari' },
         ...SOCIAL.map((s) => h('li', {}, h('a', { href: s.url, target: '_blank', rel: 'noopener noreferrer' }, `${s.name} ${s.handle}`))))));
   const main = h('main', { id: 'main', tabindex: '-1' });

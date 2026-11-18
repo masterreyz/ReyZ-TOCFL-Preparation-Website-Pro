@@ -280,6 +280,7 @@ export async function testRun({ test: id }, query) {
   const navGrid = h('div', { class: 'qnav', role: 'list', 'aria-label': 'Navigasi soal' });
   const qPane = h('section', { class: 'q-pane', 'aria-live': 'polite' });
   const counter = h('span', { class: 'counter' });
+  const markedList = h('p', { class: 'small marked-list' });
   const timerEl = h('span', { class: 'timer', role: 'timer' });
 
   // whole-test audio (exam mode, or tests whose tracks are only numbered sequentially)
@@ -294,12 +295,15 @@ export async function testRun({ test: id }, query) {
 
   function renderNav() {
     navGrid.replaceChildren(...test.questions.map((q, i) => h('button', {
-      type: 'button', role: 'listitem', class: 'qn' + (prog.answers[q.n] ? ' done' : '') + (i === cur ? ' cur' : ''),
-      'aria-label': `Soal ${q.n}${prog.answers[q.n] ? ', sudah dijawab' : ', belum dijawab'}`, 'aria-current': i === cur ? 'step' : null,
+      type: 'button', role: 'listitem', class: 'qn' + (prog.answers[q.n] ? ' done' : '') + (i === cur ? ' cur' : '') + (prog.marked?.[q.n] ? ' marked' : ''),
+      'aria-label': `Soal ${q.n}${prog.answers[q.n] ? ', sudah dijawab' : ', belum dijawab'}${prog.marked?.[q.n] ? ', ditandai' : ''}`, 'aria-current': i === cur ? 'step' : null,
       onclick: () => go(i),
     }, String(q.n))));
     const n = Object.keys(prog.answers).length;
-    counter.textContent = `${n}/${test.questions.length} terjawab`;
+    const m = Object.keys(prog.marked || {}).length;
+    counter.textContent = `${n}/${test.questions.length} terjawab` + (m ? ` · 🚩 ${m} ditandai` : '');
+    const marked = test.questions.filter((q) => prog.marked?.[q.n]);
+    markedList.replaceChildren(...(marked.length ? [h('strong', {}, `🚩 Ditandai (${marked.length}): `), ...marked.flatMap((q) => [h('button', { type: 'button', class: 'linkish', onclick: () => go(test.questions.indexOf(q)) }, String(q.n)), ' '])] : []));
   }
   function go(i) {
     cur = Math.max(0, Math.min(test.questions.length - 1, i));
@@ -314,26 +318,31 @@ export async function testRun({ test: id }, query) {
         : TtsPlayer(ttsSegments(test, q), { title: `Soal ${q.n}`, compact: true, hideText: true });
     qPane.replaceChildren(...[
 
-      h('div', { class: 'q-head' }, h('h2', {}, `Soal ${q.n}`), part ? h('span', { class: 'muted' }, `${part.title} ${part.subtitle ? '· ' + part.subtitle : ''}`) : null),
+      h('div', { class: 'q-head' }, h('h2', {}, `Soal ${q.n}`), prog.marked?.[q.n] ? h('span', { class: 'flag-pill' }, '🚩 Ditandai') : null, part ? h('span', { class: 'muted' }, `${part.title} ${part.subtitle ? '· ' + part.subtitle : ''}`) : null),
       perQ,
       questionBody(test, q, { selected: prog.answers[q.n], onSelect: (L) => { prog.answers[q.n] = L; save(); renderNav(); } }),
       h('div', { class: 'q-actions' },
         h('button', { class: 'btn', type: 'button', disabled: cur === 0 || null, onclick: () => go(cur - 1) }, '← ' + t('prev')),
+        h('button', { class: 'btn ' + (prog.marked?.[q.n] ? 'warn-on' : 'ghost'), type: 'button', 'aria-pressed': prog.marked?.[q.n] ? 'true' : 'false',
+          onclick: () => { prog.marked = prog.marked || {}; if (prog.marked[q.n]) delete prog.marked[q.n]; else prog.marked[q.n] = true; save(); renderQ(); renderNav(); } },
+          prog.marked?.[q.n] ? '🚩 Hapus tanda' : '⚑ Tandai soal'),
         prog.answers[q.n] ? h('button', { class: 'btn ghost', type: 'button', onclick: () => { delete prog.answers[q.n]; save(); renderQ(); renderNav(); } }, 'Hapus jawaban') : null,
         cur < test.questions.length - 1 ? h('button', { class: 'btn primary', type: 'button', onclick: () => go(cur + 1) }, t('next') + ' →')
           : h('button', { class: 'btn primary', type: 'button', onclick: submit }, t('submit')))].filter(Boolean));
   }
   function submit(force) {
     const unanswered = test.questions.filter((q) => !prog.answers[q.n]).map((q) => q.n);
+    const markedNs = test.questions.filter((q) => prog.marked?.[q.n]).map((q) => q.n);
     if (force !== true) {
-      const msg = unanswered.length ? `Masih ada ${unanswered.length} soal yang belum dijawab (${unanswered.slice(0, 12).join(', ')}${unanswered.length > 12 ? ', …' : ''}).\nKumpulkan sekarang?` : 'Kumpulkan semua jawaban sekarang?';
+      const mk = markedNs.length ? `\n🚩 ${markedNs.length} soal ditandai untuk ditinjau (${markedNs.slice(0, 12).join(', ')}${markedNs.length > 12 ? ', …' : ''}).` : '';
+      const msg = mk && !unanswered.length ? `Kumpulkan semua jawaban sekarang?${mk}\nSoal ditandai akan tersimpan di Ulas Kesalahan.` : unanswered.length ? `Masih ada ${unanswered.length} soal yang belum dijawab (${unanswered.slice(0, 12).join(', ')}${unanswered.length > 12 ? ', …' : ''}).${mk}\nKumpulkan sekarang?` : 'Kumpulkan semua jawaban sekarang?';
       if (!confirm(msg)) return;
     }
     stopAll();
     clearInterval(tick);
     const g = grade(test, prog.answers);
     const a = store.addAttempt({ id: uid(), testId: id, range, retry: `#/test/${id}/run?mode=${mode}${qs}`, title: test.title, band: test.band, skill: test.skill, mode,
-      answers: { ...prog.answers }, score: g.score, byPart: g.byPart, results: g.results, submittedAt: Date.now(),
+      answers: { ...prog.answers }, marked: markedNs, score: g.score, byPart: g.byPart, results: g.results, submittedAt: Date.now(),
       durationSec: Math.round(prog.elapsed + (Date.now() - resumeAt) / 1000) });
     store.clearProgress(progKey);
     location.hash = `#/result/${a.id}`;
@@ -365,8 +374,8 @@ export async function testRun({ test: id }, query) {
       h('div', { class: 'test-status' }, timerEl, counter, h('button', { class: 'btn primary', type: 'button', onclick: submit }, t('submit')))),
     h('div', { class: 'test-grid' },
       h('div', {}, audioBox, qPane),
-      h('aside', { class: 'card side' }, h('h2', { class: 'h3' }, 'Daftar soal'), navGrid,
-        h('p', { class: 'small muted' }, 'Kotak berwarna = sudah dijawab. Jawaban tersimpan otomatis di perangkat ini.'))));
+      h('aside', { class: 'card side' }, h('h2', { class: 'h3' }, 'Daftar soal'), navGrid, markedList,
+        h('p', { class: 'small muted' }, 'Kotak berwarna = sudah dijawab. 🚩 = soal ditandai untuk ditinjau lagi. Jawaban dan tanda tersimpan otomatis di perangkat ini.'))));
 }
 
 export async function resultView({ attempt: aid }, query) {
@@ -376,7 +385,10 @@ export async function resultView({ attempt: aid }, query) {
   const ex = await loadExplain(test.id);
   const useOrig = test.skill === 'listening' && await originalAudio();
   const filter = query.get('f') || 'all';
-  const shown = a.results.filter((r) => filter === 'all' || (filter === 'wrong' ? r.status === 'incorrect' || r.status === 'unanswered' : r.status === filter));
+  const markedSet = new Set(a.marked || []);
+  const backHref = a.range?.sec ? `#/section/${test.band}/${a.range.sec}` : (test.section ? `#/section/${test.band}/${test.section}` : `#/exercise/${test.band}`);
+  const backBtn = h('a', { class: 'btn', href: backHref }, '← Kembali ke pilihan latihan');
+  const shown = a.results.filter((r) => filter === 'all' || (filter === 'marked' ? markedSet.has(r.n) : filter === 'wrong' ? r.status === 'incorrect' || r.status === 'unanswered' : r.status === filter));
   const s = a.score;
   const items = shown.map((r) => {
     const q = test.questions.find((x) => x.n === r.n);
@@ -387,7 +399,7 @@ export async function resultView({ attempt: aid }, query) {
         : TtsPlayer(ttsSegments(test, q), { title: `Soal ${q.n}`, compact: true });
     const bmKey = `q:${test.id}:${q.n}`;
     return h('article', { class: `card review ${r.status}`, id: `r${q.n}` },
-      h('div', { class: 'q-head' }, h('h3', {}, `Soal ${q.n}`), h('span', { class: `status ${r.status}` }, statusTxt),
+      h('div', { class: 'q-head' }, h('h3', {}, `Soal ${q.n}`), h('span', { class: `status ${r.status}` }, statusTxt), markedSet.has(r.n) ? h('span', { class: 'flag-pill' }, '🚩 Ditandai') : null,
         h('button', { class: 'btn ghost small', type: 'button', onclick: (e) => { const on = store.toggleBookmark(bmKey, { type: 'question', title: `${test.title} — Soal ${q.n}`, href: `#/result/${a.id}` }); e.target.textContent = on ? '★ ' + t('bookmarked') : '☆ ' + t('bookmark'); } },
           store.isBookmarked(bmKey) ? '★ ' + t('bookmarked') : '☆ ' + t('bookmark'))),
       h('p', { class: 'answers' }, `${t('yourAnswer')}: `, h('strong', {}, r.given ? `(${r.given})` : '—'), ' · ', `${t('correctAnswer')}: `, h('strong', {}, q.answer ? `(${q.answer})` : '—')),
@@ -416,8 +428,9 @@ export async function resultView({ attempt: aid }, query) {
     h('section', { class: 'card' }, h('h2', { class: 'h3' }, 'Per bagian'),
       h('table', { class: 'table' }, h('thead', {}, h('tr', {}, h('th', {}, 'Bagian'), h('th', {}, 'Benar'), h('th', {}, '%'))),
         h('tbody', {}, ...a.byPart.filter((p) => p.gradable > 0).map((p) => h('tr', {}, h('td', {}, `${p.title} ${p.subtitle || ''}`), h('td', {}, `${p.correct}/${p.gradable}`), h('td', {}, `${pct(p.correct, p.gradable)}%`)))))),
-    h('div', { class: 'row-links' }, h('a', { class: 'btn primary', href: a.retry || `#/test/${test.id}/run?mode=${a.mode}` }, a.range ? 'Ulangi bagian ini' : 'Ulangi tes'), h('a', { class: 'btn', href: '#/mistakes' }, 'Ulas semua kesalahan')),
-    h('div', { class: 'tabs', role: 'tablist' }, tab('all', `Semua (${a.results.length})`), tab('wrong', `Salah/kosong (${s.incorrect + s.unanswered})`), tab('correct', `Benar (${s.correct})`)),
+    h('div', { class: 'row-links' }, h('a', { class: 'btn primary', href: a.retry || `#/test/${test.id}/run?mode=${a.mode}` }, a.range ? 'Ulangi bagian ini' : 'Ulangi tes'), h('a', { class: 'btn', href: '#/mistakes' }, 'Ulas semua kesalahan'), backBtn),
+    h('div', { class: 'tabs', role: 'tablist' }, tab('all', `Semua (${a.results.length})`), tab('wrong', `Salah/kosong (${s.incorrect + s.unanswered})`), tab('correct', `Benar (${s.correct})`), markedSet.size ? tab('marked', `🚩 Ditandai (${markedSet.size})`) : null),
     ...items,
+    h('div', { class: 'row-links' }, h('a', { class: 'btn', href: backHref }, '← Kembali ke pilihan latihan')),
     test.fullScript ? h('details', { class: 'card' }, h('summary', {}, t('fullScript')), h('div', { class: 'zh script', lang: 'zh-Hant', html: escBr(test.fullScript) })) : null);
 }
