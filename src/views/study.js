@@ -17,7 +17,6 @@ export async function studyHome() {
   return h('div', { class: 'wrap' },
     h('nav', { class: 'crumbs' }, h('a', { href: '#/' }, 'Beranda'), ' / TOCFL Study'),
     h('h1', {}, 'TOCFL Study'),
-    h('p', { class: 'lead' }, 'Materi 當代中文課程 (A Course in Contemporary Chinese) jilid 1–6, disusun per level → buku → pelajaran, dengan audio pelajaran di samping halaman yang sesuai.'),
     migrationNote(idx),
     h('div', { class: 'tiles' }, ...idx.levels.map((lv) => {
       const ids = lv.books.flatMap((b) => b.lessons.map((l) => l.id));

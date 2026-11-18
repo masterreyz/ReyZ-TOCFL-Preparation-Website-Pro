@@ -68,7 +68,6 @@ export async function exerciseHome() {
   return h('div', { class: 'wrap' },
     h('nav', { class: 'crumbs', 'aria-label': 'Breadcrumb' }, h('a', { href: '#/' }, 'Beranda'), ' / TOCFL Exercise'),
     h('h1', {}, 'TOCFL Exercise'),
-    h('p', { class: 'lead' }, 'Tes simulasi resmi (mock test) TOCFL per band. Setiap tes berisi 50 soal (Novice: 25). Kunci jawaban berasal dari file kunci resmi yang disertakan.'),
     h('div', { class: 'tiles' }, ...['novice', 'a', 'b', 'c'].map((b) => {
       const list = tests.filter((x) => x.band === b);
       return h('a', { class: 'tile', href: `#/exercise/${b}` }, h('span', { class: 'tile-big' }, BAND_LABEL[b]), h('span', { class: 'tile-sub' }, BAND_DESC[b]),
