@@ -2,29 +2,33 @@
  "testId": "a-l5",
  "segments": 226,
  "englishComplete": true,
- "indonesianComplete": false,
+ "indonesianComplete": true,
  "questions": {
   "1": {
    "transcript": [
     {
      "zh": "提問：圖片裡有幾個學生？",
      "py": "Tíwèn: Túpiàn lǐ yǒu jǐ ge xuéshēng?",
-     "en": "Question: How many students are in the picture?"
+     "en": "Question: How many students are in the picture?",
+     "idn": "Pertanyaan: Ada berapa murid di gambar?"
     },
     {
      "zh": "(A) 三個",
      "py": "(A) sān ge",
-     "en": "(A) Three"
+     "en": "(A) Three",
+     "idn": "(A) Tiga"
     },
     {
      "zh": "(B) 四個",
      "py": "(B) sì ge",
-     "en": "(B) Four"
+     "en": "(B) Four",
+     "idn": "(B) Empat"
     },
     {
      "zh": "(C) 七個",
      "py": "(C) qī ge",
-     "en": "(C) Seven"
+     "en": "(C) Seven",
+     "idn": "(C) Tujuh"
     }
    ]
   },
@@ -33,22 +37,26 @@
     {
      "zh": "提問：這個人在做什麼運動？",
      "py": "Tíwèn: Zhè ge rén zài zuò shénme yùndòng?",
-     "en": "Question: What sport is this person playing?"
+     "en": "Question: What sport is this person playing?",
+     "idn": "Pertanyaan: Olahraga apa yang sedang dimainkan orang ini?"
     },
     {
      "zh": "(A) 他在打籃球",
      "py": "(A) tā zài dǎlánqiú",
-     "en": "(A) He is playing basketball."
+     "en": "(A) He is playing basketball.",
+     "idn": "(A) Dia sedang bermain bola basket."
     },
     {
      "zh": "(B) 他在打網球",
      "py": "(B) tā zài dǎwǎngqiú",
-     "en": "(B) He is playing tennis."
+     "en": "(B) He is playing tennis.",
+     "idn": "(B) Dia sedang bermain tenis."
     },
     {
      "zh": "(C) 他在打棒球",
      "py": "(C) tā zài dǎ bàngqiú",
-     "en": "(C) He is playing baseball."
+     "en": "(C) He is playing baseball.",
+     "idn": "(C) Dia sedang bermain bisbol."
     }
    ]
   },
@@ -57,22 +65,26 @@
     {
      "zh": "提問：請問小美喜歡做什麼？",
      "py": "Tíwèn: Qǐngwèn Xiǎoměi xǐhuān zuò shénme?",
-     "en": "Question: What does Xiaomei like to do?"
+     "en": "Question: What does Xiaomei like to do?",
+     "idn": "Pertanyaan: Apa yang suka dilakukan Xiaomei?"
     },
     {
      "zh": "(A) 她喜歡打掃",
      "py": "(A) tā xǐhuān dǎsǎo",
-     "en": "(A) She likes cleaning."
+     "en": "(A) She likes cleaning.",
+     "idn": "(A) Dia suka bersih-bersih."
     },
     {
      "zh": "(B) 她喜歡做菜",
      "py": "(B) tā xǐhuān zuòcài",
-     "en": "(B) She likes cooking."
+     "en": "(B) She likes cooking.",
+     "idn": "(B) Dia suka memasak."
     },
     {
      "zh": "(C) 她喜歡洗衣服",
      "py": "(C) tā xǐhuān xǐyīfú",
-     "en": "(C) She likes washing clothes."
+     "en": "(C) She likes washing clothes.",
+     "idn": "(C) Dia suka mencuci baju."
     }
    ]
   },
@@ -81,22 +93,26 @@
     {
      "zh": "提問：弟弟今天怎麼沒去上課？",
      "py": "Tíwèn: Dìdi jīntiān zěnme méi qù shàngkè?",
-     "en": "Question: Why didn't younger brother go to class today?"
+     "en": "Question: Why didn't younger brother go to class today?",
+     "idn": "Pertanyaan: Mengapa adik laki-laki tidak masuk kelas hari ini?"
     },
     {
      "zh": "(A) 他腳痛",
      "py": "(A) tā jiǎotòng",
-     "en": "(A) His foot hurts."
+     "en": "(A) His foot hurts.",
+     "idn": "(A) Kakinya sakit."
     },
     {
      "zh": "(B) 他頭痛",
      "py": "(B) tā tóutòng",
-     "en": "(B) He has a headache."
+     "en": "(B) He has a headache.",
+     "idn": "(B) Kepalanya sakit."
     },
     {
      "zh": "(C) 他肚子痛",
      "py": "(C) tā dùzitòng",
-     "en": "(C) He has a stomachache."
+     "en": "(C) He has a stomachache.",
+     "idn": "(C) Perutnya sakit."
     }
    ]
   },
@@ -105,22 +121,26 @@
     {
      "zh": "提問：小明給美美什麼？",
      "py": "Tíwèn: Xiǎomíng gěi Měiměi shénme?",
-     "en": "Question: What did Xiaoming give Meimei?"
+     "en": "Question: What did Xiaoming give Meimei?",
+     "idn": "Pertanyaan: Apa yang diberikan Xiaoming kepada Meimei?"
     },
     {
      "zh": "(A) 水果",
      "py": "(A) shuǐguǒ",
-     "en": "(A) Fruit"
+     "en": "(A) Fruit",
+     "idn": "(A) Buah"
     },
     {
      "zh": "(B) 蛋糕",
      "py": "(B) dàngāo",
-     "en": "(B) Cake"
+     "en": "(B) Cake",
+     "idn": "(B) Kue"
     },
     {
      "zh": "(C) 餃子",
      "py": "(C) jiǎozi",
-     "en": "(C) Dumplings"
+     "en": "(C) Dumplings",
+     "idn": "(C) Pangsit"
     }
    ]
   },
@@ -129,22 +149,26 @@
     {
      "zh": "提問：這位先生現在在做什麼？",
      "py": "Tíwèn: Zhèwèi xiānsheng xiànzài zài zuò shénme?",
-     "en": "Question: What is this gentleman doing now?"
+     "en": "Question: What is this gentleman doing now?",
+     "idn": "Pertanyaan: Pria ini sekarang sedang apa?"
     },
     {
      "zh": "(A) 他在教室上網",
      "py": "(A) tā zài jiàoshì shàngwǎng",
-     "en": "(A) He is using the internet in the classroom."
+     "en": "(A) He is using the internet in the classroom.",
+     "idn": "(A) Dia sedang berinternet di kelas."
     },
     {
      "zh": "(B) 他在辦公室工作",
      "py": "(B) tā zài bàngōngshì gōngzuò",
-     "en": "(B) He is working in the office."
+     "en": "(B) He is working in the office.",
+     "idn": "(B) Dia sedang bekerja di kantor."
     },
     {
      "zh": "(C) 他在辦公室上網",
      "py": "(C) tā zài bàngōngshì shàngwǎng",
-     "en": "(C) He is using the internet in the office."
+     "en": "(C) He is using the internet in the office.",
+     "idn": "(C) Dia sedang berinternet di kantor."
     }
    ]
   },
@@ -153,22 +177,26 @@
     {
      "zh": "提問：小女孩在做什麼？",
      "py": "Tíwèn: Xiǎonǚhái zài zuò shénme?",
-     "en": "Question: What is the little girl doing?"
+     "en": "Question: What is the little girl doing?",
+     "idn": "Pertanyaan: Anak perempuan kecil itu sedang apa?"
     },
     {
      "zh": "(A) 她在寄信",
      "py": "(A) tā zài jìxìn",
-     "en": "(A) She is mailing a letter."
+     "en": "(A) She is mailing a letter.",
+     "idn": "(A) Dia sedang mengirim surat."
     },
     {
      "zh": "(B) 她在寫信",
      "py": "(B) tā zài xiěxìn",
-     "en": "(B) She is writing a letter."
+     "en": "(B) She is writing a letter.",
+     "idn": "(B) Dia sedang menulis surat."
     },
     {
      "zh": "(C) 她在打電話",
      "py": "(C) tā zài dǎdiànhuà",
-     "en": "(C) She is making a phone call."
+     "en": "(C) She is making a phone call.",
+     "idn": "(C) Dia sedang menelepon."
     }
    ]
   },
@@ -177,22 +205,26 @@
     {
      "zh": "提問：圖片裡有什麼？",
      "py": "Tíwèn: Túpiàn lǐ yǒu shénme?",
-     "en": "Question: What is in the picture?"
+     "en": "Question: What is in the picture?",
+     "idn": "Pertanyaan: Apa yang ada di gambar?"
     },
     {
      "zh": "(A) 一枝鉛筆和兩本字典",
      "py": "(A) yìzhī qiānbǐ hé liǎngběn zìdiǎn",
-     "en": "(A) A pencil and two dictionaries"
+     "en": "(A) A pencil and two dictionaries",
+     "idn": "(A) Sebatang pensil dan dua kamus"
     },
     {
      "zh": "(B) 一本字典和兩支毛筆",
      "py": "(B) yìběn zìdiǎn hé liǎngzhī máobǐ",
-     "en": "(B) A dictionary and two writing brushes"
+     "en": "(B) A dictionary and two writing brushes",
+     "idn": "(B) Sebuah kamus dan dua kuas tulis"
     },
     {
      "zh": "(C) 一本雜誌和兩本課本",
      "py": "(C) yìběn zázhì hé liǎngběn kèběn",
-     "en": "(C) A magazine and two textbooks"
+     "en": "(C) A magazine and two textbooks",
+     "idn": "(C) Sebuah majalah dan dua buku pelajaran"
     }
    ]
   },
@@ -201,22 +233,26 @@
     {
      "zh": "提問：他們在做什麼？",
      "py": "Tíwèn: Tāmen zài zuò shénme?",
-     "en": "Question: What are they doing?"
+     "en": "Question: What are they doing?",
+     "idn": "Pertanyaan: Mereka sedang apa?"
     },
     {
      "zh": "(A) 他們一邊看電視，一邊吃東西",
      "py": "(A) tāmen yìbiān kàndiànshì, yìbiān chī Dōngxi",
-     "en": "(A) They are eating while watching TV."
+     "en": "(A) They are eating while watching TV.",
+     "idn": "(A) Mereka makan sambil menonton TV."
     },
     {
      "zh": "(B) 他們一邊吃東西，一邊和狗玩",
      "py": "(B) tāmen yìbiān chī Dōngxi, yìbiān hé gǒu wán",
-     "en": "(B) They are playing with the dog while eating."
+     "en": "(B) They are playing with the dog while eating.",
+     "idn": "(B) Mereka bermain dengan anjing sambil makan."
     },
     {
      "zh": "(C) 他們一邊和狗玩，一邊看電視",
      "py": "(C) tāmen yìbiān hé gǒu wán, yìbiān kàndiànshì",
-     "en": "(C) They are watching TV while playing with the dog."
+     "en": "(C) They are watching TV while playing with the dog.",
+     "idn": "(C) Mereka menonton TV sambil bermain dengan anjing."
     }
    ]
   },
@@ -225,22 +261,26 @@
     {
      "zh": "提問：這裡有哪些動物？",
      "py": "Tíwèn: Zhèlǐ yǒu nǎxiē dòngwù?",
-     "en": "Question: What animals are here?"
+     "en": "Question: What animals are here?",
+     "idn": "Pertanyaan: Hewan apa saja yang ada di sini?"
     },
     {
      "zh": "(A) 這裡都是馬",
      "py": "(A) zhèlǐ dōu shì mǎ",
-     "en": "(A) They are all horses here."
+     "en": "(A) They are all horses here.",
+     "idn": "(A) Semuanya kuda."
     },
     {
      "zh": "(B) 這裡有馬也有牛",
      "py": "(B) zhèlǐ yǒu mǎ yě yǒu niú",
-     "en": "(B) There are horses and cows here."
+     "en": "(B) There are horses and cows here.",
+     "idn": "(B) Di sini ada kuda dan sapi."
     },
     {
      "zh": "(C) 這裡只有牛沒有馬",
      "py": "(C) zhèlǐ zhǐyǒu niú méiyǒu mǎ",
-     "en": "(C) There are only cows here, no horses."
+     "en": "(C) There are only cows here, no horses.",
+     "idn": "(C) Di sini hanya ada sapi, tidak ada kuda."
     }
    ]
   },
@@ -249,12 +289,14 @@
     {
      "zh": "男：剛剛那個年輕人在飯店裡吃了什麼食物？",
      "py": "Nán: Gānggāng nà ge niánqīngrén zài fàndiàn lǐ chī le shénme shíwù?",
-     "en": "Man: What food did that young man just eat at the restaurant?"
+     "en": "Man: What food did that young man just eat at the restaurant?",
+     "idn": "Pria: Pemuda itu tadi makan apa di restoran?"
     },
     {
      "zh": "女：他吃了一碗麵。",
      "py": "Nǚ: Tā chī le yìwǎn miàn.",
-     "en": "Woman: He ate a bowl of noodles."
+     "en": "Woman: He ate a bowl of noodles.",
+     "idn": "Wanita: Dia makan semangkuk mi."
     }
    ]
   },
@@ -263,12 +305,14 @@
     {
      "zh": "女：你要不要去博物館？",
      "py": "Nǚ: Nǐ yào búyào qù bówùguǎn?",
-     "en": "Woman: Do you want to go to the museum?"
+     "en": "Woman: Do you want to go to the museum?",
+     "idn": "Wanita: Kamu mau ke museum?"
     },
     {
      "zh": "男：好啊！",
      "py": "Nán: Hǎo a!",
-     "en": "Man: Sure!"
+     "en": "Man: Sure!",
+     "idn": "Pria: Boleh!"
     }
    ]
   },
@@ -277,12 +321,14 @@
     {
      "zh": "男：這是您的巧克力蛋糕，請問還需要什麼嗎？",
      "py": "Nán: Zhè shì nín de Qiǎokèlì dàngāo, qǐngwèn hái xūyào shénme ma?",
-     "en": "Man: Here's your chocolate cake. Do you need anything else?"
+     "en": "Man: Here's your chocolate cake. Do you need anything else?",
+     "idn": "Pria: Ini kue cokelat Anda. Ada lagi yang dibutuhkan?"
     },
     {
      "zh": "女：請再給我一個湯匙，我們要一起吃。",
      "py": "Nǚ: Qǐng zài gěi wǒ yí ge tāngchí, wǒmen yào yìqǐ chī.",
-     "en": "Woman: Please give me another spoon; we're going to share it."
+     "en": "Woman: Please give me another spoon; we're going to share it.",
+     "idn": "Wanita: Tolong beri satu sendok lagi; kami akan makan berdua."
     }
    ]
   },
@@ -291,12 +337,14 @@
     {
      "zh": "女：我昨天打電話給你，你怎麼沒接電話？",
      "py": "Nǚ: Wǒ zuótiān dǎdiànhuà gěi nǐ, nǐ zěnme méi jiēdiànhuà?",
-     "en": "Woman: I called you yesterday. Why didn't you answer?"
+     "en": "Woman: I called you yesterday. Why didn't you answer?",
+     "idn": "Wanita: Kemarin saya meneleponmu. Kenapa tidak diangkat?"
     },
     {
      "zh": "男：我的手機壞了。",
      "py": "Nán: Wǒ de shǒujī huài le.",
-     "en": "Man: My cell phone is broken."
+     "en": "Man: My cell phone is broken.",
+     "idn": "Pria: Ponsel saya rusak."
     }
    ]
   },
@@ -305,12 +353,14 @@
     {
      "zh": "男：哪一個是妳的妹妹？",
      "py": "Nán: Nǎ yí ge shì nǐ de mèimei?",
-     "en": "Man: Which one is your younger sister?"
+     "en": "Man: Which one is your younger sister?",
+     "idn": "Pria: Yang mana adik perempuanmu?"
     },
     {
      "zh": "女：那個短頭髮，戴眼鏡的是我妹妹。",
      "py": "Nǚ: Nà ge duǎn tóufà, Dàiyǎnjìng de shì wǒ mèimei.",
-     "en": "Woman: The one with short hair and glasses is my younger sister."
+     "en": "Woman: The one with short hair and glasses is my younger sister.",
+     "idn": "Wanita: Yang berambut pendek dan memakai kacamata itu adik saya."
     }
    ]
   },
@@ -319,12 +369,14 @@
     {
      "zh": "女：這家店為什麼這麼多人在排隊？",
      "py": "Nǚ: Zhèjiā diàn wèishénme zhème duō rén zài páiduì?",
-     "en": "Woman: Why are so many people lining up at this shop?"
+     "en": "Woman: Why are so many people lining up at this shop?",
+     "idn": "Wanita: Kenapa banyak sekali orang mengantre di toko ini?"
     },
     {
      "zh": "男：因為這裡的衣服很便宜，很多人來這裡買衣服。",
      "py": "Nán: Yīnwèi zhèlǐ de yīfú hěn piányi, hěnduō rén lái zhèlǐ mǎi yīfú.",
-     "en": "Man: Because the clothes here are very cheap; many people come here to buy clothes."
+     "en": "Man: Because the clothes here are very cheap; many people come here to buy clothes.",
+     "idn": "Pria: Karena pakaian di sini sangat murah; banyak orang datang ke sini untuk membeli pakaian."
     }
    ]
   },
@@ -333,12 +385,14 @@
     {
      "zh": "男：聽說這家店的牛排和漢堡很好吃，妳要試一試嗎？",
      "py": "Nán: Tīngshuō zhèjiā diàn de niúpái hé Hànbǎo hěn hǎochī, nǐ yào shìyíshì ma?",
-     "en": "Man: I heard the steak and hamburgers here are very good. Do you want to try them?"
+     "en": "Man: I heard the steak and hamburgers here are very good. Do you want to try them?",
+     "idn": "Pria: Katanya steik dan hamburger di sini enak sekali. Kamu mau mencobanya?"
     },
     {
      "zh": "女：我不能吃肉，請幫我點一份青菜。",
      "py": "Nǚ: Wǒ bùnéng chī ròu, qǐng bāng wǒ diǎn yífèn qīngcài.",
-     "en": "Woman: I can't eat meat. Please order a plate of vegetables for me."
+     "en": "Woman: I can't eat meat. Please order a plate of vegetables for me.",
+     "idn": "Wanita: Saya tidak bisa makan daging. Tolong pesankan sepiring sayuran untuk saya."
     }
    ]
   },
@@ -347,12 +401,14 @@
     {
      "zh": "男：媽媽，我找了客廳和房間，怎麼都沒看見我新買的小說？",
      "py": "Nán: Māma, wǒ zhǎo le kètīng hé fángjiān, zěnme dōu méi kànjiàn wǒ xīnmǎi de xiǎoshuō?",
-     "en": "Man: Mom, I searched the living room and my bedroom; how come I can't find the novel I just bought?"
+     "en": "Man: Mom, I searched the living room and my bedroom; how come I can't find the novel I just bought?",
+     "idn": "Pria: Bu, ruang tamu dan kamarku sudah kucari; kenapa novel yang baru kubeli tidak ketemu?"
     },
     {
      "zh": "女：你昨天放在浴室裡了。",
      "py": "Nǚ: Nǐ zuótiān fàngzài yùshì lǐ le.",
-     "en": "Woman: You left it in the bathroom yesterday."
+     "en": "Woman: You left it in the bathroom yesterday.",
+     "idn": "Wanita: Kemarin kamu meninggalkannya di kamar mandi."
     }
    ]
   },
@@ -361,12 +417,14 @@
     {
      "zh": "女：我上次送你的畫你放在哪裡了？",
      "py": "Nǚ: Wǒ shàngcì sòng nǐ de huà nǐ fàngzài nǎlǐ le?",
-     "en": "Woman: Where did you put the painting I gave you last time?"
+     "en": "Woman: Where did you put the painting I gave you last time?",
+     "idn": "Wanita: Lukisan yang saya berikan waktu itu kamu taruh di mana?"
     },
     {
      "zh": "男：我把它掛在冰箱後面的牆上了。",
      "py": "Nán: Wǒ bǎ tā guà zài bīngxiāng hòumiàn de qiángshàng le.",
-     "en": "Man: I hung it on the wall behind the refrigerator."
+     "en": "Man: I hung it on the wall behind the refrigerator.",
+     "idn": "Pria: Saya gantung di dinding di belakang kulkas."
     }
    ]
   },
@@ -375,12 +433,14 @@
     {
      "zh": "男：聽說小美要表演，是鋼琴表演嗎？",
      "py": "Nán: Tīngshuō xiǎo měi yào biǎoyǎn, shì gāngqín biǎoyǎn ma?",
-     "en": "Man: I heard Xiaomei is going to perform. Is it a piano performance?"
+     "en": "Man: I heard Xiaomei is going to perform. Is it a piano performance?",
+     "idn": "Pria: Saya dengar Xiaomei akan tampil. Apakah pertunjukan piano?"
     },
     {
      "zh": "女：她以前表演過鋼琴，但是這次是吉他表演。",
      "py": "Nǚ: Tā yǐqián biǎoyǎn guò gāngqín, dànshì zhècì shì Jítā biǎoyǎn.",
-     "en": "Woman: She has performed piano before, but this time it's a guitar performance."
+     "en": "Woman: She has performed piano before, but this time it's a guitar performance.",
+     "idn": "Wanita: Dia pernah tampil bermain piano, tetapi kali ini pertunjukan gitar."
     }
    ]
   },
@@ -389,12 +449,14 @@
     {
      "zh": "女：已經晚上九點了，辦公室裡怎麼還有人？",
      "py": "Nǚ: Yǐjīng wǎnshàng jiǔdiǎn le, bàngōngshì lǐ zěnme háiyǒu rén?",
-     "en": "Woman: It's already 9 p.m. Why is there still someone in the office?"
+     "en": "Woman: It's already 9 p.m. Why is there still someone in the office?",
+     "idn": "Wanita: Sudah pukul sembilan malam. Kenapa masih ada orang di kantor?"
     },
     {
      "zh": "男：是蘇經理和小蔡，他們兩個還在開會。",
      "py": "Nán: Shì Sū jīnglǐ hé xiǎo Cài, tāmen liǎng ge hái zài kāihuì.",
-     "en": "Man: It's Manager Su and Xiao Cai; the two of them are still in a meeting."
+     "en": "Man: It's Manager Su and Xiao Cai; the two of them are still in a meeting.",
+     "idn": "Pria: Itu Manajer Su dan Xiao Cai; mereka berdua masih rapat."
     }
    ]
   },
@@ -403,12 +465,14 @@
     {
      "zh": "男：他們兩個人都很生氣，不知道他們在說什麼？",
      "py": "Nán: Tāmen liǎng ge rén dōu hěn shēngqì, bù zhīdào tāmen zài shuō shénme?",
-     "en": "Man: They both look angry. I wonder what they're talking about?"
+     "en": "Man: They both look angry. I wonder what they're talking about?",
+     "idn": "Pria: Mereka berdua kelihatan marah. Entah apa yang sedang mereka bicarakan?"
     },
     {
      "zh": "女：他們一討論小孩的事情，就會不太開心。",
      "py": "Nǚ: Tāmen yì tǎolùn xiǎohái de shìqing, jiù huì bú tài kāixīn.",
-     "en": "Woman: Whenever they discuss things about the children, they get unhappy."
+     "en": "Woman: Whenever they discuss things about the children, they get unhappy.",
+     "idn": "Wanita: Setiap kali membicarakan urusan anak-anak, mereka jadi tidak senang."
     }
    ]
   },
@@ -417,12 +481,14 @@
     {
      "zh": "女：為什麼他今天沒來上班？",
      "py": "Nǚ: Wèishénme tā jīntiān méi lái shàngbān?",
-     "en": "Woman: Why didn't he come to work today?"
+     "en": "Woman: Why didn't he come to work today?",
+     "idn": "Wanita: Kenapa hari ini dia tidak datang bekerja?"
     },
     {
      "zh": "男：因為他在家裡準備明天的報告。",
      "py": "Nán: Yīnwèi tā zài jiālǐ zhǔnbèi míngtiān de bàogào.",
-     "en": "Man: Because he's at home preparing tomorrow's report."
+     "en": "Man: Because he's at home preparing tomorrow's report.",
+     "idn": "Pria: Karena dia sedang menyiapkan laporan untuk besok di rumah."
     }
    ]
   },
@@ -431,12 +497,14 @@
     {
      "zh": "女：你們在山上新租的房子怎麼樣？",
      "py": "Nǚ: Nǐmen zài shānshàng xīnzū de fángzi zěnmeyàng?",
-     "en": "Woman: How's the house you newly rented in the mountains?"
+     "en": "Woman: How's the house you newly rented in the mountains?",
+     "idn": "Wanita: Bagaimana rumah yang baru kamu sewa di pegunungan?"
     },
     {
      "zh": "男：房子很不錯。樓下房間有一個大窗戶。",
      "py": "Nán: Fángzi hěn búcuò. Lóuxià fángjiān yǒu yí ge dà chuānghù.",
-     "en": "Man: The house is great. The room downstairs has a big window."
+     "en": "Man: The house is great. The room downstairs has a big window.",
+     "idn": "Pria: Rumahnya bagus sekali. Kamar di lantai bawah punya jendela besar."
     }
    ]
   },
@@ -445,12 +513,14 @@
     {
      "zh": "男：美美，我的那件短袖襯衫呢？",
      "py": "Nán: Měiměi, wǒ de nàjiàn duǎnxiù chènshān ne?",
-     "en": "Man: Meimei, where's my short-sleeved shirt?"
+     "en": "Man: Meimei, where's my short-sleeved shirt?",
+     "idn": "Pria: Meimei, kemeja lengan pendek saya di mana?"
     },
     {
      "zh": "女：我剛洗好，現在還沒乾喔！",
      "py": "Nǚ: Wǒ gāng xǐ hǎo, xiànzài hái méi gān ō!",
-     "en": "Woman: I just washed it; it's not dry yet!"
+     "en": "Woman: I just washed it; it's not dry yet!",
+     "idn": "Wanita: Baru saya cuci; belum kering!"
     }
    ]
   },
@@ -459,12 +529,14 @@
     {
      "zh": "男：聽說小明家附近的風景很漂亮，是嗎？",
      "py": "Nán: Tīngshuō Xiǎomíngjiā fùjìn de fēngjǐng hěnpiàoliang, shì ma?",
-     "en": "Man: I heard the scenery near Xiaoming's home is beautiful, right?"
+     "en": "Man: I heard the scenery near Xiaoming's home is beautiful, right?",
+     "idn": "Pria: Katanya pemandangan di dekat rumah Xiaoming indah, ya?"
     },
     {
      "zh": "女：是啊！但是那裡冬天的溫度很低，你去找他要穿暖一點。",
      "py": "Nǚ: Shì a! Dànshì nàlǐ dōngtiān de wēndù hěn dī, nǐ qù zhǎo tā yào chuān nuǎn yìdiǎn.",
-     "en": "Woman: Yes! But the temperature there is very low in winter; dress warmly when you go see him."
+     "en": "Woman: Yes! But the temperature there is very low in winter; dress warmly when you go see him.",
+     "idn": "Wanita: Ya! Tapi pada musim dingin suhu di sana sangat rendah; pakailah baju tebal kalau kamu menemuinya."
     }
    ]
   },
@@ -473,12 +545,14 @@
     {
      "zh": "女：你覺得認識臺灣最好的方法是什麼？",
      "py": "Nǚ: Nǐ juéde rènshi Táiwān zuìhǎo de fāngfǎ shì shénme?",
-     "en": "Woman: What do you think is the best way to get to know Taiwan?"
+     "en": "Woman: What do you think is the best way to get to know Taiwan?",
+     "idn": "Wanita: Menurutmu apa cara terbaik untuk mengenal Taiwan?"
     },
     {
      "zh": "男：看書、看電視介紹都不錯，但是最好的方法就是你自己去旅行。",
      "py": "Nán: Kànshū, kàndiànshì jièshào dōu búcuò, dànshì zuìhǎo de fāngfǎ jiùshì nǐ zìjǐ qù lǚxíng.",
-     "en": "Man: Reading books and watching TV introductions are both good, but the best way is to travel there yourself."
+     "en": "Man: Reading books and watching TV introductions are both good, but the best way is to travel there yourself.",
+     "idn": "Pria: Membaca buku dan menonton tayangan TV tentangnya sama-sama bagus, tetapi cara terbaik adalah berwisata sendiri ke sana."
     }
    ]
   },
@@ -487,12 +561,14 @@
     {
      "zh": "男：小美，你的新家怎麼樣？",
      "py": "Nán: Xiǎoměi, nǐ de xīnjiā zěnmeyàng?",
-     "en": "Man: Xiaomei, how's your new home?"
+     "en": "Man: Xiaomei, how's your new home?",
+     "idn": "Pria: Xiaomei, bagaimana rumah barumu?"
     },
     {
      "zh": "女：別說了，我搬到公寓去，結果樓上的小孩經常往下丟垃圾，環境非常髒。",
      "py": "Nǚ: Biéshuō le, wǒ bāndào gōngyù qù, jiéguǒ lóushàng de xiǎohái jīngcháng wǎng xià diū lājī, huánjìng fēicháng zàng.",
-     "en": "Woman: Don't ask. I moved into an apartment, and the kids upstairs often throw trash down; the surroundings are really dirty."
+     "en": "Woman: Don't ask. I moved into an apartment, and the kids upstairs often throw trash down; the surroundings are really dirty.",
+     "idn": "Wanita: Jangan ditanya. Saya pindah ke apartemen, dan anak-anak di lantai atas sering membuang sampah ke bawah; lingkungannya benar-benar kotor."
     }
    ]
   },
@@ -501,27 +577,32 @@
     {
      "zh": "男：我們等一下三點在書店門口前見面嗎？",
      "py": "Nán: Wǒmen děng yíxià sāndiǎn zài shūdiàn ménkǒu qián jiànmiàn ma?",
-     "en": "Man: Are we meeting in front of the bookstore entrance at three later?"
+     "en": "Man: Are we meeting in front of the bookstore entrance at three later?",
+     "idn": "Pria: Nanti pukul tiga kita bertemu di depan pintu toko buku?"
     },
     {
      "zh": "女：我覺得有一點晚，我們可以早半個小時嗎？",
      "py": "Nǚ: Wǒ juéde yǒu yìdiǎn wǎn, wǒmen kěyǐ zǎo bàn ge xiǎoshí ma?",
-     "en": "Woman: I think that's a bit late. Can we make it half an hour earlier?"
+     "en": "Woman: I think that's a bit late. Can we make it half an hour earlier?",
+     "idn": "Wanita: Menurut saya agak terlambat. Bisa dimajukan setengah jam?"
     },
     {
      "zh": "男：好啊，那一樣在書店門口前見嗎？",
      "py": "Nán: Hǎo a, nà yíyàng zài shūdiàn ménkǒu qián jiàn ma?",
-     "en": "Man: OK. Still meeting in front of the bookstore entrance?"
+     "en": "Man: OK. Still meeting in front of the bookstore entrance?",
+     "idn": "Pria: Boleh. Tetap bertemu di depan pintu toko buku?"
     },
     {
      "zh": "女：對，書店門口見！",
      "py": "Nǚ: Duì, shūdiàn ménkǒu jiàn!",
-     "en": "Woman: Yes, see you at the bookstore entrance!"
+     "en": "Woman: Yes, see you at the bookstore entrance!",
+     "idn": "Wanita: Ya, sampai jumpa di depan pintu toko buku!"
     },
     {
      "zh": "男：請問他們幾點見面？",
      "py": "Nán: Qǐngwèn tāmen jǐdiǎn jiànmiàn?",
-     "en": "Man: What time are they meeting?"
+     "en": "Man: What time are they meeting?",
+     "idn": "Pria: Mereka bertemu jam berapa?"
     }
    ]
   },
@@ -530,27 +611,32 @@
     {
      "zh": "男：請問妳要找什麼書？",
      "py": "Nán: Qǐngwèn nǐ yào zhǎo shénme shū?",
-     "en": "Man: What book are you looking for?"
+     "en": "Man: What book are you looking for?",
+     "idn": "Pria: Kamu sedang mencari buku apa?"
     },
     {
      "zh": "女：我正在找介紹日本風景的旅遊書。",
      "py": "Nǚ: Wǒ zhèngzài zhǎo jièshào Rìběn fēngjǐng de lǚyóu shū.",
-     "en": "Woman: I'm looking for a travel book introducing Japanese scenery."
+     "en": "Woman: I'm looking for a travel book introducing Japanese scenery.",
+     "idn": "Wanita: Saya mencari buku wisata yang memperkenalkan pemandangan Jepang."
     },
     {
      "zh": "男：妳看到上面號碼了嗎？如果妳要找日本的書，那在中間 2 號。",
      "py": "Nán: Nǐ kàndào shàngmiàn hàomǎ le ma? Rúguǒ nǐ yào zhǎo Rìběn de shū, nà zài zhōngjiān 2 hào.",
-     "en": "Man: Do you see the numbers up there? If you're looking for books on Japan, they're in the middle, number 2."
+     "en": "Man: Do you see the numbers up there? If you're looking for books on Japan, they're in the middle, number 2.",
+     "idn": "Pria: Kamu lihat nomor-nomor di atas itu? Kalau mencari buku tentang Jepang, ada di tengah, nomor 2."
     },
     {
      "zh": "女：謝謝。",
      "py": "Nǚ: Xièxiè.",
-     "en": "Woman: Thank you."
+     "en": "Woman: Thank you.",
+     "idn": "Wanita: Terima kasih."
     },
     {
      "zh": "男：請問介紹日本風景的書放在哪裡？",
      "py": "Nán: Qǐngwèn jièshào Rìběn fēngjǐng de shū fàngzài nǎlǐ?",
-     "en": "Man: Where are the books introducing Japanese scenery?"
+     "en": "Man: Where are the books introducing Japanese scenery?",
+     "idn": "Pria: Buku yang memperkenalkan pemandangan Jepang ada di mana?"
     }
    ]
   },
@@ -559,27 +645,32 @@
     {
      "zh": "男：來這家店的人真多。",
      "py": "Nán: Lái zhèjiā diàn de rén zhēnduō.",
-     "en": "Man: So many people come to this shop."
+     "en": "Man: So many people come to this shop.",
+     "idn": "Pria: Banyak sekali orang yang datang ke toko ini."
     },
     {
      "zh": "女：是啊！這家冰淇淋店有很多種味道的冰淇淋。",
      "py": "Nǚ: Shì a! Zhèjiā Bīngqílín diàn yǒu hěn duōzhǒng wèidào de Bīngqílín.",
-     "en": "Woman: Yes! This ice cream shop has many flavors of ice cream."
+     "en": "Woman: Yes! This ice cream shop has many flavors of ice cream.",
+     "idn": "Wanita: Ya! Toko es krim ini punya banyak rasa es krim."
     },
     {
      "zh": "男：我想吃巧克力和牛奶口味的，我們進去吃吧！",
      "py": "Nán: Wǒ xiǎng chī Qiǎokèlì hé niúnǎi kǒuwèi de, wǒmen jìnqù chī ba!",
-     "en": "Man: I want chocolate and milk flavors. Let's go in and eat!"
+     "en": "Man: I want chocolate and milk flavors. Let's go in and eat!",
+     "idn": "Pria: Saya mau rasa cokelat dan susu. Ayo masuk dan makan!"
     },
     {
      "zh": "女：好，我請客。",
      "py": "Nǚ: Hǎo, wǒ qǐngkè.",
-     "en": "Woman: OK, my treat."
+     "en": "Woman: OK, my treat.",
+     "idn": "Wanita: Baik, saya yang traktir."
     },
     {
      "zh": "男：請問他們等一下要做什麼？",
      "py": "Nán: Qǐngwèn tāmen děng yíxià yào zuò shénme?",
-     "en": "Man: What are they going to do in a moment?"
+     "en": "Man: What are they going to do in a moment?",
+     "idn": "Pria: Sebentar lagi mereka akan melakukan apa?"
     }
    ]
   },
@@ -588,27 +679,32 @@
     {
      "zh": "男：照片裡這些人是妳的家人嗎？你們在哪裡拍的？",
      "py": "Nán: Zhàopiān lǐ zhèxiē rén shì nǐ de jiārén ma? Nǐmen zài nǎlǐ pāi de?",
-     "en": "Man: Are these people in the photo your family? Where did you take it?"
+     "en": "Man: Are these people in the photo your family? Where did you take it?",
+     "idn": "Pria: Orang-orang di foto ini keluargamu? Di mana kamu memotretnya?"
     },
     {
      "zh": "女：是啊，這是我的爸爸媽媽。這張照片是在船上拍的。",
      "py": "Nǚ: Shì a, zhè shì wǒ de Bàbamāma. Zhè zhāng zhàopiān shì zài chuánshàng pāi de.",
-     "en": "Woman: Yes, these are my dad and mom. This photo was taken on a boat."
+     "en": "Woman: Yes, these are my dad and mom. This photo was taken on a boat.",
+     "idn": "Wanita: Ya, ini ayah dan ibu saya. Foto ini diambil di atas perahu."
     },
     {
      "zh": "男：這個戴帽子的人是誰？",
      "py": "Nán: Zhè ge Dàimàozi de rén shì shuí?",
-     "en": "Man: Who is this person wearing a hat?"
+     "en": "Man: Who is this person wearing a hat?",
+     "idn": "Pria: Siapa orang yang memakai topi ini?"
     },
     {
      "zh": "女：這是我爺爺。他已經七十歲了。",
      "py": "Nǚ: Zhè shì wǒ yéyé. Tā yǐjīng qīshísuì le.",
-     "en": "Woman: This is my grandpa. He's already seventy."
+     "en": "Woman: This is my grandpa. He's already seventy.",
+     "idn": "Wanita: Ini kakek saya. Dia sudah berumur tujuh puluh tahun."
     },
     {
      "zh": "男：請問他們說的是哪一張照片？",
      "py": "Nán: Qǐngwèn tāmen shuō de shì nǎ yìzhāng zhàopiān?",
-     "en": "Man: Which photo are they talking about?"
+     "en": "Man: Which photo are they talking about?",
+     "idn": "Pria: Foto mana yang sedang mereka bicarakan?"
     }
    ]
   },
@@ -617,27 +713,32 @@
     {
      "zh": "男：要不要喝點兒啤酒？",
      "py": "Nán: Yào búyào hē diǎnr píjiǔ?",
-     "en": "Man: Do you want some beer?"
+     "en": "Man: Do you want some beer?",
+     "idn": "Pria: Mau minum bir?"
     },
     {
      "zh": "女：不行，我等一下要開車。",
      "py": "Nǚ: Bùxíng, wǒ děng yíxià yào kāichē.",
-     "en": "Woman: No, I have to drive in a while."
+     "en": "Woman: No, I have to drive in a while.",
+     "idn": "Wanita: Tidak, sebentar lagi saya harus menyetir."
     },
     {
      "zh": "男：那，喝點兒汽水吧？",
      "py": "Nán: Nà, hē diǎnr qìshuǐ ba?",
-     "en": "Man: Then how about some soda?"
+     "en": "Man: Then how about some soda?",
+     "idn": "Pria: Kalau begitu minum soda saja?"
     },
     {
      "zh": "女：我還是喝茶好了。",
      "py": "Nǚ: Wǒ háishì hēchá hǎo le.",
-     "en": "Woman: I think I'll just have tea."
+     "en": "Woman: I think I'll just have tea.",
+     "idn": "Wanita: Saya minum teh saja."
     },
     {
      "zh": "男：請問這位小姐決定喝什麼？",
      "py": "Nán: Qǐngwèn zhèwèi Xiǎojiě juédìng hē shénme?",
-     "en": "Man: What did this young lady decide to drink?"
+     "en": "Man: What did this young lady decide to drink?",
+     "idn": "Pria: Wanita muda ini memutuskan minum apa?"
     }
    ]
   },
@@ -646,27 +747,32 @@
     {
      "zh": "男：妳的房間這麼亂，為什麼不整理？",
      "py": "Nán: Nǐ de fángjiān zhème luàn, wèishénme bù zhěnglǐ?",
-     "en": "Man: Your room is so messy. Why don't you tidy it?"
+     "en": "Man: Your room is so messy. Why don't you tidy it?",
+     "idn": "Pria: Kamarmu berantakan sekali. Kenapa tidak dirapikan?"
     },
     {
      "zh": "女：我本來上星期日要整理房間，但是我的經理要我去公司。",
      "py": "Nǚ: Wǒ běnlái shàng xīngqīrì yào zhěnglǐ fángjiān, dànshì wǒ de jīnglǐ yào wǒ qù gōngsī.",
-     "en": "Woman: I was going to tidy my room last Sunday, but my manager asked me to go to the office."
+     "en": "Woman: I was going to tidy my room last Sunday, but my manager asked me to go to the office.",
+     "idn": "Wanita: Hari Minggu lalu saya mau merapikan kamar, tetapi manajer menyuruh saya ke kantor."
     },
     {
      "zh": "男：那妳今天看了一個下午的書，為什麼不打掃？",
      "py": "Nán: Nà nǐ jīntiān kàn le yí ge xiàwǔ de shū, wèishénme bù dǎsǎo?",
-     "en": "Man: Then today you spent the whole afternoon reading—why didn't you clean?"
+     "en": "Man: Then today you spent the whole afternoon reading—why didn't you clean?",
+     "idn": "Pria: Lalu hari ini kamu membaca sepanjang sore—kenapa tidak bersih-bersih?"
     },
     {
      "zh": "女：好啦！我明天會整理。",
      "py": "Nǚ: Hǎo la! Wǒ míngtiān huì zhěnglǐ.",
-     "en": "Woman: All right! I'll tidy it tomorrow."
+     "en": "Woman: All right! I'll tidy it tomorrow.",
+     "idn": "Wanita: Baiklah! Besok saya rapikan."
     },
     {
      "zh": "男：請問這位小姐明天打算做什麼？",
      "py": "Nán: Qǐngwèn zhèwèi Xiǎojiě míngtiān dǎsuàn zuò shénme?",
-     "en": "Man: What is this young lady planning to do tomorrow?"
+     "en": "Man: What is this young lady planning to do tomorrow?",
+     "idn": "Pria: Apa yang direncanakan wanita muda ini besok?"
     }
    ]
   },
@@ -675,27 +781,32 @@
     {
      "zh": "男：這裡的天氣怎麼樣？",
      "py": "Nán: Zhèlǐ de tiānqì zěnmeyàng?",
-     "en": "Man: What's the weather like here?"
+     "en": "Man: What's the weather like here?",
+     "idn": "Pria: Bagaimana cuaca di sini?"
     },
     {
      "zh": "女：冬天太冷，夏天太熱。",
      "py": "Nǚ: Dōngtiān Tàilěng, xiàtiān tài rè.",
-     "en": "Woman: Winter is too cold and summer is too hot."
+     "en": "Woman: Winter is too cold and summer is too hot.",
+     "idn": "Wanita: Musim dingin terlalu dingin dan musim panas terlalu panas."
     },
     {
      "zh": "男：那麼春天呢？",
      "py": "Nán: Nàme chūntiān ne?",
-     "en": "Man: What about spring?"
+     "en": "Man: What about spring?",
+     "idn": "Pria: Bagaimana dengan musim semi?"
     },
     {
      "zh": "女：常常下雨。",
      "py": "Nǚ: Chángcháng xiàyǔ.",
-     "en": "Woman: It often rains."
+     "en": "Woman: It often rains.",
+     "idn": "Wanita: Sering hujan."
     },
     {
      "zh": "男：請問這裡的春天常常怎麼樣？",
      "py": "Nán: Qǐngwèn zhèlǐ de chūntiān chángcháng zěnmeyàng?",
-     "en": "Man: What is spring here often like?"
+     "en": "Man: What is spring here often like?",
+     "idn": "Pria: Bagaimana musim semi di sini biasanya?"
     }
    ]
   },
@@ -704,27 +815,32 @@
     {
      "zh": "男：我想找王先生。",
      "py": "Nán: Wǒ xiǎng zhǎo Wángxiānsheng.",
-     "en": "Man: I'm looking for Mr. Wang."
+     "en": "Man: I'm looking for Mr. Wang.",
+     "idn": "Pria: Saya mencari Tuan Wang."
     },
     {
      "zh": "女：請問您和他約好了嗎？",
      "py": "Nǚ: Qǐngwèn nín hé tā yuē hǎolema?",
-     "en": "Woman: Do you have an appointment with him?"
+     "en": "Woman: Do you have an appointment with him?",
+     "idn": "Wanita: Anda sudah membuat janji dengannya?"
     },
     {
      "zh": "男：沒有。是他要我來找他的。",
      "py": "Nán: Méiyǒu. Shì tā yào wǒ lái zhǎo tā de.",
-     "en": "Man: No. He asked me to come see him."
+     "en": "Man: No. He asked me to come see him.",
+     "idn": "Pria: Belum. Dia yang meminta saya datang menemuinya."
     },
     {
      "zh": "女：您先留下您的電話，我會請王先生打電話給您。",
      "py": "Nǚ: Nín xiān liúxià nín de diànhuà, wǒhuì qǐng Wángxiānsheng dǎdiànhuà gěi nín.",
-     "en": "Woman: Please leave your phone number first, and I'll have Mr. Wang call you."
+     "en": "Woman: Please leave your phone number first, and I'll have Mr. Wang call you.",
+     "idn": "Wanita: Silakan tinggalkan nomor telepon Anda dulu, nanti saya minta Tuan Wang menelepon Anda."
     },
     {
      "zh": "男：請問這位小姐要這位先生做什麼？",
      "py": "Nán: Qǐngwèn zhèwèi Xiǎojiě yào zhèwèi xiānsheng zuò shénme?",
-     "en": "Man: What does this young lady want this gentleman to do?"
+     "en": "Man: What does this young lady want this gentleman to do?",
+     "idn": "Pria: Apa yang diminta wanita muda ini kepada pria itu?"
     }
    ]
   },
@@ -733,27 +849,32 @@
     {
      "zh": "男：小春的生日快到了，我們一起送他禮物，怎麼樣？",
      "py": "Nán: Xiǎochūn de shēngrì kuài dào le, wǒmen yìqǐ sòng tā lǐwù, zěnmeyàng?",
-     "en": "Man: Xiaochun's birthday is coming. Let's give him a present together, how about it?"
+     "en": "Man: Xiaochun's birthday is coming. Let's give him a present together, how about it?",
+     "idn": "Pria: Ulang tahun Xiaochun sudah dekat. Bagaimana kalau kita memberinya hadiah bersama?"
     },
     {
      "zh": "女：好啊！他喜歡畫畫，我們可以送他畫畫用的筆。",
      "py": "Nǚ: Hǎo a! Tā xǐhuān huàhuà, wǒmen kěyǐ sòng tā huàhuà yòng de bǐ.",
-     "en": "Woman: Sure! He likes drawing; we can give him pens for drawing."
+     "en": "Woman: Sure! He likes drawing; we can give him pens for drawing.",
+     "idn": "Wanita: Boleh! Dia suka menggambar; kita bisa memberinya pena untuk menggambar."
     },
     {
      "zh": "男：嗯，還可以送他放筆的袋子。",
      "py": "Nán: ń, hái kěyǐ sòng tā fàngbǐ de dàizi.",
-     "en": "Man: Yes, and we can also give him a bag to keep the pens in."
+     "en": "Man: Yes, and we can also give him a bag to keep the pens in.",
+     "idn": "Pria: Ya, dan kita juga bisa memberinya tas untuk menyimpan pena."
     },
     {
      "zh": "女：好啊，今天下課以後我們一起去買禮物吧。",
      "py": "Nǚ: Hǎo a, jīntiān xiàkè yǐhòu wǒmen yìqǐ qù mǎi lǐwù ba.",
-     "en": "Woman: OK, let's go buy the present together after class today."
+     "en": "Woman: OK, let's go buy the present together after class today.",
+     "idn": "Wanita: Baik, hari ini sepulang kelas kita pergi membeli hadiahnya bersama."
     },
     {
      "zh": "男：請問他們決定送什麼？",
      "py": "Nán: Qǐngwèn tāmen juédìng sòng shénme?",
-     "en": "Man: What did they decide to give?"
+     "en": "Man: What did they decide to give?",
+     "idn": "Pria: Apa yang mereka putuskan untuk diberikan?"
     }
    ]
   },
@@ -762,27 +883,32 @@
     {
      "zh": "男：妳看電視新聞了嗎？有一個很可怕的消息。",
      "py": "Nán: Nǐ kàndiànshì xīnwén le ma? Yǒu yí ge hěn kěpà de xiāoxī.",
-     "en": "Man: Did you see the TV news? There was some terrible news."
+     "en": "Man: Did you see the TV news? There was some terrible news.",
+     "idn": "Pria: Kamu sudah menonton berita TV? Ada berita yang mengerikan."
     },
     {
      "zh": "女：什麼可怕的消息？",
      "py": "Nǚ: Shénme kěpà de xiāoxī?",
-     "en": "Woman: What terrible news?"
+     "en": "Woman: What terrible news?",
+     "idn": "Wanita: Berita mengerikan apa?"
     },
     {
      "zh": "男：妳快點開電視，我剛剛才看到的。",
      "py": "Nán: Nǐ kuàidiǎn kāi diànshì, wǒ gānggāng cái kàndào de.",
-     "en": "Man: Turn on the TV quickly; I just saw it."
+     "en": "Man: Turn on the TV quickly; I just saw it.",
+     "idn": "Pria: Cepat nyalakan TV; saya baru saja melihatnya."
     },
     {
      "zh": "女：我上網看過新聞了，可是沒看到什麼可怕的消息。",
      "py": "Nǚ: Wǒ shàngwǎng kànguò xīnwén le, kěshì méi kàndào shénme kěpà de xiāoxī.",
-     "en": "Woman: I've read the news online, but I didn't see any terrible news."
+     "en": "Woman: I've read the news online, but I didn't see any terrible news.",
+     "idn": "Wanita: Saya sudah membaca berita di internet, tetapi tidak melihat berita mengerikan apa pun."
     },
     {
      "zh": "男：請問這位先生從哪裡知道可怕的消息？",
      "py": "Nán: Qǐngwèn zhèwèi xiānsheng cóng nǎlǐ zhīdào kěpà de xiāoxī?",
-     "en": "Man: Where did this gentleman learn about the terrible news?"
+     "en": "Man: Where did this gentleman learn about the terrible news?",
+     "idn": "Pria: Dari mana pria ini mengetahui berita mengerikan itu?"
     }
    ]
   },
@@ -791,27 +917,32 @@
     {
      "zh": "男：妳想吃什麼?",
      "py": "Nán: Nǐ xiǎng chī shénme?",
-     "en": "Man: What would you like to eat?"
+     "en": "Man: What would you like to eat?",
+     "idn": "Pria: Kamu mau makan apa?"
     },
     {
      "zh": "女：聽說這裡的北京烤鴨很好吃。",
      "py": "Nǚ: Tīngshuō zhèlǐ de běijīngkǎoyā hěn hǎochī.",
-     "en": "Woman: I heard the Peking duck here is very good."
+     "en": "Woman: I heard the Peking duck here is very good.",
+     "idn": "Wanita: Katanya bebek Peking di sini enak sekali."
     },
     {
      "zh": "男：我們點一隻烤鴨，一碗酸辣湯，怎麼樣？",
      "py": "Nán: Wǒmen diǎn yìzhī kǎoyā, yìwǎn Suānlàtāng, zěnmeyàng?",
-     "en": "Man: Let's order a roast duck and a bowl of hot and sour soup, how about that?"
+     "en": "Man: Let's order a roast duck and a bowl of hot and sour soup, how about that?",
+     "idn": "Pria: Kita pesan satu bebek panggang dan semangkuk sup asam pedas, bagaimana?"
     },
     {
      "zh": "女：再點一個糖醋魚吧！",
      "py": "Nǚ: Zàidiǎn yí ge tángcùyú ba!",
-     "en": "Woman: Let's also order a sweet and sour fish!"
+     "en": "Woman: Let's also order a sweet and sour fish!",
+     "idn": "Wanita: Pesan juga satu ikan asam manis!"
     },
     {
      "zh": "男：請問他們應該在什麼地方？",
      "py": "Nán: Qǐngwèn tāmen yīnggāi zài shénme dìfāng?",
-     "en": "Man: Where should they be?"
+     "en": "Man: Where should they be?",
+     "idn": "Pria: Mereka seharusnya berada di mana?"
     }
    ]
   },
@@ -820,27 +951,32 @@
     {
      "zh": "男：已經很晚了，妳怎麼還在這裡？",
      "py": "Nán: Yǐjīng hěn wǎn le, nǐ zěnme hái zài zhèlǐ?",
-     "en": "Man: It's already very late. Why are you still here?"
+     "en": "Man: It's already very late. Why are you still here?",
+     "idn": "Pria: Sudah larut sekali. Kenapa kamu masih di sini?"
     },
     {
      "zh": "女：經理說明天要和他一起討論，我今天一定要準備好。",
      "py": "Nǚ: Jīnglǐ shuō míngtiān yào hé tā yìqǐ tǎolùn, wǒ jīntiān yídìng yào zhǔnbèi hǎo.",
-     "en": "Woman: The manager said he wants to discuss things with me tomorrow; I have to get everything ready today."
+     "en": "Woman: The manager said he wants to discuss things with me tomorrow; I have to get everything ready today.",
+     "idn": "Wanita: Manajer bilang besok ingin membicarakan beberapa hal dengan saya; hari ini saya harus menyiapkan semuanya."
     },
     {
      "zh": "男：我不放心妳一個人回家，還是等會兒我開車送妳回去。",
      "py": "Nán: Wǒ bú fàngxīn nǐ yí ge rén huíjiā, háishì děnghuìr wǒ kāichē sòng nǐ huíqù.",
-     "en": "Man: I don't feel comfortable with you going home alone; I'll drive you back in a bit."
+     "en": "Man: I don't feel comfortable with you going home alone; I'll drive you back in a bit.",
+     "idn": "Pria: Saya tidak tenang kamu pulang sendirian; sebentar lagi saya antar kamu pulang naik mobil."
     },
     {
      "zh": "女：謝謝你！但是我今天晚上打算睡在公司裡。",
      "py": "Nǚ: Xièxiè nǐ! Dànshì wǒ jīntiān wǎnshàng dǎsuàn shuì zài gōngsī lǐ.",
-     "en": "Woman: Thank you! But I'm planning to sleep at the office tonight."
+     "en": "Woman: Thank you! But I'm planning to sleep at the office tonight.",
+     "idn": "Wanita: Terima kasih! Tapi malam ini saya berencana tidur di kantor."
     },
     {
      "zh": "男：請問這位小姐今天晚上打算做什麼？",
      "py": "Nán: Qǐngwèn zhèwèi Xiǎojiě jīntiān wǎnshàng dǎsuàn zuò shénme?",
-     "en": "Man: What is this young lady planning to do tonight?"
+     "en": "Man: What is this young lady planning to do tonight?",
+     "idn": "Pria: Apa yang direncanakan wanita muda ini malam ini?"
     }
    ]
   },
@@ -849,49 +985,58 @@
     "A": {
      "zh": "因為他想睡覺",
      "py": "Yīnwèi tā xiǎng shuìjiào",
-     "en": "Because he wants to sleep"
+     "en": "Because he wants to sleep",
+     "idn": "Karena dia ingin tidur"
     },
     "B": {
      "zh": "因為他想運動",
      "py": "Yīnwèi tā xiǎng yùndòng",
-     "en": "Because he wants to exercise"
+     "en": "Because he wants to exercise",
+     "idn": "Karena dia ingin berolahraga"
     },
     "C": {
      "zh": "因為他不想上班",
      "py": "Yīnwèi tā bùxiǎng shàngbān",
-     "en": "Because he doesn't want to work"
+     "en": "Because he doesn't want to work",
+     "idn": "Karena dia tidak ingin bekerja"
     },
     "D": {
      "zh": "因為他起不了床",
      "py": "Yīnwèi tā qǐ bùliǎo chuáng",
-     "en": "Because he can't get out of bed"
+     "en": "Because he can't get out of bed",
+     "idn": "Karena dia tidak bisa bangun dari tempat tidur"
     }
    },
    "transcript": [
     {
      "zh": "男：我昨天運動了一整天。",
      "py": "Nán: Wǒ zuótiān yùndòng le yìzhěngtiān.",
-     "en": "Man: I exercised the whole day yesterday."
+     "en": "Man: I exercised the whole day yesterday.",
+     "idn": "Pria: Kemarin saya berolahraga seharian."
     },
     {
      "zh": "女：你看你，累到說不了話了？",
      "py": "Nǚ: Nǐ kàn nǐ, lèidào shuō bùliǎo huà le?",
-     "en": "Woman: Look at you—so tired you can't even talk?"
+     "en": "Woman: Look at you—so tired you can't even talk?",
+     "idn": "Wanita: Lihat dirimu—capek sampai tidak bisa bicara?"
     },
     {
      "zh": "男：喔，不是因為運動，是因為我早上五點就起床了，所以想睡覺。",
      "py": "Nán: Ō, búshì yīnwèi yùndòng, shìyīnwèi wǒ zǎoshàng wǔdiǎn jiù qǐchuáng le, suǒyǐ xiǎng shuìjiào.",
-     "en": "Man: Oh, it's not because of exercise; it's because I got up at five this morning, so I want to sleep."
+     "en": "Man: Oh, it's not because of exercise; it's because I got up at five this morning, so I want to sleep.",
+     "idn": "Pria: Oh, bukan karena olahraga; karena pagi ini saya bangun pukul lima, jadi saya ingin tidur."
     },
     {
      "zh": "女：你這樣沒辦法上班，我幫你請假，你快回去睡吧！",
      "py": "Nǚ: Nǐ zhèyàng méi bànfǎ shàngbān, wǒ bāng nǐ qǐngjià, nǐ kuàihuíqù shuì ba!",
-     "en": "Woman: You can't work like this. I'll ask for leave for you—go back and sleep!"
+     "en": "Woman: You can't work like this. I'll ask for leave for you—go back and sleep!",
+     "idn": "Wanita: Kamu tidak bisa bekerja dalam keadaan begini. Saya mintakan izin untukmu—pulanglah dan tidur!"
     },
     {
      "zh": "男：請問這位小姐為什麼要幫這位先生請假？",
      "py": "Nán: Qǐngwèn zhèwèi Xiǎojiě wèishénme yào bāng zhèwèi xiānsheng qǐngjià?",
-     "en": "Man: Why does this young lady want to ask for leave for this gentleman?"
+     "en": "Man: Why does this young lady want to ask for leave for this gentleman?",
+     "idn": "Pria: Mengapa wanita muda ini ingin memintakan izin untuk pria itu?"
     }
    ]
   },
@@ -900,49 +1045,58 @@
     "A": {
      "zh": "她旅行時不小心掉了東西",
      "py": "Tā lǚxíng shí bù xiǎoxīn diào le Dōngxi",
-     "en": "She accidentally lost something while traveling."
+     "en": "She accidentally lost something while traveling.",
+     "idn": "Dia tidak sengaja kehilangan barang saat berwisata."
     },
     "B": {
      "zh": "她旅行時有些想去的地方沒去",
      "py": "Tā lǚxíng shí yǒuxiē xiǎngqù de dìfāng méi qù",
-     "en": "There were some places she wanted to go but didn't on her trip."
+     "en": "There were some places she wanted to go but didn't on her trip.",
+     "idn": "Ada beberapa tempat yang ingin dia kunjungi tetapi tidak sempat saat berwisata."
     },
     "C": {
      "zh": "她覺得旅行時最麻煩的是交通",
      "py": "Tā juéde lǚxíng shí zuì máfán de shì jiāotōng",
-     "en": "She feels transportation is the most troublesome part of traveling."
+     "en": "She feels transportation is the most troublesome part of traveling.",
+     "idn": "Dia merasa transportasi adalah hal paling merepotkan saat berwisata."
     },
     "D": {
      "zh": "她覺得旅行最重要的是風景漂亮",
      "py": "Tā juéde lǚxíng zuì zhòngyào de shì fēngjǐng piàoliang",
-     "en": "She feels the most important thing about traveling is beautiful scenery."
+     "en": "She feels the most important thing about traveling is beautiful scenery.",
+     "idn": "Dia merasa hal terpenting dalam berwisata adalah pemandangan yang indah."
     }
    },
    "transcript": [
     {
      "zh": "男：妳上個禮拜的旅行怎麼樣？",
      "py": "Nán: Nǐ shàng gè Lǐbài de lǚxíng zěnmeyàng?",
-     "en": "Man: How was your trip last week?"
+     "en": "Man: How was your trip last week?",
+     "idn": "Pria: Bagaimana perjalananmu minggu lalu?"
     },
     {
      "zh": "女：還不錯。交通方便、風景漂亮，我想去的地方都去了。",
      "py": "Nǚ: Hái búcuò. Jiāotōng fāngbiàn, fēngjǐng piàoliang, wǒ xiǎngqù de dìfāng dōu qù le.",
-     "en": "Woman: Pretty good. Transportation was convenient, the scenery was beautiful, and I went everywhere I wanted to."
+     "en": "Woman: Pretty good. Transportation was convenient, the scenery was beautiful, and I went everywhere I wanted to.",
+     "idn": "Wanita: Lumayan bagus. Transportasinya praktis, pemandangannya indah, dan semua tempat yang ingin saya kunjungi sudah saya datangi."
     },
     {
      "zh": "男：那真是個開心的旅行。",
      "py": "Nán: Nà zhēnshì gè kāixīn de lǚxíng.",
-     "en": "Man: That really was a happy trip."
+     "en": "Man: That really was a happy trip.",
+     "idn": "Pria: Benar-benar perjalanan yang menyenangkan."
     },
     {
      "zh": "女：嗯，雖然每件事都不錯，但是我回國的時候，把錢包掉在旅館了。",
      "py": "Nǚ: ń, suīrán měijiànshì dōu búcuò, dànshì wǒ Huíguó de shíhòu, bǎ qiánbāo diào zài lǚguǎn le.",
-     "en": "Woman: Yes. Although everything was good, when I was returning home I lost my wallet at the hotel."
+     "en": "Woman: Yes. Although everything was good, when I was returning home I lost my wallet at the hotel.",
+     "idn": "Wanita: Ya. Meskipun semuanya bagus, waktu mau pulang saya kehilangan dompet di hotel."
     },
     {
      "zh": "男：關於這位小姐，下面哪一個是對的？",
      "py": "Nán: Guānyú zhèwèi Xiǎojiě, xiàmiàn nǎ yí ge shì duì de?",
-     "en": "Man: Regarding this young lady, which of the following is correct?"
+     "en": "Man: Regarding this young lady, which of the following is correct?",
+     "idn": "Pria: Mengenai wanita muda ini, manakah pernyataan berikut yang benar?"
     }
    ]
   },
@@ -951,49 +1105,58 @@
     "A": {
      "zh": "她怕考得不好",
      "py": "Tā pà kǎo de bùhǎo",
-     "en": "She's afraid she did badly on the exam."
+     "en": "She's afraid she did badly on the exam.",
+     "idn": "Dia takut nilai ujiannya jelek."
     },
     "B": {
      "zh": "她的成績不好",
      "py": "Tā de chéngjì bùhǎo",
-     "en": "Her grades are bad."
+     "en": "Her grades are bad.",
+     "idn": "Nilainya buruk."
     },
     "C": {
      "zh": "她沒參加考試",
      "py": "Tā méi cānjiākǎoshì",
-     "en": "She didn't take the exam."
+     "en": "She didn't take the exam.",
+     "idn": "Dia tidak mengikuti ujian."
     },
     "D": {
      "zh": "她怕題目寫不完",
      "py": "Tā pà tímù xiě bù wán",
-     "en": "She's afraid she can't finish the questions."
+     "en": "She's afraid she can't finish the questions.",
+     "idn": "Dia takut tidak bisa menyelesaikan soal."
     }
    },
    "transcript": [
     {
      "zh": "男：妳怎麼了？好像不太開心的樣子。",
      "py": "Nán: Nǐ zěnme le? Hǎoxiàng bú tài kāixīn de yàngzi.",
-     "en": "Man: What's wrong? You don't seem very happy."
+     "en": "Man: What's wrong? You don't seem very happy.",
+     "idn": "Pria: Kenapa? Kamu kelihatan kurang senang."
     },
     {
      "zh": "女：我沒事，我每次考試的時候就會這樣。",
      "py": "Nǚ: Wǒ méishì, wǒ měicì kǎoshì de shíhòu jiù huì zhèyàng.",
-     "en": "Woman: I'm fine. I'm always like this when I have an exam."
+     "en": "Woman: I'm fine. I'm always like this when I have an exam.",
+     "idn": "Wanita: Saya tidak apa-apa. Setiap kali ujian saya selalu begini."
     },
     {
      "zh": "男：可是昨天不是已經考完了嗎？",
      "py": "Nán: Kěshì zuótiān búshì yǐjīng kǎowán le ma?",
-     "en": "Man: But didn't you already finish the exam yesterday?"
+     "en": "Man: But didn't you already finish the exam yesterday?",
+     "idn": "Pria: Tapi bukankah ujianmu sudah selesai kemarin?"
     },
     {
      "zh": "女：是啊，可是我很擔心沒考好。",
      "py": "Nǚ: Shì a, kěshì wǒ hěn dānxīn méikǎo hǎo.",
-     "en": "Woman: Yes, but I'm worried I didn't do well."
+     "en": "Woman: Yes, but I'm worried I didn't do well.",
+     "idn": "Wanita: Ya, tapi saya khawatir hasilnya kurang bagus."
     },
     {
      "zh": "男：這位小姐為什麼不開心？",
      "py": "Nán: Zhèwèi Xiǎojiě wèishénme bù kāixīn?",
-     "en": "Man: Why is this young lady unhappy?"
+     "en": "Man: Why is this young lady unhappy?",
+     "idn": "Pria: Mengapa wanita muda ini tidak senang?"
     }
    ]
   },
@@ -1002,54 +1165,64 @@
     "A": {
      "zh": "想請他搬家",
      "py": "Xiǎng qǐng tā bānjiā",
-     "en": "She wants to ask him to move."
+     "en": "She wants to ask him to move.",
+     "idn": "Dia ingin memintanya pindah."
     },
     "B": {
      "zh": "想請他吃飯",
      "py": "Xiǎng qǐng tā chīfàn",
-     "en": "She wants to invite him to dinner."
+     "en": "She wants to invite him to dinner.",
+     "idn": "Dia ingin mengundangnya makan malam."
     },
     "C": {
      "zh": "介紹女朋友給他",
      "py": "Jièshào nǚpéngyǒu gěi tā",
-     "en": "To introduce a girlfriend to him"
+     "en": "To introduce a girlfriend to him",
+     "idn": "Ingin mengenalkan seorang pacar kepadanya"
     },
     "D": {
      "zh": "請他注意聲音的大小",
      "py": "Qǐng tā zhùyì shēngyīn de dàxiǎo",
-     "en": "To ask him to watch how loud he is"
+     "en": "To ask him to watch how loud he is",
+     "idn": "Ingin memintanya menjaga volume suaranya"
     }
    },
    "transcript": [
     {
      "zh": "女：王先生嗎？您好，我是住在您家樓下的陳太太。",
      "py": "Nǚ: Wángxiānsheng ma? Nínhǎo, wǒ shì zhù zài nín jiā lóuxià de Chéntàitai.",
-     "en": "Woman: Mr. Wang? Hello, I'm Mrs. Chen, who lives downstairs from you."
+     "en": "Woman: Mr. Wang? Hello, I'm Mrs. Chen, who lives downstairs from you.",
+     "idn": "Wanita: Tuan Wang? Halo, saya Nyonya Chen yang tinggal di lantai bawah Anda."
     },
     {
      "zh": "男：請問有什麼事嗎？",
      "py": "Nán: Qǐngwèn yǒu shénme shì ma?",
-     "en": "Man: What can I do for you?"
+     "en": "Man: What can I do for you?",
+     "idn": "Pria: Ada yang bisa saya bantu?"
     },
     {
      "zh": "女：我總是聽到您走路的聲音，有時還聽到您與女朋友大聲地講話。我找您好",
      "py": "Nǚ: Wǒ zǒngshì tīngdào nín zǒulù de shēngyīn, yǒushí hái tīngdào nín yǔ nǚpéngyǒu dàshēng de jiǎnghuà. Wǒ zhǎo nínhǎo",
-     "en": "Woman: I always hear the sound of you walking, and sometimes I hear you talking loudly with your girlfriend. I've come looking for you"
+     "en": "Woman: I always hear the sound of you walking, and sometimes I hear you talking loudly with your girlfriend. I've come looking for you",
+     "idn": "Wanita: Saya selalu mendengar suara langkah Anda, dan kadang mendengar Anda berbicara keras dengan pacar Anda. Saya sudah mencari Anda"
     },
     {
      "zh": "幾次了，可是您都不在家。",
      "py": "Jǐcì le, kěshì nín dōu bú zàijiā.",
-     "en": "(continued) several times, but you're never home."
+     "en": "(continued) several times, but you're never home.",
+     "idn": "(lanjutan) beberapa kali, tetapi Anda tidak pernah ada di rumah."
     },
     {
      "zh": "男：啊！不好意思，不好意思，我會注意的。",
      "py": "Nán: A! Bùhǎoyìsī, bùhǎoyìsī, wǒhuì zhùyì de.",
-     "en": "Man: Oh! Sorry, sorry, I'll be careful."
+     "en": "Man: Oh! Sorry, sorry, I'll be careful.",
+     "idn": "Pria: Oh! Maaf, maaf, saya akan lebih hati-hati."
     },
     {
      "zh": "女：陳太太為什麼找王先生？",
      "py": "Nǚ: Chéntàitai wèishénme zhǎo Wángxiānsheng?",
-     "en": "Woman: Why did Mrs. Chen look for Mr. Wang?"
+     "en": "Woman: Why did Mrs. Chen look for Mr. Wang?",
+     "idn": "Wanita: Mengapa Nyonya Chen mencari Tuan Wang?"
     }
    ]
   },
@@ -1058,49 +1231,58 @@
     "A": {
      "zh": "她習慣在不同的時間睡覺",
      "py": "Tā xíguàn zài bùtóng de shíjiān shuìjiào",
-     "en": "She's used to sleeping at different times."
+     "en": "She's used to sleeping at different times.",
+     "idn": "Dia sudah terbiasa tidur pada jam yang berbeda-beda."
     },
     "B": {
      "zh": "她每天都是這個時間起床",
      "py": "Tā měitiān dōu shì zhè ge shíjiān qǐchuáng",
-     "en": "She gets up at this time every day."
+     "en": "She gets up at this time every day.",
+     "idn": "Setiap hari dia bangun pada jam ini."
     },
     "C": {
      "zh": "她認為睡覺對健康有影響",
      "py": "Tā rènwéi shuìjiào duì jiànkāng yǒu yǐngxiǎng",
-     "en": "She thinks sleep affects health."
+     "en": "She thinks sleep affects health.",
+     "idn": "Dia merasa tidur memengaruhi kesehatan."
     },
     "D": {
      "zh": "她不覺得自己很晚才睡覺",
      "py": "Tā bù juéde zìjǐ hěn wǎncái shuìjiào",
-     "en": "She doesn't feel she went to bed very late."
+     "en": "She doesn't feel she went to bed very late.",
+     "idn": "Dia tidak merasa tidurnya terlalu larut."
     }
    },
    "transcript": [
     {
      "zh": "男：妳昨天怎麼那麼晚才睡？",
      "py": "Nán: Nǐ zuótiān zěnme nàme wǎncái shuì?",
-     "en": "Man: Why did you go to bed so late yesterday?"
+     "en": "Man: Why did you go to bed so late yesterday?",
+     "idn": "Pria: Kenapa kemarin kamu tidur selarut itu?"
     },
     {
      "zh": "女：我昨天十二點多睡的，我不覺得晚啊！",
      "py": "Nǚ: Wǒ zuótiān shí'èrdiǎn duō shuì de, wǒ bù juéde wǎn a!",
-     "en": "Woman: I went to bed after twelve yesterday; I don't think that's late!"
+     "en": "Woman: I went to bed after twelve yesterday; I don't think that's late!",
+     "idn": "Wanita: Kemarin saya tidur lewat pukul dua belas; menurut saya itu tidak larut!"
     },
     {
      "zh": "男：都半夜了，還不晚？這麼晚才睡覺對身體很不好。",
      "py": "Nán: Dōu bànyè le, hái bù wǎn? Zhèmewǎn cái shuìjiào duì shēntǐ hěn bùhǎo.",
-     "en": "Man: It's already midnight and that's not late? Going to bed this late is very bad for your health."
+     "en": "Man: It's already midnight and that's not late? Going to bed this late is very bad for your health.",
+     "idn": "Pria: Sudah tengah malam masih tidak larut? Tidur selarut ini sangat buruk bagi kesehatan."
     },
     {
      "zh": "女：還好吧？我一直都是這個時間睡覺，也沒生什麼病。",
      "py": "Nǚ: Háihǎo ba? Wǒ yìzhí dōu shì zhè ge shíjiān shuìjiào, yě méishēng shénme bìng.",
-     "en": "Woman: Is it? I always go to bed at this time, and I haven't gotten sick."
+     "en": "Woman: Is it? I always go to bed at this time, and I haven't gotten sick.",
+     "idn": "Wanita: Masa? Saya selalu tidur pada jam ini, dan saya tidak pernah sakit."
     },
     {
      "zh": "女：請問這位小姐的意思是什麼？",
      "py": "Nǚ: Qǐngwèn zhèwèi Xiǎojiě de yìsi shì shénme?",
-     "en": "Woman: What does this young lady mean?"
+     "en": "Woman: What does this young lady mean?",
+     "idn": "Wanita: Apa maksud wanita muda ini?"
     }
    ]
   },
@@ -1109,49 +1291,58 @@
     "A": {
      "zh": "他剛從海邊回來",
      "py": "Tā gāng cóng hǎibiān huílái",
-     "en": "He just came back from the beach."
+     "en": "He just came back from the beach.",
+     "idn": "Dia baru kembali dari pantai."
     },
     "B": {
      "zh": "他喜歡夏天去海邊玩",
      "py": "Tā xǐhuān xiàtiān qù hǎibiān wán",
-     "en": "He likes going to the beach in summer."
+     "en": "He likes going to the beach in summer.",
+     "idn": "Dia suka pergi ke pantai pada musim panas."
     },
     "C": {
      "zh": "他給這位小姐買了褲子",
      "py": "Tā gěi zhèwèi Xiǎojiě mǎi le kùzi",
-     "en": "He bought pants for this young lady."
+     "en": "He bought pants for this young lady.",
+     "idn": "Dia membelikan celana untuk wanita muda ini."
     },
     "D": {
      "zh": "他約了這位小姐明天去運動",
      "py": "Tā yuē le zhèwèi Xiǎojiě míngtiān qù yùndòng",
-     "en": "He has arranged to exercise with this young lady tomorrow."
+     "en": "He has arranged to exercise with this young lady tomorrow.",
+     "idn": "Dia sudah berjanji berolahraga bersama wanita muda ini besok."
     }
    },
    "transcript": [
     {
      "zh": "男：夏天到了，我們明天去海邊吧！",
      "py": "Nán: Xiàtiān dào le, wǒmen míngtiān qù hǎibiān ba!",
-     "en": "Man: Summer's here—let's go to the beach tomorrow!"
+     "en": "Man: Summer's here—let's go to the beach tomorrow!",
+     "idn": "Pria: Musim panas sudah tiba—besok kita ke pantai, yuk!"
     },
     {
      "zh": "女：好啊！你覺得我應該穿短裙好呢？還是短褲好呢？",
      "py": "Nǚ: Hǎo a! Nǐ juéde wǒ yīnggāi chuān duǎnqún hǎo ne? Háishì duǎnkù hǎo ne?",
-     "en": "Woman: OK! Do you think I should wear a short skirt or shorts?"
+     "en": "Woman: OK! Do you think I should wear a short skirt or shorts?",
+     "idn": "Wanita: Ayo! Menurutmu saya sebaiknya memakai rok pendek atau celana pendek?"
     },
     {
      "zh": "男：我覺得妳應該穿短褲，因為我們要在沙灘上打球。",
      "py": "Nán: Wǒ juéde nǐ yīnggāi chuān duǎnkù, yīnwèi wǒmen yào zài Shātān shàng dǎqiú.",
-     "en": "Man: I think you should wear shorts, because we're going to play ball on the beach."
+     "en": "Man: I think you should wear shorts, because we're going to play ball on the beach.",
+     "idn": "Pria: Menurut saya pakai celana pendek saja, karena kita akan bermain bola di pantai."
     },
     {
      "zh": "女：好啊，明天見。",
      "py": "Nǚ: Hǎo a, míngtiān jiàn.",
-     "en": "Woman: OK, see you tomorrow."
+     "en": "Woman: OK, see you tomorrow.",
+     "idn": "Wanita: Baik, sampai besok."
     },
     {
      "zh": "女：請問這位先生說了什麼？",
      "py": "Nǚ: Qǐngwèn zhèwèi xiānsheng shuō le shénme?",
-     "en": "Woman: What did this gentleman say?"
+     "en": "Woman: What did this gentleman say?",
+     "idn": "Wanita: Apa yang dikatakan pria ini?"
     }
    ]
   },
@@ -1160,49 +1351,58 @@
     "A": {
      "zh": "她不想請這位先生吃蛋糕",
      "py": "Tā bùxiǎng qǐng zhèwèi xiānsheng chī dàngāo",
-     "en": "She doesn't want to treat this gentleman to cake."
+     "en": "She doesn't want to treat this gentleman to cake.",
+     "idn": "Dia tidak ingin mentraktir pria ini kue."
     },
     "B": {
      "zh": "她想幫這位先生慶祝生日",
      "py": "Tā xiǎng bāng zhèwèi xiānsheng qìngzhù shēngrì",
-     "en": "She wants to help this gentleman celebrate his birthday."
+     "en": "She wants to help this gentleman celebrate his birthday.",
+     "idn": "Dia ingin membantu pria ini merayakan ulang tahunnya."
     },
     "C": {
      "zh": "她要朋友來參加舞會就好",
      "py": "Tā yào péngyǒu lái cānjiā wǔhuì jiù hǎo",
-     "en": "She only needs her friends to come to the party."
+     "en": "She only needs her friends to come to the party.",
+     "idn": "Dia hanya butuh teman-temannya datang ke pesta."
     },
     "D": {
      "zh": "她想要大家一起唱生日歌",
      "py": "Tā xiǎngyào dàjiā yìqǐ chàng shēngrìgē",
-     "en": "She wants everyone to sing \"Happy Birthday\" together."
+     "en": "She wants everyone to sing \"Happy Birthday\" together.",
+     "idn": "Dia ingin semua orang menyanyikan \"Selamat Ulang Tahun\" bersama."
     }
    },
    "transcript": [
     {
      "zh": "男：為了妳的生日，我想請妳吃蛋糕。",
      "py": "Nán: Wèile nǐ de shēngrì, wǒ xiǎng qǐng nǐ chī dàngāo.",
-     "en": "Man: For your birthday, I'd like to treat you to cake."
+     "en": "Man: For your birthday, I'd like to treat you to cake.",
+     "idn": "Pria: Untuk ulang tahunmu, saya ingin mentraktirmu kue."
     },
     {
      "zh": "女：你人來我就很開心了，蛋糕，我來準備就好了。",
      "py": "Nǚ: Nǐ rén lái wǒ jiù hěn kāixīn le, dàngāo, wǒ lái zhǔnbèi jiù hǎo le.",
-     "en": "Woman: Just you coming makes me very happy; I'll take care of the cake."
+     "en": "Woman: Just you coming makes me very happy; I'll take care of the cake.",
+     "idn": "Wanita: Kamu datang saja saya sudah sangat senang; kuenya biar saya yang urus."
     },
     {
      "zh": "男：這是為了感謝妳請我參加明天的生日舞會，或是妳有更想要的禮物嗎？",
      "py": "Nán: Zhè shì wèile gǎnxiè nǐ qǐng wǒ cānjiā míngtiān de shēngrìwǔhuì, huòshì nǐyǒu gèng xiǎngyào de lǐwù ma?",
-     "en": "Man: This is to thank you for inviting me to tomorrow's birthday party—or is there a present you'd like more?"
+     "en": "Man: This is to thank you for inviting me to tomorrow's birthday party—or is there a present you'd like more?",
+     "idn": "Pria: Ini sebagai tanda terima kasih karena kamu mengundang saya ke pesta ulang tahun besok—atau ada hadiah yang lebih kamu inginkan?"
     },
     {
      "zh": "女：你太客氣了。吃蛋糕和收禮物都不是最重要的事。",
      "py": "Nǚ: Nǐ tài kèqì le. Chī dàngāo hé shōu lǐwù dōu búshì zuì zhòngyào de shì.",
-     "en": "Woman: You're too kind. Eating cake and receiving presents aren't the most important things."
+     "en": "Woman: You're too kind. Eating cake and receiving presents aren't the most important things.",
+     "idn": "Wanita: Kamu terlalu baik. Makan kue dan menerima hadiah bukanlah hal yang paling penting."
     },
     {
      "zh": "女：請問這位小姐的意思是什麼？",
      "py": "Nǚ: Qǐngwèn zhèwèi Xiǎojiě de yìsi shì shénme?",
-     "en": "Woman: What does this young lady mean?"
+     "en": "Woman: What does this young lady mean?",
+     "idn": "Wanita: Apa maksud wanita muda ini?"
     }
    ]
   },
@@ -1211,49 +1411,58 @@
     "A": {
      "zh": "她想拿商店送的東西",
      "py": "Tā xiǎng ná shāngdiàn sòng de Dōngxi",
-     "en": "She wants to get the free things the store gives out."
+     "en": "She wants to get the free things the store gives out.",
+     "idn": "Dia ingin mendapatkan barang gratis yang dibagikan toko."
     },
     "B": {
      "zh": "她最近很想花錢買東西",
      "py": "Tā zuìjìn hěn xiǎng Huāqiánmǎi Dōngxi",
-     "en": "She really wants to spend money shopping lately."
+     "en": "She really wants to spend money shopping lately.",
+     "idn": "Belakangan dia sangat ingin menghabiskan uang untuk berbelanja."
     },
     "C": {
      "zh": "她想要這位先生送她禮物",
      "py": "Tā xiǎngyào zhèwèi xiānsheng sòng tā lǐwù",
-     "en": "She wants this gentleman to give her a present."
+     "en": "She wants this gentleman to give her a present.",
+     "idn": "Dia ingin pria ini memberinya hadiah."
     },
     "D": {
      "zh": "她想和這位先生一起去逛街",
      "py": "Tā xiǎng hé zhèwèi xiānsheng yìqǐ qù guàngjiē",
-     "en": "She wants to go shopping with this gentleman."
+     "en": "She wants to go shopping with this gentleman.",
+     "idn": "Dia ingin berbelanja bersama pria ini."
     }
    },
    "transcript": [
     {
      "zh": "男：我要去逛百貨公司，要一起嗎？",
      "py": "Nán: Wǒ yào qùguàng bǎihuògōngsī, yào yìqǐ ma?",
-     "en": "Man: I'm going to the department store. Want to come along?"
+     "en": "Man: I'm going to the department store. Want to come along?",
+     "idn": "Pria: Saya mau ke toserba. Mau ikut?"
     },
     {
      "zh": "女：我最近花了太多錢了，還是不要吧。",
      "py": "Nǚ: Wǒ zuìjìn huā le tài duō qián le, háishì búyào ba.",
-     "en": "Woman: I've spent too much money lately; I'd better not."
+     "en": "Woman: I've spent too much money lately; I'd better not.",
+     "idn": "Wanita: Belakangan saya sudah terlalu banyak menghabiskan uang; sebaiknya tidak usah."
     },
     {
      "zh": "男：最近百貨公司有活動，很多商品不但很便宜，還會給很多試用的東西。",
      "py": "Nán: Zuìjìn bǎihuògōngsī yǒu huódòng, hěnduō shāngpǐn búdàn hěn piányi, hái huì gěi hěnduō shìyòng de Dōngxi.",
-     "en": "Man: The department store is having a promotion lately; many items are not only cheap, but they also give out lots of free samples."
+     "en": "Man: The department store is having a promotion lately; many items are not only cheap, but they also give out lots of free samples.",
+     "idn": "Pria: Toserba sedang mengadakan promosi; banyak barang yang bukan hanya murah, tetapi juga banyak sampel gratis yang dibagikan."
     },
     {
      "zh": "女：喔，有不用花錢的啊！那我們快走吧！",
      "py": "Nǚ: Ō, yǒu búyòng huāqián de a! Nà wǒmen kuài zǒu ba!",
-     "en": "Woman: Oh, there's free stuff! Then let's hurry!"
+     "en": "Woman: Oh, there's free stuff! Then let's hurry!",
+     "idn": "Wanita: Oh, ada barang gratis! Kalau begitu ayo cepat!"
     },
     {
      "zh": "女：為什麼這位小姐想去百貨公司？",
      "py": "Nǚ: Wèishénme zhèwèi Xiǎojiě xiǎng qù bǎihuògōngsī?",
-     "en": "Woman: Why does this young lady want to go to the department store?"
+     "en": "Woman: Why does this young lady want to go to the department store?",
+     "idn": "Wanita: Mengapa wanita muda ini ingin pergi ke toserba?"
     }
    ]
   },
@@ -1262,49 +1471,58 @@
     "A": {
      "zh": "這位先生今天想留在家裡",
      "py": "Zhèwèi xiānsheng jīntiān xiǎng liúzài jiālǐ",
-     "en": "This gentleman wants to stay home today."
+     "en": "This gentleman wants to stay home today.",
+     "idn": "Pria ini ingin di rumah saja hari ini."
     },
     "B": {
      "zh": "這位小姐怕自己太晚回家",
      "py": "Zhèwèi Xiǎojiě pà zìjǐ Tàiwǎn huíjiā",
-     "en": "This young lady is afraid she'll get home too late."
+     "en": "This young lady is afraid she'll get home too late.",
+     "idn": "Wanita muda ini takut pulang terlalu malam."
     },
     "C": {
      "zh": "他們兩人今天都想看棒球比賽",
      "py": "Tāmen liǎng rén jīntiān dōu xiǎng kàn bàngqiú bǐsài",
-     "en": "They both want to watch the baseball game today."
+     "en": "They both want to watch the baseball game today.",
+     "idn": "Mereka berdua ingin menonton pertandingan bisbol hari ini."
     },
     "D": {
      "zh": "他們已經買完衣服回家休息了",
      "py": "Tāmen yǐjīng mǎiwán yīfú huíjiā xiūxí le",
-     "en": "They've already bought clothes and gone home to rest."
+     "en": "They've already bought clothes and gone home to rest.",
+     "idn": "Mereka sudah membeli pakaian dan pulang beristirahat."
     }
    },
    "transcript": [
     {
      "zh": "男：今天天氣好熱，我們在家吹冷氣多好，還是不要去買衣服了。",
      "py": "Nán: Jīntiāntiānqì hǎo rè, wǒmen zàijiā chuīlěngqì duō hǎo, háishì búyào qù mǎi yīfú le.",
-     "en": "Man: It's so hot today. Wouldn't it be nice to stay home with the air conditioning? Let's not go clothes shopping."
+     "en": "Man: It's so hot today. Wouldn't it be nice to stay home with the air conditioning? Let's not go clothes shopping.",
+     "idn": "Pria: Hari ini panas sekali. Bukankah lebih enak di rumah dengan AC? Kita tidak usah belanja baju saja."
     },
     {
      "zh": "女：不行，你昨天答應我今天要出門買衣服。",
      "py": "Nǚ: Bùxíng, nǐ zuótiān dāyìng wǒ jīntiān yào chūmén mǎi yīfú.",
-     "en": "Woman: No way—yesterday you promised me we'd go out to buy clothes today."
+     "en": "Woman: No way—yesterday you promised me we'd go out to buy clothes today.",
+     "idn": "Wanita: Tidak bisa—kemarin kamu sudah janji hari ini kita keluar membeli baju."
     },
     {
      "zh": "男：可是妳沒發現衣服已經很多了嗎？",
      "py": "Nán: Kěshì nǐ méi fāxiàn yīfú yǐjīng hěnduō le ma?",
-     "en": "Man: But haven't you noticed you already have lots of clothes?"
+     "en": "Man: But haven't you noticed you already have lots of clothes?",
+     "idn": "Pria: Tapi tidakkah kamu sadar bajumu sudah banyak sekali?"
     },
     {
      "zh": "女：我覺得，你只是怕太晚回家，沒辦法看棒球比賽！",
      "py": "Nǚ: Wǒ juéde, nǐ zhǐshì pà Tàiwǎn huíjiā, méi bànfǎ kàn bàngqiú bǐsài!",
-     "en": "Woman: I think you're just afraid of getting home too late to watch the baseball game!"
+     "en": "Woman: I think you're just afraid of getting home too late to watch the baseball game!",
+     "idn": "Wanita: Saya rasa kamu cuma takut pulang terlalu malam sehingga tidak bisa menonton pertandingan bisbol!"
     },
     {
      "zh": "女：請問下面哪一個是對的？",
      "py": "Nǚ: Qǐngwèn xiàmiàn nǎ yí ge shì duì de?",
-     "en": "Woman: Which of the following is correct?"
+     "en": "Woman: Which of the following is correct?",
+     "idn": "Wanita: Manakah pernyataan berikut yang benar?"
     }
    ]
   },
@@ -1313,49 +1531,58 @@
     "A": {
      "zh": "她要把錢還給客人",
      "py": "Tā yào bǎ qián huángěi kèrén",
-     "en": "She will give the money back to the customer."
+     "en": "She will give the money back to the customer.",
+     "idn": "Dia akan mengembalikan uang kepada pelanggan."
     },
     "B": {
      "zh": "東西賣出去就不能換了",
      "py": "Dōngxi màichūqù jiù bùnéng huàn le",
-     "en": "Once goods are sold, they can't be exchanged."
+     "en": "Once goods are sold, they can't be exchanged.",
+     "idn": "Barang yang sudah dijual tidak bisa ditukar."
     },
     "C": {
      "zh": "她沒有東西可以換給客人",
      "py": "Tā méiyǒu Dōngxi kěyǐ huàn gěi kèrén",
-     "en": "She has nothing to exchange for the customer."
+     "en": "She has nothing to exchange for the customer.",
+     "idn": "Dia tidak punya barang untuk ditukarkan kepada pelanggan."
     },
     "D": {
      "zh": "沒有發票，就不能換東西",
      "py": "Méiyǒu fāpiào, jiù bùnéng Huàn Dōngxi",
-     "en": "Without a receipt, items can't be exchanged."
+     "en": "Without a receipt, items can't be exchanged.",
+     "idn": "Tanpa struk, barang tidak bisa ditukar."
     }
    },
    "transcript": [
     {
      "zh": "男：小姐，這是昨天跟你們買的牛奶，味道有點奇怪，我想換一瓶新的。",
      "py": "Nán: Xiǎojiě, zhè shì zuótiān gēn nǐmen mǎi de niúnǎi, wèidào yǒudiǎn qíguài, wǒ xiǎnghuàn yìpíng xīn de.",
-     "en": "Man: Miss, this is the milk I bought from you yesterday. It tastes a bit strange; I'd like to exchange it for a new bottle."
+     "en": "Man: Miss, this is the milk I bought from you yesterday. It tastes a bit strange; I'd like to exchange it for a new bottle.",
+     "idn": "Pria: Nona, ini susu yang saya beli dari Anda kemarin. Rasanya agak aneh; saya ingin menukarnya dengan botol baru."
     },
     {
      "zh": "女：請問您帶了發票嗎？",
      "py": "Nǚ: Qǐngwèn nín dài le fāpiào ma?",
-     "en": "Woman: Did you bring the receipt?"
+     "en": "Woman: Did you bring the receipt?",
+     "idn": "Wanita: Anda membawa struknya?"
     },
     {
      "zh": "男：喔，我沒帶來。",
      "py": "Nán: Ō, wǒ méi dàilái.",
-     "en": "Man: Oh, I didn't bring it."
+     "en": "Man: Oh, I didn't bring it.",
+     "idn": "Pria: Aduh, tidak saya bawa."
     },
     {
      "zh": "女：我們要看到發票，才能換東西，不好意思。",
      "py": "Nǚ: Wǒmen yào kàndào fāpiào, cáinéng Huàn Dōngxi, bùhǎoyìsī.",
-     "en": "Woman: We need to see the receipt before we can exchange items. Sorry."
+     "en": "Woman: We need to see the receipt before we can exchange items. Sorry.",
+     "idn": "Wanita: Kami harus melihat struknya dulu baru bisa menukar barang. Maaf."
     },
     {
      "zh": "女：這位小姐的意思是什麼？",
      "py": "Nǚ: Zhèwèi Xiǎojiě de yìsi shì shénme?",
-     "en": "Woman: What does this young lady mean?"
+     "en": "Woman: What does this young lady mean?",
+     "idn": "Wanita: Apa maksud wanita muda ini?"
     }
    ]
   }
