@@ -273,6 +273,8 @@ def to_pinyin(text, cont=False):
     s = re.sub(r"\s+([,.?!:;”’)»~])", r"\1", s)
     s = re.sub(r"([“‘(«])\s+", r"\1", s)
     s = re.sub(r"(?<=[^\s“‘(«])([“‘(«])", r" \1", s)
+    s = re.sub(r"(\d)\s*([:：])\s*(\d)", r"\1:\3", s)  # clock times 7:45
+    s = re.sub(r"(\d)\s+([-/])\s+(\d)", r"\1\2\3", s)  # ranges 12:00-12:30, dates 2018/03/27
     s = re.sub(r"\s{2,}", " ", s).strip()
     # capitalise the first letter of each sentence, as in pinyin teaching texts
     s = re.sub(r"(^|[.?!:]\s+|[“‘(«])([a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜü])", lambda m: m.group(1) + m.group(2).upper() if (m.group(1) or not cont) else m.group(0), s)
