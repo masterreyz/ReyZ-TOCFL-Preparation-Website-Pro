@@ -1,6 +1,6 @@
 # Progress — ReyZ TOCFL Preparation Website
 
-_Last updated: 2026-11-18 (A1 L15 added — A1 Textbook complete)_
+_Last updated: 2026-11-18 (A1 Workbook L1 added — A1 Workbook started)_
 
 ## Done
 - Inventory of `TOCFL Study` and `TOCFL Exercise` (see `reports/COMPLETENESS.md` §1).
@@ -45,7 +45,8 @@ Chosen 2026-11-16. Order: A1 Textbook L1→L15, A1 Workbook L1→L15, then A2, B
 | A1 Textbook L13 生日快樂 | 296–325 (book p. 269–298) | ✅ complete — original mode (7 grammar points: 一…就…, verbal 了, 不 vs. 沒 negation, all-inclusive question words, 多/少+verb, 是不是, 跟…一樣) |
 | A1 Textbook L14 天氣這麼冷！ | 326–348 (book p. 300–321) | ✅ complete — original mode (5 grammar points: time-duration after verbal了, completion-to-date with double了, 快(要)…了, comparison with 更, inferior comparison with 沒有…那麼/這麼) |
 | A1 Textbook L15 我很不舒服 | 351–377 (book p. 324–350) | ✅ complete — original mode (7 grammar points: non-committal stance with question words, 把 disposal construction, V了…就…, 一點, 得-complement action comparison, complements of degree in comparison, separable verbs) — **last lesson of the A1 Textbook** |
-| A1 Workbook L1 | — | ⏭ next (original mode; start of the A1 Workbook) |
+| A1 Workbook L1 歡迎你來臺灣！ | 2–10 (book p. 1–8) | ✅ complete — original mode (exercise worksheet: tone-marking, listening comprehension recast as reading-comprehension MC/T-F, dialogue matching/completion, reading passage + table, A-not-A pattern, sentence reordering, pinyin dictation, self-introduction) |
+| A1 Workbook L2 我的家人 | — | ⏭ next (original mode) |
 | all other lessons | — | page images until migrated |
 
 ### Original mode (from A1 L6 onward, chosen 2026-11-17)

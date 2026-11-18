@@ -272,6 +272,18 @@ with sync_playwright() as p:
     page.wait_for_selector(".search-results li")
     check("search finds L15 content", page.locator(".search-results a[href='#/lesson/a1-te-l15']").count() >= 2)
 
+    # ---- A1 Workbook L1 (original mode)
+    page.goto(BASE + "#/lesson/a1-wo-l01")
+    page.wait_for_selector("#h6-x")
+    check("WoL1 renders all sections", all(page.locator(f"#{i}").count() == 1 for i in ["h1-tab", "h2a-x", "h5-tab", "h6-x", "h8-x"]))
+    page.evaluate("window.__spoken.length = 0")
+    page.click("#h6-x .tts-mini >> nth=0")
+    page.wait_for_timeout(300)
+    check("WoL1 exercise item speak", page.evaluate("window.__spoken.map(s=>s.text).join('')").startswith("美國人"))
+    page.goto(BASE + "#/search?q=歡迎與自我介紹")
+    page.wait_for_selector(".search-results li")
+    check("search finds WoL1 content", page.locator(".search-results a[href='#/lesson/a1-wo-l01']").count() >= 1)
+
     page.goto(BASE + "#/lesson/a2-te-l03")
     page.wait_for_selector("figure.page img")
     page.locator("figure.page img").first.scroll_into_view_if_needed()
