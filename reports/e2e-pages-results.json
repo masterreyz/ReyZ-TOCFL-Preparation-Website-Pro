@@ -17,7 +17,7 @@
  {
   "test": "Q1 spoken from official script",
   "ok": true,
-  "detail": "他們在哪裡？A， 銀行B， 教室C， 郵局"
+  "detail": "他們在哪裡？A，銀行"
  },
  {
   "test": "uses zh-TW voice",
@@ -37,7 +37,7 @@
  {
   "test": "exam mode reads whole test in order",
   "ok": true,
-  "detail": "['第1題', '最近老是下雨，我都不能去外面運動。', '下雨天，就去運動中心裡面運動啊！']"
+  "detail": "['第1題']"
  },
  {
   "test": "question crop image loads",
@@ -297,7 +297,7 @@
  {
   "test": "section exam audio reads only its questions",
   "ok": true,
-  "detail": "['第46題', '第47題']"
+  "detail": "['第46題']"
  },
  {
   "test": "route #/study",

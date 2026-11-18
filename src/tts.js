@@ -10,25 +10,34 @@ export const ttsSupported = () => !!synth && typeof window.SpeechSynthesisUttera
 let voicesReady = null;
 export function getVoices() {
   if (!ttsSupported()) return Promise.resolve([]);
+  const now = synth.getVoices();
+  if (now.length) return Promise.resolve(now); // re-read each time: Edge adds its online voices late
   if (voicesReady) return voicesReady;
   voicesReady = new Promise((resolve) => {
-    const done = () => resolve(synth.getVoices());
-    const v = synth.getVoices();
-    if (v.length) return resolve(v);
+    const done = () => { voicesReady = null; resolve(synth.getVoices()); };
     synth.addEventListener?.('voiceschanged', done, { once: true });
     setTimeout(done, 1500); // some browsers never fire voiceschanged
   });
   return voicesReady;
 }
 
+// TOCFL recordings are read by Taiwanese Mandarin speakers (one male, one female voice), calmly and clearly.
+// We therefore prefer zh-TW voices, the high-quality "Natural"/neural ones first, and give 男/女 their own voice.
 const isZh = (v) => /^zh|^cmn/i.test(v.lang) || /Chinese|中文|國語|普通话|Mandarin/i.test(v.name);
+const isTw = (v) => /^zh[-_]tw|^cmn[-_]hant[-_]tw/i.test(v.lang) || /台灣|臺灣|Taiwan/i.test(v.name);
+const MALE = /YunJhe|Zhiwei|Yunxi|Yunyang|Yunjian|Yunxia|Kangkang|Li-?mu|Danny|\bmale\b|男/i;
+const FEMALE = /HsiaoChen|HsiaoYu|Hanhan|Yating|Mei-?Jia|Xiaoxiao|Xiaoyi|Huihui|Yaoyao|Ting-?Ting|Sin-?ji|Google|female|女/i;
+export const voiceGender = (v) => (MALE.test(v.name) && !/female/i.test(v.name) ? 'm' : FEMALE.test(v.name) ? 'f' : '?');
 const rank = (v) => {
   const lang = v.lang.replace('_', '-').toLowerCase();
   let s = 0;
-  if (lang === 'zh-tw' || /台灣|臺灣|Taiwan/i.test(v.name)) s += 100;
+  if (isTw(v)) s += 100;
   else if (lang.startsWith('zh-cn') || lang === 'cmn-hans-cn') s += 50;
   else if (lang.startsWith('zh-hk')) s += 10; // Cantonese voices are a last resort
-  if (/Natural|Online|Neural|Google/i.test(v.name)) s += 20;
+  if (/Natural|Neural/i.test(v.name)) s += 40;
+  else if (/Online|Enhanced|Premium|Siri/i.test(v.name)) s += 30;
+  else if (/Google/i.test(v.name)) s += 25;
+  if (/compact/i.test(v.voiceURI || '')) s -= 15;
   return s;
 };
 export async function chineseVoices() {
@@ -39,46 +48,82 @@ export async function pickVoice() {
   const want = store.get().prefs.ttsVoice;
   return list.find((v) => v.voiceURI === want) || list[0] || null;
 }
+/** Voices per speaker: default (narrator), m (男), f (女). The other gender only gets its own voice
+ *  when one with the same accent exists; otherwise the main voice is used with a light pitch change. */
+export async function pickCast() {
+  const list = await chineseVoices();
+  const main = await pickVoice();
+  if (!main) return null;
+  const same = (v) => isTw(v) === isTw(main);
+  const g = voiceGender(main);
+  const best = (gender) => list.find((v) => v !== main && voiceGender(v) === gender && same(v));
+  const m = g === 'm' ? main : best('m');
+  const f = g === 'f' || g === '?' ? main : best('f');
+  return { default: main, m: m || main, f: f || main, mShift: !m, fShift: !f };
+}
 
-// Split a script into speakable chunks: one per line/sentence, with speaker hints for pitch.
+export const DEFAULT_RATE = 0.85; // calm, exam-like pace
+
+// Normalise text so the voice reads it as a TOCFL recording would.
+function normalise(line) {
+  return line
+    .replace(/^\s*\d{1,2}\s*[.．、]\s*/, '')                       // list numbers ("1.") are not read aloud
+    .replace(/[（(]\s*([A-F])\s*[）)]/g, '$1，')                   // (A) → A，
+    .replace(/_{2,}|＿{2,}|[─—―]{1,2}|～/g, '，')                  // blanks and dashes → short pause
+    .replace(/[「」『』《》〈〉【】]/g, '')
+    .replace(/\s+/g, ' ')
+    .replace(/[，,、\s]*([，,])[，,\s]*/g, '$1')
+    .replace(/[，,]+$/, '')
+    .trim();
+}
+
+// Split a script into speakable chunks: one per sentence, with the speaker and natural pauses.
 export function toChunks(text) {
   const out = [];
   for (let line of String(text || '').split(/\n+/)) {
     line = line.trim();
     if (!line) continue;
-    let pitch = 1;
+    let who = null;
     const m = line.match(/^(男|女|甲|乙)\s*[:：]\s*|^(男|女)\s+/);
-    if (m) { pitch = /男|甲/.test(m[0]) ? 0.8 : 1.2; line = line.slice(m[0].length); }
-    line = line.replace(/[（(]\s*([A-F])\s*[）)]/g, '$1，').replace(/_{2,}|＿{2,}/g, '，');
-    for (const s of line.match(/[^。！？!?；;]+[。！？!?；;]*/g) || [line]) {
-      const t = s.trim();
-      if (t) out.push({ text: t, pitch });
-    }
+    if (m) { who = /男|甲/.test(m[0]) ? 'm' : 'f'; line = line.slice(m[0].length); }
+    line = normalise(line);
+    const sents = line.match(/[^。！？!?；;]+[。！？!?；;]*/g) || [line];
+    sents.forEach((s, i) => {
+      let t = s.trim();
+      if (!t) return;
+      // very long sentences are split at a comma: some voices stop after ~15 s
+      const parts = t.length > 90 ? t.match(/[^，,]+(?:[，,]|$)/g).reduce((a, p) => {
+        if (a.length && (a[a.length - 1] + p).length <= 60) a[a.length - 1] += p; else a.push(p); return a; }, []) : [t];
+      parts.forEach((p, j) => out.push({ text: p.trim(), who, pause: j < parts.length - 1 ? 60 : i < sents.length - 1 ? 280 : 550 }));
+    });
   }
-  return out;
+  return out.filter((c) => c.text);
 }
 
 let session = 0;
 export function stopTts() { session++; synth?.cancel(); }
 window.addEventListener?.('hashchange', stopTts);
 
-/** Speak a list of {text,pitch} chunks. Resolves when done or stopped. */
+/** Speak a list of {text, who, pause} chunks. Resolves when done or stopped. */
 export async function speakChunks(chunks, { rate, onChunk } = {}) {
   stopTts();
   const my = ++session;
-  const voice = await pickVoice();
-  if (!voice) throw new Error('no-voice');
+  const cast = await pickCast();
+  if (!cast) throw new Error('no-voice');
+  const r = rate ?? store.get().prefs.speechRate ?? DEFAULT_RATE;
   for (let i = 0; i < chunks.length; i++) {
     if (my !== session) return false;
     onChunk?.(i);
+    const c = chunks[i];
+    const voice = c.who ? cast[c.who] : cast.default;
     await new Promise((resolve) => {
-      const u = new SpeechSynthesisUtterance(chunks[i].text);
-      u.voice = voice; u.lang = voice.lang; u.pitch = chunks[i].pitch ?? 1;
-      u.rate = rate ?? store.get().prefs.ttsRate ?? 0.9;
+      const u = new SpeechSynthesisUtterance(c.text);
+      u.voice = voice; u.lang = voice.lang; u.rate = r; u.volume = 1;
+      u.pitch = c.who === 'm' && cast.mShift ? 0.9 : c.who === 'f' && cast.fShift ? 1.08 : 1;
       u.onend = u.onerror = () => resolve();
       synth.speak(u);
     });
-    if (chunks[i].pause && my === session) await new Promise((r) => setTimeout(r, chunks[i].pause));
+    if (c.pause && my === session && i < chunks.length - 1) await new Promise((res) => setTimeout(res, c.pause));
   }
   return my === session;
 }
@@ -99,13 +144,13 @@ export function TtsPlayer(segments, opts = {}) {
   const now = h('div', { class: 'tts-now zh', lang: 'zh-Hant', 'aria-live': 'off' });
   const btn = h('button', { class: 'ap-btn', type: 'button', 'aria-label': 'Putar suara' }, '▶');
   const rate = h('select', { class: 'ap-speed', 'aria-label': 'Kecepatan suara', disabled: opts.exam || null },
-    ...[0.6, 0.75, 0.9, 1, 1.15].map((r) => h('option', { value: r, selected: r === (store.get().prefs.ttsRate ?? 0.9) || null }, `${r}×`)));
-  rate.addEventListener('change', () => store.setPref('ttsRate', Number(rate.value)));
+    ...[0.7, 0.8, 0.85, 0.9, 1].map((r) => h('option', { value: r, selected: r === (opts.exam ? DEFAULT_RATE : (store.get().prefs.speechRate ?? DEFAULT_RATE)) || null }, r === DEFAULT_RATE ? `${r}× (standar)` : `${r}×`)));
+  rate.addEventListener('change', () => store.setPref('speechRate', Number(rate.value)));
   let playing = false;
   const chunks = [];
   for (const seg of segments) {
     const cs = toChunks(seg.text);
-    if (cs.length) { cs[cs.length - 1].pause = seg.pause ?? 600; cs.forEach((c) => (c.label = seg.label)); }
+    if (cs.length) { cs[cs.length - 1].pause = seg.pause ?? 900; cs.forEach((c) => (c.label = seg.label)); }
     chunks.push(...cs);
   }
   const setPlaying = (p) => { playing = p; btn.textContent = p ? '■' : '▶'; btn.setAttribute('aria-label', p ? 'Hentikan suara' : 'Putar suara'); if (!p) now.textContent = ''; };

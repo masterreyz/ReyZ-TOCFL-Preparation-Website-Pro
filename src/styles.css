@@ -25,7 +25,7 @@
   --shadow-lift: 0 2px 4px rgb(90 62 30 / .08), 0 18px 36px -18px rgb(90 62 30 / .35);
   --font: "Plus Jakarta Sans", system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", Arial, sans-serif;
   --font-display: "Fraunces", "Iowan Old Style", "Palatino Linotype", Georgia, serif;
-  --font-zh: "PingFang TC", "Noto Sans TC", "Noto Sans CJK TC", "Microsoft JhengHei", "Heiti TC", "Source Han Sans TC", sans-serif;
+  --font-zh: "Noto Sans TC", "PingFang TC", "Noto Sans CJK TC", "Microsoft JhengHei", "Heiti TC", "Source Han Sans TC", sans-serif;
   --font-zh-serif: "Noto Serif TC", "Source Han Serif TC", "PMingLiU", "Songti TC", serif;
   --reading-scale: 1;
   color-scheme: light;
@@ -73,8 +73,8 @@ h1 [lang="zh-Hant"], h1:lang(zh-Hant) { font-family: var(--font-zh-serif); }
 .muted { color: var(--muted); } .small { font-size: .9rem; }
 .lead { font-size: 1.12rem; color: var(--muted); max-width: 62ch; line-height: 1.7; }
 .zh, [lang="zh-Hant"] { font-family: var(--font-zh); }
-.zh { font-size: calc(1.15rem * var(--reading-scale)); line-height: 1.9; }
-.py { font-size: calc(.95rem * var(--reading-scale)); color: var(--muted); margin: 0; font-style: italic; }
+.zh { font-size: calc(1.3rem * var(--reading-scale)); line-height: 1.85; letter-spacing: .04em; font-weight: 400; }
+.py { font-size: calc(1rem * var(--reading-scale)); color: var(--muted); margin: 0; font-style: italic; }
 
 /* ---------- header ---------- */
 .site-header { background: rgb(252 247 239 / .88); backdrop-filter: saturate(140%) blur(10px); border-bottom: 1px solid var(--line); position: sticky; top: 0; z-index: 20; }
@@ -254,7 +254,7 @@ details.orig > .crop + .crop { margin-top: -.2rem; }
 .opt:has(input:checked) { border-color: var(--brand); background: var(--brand-soft); }
 .opt input { width: 1.15rem; height: 1.15rem; accent-color: var(--brand); flex: none; }
 .opt-label { font-weight: 700; font-family: var(--font-display); color: var(--brand); min-width: 2.1em; }
-.opt-text { font-family: var(--font-zh); font-size: calc(1.08rem * var(--reading-scale)); }
+.opt-text { font-family: var(--font-zh); font-size: calc(1.22rem * var(--reading-scale)); letter-spacing: .03em; line-height: 1.6; }
 .opt.is-correct { border-color: var(--good); background: var(--good-bg); }
 .opt.is-wrong { border-color: var(--bad); background: var(--bad-bg); }
 .opt-mark { margin-left: auto; font-weight: 800; font-size: 1.1rem; }
@@ -280,7 +280,7 @@ details.orig > .crop + .crop { margin-top: -.2rem; }
 .ap-list li.on .ap-track { font-weight: 700; text-decoration: underline; }
 .tts-mini { border: 1px solid var(--line-strong); background: var(--surface); border-radius: 999px; min-width: 32px; min-height: 32px; cursor: pointer; font-size: .85rem; vertical-align: middle; transition: border-color .12s, background .12s; }
 .tts-mini:hover { border-color: var(--brand); background: var(--brand-soft); }
-.tts-now { font-size: 1rem; margin-top: .35rem; }
+.tts-now { font-size: calc(1.15rem * var(--reading-scale)); margin-top: .35rem; }
 .tts-now:empty { display: none; }
 
 /* ---------- results ---------- */
@@ -325,12 +325,12 @@ details.orig > .crop + .crop { margin-top: -.2rem; }
 .dlg { display: grid; gap: .7rem; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-md); padding: 1rem 1.2rem; }
 .dlg-line { display: grid; grid-template-columns: 4.6em 1fr; gap: .7rem; padding-bottom: .55rem; border-bottom: 1px dashed var(--line); }
 .dlg-line:last-child { border-bottom: 0; padding-bottom: 0; }
-.dlg-line .spk { font-family: var(--font-zh-serif); font-weight: 700; color: var(--brand); font-size: calc(1.05rem * var(--reading-scale)); padding-top: .2rem; }
+.dlg-line .spk { font-family: var(--font-zh); font-weight: 700; color: var(--brand); font-size: calc(1.2rem * var(--reading-scale)); padding-top: .2rem; }
 .dlg-line p.zh { margin: 0; }
 .trans { margin-top: .7rem; }
 .trans dl { display: grid; grid-template-columns: max-content 1fr; gap: .25rem .9rem; } .trans dt { font-weight: 700; } .trans dd { margin: 0; }
 .vocab { background: var(--surface); border-radius: 10px; }
-.vocab td.zh { white-space: nowrap; font-size: calc(1.2rem * var(--reading-scale)); }
+.vocab td.zh { white-space: nowrap; font-size: calc(1.4rem * var(--reading-scale)); }
 .py-col { font-style: italic; color: var(--muted); }
 .src { margin-top: .35rem; }
 .search-form { display: flex; gap: .55rem; flex-wrap: wrap; margin-bottom: 1.1rem; padding: .5rem; background: var(--surface); border: 1px solid var(--line); border-radius: 999px; box-shadow: var(--shadow); }
@@ -339,7 +339,7 @@ details.orig > .crop + .crop { margin-top: -.2rem; }
 .search-form input:focus, .search-form select:focus { border-color: var(--brand); outline: none; }
 @media (max-width: 640px) { .search-form { border-radius: var(--r-md); } }
 .search-results li { margin-bottom: .7rem; }
-.search-results .zh { font-size: 1rem; margin: .35rem 0 0; }
+.search-results .zh { font-size: 1.12rem; margin: .35rem 0 0; }
 .about-me { display: flex; gap: 1.1rem; align-items: flex-start; }
 .avatar { width: 68px; height: 68px; flex: none; border-radius: 16px; background: var(--seal); color: #fff3e6; display: grid; place-items: center; font-family: var(--font-display); font-weight: 700; font-size: 1.35rem; transform: rotate(-4deg); box-shadow: inset 0 0 0 2px rgb(255 240 220 / .55), inset 0 0 0 5px var(--seal); }
 .bm li { display: flex; align-items: center; gap: .45rem; } .bm li button { margin-left: auto; }
@@ -386,7 +386,7 @@ body::after { content: "ReyZ TOCFL · Reynard Agahari"; position: fixed; right: 
 .figure { margin: 1rem 0; text-align: center; }
 .figure img { max-width: 100%; border-radius: 10px; border: 1px solid var(--line); background: #fff; }
 .figure figcaption { margin-top: .35rem; }
-.zh-cell { font-family: var(--font-zh); }
+.zh-cell { font-family: var(--font-zh); font-size: 1.12em; }
 .checklist { list-style: none; padding: 0; display: grid; gap: .4rem; }
 .tone-cell { font-size: 1.6rem; line-height: 1.2; letter-spacing: .15em; font-family: "Segoe UI Symbol", "Noto Sans", var(--font-zh), sans-serif; }
 .dlg-note { font-style: italic; color: var(--muted); margin: .2rem 0; font-weight: 600; }
@@ -399,7 +399,7 @@ details.explain[open] > summary { border-bottom: 1px dashed var(--line); }
 .ex-group h4 { margin: .5rem 0 .35rem; font-size: .8rem; letter-spacing: .02em; color: var(--muted); font-weight: 650; }
 .ex-line { padding: .5rem 0; border-bottom: 1px solid var(--line); }
 .ex-group .ex-line:last-child { border-bottom: 0; }
-.ex-zh { display: flex; align-items: baseline; gap: .5rem; flex-wrap: wrap; font-size: 1.08rem; line-height: 1.6; }
+.ex-zh { display: flex; align-items: baseline; gap: .5rem; flex-wrap: wrap; font-size: calc(1.22rem * var(--reading-scale)); font-family: var(--font-zh); line-height: 1.6; }
 .ex-mark { font-weight: 700; color: var(--brand); font-family: var(--font-display); min-width: 2.4em; }
 .ex-py { color: var(--brand); font-size: .92rem; line-height: 1.5; margin-top: .1rem; }
 .ex-en { color: var(--ink-2, var(--text)); font-size: .93rem; line-height: 1.5; margin-top: .1rem; }

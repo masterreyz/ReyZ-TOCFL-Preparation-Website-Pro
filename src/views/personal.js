@@ -87,6 +87,6 @@ async function voiceSection() {
     ...voices.map((v) => h('option', { value: v.voiceURI, selected: v.voiceURI === cur || null }, `${v.name} (${v.lang})`)));
   const test = h('button', { class: 'btn', type: 'button', onclick: () => speakChunks(toChunks('你好！歡迎你來臺灣。我們一起學中文吧。')).catch(() => { msg.textContent = NO_VOICE; }) }, '🔊 Tes suara');
   return h('section', { class: 'card' }, h('h2', { class: 'h3' }, 'Suara Mandarin (TTS)'),
-    h('p', { class: 'small muted' }, 'Suara sintetis memakai mesin suara bawaan browser/perangkat Anda (Web Speech API) — gratis, tanpa unduhan tambahan. Kualitas terbaik: Microsoft Edge (suara “Natural” Taiwan) atau Google Chrome (“Google 國語（臺灣）”).'),
+    h('p', { class: 'small muted' }, 'Suara sintetis memakai mesin suara bawaan browser/perangkat Anda (Web Speech API) — gratis, tanpa unduhan tambahan. Seperti rekaman ujian TOCFL, situs ini mengutamakan suara Mandarin Taiwan, dengan tempo standar 0,85× (tenang, tidak terlalu cepat), jeda alami antarkalimat, dan suara pria/wanita terpisah untuk 男/女 bila perangkat memilikinya. Kualitas & pelafalan terbaik: Microsoft Edge (suara “Microsoft HsiaoChen / YunJhe Online (Natural)” Taiwan) atau Google Chrome (“Google 國語（臺灣）”).'),
     voices.length ? h('div', {}, h('label', { for: 'voice' }, 'Suara: '), sel, ' ', test) : h('p', { class: 'note' }, NO_VOICE), msg);
 }
