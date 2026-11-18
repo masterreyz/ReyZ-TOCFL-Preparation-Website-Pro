@@ -2,111 +2,126 @@
  "testId": "a-r1",
  "segments": 162,
  "englishComplete": true,
- "indonesianComplete": false,
+ "indonesianComplete": true,
  "questions": {
   "1": {
    "stem": {
     "zh": "桌子上放著三種水果。",
     "py": "Zhuōzi shàng fàngzhe sānzhǒng shuǐguǒ.",
-    "en": "Three kinds of fruit are placed on the table."
+    "en": "Three kinds of fruit are placed on the table.",
+    "idn": "Di atas meja ada tiga macam buah."
    }
   },
   "2": {
    "stem": {
     "zh": "老王正畫著小天的臉。",
     "py": "Lǎowáng zhèng huà zhe xiǎo tiān de liǎn.",
-    "en": "Lao Wang is drawing Xiaotian's face."
+    "en": "Lao Wang is drawing Xiaotian's face.",
+    "idn": "Lao Wang sedang menggambar wajah Xiaotian."
    }
   },
   "3": {
    "stem": {
     "zh": "他的房間很乾淨。",
     "py": "Tā de fángjiān hěn gānjìng.",
-    "en": "His room is very clean."
+    "en": "His room is very clean.",
+    "idn": "Kamarnya sangat bersih."
    }
   },
   "4": {
    "stem": {
     "zh": "王小明把李天華三個字寫在紙上。",
     "py": "Wángxiǎomíng bǎ Lǐtiānhuá sān ge zì xiě zài zhǐ shàng.",
-    "en": "Wang Xiaoming wrote the three characters \"Li Tianhua\" on the paper."
+    "en": "Wang Xiaoming wrote the three characters \"Li Tianhua\" on the paper.",
+    "idn": "Wang Xiaoming menulis tiga aksara \"Li Tianhua\" di atas kertas."
    }
   },
   "5": {
    "stem": {
     "zh": "志明什麼球都玩，但是最喜歡玩足球。",
     "py": "Zhìmíng shénme qiú dōu wán, dànshì zuì xǐhuān wán zúqiú.",
-    "en": "Zhiming plays every kind of ball game, but he likes playing soccer best."
+    "en": "Zhiming plays every kind of ball game, but he likes playing soccer best.",
+    "idn": "Zhiming bisa bermain semua jenis olahraga bola, tetapi yang paling dia sukai adalah sepak bola."
    }
   },
   "6": {
    "stem": {
     "zh": "小心！你杯子裡的水快要滿了！",
     "py": "Xiǎoxīn! Nǐ bēizi lǐ de shuǐ kuàiyào mǎn le!",
-    "en": "Careful! The water in your cup is almost full!"
+    "en": "Careful! The water in your cup is almost full!",
+    "idn": "Hati-hati! Air di gelasmu sudah hampir penuh!"
    }
   },
   "7": {
    "stem": {
     "zh": "過了前面的路口，再往前走一會兒就到醫院了。",
     "py": "Guò le qiánmiàn de lùkǒu, zài wǎngqiánzǒu yíhuìr jiù dào yīyuàn le.",
-    "en": "Go past the intersection ahead, walk on a little further, and you'll be at the hospital."
+    "en": "Go past the intersection ahead, walk on a little further, and you'll be at the hospital.",
+    "idn": "Setelah melewati persimpangan di depan, jalan sedikit lagi, kamu akan sampai di rumah sakit."
    }
   },
   "8": {
    "stem": {
     "zh": "我平常都六點起床，可是今天晚了半小時。",
     "py": "Wǒ píngcháng dōu liùdiǎn qǐchuáng, kěshì jīntiān wǎn le bànxiǎoshí.",
-    "en": "I usually get up at six, but today I was half an hour late."
+    "en": "I usually get up at six, but today I was half an hour late.",
+    "idn": "Biasanya saya bangun pukul enam, tetapi hari ini saya terlambat setengah jam."
    }
   },
   "9": {
    "stem": {
     "zh": "張先生開車的時候喜歡聽音樂。",
     "py": "Zhāng xiānsheng kāichē de shíhòu xǐhuān tīng yīnyuè.",
-    "en": "Mr. Zhang likes to listen to music when he drives."
+    "en": "Mr. Zhang likes to listen to music when he drives.",
+    "idn": "Tuan Zhang suka mendengarkan musik sambil menyetir."
    }
   },
   "10": {
    "stem": {
     "zh": "這幾天晚上的風好大。",
     "py": "Zhè jǐtiān wǎnshàng de fēng hǎo dà.",
-    "en": "The wind has been very strong these past few nights."
+    "en": "The wind has been very strong these past few nights.",
+    "idn": "Beberapa malam terakhir ini anginnya sangat kencang."
    }
   },
   "11": {
    "stem": {
     "zh": "妹妹看完信以後，心情很愉快。",
     "py": "Mèimei kàn wánxìn yǐhòu, xīnqíng hěn yúkuài.",
-    "en": "After younger sister finished reading the letter, she was in a very happy mood."
+    "en": "After younger sister finished reading the letter, she was in a very happy mood.",
+    "idn": "Setelah membaca surat itu, adik perempuan merasa sangat senang."
    }
   },
   "12": {
    "stem": {
     "zh": "我們全家下個月就要搬到院子裡有大樹的房子住了。",
     "py": "Wǒmen quánjiā xiàgèyuè jiùyào bān dào yuànzi lǐ yǒu dàshù de fángzi zhù le.",
-    "en": "Next month our whole family is moving into a house with a big tree in the yard."
+    "en": "Next month our whole family is moving into a house with a big tree in the yard.",
+    "idn": "Bulan depan seluruh keluarga kami akan pindah ke rumah yang halamannya ada pohon besar."
    }
   },
   "13": {
    "stem": {
     "zh": "因為媽媽怕高，所以沒和爸爸一起爬過山。",
     "py": "Yīnwèi māma pà gāo, suǒyǐ méihé bàba yìqǐ pá guò shān.",
-    "en": "Because Mom is afraid of heights, she has never climbed a mountain with Dad."
+    "en": "Because Mom is afraid of heights, she has never climbed a mountain with Dad.",
+    "idn": "Karena Ibu takut ketinggian, dia tidak pernah naik gunung bersama Ayah."
    }
   },
   "14": {
    "stem": {
     "zh": "他們約好下課以後，先在學校門口見面，再一起去打球。",
     "py": "Tāmen yuē hǎo xiàkè yǐhòu, xiān zài xuéxiào ménkǒu jiànmiàn, zài yìqǐ qù dǎqiú.",
-    "en": "They agreed to meet at the school gate after class first, and then go play ball together."
+    "en": "They agreed to meet at the school gate after class first, and then go play ball together.",
+    "idn": "Mereka sepakat bertemu dulu di gerbang sekolah sepulang kelas, lalu bermain bola bersama."
    }
   },
   "15": {
    "stem": {
     "zh": "小美和朋友想到百貨公司買帽子，可是最後只買了點心就離開了。",
     "py": "Xiǎo měi hé péngyǒu xiǎngdào bǎihuògōngsī mǎi màozi, kěshì zuìhòu zhǐ mǎi le diǎnxīn jiù líkāi le.",
-    "en": "Xiaomei and her friend wanted to go to the department store to buy hats, but in the end they only bought snacks and left."
+    "en": "Xiaomei and her friend wanted to go to the department store to buy hats, but in the end they only bought snacks and left.",
+    "idn": "Xiaomei dan temannya ingin ke toserba untuk membeli topi, tetapi akhirnya mereka hanya membeli camilan lalu pergi."
    }
   },
   "16": {
@@ -114,17 +129,20 @@
     "A": {
      "zh": "小狗正追著小貓。",
      "py": "Xiǎogǒu zhèng zhuīzhe xiǎomāo.",
-     "en": "The puppy is chasing the kitten."
+     "en": "The puppy is chasing the kitten.",
+     "idn": "Anak anjing sedang mengejar anak kucing."
     },
     "B": {
      "zh": "屋子裡面什麼都沒有。",
      "py": "Wūzi lǐmiàn shénme dōu méiyǒu.",
-     "en": "There is nothing inside the house."
+     "en": "There is nothing inside the house.",
+     "idn": "Di dalam rumah tidak ada apa-apa."
     },
     "C": {
      "zh": "幾隻小鳥停在屋子上面。",
      "py": "Jǐzhī xiǎoniǎo tíng zài wūzi shàngmiàn.",
-     "en": "A few little birds are perched on top of the house."
+     "en": "A few little birds are perched on top of the house.",
+     "idn": "Di atas rumah hinggap beberapa ekor burung kecil."
     }
    }
   },
@@ -133,17 +151,20 @@
     "A": {
      "zh": "這裡有樹和一間房子。",
      "py": "Zhèlǐ yǒushù hé yìjiān fángzi.",
-     "en": "There are trees and a house here."
+     "en": "There are trees and a house here.",
+     "idn": "Di sini ada pohon dan rumah."
     },
     "B": {
      "zh": "房子的前面停了幾輛車。",
      "py": "Fángzi de qiánmiàn tíng le jǐliàngchē.",
-     "en": "Several cars are parked in front of the house."
+     "en": "Several cars are parked in front of the house.",
+     "idn": "Di depan rumah terparkir beberapa mobil."
     },
     "C": {
      "zh": "有一些人站在房子旁邊。",
      "py": "Yǒu yìxiē rénzhàn zài fángzi pángbiān.",
-     "en": "Some people are standing next to the house."
+     "en": "Some people are standing next to the house.",
+     "idn": "Ada orang yang berdiri di samping rumah."
     }
    }
   },
@@ -152,17 +173,20 @@
     "A": {
      "zh": "她正在休息。",
      "py": "Tā zhèngzài xiūxí.",
-     "en": "She is resting."
+     "en": "She is resting.",
+     "idn": "Dia sedang beristirahat."
     },
     "B": {
      "zh": "她在床上睡覺。",
      "py": "Tā zài chuángshàng shuìjiào.",
-     "en": "She is sleeping in bed."
+     "en": "She is sleeping in bed.",
+     "idn": "Dia sedang tidur di ranjang."
     },
     "C": {
      "zh": "她正寫著作業。",
      "py": "Tā zhèng xiě zhùzuò yè.",
-     "en": "She is doing her homework."
+     "en": "She is doing her homework.",
+     "idn": "Dia sedang mengerjakan PR."
     }
    }
   },
@@ -171,17 +195,20 @@
     "A": {
      "zh": "短頭髮的小姐在喝酒。",
      "py": "Duǎn tóufà de Xiǎojiě zài hējiǔ.",
-     "en": "The lady with short hair is drinking alcohol."
+     "en": "The lady with short hair is drinking alcohol.",
+     "idn": "Wanita berambut pendek itu sedang minum minuman beralkohol."
     },
     "B": {
      "zh": "長頭髮的小姐穿裙子。",
      "py": "Cháng tóufà de Xiǎojiě chuān qúnzi.",
-     "en": "The lady with long hair is wearing a skirt."
+     "en": "The lady with long hair is wearing a skirt.",
+     "idn": "Wanita berambut panjang itu memakai rok."
     },
     "C": {
      "zh": "穿裙子的小姐拿著皮包。",
      "py": "Chuān qúnzi de Xiǎojiě názhe píbāo.",
-     "en": "The lady wearing a skirt is holding a handbag."
+     "en": "The lady wearing a skirt is holding a handbag.",
+     "idn": "Wanita yang memakai rok itu memegang tas tangan."
     }
    }
   },
@@ -190,24 +217,28 @@
     "A": {
      "zh": "小吃店九點以前休息。",
      "py": "Xiǎochīdiàn jiǔdiǎn yǐqián xiūxí.",
-     "en": "The snack shop is closed before nine o'clock."
+     "en": "The snack shop is closed before nine o'clock.",
+     "idn": "Kedai makanan ringan tutup sebelum pukul sembilan."
     },
     "B": {
      "zh": "小吃店十二點開始休息。",
      "py": "Xiǎochīdiàn shí'èrdiǎn kāishǐ xiūxí.",
-     "en": "The snack shop starts its break at twelve o'clock."
+     "en": "The snack shop starts its break at twelve o'clock.",
+     "idn": "Kedai makanan ringan mulai istirahat pukul dua belas."
     },
     "C": {
      "zh": "十二點以後可以去小吃店吃飯。",
      "py": "Shí'èrdiǎn yǐhòu kěyǐ qù xiǎochīdiàn chīfàn.",
-     "en": "After twelve o'clock you can go eat at the snack shop."
+     "en": "After twelve o'clock you can go eat at the snack shop.",
+     "idn": "Setelah pukul dua belas, kamu bisa makan di kedai makanan ringan."
     }
    },
    "image": [
     {
      "zh": "9:00~12:00 休息",
      "py": "9: 00~ 12: 00 xiūxí",
-     "en": "9:00–12:00 Closed (break)"
+     "en": "9:00–12:00 Closed (break)",
+     "idn": "09.00–12.00 Tutup (istirahat)"
     }
    ]
   },
@@ -216,34 +247,40 @@
     "A": {
      "zh": "一天吃三粒。",
      "py": "Yìtiān chī sānlì.",
-     "en": "Take three pills a day."
+     "en": "Take three pills a day.",
+     "idn": "Minum tiga butir obat sehari."
     },
     "B": {
      "zh": "三天吃一次。",
      "py": "Sāntiān chī yícì.",
-     "en": "Take it once every three days."
+     "en": "Take it once every three days.",
+     "idn": "Diminum sekali setiap tiga hari."
     },
     "C": {
      "zh": "先吃飯再吃藥。",
      "py": "Xiān chīfàn zài chīyào.",
-     "en": "Eat first, then take the medicine."
+     "en": "Eat first, then take the medicine.",
+     "idn": "Makan dulu, baru minum obat."
     }
    },
    "image": [
     {
      "zh": "一天吃三次",
      "py": "Yìtiān chī sāncì",
-     "en": "Take three times a day"
+     "en": "Take three times a day",
+     "idn": "Diminum tiga kali sehari"
     },
     {
      "zh": "吃飯以後吃",
      "py": "Chīfàn yǐhòu chī",
-     "en": "Take after meals"
+     "en": "Take after meals",
+     "idn": "Diminum setelah makan"
     },
     {
      "zh": "一次吃兩粒",
      "py": "Yícì chī liǎnglì",
-     "en": "Take two pills each time"
+     "en": "Take two pills each time",
+     "idn": "Sekali minum dua butir"
     }
    ]
   },
@@ -252,39 +289,46 @@
     "A": {
      "zh": "中午以後買票比較貴。",
      "py": "Zhōngwǔ yǐhòu mǎipiào bǐjiào guì.",
-     "en": "Tickets are more expensive after noon."
+     "en": "Tickets are more expensive after noon.",
+     "idn": "Tiket lebih mahal setelah tengah hari."
     },
     "B": {
      "zh": "上午買兩張票要 500 元。",
      "py": "Shàngwǔ mǎi liǎngzhāng piào yào 500 yuán.",
-     "en": "Two tickets in the morning cost 500 dollars."
+     "en": "Two tickets in the morning cost 500 dollars.",
+     "idn": "Dua tiket pada pagi hari harganya 500 dolar."
     },
     "C": {
      "zh": "想看電影要中午以後才行。",
      "py": "Xiǎng kàn diànyǐng yào zhōngwǔ yǐhòu cái xíng.",
-     "en": "If you want to see the movie, you have to wait until after noon."
+     "en": "If you want to see the movie, you have to wait until after noon.",
+     "idn": "Kalau ingin menonton film, harus menunggu sampai lewat tengah hari."
     }
    },
    "image": [
     {
      "zh": "A 廳",
      "py": "A tīng",
-     "en": "Hall A"
+     "en": "Hall A",
+     "idn": "Studio A"
     },
     {
      "zh": "10:00~11:50 190 元",
      "py": "10: 00~ 11: 50 190 yuán",
-     "en": "10:00–11:50 NT$190"
+     "en": "10:00–11:50 NT$190",
+     "idn": "10.00–11.50 NT$190"
     },
     {
      "zh": "12:00~13:50 250 元",
      "py": "12: 00~ 13: 50 250 yuán",
-     "en": "12:00–13:50 NT$250"
+     "en": "12:00–13:50 NT$250",
+     "idn": "12.00–13.50 NT$250"
     },
     {
      "zh": "14:00~15:50 250 元",
      "py": "14: 00~ 15: 50 250 yuán",
-     "en": "14:00–15:50 NT$250"
+     "en": "14:00–15:50 NT$250",
+     "idn": "14.00–15.50 NT$250"
     }
    ]
   },
@@ -293,17 +337,20 @@
     "A": {
      "zh": "教室的門是關著的。",
      "py": "Jiàoshì de mén shì guānzhe de.",
-     "en": "The classroom door is closed."
+     "en": "The classroom door is closed.",
+     "idn": "Pintu kelas tertutup."
     },
     "B": {
      "zh": "這位老師今天穿裙子。",
      "py": "Zhèwèi lǎoshī jīntiān chuān qúnzi.",
-     "en": "This teacher is wearing a skirt today."
+     "en": "This teacher is wearing a skirt today.",
+     "idn": "Guru ini hari ini memakai rok."
     },
     "C": {
      "zh": "這位老師的頭髮短短的。",
      "py": "Zhèwèi lǎoshī de tóufà duǎnduǎnde.",
-     "en": "This teacher's hair is short."
+     "en": "This teacher's hair is short.",
+     "idn": "Rambut guru ini pendek."
     }
    }
   },
@@ -312,17 +359,20 @@
     "A": {
      "zh": "他們現在正在上課。",
      "py": "Tāmen xiànzài zhèngzài shàngkè.",
-     "en": "They are in class right now."
+     "en": "They are in class right now.",
+     "idn": "Mereka sedang belajar di kelas."
     },
     "B": {
      "zh": "他們從學校走出來。",
      "py": "Tāmen cóng xuéxiào zǒu chūlái.",
-     "en": "They are walking out of the school."
+     "en": "They are walking out of the school.",
+     "idn": "Mereka sedang berjalan keluar dari sekolah."
     },
     "C": {
      "zh": "男孩走在女孩的前面。",
      "py": "Nánhái zǒu zài nǚhái de qiánmiàn.",
-     "en": "The boy is walking in front of the girl."
+     "en": "The boy is walking in front of the girl.",
+     "idn": "Anak laki-laki itu berjalan di depan anak perempuan itu."
     }
    }
   },
@@ -331,17 +381,20 @@
     "A": {
      "zh": "這家餐廳不賣飲料。",
      "py": "Zhèjiā cāntīng búmài yǐnliào.",
-     "en": "This restaurant doesn't sell drinks."
+     "en": "This restaurant doesn't sell drinks.",
+     "idn": "Restoran ini tidak menjual minuman."
     },
     "B": {
      "zh": "餐廳裡一個人都沒有。",
      "py": "Cāntīng lǐ yí ge rén dōu méiyǒu.",
-     "en": "There is no one at all in the restaurant."
+     "en": "There is no one at all in the restaurant.",
+     "idn": "Di restoran sama sekali tidak ada orang."
     },
     "C": {
      "zh": "這位女客人買了兩杯果汁。",
      "py": "Zhèwèi nǚ kèrén mǎi le liǎngbēi guǒzhī.",
-     "en": "This female customer bought two glasses of juice."
+     "en": "This female customer bought two glasses of juice.",
+     "idn": "Pelanggan wanita ini membeli dua gelas jus."
     }
    }
   },
@@ -350,17 +403,20 @@
     "A": {
      "zh": "小美下午三點多才到旅館。",
      "py": "Xiǎoměi xiàwǔ sāndiǎn duō cái dào lǚguǎn.",
-     "en": "Xiaomei didn't arrive at the hotel until after three in the afternoon."
+     "en": "Xiaomei didn't arrive at the hotel until after three in the afternoon.",
+     "idn": "Xiaomei baru tiba di hotel setelah pukul tiga sore."
     },
     "B": {
      "zh": "在這兒住一晚要兩百多塊。",
      "py": "Zài zhèr zhù yì wǎn yào liǎngbǎiduō kuài.",
-     "en": "Staying here one night costs over two hundred dollars."
+     "en": "Staying here one night costs over two hundred dollars.",
+     "idn": "Menginap semalam di sini harganya lebih dari dua ratus dolar."
     },
     "C": {
      "zh": "小美帶了好幾件大的行李。",
      "py": "Xiǎo měi dài le hǎojǐjiàn dà de xínglǐ.",
-     "en": "Xiaomei brought quite a few pieces of large luggage."
+     "en": "Xiaomei brought quite a few pieces of large luggage.",
+     "idn": "Xiaomei membawa cukup banyak koper besar."
     }
    }
   },
@@ -369,17 +425,20 @@
     "A": {
      "zh": "那位男生正在賣麵包。",
      "py": "Nàwèi nánshēng zhèngzài mài miànbāo.",
-     "en": "That young man is selling bread."
+     "en": "That young man is selling bread.",
+     "idn": "Pemuda itu sedang menjual roti."
     },
     "B": {
      "zh": "等車的小姐拿著一袋水果。",
      "py": "Děng chē de Xiǎojiě názhe yídài shuǐguǒ.",
-     "en": "The lady waiting for the bus is holding a bag of fruit."
+     "en": "The lady waiting for the bus is holding a bag of fruit.",
+     "idn": "Wanita yang sedang menunggu bus itu memegang sekantong buah."
     },
     "C": {
      "zh": "有一位小姐在等七十六號公車。",
      "py": "Yǒu yíwèi Xiǎojiě zài děng qīshíliù hào gōngchē.",
-     "en": "A lady is waiting for bus No. 76."
+     "en": "A lady is waiting for bus No. 76.",
+     "idn": "Seorang wanita sedang menunggu bus nomor 76."
     }
    }
   },
@@ -388,17 +447,20 @@
     "A": {
      "zh": "王小姐買了三雙鞋子。",
      "py": "Wángxiǎojiě mǎi le sānshuāng xiézi.",
-     "en": "Miss Wang bought three pairs of shoes."
+     "en": "Miss Wang bought three pairs of shoes.",
+     "idn": "Nona Wang membeli tiga pasang sepatu."
     },
     "B": {
      "zh": "這家店只賣鞋子和襪子。",
      "py": "Zhèjiā diàn zhǐ mài xiézi hé wàzi.",
-     "en": "This shop only sells shoes and socks."
+     "en": "This shop only sells shoes and socks.",
+     "idn": "Toko ini hanya menjual sepatu dan kaus kaki."
     },
     "C": {
      "zh": "這家店也賣褲子和皮包。",
      "py": "Zhèjiā diàn yě mài kùzi hé píbāo.",
-     "en": "This shop also sells pants and handbags."
+     "en": "This shop also sells pants and handbags.",
+     "idn": "Toko ini juga menjual celana dan tas tangan."
     }
    }
   },
@@ -407,44 +469,52 @@
     "A": {
      "zh": "李天明教台北人英文。",
      "py": "Lǐtiān Míngjiào táiběirén Yīngwén.",
-     "en": "Li Tianming teaches English to people from Taipei."
+     "en": "Li Tianming teaches English to people from Taipei.",
+     "idn": "Li Tianming mengajar bahasa Inggris kepada orang Taipei."
     },
     "B": {
      "zh": "李天明要找外國人學英文。",
      "py": "Lǐ Tiānmíng yào zhǎo wàiguórén xué Yīngwén.",
-     "en": "Li Tianming wants to find a foreigner to learn English from."
+     "en": "Li Tianming wants to find a foreigner to learn English from.",
+     "idn": "Li Tianming ingin mencari orang asing untuk belajar bahasa Inggris."
     },
     "C": {
      "zh": "李天明覺得學中文很便宜。",
      "py": "Lǐ Tiānmíng juéde xué Zhōngwén hěn piányi.",
-     "en": "Li Tianming thinks learning Chinese is very cheap."
+     "en": "Li Tianming thinks learning Chinese is very cheap.",
+     "idn": "Li Tianming merasa belajar bahasa Mandarin sangat murah."
     }
    },
    "image": [
     {
      "zh": "學中文不用錢！",
      "py": "Xué Zhōngwén búyòng qián!",
-     "en": "Learn Chinese for free!"
+     "en": "Learn Chinese for free!",
+     "idn": "Belajar bahasa Mandarin gratis!"
     },
     {
      "zh": "你好，我叫李天明",
      "py": "Nǐhǎo, wǒ jiào Lǐ Tiānmíng",
-     "en": "Hello, my name is Li Tianming."
+     "en": "Hello, my name is Li Tianming.",
+     "idn": "Halo, nama saya Li Tianming."
     },
     {
      "zh": "我是台北人，想學英文！",
      "py": "Wǒ shì táiběirén, xiǎng xué Yīngwén!",
-     "en": "I'm from Taipei and I want to learn English!"
+     "en": "I'm from Taipei and I want to learn English!",
+     "idn": "Saya dari Taipei dan ingin belajar bahasa Inggris!"
     },
     {
      "zh": "如果你想學中文，可以找我！",
      "py": "Rúguǒ nǐ xiǎng xué Zhōngwén, kěyǐ zhǎo wǒ!",
-     "en": "If you want to learn Chinese, you can contact me!"
+     "en": "If you want to learn Chinese, you can contact me!",
+     "idn": "Kalau kamu ingin belajar bahasa Mandarin, silakan hubungi saya!"
     },
     {
      "zh": "電話：0978-654-321",
      "py": "Diànhuà: 0978 - 654 - 321",
-     "en": "Phone: 0978-654-321"
+     "en": "Phone: 0978-654-321",
+     "idn": "Telepon: 0978-654-321"
     }
    ]
   },
@@ -453,49 +523,58 @@
     "A": {
      "zh": "兩個人一起去,就有紅茶可以喝。",
      "py": "Liǎng ge rén yìqǐ qù, jiù yǒu Hóngchá kěyǐ hē.",
-     "en": "If two people go together, they get black tea to drink."
+     "en": "If two people go together, they get black tea to drink.",
+     "idn": "Kalau dua orang pergi bersama, mereka mendapat teh hitam untuk diminum."
     },
     "B": {
      "zh": "一個人不到兩萬就可以去韓國旅行。",
      "py": "Yí ge rén búdào liǎngwàn jiù kěyǐ qù Hánguó lǚxíng.",
-     "en": "One person can travel to Korea for less than twenty thousand."
+     "en": "One person can travel to Korea for less than twenty thousand.",
+     "idn": "Satu orang bisa berwisata ke Korea dengan biaya kurang dari dua puluh ribu."
     },
     "C": {
      "zh": "三個人一起去的話，一共可以少給 1000 元。",
      "py": "Sān ge rén yìqǐ qù dehuà, yígòng kěyǐ shǎo gěi 1000 yuán.",
-     "en": "If three people go together, they pay 1,000 dollars less in total."
+     "en": "If three people go together, they pay 1,000 dollars less in total.",
+     "idn": "Kalau tiga orang pergi bersama, total biayanya lebih murah 1.000 dolar."
     }
    },
    "image": [
     {
      "zh": "中天旅行公司",
      "py": "Zhōng tiān lǚxíng gōngsī",
-     "en": "Zhongtian Travel Agency"
+     "en": "Zhongtian Travel Agency",
+     "idn": "Biro Perjalanan Zhongtian"
     },
     {
      "zh": "韓國的冬天又漂亮又好玩，請大家一起到韓國去滑雪",
      "py": "Hánguó de dōngtiān yòu piàoliang yòu hǎowán, qǐng dàjiā yìqǐ dào Hánguó qù Huáxuě",
-     "en": "Winter in Korea is both beautiful and fun—come ski in Korea with us!"
+     "en": "Winter in Korea is both beautiful and fun—come ski in Korea with us!",
+     "idn": "Musim dingin di Korea indah dan seru—ayo bermain ski di Korea bersama kami!"
     },
     {
      "zh": "一個人只要19999元",
      "py": "Yí ge rén zhǐyào 19999 yuán",
-     "en": "Only NT$19,999 per person"
+     "en": "Only NT$19,999 per person",
+     "idn": "Hanya NT$19.999 per orang"
     },
     {
      "zh": "兩個人一起來，一個人可以便宜500元",
      "py": "Liǎng ge rén yì qǐlái, yí ge rén kěyǐ piányi 500 yuán",
-     "en": "Come as two, and each person saves NT$500"
+     "en": "Come as two, and each person saves NT$500",
+     "idn": "Datang berdua, masing-masing hemat NT$500"
     },
     {
      "zh": "三個人一起來，一個人可以便宜1000元，再送你好喝的紅茶一盒",
      "py": "Sān ge rén yì qǐlái, yí ge rén kěyǐ piányi 1000 yuán, zài sòng nǐ hǎohē de Hóngchá yìhé",
-     "en": "Come as three, and each person saves NT$1,000, plus a free box of delicious black tea"
+     "en": "Come as three, and each person saves NT$1,000, plus a free box of delicious black tea",
+     "idn": "Datang bertiga, masing-masing hemat NT$1.000, plus gratis sekotak teh hitam yang lezat"
     },
     {
      "zh": "有興趣的人，請打電話：02-2511-1687",
      "py": "Yǒu xìngqù de rén, qǐng dǎdiànhuà: 02 - 2511 - 1687",
-     "en": "If interested, please call: 02-2511-1687"
+     "en": "If interested, please call: 02-2511-1687",
+     "idn": "Jika berminat, silakan telepon: 02-2511-1687"
     }
    ]
   },
@@ -503,23 +582,27 @@
    "stem": {
     "zh": "著眼鏡的小女孩在看書。",
     "py": "Zhe yǎnjìng de xiǎonǚhái zài kànshū.",
-    "en": "The little girl ___ glasses is reading a book. (blank: wearing)"
+    "en": "The little girl ___ glasses is reading a book. (blank: wearing)",
+    "idn": "Gadis kecil yang ___ kacamata itu sedang membaca buku. (isian: memakai)"
    },
    "options": {
     "A": {
      "zh": "穿",
      "py": "Chuān",
-     "en": "to wear (clothes, shoes)"
+     "en": "to wear (clothes, shoes)",
+     "idn": "memakai (pakaian, sepatu)"
     },
     "B": {
      "zh": "帶",
      "py": "Dài",
-     "en": "to bring, to take along"
+     "en": "to bring, to take along",
+     "idn": "membawa"
     },
     "C": {
      "zh": "戴",
      "py": "Dài",
-     "en": "to wear (glasses, hats, accessories)"
+     "en": "to wear (glasses, hats, accessories)",
+     "idn": "memakai (kacamata, topi, aksesori)"
     }
    }
   },
@@ -527,23 +610,27 @@
    "stem": {
     "zh": "她一邊看書，一邊 筷子吃麵。",
     "py": "Tā yìbiān kànshū, yìbiān kuàizi chī miàn.",
-    "en": "She is reading while eating noodles ___ chopsticks. (blank: with/using)"
+    "en": "She is reading while eating noodles ___ chopsticks. (blank: with/using)",
+    "idn": "Dia membaca buku sambil makan mi ___ sumpit. (isian: dengan/menggunakan)"
    },
    "options": {
     "A": {
      "zh": "帶",
      "py": "Dài",
-     "en": "to bring, to take along"
+     "en": "to bring, to take along",
+     "idn": "membawa"
     },
     "B": {
      "zh": "用",
      "py": "Yòng",
-     "en": "to use"
+     "en": "to use",
+     "idn": "memakai, menggunakan"
     },
     "C": {
      "zh": "找",
      "py": "Zhǎo",
-     "en": "to look for"
+     "en": "to look for",
+     "idn": "mencari"
     }
    }
   },
@@ -551,23 +638,27 @@
    "stem": {
     "zh": "那個小女孩 有一隻狗。",
     "py": "Nà ge xiǎonǚhái yǒu yìzhī gǒu.",
-    "en": "That little girl ___ has a dog. (blank: beside her)"
+    "en": "That little girl ___ has a dog. (blank: beside her)",
+    "idn": "Gadis kecil itu ___ ada seekor anjing. (isian: di sampingnya)"
    },
    "options": {
     "A": {
      "zh": "旁邊",
      "py": "Pángbiān",
-     "en": "beside, next to"
+     "en": "beside, next to",
+     "idn": "samping, sebelah"
     },
     "B": {
      "zh": "前邊",
      "py": "Qiánbiān",
-     "en": "in front"
+     "en": "in front",
+     "idn": "depan"
     },
     "C": {
      "zh": "後邊",
      "py": "Hòubiān",
-     "en": "behind"
+     "en": "behind",
+     "idn": "belakang"
     }
    }
   },
@@ -575,23 +666,27 @@
    "stem": {
     "zh": "那隻狗 睡覺。",
     "py": "Nà zhǐ gǒu shuìjiào.",
-    "en": "That dog ___ sleeping. (blank: is in the middle of)"
+    "en": "That dog ___ sleeping. (blank: is in the middle of)",
+    "idn": "Anjing itu ___ tidur. (isian: sedang)"
    },
    "options": {
     "A": {
      "zh": "在",
      "py": "Zài",
-     "en": "(progressive marker) in the middle of"
+     "en": "(progressive marker) in the middle of",
+     "idn": "sedang (penanda aspek progresif)"
     },
     "B": {
      "zh": "要",
      "py": "Yào",
-     "en": "to want to, going to"
+     "en": "to want to, going to",
+     "idn": "mau, akan"
     },
     "C": {
      "zh": "是",
      "py": "Shì",
-     "en": "to be"
+     "en": "to be",
+     "idn": "adalah"
     }
    }
   },
@@ -599,23 +694,27 @@
    "stem": {
     "zh": "小女孩 小狗是好朋友。",
     "py": "Xiǎonǚhái Xiǎogǒu shì hǎo péngyǒu.",
-    "en": "The little girl ___ the puppy are good friends. (blank: and)"
+    "en": "The little girl ___ the puppy are good friends. (blank: and)",
+    "idn": "Gadis kecil itu ___ anak anjing itu bersahabat baik. (isian: dan)"
    },
    "options": {
     "A": {
      "zh": "有",
      "py": "Yǒu",
-     "en": "to have"
+     "en": "to have",
+     "idn": "punya, ada"
     },
     "B": {
      "zh": "跟",
      "py": "Gēn",
-     "en": "and, with"
+     "en": "and, with",
+     "idn": "dan, dengan"
     },
     "C": {
      "zh": "一起",
      "py": "Yìqǐ",
-     "en": "together"
+     "en": "together",
+     "idn": "bersama"
     }
    }
   },
@@ -623,23 +722,27 @@
    "stem": {
     "zh": "九月五日是小女孩的 。",
     "py": "Jiǔyuè wǔrì shì xiǎonǚhái de.",
-    "en": "September 5th is the little girl's ___."
+    "en": "September 5th is the little girl's ___.",
+    "idn": "Tanggal 5 September adalah ___ gadis kecil itu."
    },
    "options": {
     "A": {
      "zh": "生活",
      "py": "Shēnghuó",
-     "en": "life, daily life"
+     "en": "life, daily life",
+     "idn": "kehidupan, kehidupan sehari-hari"
     },
     "B": {
      "zh": "生日",
      "py": "Shēngrì",
-     "en": "birthday"
+     "en": "birthday",
+     "idn": "ulang tahun"
     },
     "C": {
      "zh": "星期日",
      "py": "Xīngqīrì",
-     "en": "Sunday"
+     "en": "Sunday",
+     "idn": "hari Minggu"
     }
    }
   },
@@ -647,23 +750,27 @@
    "stem": {
     "zh": "大家都 她慶祝。",
     "py": "Dàjiā dōu tā qìngzhù.",
-    "en": "Everyone ___ her celebrate. (blank: helps / for)"
+    "en": "Everyone ___ her celebrate. (blank: helps / for)",
+    "idn": "Semua orang ___ dia merayakannya. (isian: membantu / untuk)"
    },
    "options": {
     "A": {
      "zh": "幫",
      "py": "Bāng",
-     "en": "to help; for (someone)"
+     "en": "to help; for (someone)",
+     "idn": "membantu; untuk (seseorang)"
     },
     "B": {
      "zh": "讓",
      "py": "Ràng",
-     "en": "to let"
+     "en": "to let",
+     "idn": "membiarkan, menyuruh"
     },
     "C": {
      "zh": "對",
      "py": "Duì",
-     "en": "toward, to"
+     "en": "toward, to",
+     "idn": "terhadap, kepada"
     }
    }
   },
@@ -671,23 +778,27 @@
    "stem": {
     "zh": "她 到很多禮物。",
     "py": "Tā dào hěnduō lǐwù.",
-    "en": "She ___ many presents. (blank: received)"
+    "en": "She ___ many presents. (blank: received)",
+    "idn": "Dia ___ banyak hadiah. (isian: menerima)"
    },
    "options": {
     "A": {
      "zh": "收",
      "py": "Shōu",
-     "en": "to receive"
+     "en": "to receive",
+     "idn": "menerima"
     },
     "B": {
      "zh": "寄",
      "py": "Jì",
-     "en": "to send, to mail"
+     "en": "to send, to mail",
+     "idn": "mengirim (surat/paket)"
     },
     "C": {
      "zh": "借",
      "py": "Jiè",
-     "en": "to borrow, to lend"
+     "en": "to borrow, to lend",
+     "idn": "meminjam, meminjamkan"
     }
    }
   },
@@ -695,23 +806,27 @@
    "stem": {
     "zh": "所以，她今天非常 。",
     "py": "Suǒyǐ, tā jīntiān fēicháng.",
-    "en": "So she is very ___ today."
+    "en": "So she is very ___ today.",
+    "idn": "Karena itu, hari ini dia sangat ___."
    },
    "options": {
     "A": {
      "zh": "熱鬧",
      "py": "Rènào",
-     "en": "lively, bustling"
+     "en": "lively, bustling",
+     "idn": "ramai, meriah"
     },
     "B": {
      "zh": "舒服",
      "py": "Shūfú",
-     "en": "comfortable"
+     "en": "comfortable",
+     "idn": "nyaman"
     },
     "C": {
      "zh": "高興",
      "py": "Gāoxìng",
-     "en": "happy"
+     "en": "happy",
+     "idn": "senang, gembira"
     }
    }
   },
@@ -719,23 +834,27 @@
    "stem": {
     "zh": "她希望明年能 德國去玩。",
     "py": "Tā xīwàng míngnián néng Déguó qù wán.",
-    "en": "She hopes she can go ___ Germany for a trip next year. (blank: to)"
+    "en": "She hopes she can go ___ Germany for a trip next year. (blank: to)",
+    "idn": "Dia berharap tahun depan bisa pergi ___ Jerman untuk berlibur. (isian: ke)"
    },
    "options": {
     "A": {
      "zh": "到",
      "py": "Dào",
-     "en": "to arrive; to (a place)"
+     "en": "to arrive; to (a place)",
+     "idn": "tiba; ke (suatu tempat)"
     },
     "B": {
      "zh": "去",
      "py": "Qù",
-     "en": "to go"
+     "en": "to go",
+     "idn": "pergi"
     },
     "C": {
      "zh": "來",
      "py": "Lái",
-     "en": "to come"
+     "en": "to come",
+     "idn": "datang"
     }
    }
   },
@@ -744,64 +863,76 @@
     {
      "zh": "昨天晚上我覺得很不舒服，（41），所以很早就睡覺了。",
      "py": "Zuótiānwǎnshàng wǒ juéde hěn bù shūfú, (41), suǒyǐ hěn zǎojiù shuìjiào le.",
-     "en": "Last night I felt very unwell, (41), so I went to bed very early."
+     "en": "Last night I felt very unwell, (41), so I went to bed very early.",
+     "idn": "Tadi malam saya merasa sangat tidak enak badan, (41), jadi saya tidur sangat awal."
     },
     {
      "zh": "今天早上起來，（42）。",
      "py": "Jīntiān zǎoshàng qǐlái, (42).",
-     "en": "When I got up this morning, (42)."
+     "en": "When I got up this morning, (42).",
+     "idn": "Waktu bangun pagi ini, (42)."
     },
     {
      "zh": "我去看病，醫生說我感冒了，給了我一些藥，（43）要多休息，多喝水，才會快點好。",
      "py": "Wǒ qù kànbìng, yīshēng shuō wǒ gǎnmào le, gěi le wǒ yìxiē yào, (43) yào duō xiūxí, duōhēshuǐ, cái huì kuàidiǎn hǎo.",
-     "en": "I went to see a doctor. The doctor said I had a cold and gave me some medicine, (43) to rest more and drink more water so I'd get better sooner."
+     "en": "I went to see a doctor. The doctor said I had a cold and gave me some medicine, (43) to rest more and drink more water so I'd get better sooner.",
+     "idn": "Saya pergi ke dokter. Dokter bilang saya masuk angin (pilek), memberi saya obat, (43) agar banyak istirahat dan banyak minum air supaya cepat sembuh."
     },
     {
      "zh": "這幾天的天氣一會兒熱，一會兒冷，（44）。",
      "py": "Zhè jǐtiān de tiānqì yíhuìr rè, yíhuìr lěng, (44).",
-     "en": "The weather these days is hot one moment and cold the next, (44)."
+     "en": "The weather these days is hot one moment and cold the next, (44).",
+     "idn": "Beberapa hari ini cuacanya sebentar panas, sebentar dingin, (44)."
     },
     {
      "zh": "我要",
      "py": "Wǒ yào",
-     "en": "I need to"
+     "en": "I need to",
+     "idn": "Saya harus"
     },
     {
      "zh": "（45），不要再感冒了。",
      "py": "(45), búyào zài gǎnmào le.",
-     "en": "(45), and not catch a cold again."
+     "en": "(45), and not catch a cold again.",
+     "idn": "(45), dan jangan sampai pilek lagi."
     }
    ],
    "options": {
     "A": {
      "zh": "還告訴我",
      "py": "Hái gàosù wǒ",
-     "en": "and also told me"
+     "en": "and also told me",
+     "idn": "dan juga berpesan kepada saya"
     },
     "B": {
      "zh": "頭有點兒痛",
      "py": "Tóu yǒudiǎnr tòng",
-     "en": "my head hurt a bit"
+     "en": "my head hurt a bit",
+     "idn": "kepala saya agak sakit"
     },
     "C": {
      "zh": "很容易生病",
      "py": "Hěn róngyì shēngbìng",
-     "en": "it's very easy to get sick"
+     "en": "it's very easy to get sick",
+     "idn": "sangat mudah jatuh sakit"
     },
     "D": {
      "zh": "覺得很舒服",
      "py": "Juéde hěn shūfú",
-     "en": "I felt very comfortable"
+     "en": "I felt very comfortable",
+     "idn": "saya merasa sangat nyaman"
     },
     "E": {
      "zh": "更不舒服了",
      "py": "Gèng bù shūfú le",
-     "en": "I felt even worse"
+     "en": "I felt even worse",
+     "idn": "saya merasa makin tidak enak badan"
     },
     "F": {
      "zh": "多注意自己的身體",
      "py": "Duō zhùyì zìjǐ de shēntǐ",
-     "en": "pay more attention to my health"
+     "en": "pay more attention to my health",
+     "idn": "lebih memperhatikan kesehatan saya sendiri"
     }
    }
   },
@@ -810,32 +941,38 @@
     "A": {
      "zh": "還告訴我",
      "py": "Hái gàosù wǒ",
-     "en": "and also told me"
+     "en": "and also told me",
+     "idn": "dan juga berpesan kepada saya"
     },
     "B": {
      "zh": "頭有點兒痛",
      "py": "Tóu yǒudiǎnr tòng",
-     "en": "my head hurt a bit"
+     "en": "my head hurt a bit",
+     "idn": "kepala saya agak sakit"
     },
     "C": {
      "zh": "很容易生病",
      "py": "Hěn róngyì shēngbìng",
-     "en": "it's very easy to get sick"
+     "en": "it's very easy to get sick",
+     "idn": "sangat mudah jatuh sakit"
     },
     "D": {
      "zh": "覺得很舒服",
      "py": "Juéde hěn shūfú",
-     "en": "I felt very comfortable"
+     "en": "I felt very comfortable",
+     "idn": "saya merasa sangat nyaman"
     },
     "E": {
      "zh": "更不舒服了",
      "py": "Gèng bù shūfú le",
-     "en": "I felt even worse"
+     "en": "I felt even worse",
+     "idn": "saya merasa makin tidak enak badan"
     },
     "F": {
      "zh": "多注意自己的身體",
      "py": "Duō zhùyì zìjǐ de shēntǐ",
-     "en": "pay more attention to my health"
+     "en": "pay more attention to my health",
+     "idn": "lebih memperhatikan kesehatan saya sendiri"
     }
    }
   },
@@ -844,32 +981,38 @@
     "A": {
      "zh": "還告訴我",
      "py": "Hái gàosù wǒ",
-     "en": "and also told me"
+     "en": "and also told me",
+     "idn": "dan juga berpesan kepada saya"
     },
     "B": {
      "zh": "頭有點兒痛",
      "py": "Tóu yǒudiǎnr tòng",
-     "en": "my head hurt a bit"
+     "en": "my head hurt a bit",
+     "idn": "kepala saya agak sakit"
     },
     "C": {
      "zh": "很容易生病",
      "py": "Hěn róngyì shēngbìng",
-     "en": "it's very easy to get sick"
+     "en": "it's very easy to get sick",
+     "idn": "sangat mudah jatuh sakit"
     },
     "D": {
      "zh": "覺得很舒服",
      "py": "Juéde hěn shūfú",
-     "en": "I felt very comfortable"
+     "en": "I felt very comfortable",
+     "idn": "saya merasa sangat nyaman"
     },
     "E": {
      "zh": "更不舒服了",
      "py": "Gèng bù shūfú le",
-     "en": "I felt even worse"
+     "en": "I felt even worse",
+     "idn": "saya merasa makin tidak enak badan"
     },
     "F": {
      "zh": "多注意自己的身體",
      "py": "Duō zhùyì zìjǐ de shēntǐ",
-     "en": "pay more attention to my health"
+     "en": "pay more attention to my health",
+     "idn": "lebih memperhatikan kesehatan saya sendiri"
     }
    }
   },
@@ -878,32 +1021,38 @@
     "A": {
      "zh": "還告訴我",
      "py": "Hái gàosù wǒ",
-     "en": "and also told me"
+     "en": "and also told me",
+     "idn": "dan juga berpesan kepada saya"
     },
     "B": {
      "zh": "頭有點兒痛",
      "py": "Tóu yǒudiǎnr tòng",
-     "en": "my head hurt a bit"
+     "en": "my head hurt a bit",
+     "idn": "kepala saya agak sakit"
     },
     "C": {
      "zh": "很容易生病",
      "py": "Hěn róngyì shēngbìng",
-     "en": "it's very easy to get sick"
+     "en": "it's very easy to get sick",
+     "idn": "sangat mudah jatuh sakit"
     },
     "D": {
      "zh": "覺得很舒服",
      "py": "Juéde hěn shūfú",
-     "en": "I felt very comfortable"
+     "en": "I felt very comfortable",
+     "idn": "saya merasa sangat nyaman"
     },
     "E": {
      "zh": "更不舒服了",
      "py": "Gèng bù shūfú le",
-     "en": "I felt even worse"
+     "en": "I felt even worse",
+     "idn": "saya merasa makin tidak enak badan"
     },
     "F": {
      "zh": "多注意自己的身體",
      "py": "Duō zhùyì zìjǐ de shēntǐ",
-     "en": "pay more attention to my health"
+     "en": "pay more attention to my health",
+     "idn": "lebih memperhatikan kesehatan saya sendiri"
     }
    }
   },
@@ -912,32 +1061,38 @@
     "A": {
      "zh": "還告訴我",
      "py": "Hái gàosù wǒ",
-     "en": "and also told me"
+     "en": "and also told me",
+     "idn": "dan juga berpesan kepada saya"
     },
     "B": {
      "zh": "頭有點兒痛",
      "py": "Tóu yǒudiǎnr tòng",
-     "en": "my head hurt a bit"
+     "en": "my head hurt a bit",
+     "idn": "kepala saya agak sakit"
     },
     "C": {
      "zh": "很容易生病",
      "py": "Hěn róngyì shēngbìng",
-     "en": "it's very easy to get sick"
+     "en": "it's very easy to get sick",
+     "idn": "sangat mudah jatuh sakit"
     },
     "D": {
      "zh": "覺得很舒服",
      "py": "Juéde hěn shūfú",
-     "en": "I felt very comfortable"
+     "en": "I felt very comfortable",
+     "idn": "saya merasa sangat nyaman"
     },
     "E": {
      "zh": "更不舒服了",
      "py": "Gèng bù shūfú le",
-     "en": "I felt even worse"
+     "en": "I felt even worse",
+     "idn": "saya merasa makin tidak enak badan"
     },
     "F": {
      "zh": "多注意自己的身體",
      "py": "Duō zhùyì zìjǐ de shēntǐ",
-     "en": "pay more attention to my health"
+     "en": "pay more attention to my health",
+     "idn": "lebih memperhatikan kesehatan saya sendiri"
     }
    }
   },
@@ -946,54 +1101,64 @@
     {
      "zh": "（一）",
      "py": "(Yī)",
-     "en": "(1)"
+     "en": "(1)",
+     "idn": "(1)"
     },
     {
      "zh": "曾有一項調查發現，很多員工生病的時候不敢請假，因為他們擔心老闆會不高興，覺得他們沒有責任感。",
      "py": "Céng yǒu yíxiàng diàochá fāxiàn, hěnduō yuángōng shēngbìng de shíhòu bùgǎn qǐngjià, yīnwèi tāmen dānxīn lǎobǎn huì bù gāoxìng, juéde tāmen méiyǒu zérèngǎn.",
-     "en": "A survey once found that many employees don't dare to take sick leave when they are ill, because they worry their boss will be unhappy and think they have no sense of responsibility."
+     "en": "A survey once found that many employees don't dare to take sick leave when they are ill, because they worry their boss will be unhappy and think they have no sense of responsibility.",
+     "idn": "Sebuah survei pernah menemukan bahwa banyak karyawan tidak berani mengambil cuti sakit ketika sakit, karena khawatir atasan tidak senang dan menganggap mereka tidak bertanggung jawab."
     },
     {
      "zh": "有人認為，員工會這麼想是公司的責任。",
      "py": "Yǒurén rènwéi, yuángōng huì zhème xiǎng shì gōngsī de zérèn.",
-     "en": "Some people believe that it is the company's responsibility that employees think this way."
+     "en": "Some people believe that it is the company's responsibility that employees think this way.",
+     "idn": "Ada yang berpendapat bahwa karyawan berpikir seperti ini adalah tanggung jawab perusahaan."
     },
     {
      "zh": "一個好的公司應該能照顧員工，而不是讓他們拿健康去換錢。",
      "py": "Yí ge hǎo de gōngsī yīnggāi néng zhàogù yuángōng, ér búshì ràng tāmen ná jiànkāng qù huànqián.",
-     "en": "A good company should take care of its employees, not make them trade their health for money."
+     "en": "A good company should take care of its employees, not make them trade their health for money.",
+     "idn": "Perusahaan yang baik seharusnya memperhatikan karyawannya, bukan membuat mereka menukar kesehatan dengan uang."
     },
     {
      "zh": "因此，讓員工有幸福感，應該是未來企業努力的方向。",
      "py": "Yīncǐ, ràng yuángōng yǒu Xìngfúgǎn, yīnggāi shì wèilái qǐyè nǔlì de fāngxiàng.",
-     "en": "Therefore, giving employees a sense of well-being should be the direction businesses work toward in the future."
+     "en": "Therefore, giving employees a sense of well-being should be the direction businesses work toward in the future.",
+     "idn": "Karena itu, membuat karyawan merasa bahagia seharusnya menjadi arah upaya perusahaan di masa depan."
     }
    ],
    "stem": {
     "zh": "這篇文章說了什麼內容？",
     "py": "Zhè piānwénzhāng shuō le shénme nèiróng?",
-    "en": "What does this passage talk about?"
+    "en": "What does this passage talk about?",
+    "idn": "Apa yang dibicarakan dalam teks ini?"
    },
    "options": {
     "A": {
      "zh": "老闆應該給員工多一點兒假",
      "py": "Lǎobǎn yīnggāi gěi yuángōng duōyìdiǎnr jià",
-     "en": "Bosses should give employees a bit more leave."
+     "en": "Bosses should give employees a bit more leave.",
+     "idn": "Atasan seharusnya memberi karyawan cuti lebih banyak."
     },
     "B": {
      "zh": "常關心別人的人更有責任感",
      "py": "Cháng guānxīn biérén de rén gèng yǒu zérèngǎn",
-     "en": "People who often care about others have a stronger sense of responsibility."
+     "en": "People who often care about others have a stronger sense of responsibility.",
+     "idn": "Orang yang sering peduli pada orang lain punya rasa tanggung jawab yang lebih besar."
     },
     "C": {
      "zh": "對公司有意見要勇敢說出來",
      "py": "Duì gōngsī yǒu yìjiàn yào yǒnggǎn shuō chūlái",
-     "en": "If you have opinions about the company, you should bravely speak up."
+     "en": "If you have opinions about the company, you should bravely speak up.",
+     "idn": "Kalau punya pendapat tentang perusahaan, sampaikanlah dengan berani."
     },
     "D": {
      "zh": "照顧身體比認真工作更重要",
      "py": "Zhàogù shēntǐ bǐ rènzhēn gōngzuò gèng zhòngyào",
-     "en": "Taking care of your health is more important than working hard."
+     "en": "Taking care of your health is more important than working hard.",
+     "idn": "Menjaga kesehatan lebih penting daripada bekerja keras."
     }
    }
   },
@@ -1002,49 +1167,58 @@
     {
      "zh": "（二）",
      "py": "(Èr)",
-     "en": "(2)"
+     "en": "(2)",
+     "idn": "(2)"
     },
     {
      "zh": "如果你每天都覺得身體很累，有一份報告或許可以告訴你原因。",
      "py": "Rúguǒ nǐ měitiān dōu juéde shēntǐ hěn lèi, yǒu yífèn bàogào huòxǔ kěyǐ gàosù nǐ yuányīn.",
-     "en": "If you feel physically tired every day, a report may be able to tell you why."
+     "en": "If you feel physically tired every day, a report may be able to tell you why.",
+     "idn": "Kalau setiap hari badanmu terasa lelah, sebuah laporan mungkin bisa memberi tahu alasannya."
     },
     {
      "zh": "這份報告提到了下面幾種可能：不愛運動、水喝得不夠多、總是把事情想得太壞、不吃早餐、吃太多沒營養的食物等。",
      "py": "Zhèfèn bàogào tídào le xiàmiàn jǐzhǒng kěnéng: Bú ài yùndòng, shuǐ hē de búgòu duō, zǒngshì bǎ shìqing xiǎng de tàihuài, bùchī zǎocān, chī tài duō méi yíngyǎng de shíwù děng.",
-     "en": "The report mentions the following possibilities: not liking to exercise, not drinking enough water, always thinking the worst of things, skipping breakfast, eating too much non-nutritious food, and so on."
+     "en": "The report mentions the following possibilities: not liking to exercise, not drinking enough water, always thinking the worst of things, skipping breakfast, eating too much non-nutritious food, and so on.",
+     "idn": "Laporan itu menyebutkan beberapa kemungkinan berikut: tidak suka berolahraga, kurang minum air, selalu berpikir yang terburuk, tidak sarapan, terlalu banyak makan makanan yang tidak bergizi, dan sebagainya."
     },
     {
      "zh": "以上幾點，只要簡單思考一下自己符合了幾項，再試著做出一些改變，想讓自己更健康一點也不難。",
      "py": "Yǐshàng jǐdiǎn, zhǐyào jiǎndān sīkǎo yíxià zìjǐ fúhé le jǐxiàng, zài shìzhe zuòchū yìxiē gǎibiàn, xiǎng ràng zìjǐ gèng jiànkāng yìdiǎn yě bùnán.",
-     "en": "Just think briefly about how many of the points above apply to you, then try to make some changes; making yourself a little healthier is not hard."
+     "en": "Just think briefly about how many of the points above apply to you, then try to make some changes; making yourself a little healthier is not hard.",
+     "idn": "Cukup renungkan sebentar berapa banyak poin di atas yang sesuai dengan dirimu, lalu cobalah melakukan beberapa perubahan; membuat diri sedikit lebih sehat sama sekali tidak sulit."
     }
    ],
    "stem": {
     "zh": "在改善健康方面，下面哪一個是作者的建議？",
     "py": "Zài gǎishàn jiànkāng fāngmiàn, xiàmiàn nǎ yí ge shì zuòzhě de jiànyì?",
-    "en": "Regarding improving health, which of the following is the author's suggestion?"
+    "en": "Regarding improving health, which of the following is the author's suggestion?",
+    "idn": "Mengenai cara meningkatkan kesehatan, manakah saran penulis di antara pilihan berikut?"
    },
    "options": {
     "A": {
      "zh": "要培養運動的好習慣",
      "py": "Yào péiyǎng yùndòng de hǎo xíguàn",
-     "en": "Develop a good habit of exercising."
+     "en": "Develop a good habit of exercising.",
+     "idn": "Membiasakan diri berolahraga."
     },
     "B": {
      "zh": "想要吃什麼就吃什麼",
      "py": "Xiǎngyào chī shénme jiù chī shénme",
-     "en": "Eat whatever you want to eat."
+     "en": "Eat whatever you want to eat.",
+     "idn": "Makan apa saja yang ingin dimakan."
     },
     "C": {
      "zh": "平常應該多做點好事",
      "py": "Píngcháng yīnggāi duō zuò diǎn hǎoshì",
-     "en": "You should usually do more good deeds."
+     "en": "You should usually do more good deeds.",
+     "idn": "Sehari-hari sebaiknya lebih banyak berbuat baik."
     },
     "D": {
      "zh": "吃早餐以後不要喝水",
      "py": "Chī zǎocān yǐhòu búyào hēshuǐ",
-     "en": "Don't drink water after eating breakfast."
+     "en": "Don't drink water after eating breakfast.",
+     "idn": "Jangan minum air setelah sarapan."
     }
    }
   },
@@ -1053,59 +1227,70 @@
     {
      "zh": "（三）",
      "py": "(Sān)",
-     "en": "(3)"
+     "en": "(3)",
+     "idn": "(3)"
     },
     {
      "zh": "從前有一個地方很久都不下雨，人們不管怎麼求雨都沒有用。",
      "py": "Cóngqián yǒu yí ge dìfāng hěnjiǔ dōu búxiàyǔ, rénmen bùguǎnzěnme qiúyǔ dōu méiyǒu yòng.",
-     "en": "Once upon a time there was a place where it hadn't rained for a very long time, and no matter how people prayed for rain, it was no use."
+     "en": "Once upon a time there was a place where it hadn't rained for a very long time, and no matter how people prayed for rain, it was no use.",
+     "idn": "Dahulu kala ada sebuah tempat yang sudah sangat lama tidak turun hujan; bagaimanapun orang-orang berdoa memohon hujan, tetap tidak ada gunanya."
     },
     {
      "zh": "有一次，他們從很遠的地方，請來一位有智慧的老人，希望他可以幫幫忙。",
      "py": "Yǒu yícì, tāmen cóng hěnyuǎn de dìfāng, qǐnglái yíwèi yǒu Zhìhuì de lǎorén, xīwàng tā kěyǐ bāngbāngmáng.",
-     "en": "One time, they invited a wise old man from far away, hoping he could help them."
+     "en": "One time, they invited a wise old man from far away, hoping he could help them.",
+     "idn": "Suatu kali, mereka mengundang seorang kakek bijak dari tempat jauh, berharap dia bisa membantu mereka."
     },
     {
      "zh": "老人在附近走了走、看了看，然後告訴他們，請蓋一間小屋，讓他住進去三天，三天當中，他任何人都不見。",
      "py": "Lǎorén zài fùjìn zǒu le zǒu, kàn le kàn, ránhòu gàosù tāmen, qǐnggài yìjiān xiǎowū, ràng tā zhù jìnqù sāntiān, sāntiān dāngzhōng, tā rènhérén dōu bújiàn.",
-     "en": "The old man walked around the area and looked around, then told them to build a small hut and let him live in it for three days; during those three days he would see no one."
+     "en": "The old man walked around the area and looked around, then told them to build a small hut and let him live in it for three days; during those three days he would see no one.",
+     "idn": "Kakek itu berkeliling dan melihat-lihat daerah itu, lalu meminta mereka membangun sebuah pondok kecil dan membiarkannya tinggal di sana selama tiga hari; selama tiga hari itu dia tidak akan menemui siapa pun."
     },
     {
      "zh": "結果，三天後真的下雨了。",
      "py": "Jiéguǒ, sāntiān hòu zhēnde xiàyǔ le.",
-     "en": "As a result, three days later it really did rain."
+     "en": "As a result, three days later it really did rain.",
+     "idn": "Hasilnya, tiga hari kemudian hujan benar-benar turun."
     },
     {
      "zh": "大家都問他是怎麼做到的，他只回答，只要自己的心安靜了，外面就安靜了，所以下雨了。",
      "py": "Dàjiā dōu wèn tā shì zěnme zuòdào de, tā zhǐ huídá, zhǐyào zìjǐ de xīn Ānjìng le, wàimiàn jiù Ānjìng le, suǒyǐ xiàyǔ le.",
-     "en": "Everyone asked him how he had done it. He only answered that as long as one's own heart is calm, the outside becomes calm too, and so it rained."
+     "en": "Everyone asked him how he had done it. He only answered that as long as one's own heart is calm, the outside becomes calm too, and so it rained.",
+     "idn": "Semua orang bertanya bagaimana dia melakukannya. Dia hanya menjawab bahwa asalkan hati kita sendiri tenang, keadaan di luar pun ikut tenang, maka turunlah hujan."
     }
    ],
    "stem": {
     "zh": "這個故事告訴了我們什麼事？",
     "py": "Zhè ge gùshì gàosù le wǒmen shénme shì?",
-    "en": "What does this story tell us?"
+    "en": "What does this story tell us?",
+    "idn": "Apa yang ingin disampaikan cerita ini kepada kita?"
    },
    "options": {
     "A": {
      "zh": "先照顧自己，才能幫助別人",
      "py": "Xiān zhàogù zìjǐ, cáinéng bāngzhù biérén",
-     "en": "Take care of yourself first; only then can you help others."
+     "en": "Take care of yourself first; only then can you help others.",
+     "idn": "Urus diri sendiri dulu, baru bisa membantu orang lain."
     },
     "B": {
      "zh": "想改變環境，就先改變心情",
      "py": "Xiǎng gǎibiàn huánjìng, jiùxiān gǎibiàn xīnqíng",
-     "en": "If you want to change your surroundings, first change your state of mind."
+     "en": "If you want to change your surroundings, first change your state of mind.",
+     "idn": "Kalau ingin mengubah lingkungan, ubahlah dulu suasana hatimu."
     },
     "C": {
      "zh": "年輕人應該要學會尊敬老人",
      "py": "Niánqīngrén yīnggāi yào xuéhuì zūnjìng lǎorén",
-     "en": "Young people should learn to respect the elderly."
+     "en": "Young people should learn to respect the elderly.",
+     "idn": "Orang muda harus belajar menghormati orang tua."
     },
     "D": {
      "zh": "聰明的人知道什麼時候下雨",
      "py": "Cōngmíng de rén zhīdào shénme shíhòu xiàyǔ",
-     "en": "Smart people know when it will rain."
+     "en": "Smart people know when it will rain.",
+     "idn": "Orang pintar tahu kapan akan turun hujan."
     }
    }
   },
@@ -1114,59 +1299,70 @@
     {
      "zh": "（四）",
      "py": "(Sì)",
-     "en": "(4)"
+     "en": "(4)",
+     "idn": "(4)"
     },
     {
      "zh": "說到錢，每個人對它的想法、使用方式和重視程度都不一樣。",
      "py": "Shuō dào qián, měi ge rén duì tā de xiǎngfǎ, shǐyòng fāngshì hé zhòngshì chéngdù dōu bù yíyàng.",
-     "en": "When it comes to money, everyone's ideas about it, way of using it, and how much they value it are different."
+     "en": "When it comes to money, everyone's ideas about it, way of using it, and how much they value it are different.",
+     "idn": "Soal uang, pandangan setiap orang tentangnya, cara memakainya, dan seberapa penting uang baginya berbeda-beda."
     },
     {
      "zh": "有人說：「錢是沒有性格的，它在誰的手上就像誰」。",
      "py": "Yǒurén shuō: “Qián shì méiyǒu xìnggé de, tā zài shuí de shǒushàng jiù xiàng shuí”.",
-     "en": "Someone said: \"Money has no personality; it resembles whoever's hands it is in.\""
+     "en": "Someone said: \"Money has no personality; it resembles whoever's hands it is in.\"",
+     "idn": "Ada yang berkata: \"Uang tidak punya kepribadian; ia mirip dengan orang yang memegangnya.\""
     },
     {
      "zh": "這句話說得很有道理，人們因為對錢的看法不同，而選擇不同的生活方式。",
      "py": "Zhè jù huà shuō de hěn yǒu dàolǐ, rénmen yīnwèi duì qián de kànfǎ bùtóng, ér xuǎnzé bùtóng de shēnghuó fāngshì.",
-     "en": "This saying makes a lot of sense: because people view money differently, they choose different ways of life."
+     "en": "This saying makes a lot of sense: because people view money differently, they choose different ways of life.",
+     "idn": "Ucapan ini sangat masuk akal: karena orang memandang uang secara berbeda, mereka memilih cara hidup yang berbeda pula."
     },
     {
      "zh": "比方說，有的人喜歡看到銀行裡的數字不斷增加，所以每天努力工作，很少花錢；",
      "py": "Bǐfāngshuō, yǒu de rén xǐhuān kàndào yínháng lǐ de shùzì búduàn zēngjiā, suǒyǐ měitiān nǔlì gōngzuò, hěnshǎo huāqián;",
-     "en": "For example, some people like to see the numbers in their bank account keep growing, so they work hard every day and seldom spend money;"
+     "en": "For example, some people like to see the numbers in their bank account keep growing, so they work hard every day and seldom spend money;",
+     "idn": "Misalnya, ada orang yang senang melihat angka di rekening banknya terus bertambah, jadi setiap hari bekerja keras dan jarang membelanjakan uang;"
     },
     {
      "zh": "有的人覺得錢只要夠用就好，不必太在意工作，因為「自己的時間」，也是一種看不到的「錢」。",
      "py": "Yǒu de rén juéde qián zhǐyào gòuyòng jiù hǎo, búbì tài zàiyì gōngzuò, yīnwèi “Zìjǐ de shíjiān”, yě shì yìzhǒng kànbúdào de “Qián”.",
-     "en": "others feel that as long as they have enough money it's fine, and they don't need to care too much about work, because \"one's own time\" is also a kind of invisible \"money\"."
+     "en": "others feel that as long as they have enough money it's fine, and they don't need to care too much about work, because \"one's own time\" is also a kind of invisible \"money\".",
+     "idn": "ada pula yang merasa asal uangnya cukup saja sudah baik, tidak perlu terlalu memikirkan pekerjaan, karena \"waktu milik sendiri\" juga merupakan semacam \"uang\" yang tak terlihat."
     }
    ],
    "stem": {
     "zh": "這段話說了下面哪件事？",
     "py": "Zhèduànhuà shuō le xiàmiàn nǎjiàn shì?",
-    "en": "Which of the following does this passage say?"
+    "en": "Which of the following does this passage say?",
+    "idn": "Manakah pernyataan berikut yang disampaikan teks ini?"
    },
    "options": {
     "A": {
      "zh": "錢比什麼都重要",
      "py": "Qiánbǐ shénme dōu zhòngyào",
-     "en": "Money is more important than anything."
+     "en": "Money is more important than anything.",
+     "idn": "Uang lebih penting daripada apa pun."
     },
     "B": {
      "zh": "錢可以解決所有事情",
      "py": "Qián kěyǐ jiějué suǒyǒu shìqing",
-     "en": "Money can solve every problem."
+     "en": "Money can solve every problem.",
+     "idn": "Uang bisa menyelesaikan semua masalah."
     },
     "C": {
      "zh": "人人有自己對錢的看法",
      "py": "Rénrén yǒu zìjǐ duì qián de kànfǎ",
-     "en": "Everyone has their own view of money."
+     "en": "Everyone has their own view of money.",
+     "idn": "Setiap orang punya pandangan sendiri tentang uang."
     },
     "D": {
      "zh": "錢得放在銀行裡才有價值",
      "py": "Qián děi fàngzài yínháng lǐ cái yǒu jiàzhí",
-     "en": "Money only has value if it is kept in the bank."
+     "en": "Money only has value if it is kept in the bank.",
+     "idn": "Uang baru bernilai kalau disimpan di bank."
     }
    }
   },
@@ -1175,54 +1371,64 @@
     {
      "zh": "（五）",
      "py": "(Wǔ)",
-     "en": "(5)"
+     "en": "(5)",
+     "idn": "(5)"
     },
     {
      "zh": "以前，電影院的門口常常出現一個牌子，要觀眾別帶外面買的食物進去，如果想吃東西，只能買電影院裡賣的食物。",
      "py": "Yǐqián, diànyǐngyuàn de ménkǒu chángcháng chūxiàn yí ge páizi, yào guānzhòng bié dài wàimiàn mǎi de shíwù jìnqù, rúguǒ xiǎng chī Dōngxi, zhǐnéng mǎi diànyǐngyuàn lǐ mài de shíwù.",
-     "en": "In the past, signs often appeared at cinema entrances telling audiences not to bring in food bought outside; if they wanted to eat, they could only buy the food sold inside the cinema."
+     "en": "In the past, signs often appeared at cinema entrances telling audiences not to bring in food bought outside; if they wanted to eat, they could only buy the food sold inside the cinema.",
+     "idn": "Dulu, di pintu masuk bioskop sering ada papan yang meminta penonton tidak membawa masuk makanan yang dibeli dari luar; kalau ingin makan, hanya boleh membeli makanan yang dijual di dalam bioskop."
     },
     {
      "zh": "後來，新聞說，觀眾其實可以拒絕配合這些電影院的規矩。",
      "py": "Hòulái, xīnwén shuō, guānzhòng qíshí kěyǐ jùjué pèihé zhèxiē diànyǐngyuàn de guījǔ.",
-     "en": "Later, the news said that audiences could actually refuse to follow these cinema rules."
+     "en": "Later, the news said that audiences could actually refuse to follow these cinema rules.",
+     "idn": "Kemudian, berita menyebutkan bahwa penonton sebenarnya boleh menolak mematuhi aturan bioskop tersebut."
     },
     {
      "zh": "說到這個問題，我認為，電影院的要求不是沒有道理，因為電影結束以後，他們還得打掃那些垃圾。",
      "py": "Shuō dào zhè ge wèntí, wǒ rènwéi, diànyǐngyuàn de yāoqiú búshì méiyǒu dàolǐ, yīnwèi diànyǐng jiéshù yǐhòu, tāmen hái děi dǎsǎo nàxiē lājī.",
-     "en": "On this issue, I think the cinemas' request is not unreasonable, because after the movie ends they still have to clean up all that trash."
+     "en": "On this issue, I think the cinemas' request is not unreasonable, because after the movie ends they still have to clean up all that trash.",
+     "idn": "Mengenai masalah ini, menurut saya permintaan bioskop bukannya tidak beralasan, karena setelah film selesai mereka masih harus membersihkan semua sampah itu."
     },
     {
      "zh": "其次，如果有人帶了一些有奇怪味道的食物進電影院，也很容易影響其他看電影的人。",
      "py": "Qícì, rúguǒ yǒurén dài le yìxiē yǒu qíguài wèidào de shíwù jìn diànyǐngyuàn, yě hěn róngyì yǐngxiǎng qítā kàn diànyǐng de rén.",
-     "en": "Secondly, if someone brings food with a strange smell into the cinema, it can easily affect other moviegoers."
+     "en": "Secondly, if someone brings food with a strange smell into the cinema, it can easily affect other moviegoers.",
+     "idn": "Kedua, kalau ada orang membawa makanan yang baunya aneh ke dalam bioskop, hal itu mudah mengganggu penonton lain."
     }
    ],
    "stem": {
     "zh": "作者對在電影院裡吃東西的行為怎麼看？",
     "py": "Zuòzhě duì zài diànyǐngyuàn lǐ chī Dōngxi de xíngwéi zěnme kàn?",
-    "en": "What does the author think about eating in the cinema?"
+    "en": "What does the author think about eating in the cinema?",
+    "idn": "Bagaimana pendapat penulis tentang makan di dalam bioskop?"
    },
    "options": {
     "A": {
      "zh": "應該要避免吃有特別味道的東西",
      "py": "Yīnggāi yào bìmiǎn chī yǒu tèbié wèidào de Dōngxi",
-     "en": "One should avoid eating food with a strong smell."
+     "en": "One should avoid eating food with a strong smell.",
+     "idn": "Sebaiknya hindari makan makanan yang baunya menyengat."
     },
     "B": {
      "zh": "覺得吃什麼東西都是個人的自由",
      "py": "Juéde chī shénme Dōngxi dōu shì gèrén de zìyóu",
-     "en": "What to eat is everyone's personal freedom."
+     "en": "What to eat is everyone's personal freedom.",
+     "idn": "Mau makan apa adalah kebebasan pribadi setiap orang."
     },
     "C": {
      "zh": "認為電影院的要求沒有任何道理",
      "py": "Rènwéi diànyǐngyuàn de yāoqiú méiyǒu rènhé dàolǐ",
-     "en": "The cinemas' request makes no sense at all."
+     "en": "The cinemas' request makes no sense at all.",
+     "idn": "Permintaan bioskop sama sekali tidak masuk akal."
     },
     "D": {
      "zh": "看電影的人都有責任要打掃垃圾",
      "py": "Kàn diànyǐng de rén dōu yǒu zérèn yào dǎsǎo lājī",
-     "en": "Everyone watching a movie is responsible for cleaning up trash."
+     "en": "Everyone watching a movie is responsible for cleaning up trash.",
+     "idn": "Setiap penonton film bertanggung jawab membersihkan sampah."
     }
    }
   }

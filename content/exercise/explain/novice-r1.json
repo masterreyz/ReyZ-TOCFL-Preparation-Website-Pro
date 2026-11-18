@@ -2,31 +2,35 @@
  "testId": "novice-r1",
  "segments": 45,
  "englishComplete": true,
- "indonesianComplete": false,
+ "indonesianComplete": true,
  "questions": {
   "1": {
    "stem": {
     "zh": "妹妹的書",
     "py": "Mèimei de shū",
-    "en": "Younger sister's book"
+    "en": "Younger sister's book",
+    "idn": "Buku adik perempuan"
    }
   },
   "2": {
    "stem": {
     "zh": "五百二十八元",
     "py": "Wǔbǎi èrshíbā yuán",
-    "en": "Five hundred twenty-eight dollars"
+    "en": "Five hundred twenty-eight dollars",
+    "idn": "Lima ratus dua puluh delapan dolar"
    },
    "image": [
     {
      "zh": "愛國一路",
      "py": "Àiguó yílù",
-     "en": "Aiguo 1st Road (address plate)"
+     "en": "Aiguo 1st Road (address plate)",
+     "idn": "Jalan Aiguo 1 (papan alamat)"
     },
     {
      "zh": "往台中",
      "py": "Wǎng táizhōng",
-     "en": "To Taichung (bus destination sign)"
+     "en": "To Taichung (bus destination sign)",
+     "idn": "Ke Taichung (papan tujuan bus)"
     }
    ]
   },
@@ -34,39 +38,45 @@
    "stem": {
     "zh": "他在開車",
     "py": "Tā zài kāichē",
-    "en": "He is driving a car."
+    "en": "He is driving a car.",
+    "idn": "Dia sedang menyetir mobil."
    }
   },
   "4": {
    "stem": {
     "zh": "九點四十分",
     "py": "Jiǔdiǎn sì shífēn",
-    "en": "Nine forty (9:40)"
+    "en": "Nine forty (9:40)",
+    "idn": "Pukul sembilan lewat empat puluh menit (9.40)"
    }
   },
   "5": {
    "stem": {
     "zh": "他們在看電影",
     "py": "Tāmen zài kàn diànyǐng",
-    "en": "They are watching a movie."
+    "en": "They are watching a movie.",
+    "idn": "Mereka sedang menonton film."
    }
   },
   "6": {
    "stem": {
     "zh": "這是他的名字",
     "py": "Zhè shì tā de míngzi",
-    "en": "This is his name."
+    "en": "This is his name.",
+    "idn": "Ini namanya."
    },
    "image": [
     {
      "zh": "王天易",
      "py": "Wángtiānyì",
-     "en": "Wang Tianyi (a name, picture A)"
+     "en": "Wang Tianyi (a name, picture A)",
+     "idn": "Wang Tianyi (sebuah nama, gambar A)"
     },
     {
      "zh": "台北大學",
      "py": "Táiběi dàxué",
-     "en": "Taipei University (picture B)"
+     "en": "Taipei University (picture B)",
+     "idn": "Universitas Taipei (gambar B)"
     }
    ]
   },
@@ -74,109 +84,127 @@
    "stem": {
     "zh": "她在練習寫字",
     "py": "Tā zài liànxí xiězì",
-    "en": "She is practicing writing characters."
+    "en": "She is practicing writing characters.",
+    "idn": "Dia sedang berlatih menulis aksara."
    }
   },
   "8": {
    "stem": {
     "zh": "我帶了衣服",
     "py": "Wǒ dài le yīfú",
-    "en": "I brought clothes."
+    "en": "I brought clothes.",
+    "idn": "Saya membawa pakaian."
    }
   },
   "9": {
    "stem": {
     "zh": "漂亮的房子",
     "py": "Piàoliang de fángzi",
-    "en": "A beautiful house"
+    "en": "A beautiful house",
+    "idn": "Rumah yang indah"
    }
   },
   "10": {
    "stem": {
     "zh": "她覺得很熱",
     "py": "Tā juéde hěn rè",
-    "en": "She feels very hot."
+    "en": "She feels very hot.",
+    "idn": "Dia merasa sangat panas."
    }
   },
   "11": {
    "stem": {
     "zh": "他在餐廳吃東西",
     "py": "Tā zài cāntīng chī Dōngxi",
-    "en": "He is eating in a restaurant."
+    "en": "He is eating in a restaurant.",
+    "idn": "Dia sedang makan di restoran."
    }
   },
   "12": {
    "stem": {
     "zh": "這裡有一些蘋果",
     "py": "Zhèlǐ yǒu yìxiē píngguǒ",
-    "en": "There are some apples here."
+    "en": "There are some apples here.",
+    "idn": "Di sini ada beberapa apel."
    }
   },
   "13": {
    "stem": {
     "zh": "爸爸想買手機",
     "py": "Bàba xiǎng mǎishǒujī",
-    "en": "Dad wants to buy a cell phone."
+    "en": "Dad wants to buy a cell phone.",
+    "idn": "Ayah ingin membeli ponsel."
    }
   },
   "14": {
    "stem": {
     "zh": "她和朋友一起運動",
     "py": "Tā hé péngyǒu yìqǐ yùndòng",
-    "en": "She exercises together with a friend."
+    "en": "She exercises together with a friend.",
+    "idn": "Dia berolahraga bersama temannya."
    }
   },
   "15": {
    "stem": {
     "zh": "我一個星期上兩次英文課",
     "py": "Wǒ yí ge xīngqī shàng liǎngcì Yīngwénkè",
-    "en": "I take English class twice a week."
+    "en": "I take English class twice a week.",
+    "idn": "Saya mengikuti kelas bahasa Inggris dua kali seminggu."
    },
    "image": [
     {
      "zh": "一",
      "py": "Yī",
-     "en": "Monday"
+     "en": "Monday",
+     "idn": "Senin"
     },
     {
      "zh": "二",
      "py": "Èr",
-     "en": "Tuesday"
+     "en": "Tuesday",
+     "idn": "Selasa"
     },
     {
      "zh": "三",
      "py": "Sān",
-     "en": "Wednesday"
+     "en": "Wednesday",
+     "idn": "Rabu"
     },
     {
      "zh": "四",
      "py": "Sì",
-     "en": "Thursday"
+     "en": "Thursday",
+     "idn": "Kamis"
     },
     {
      "zh": "五",
      "py": "Wǔ",
-     "en": "Friday"
+     "en": "Friday",
+     "idn": "Jumat"
     },
     {
      "zh": "六",
      "py": "Liù",
-     "en": "Saturday"
+     "en": "Saturday",
+     "idn": "Sabtu"
     },
     {
      "zh": "日",
      "py": "Rì",
-     "en": "Sunday"
+     "en": "Sunday",
+     "idn": "Minggu"
     },
     {
      "zh": "英文",
      "py": "Yīngwén",
-     "en": "English (class)"
+     "en": "English (class)",
+     "idn": "Bahasa Inggris (kelas)"
     },
     {
      "zh": "中文",
      "py": "Zhōngwén",
-     "en": "Chinese (class)"
+     "en": "Chinese (class)",
+     "idn": "Bahasa Mandarin (kelas)"
     }
    ]
   },
@@ -185,17 +213,20 @@
     "A": {
      "zh": "這個東西六百零五元。",
      "py": "Zhè ge Dōngxi liùbǎi líng wǔyuán.",
-     "en": "This item costs six hundred and five dollars."
+     "en": "This item costs six hundred and five dollars.",
+     "idn": "Barang ini harganya enam ratus lima dolar."
     },
     "B": {
      "zh": "這個東西六百五十元。",
      "py": "Zhè ge Dōngxi liùbǎiwǔshí yuán.",
-     "en": "This item costs six hundred fifty dollars."
+     "en": "This item costs six hundred fifty dollars.",
+     "idn": "Barang ini harganya enam ratus lima puluh dolar."
     },
     "C": {
      "zh": "這個東西八百五十元。",
      "py": "Zhè ge Dōngxi bābǎi wǔshíyuán.",
-     "en": "This item costs eight hundred fifty dollars."
+     "en": "This item costs eight hundred fifty dollars.",
+     "idn": "Barang ini harganya delapan ratus lima puluh dolar."
     }
    }
   },
@@ -204,17 +235,20 @@
     "A": {
      "zh": "他在洗東西。",
      "py": "Tā zài xǐ Dōngxi.",
-     "en": "He is washing something."
+     "en": "He is washing something.",
+     "idn": "Dia sedang mencuci sesuatu."
     },
     "B": {
      "zh": "他在找東西。",
      "py": "Tā zài zhǎo Dōngxi.",
-     "en": "He is looking for something."
+     "en": "He is looking for something.",
+     "idn": "Dia sedang mencari sesuatu."
     },
     "C": {
      "zh": "他在買東西。",
      "py": "Tā zài mǎi Dōngxi.",
-     "en": "He is buying something."
+     "en": "He is buying something.",
+     "idn": "Dia sedang berbelanja."
     }
    }
   },
@@ -223,17 +257,20 @@
     "A": {
      "zh": "她覺得考試很難。",
      "py": "Tā juéde kǎoshì hěn nán.",
-     "en": "She thinks the exam is very difficult."
+     "en": "She thinks the exam is very difficult.",
+     "idn": "Dia merasa ujiannya sangat sulit."
     },
     "B": {
      "zh": "她覺得考試很有趣。",
      "py": "Tā juéde kǎoshì hěn yǒuqù.",
-     "en": "She thinks the exam is very interesting."
+     "en": "She thinks the exam is very interesting.",
+     "idn": "Dia merasa ujiannya sangat menarik."
     },
     "C": {
      "zh": "她覺得考試很容易。",
      "py": "Tā juéde kǎoshì hěn róngyì.",
-     "en": "She thinks the exam is very easy."
+     "en": "She thinks the exam is very easy.",
+     "idn": "Dia merasa ujiannya sangat mudah."
     }
    }
   },
@@ -242,17 +279,20 @@
     "A": {
      "zh": "這裡不可以看書。",
      "py": "Zhèlǐ bù kěyǐ kànshū.",
-     "en": "You may not read books here."
+     "en": "You may not read books here.",
+     "idn": "Di sini tidak boleh membaca buku."
     },
     "B": {
      "zh": "這裡不可以說話。",
      "py": "Zhèlǐ bù kěyǐ shuōhuà.",
-     "en": "You may not talk here."
+     "en": "You may not talk here.",
+     "idn": "Di sini tidak boleh berbicara."
     },
     "C": {
      "zh": "這裡不可以喝東西。",
      "py": "Zhèlǐ bù kěyǐ hē Dōngxi.",
-     "en": "You may not drink (anything) here."
+     "en": "You may not drink (anything) here.",
+     "idn": "Di sini tidak boleh minum (apa pun)."
     }
    }
   },
@@ -261,17 +301,20 @@
     "A": {
      "zh": "爸爸沒穿鞋子。",
      "py": "Bàba méi chuān xiézi.",
-     "en": "Dad isn't wearing shoes."
+     "en": "Dad isn't wearing shoes.",
+     "idn": "Ayah tidak memakai sepatu."
     },
     "B": {
      "zh": "媽媽沒穿鞋子。",
      "py": "Māma méi chuān xiézi.",
-     "en": "Mom isn't wearing shoes."
+     "en": "Mom isn't wearing shoes.",
+     "idn": "Ibu tidak memakai sepatu."
     },
     "C": {
      "zh": "弟弟沒穿鞋子。",
      "py": "Dìdi méi chuān xiézi.",
-     "en": "Younger brother isn't wearing shoes."
+     "en": "Younger brother isn't wearing shoes.",
+     "idn": "Adik laki-laki tidak memakai sepatu."
     }
    }
   },
@@ -280,34 +323,40 @@
     "A": {
      "zh": "這個人下午吃飯。",
      "py": "Zhè ge rén xiàwǔ chīfàn.",
-     "en": "This person eats in the afternoon."
+     "en": "This person eats in the afternoon.",
+     "idn": "Orang ini makan pada sore hari."
     },
     "B": {
      "zh": "這個人早上打電話。",
      "py": "Zhè ge rén zǎoshàng dǎdiànhuà.",
-     "en": "This person makes a phone call in the morning."
+     "en": "This person makes a phone call in the morning.",
+     "idn": "Orang ini menelepon pada pagi hari."
     },
     "C": {
      "zh": "這個人中午在學習。",
      "py": "Zhè ge rén zhōngwǔ zài xuéxí.",
-     "en": "This person is studying at noon."
+     "en": "This person is studying at noon.",
+     "idn": "Orang ini belajar pada siang hari."
     }
    },
    "image": [
     {
      "zh": "7:45給媽媽打電話",
      "py": "7: 45 gěi māma dǎdiànhuà",
-     "en": "7:45 call Mom"
+     "en": "7:45 call Mom",
+     "idn": "07.45 menelepon Ibu"
     },
     {
      "zh": "12:00-12:30到餐廳吃飯",
      "py": "12: 00 - 12: 30 dào cāntīng chīfàn",
-     "en": "12:00–12:30 go to the restaurant to eat"
+     "en": "12:00–12:30 go to the restaurant to eat",
+     "idn": "12.00–12.30 makan di restoran"
     },
     {
      "zh": "15:30-17:00到圖書館學習",
      "py": "15: 30 - 17: 00 dào túshūguǎn xuéxí",
-     "en": "15:30–17:00 go to the library to study"
+     "en": "15:30–17:00 go to the library to study",
+     "idn": "15.30–17.00 belajar di perpustakaan"
     }
    ]
   },
@@ -316,17 +365,20 @@
     "A": {
      "zh": "學生給老師一張票。",
      "py": "Xuéshēng gěi lǎoshī yìzhāng piào.",
-     "en": "The student gives the teacher a ticket."
+     "en": "The student gives the teacher a ticket.",
+     "idn": "Murid memberi guru selembar tiket."
     },
     "B": {
      "zh": "老師在聽學生唱歌。",
      "py": "Lǎoshī zài tīng xuéshēng chànggē.",
-     "en": "The teacher is listening to the student sing."
+     "en": "The teacher is listening to the student sing.",
+     "idn": "Guru sedang mendengarkan murid bernyanyi."
     },
     "C": {
      "zh": "學生在問老師問題。",
      "py": "Xuéshēng zài wèn lǎoshī wèntí.",
-     "en": "The student is asking the teacher a question."
+     "en": "The student is asking the teacher a question.",
+     "idn": "Murid sedang mengajukan pertanyaan kepada guru."
     }
    }
   },
@@ -335,34 +387,40 @@
     "A": {
      "zh": "醫院在餐廳和圖書館的中間。",
      "py": "Yīyuàn zài cāntīng hé túshūguǎn de zhōngjiān.",
-     "en": "The hospital is between the restaurant and the library."
+     "en": "The hospital is between the restaurant and the library.",
+     "idn": "Rumah sakit berada di antara restoran dan perpustakaan."
     },
     "B": {
      "zh": "圖書館在餐廳和醫院的中間。",
      "py": "Túshūguǎn zài cāntīng hé yīyuàn de zhōngjiān.",
-     "en": "The library is between the restaurant and the hospital."
+     "en": "The library is between the restaurant and the hospital.",
+     "idn": "Perpustakaan berada di antara restoran dan rumah sakit."
     },
     "C": {
      "zh": "餐廳在圖書館和醫院的中間。",
      "py": "Cāntīng zài túshūguǎn hé yīyuàn de zhōngjiān.",
-     "en": "The restaurant is between the library and the hospital."
+     "en": "The restaurant is between the library and the hospital.",
+     "idn": "Restoran berada di antara perpustakaan dan rumah sakit."
     }
    },
    "image": [
     {
      "zh": "法國餐廳",
      "py": "Fǎguó cāntīng",
-     "en": "French Restaurant"
+     "en": "French Restaurant",
+     "idn": "Restoran Prancis"
     },
     {
      "zh": "台北圖書館",
      "py": "Táiběi túshūguǎn",
-     "en": "Taipei Library"
+     "en": "Taipei Library",
+     "idn": "Perpustakaan Taipei"
     },
     {
      "zh": "新新醫院",
      "py": "Xīn xīn yīyuàn",
-     "en": "Xinxin Hospital"
+     "en": "Xinxin Hospital",
+     "idn": "Rumah Sakit Xinxin"
     }
    ]
   },
@@ -371,49 +429,58 @@
     "A": {
      "zh": "他們都一樣大。",
      "py": "Tāmen dōu yíyàng dà.",
-     "en": "They are both the same age."
+     "en": "They are both the same age.",
+     "idn": "Mereka seumuran."
     },
     "B": {
      "zh": "他們都是學生。",
      "py": "Tāmen dōu shì xuéshēng.",
-     "en": "They are both students."
+     "en": "They are both students.",
+     "idn": "Mereka semua pelajar."
     },
     "C": {
      "zh": "他們都會英文。",
      "py": "Tāmen dōu huì Yīngwén.",
-     "en": "They can both speak English."
+     "en": "They can both speak English.",
+     "idn": "Mereka semua bisa berbahasa Inggris."
     }
    },
    "image": [
     {
      "zh": "二十六歲",
      "py": "Èrshíliùsuì",
-     "en": "26 years old"
+     "en": "26 years old",
+     "idn": "26 tahun"
     },
     {
      "zh": "音樂老師",
      "py": "Yīnyuè lǎoshī",
-     "en": "Music teacher"
+     "en": "Music teacher",
+     "idn": "Guru musik"
     },
     {
      "zh": "說英文、中文",
      "py": "Shuō Yīngwén, Zhōngwén",
-     "en": "Speaks English and Chinese"
+     "en": "Speaks English and Chinese",
+     "idn": "Berbahasa Inggris dan Mandarin"
     },
     {
      "zh": "十九歲",
      "py": "Shíjiǔsuì",
-     "en": "19 years old"
+     "en": "19 years old",
+     "idn": "19 tahun"
     },
     {
      "zh": "大學二年級",
      "py": "Dàxué èrniánjí",
-     "en": "University sophomore (second year)"
+     "en": "University sophomore (second year)",
+     "idn": "Mahasiswa tahun kedua"
     },
     {
      "zh": "說日文、英文",
      "py": "Shuō rìwén, Yīngwén",
-     "en": "Speaks Japanese and English"
+     "en": "Speaks Japanese and English",
+     "idn": "Berbahasa Jepang dan Inggris"
     }
    ]
   },
@@ -422,34 +489,40 @@
     "A": {
      "zh": "酒比茶便宜。",
      "py": "Jiǔ bǐ chá piányi.",
-     "en": "Wine is cheaper than tea."
+     "en": "Wine is cheaper than tea.",
+     "idn": "Arak lebih murah daripada teh."
     },
     "B": {
      "zh": "咖啡比酒便宜。",
      "py": "Kāfēi bǐ jiǔ piányi.",
-     "en": "Coffee is cheaper than wine."
+     "en": "Coffee is cheaper than wine.",
+     "idn": "Kopi lebih murah daripada arak."
     },
     "C": {
      "zh": "茶比咖啡便宜。",
      "py": "Chá bǐ kāfēi piányi.",
-     "en": "Tea is cheaper than coffee."
+     "en": "Tea is cheaper than coffee.",
+     "idn": "Teh lebih murah daripada kopi."
     }
    },
    "image": [
     {
      "zh": "茶 85元",
      "py": "Chá 85 yuán",
-     "en": "Tea NT$85"
+     "en": "Tea NT$85",
+     "idn": "Teh 85 dolar"
     },
     {
      "zh": "咖啡 55元",
      "py": "Kāfēi 55 yuán",
-     "en": "Coffee NT$55"
+     "en": "Coffee NT$55",
+     "idn": "Kopi 55 dolar"
     },
     {
      "zh": "酒 50元",
      "py": "Jiǔ 50 yuán",
-     "en": "Wine NT$50"
+     "en": "Wine NT$50",
+     "idn": "Arak 50 dolar"
     }
    ]
   }

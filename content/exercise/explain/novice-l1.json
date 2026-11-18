@@ -2,14 +2,15 @@
  "testId": "novice-l1",
  "segments": 75,
  "englishComplete": true,
- "indonesianComplete": false,
+ "indonesianComplete": true,
  "questions": {
   "1": {
    "transcript": [
     {
      "zh": "我要喝茶。",
      "py": "Wǒ yào hēchá.",
-     "en": "I want to drink tea."
+     "en": "I want to drink tea.",
+     "idn": "Saya mau minum teh."
     }
    ]
   },
@@ -18,7 +19,8 @@
     {
      "zh": "這是我的書。",
      "py": "Zhè shì wǒ de shū.",
-     "en": "This is my book."
+     "en": "This is my book.",
+     "idn": "Ini buku saya."
     }
    ]
   },
@@ -27,7 +29,8 @@
     {
      "zh": "他早上八點起床。",
      "py": "Tā zǎoshàng bādiǎn qǐchuáng.",
-     "en": "He gets up at eight in the morning."
+     "en": "He gets up at eight in the morning.",
+     "idn": "Dia bangun pukul delapan pagi."
     }
    ]
   },
@@ -36,7 +39,8 @@
     {
      "zh": "我只買了褲子。",
      "py": "Wǒ zhǐ mǎi le kùzi.",
-     "en": "I only bought pants."
+     "en": "I only bought pants.",
+     "idn": "Saya hanya membeli celana."
     }
    ]
   },
@@ -45,7 +49,8 @@
     {
      "zh": "這裡有三杯水。",
      "py": "Zhèlǐ yǒu sānbēishuǐ.",
-     "en": "There are three glasses of water here."
+     "en": "There are three glasses of water here.",
+     "idn": "Di sini ada tiga gelas air."
     }
    ]
   },
@@ -54,49 +59,58 @@
     {
      "zh": "我的生日是七月十一號。",
      "py": "Wǒ de shēngrì shì qīyuè shíyíhào.",
-     "en": "My birthday is July 11th."
+     "en": "My birthday is July 11th.",
+     "idn": "Ulang tahun saya tanggal 11 Juli."
     }
    ],
    "image": [
     {
      "zh": "7月",
      "py": "7 yuè",
-     "en": "July"
+     "en": "July",
+     "idn": "Juli"
     },
     {
      "zh": "一",
      "py": "Yī",
-     "en": "Monday"
+     "en": "Monday",
+     "idn": "Senin"
     },
     {
      "zh": "二",
      "py": "Èr",
-     "en": "Tuesday"
+     "en": "Tuesday",
+     "idn": "Selasa"
     },
     {
      "zh": "三",
      "py": "Sān",
-     "en": "Wednesday"
+     "en": "Wednesday",
+     "idn": "Rabu"
     },
     {
      "zh": "四",
      "py": "Sì",
-     "en": "Thursday"
+     "en": "Thursday",
+     "idn": "Kamis"
     },
     {
      "zh": "五",
      "py": "Wǔ",
-     "en": "Friday"
+     "en": "Friday",
+     "idn": "Jumat"
     },
     {
      "zh": "六",
      "py": "Liù",
-     "en": "Saturday"
+     "en": "Saturday",
+     "idn": "Sabtu"
     },
     {
      "zh": "日",
      "py": "Rì",
-     "en": "Sunday"
+     "en": "Sunday",
+     "idn": "Minggu"
     }
    ]
   },
@@ -105,7 +119,8 @@
     {
      "zh": "他在穿鞋子。",
      "py": "Tā zài chuān xiézi.",
-     "en": "He is putting on his shoes."
+     "en": "He is putting on his shoes.",
+     "idn": "Dia sedang memakai sepatu."
     }
    ]
   },
@@ -114,7 +129,8 @@
     {
      "zh": "那裡有狗。",
      "py": "Nàlǐ yǒu gǒu.",
-     "en": "There is a dog over there."
+     "en": "There is a dog over there.",
+     "idn": "Di sana ada anjing."
     }
    ]
   },
@@ -123,7 +139,8 @@
     {
      "zh": "他開車去學校。",
      "py": "Tā kāichē qù xuéxiào.",
-     "en": "He drives to school."
+     "en": "He drives to school.",
+     "idn": "Dia menyetir mobil ke sekolah."
     }
    ]
   },
@@ -132,7 +149,8 @@
     {
      "zh": "王太太在醫院工作。",
      "py": "Wángtàitai zài yīyuàn gōngzuò.",
-     "en": "Mrs. Wang works at a hospital."
+     "en": "Mrs. Wang works at a hospital.",
+     "idn": "Nyonya Wang bekerja di rumah sakit."
     }
    ]
   },
@@ -141,17 +159,20 @@
     {
      "zh": "(A) 公司的電話號碼是 8651-0426。",
      "py": "(A) gōngsī de diànhuàhàomǎ shì 8651 - 0426.",
-     "en": "(A) The company's phone number is 8651-0426."
+     "en": "(A) The company's phone number is 8651-0426.",
+     "idn": "(A) Nomor telepon perusahaan adalah 8651-0426."
     },
     {
      "zh": "(B) 公司的電話號碼是 8671-0426。",
      "py": "(B) gōngsī de diànhuàhàomǎ shì 8671 - 0426.",
-     "en": "(B) The company's phone number is 8671-0426."
+     "en": "(B) The company's phone number is 8671-0426.",
+     "idn": "(B) Nomor telepon perusahaan adalah 8671-0426."
     },
     {
      "zh": "(C) 公司的電話號碼是 8691-0426。",
      "py": "(C) gōngsī de diànhuàhàomǎ shì 8691 - 0426.",
-     "en": "(C) The company's phone number is 8691-0426."
+     "en": "(C) The company's phone number is 8691-0426.",
+     "idn": "(C) Nomor telepon perusahaan adalah 8691-0426."
     }
    ]
   },
@@ -160,54 +181,64 @@
     {
      "zh": "(A) 十一月九號是星期五。",
      "py": "(A) shíyíyuè jiǔhào shì xīngqīwǔ.",
-     "en": "(A) November 9th is a Friday."
+     "en": "(A) November 9th is a Friday.",
+     "idn": "(A) Tanggal 9 November jatuh pada hari Jumat."
     },
     {
      "zh": "(B) 十一月十號是星期五。",
      "py": "(B) shíyíyuè shíhào shì xīngqīwǔ.",
-     "en": "(B) November 10th is a Friday."
+     "en": "(B) November 10th is a Friday.",
+     "idn": "(B) Tanggal 10 November jatuh pada hari Jumat."
     },
     {
      "zh": "(C) 十一月十一號是星期五。",
      "py": "(C) shíyíyuè shíyíhào shì xīngqīwǔ.",
-     "en": "(C) November 11th is a Friday."
+     "en": "(C) November 11th is a Friday.",
+     "idn": "(C) Tanggal 11 November jatuh pada hari Jumat."
     }
    ],
    "image": [
     {
      "zh": "一",
      "py": "Yī",
-     "en": "Monday"
+     "en": "Monday",
+     "idn": "Senin"
     },
     {
      "zh": "二",
      "py": "Èr",
-     "en": "Tuesday"
+     "en": "Tuesday",
+     "idn": "Selasa"
     },
     {
      "zh": "三",
      "py": "Sān",
-     "en": "Wednesday"
+     "en": "Wednesday",
+     "idn": "Rabu"
     },
     {
      "zh": "四",
      "py": "Sì",
-     "en": "Thursday"
+     "en": "Thursday",
+     "idn": "Kamis"
     },
     {
      "zh": "五",
      "py": "Wǔ",
-     "en": "Friday"
+     "en": "Friday",
+     "idn": "Jumat"
     },
     {
      "zh": "六",
      "py": "Liù",
-     "en": "Saturday"
+     "en": "Saturday",
+     "idn": "Sabtu"
     },
     {
      "zh": "日",
      "py": "Rì",
-     "en": "Sunday"
+     "en": "Sunday",
+     "idn": "Minggu"
     }
    ]
   },
@@ -216,17 +247,20 @@
     {
      "zh": "(A) 他在吃東西。",
      "py": "(A) tā zài chī Dōngxi.",
-     "en": "(A) He is eating something."
+     "en": "(A) He is eating something.",
+     "idn": "(A) Dia sedang makan sesuatu."
     },
     {
      "zh": "(B) 他在找東西。",
      "py": "(B) tā zài zhǎo Dōngxi.",
-     "en": "(B) He is looking for something."
+     "en": "(B) He is looking for something.",
+     "idn": "(B) Dia sedang mencari sesuatu."
     },
     {
      "zh": "(C) 他在洗東西。",
      "py": "(C) tā zài xǐ Dōngxi.",
-     "en": "(C) He is washing something."
+     "en": "(C) He is washing something.",
+     "idn": "(C) Dia sedang mencuci sesuatu."
     }
    ]
   },
@@ -235,17 +269,20 @@
     {
      "zh": "(A) 我下午去餐廳。",
      "py": "(A) wǒ xiàwǔ qù cāntīng.",
-     "en": "(A) I'm going to the restaurant in the afternoon."
+     "en": "(A) I'm going to the restaurant in the afternoon.",
+     "idn": "(A) Sore ini saya pergi ke restoran."
     },
     {
      "zh": "(B) 我下午去市場。",
      "py": "(B) wǒ xiàwǔ qù shìchǎng.",
-     "en": "(B) I'm going to the market in the afternoon."
+     "en": "(B) I'm going to the market in the afternoon.",
+     "idn": "(B) Sore ini saya pergi ke pasar."
     },
     {
      "zh": "(C) 我下午去圖書館。",
      "py": "(C) wǒ xiàwǔ qù túshūguǎn.",
-     "en": "(C) I'm going to the library in the afternoon."
+     "en": "(C) I'm going to the library in the afternoon.",
+     "idn": "(C) Sore ini saya pergi ke perpustakaan."
     }
    ]
   },
@@ -254,17 +291,20 @@
     {
      "zh": "(A) 他拿著票。",
      "py": "(A) tā ná zhe piào.",
-     "en": "(A) He is holding a ticket."
+     "en": "(A) He is holding a ticket.",
+     "idn": "(A) Dia sedang memegang tiket."
     },
     {
      "zh": "(B) 他拿著魚。",
      "py": "(B) tā názhe yú.",
-     "en": "(B) He is holding a fish."
+     "en": "(B) He is holding a fish.",
+     "idn": "(B) Dia sedang memegang ikan."
     },
     {
      "zh": "(C) 他拿著藥。",
      "py": "(C) tā názhe yào.",
-     "en": "(C) He is holding medicine."
+     "en": "(C) He is holding medicine.",
+     "idn": "(C) Dia sedang memegang obat."
     }
    ]
   },
@@ -273,17 +313,20 @@
     {
      "zh": "(A) 這是電腦。",
      "py": "(A) zhè shì diànnǎo.",
-     "en": "(A) This is a computer."
+     "en": "(A) This is a computer.",
+     "idn": "(A) Ini komputer."
     },
     {
      "zh": "(B) 這是電視。",
      "py": "(B) zhè shì diànshì.",
-     "en": "(B) This is a television."
+     "en": "(B) This is a television.",
+     "idn": "(B) Ini televisi."
     },
     {
      "zh": "(C) 這是手機。",
      "py": "(C) zhè shì shǒujī.",
-     "en": "(C) This is a cell phone."
+     "en": "(C) This is a cell phone.",
+     "idn": "(C) Ini ponsel."
     }
    ]
   },
@@ -292,17 +335,20 @@
     {
      "zh": "(A) 房子旁邊有樹。",
      "py": "(A) fángzi pángbiān yǒu shù.",
-     "en": "(A) There is a tree next to the house."
+     "en": "(A) There is a tree next to the house.",
+     "idn": "(A) Di samping rumah ada pohon."
     },
     {
      "zh": "(B) 房子旁邊有海。",
      "py": "(B) fángzi pángbiān yǒu hǎi.",
-     "en": "(B) There is the sea next to the house."
+     "en": "(B) There is the sea next to the house.",
+     "idn": "(B) Di samping rumah ada laut."
     },
     {
      "zh": "(C) 房子旁邊有山。",
      "py": "(C) fángzi pángbiān yǒu shān.",
-     "en": "(C) There is a mountain next to the house."
+     "en": "(C) There is a mountain next to the house.",
+     "idn": "(C) Di samping rumah ada gunung."
     }
    ]
   },
@@ -311,17 +357,20 @@
     {
      "zh": "(A) 他覺得他寫得不好。",
      "py": "(A) tā juéde tā xiě de bùhǎo.",
-     "en": "(A) He thinks he didn't write well."
+     "en": "(A) He thinks he didn't write well.",
+     "idn": "(A) Dia merasa tulisannya kurang bagus."
     },
     {
      "zh": "(B) 他覺得他畫得不好。",
      "py": "(B) tā juéde tā huà de bùhǎo.",
-     "en": "(B) He thinks he didn't draw well."
+     "en": "(B) He thinks he didn't draw well.",
+     "idn": "(B) Dia merasa gambarnya kurang bagus."
     },
     {
      "zh": "(C) 他覺得他唱得不好。",
      "py": "(C) tā juéde tā chàng de bùhǎo.",
-     "en": "(C) He thinks he didn't sing well."
+     "en": "(C) He thinks he didn't sing well.",
+     "idn": "(C) Dia merasa nyanyiannya kurang bagus."
     }
    ]
   },
@@ -330,17 +379,20 @@
     {
      "zh": "(A) 這裡不可以說話。",
      "py": "(A) zhèlǐ bù kěyǐ shuōhuà.",
-     "en": "(A) You may not talk here."
+     "en": "(A) You may not talk here.",
+     "idn": "(A) Di sini tidak boleh berbicara."
     },
     {
      "zh": "(B) 這裡不可以喝酒。",
      "py": "(B) zhèlǐ bù kěyǐ hējiǔ.",
-     "en": "(B) You may not drink alcohol here."
+     "en": "(B) You may not drink alcohol here.",
+     "idn": "(B) Di sini tidak boleh minum minuman beralkohol."
     },
     {
      "zh": "(C) 這裡不可以睡覺。",
      "py": "(C) zhèlǐ bù kěyǐ shuìjiào.",
-     "en": "(C) You may not sleep here."
+     "en": "(C) You may not sleep here.",
+     "idn": "(C) Di sini tidak boleh tidur."
     }
    ]
   },
@@ -349,17 +401,20 @@
     {
      "zh": "(A) 李小姐給男孩子信。",
      "py": "(A) Lǐxiǎojiě gěi nánháizi xìn.",
-     "en": "(A) Miss Li gives the boy a letter."
+     "en": "(A) Miss Li gives the boy a letter.",
+     "idn": "(A) Nona Li memberi anak laki-laki itu surat."
     },
     {
      "zh": "(B) 李小姐給男孩子花。",
      "py": "(B) Lǐxiǎojiě gěi nánháizi huā.",
-     "en": "(B) Miss Li gives the boy flowers."
+     "en": "(B) Miss Li gives the boy flowers.",
+     "idn": "(B) Nona Li memberi anak laki-laki itu bunga."
     },
     {
      "zh": "(C) 李小姐給男孩子筆。",
      "py": "(C) Lǐxiǎojiě gěi nánháizi bǐ.",
-     "en": "(C) Miss Li gives the boy a pen."
+     "en": "(C) Miss Li gives the boy a pen.",
+     "idn": "(C) Nona Li memberi anak laki-laki itu pulpen."
     }
    ]
   },
@@ -367,38 +422,45 @@
    "stem": {
     "zh": "美美今年要去哪裡玩？",
     "py": "Měiměi jīnnián yào qù nǎlǐ wán?",
-    "en": "Where is Meimei going on vacation this year?"
+    "en": "Where is Meimei going on vacation this year?",
+    "idn": "Tahun ini Meimei akan berlibur ke mana?"
    },
    "transcript": [
     {
      "zh": "男：美美，你今年去日本玩嗎？",
      "py": "Nán: Měiměi, nǐ jīnnián qù Rìběn wán ma?",
-     "en": "Man: Meimei, are you going to Japan for vacation this year?"
+     "en": "Man: Meimei, are you going to Japan for vacation this year?",
+     "idn": "Pria: Meimei, tahun ini kamu berlibur ke Jepang?"
     },
     {
      "zh": "女：不，我今年去台灣玩。",
      "py": "Nǚ: Bù, wǒ jīnnián qù Táiwān wán.",
-     "en": "Woman: No, I'm going to Taiwan this year."
+     "en": "Woman: No, I'm going to Taiwan this year.",
+     "idn": "Wanita: Tidak, tahun ini saya berlibur ke Taiwan."
     },
     {
      "zh": "提問：美美今年去哪裡玩？",
      "py": "Tíwèn: Měiměi jīnnián qù nǎlǐ wán?",
-     "en": "Question: Where is Meimei going on vacation this year?"
+     "en": "Question: Where is Meimei going on vacation this year?",
+     "idn": "Pertanyaan: Tahun ini Meimei berlibur ke mana?"
     },
     {
      "zh": "(A) 日本",
      "py": "(A) Rìběn",
-     "en": "(A) Japan"
+     "en": "(A) Japan",
+     "idn": "(A) Jepang"
     },
     {
      "zh": "(B) 台灣",
      "py": "(B) Táiwān",
-     "en": "(B) Taiwan"
+     "en": "(B) Taiwan",
+     "idn": "(B) Taiwan"
     },
     {
      "zh": "(C) 美國",
      "py": "(C) Měiguó",
-     "en": "(C) The United States"
+     "en": "(C) The United States",
+     "idn": "(C) Amerika Serikat"
     }
    ]
   },
@@ -406,38 +468,45 @@
    "stem": {
     "zh": "明天他們要一起做什麼？",
     "py": "Míngtiān tāmen yào yìqǐ zuò shénme?",
-    "en": "What are they going to do together tomorrow?"
+    "en": "What are they going to do together tomorrow?",
+    "idn": "Besok mereka akan melakukan apa bersama?"
    },
    "transcript": [
     {
      "zh": "男：小美，明天我們一起去運動吧？",
      "py": "Nán: Xiǎoměi, míngtiān wǒmen yìqǐ qù yùndòng ba?",
-     "en": "Man: Xiaomei, let's go exercise together tomorrow, shall we?"
+     "en": "Man: Xiaomei, let's go exercise together tomorrow, shall we?",
+     "idn": "Pria: Xiaomei, besok kita berolahraga bersama, yuk?"
     },
     {
      "zh": "女：好啊，我很喜歡運動。",
      "py": "Nǚ: Hǎo a, wǒ hěn xǐhuān yùndòng.",
-     "en": "Woman: Sure, I really like exercising."
+     "en": "Woman: Sure, I really like exercising.",
+     "idn": "Wanita: Boleh, saya suka sekali berolahraga."
     },
     {
      "zh": "提問：明天他們要一起做什麼？",
      "py": "Tíwèn: Míngtiān tāmen yào yìqǐ zuò shénme?",
-     "en": "Question: What are they going to do together tomorrow?"
+     "en": "Question: What are they going to do together tomorrow?",
+     "idn": "Pertanyaan: Besok mereka akan melakukan apa bersama?"
     },
     {
      "zh": "(A) 運動",
      "py": "(A) yùndòng",
-     "en": "(A) Exercise"
+     "en": "(A) Exercise",
+     "idn": "(A) Berolahraga"
     },
     {
      "zh": "(B) 學習",
      "py": "(B) xuéxí",
-     "en": "(B) Study"
+     "en": "(B) Study",
+     "idn": "(B) Belajar"
     },
     {
      "zh": "(C) 吃飯",
      "py": "(C) chīfàn",
-     "en": "(C) Eat a meal"
+     "en": "(C) Eat a meal",
+     "idn": "(C) Makan"
     }
    ]
   },
@@ -445,38 +514,45 @@
    "stem": {
     "zh": "大明在做什麼？",
     "py": "Dàmíng zài zuò shénme?",
-    "en": "What is Daming doing?"
+    "en": "What is Daming doing?",
+    "idn": "Daming sedang apa?"
    },
    "transcript": [
     {
      "zh": "女：大明，你在做什麼？",
      "py": "Nǚ: Dàmíng, nǐ zài zuò shénme?",
-     "en": "Woman: Daming, what are you doing?"
+     "en": "Woman: Daming, what are you doing?",
+     "idn": "Wanita: Daming, kamu sedang apa?"
     },
     {
      "zh": "男：我在找我的書。",
      "py": "Nán: Wǒ zài zhǎo wǒ de shū.",
-     "en": "Man: I'm looking for my book."
+     "en": "Man: I'm looking for my book.",
+     "idn": "Pria: Saya sedang mencari buku saya."
     },
     {
      "zh": "提問：大明在做什麼？",
      "py": "Tíwèn: Dàmíng zài zuò shénme?",
-     "en": "Question: What is Daming doing?"
+     "en": "Question: What is Daming doing?",
+     "idn": "Pertanyaan: Daming sedang apa?"
     },
     {
      "zh": "(A) 找書",
      "py": "(A) zhǎo shū",
-     "en": "(A) Looking for a book"
+     "en": "(A) Looking for a book",
+     "idn": "(A) Mencari buku"
     },
     {
      "zh": "(B) 買書",
      "py": "(B) mǎi shū",
-     "en": "(B) Buying a book"
+     "en": "(B) Buying a book",
+     "idn": "(B) Membeli buku"
     },
     {
      "zh": "(C) 看書",
      "py": "(C) kànshū",
-     "en": "(C) Reading a book"
+     "en": "(C) Reading a book",
+     "idn": "(C) Membaca buku"
     }
    ]
   },
@@ -484,38 +560,45 @@
    "stem": {
     "zh": "林太太的兒子今年幾歲？",
     "py": "Líntàitai de érzi jīnnián jǐsuì?",
-    "en": "How old is Mrs. Lin's son this year?"
+    "en": "How old is Mrs. Lin's son this year?",
+    "idn": "Berapa umur putra Nyonya Lin tahun ini?"
    },
    "transcript": [
     {
      "zh": "男：林太太，你兒子今年十四歲嗎？",
      "py": "Nán: Líntàitai, nǐ érzi jīnnián shísìsuì ma?",
-     "en": "Man: Mrs. Lin, is your son fourteen this year?"
+     "en": "Man: Mrs. Lin, is your son fourteen this year?",
+     "idn": "Pria: Nyonya Lin, apakah putra Anda tahun ini berumur empat belas tahun?"
     },
     {
      "zh": "女：不，他今年十七歲了。",
      "py": "Nǚ: Bù, tā jīnnián shíqīsuì le.",
-     "en": "Woman: No, he's seventeen this year."
+     "en": "Woman: No, he's seventeen this year.",
+     "idn": "Wanita: Bukan, tahun ini dia sudah tujuh belas tahun."
     },
     {
      "zh": "提問：林太太的兒子今年幾歲？",
      "py": "Tíwèn: Líntàitai de érzi jīnnián jǐsuì?",
-     "en": "Question: How old is Mrs. Lin's son this year?"
+     "en": "Question: How old is Mrs. Lin's son this year?",
+     "idn": "Pertanyaan: Berapa umur putra Nyonya Lin tahun ini?"
     },
     {
      "zh": "(A) 十一歲",
      "py": "(A) shíyísuì",
-     "en": "(A) Eleven years old"
+     "en": "(A) Eleven years old",
+     "idn": "(A) Sebelas tahun"
     },
     {
      "zh": "(B) 十四歲",
      "py": "(B) shísìsuì",
-     "en": "(B) Fourteen years old"
+     "en": "(B) Fourteen years old",
+     "idn": "(B) Empat belas tahun"
     },
     {
      "zh": "(C) 十七歲",
      "py": "(C) shíqīsuì",
-     "en": "(C) Seventeen years old"
+     "en": "(C) Seventeen years old",
+     "idn": "(C) Tujuh belas tahun"
     }
    ]
   },
@@ -523,38 +606,45 @@
    "stem": {
     "zh": "小張星期天要做什麼？",
     "py": "Xiǎozhāng xīngqītiān yào zuò shénme?",
-    "en": "What is Xiao Zhang doing on Sunday?"
+    "en": "What is Xiao Zhang doing on Sunday?",
+    "idn": "Apa yang akan dilakukan Xiao Zhang pada hari Minggu?"
    },
    "transcript": [
     {
      "zh": "女：小張，星期天跟我們去看電影吧？",
      "py": "Nǚ: Xiǎozhāng, xīngqītiān gēn wǒmen qù kàn diànyǐngba?",
-     "en": "Woman: Xiao Zhang, come see a movie with us on Sunday, OK?"
+     "en": "Woman: Xiao Zhang, come see a movie with us on Sunday, OK?",
+     "idn": "Wanita: Xiao Zhang, hari Minggu ikut kami menonton film, yuk?"
     },
     {
      "zh": "男：我不能去，我星期天要參加考試。",
      "py": "Nán: Wǒ bùnéng qù, wǒ xīngqītiān yào cānjiākǎoshì.",
-     "en": "Man: I can't go. I have to take an exam on Sunday."
+     "en": "Man: I can't go. I have to take an exam on Sunday.",
+     "idn": "Pria: Saya tidak bisa. Hari Minggu saya harus ikut ujian."
     },
     {
      "zh": "提問：小張星期天要做什麼？",
      "py": "Tíwèn: Xiǎozhāng xīngqītiān yào zuò shénme?",
-     "en": "Question: What is Xiao Zhang doing on Sunday?"
+     "en": "Question: What is Xiao Zhang doing on Sunday?",
+     "idn": "Pertanyaan: Apa yang akan dilakukan Xiao Zhang pada hari Minggu?"
     },
     {
      "zh": "(A) 唱歌",
      "py": "(A) chànggē",
-     "en": "(A) Singing"
+     "en": "(A) Singing",
+     "idn": "(A) Bernyanyi"
     },
     {
      "zh": "(B) 看電影",
      "py": "(B) kàn diànyǐng",
-     "en": "(B) Seeing a movie"
+     "en": "(B) Seeing a movie",
+     "idn": "(B) Menonton film"
     },
     {
      "zh": "(C) 參加考試",
      "py": "(C) cānjiākǎoshì",
-     "en": "(C) Taking an exam"
+     "en": "(C) Taking an exam",
+     "idn": "(C) Ikut ujian"
     }
    ]
   }
