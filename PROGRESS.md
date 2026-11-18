@@ -61,42 +61,46 @@ The book's dialogues, exercises, explanations and illustrations are **not** copi
 3. Check every page against the image (characters, tone-marked pinyin, numbering, punctuation), then set `"status": "complete"`.
 4. `python pipeline/parse_study.py "<SRC>" .` → `python pipeline/finalize.py .` → `npm run build` → `npm test` → `python scripts/e2e_pages.py` → commit + push.
 
-## TOCFL Exercise explanations (pinyin + English)
+## TOCFL Exercise explanations (pinyin + audio + English + Indonesian)
 
 Pinyin is generated for every Chinese text. English is written per test in `pipeline/explain_src/<testId>.json` (see README §4). Order of work: Novice → A → B Reading → C Reading → B Listening → C Listening.
+Indonesian is written per test in `pipeline/explain_src_id/<testId>.json` (keyed by segment id; `img:<n>:<k>` for text inside pictures), written from the Chinese and checked against the English; `python3 pipeline/explain_tool.py idsheet <tid>` prints the sheet, `merge <tid>` writes `idn` + `indonesianComplete`. In the panel each line shows Chinese, a ▶ button (TTS), pinyin, EN and ID.
+Pinyin rules live in `pipeline/pinyin_util.py`: context rules for 得 (de/děi/dé), 著 (zhe/zháo/zhuó), 地 → de, 了 → liǎo after V得, other polyphones (長 教 當 應 種 量 重 數 乾 調 假 還 好 中 為), 一/不 sandhi across word boundaries, erhua, syllable apostrophes, ○ → líng.
 
-| Test | Segments | English |
-|---|---|---|
-| a-l1 | 201 | ✅ complete |
-| a-l2 | 197 | ✅ complete |
-| a-l3 | 240 | ✅ complete |
-| a-l4 | 235 | ✅ complete |
-| a-l5 | 226 | ✅ complete |
-| a-r1 | 162 | ✅ complete |
-| a-r2 | 160 | ✅ complete |
-| a-r3 | 150 | ✅ complete |
-| a-r4 | 156 | ✅ complete |
-| a-r5 | 153 | ✅ complete |
-| b-l1 | 370 | ✅ complete |
-| b-l2 | 359 | ✅ complete |
-| b-l3 | 407 | ✅ complete |
-| b-l4 | 425 | ✅ complete |
-| b-l5 | 446 | ✅ complete |
-| b-r1 | 319 | ✅ complete |
-| b-r2 | 325 | ✅ complete |
-| b-r3 | 321 | ✅ complete |
-| b-r4 | 319 | ✅ complete |
-| b-r5 | 326 | ✅ complete |
-| c-l1 | 438 | ✅ complete |
-| c-l2 | 463 | ✅ complete |
-| c-l3 | 404 | ✅ complete |
-| c-l4 | 456 | ✅ complete |
-| c-r1 | 347 | ✅ complete |
-| c-r2 | 310 | ✅ complete |
-| c-r3 | 316 | ✅ complete |
-| c-r4 | 345 | ✅ complete |
-| novice-l1 | 75 | ✅ complete |
-| novice-r1 | 45 | ✅ complete |
+| Test | Segments | English | Indonesian |
+|---|---|---|---|
+| a-l1 | 201 | ✅ complete | ✅ complete |
+| a-l2 | 197 | ✅ complete | ✅ complete |
+| a-l3 | 240 | ✅ complete | ✅ complete |
+| a-l4 | 235 | ✅ complete | ✅ complete |
+| a-l5 | 226 | ✅ complete | ✅ complete |
+| a-r1 | 162 | ✅ complete | ✅ complete |
+| a-r2 | 160 | ✅ complete | ✅ complete |
+| a-r3 | 150 | ✅ complete | ✅ complete |
+| a-r4 | 156 | ✅ complete | ✅ complete |
+| a-r5 | 153 | ✅ complete | ✅ complete |
+| b-l1 | 370 | ✅ complete | ✅ complete |
+| b-l2 | 359 | ✅ complete | ✅ complete |
+| b-l3 | 407 | ✅ complete | ✅ complete |
+| b-l4 | 425 | ✅ complete | ✅ complete |
+| b-l5 | 446 | ✅ complete | ✅ complete |
+| b-r1 | 319 | ✅ complete | ✅ complete |
+| b-r2 | 325 | ✅ complete | ✅ complete |
+| b-r3 | 321 | ✅ complete | ✅ complete |
+| b-r4 | 319 | ✅ complete | ✅ complete |
+| b-r5 | 326 | ✅ complete | ✅ complete |
+| c-l1 | 438 | ✅ complete | ✅ complete |
+| c-l2 | 463 | ✅ complete | ✅ complete |
+| c-l3 | 404 | ✅ complete | ✅ complete |
+| c-l4 | 456 | ✅ complete | ✅ complete |
+| c-r1 | 347 | ✅ complete | ✅ complete |
+| c-r2 | 310 | ✅ complete | ✅ complete |
+| c-r3 | 316 | ✅ complete | ✅ complete |
+| c-r4 | 345 | ✅ complete | ✅ complete |
+| novice-l1 | 75 | ✅ complete | ✅ complete |
+| novice-r1 | 45 | ✅ complete | ✅ complete |
+
+- Per-part bank (pb-*) explanations: not yet. About 6,945 lines have no full-test match and need pinyin/EN/ID; 282 items have their text only in the picture and must be read from the image.
 
 ## Per-part question bank (TOCFL Exercise → "Bank soal per bagian")
 Built by `pipeline/build_partbank.py` from each part folder's `*_Answer.xlsx` + item PDFs (original item image, official key, script for listening).
