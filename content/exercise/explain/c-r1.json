@@ -2,51 +2,59 @@
  "testId": "c-r1",
  "segments": 347,
  "englishComplete": true,
- "indonesianComplete": false,
+ "indonesianComplete": true,
  "questions": {
   "1": {
    "passage": [
     {
      "zh": "（一）",
      "py": "(Yī)",
-     "en": "(1)"
+     "en": "(1)",
+     "idn": "(1)"
     },
     {
      "zh": "從 15 世紀開始，歐洲便出現了手抄報紙，報導有關政治、戰爭、市場、船期等消息， 1 它突破了傳統私人信件的形式，但傳播的範圍還很小， 2 要等到印刷技術進步，報紙才 3 大量發行。",
      "py": "Cóng 15 shìjì kāishǐ, Ōuzhōu biàn chūxiàn le shǒuchāo bàozhǐ, bàodǎo yǒuguān zhèngzhì, zhànzhēng, shìchǎng, chuánqī děng xiāoxī, 1 tā tūpò le chuántǒng sīrén xìnjiàn de xíngshì, dàn chuánbō de fànwéi hái hěnxiǎo, 2 yào děngdào yìnshuājìshù jìnbù, bàozhǐ cái 3 dàliàng fāxíng.",
-     "en": "From the 15th century, handwritten newspapers appeared in Europe, reporting news on politics, war, markets, shipping schedules and so on. ___1___ they broke away from the traditional form of private letters, their circulation was still very small; ___2___ printing technology advanced could newspapers ___3___ be published in large numbers."
+     "en": "From the 15th century, handwritten newspapers appeared in Europe, reporting news on politics, war, markets, shipping schedules and so on. ___1___ they broke away from the traditional form of private letters, their circulation was still very small; ___2___ printing technology advanced could newspapers ___3___ be published in large numbers.",
+     "idn": "Sejak abad ke-15, di Eropa muncul surat kabar tulisan tangan yang memberitakan kabar politik, perang, pasar, jadwal kapal, dan sebagainya. ___1___ surat kabar itu sudah lepas dari bentuk tradisional surat pribadi, peredarannya masih sangat sedikit; ___2___ teknologi percetakan maju, surat kabar baru ___3___ diterbitkan dalam jumlah besar."
     },
     {
      "zh": "報紙之所以普及，也跟近代商業的發展 4 關係。",
      "py": "Bàozhǐ zhīsuǒyǐ Pǔjí, yě gēn jìndài shāngyè de fāzhǎn 4 guānxì.",
-     "en": "The spread of newspapers also ___4___ the development of modern commerce."
+     "en": "The spread of newspapers also ___4___ the development of modern commerce.",
+     "idn": "Penyebaran surat kabar juga ___4___ perkembangan perdagangan modern."
     },
     {
      "zh": "經濟快速地成長，使得不同地區、不同國家間的關係更為密切，人們需要互相了解，資訊需要快速傳播，人們對報紙的依賴也就 5 加深，報業因此蓬勃發展。",
      "py": "Jīngjì kuàisù de chéngzhǎng, shǐde bùtóng dìqū, bùtóng guójiā jiān de guānxì gèngwéi mìqiè, rénmen xūyào hùxiāng liǎojiě, zīxùn xūyào kuàisù chuánbō, rénmen duì bàozhǐ de yīlài yě jiù 5 jiāshēn, bàoyè yīncǐ péngbófāzhǎn.",
-     "en": "Rapid economic growth brought different regions and countries into closer contact; people needed to understand one another and information needed to spread quickly, so people's dependence on newspapers ___5___ deepened, and the newspaper industry flourished as a result."
+     "en": "Rapid economic growth brought different regions and countries into closer contact; people needed to understand one another and information needed to spread quickly, so people's dependence on newspapers ___5___ deepened, and the newspaper industry flourished as a result.",
+     "idn": "Pertumbuhan ekonomi yang pesat membuat berbagai daerah dan negara makin erat berhubungan; orang perlu saling memahami dan informasi perlu menyebar dengan cepat, sehingga ketergantungan orang pada surat kabar ___5___ makin dalam, dan industri surat kabar pun berkembang pesat."
     }
    ],
    "options": {
     "A": {
      "zh": "由於",
      "py": "Yóuyú",
-     "en": "(A) because"
+     "en": "(A) because",
+     "idn": "(A) karena"
     },
     "B": {
      "zh": "儘管",
      "py": "Jǐnguǎn",
-     "en": "(B) although"
+     "en": "(B) although",
+     "idn": "(B) meskipun"
     },
     "C": {
      "zh": "既然",
      "py": "Jìrán",
-     "en": "(C) since (given that)"
+     "en": "(C) since (given that)",
+     "idn": "(C) karena sudah (mengingat bahwa)"
     },
     "D": {
      "zh": "然而",
      "py": "Rán'ér",
-     "en": "(D) however"
+     "en": "(D) however",
+     "idn": "(D) namun"
     }
    }
   },
@@ -55,22 +63,26 @@
     "A": {
      "zh": "一向",
      "py": "Yíxiàng",
-     "en": "(A) always (up to now)"
+     "en": "(A) always (up to now)",
+     "idn": "(A) selalu (sampai sekarang)"
     },
     "B": {
      "zh": "一時",
      "py": "Yìshí",
-     "en": "(B) for a moment"
+     "en": "(B) for a moment",
+     "idn": "(B) sesaat"
     },
     "C": {
      "zh": "一旦",
      "py": "Yídàn",
-     "en": "(C) once"
+     "en": "(C) once",
+     "idn": "(C) begitu (sesuatu terjadi)"
     },
     "D": {
      "zh": "一直",
      "py": "Yìzhí",
-     "en": "(D) all along; until"
+     "en": "(D) all along; until",
+     "idn": "(D) terus-menerus; sampai"
     }
    }
   },
@@ -79,22 +91,26 @@
     "A": {
      "zh": "得以",
      "py": "Déyǐ",
-     "en": "(A) be able to; get to"
+     "en": "(A) be able to; get to",
+     "idn": "(A) dapat; berkesempatan"
     },
     "B": {
      "zh": "加以",
      "py": "Jiāyǐ",
-     "en": "(B) (to) deal with; apply"
+     "en": "(B) (to) deal with; apply",
+     "idn": "(B) menangani; melakukan"
     },
     "C": {
      "zh": "予以",
      "py": "Yǔyǐ",
-     "en": "(C) give; grant"
+     "en": "(C) give; grant",
+     "idn": "(C) memberikan; menjatuhkan (hukuman, dsb.)"
     },
     "D": {
      "zh": "足以",
      "py": "Zúyǐ",
-     "en": "(D) be enough to"
+     "en": "(D) be enough to",
+     "idn": "(D) cukup untuk"
     }
    }
   },
@@ -103,22 +119,26 @@
     "A": {
      "zh": "免不了",
      "py": "Miǎnbùliǎo",
-     "en": "(A) can't avoid; is bound to (have)"
+     "en": "(A) can't avoid; is bound to (have)",
+     "idn": "(A) tidak terhindarkan; pasti ada"
     },
     "B": {
      "zh": "脫不了",
      "py": "Tuōbùliǎo",
-     "en": "(B) can't escape; is inseparable from"
+     "en": "(B) can't escape; is inseparable from",
+     "idn": "(B) tidak bisa lepas dari; tidak terpisahkan dari"
     },
     "C": {
      "zh": "去不了",
      "py": "Qù bùliǎo",
-     "en": "(C) can't go"
+     "en": "(C) can't go",
+     "idn": "(C) tidak bisa pergi"
     },
     "D": {
      "zh": "起不了",
      "py": "Qǐ bùliǎo",
-     "en": "(D) can't play (a role)"
+     "en": "(D) can't play (a role)",
+     "idn": "(D) tidak bisa berperan"
     }
    }
   },
@@ -127,22 +147,26 @@
     "A": {
      "zh": "極其",
      "py": "Jíqí",
-     "en": "(A) extremely"
+     "en": "(A) extremely",
+     "idn": "(A) sangat, amat"
     },
     "B": {
      "zh": "相當",
      "py": "Xiāngdāng",
-     "en": "(B) quite"
+     "en": "(B) quite",
+     "idn": "(B) cukup"
     },
     "C": {
      "zh": "日益",
      "py": "Rìyì",
-     "en": "(C) increasingly; day by day"
+     "en": "(C) increasingly; day by day",
+     "idn": "(C) makin hari makin; kian"
     },
     "D": {
      "zh": "隨後",
      "py": "Suíhòu",
-     "en": "(D) afterwards"
+     "en": "(D) afterwards",
+     "idn": "(D) kemudian"
     }
    }
   },
@@ -151,49 +175,58 @@
     {
      "zh": "（二）",
      "py": "(Èr)",
-     "en": "(2)"
+     "en": "(2)",
+     "idn": "(2)"
     },
     {
      "zh": "目前許多中小學都鼓勵學生利用電腦進行學習，但是成人的電腦讓小孩用， 6 會有各種顧慮，不是擔心重要檔案被小孩刪掉，就是怕小孩亂逛網站造成電腦中毒。",
      "py": "Mùqián xǔduō zhōngxiǎoxué dōu gǔlì xuéshēng lìyòng diànnǎo jìnxíng xuéxí, dànshì chéngrén de diànnǎo ràng xiǎohái yòng, 6 huì yǒu gèzhǒng gùlǜ, búshì dānxīn zhòngyào dàng'àn bèi xiǎohái shāndiào, jiùshì pà xiǎohái luànguàng wǎngzhàn zàochéng diànnǎo Zhòngdú.",
-     "en": "Many primary and secondary schools now encourage students to learn with computers, but when adults let children use their computers, they ___6___ have all sorts of worries: either that the child will delete important files, or that the child will wander around websites and give the computer a virus."
+     "en": "Many primary and secondary schools now encourage students to learn with computers, but when adults let children use their computers, they ___6___ have all sorts of worries: either that the child will delete important files, or that the child will wander around websites and give the computer a virus.",
+     "idn": "Banyak sekolah dasar dan menengah sekarang mendorong murid belajar dengan komputer, tetapi ketika orang dewasa membiarkan anak memakai komputer mereka, mereka ___6___ punya berbagai kekhawatiran: entah takut anak menghapus berkas penting, atau takut anak berkeliaran di situs-situs dan membuat komputer terkena virus."
     },
     {
      "zh": "當然，對父母來說，中毒事小，",
      "py": "Dāngrán, duì fùmǔ láishuō, Zhòngdú shì xiǎo,",
-     "en": "Of course, for parents, a virus is a small matter;"
+     "en": "Of course, for parents, a virus is a small matter;",
+     "idn": "Tentu saja bagi orang tua, virus hanyalah masalah kecil;"
     },
     {
      "zh": "7 小孩逛到色情或賭博網站，那就更糟糕了。",
      "py": "7 xiǎohái guàngdào sèqíng huò dǔbó wǎngzhàn, nà jiù gèng zāogāo le.",
-     "en": "___7___ the child wanders onto pornographic or gambling sites, that would be much worse."
+     "en": "___7___ the child wanders onto pornographic or gambling sites, that would be much worse.",
+     "idn": "___7___ anak masuk ke situs pornografi atau perjudian, itu jauh lebih gawat."
     },
     {
      "zh": "正因為兒童使用電腦的比例逐年增加，有廠商看好這 8 趨勢，推出專為兒童設計的電腦， 9 內建各種學習軟體， 9 可讓父母監控小孩上網的情形，一上市便廣受好評，創造出亮眼的 10 ，廠商也因此大撈一筆。",
      "py": "Zhèng yīnwèi értóng shǐyòng diànnǎo de bǐlì zhúnián zēngjiā, yǒu chǎngshāng kànhǎo zhè 8 qūshì, tuīchū zhuān wèi értóng shèjì de diànnǎo, 9 nèi jiàn gèzhǒng xuéxí ruǎntǐ, 9 kě ràng fùmǔ jiānkòng xiǎohái shàngwǎng de qíngxíng, yí Shàngshì biàn guǎngshòu hǎopíng, chuàngzào chū liàngyǎn de 10, chǎngshāng yě yīncǐ dà lāo yìbǐ.",
-     "en": "Precisely because the share of children using computers grows every year, some manufacturers, optimistic about this ___8___ trend, launched computers designed especially for children. They ___9___ come with all kinds of learning software built in ___9___ let parents monitor their children's internet use. As soon as they hit the market they were very well received, producing impressive ___10___, and the manufacturers made a fortune."
+     "en": "Precisely because the share of children using computers grows every year, some manufacturers, optimistic about this ___8___ trend, launched computers designed especially for children. They ___9___ come with all kinds of learning software built in ___9___ let parents monitor their children's internet use. As soon as they hit the market they were very well received, producing impressive ___10___, and the manufacturers made a fortune.",
+     "idn": "Justru karena porsi anak yang memakai komputer bertambah setiap tahun, sejumlah produsen yang melihat prospek ___8___ tren ini meluncurkan komputer yang dirancang khusus untuk anak. Komputer ini ___9___ dilengkapi berbagai perangkat lunak belajar ___9___ memungkinkan orang tua memantau anak berinternet. Begitu dipasarkan langsung laris, menghasilkan ___10___ yang mengesankan, dan para produsen pun meraup untung besar."
     }
    ],
    "options": {
     "A": {
      "zh": "居然",
      "py": "Jūrán",
-     "en": "(A) unexpectedly"
+     "en": "(A) unexpectedly",
+     "idn": "(A) ternyata (di luar dugaan)"
     },
     "B": {
      "zh": "未必",
      "py": "Wèibì",
-     "en": "(B) not necessarily"
+     "en": "(B) not necessarily",
+     "idn": "(B) belum tentu"
     },
     "C": {
      "zh": "難免",
      "py": "Nánmiǎn",
-     "en": "(C) unavoidably; inevitably"
+     "en": "(C) unavoidably; inevitably",
+     "idn": "(C) tidak terhindarkan; mau tak mau"
     },
     "D": {
      "zh": "哪怕",
      "py": "Nǎpà",
-     "en": "(D) even if"
+     "en": "(D) even if",
+     "idn": "(D) sekalipun"
     }
    }
   },
@@ -202,22 +235,26 @@
     "A": {
      "zh": "恐怕",
      "py": "Kǒngpà",
-     "en": "(A) I'm afraid"
+     "en": "(A) I'm afraid",
+     "idn": "(A) saya khawatir; jangan-jangan"
     },
     "B": {
      "zh": "萬一",
      "py": "Wànyī",
-     "en": "(B) if by any chance"
+     "en": "(B) if by any chance",
+     "idn": "(B) seandainya saja (kalau sampai)"
     },
     "C": {
      "zh": "甚至",
      "py": "Shènzhì",
-     "en": "(C) even"
+     "en": "(C) even",
+     "idn": "(C) bahkan"
     },
     "D": {
      "zh": "而且",
      "py": "Érqiě",
-     "en": "(D) moreover"
+     "en": "(D) moreover",
+     "idn": "(D) selain itu"
     }
    }
   },
@@ -226,22 +263,26 @@
     "A": {
      "zh": "股",
      "py": "Gǔ",
-     "en": "(A) 股 (measure word for currents, trends, forces)"
+     "en": "(A) 股 (measure word for currents, trends, forces)",
+     "idn": "(A) 股 (kata penggolong untuk arus, tren, kekuatan)"
     },
     "B": {
      "zh": "款",
      "py": "Kuǎn",
-     "en": "(B) 款 (measure word for styles / models)"
+     "en": "(B) 款 (measure word for styles / models)",
+     "idn": "(B) 款 (kata penggolong untuk model / tipe)"
     },
     "C": {
      "zh": "片",
      "py": "Piàn",
-     "en": "(C) 片 (measure word for slices, stretches)"
+     "en": "(C) 片 (measure word for slices, stretches)",
+     "idn": "(C) 片 (kata penggolong untuk iris, hamparan)"
     },
     "D": {
      "zh": "串",
      "py": "Chuàn",
-     "en": "(D) 串 (measure word for strings, bunches)"
+     "en": "(D) 串 (measure word for strings, bunches)",
+     "idn": "(D) 串 (kata penggolong untuk untaian, tandan)"
     }
    }
   },
@@ -250,22 +291,26 @@
     "A": {
      "zh": "雖然…但…",
      "py": "Suīrán… dàn…",
-     "en": "(A) although … but …"
+     "en": "(A) although … but …",
+     "idn": "(A) meskipun … tetapi …"
     },
     "B": {
      "zh": "除非…才…",
      "py": "Chúfēi… cái…",
-     "en": "(B) only if … then …"
+     "en": "(B) only if … then …",
+     "idn": "(B) hanya jika … baru …"
     },
     "C": {
      "zh": "不論…也…",
      "py": "Búlùn… yě…",
-     "en": "(C) no matter … also …"
+     "en": "(C) no matter … also …",
+     "idn": "(C) tidak peduli … juga …"
     },
     "D": {
      "zh": "不僅…還…",
      "py": "Bùjǐn… hái…",
-     "en": "(D) not only … but also …"
+     "en": "(D) not only … but also …",
+     "idn": "(D) tidak hanya … tetapi juga …"
     }
    }
   },
@@ -274,22 +319,26 @@
     "A": {
      "zh": "客戶",
      "py": "Kèhù",
-     "en": "(A) clients"
+     "en": "(A) clients",
+     "idn": "(A) klien"
     },
     "B": {
      "zh": "銷售",
      "py": "Xiāoshòu",
-     "en": "(B) sales"
+     "en": "(B) sales",
+     "idn": "(B) penjualan"
     },
     "C": {
      "zh": "業績",
      "py": "Yèjì",
-     "en": "(C) business results; sales figures"
+     "en": "(C) business results; sales figures",
+     "idn": "(C) hasil usaha; angka penjualan"
     },
     "D": {
      "zh": "景氣",
      "py": "Jǐngqì",
-     "en": "(D) economic climate"
+     "en": "(D) economic climate",
+     "idn": "(D) kondisi ekonomi"
     }
    }
   },
@@ -298,59 +347,70 @@
     {
      "zh": "（三）",
      "py": "(Sān)",
-     "en": "(3)"
+     "en": "(3)",
+     "idn": "(3)"
     },
     {
      "zh": "每每回顧生命歷程，總發現某些當年所 11 的意外、經歷的曲折，後來好像都轉為一種能量和養分。",
      "py": "Měiměi huígù shēngmìng lìchéng, zǒng fāxiàn mǒuxiē dāngnián suǒ 11 de yìwài, jīnglì de qūzhé, hòulái hǎoxiàng dōu zhuǎnwéi yìzhǒng néngliàng hé yǎngfèn.",
-     "en": "Whenever I look back on my life, I always find that certain accidents I ___11___ and twists I went through back then seem to have later turned into a kind of energy and nourishment."
+     "en": "Whenever I look back on my life, I always find that certain accidents I ___11___ and twists I went through back then seem to have later turned into a kind of energy and nourishment.",
+     "idn": "Setiap kali menengok kembali hidup saya, saya selalu mendapati bahwa kecelakaan tertentu yang dulu saya ___11___ dan liku-liku yang saya alami tampaknya kemudian berubah menjadi semacam energi dan gizi."
     },
     {
      "zh": "若 12 這些意外與曲折，我似乎就不會在人生的路上，與難得的人、事相遇；",
      "py": "Ruò 12 zhèxiē yìwài yǔ qūzhé, wǒ sìhū jiù búhuì zài rénshēng de lùshàng, yǔ nándé de rén, shì xiāngyù;",
-     "en": "Had it ___12___ been for these accidents and twists, I don't think I would have met those rare people and events on life's road;"
+     "en": "Had it ___12___ been for these accidents and twists, I don't think I would have met those rare people and events on life's road;",
+     "idn": "Seandainya ___12___ karena kecelakaan dan liku-liku itu, saya rasa saya tidak akan bertemu orang-orang dan peristiwa langka itu di jalan kehidupan;"
     },
     {
      "zh": "而這些人、那些事在時間漸漸 13 一切後，只留下了由歡笑與淚水交織而成的一股暖意。",
      "py": "Ér zhèxiē rén, nàxiē shì zài shíjiān jiànjiàn 13 yíqiè hòu, zhǐ liúxià le yóu huānxiào yǔ lèishuǐ jiāozhī ér chéng de yìgǔ nuǎnyì.",
-     "en": "and after time gradually ___13___ everything, these people and those events left only a warmth woven from laughter and tears."
+     "en": "and after time gradually ___13___ everything, these people and those events left only a warmth woven from laughter and tears.",
+     "idn": "dan setelah waktu perlahan ___13___ segalanya, orang-orang dan peristiwa itu hanya meninggalkan kehangatan yang terjalin dari tawa dan air mata."
     },
     {
      "zh": "曾經的悔恨和不滿彷彿都已 14 。",
      "py": "Céngjīng de huǐhèn hé bùmǎn fǎngfú dōu yǐ 14.",
-     "en": "The regrets and resentments I once had seem to have all ___14___."
+     "en": "The regrets and resentments I once had seem to have all ___14___.",
+     "idn": "Penyesalan dan dendam yang dulu ada tampaknya sudah ___14___."
     },
     {
      "zh": "我經常拿這些人與事向朋友分享，他們鼓勵我將之化為文字， 15 自己帶著回憶走進棺材，",
      "py": "Wǒ jīngcháng ná zhèxiē rén yǔ shìxiàng péngyǒu fēnxiǎng, tāmen gǔlì wǒ jiāng zhī huàwèi wénzì, 15 zìjǐ dàizhe huíyì zǒujìn guāncái,",
-     "en": "I often share these people and events with friends. They encourage me to put them into words: ___15___ take the memories with me into my coffin,"
+     "en": "I often share these people and events with friends. They encourage me to put them into words: ___15___ take the memories with me into my coffin,",
+     "idn": "Saya sering berbagi cerita tentang orang-orang dan peristiwa ini dengan teman. Mereka mendorong saya menuangkannya dalam tulisan: ___15___ membawa kenangan itu bersama saya ke dalam peti mati,"
     },
     {
      "zh": "15 集結成冊，當我有一天什麼都不記得時，至少還有人幫我記得這些人、那些事。",
      "py": "15 jíjié chéngcè, dāng wǒ yǒu yìtiān shénme dōu bú jìde shí, zhìshǎo háiyǒu rén bāng wǒ jìde zhèxiē rén, nàxiē shì.",
-     "en": "___15___ collect them into a book, so that one day when I remember nothing, at least someone will remember these people and those events for me."
+     "en": "___15___ collect them into a book, so that one day when I remember nothing, at least someone will remember these people and those events for me.",
+     "idn": "___15___ menghimpunnya menjadi buku, sehingga suatu hari ketika saya tidak ingat apa-apa lagi, setidaknya ada orang yang mengingat orang-orang dan peristiwa itu untuk saya."
     }
    ],
    "options": {
     "A": {
      "zh": "盲從",
      "py": "Mángcóng",
-     "en": "(A) follow blindly"
+     "en": "(A) follow blindly",
+     "idn": "(A) mengikuti secara membabi buta"
     },
     "B": {
      "zh": "遵循",
      "py": "Zūnxún",
-     "en": "(B) follow; abide by"
+     "en": "(B) follow; abide by",
+     "idn": "(B) mematuhi; mengikuti"
     },
     "C": {
      "zh": "叫好",
      "py": "Jiàohǎo",
-     "en": "(C) cheer; applaud"
+     "en": "(C) cheer; applaud",
+     "idn": "(C) bersorak; memuji"
     },
     "D": {
      "zh": "遭遇",
      "py": "Zāoyù",
-     "en": "(D) meet with; suffer"
+     "en": "(D) meet with; suffer",
+     "idn": "(D) mengalami (hal buruk); menghadapi"
     }
    }
   },
@@ -359,22 +419,26 @@
     "A": {
      "zh": "未",
      "py": "Wèi",
-     "en": "(A) not (literary)"
+     "en": "(A) not (literary)",
+     "idn": "(A) belum; tidak (gaya tulis)"
     },
     "B": {
      "zh": "甭",
      "py": "Béng",
-     "en": "(B) no need to"
+     "en": "(B) no need to",
+     "idn": "(B) tidak perlu"
     },
     "C": {
      "zh": "勿",
      "py": "Wù",
-     "en": "(C) don't (imperative)"
+     "en": "(C) don't (imperative)",
+     "idn": "(C) jangan (perintah)"
     },
     "D": {
      "zh": "非",
      "py": "Fēi",
-     "en": "(D) not; un- (= 不是)"
+     "en": "(D) not; un- (= 不是)",
+     "idn": "(D) bukan; tidak (= 不是)"
     }
    }
   },
@@ -383,22 +447,26 @@
     "A": {
      "zh": "沖淡",
      "py": "Chōngdàn",
-     "en": "(A) dilute; wash away"
+     "en": "(A) dilute; wash away",
+     "idn": "(A) mengencerkan; memudarkan"
     },
     "B": {
      "zh": "裁減",
      "py": "Cáijiǎn",
-     "en": "(B) cut back; downsize"
+     "en": "(B) cut back; downsize",
+     "idn": "(B) memangkas; mengurangi (karyawan)"
     },
     "C": {
      "zh": "消耗",
      "py": "Xiāohào",
-     "en": "(C) consume; use up"
+     "en": "(C) consume; use up",
+     "idn": "(C) menghabiskan; mengonsumsi"
     },
     "D": {
      "zh": "剝削",
      "py": "Bōxuē",
-     "en": "(D) exploit"
+     "en": "(D) exploit",
+     "idn": "(D) mengeksploitasi"
     }
    }
   },
@@ -407,22 +475,26 @@
     "A": {
      "zh": "香消玉殞",
      "py": "Xiāngxiāoyùyǔn",
-     "en": "(A) a beautiful woman dies (idiom)"
+     "en": "(A) a beautiful woman dies (idiom)",
+     "idn": "(A) wanita cantik meninggal muda (idiom)"
     },
     "B": {
      "zh": "雲消霧散",
      "py": "Yúnxiāowùsàn",
-     "en": "(B) vanish like clouds and mist (idiom)"
+     "en": "(B) vanish like clouds and mist (idiom)",
+     "idn": "(B) lenyap seperti awan dan kabut (idiom)"
     },
     "C": {
      "zh": "捲土重來",
      "py": "Juǎntǔchónglái",
-     "en": "(C) make a comeback (idiom)"
+     "en": "(C) make a comeback (idiom)",
+     "idn": "(C) bangkit kembali (idiom)"
     },
     "D": {
      "zh": "魂飛魄散",
      "py": "Húnfēipòsàn",
-     "en": "(D) be frightened out of one's wits (idiom)"
+     "en": "(D) be frightened out of one's wits (idiom)",
+     "idn": "(D) ketakutan setengah mati (idiom)"
     }
    }
   },
@@ -431,22 +503,26 @@
     "A": {
      "zh": "為了…因此…",
      "py": "Wèile… yīncǐ…",
-     "en": "(A) in order to … therefore …"
+     "en": "(A) in order to … therefore …",
+     "idn": "(A) supaya … karena itu …"
     },
     "B": {
      "zh": "就算…也能…",
      "py": "Jiùsuàn… yě néng…",
-     "en": "(B) even if … can also …"
+     "en": "(B) even if … can also …",
+     "idn": "(B) sekalipun … juga bisa …"
     },
     "C": {
      "zh": "總得…進而…",
      "py": "Zǒng děi… jìn'ér…",
-     "en": "(C) must … and then …"
+     "en": "(C) must … and then …",
+     "idn": "(C) harus … baru kemudian …"
     },
     "D": {
      "zh": "與其…不如…",
      "py": "Yǔqí… bùrú…",
-     "en": "(D) rather than … better to …"
+     "en": "(D) rather than … better to …",
+     "idn": "(D) daripada … lebih baik …"
     }
    }
   },
@@ -455,64 +531,76 @@
     {
      "zh": "（一）",
      "py": "(Yī)",
-     "en": "(1)"
+     "en": "(1)",
+     "idn": "(1)"
     },
     {
      "zh": "在台灣，男人平均比女人少活約 5 歲。",
      "py": "Zài Táiwān, nánrén píngjūn bǐ nǚrén shǎo huó yuē 5 suì.",
-     "en": "In Taiwan, men live on average about 5 years less than women."
+     "en": "In Taiwan, men live on average about 5 years less than women.",
+     "idn": "Di Taiwan, rata-rata usia laki-laki sekitar 5 tahun lebih pendek daripada perempuan."
     },
     {
      "zh": "不過，男人並沒有因此更加注意健康；",
      "py": "Búguò, nánrén bìng méiyǒu yīncǐ gèngjiā zhùyì jiànkāng;",
-     "en": "But men haven't become more careful about their health because of this;"
+     "en": "But men haven't become more careful about their health because of this;",
+     "idn": "Tetapi laki-laki tidak menjadi lebih peduli pada kesehatan karena hal itu;"
     },
     {
      "zh": "就算生病了，也總是以「我很忙」、「沒時間」為藉口，不願到醫院就診。",
      "py": "Jiùsuàn shēngbìng le, yě zǒngshì yǐ “Wǒ hěnmáng”, “Méi shíjiān” wéi jièkǒu, bú yuàndào yīyuàn jiùzhěn.",
-     "en": "even when sick, they always use \"I'm busy\" or \"I don't have time\" as an excuse and won't go to hospital."
+     "en": "even when sick, they always use \"I'm busy\" or \"I don't have time\" as an excuse and won't go to hospital.",
+     "idn": "bahkan saat sakit pun, mereka selalu beralasan \"saya sibuk\" atau \"tidak ada waktu\" dan enggan ke rumah sakit."
     },
     {
      "zh": "專家指出，這是因為男性經常以「東西勉強可用就不必修理」的心態來面對健康問題，即使身體有小病痛也刻意忽略，害怕一去看醫師就會發現許多毛病，或者就此必須終生吃藥度日。",
      "py": "Zhuānjiā zhǐchū, zhè shìyīnwèi nánxìng jīngcháng yǐ “Dōngxi miǎnqiǎng kěyòng jiù búbì xiūlǐ” de xīntài lái miànduì jiànkāng wèntí, jíshǐ shēntǐ yǒu xiǎo bìngtòng yě kèyì hūlüè, hàipà yí qù kàn yīshī jiù huì fāxiàn xǔduō máobìng, huòzhě jiùcǐ bìxū zhōngshēng chīyào dùrì.",
-     "en": "Experts point out that this is because men often face health problems with the attitude \"if something still more or less works, there's no need to fix it.\" Even when they have minor ailments they deliberately ignore them, afraid that a visit to the doctor will uncover many problems, or that they'll then have to take medicine for the rest of their lives."
+     "en": "Experts point out that this is because men often face health problems with the attitude \"if something still more or less works, there's no need to fix it.\" Even when they have minor ailments they deliberately ignore them, afraid that a visit to the doctor will uncover many problems, or that they'll then have to take medicine for the rest of their lives.",
+     "idn": "Para ahli menunjukkan bahwa ini karena laki-laki sering menghadapi masalah kesehatan dengan sikap \"kalau barangnya masih bisa dipakai, tidak perlu diperbaiki\". Bahkan ketika ada penyakit kecil pun mereka sengaja mengabaikannya, takut begitu ke dokter akan ditemukan banyak masalah, atau sejak itu harus minum obat seumur hidup."
     },
     {
      "zh": "壽命長短男女有別，這其中包含了許多如遺傳或體質方面等先天因素。",
      "py": "Shòumìng chángduǎn nánnǚyǒubié, zhè qízhōng bāohán le xǔduō rú yíchuán huò tǐzhì fāngmiàn děng xiāntiān yīnsù.",
-     "en": "Life expectancy differs between men and women, and this includes many innate factors such as heredity and constitution."
+     "en": "Life expectancy differs between men and women, and this includes many innate factors such as heredity and constitution.",
+     "idn": "Panjang pendeknya usia memang berbeda antara laki-laki dan perempuan, dan ini mencakup banyak faktor bawaan seperti keturunan dan konstitusi tubuh."
     },
     {
      "zh": "但許多專家認為，與其說這種差距與男性基因有關，倒不如說與男人對健康的態度有關。",
      "py": "Dàn xǔduō zhuānjiā rènwéi, yǔqíshuō zhèzhǒng chājù yǔ nánxìng jīyīn yǒuguān, dàobùrúshuō yǔ nánrén duì jiànkāng de tàidù yǒuguān.",
-     "en": "But many experts believe that rather than saying this gap is related to men's genes, it would be better to say it's related to men's attitude toward health."
+     "en": "But many experts believe that rather than saying this gap is related to men's genes, it would be better to say it's related to men's attitude toward health.",
+     "idn": "Tetapi banyak ahli berpendapat bahwa daripada mengatakan perbedaan ini berkaitan dengan gen laki-laki, lebih tepat dikatakan berkaitan dengan sikap laki-laki terhadap kesehatan."
     }
    ],
    "stem": {
     "zh": "根據本文，男人不願意看醫師的原因是什麼？",
     "py": "Gēnjù běnwén, nánrén bú yuànyì kàn yīshī de yuányīn shì shénme?",
-    "en": "According to the article, why are men unwilling to see a doctor?"
+    "en": "According to the article, why are men unwilling to see a doctor?",
+    "idn": "Menurut artikel ini, mengapa laki-laki enggan ke dokter?"
    },
    "options": {
     "A": {
      "zh": "沒有時間",
      "py": "Méiyǒu shíjiān",
-     "en": "(A) They have no time."
+     "en": "(A) They have no time.",
+     "idn": "(A) Mereka tidak punya waktu."
     },
     "B": {
      "zh": "身體一直都很健康",
      "py": "Shēntǐ yìzhí dōu hěn jiànkāng",
-     "en": "(B) They have always been very healthy."
+     "en": "(B) They have always been very healthy.",
+     "idn": "(B) Mereka selalu sehat."
     },
     "C": {
      "zh": "怕檢查出不少毛病",
      "py": "Pà jiǎnchá chū bùshǎo máobìng",
-     "en": "(C) They're afraid many problems will be found."
+     "en": "(C) They're afraid many problems will be found.",
+     "idn": "(C) Mereka takut ditemukan banyak masalah."
     },
     "D": {
      "zh": "認為醫生只能發現小毛病",
      "py": "Rènwéi yīshēng zhǐnéng fāxiàn xiǎomáobìng",
-     "en": "(D) They think doctors can only find minor problems."
+     "en": "(D) They think doctors can only find minor problems.",
+     "idn": "(D) Mereka merasa dokter hanya bisa menemukan masalah kecil."
     }
    }
   },
@@ -520,28 +608,33 @@
    "stem": {
     "zh": "專家認為男人比女人短命主要是因為什麼？",
     "py": "Zhuānjiā rènwéi nánrén bǐ nǚrén duǎnmìng zhǔyào shìyīnwèi shénme?",
-    "en": "What do experts think is the main reason men die younger than women?"
+    "en": "What do experts think is the main reason men die younger than women?",
+    "idn": "Menurut para ahli, apa alasan utama laki-laki berumur lebih pendek daripada perempuan?"
    },
    "options": {
     "A": {
      "zh": "不重視健康",
      "py": "Bú zhòngshì jiànkāng",
-     "en": "(A) They don't value their health."
+     "en": "(A) They don't value their health.",
+     "idn": "(A) Mereka tidak menghargai kesehatan."
     },
     "B": {
      "zh": "與基因有關",
      "py": "Yǔ jīyīn yǒuguān",
-     "en": "(B) It's related to genes."
+     "en": "(B) It's related to genes.",
+     "idn": "(B) Berkaitan dengan gen."
     },
     "C": {
      "zh": "工作壓力大",
      "py": "Gōngzuò yālì dà",
-     "en": "(C) Work stress is high."
+     "en": "(C) Work stress is high.",
+     "idn": "(C) Tekanan kerja besar."
     },
     "D": {
      "zh": "抵抗力較弱",
      "py": "Dǐkànglì jiàoruò",
-     "en": "(D) Their resistance is weaker."
+     "en": "(D) Their resistance is weaker.",
+     "idn": "(D) Daya tahan tubuhnya lebih lemah."
     }
    }
   },
@@ -550,64 +643,76 @@
     {
      "zh": "（二）",
      "py": "(Èr)",
-     "en": "(2)"
+     "en": "(2)",
+     "idn": "(2)"
     },
     {
      "zh": "有一種鳥叫蜂鳥，是鳥類中最小的鳥，只有拇指大小。",
      "py": "Yǒu yìzhǒng niǎojiào fēngniǎo, shì niǎolèi zhōng zuìxiǎo de niǎo, zhǐyǒu mǔzhǐ dàxiǎo.",
-     "en": "There is a bird called the hummingbird, the smallest of all birds—only the size of a thumb."
+     "en": "There is a bird called the hummingbird, the smallest of all birds—only the size of a thumb.",
+     "idn": "Ada seekor burung bernama kolibri, burung terkecil di antara semua burung—hanya sebesar ibu jari."
     },
     {
      "zh": "這種鳥嘴型細長，專吃花蜜和花上的小昆蟲，產於南美洲，整日盤旋於仙人掌等幾種花間，也許營養太單調，總也吃不大、飛不高。",
      "py": "Zhèzhǒng niǎozuǐ xíng xìcháng, zhuān chī huāmì Héhuā shàng de xiǎo kūnchóng, chǎnyú Nánměizhōu, zhěngrì pánxuán yú xiānrénzhǎng děng jǐzhǒng huājiān, yěxǔ yíngyǎng tài dāndiào, zǒng yě chī búdà, fēi bù gāo.",
-     "en": "This bird has a long thin beak and feeds only on nectar and small insects on flowers. It comes from South America and hovers all day among a few kinds of flowers such as cactus flowers; perhaps because its diet is too monotonous, it never grows big or flies high."
+     "en": "This bird has a long thin beak and feeds only on nectar and small insects on flowers. It comes from South America and hovers all day among a few kinds of flowers such as cactus flowers; perhaps because its diet is too monotonous, it never grows big or flies high.",
+     "idn": "Burung ini berparuh panjang dan tipis, dan hanya memakan nektar dan serangga kecil di bunga. Asalnya dari Amerika Selatan, dan sepanjang hari terbang melayang di antara beberapa jenis bunga seperti bunga kaktus; mungkin karena makanannya terlalu monoton, burung ini tidak pernah tumbuh besar maupun terbang tinggi."
     },
     {
      "zh": "而有些人讀書做學問的方式，和蜂鳥很相似。",
      "py": "Ér yǒuxiē rén dúshū zuòxuéwèn de fāngshì, hé fēngniǎo hěn xiāngsì.",
-     "en": "The way some people study and pursue learning is very similar to the hummingbird."
+     "en": "The way some people study and pursue learning is very similar to the hummingbird.",
+     "idn": "Cara sebagian orang belajar dan menuntut ilmu sangat mirip dengan kolibri."
     },
     {
      "zh": "這些人愛讀書，卻不大會讀書，往往成為書的奴僕，他們埋進書堆，一心只讀自己的書，任天塌下來也不管。",
      "py": "Zhèxiē rén ài dúshū, què bú dàhuì dúshū, wǎngwǎng chéngwéi shū de núpú, tāmen máijìn shūduī, yìxīn zhǐdú zìjǐ de shū, rèn tiāntāxiàlái yě bùguǎn.",
-     "en": "These people love reading but aren't good at reading; they often become slaves of books. They bury themselves in piles of books, single-mindedly reading only their own books, not caring even if the sky falls."
+     "en": "These people love reading but aren't good at reading; they often become slaves of books. They bury themselves in piles of books, single-mindedly reading only their own books, not caring even if the sky falls.",
+     "idn": "Orang-orang ini suka membaca tetapi tidak pandai membaca; mereka sering menjadi budak buku. Mereka tenggelam dalam tumpukan buku, dengan tekun hanya membaca buku mereka sendiri, tidak peduli meskipun langit runtuh."
     },
     {
      "zh": "這些人埋頭苦讀，精神可嘉，本無可厚非，然而令人擔心的是鑽進象牙塔出不來。",
      "py": "Zhèxiē rén máitóu kǔdú, Jīngshénkějiā, běn wúkěhòufēi, rán'ér lìngréndānxīn de shì zuānjìn Xiàngyátǎ chūbùlái.",
-     "en": "Their dedication to study is admirable and beyond reproach, but the worrying thing is that they burrow into an ivory tower and can't get out."
+     "en": "Their dedication to study is admirable and beyond reproach, but the worrying thing is that they burrow into an ivory tower and can't get out.",
+     "idn": "Kegigihan mereka belajar memang patut dihargai dan tidak bisa disalahkan, tetapi yang mengkhawatirkan, mereka masuk ke menara gading dan tidak bisa keluar."
     },
     {
      "zh": "讀書就像吃飯，不可偏食，印刷的書籍要讀，人生這本大書更得讀。",
      "py": "Dúshū jiù xiàng chīfàn, bùkě piānshí, yìnshuā de shūjí yàodú, rénshēng zhèběn dàshū gèng dédú.",
-     "en": "Reading is like eating: you mustn't be a picky eater. Printed books should be read, and even more the great book of life."
+     "en": "Reading is like eating: you mustn't be a picky eater. Printed books should be read, and even more the great book of life.",
+     "idn": "Membaca itu seperti makan: tidak boleh pilih-pilih. Buku cetak harus dibaca, dan terlebih lagi buku besar kehidupan."
     }
    ],
    "stem": {
     "zh": "作者用蜂鳥來比喻哪一種人？",
     "py": "Zuòzhě yòng fēngniǎo lái bǐyù nǎ yìzhǒng rén?",
-    "en": "What kind of person does the author compare to the hummingbird?"
+    "en": "What kind of person does the author compare to the hummingbird?",
+    "idn": "Orang seperti apa yang diumpamakan penulis dengan kolibri?"
    },
    "options": {
     "A": {
      "zh": "不讀書的人",
      "py": "Bù dúshū de rén",
-     "en": "(A) People who don't read"
+     "en": "(A) People who don't read",
+     "idn": "(A) Orang yang tidak membaca"
     },
     "B": {
      "zh": "只知讀書的人",
      "py": "Zhǐ zhī dúshū de rén",
-     "en": "(B) People who only know how to read books"
+     "en": "(B) People who only know how to read books",
+     "idn": "(B) Orang yang hanya tahu membaca buku"
     },
     "C": {
      "zh": "書讀得少的人",
      "py": "Shū dú de shǎo de rén",
-     "en": "(C) People who've read few books"
+     "en": "(C) People who've read few books",
+     "idn": "(C) Orang yang sedikit membaca buku"
     },
     "D": {
      "zh": "假裝讀書的人",
      "py": "Jiǎzhuāng dúshū de rén",
-     "en": "(D) People who pretend to read"
+     "en": "(D) People who pretend to read",
+     "idn": "(D) Orang yang pura-pura membaca"
     }
    }
   },
@@ -615,28 +720,33 @@
    "stem": {
     "zh": "作者說，像蜂鳥的人有什麼問題？",
     "py": "Zuòzhě shuō, xiàng fēngniǎo de rén yǒu shénme wèntí?",
-    "en": "According to the author, what is the problem with people like the hummingbird?"
+    "en": "According to the author, what is the problem with people like the hummingbird?",
+    "idn": "Menurut penulis, apa masalah orang-orang yang seperti kolibri?"
    },
    "options": {
     "A": {
      "zh": "不夠專精",
      "py": "Búgòu zhuānjīng",
-     "en": "(A) They're not specialized enough."
+     "en": "(A) They're not specialized enough.",
+     "idn": "(A) Kurang mendalami keahlian."
     },
     "B": {
      "zh": "不夠認真",
      "py": "Búgòu rènzhēn",
-     "en": "(B) They're not serious enough."
+     "en": "(B) They're not serious enough.",
+     "idn": "(B) Kurang serius."
     },
     "C": {
      "zh": "不關心世事",
      "py": "Bù guānxīn shìshì",
-     "en": "(C) They don't care about the world."
+     "en": "(C) They don't care about the world.",
+     "idn": "(C) Tidak peduli pada dunia."
     },
     "D": {
      "zh": "不在乎品德",
      "py": "Búzàihū pǐndé",
-     "en": "(D) They don't care about morality."
+     "en": "(D) They don't care about morality.",
+     "idn": "(D) Tidak peduli pada moralitas."
     }
    }
   },
@@ -644,28 +754,33 @@
    "stem": {
     "zh": "作者對於讀書有什麼看法？",
     "py": "Zuòzhě duìyú dúshū yǒu shénme kànfǎ?",
-    "en": "What is the author's view on reading?"
+    "en": "What is the author's view on reading?",
+    "idn": "Apa pandangan penulis tentang membaca?"
    },
    "options": {
     "A": {
      "zh": "人生不必讀很多書",
      "py": "Rénshēng bú bìdú hěnduō shū",
-     "en": "(A) You don't need to read many books in life."
+     "en": "(A) You don't need to read many books in life.",
+     "idn": "(A) Dalam hidup tidak perlu membaca banyak buku."
     },
     "B": {
      "zh": "吃飯比讀書更為重要",
      "py": "Chīfàn bǐ dúshū gèngwéizhòngyào",
-     "en": "(B) Eating is more important than reading."
+     "en": "(B) Eating is more important than reading.",
+     "idn": "(B) Makan lebih penting daripada membaca."
     },
     "C": {
      "zh": "讀書不應受到世事干擾",
      "py": "Dúshū bù yīng shòudào shìshì gānrǎo",
-     "en": "(C) Reading shouldn't be disturbed by worldly affairs."
+     "en": "(C) Reading shouldn't be disturbed by worldly affairs.",
+     "idn": "(C) Membaca tidak boleh diganggu urusan dunia."
     },
     "D": {
      "zh": "吸收知識不應該只限於書本",
      "py": "Xīshōu zhīshí bù yīnggāi zhǐ xiànyú shūběn",
-     "en": "(D) Taking in knowledge shouldn't be limited to books."
+     "en": "(D) Taking in knowledge shouldn't be limited to books.",
+     "idn": "(D) Menyerap pengetahuan tidak boleh terbatas pada buku."
     }
    }
   },
@@ -674,64 +789,76 @@
     {
      "zh": "（三）",
      "py": "(Sān)",
-     "en": "(3)"
+     "en": "(3)",
+     "idn": "(3)"
     },
     {
      "zh": "上廁所該用什麼樣的衛生紙呢？",
      "py": "Shàng cèsuǒ gāi yòng shénmeyàng de wèishēngzhǐ ne?",
-     "en": "What kind of toilet paper should we use?"
+     "en": "What kind of toilet paper should we use?",
+     "idn": "Tisu toilet seperti apa yang sebaiknya kita pakai?"
     },
     {
      "zh": "說起來只是小事一樁，對環境而言卻有莫大的影響。",
      "py": "Shuō qǐlái zhǐshì xiǎoshìyìzhuāng, duì huánjìng éryán què yǒu Mòdà de yǐngxiǎng.",
-     "en": "It sounds like a trivial matter, but it has an enormous impact on the environment."
+     "en": "It sounds like a trivial matter, but it has an enormous impact on the environment.",
+     "idn": "Kedengarannya hal sepele, tetapi dampaknya terhadap lingkungan sangat besar."
     },
     {
      "zh": "環保專家指出，超柔軟衛生紙儘管用起來舒服，對環境的破壞卻更甚於耗油的汽車或垃圾食物。",
      "py": "Huánbǎo zhuānjiā zhǐchū, chāo róuruǎn wèishēngzhǐ jǐnguǎn yòng qǐlái shūfú, duì huánjìng de pòhuài què gèng shényú hàoyóu de qìchē huò lājī shíwù.",
-     "en": "Environmental experts point out that although ultra-soft toilet paper is comfortable to use, it does even more damage to the environment than gas-guzzling cars or junk food."
+     "en": "Environmental experts point out that although ultra-soft toilet paper is comfortable to use, it does even more damage to the environment than gas-guzzling cars or junk food.",
+     "idn": "Pakar lingkungan menunjukkan bahwa meskipun tisu toilet yang sangat lembut nyaman dipakai, kerusakan lingkungan yang ditimbulkannya bahkan lebih parah daripada mobil boros bensin atau makanan cepat saji."
     },
     {
      "zh": "由於原始木材的長纖維較易展開且膨鬆，易於製造非常柔軟的衛生紙，因此市面上出售的超柔軟衛生紙大多來自原始森林，再加上紙漿製造過程會使用大量的化學藥品，人們若經常使用這類衛生紙，得付出很大的環境成本。",
      "py": "Yóuyú yuánshǐ mùcái de cháng xiānwéi jiàoyì zhǎnkāi qiě péngsōng, yìyú zhìzào fēicháng róuruǎn de wèishēngzhǐ, yīncǐ shìmiànshàng chūshòu de chāo róuruǎn wèishēngzhǐ dàduō láizì Yuánshǐsēnlín, zài jiāshàng zhǐjiāng zhìzào guòchéng huì shǐyòng dàliàng de huàxuéyàopǐn, rénmen ruò jīngcháng shǐyòng zhè lèi wèishēngzhǐ, děi fùchū hěndà de huánjìng chéngběn.",
-     "en": "Because the long fibers of virgin wood spread out and fluff up more easily, making very soft toilet paper easy to produce, most ultra-soft toilet paper on the market comes from old-growth forests. On top of that, the pulping process uses large amounts of chemicals, so if people regularly use this kind of toilet paper, a heavy environmental cost must be paid."
+     "en": "Because the long fibers of virgin wood spread out and fluff up more easily, making very soft toilet paper easy to produce, most ultra-soft toilet paper on the market comes from old-growth forests. On top of that, the pulping process uses large amounts of chemicals, so if people regularly use this kind of toilet paper, a heavy environmental cost must be paid.",
+     "idn": "Karena serat panjang kayu asli lebih mudah mengembang dan menjadi lembut sehingga mudah dibuat menjadi tisu yang sangat halus, sebagian besar tisu toilet ultralembut di pasaran berasal dari hutan primer. Ditambah lagi, proses pembuatan pulp memakai banyak bahan kimia, jadi kalau orang terbiasa memakai tisu jenis ini, harga lingkungan yang mahal harus dibayar."
     },
     {
      "zh": "其實在歐洲及拉丁美洲，有不少廠商會以回收木材來製造衛生紙，但許多人仍認為用回收品做出的衛生紙品質差、硬如紙板、難以使用，甚至會損傷肌膚，其實這是一種迷思。",
      "py": "Qíshí zài Ōuzhōu jí Lādīngměizhōu, yǒu bùshǎo chǎngshānghuì yǐ huíshōu mùcái lái zhìzào wèishēngzhǐ, dàn xǔduō rén réng rènwéi yòng huíshōu pǐn zuòchū de wèishēngzhǐ pǐnzhì chà, yìngrú zhǐbǎn, nányǐshǐyòng, shènzhì huì sǔnshāng jīfū, qíshí zhè shì yìzhǒng mísī.",
-     "en": "In fact, in Europe and Latin America many manufacturers make toilet paper from recycled wood, but many people still think toilet paper made from recycled material is poor quality, as hard as cardboard, hard to use and may even damage the skin. In fact this is a myth."
+     "en": "In fact, in Europe and Latin America many manufacturers make toilet paper from recycled wood, but many people still think toilet paper made from recycled material is poor quality, as hard as cardboard, hard to use and may even damage the skin. In fact this is a myth.",
+     "idn": "Sebenarnya di Eropa dan Amerika Latin banyak produsen membuat tisu toilet dari kayu daur ulang, tetapi banyak orang masih mengira tisu dari bahan daur ulang kualitasnya buruk, sekeras kardus, tidak enak dipakai, bahkan bisa melukai kulit. Sebenarnya ini mitos."
     },
     {
      "zh": "綠色和平組織已發出文宣來抵制紙業公司所宣傳的超柔軟衛生紙，呼籲人們重視衛生紙產品的選擇，畢竟，人們每次使用衛生紙的時間可能只有三秒鐘，實在沒有必要為了所謂的舒適感而犧牲珍貴的生態環境。",
      "py": "Lǜsè Hépíng zǔzhī yǐ fāchū Wénxuānlái dǐzhì zhǐyègōngsī suǒ xuānchuán de chāo róuruǎn wèishēngzhǐ, hūyù rénmen zhòngshì wèishēngzhǐ chǎnpǐn de xuǎnzé, bìjìng, rénmen měicì shǐyòng wèishēngzhǐ de shíjiān kěnéng zhǐyǒu sānmiǎozhōng, shízài méiyǒu bìyào wèile suǒwèi de Shūshìgǎn ér xīshēng zhēnguì de shēngtàihuánjìng.",
-     "en": "Greenpeace has issued publicity material to boycott the ultra-soft toilet paper promoted by paper companies, calling on people to pay attention to their choice of toilet paper products. After all, each time people use toilet paper may be only three seconds; there is really no need to sacrifice the precious ecological environment for so-called comfort."
+     "en": "Greenpeace has issued publicity material to boycott the ultra-soft toilet paper promoted by paper companies, calling on people to pay attention to their choice of toilet paper products. After all, each time people use toilet paper may be only three seconds; there is really no need to sacrifice the precious ecological environment for so-called comfort.",
+     "idn": "Greenpeace telah menerbitkan bahan kampanye untuk memboikot tisu toilet ultralembut yang dipromosikan perusahaan kertas, menyerukan agar orang memperhatikan pilihan produk tisu toiletnya. Bagaimanapun, setiap kali memakai tisu toilet mungkin hanya tiga detik; sungguh tidak perlu mengorbankan lingkungan alam yang berharga demi apa yang disebut kenyamanan."
     }
    ],
    "stem": {
     "zh": "作者建議消費者在購買衛生紙時，考量哪個因素？",
     "py": "Zuòzhě jiànyì xiāofèizhě zài gòumǎi wèishēngzhǐ shí, kǎoliáng nǎ ge yīnsù?",
-    "en": "Which factor does the author suggest consumers consider when buying toilet paper?"
+    "en": "Which factor does the author suggest consumers consider when buying toilet paper?",
+    "idn": "Faktor apa yang disarankan penulis untuk dipertimbangkan konsumen saat membeli tisu toilet?"
    },
    "options": {
     "A": {
      "zh": "原料",
      "py": "Yuánliào",
-     "en": "(A) Raw materials"
+     "en": "(A) Raw materials",
+     "idn": "(A) Bahan baku"
     },
     "B": {
      "zh": "價格",
      "py": "Jiàgé",
-     "en": "(B) Price"
+     "en": "(B) Price",
+     "idn": "(B) Harga"
     },
     "C": {
      "zh": "質感",
      "py": "Zhìgǎn",
-     "en": "(C) Texture"
+     "en": "(C) Texture",
+     "idn": "(C) Tekstur"
     },
     "D": {
      "zh": "廠牌",
      "py": "Chǎngpái",
-     "en": "(D) Brand"
+     "en": "(D) Brand",
+     "idn": "(D) Merek"
     }
    }
   },
@@ -739,28 +866,33 @@
    "stem": {
     "zh": "本文第二段第三行所提到的「迷思」 ，指的是什麼？",
     "py": "Běnwén dì'èrduàn dìsānxíng suǒ tídào de “Mísī”, zhǐ de shì shénme?",
-    "en": "What does the \"myth\" mentioned in line 3 of the second paragraph refer to?"
+    "en": "What does the \"myth\" mentioned in line 3 of the second paragraph refer to?",
+    "idn": "\"Mitos\" yang disebutkan di baris ketiga paragraf kedua merujuk pada apa?"
    },
    "options": {
     "A": {
      "zh": "使用衛生紙對人體有害",
      "py": "Shǐyòng wèishēngzhǐ duì réntǐ yǒuhài",
-     "en": "(A) Using toilet paper is harmful to the body."
+     "en": "(A) Using toilet paper is harmful to the body.",
+     "idn": "(A) Memakai tisu toilet berbahaya bagi tubuh."
     },
     "B": {
      "zh": "使用衛生紙不會破壞環境",
      "py": "Shǐyòng wèishēngzhǐ búhuì pòhuài huánjìng",
-     "en": "(B) Using toilet paper doesn't damage the environment."
+     "en": "(B) Using toilet paper doesn't damage the environment.",
+     "idn": "(B) Memakai tisu toilet tidak merusak lingkungan."
     },
     "C": {
      "zh": "用回收材料製作的衛生紙不好用",
      "py": "Yòng huíshōu cáiliào zhìzuò de wèishēngzhǐ bùhǎo yòng",
-     "en": "(C) Toilet paper made from recycled material isn't nice to use."
+     "en": "(C) Toilet paper made from recycled material isn't nice to use.",
+     "idn": "(C) Tisu toilet dari bahan daur ulang tidak enak dipakai."
     },
     "D": {
      "zh": "來自歐洲或拉丁美洲的產品比較好",
      "py": "Láizì Ōuzhōu huò Lādīngměizhōu de chǎnpǐn bǐjiào hǎo",
-     "en": "(D) Products from Europe or Latin America are better."
+     "en": "(D) Products from Europe or Latin America are better.",
+     "idn": "(D) Produk dari Eropa atau Amerika Latin lebih bagus."
     }
    }
   },
@@ -768,28 +900,33 @@
    "stem": {
     "zh": "本文主要在說什麼？",
     "py": "Běnwén zhǔyào zài shuō shénme?",
-    "en": "What is this article mainly about?"
+    "en": "What is this article mainly about?",
+    "idn": "Apa yang terutama dibahas artikel ini?"
    },
    "options": {
     "A": {
      "zh": "建議人們停止使用衛生紙",
      "py": "Jiànyì rénmen tíngzhǐshǐyòng wèishēngzhǐ",
-     "en": "(A) Suggesting people stop using toilet paper"
+     "en": "(A) Suggesting people stop using toilet paper",
+     "idn": "(A) Menyarankan orang berhenti memakai tisu toilet"
     },
     "B": {
      "zh": "主張回收使用後的衛生紙",
      "py": "Zhǔzhāng huíshōu shǐyòng hòu de wèishēngzhǐ",
-     "en": "(B) Advocating recycling used toilet paper"
+     "en": "(B) Advocating recycling used toilet paper",
+     "idn": "(B) Menganjurkan daur ulang tisu toilet bekas"
     },
     "C": {
      "zh": "如何改善衛生紙的柔軟度",
      "py": "Rúhé gǎishàn wèishēngzhǐ de róuruǎndù",
-     "en": "(C) How to improve the softness of toilet paper"
+     "en": "(C) How to improve the softness of toilet paper",
+     "idn": "(C) Cara meningkatkan kelembutan tisu toilet"
     },
     "D": {
      "zh": "指出什麼才是環保的衛生紙",
      "py": "Zhǐchū shénme cái shì huánbǎo de wèishēngzhǐ",
-     "en": "(D) Pointing out what kind of toilet paper is environmentally friendly"
+     "en": "(D) Pointing out what kind of toilet paper is environmentally friendly",
+     "idn": "(D) Menunjukkan tisu toilet seperti apa yang ramah lingkungan"
     }
    }
   },
@@ -798,114 +935,136 @@
     {
      "zh": "（四）",
      "py": "(Sì)",
-     "en": "(4)"
+     "en": "(4)",
+     "idn": "(4)"
     },
     {
      "zh": "自兩億多年前的侏儸紀之初，體型巨大就是陸生動物的普遍特點。",
      "py": "Zì liǎngyìduōnián qián de zhū luó Jìzhīchū, tǐxíng jùdà jiùshì lùshēngdòngwù de pǔbiàn tèdiǎn.",
-     "en": "Since the beginning of the Jurassic period more than two hundred million years ago, huge size has been a common feature of land animals."
+     "en": "Since the beginning of the Jurassic period more than two hundred million years ago, huge size has been a common feature of land animals.",
+     "idn": "Sejak awal periode Jura lebih dari dua ratus juta tahun lalu, tubuh raksasa telah menjadi ciri umum hewan darat."
     },
     {
      "zh": "動物為什麼要長成巨無霸呢？",
      "py": "Dòngwù wèishénme yào zhǎngchéng Jùwúbà ne?",
-     "en": "Why do animals grow into giants?"
+     "en": "Why do animals grow into giants?",
+     "idn": "Mengapa hewan tumbuh menjadi raksasa?"
     },
     {
      "zh": "有些理由是顯而易見的：身軀愈大愈不易被獵殺，而且還利於撲殺獵物。",
      "py": "Yǒuxiē lǐyóu shì xiǎn'éryìjiàn de: Shēnqū yùdàyù búyì bèi lièshā, érqiě hái lìyú pūshā lièwù.",
-     "en": "Some reasons are obvious: the bigger the body, the harder it is to be hunted, and it also helps in killing prey."
+     "en": "Some reasons are obvious: the bigger the body, the harder it is to be hunted, and it also helps in killing prey.",
+     "idn": "Beberapa alasannya jelas: makin besar tubuhnya, makin sulit diburu, dan juga membantu membunuh mangsa."
     },
     {
      "zh": "例如羚羊很容易淪為獅子、土狼和獵犬的獵物；",
      "py": "Lìrú língyáng hěn róngyì lúnwèi shīzi, tǔláng hé lièquǎn de lièwù;",
-     "en": "For example, antelopes easily fall prey to lions, hyenas and hunting dogs;"
+     "en": "For example, antelopes easily fall prey to lions, hyenas and hunting dogs;",
+     "idn": "Misalnya, antelop mudah menjadi mangsa singa, hiena, dan anjing liar;"
     },
     {
      "zh": "但成象及犀牛則幾乎不受威脅，牠們的子女也因父母體型巨大而得到保護。",
      "py": "Dàn chéngxiàng jí xīniú zé jīhū bú shòu wēixié, tā men de zǐnǚ yě yīn fùmǔ tǐxíng jùdà ér dédào bǎohù.",
-     "en": "but adult elephants and rhinos are almost never threatened, and their young are also protected by their parents' huge size."
+     "en": "but adult elephants and rhinos are almost never threatened, and their young are also protected by their parents' huge size.",
+     "idn": "tetapi gajah dan badak dewasa hampir tidak pernah terancam, dan anak-anaknya juga terlindungi oleh tubuh induknya yang besar."
     },
     {
      "zh": "對草食動物來說，長得巨大表示「高人一等」，可以吃到更高處的樹葉。",
      "py": "Duì cǎoshídòngwù láishuō, zhǎng de jùdà biǎoshì “Gāorényìděng”, kěyǐ chīdào gèng gāochù de shùyè.",
-     "en": "For herbivores, growing huge means being \"a head taller than others,\" able to eat leaves higher up."
+     "en": "For herbivores, growing huge means being \"a head taller than others,\" able to eat leaves higher up.",
+     "idn": "Bagi herbivora, tumbuh besar berarti \"lebih tinggi satu kepala daripada yang lain\", bisa memakan daun di tempat yang lebih tinggi."
     },
     {
      "zh": "長頸鹿及大象就有長到五公尺高的，而大象尚可利用龐大的身軀推倒高樹。",
      "py": "Chángjǐnglù jí dàxiàng jiù yǒu zhǎng dào wǔ gōngchǐ gāo de, ér dàxiàng shàngkě lìyòng pángdà de shēnqū tuīdào gāoshù.",
-     "en": "Giraffes and elephants can grow up to five meters tall, and elephants can also use their massive bodies to push over tall trees."
+     "en": "Giraffes and elephants can grow up to five meters tall, and elephants can also use their massive bodies to push over tall trees.",
+     "idn": "Jerapah dan gajah bisa tumbuh hingga lima meter, dan gajah juga bisa memakai tubuhnya yang besar untuk merobohkan pohon tinggi."
     },
     {
      "zh": "其他重要卻不明顯的理由有：運動消耗的能量會隨體型增大而減少，故一隻五公噸重的大象走一公里路所消耗的能量，比一群總重五公噸的瞪羚走同樣路程要少很多。",
      "py": "Qítā zhòngyào què bù míngxiǎn de lǐyóu yǒu: Yùndòng xiāohào de néngliàng huì suí tǐxíng zēngdà ér jiǎnshǎo, gù yìzhī wǔ gōngdūn zhòng de dàxiàng zǒu yì gōnglǐ lù suǒ xiāohào de néngliàng, bǐ yìqún zǒng zhòngwǔ gōngdūn de dèng língzǒu tóngyàng lùchéng yào shǎo hěnduō.",
-     "en": "Other important but less obvious reasons are: the energy used in movement decreases as body size increases, so a five-ton elephant walking one kilometer uses much less energy than a herd of gazelles weighing five tons in total walking the same distance."
+     "en": "Other important but less obvious reasons are: the energy used in movement decreases as body size increases, so a five-ton elephant walking one kilometer uses much less energy than a herd of gazelles weighing five tons in total walking the same distance.",
+     "idn": "Alasan penting lain yang kurang kentara adalah: energi yang dipakai untuk bergerak berkurang seiring bertambahnya ukuran tubuh, sehingga seekor gajah seberat lima ton yang berjalan satu kilometer memakai energi jauh lebih sedikit daripada sekawanan gazel dengan berat total lima ton yang menempuh jarak yang sama."
     },
     {
      "zh": "此外，新陳代謝率也會隨體型增大而降低。",
      "py": "Cǐwài, xīnchéndàixiè lǜ yě huì suí tǐxíng zēngdà ér jiàngdī.",
-     "en": "In addition, metabolic rate also falls as body size increases."
+     "en": "In addition, metabolic rate also falls as body size increases.",
+     "idn": "Selain itu, laju metabolisme juga menurun seiring bertambahnya ukuran tubuh."
     },
     {
      "zh": "這就是為什麼鼩鼱每天都得吞入超過其體重的食物，而大象只需吃進占體重 5％的食物便足矣。",
      "py": "Zhè jiùshì wèishénme qú jīng měitiān dōu děi tūnrù chāoguò qí tǐzhòng de shíwù, ér dàxiàng zhǐ xū chī jìnzhàn tǐzhòng 5 ％ de shíwù biàn zúyǐ.",
-     "en": "This is why a shrew has to eat more than its body weight in food every day, while an elephant needs only food equal to 5% of its body weight."
+     "en": "This is why a shrew has to eat more than its body weight in food every day, while an elephant needs only food equal to 5% of its body weight.",
+     "idn": "Inilah sebabnya seekor cecurut harus makan lebih dari berat tubuhnya setiap hari, sedangkan gajah hanya butuh makanan seberat 5% dari berat tubuhnya."
     },
     {
      "zh": "不僅如此，龐大的身體也具有像隔熱板一樣的保溫作用，讓動物不受環境劇烈溫差的影響。",
      "py": "Bùjǐnrúcǐ, pángdà de shēntǐ yě jùyǒu xiàng gérèbǎn yíyàng de bǎowēn zuòyòng, ràng dòngwù bú shòu huánjìng jùliè wēnchà de yǐngxiǎng.",
-     "en": "Not only that, a massive body also keeps warm like a heat shield, protecting the animal from sharp swings in environmental temperature."
+     "en": "Not only that, a massive body also keeps warm like a heat shield, protecting the animal from sharp swings in environmental temperature.",
+     "idn": "Bukan hanya itu, tubuh yang besar juga menghangatkan seperti perisai panas, melindungi hewan dari perubahan suhu lingkungan yang tajam."
     },
     {
      "zh": "不過，長得巨大也是有害處的。",
      "py": "Búguò, zhǎng de jùdà yě shì yǒu hàichù de.",
-     "en": "However, growing huge also has drawbacks."
+     "en": "However, growing huge also has drawbacks.",
+     "idn": "Namun, tumbuh besar juga ada kekurangannya."
     },
     {
      "zh": "因為大的動物吃得多，其總數自然有限。",
      "py": "Yīnwèi dà de dòngwù chī de duō, qí zǒngshù zìrán yǒuxiàn.",
-     "en": "Because big animals eat a lot, their total numbers are naturally limited."
+     "en": "Because big animals eat a lot, their total numbers are naturally limited.",
+     "idn": "Karena hewan besar makan banyak, jumlah totalnya dengan sendirinya terbatas."
     },
     {
      "zh": "非洲的大象及犀牛數目，在人類獵捕之前也不過是以百萬計；",
      "py": "Fēizhōu de dàxiàng jí xīniú shùmù, zài rénlèi lièbǔ zhīqián yě búguò shì yǐ bǎiwànjì;",
-     "en": "Before humans hunted them, African elephants and rhinos numbered only in the millions;"
+     "en": "Before humans hunted them, African elephants and rhinos numbered only in the millions;",
+     "idn": "Sebelum diburu manusia, gajah dan badak Afrika hanya berjumlah jutaan ekor;"
     },
     {
      "zh": "相對地，齧齒類動物的數量則不知有幾十億。",
      "py": "Xiāngduì de, nièchǐlèidòngwù de shùliàng zé bùzhī yǒu jǐshíyì.",
-     "en": "by contrast, rodents number who knows how many billions."
+     "en": "by contrast, rodents number who knows how many billions.",
+     "idn": "sebaliknya, hewan pengerat entah berapa puluh miliar ekor."
     },
     {
      "zh": "此外，小動物鑽地洞、上樹、飛天等動作，龐然大物也很難望其項背。",
      "py": "Cǐwài, xiǎo dòngwù zuān dìdòng, shàng shù, fēitiān děng dòngzuò, pángrándàwù yě hěn nán wàngqíxiàngbèi.",
-     "en": "In addition, giants can hardly match small animals at burrowing, climbing trees or flying."
+     "en": "In addition, giants can hardly match small animals at burrowing, climbing trees or flying.",
+     "idn": "Selain itu, hewan raksasa sulit menandingi hewan kecil dalam menggali lubang, memanjat pohon, atau terbang."
     }
    ],
    "stem": {
     "zh": "第一段提到下面哪一件事？",
     "py": "Dìyíduàn tídào xiàmiàn nǎ yíjiàn shì?",
-    "en": "Which of the following is mentioned in the first paragraph?"
+    "en": "Which of the following is mentioned in the first paragraph?",
+    "idn": "Manakah yang disebutkan dalam paragraf pertama?"
    },
    "options": {
     "A": {
      "zh": "體型大有助於草食動物覓食",
      "py": "Tǐxíng dà yǒuzhùyú cǎoshídòngwù mìshí",
-     "en": "(A) Large size helps herbivores find food."
+     "en": "(A) Large size helps herbivores find food.",
+     "idn": "(A) Tubuh besar membantu herbivora mencari makanan."
     },
     "B": {
      "zh": "草食動物絕大多數是大型動物",
      "py": "Cǎoshídòngwù juédàduōshù shì dàxíng dòngwù",
-     "en": "(B) The vast majority of herbivores are large animals."
+     "en": "(B) The vast majority of herbivores are large animals.",
+     "idn": "(B) Sebagian besar herbivora adalah hewan besar."
     },
     "C": {
      "zh": "幼小的大象或犀牛最容易受攻擊",
      "py": "Yòuxiǎo de dàxiàng huò xīniú zuì róngyì shòu gōngjī",
-     "en": "(C) Young elephants or rhinos are the most easily attacked."
+     "en": "(C) Young elephants or rhinos are the most easily attacked.",
+     "idn": "(C) Anak gajah atau anak badak paling mudah diserang."
     },
     "D": {
      "zh": "獅子、土狼等也會攻擊大型動物",
      "py": "Shīzi, tǔláng děng yě huì gōngjī dàxíng dòngwù",
-     "en": "(D) Lions, hyenas and others also attack large animals."
+     "en": "(D) Lions, hyenas and others also attack large animals.",
+     "idn": "(D) Singa, hiena, dan lainnya juga menyerang hewan besar."
     }
    }
   },
@@ -913,28 +1072,33 @@
    "stem": {
     "zh": "第一段為什麼提到羚羊？",
     "py": "Dìyíduàn wèishénme tídào língyáng?",
-    "en": "Why does the first paragraph mention antelopes?"
+    "en": "Why does the first paragraph mention antelopes?",
+    "idn": "Mengapa paragraf pertama menyebutkan antelop?"
    },
    "options": {
     "A": {
      "zh": "因為牠是大型動物的主食",
      "py": "Yīnwèi tā shì dàxíng dòngwù de zhǔshí",
-     "en": "(A) Because they're the staple food of large animals"
+     "en": "(A) Because they're the staple food of large animals",
+     "idn": "(A) Karena antelop makanan pokok hewan besar"
     },
     "B": {
      "zh": "說明小型動物容易被追殺",
      "py": "Shuōmíng xiǎoxíng dòngwù róngyì bèi zhuīshā",
-     "en": "(B) To show that small animals are easily hunted"
+     "en": "(B) To show that small animals are easily hunted",
+     "idn": "(B) Untuk menunjukkan bahwa hewan kecil mudah diburu"
     },
     "C": {
      "zh": "強調大型動物行動比較不方便",
      "py": "Qiángdiào dàxíng dòngwù xíngdòng bǐjiào bù fāngbiàn",
-     "en": "(C) To stress that large animals move less easily"
+     "en": "(C) To stress that large animals move less easily",
+     "idn": "(C) Untuk menekankan bahwa hewan besar kurang leluasa bergerak"
     },
     "D": {
      "zh": "指出大型動物多半是草食性動物",
      "py": "Zhǐchū dàxíng dòngwù duōbàn shì cǎoshíxìng dòngwù",
-     "en": "(D) To point out that most large animals are herbivores"
+     "en": "(D) To point out that most large animals are herbivores",
+     "idn": "(D) Untuk menunjukkan bahwa kebanyakan hewan besar adalah herbivora"
     }
    }
   },
@@ -942,28 +1106,33 @@
    "stem": {
     "zh": "根據第二段，體型巨大對動物有什麼影響？",
     "py": "Gēnjù dì'èrduàn, tǐxíng jùdà duì dòngwù yǒu shénme yǐngxiǎng?",
-    "en": "According to the second paragraph, what effect does huge size have on animals?"
+    "en": "According to the second paragraph, what effect does huge size have on animals?",
+    "idn": "Menurut paragraf kedua, apa dampak tubuh raksasa bagi hewan?"
    },
    "options": {
     "A": {
      "zh": "增加新陳代謝",
      "py": "Zēngjiā xīnchéndàixiè",
-     "en": "(A) It increases metabolism."
+     "en": "(A) It increases metabolism.",
+     "idn": "(A) Meningkatkan metabolisme."
     },
     "B": {
      "zh": "快速消耗能量",
      "py": "Kuàisù xiāohào néngliàng",
-     "en": "(B) It uses energy quickly."
+     "en": "(B) It uses energy quickly.",
+     "idn": "(B) Cepat menghabiskan energi."
     },
     "C": {
      "zh": "具有保溫功能",
      "py": "Jùyǒu bǎowēn gōngnéng",
-     "en": "(C) It keeps them warm."
+     "en": "(C) It keeps them warm.",
+     "idn": "(C) Menjaga tubuh tetap hangat."
     },
     "D": {
      "zh": "必須攝取和身體等重的食物",
      "py": "Bìxū shèqǔ hé shēntǐ děng zhòng de shíwù",
-     "en": "(D) They must eat their own weight in food."
+     "en": "(D) They must eat their own weight in food.",
+     "idn": "(D) Harus makan makanan seberat tubuhnya sendiri."
     }
    }
   },
@@ -971,28 +1140,33 @@
    "stem": {
     "zh": "最後一段從哪兩個角度來比較大型動物和小型動物？",
     "py": "Zuìhòu yíduàn cóng nǎ liǎng ge jiǎodù lái bǐjiào dàxíng dòngwù hé xiǎoxíng dòngwù?",
-    "en": "From which two perspectives does the last paragraph compare large and small animals?"
+    "en": "From which two perspectives does the last paragraph compare large and small animals?",
+    "idn": "Paragraf terakhir membandingkan hewan besar dan kecil dari dua sudut pandang apa?"
    },
    "options": {
     "A": {
      "zh": "數量及靈活度",
      "py": "Shùliàng jí línghuó dù",
-     "en": "(A) Numbers and agility"
+     "en": "(A) Numbers and agility",
+     "idn": "(A) Jumlah dan kelincahan"
     },
     "B": {
      "zh": "出生率及死亡率",
      "py": "Chūshēnglǜ jí sǐwánglǜ",
-     "en": "(B) Birth rate and death rate"
+     "en": "(B) Birth rate and death rate",
+     "idn": "(B) Angka kelahiran dan angka kematian"
     },
     "C": {
      "zh": "飲食和居住習慣",
      "py": "Yǐnshí hé jūzhù xíguàn",
-     "en": "(C) Eating and living habits"
+     "en": "(C) Eating and living habits",
+     "idn": "(C) Kebiasaan makan dan hidup"
     },
     "D": {
      "zh": "獵食及逃生技巧",
      "py": "Lièshí jí táoshēng jìqiǎo",
-     "en": "(D) Hunting and escape skills"
+     "en": "(D) Hunting and escape skills",
+     "idn": "(D) Keterampilan berburu dan melarikan diri"
     }
    }
   },
@@ -1001,79 +1175,94 @@
     {
      "zh": "（五）",
      "py": "(Wǔ)",
-     "en": "(5)"
+     "en": "(5)",
+     "idn": "(5)"
     },
     {
      "zh": "企業在發展過程中，是獨立研發產品比較好？",
      "py": "Qǐyè zài fāzhǎn guòchéng zhōng, shì dúlì yánfā chǎnpǐn bǐjiào hǎo?",
-     "en": "In developing, is it better for a company to develop products independently?"
+     "en": "In developing, is it better for a company to develop products independently?",
+     "idn": "Dalam berkembang, apakah lebih baik perusahaan mengembangkan produk secara mandiri?"
     },
     {
      "zh": "還是和其他企業聯手開發比較好呢？",
      "py": "Háishì hé qítā qǐyè liánshǒu kāifā bǐjiào hǎo ne?",
-     "en": "Or is it better to develop them jointly with other companies?"
+     "en": "Or is it better to develop them jointly with other companies?",
+     "idn": "Atau lebih baik mengembangkannya bersama perusahaan lain?"
     },
     {
      "zh": "根據愛薩得商學院的報告，答案主要取決於產品本身的複雜度。",
      "py": "Gēnjù Àisàdé Shāngxuéyuàn de bàogào, dá'àn zhǔyào qǔjuéyú chǎnpǐn běnshēn de fùzádù.",
-     "en": "According to a report by INSEAD business school, the answer depends mainly on the complexity of the product itself."
+     "en": "According to a report by INSEAD business school, the answer depends mainly on the complexity of the product itself.",
+     "idn": "Menurut laporan sekolah bisnis INSEAD, jawabannya terutama bergantung pada tingkat kerumitan produk itu sendiri."
     },
     {
      "zh": "報告指出，複雜度很高或很低的產品，較不適合與他人合作；",
      "py": "Bàogào zhǐchū, fùzádù hěn gāo huò hěndī de chǎnpǐn, jiào bú shìhé yǔ tārén hézuò;",
-     "en": "The report points out that products of very high or very low complexity are less suited to working with others;"
+     "en": "The report points out that products of very high or very low complexity are less suited to working with others;",
+     "idn": "Laporan itu menunjukkan bahwa produk dengan tingkat kerumitan sangat tinggi atau sangat rendah kurang cocok dikerjakan bersama pihak lain;"
     },
     {
      "zh": "但是複雜度居中的產品，如果與其他企業聯手，可能會比公司本身單打獨鬥來得好。",
      "py": "Dànshì fùzádù jūzhōng de chǎnpǐn, rúguǒ yǔ qítā qǐyè liánshǒu, kěnéng huì bǐ gōngsī běnshēn dāndǎdúdòu lái de hǎo.",
-     "en": "but for products of medium complexity, joining forces with other companies may be better than a company going it alone."
+     "en": "but for products of medium complexity, joining forces with other companies may be better than a company going it alone.",
+     "idn": "tetapi untuk produk dengan tingkat kerumitan menengah, bergabung dengan perusahaan lain mungkin lebih baik daripada perusahaan berjuang sendirian."
     },
     {
      "zh": "這是因為在開發簡單的產品時，公司本身就能找出最佳的設計方向或是解決技術問題，考慮和其他企業合夥根本是多此一舉；",
      "py": "Zhè shìyīnwèi zài kāifā jiǎndān de chǎnpǐn shí, gōngsī běnshēn jiù néng zhǎochū zuìjiā de shèjì fāngxiàng huòshì jiějué jìshù wèntí, kǎolǜ hé qítā qǐyè héhuǒ gēnběn shì duōcǐyìjǔ;",
-     "en": "This is because when developing simple products, the company itself can find the best design direction or solve technical problems, so considering a partnership with other companies is completely superfluous;"
+     "en": "This is because when developing simple products, the company itself can find the best design direction or solve technical problems, so considering a partnership with other companies is completely superfluous;",
+     "idn": "Ini karena saat mengembangkan produk sederhana, perusahaan sendiri bisa menemukan arah desain terbaik atau mengatasi masalah teknis, sehingga mempertimbangkan kerja sama dengan perusahaan lain sama sekali berlebihan;"
     },
     {
      "zh": "而開發複雜度高的產品，如果和同業合作，可能由於細節繁多，理念差異過大，在研發或行銷過程中經常產生歧見，反而大幅降低效率。",
      "py": "Ér kāifā fùzádù gāo de chǎnpǐn, rúguǒ hé tóngyè hézuò, kěnéng yóuyú xìjié fánduō, lǐniàn chāyì guò dà, zài yánfā huò xíngxiāo guòchéng zhōng jīngcháng chǎnshēng qíjiàn, fǎn'ér dàfú jiàngdī xiàolǜ.",
-     "en": "while for highly complex products, if you work with others in the industry, the many details and big differences in ideas may often cause disagreements during R&D or marketing, greatly lowering efficiency instead."
+     "en": "while for highly complex products, if you work with others in the industry, the many details and big differences in ideas may often cause disagreements during R&D or marketing, greatly lowering efficiency instead.",
+     "idn": "sedangkan untuk produk yang sangat rumit, kalau bekerja sama dengan pelaku industri lain, banyaknya detail dan besarnya perbedaan gagasan bisa sering menimbulkan perselisihan dalam penelitian dan pengembangan atau pemasaran, malah sangat menurunkan efisiensi."
     },
     {
      "zh": "至於像個人電腦這一類複雜度居中的產品，尋求合作的伙伴往往比閉門造車來得好。",
      "py": "Zhìyú xiàng gèréndiànnǎo zhè yílèi fùzádù jūzhōng de chǎnpǐn, xúnqiú hézuò de huǒbàn wǎngwǎng bǐ bìménzàochē lái de hǎo.",
-     "en": "As for products of medium complexity like personal computers, seeking partners is often better than working behind closed doors."
+     "en": "As for products of medium complexity like personal computers, seeking partners is often better than working behind closed doors.",
+     "idn": "Adapun produk dengan tingkat kerumitan menengah seperti komputer pribadi, mencari mitra sering lebih baik daripada bekerja sendiri secara tertutup."
     },
     {
      "zh": "報告指出，在開發這一類產品時，儘管過程中的爭辯、歧見不可避免，但是多聽聽合作伙伴提出的構想，有利於刺激靈感、分享創意，還可以一起進行市場調查、快速掌握消費動向，好處遠遠超過意見不合所產生的負面效應。",
      "py": "Bàogào zhǐchū, zài kāifā zhè yílèi chǎnpǐn shí, jǐnguǎn guòchéng zhōng de zhēngbiàn, qíjiàn bùkěbìmiǎn, dànshì duō tīngtīng hézuòhuǒbàn tíchū de gòuxiǎng, yǒulìyú cìjī línggǎn, fēnxiǎng chuàngyì, hái kěyǐ yìqǐ jìnxíng shìchǎng diàochá, kuàisù zhǎngwò xiāofèi dòngxiàng, hǎochù yuǎnyuǎn chāoguò yìjiàn bùhé suǒ chǎnshēng de fùmiànxiàoyìng.",
-     "en": "The report points out that when developing this kind of product, although arguments and disagreements are unavoidable, listening to partners' ideas helps spark inspiration and share creativity; you can also do market research together and quickly grasp consumer trends. The benefits far outweigh the negative effects of disagreement."
+     "en": "The report points out that when developing this kind of product, although arguments and disagreements are unavoidable, listening to partners' ideas helps spark inspiration and share creativity; you can also do market research together and quickly grasp consumer trends. The benefits far outweigh the negative effects of disagreement.",
+     "idn": "Laporan itu menunjukkan bahwa saat mengembangkan produk jenis ini, meskipun perdebatan dan perselisihan tidak terhindarkan, mendengarkan gagasan mitra membantu memantik inspirasi dan berbagi kreativitas; juga bisa melakukan riset pasar bersama dan cepat menangkap tren konsumen. Manfaatnya jauh melebihi dampak negatif perselisihan."
     }
    ],
    "stem": {
     "zh": "第一段主要在說什麼？",
     "py": "Dìyíduàn zhǔyào zài shuō shénme?",
-    "en": "What is the first paragraph mainly about?"
+    "en": "What is the first paragraph mainly about?",
+    "idn": "Apa yang terutama dibahas paragraf pertama?"
    },
    "options": {
     "A": {
      "zh": "如何尋找企業夥伴",
      "py": "Rúhé xúnzhǎo qǐyè huǒbàn",
-     "en": "(A) How to find business partners"
+     "en": "(A) How to find business partners",
+     "idn": "(A) Cara mencari mitra bisnis"
     },
     "B": {
      "zh": "什麼產品較有市場",
      "py": "Shénme chǎnpǐn jiào yǒu shìchǎng",
-     "en": "(B) What products have more of a market"
+     "en": "(B) What products have more of a market",
+     "idn": "(B) Produk apa yang lebih punya pasar"
     },
     "C": {
      "zh": "為何要維持公司獨立",
      "py": "Wèihé yào wéichí gōngsī dúlì",
-     "en": "(C) Why a company should stay independent"
+     "en": "(C) Why a company should stay independent",
+     "idn": "(C) Alasan perusahaan sebaiknya tetap mandiri"
     },
     "D": {
      "zh": "怎樣研發產品最適當",
      "py": "Zěnyàng yánfā chǎnpǐn zuì shìdàng",
-     "en": "(D) What is the most appropriate way to develop products"
+     "en": "(D) What is the most appropriate way to develop products",
+     "idn": "(D) Cara paling tepat untuk mengembangkan produk"
     }
    }
   },
@@ -1081,28 +1270,33 @@
    "stem": {
     "zh": "在什麼情況下，公司較適合開發複雜度低的產品？",
     "py": "Zài shénme qíngkuàng xià, gōngsī jiào shìhé kāifā fùzádù dī de chǎnpǐn?",
-    "en": "Under what circumstances is a company better suited to developing low-complexity products?"
+    "en": "Under what circumstances is a company better suited to developing low-complexity products?",
+    "idn": "Dalam keadaan apa perusahaan lebih cocok mengembangkan produk dengan tingkat kerumitan rendah?"
    },
    "options": {
     "A": {
      "zh": "經濟不景氣時",
      "py": "Jīngjì bùjǐngqì shí",
-     "en": "(A) When the economy is in recession"
+     "en": "(A) When the economy is in recession",
+     "idn": "(A) Saat ekonomi lesu"
     },
     "B": {
      "zh": "找到合作對象時",
      "py": "Zhǎodào hézuò duìxiàng shí",
-     "en": "(B) When it has found a partner"
+     "en": "(B) When it has found a partner",
+     "idn": "(B) Saat sudah menemukan mitra"
     },
     "C": {
      "zh": "能自行解決問題時",
      "py": "Néng zìxíngjiějué wèntí shí",
-     "en": "(C) When it can solve problems on its own"
+     "en": "(C) When it can solve problems on its own",
+     "idn": "(C) Saat bisa menyelesaikan masalah sendiri"
     },
     "D": {
      "zh": "公司內部意見不合時",
      "py": "Gōngsī nèibù yìjiàn bùhé shí",
-     "en": "(D) When there is disagreement within the company"
+     "en": "(D) When there is disagreement within the company",
+     "idn": "(D) Saat ada perselisihan di dalam perusahaan"
     }
    }
   },
@@ -1110,28 +1304,33 @@
    "stem": {
     "zh": "依作者的看法，當公司決定和其他企業合作開發個人電腦時，將 產生哪種現象？",
     "py": "Yī zuòzhě de kànfǎ, dāng gōngsī juédìng hé qítā qǐyè hézuòkāifā gèréndiànnǎo shí, jiāng chǎnshēng nǎ zhǒng xiànxiàng?",
-    "en": "In the author's view, when a company decides to develop a personal computer with other companies, what will happen?"
+    "en": "In the author's view, when a company decides to develop a personal computer with other companies, what will happen?",
+    "idn": "Menurut penulis, ketika perusahaan memutuskan mengembangkan komputer pribadi bersama perusahaan lain, apa yang akan terjadi?"
    },
    "options": {
     "A": {
      "zh": "不易產生歧見",
      "py": "Búyì chǎnshēng qíjiàn",
-     "en": "(A) Disagreements won't easily arise."
+     "en": "(A) Disagreements won't easily arise.",
+     "idn": "(A) Perselisihan tidak mudah muncul."
     },
     "B": {
      "zh": "能提高創造力",
      "py": "Néng tígāo chuàngzàolì",
-     "en": "(B) Creativity can be increased."
+     "en": "(B) Creativity can be increased.",
+     "idn": "(B) Kreativitas bisa bertambah."
     },
     "C": {
      "zh": "容易導致市場萎縮",
      "py": "Róngyì dǎozhì shìchǎngwēisuō",
-     "en": "(C) It easily leads to a shrinking market."
+     "en": "(C) It easily leads to a shrinking market.",
+     "idn": "(C) Mudah menyebabkan pasar menyusut."
     },
     "D": {
      "zh": "顯示公司面臨困境",
      "py": "Xiǎnshì gōngsī miànlín kùnjìng",
-     "en": "(D) It shows the company is in trouble."
+     "en": "(D) It shows the company is in trouble.",
+     "idn": "(D) Menunjukkan perusahaan sedang dalam kesulitan."
     }
    }
   },
@@ -1139,28 +1338,33 @@
    "stem": {
     "zh": "根據本文，一家公司決定獨立開發產品的好處，不包括下面哪一 項？",
     "py": "Gēnjù běnwén, yìjiā gōngsī juédìng dúlì kāifā chǎnpǐn de hǎochù, bù bāokuò xiàmiàn nǎ yī xiàng?",
-    "en": "According to the article, which of the following is NOT a benefit of a company deciding to develop products independently?"
+    "en": "According to the article, which of the following is NOT a benefit of a company deciding to develop products independently?",
+    "idn": "Menurut artikel ini, manakah yang BUKAN manfaat perusahaan memutuskan mengembangkan produk secara mandiri?"
    },
    "options": {
     "A": {
      "zh": "可以增加效率",
      "py": "Kěyǐ zēngjiā xiàolǜ",
-     "en": "(A) It can increase efficiency."
+     "en": "(A) It can increase efficiency.",
+     "idn": "(A) Bisa meningkatkan efisiensi."
     },
     "B": {
      "zh": "可以避免意見不合",
      "py": "Kěyǐ bìmiǎn yìjiàn bùhé",
-     "en": "(B) It can avoid disagreements."
+     "en": "(B) It can avoid disagreements.",
+     "idn": "(B) Bisa menghindari perselisihan."
     },
     "C": {
      "zh": "可以快速掌握市場狀況",
      "py": "Kěyǐ kuàisù zhǎngwò shìchǎng zhuàngkuàng",
-     "en": "(C) It can quickly grasp the market situation."
+     "en": "(C) It can quickly grasp the market situation.",
+     "idn": "(C) Bisa cepat menangkap situasi pasar."
     },
     "D": {
      "zh": "適合開發較複雜的產品",
      "py": "Shìhé kāifā jiào fùzá de chǎnpǐn",
-     "en": "(D) It's suitable for developing more complex products."
+     "en": "(D) It's suitable for developing more complex products.",
+     "idn": "(D) Cocok untuk mengembangkan produk yang lebih rumit."
     }
    }
   },
@@ -1169,84 +1373,100 @@
     {
      "zh": "（六）",
      "py": "(Liù)",
-     "en": "(6)"
+     "en": "(6)",
+     "idn": "(6)"
     },
     {
      "zh": "自行車重心高、輪胎窄、平衡不易、煞車難，其實是很危險的交通工具。",
      "py": "Zìxíngchē zhòngxīn gāo, lúntāi zhǎi, pínghéng búyì, shāchē nán, qíshí shì hěn wēixiǎn de jiāotōnggōngjù.",
-     "en": "Bicycles have a high center of gravity, narrow tires, are hard to balance and hard to brake—they're actually a very dangerous means of transport."
+     "en": "Bicycles have a high center of gravity, narrow tires, are hard to balance and hard to brake—they're actually a very dangerous means of transport.",
+     "idn": "Sepeda punya titik berat yang tinggi, ban yang sempit, sulit diseimbangkan, dan sulit direm—sebenarnya alat transportasi yang sangat berbahaya."
     },
     {
      "zh": "幸好單車靠人力踩踏而前進，一般人要踩出三十公里以上的時速已不容易，要持續高速騎乘更困難，所以單車還算安全。",
      "py": "Xìnghǎo dānchē kào rénlì cǎità ér qiánjìn, yìbān rén yào cǎichū sānshígōnglǐ yǐshàng de shísù yǐ bù róngyì, yào chíxù gāosù qíchéng gèng kùnnán, suǒyǐ dānchē hái suàn ānquán.",
-     "en": "Fortunately bicycles move by human pedaling; for most people reaching a speed above 30 km/h is already difficult, and keeping up high speed is even harder, so bicycles are still fairly safe."
+     "en": "Fortunately bicycles move by human pedaling; for most people reaching a speed above 30 km/h is already difficult, and keeping up high speed is even harder, so bicycles are still fairly safe.",
+     "idn": "Untunglah sepeda bergerak dengan tenaga kayuhan manusia; bagi kebanyakan orang mencapai kecepatan di atas 30 km/jam saja sudah sulit, apalagi mempertahankan kecepatan tinggi, jadi sepeda masih cukup aman."
     },
     {
      "zh": "變速器的發明，讓踩踏更有效率，也讓人可以騎得更快，爬得更高。",
      "py": "Biànsùqì de fāmíng, ràng cǎità gèng yǒuxiàolǜ, yě ràng rén kěyǐ qí de gèngkuài, pá de gèng gāo.",
-     "en": "The invention of gears made pedaling more efficient and let people ride faster and climb higher."
+     "en": "The invention of gears made pedaling more efficient and let people ride faster and climb higher.",
+     "idn": "Penemuan gigi transmisi membuat kayuhan lebih efisien dan memungkinkan orang bersepeda lebih cepat dan menanjak lebih tinggi."
     },
     {
      "zh": "但是這麼一來，問題就大了。",
      "py": "Dànshì zhèmeyìlái, wèntí jiù dà le.",
-     "en": "But this created a big problem."
+     "en": "But this created a big problem.",
+     "idn": "Tetapi hal ini menimbulkan masalah besar."
     },
     {
      "zh": "因為下坡的時候，自行車的速度可以直逼汽、機車，可是它的先天條件其實並不適合高速騎乘。",
      "py": "Yīnwèi Xiàpō de shíhòu, zìxíngchē de sùdù kěyǐ zhíbī qì, jīchē, kěshì tā de xiāntiān tiáojiàn qíshí bìng bú shìhé gāosù qíchéng.",
-     "en": "Because downhill, a bicycle's speed can approach that of cars and motorcycles, yet its built-in characteristics really aren't suited to high-speed riding."
+     "en": "Because downhill, a bicycle's speed can approach that of cars and motorcycles, yet its built-in characteristics really aren't suited to high-speed riding.",
+     "idn": "Sebab saat menurun, kecepatan sepeda bisa mendekati mobil dan sepeda motor, padahal karakteristik bawaannya sama sekali tidak cocok untuk melaju kencang."
     },
     {
      "zh": "轉彎時，一旦減速不及，很容易會因為重心不穩而打滑，不是翻落山崖，就是衝向對向車道，結果當然非死即傷。",
      "py": "Zhuǎnwān shí, yídàn jiǎnsù bùjí, hěn róngyì huì yīnwèi zhòngxīn bùwěn ér dǎhuá, búshì fānluò Shānyá, jiùshì chōngxiàng duì xiàng chēdào, jiéguǒ dāngrán fēisǐjíshāng.",
-     "en": "When turning, if you can't slow down in time, you can easily skid because of unstable balance and either fall off a cliff or rush into oncoming traffic—with death or injury the result."
+     "en": "When turning, if you can't slow down in time, you can easily skid because of unstable balance and either fall off a cliff or rush into oncoming traffic—with death or injury the result.",
+     "idn": "Saat berbelok, kalau tidak sempat mengurangi kecepatan, sepeda mudah tergelincir karena keseimbangan tidak stabil, lalu jatuh ke jurang atau menerjang kendaraan dari arah berlawanan—berakibat kematian atau cedera."
     },
     {
      "zh": "I 這些年來，單車越做越輕，輪胎越變越窄，胎面越來越趨於平滑。",
      "py": "I zhèxiēniánlái, dānchē yuèzuòyuè qīng, lúntāi yuè biàn yuè zhǎi, tāimiàn yuèláiyuè qūyú pínghuá.",
-     "en": "I Over the years, bicycles have become lighter and lighter, tires narrower and narrower, and treads smoother and smoother."
+     "en": "I Over the years, bicycles have become lighter and lighter, tires narrower and narrower, and treads smoother and smoother.",
+     "idn": "I Dari tahun ke tahun, sepeda makin ringan, ban makin sempit, dan alur ban makin halus."
     },
     {
      "zh": "II 照理說，以休閒為目的的一般民眾不需追逐這種競速車，遺憾的是，這偏偏是目前台灣單車市場的主流。",
      "py": "II zhàolǐshuō, yǐ xiūxián wéi mùdì de yìbān mínzhòng bù xū zhuīzhú zhèzhǒng jìngsù chē, yíhàn de shì, zhè piānpiān shì mùqián Táiwān dānchē shìchǎng de zhǔliú.",
-     "en": "II Logically, ordinary people who ride for leisure don't need to chase these racing bikes; unfortunately, this is exactly the mainstream of Taiwan's bicycle market today."
+     "en": "II Logically, ordinary people who ride for leisure don't need to chase these racing bikes; unfortunately, this is exactly the mainstream of Taiwan's bicycle market today.",
+     "idn": "II Logikanya, orang biasa yang bersepeda untuk rekreasi tidak perlu mengejar sepeda balap seperti ini; sayangnya, justru inilah arus utama pasar sepeda Taiwan sekarang."
     },
     {
      "zh": "III 大家都想比輕、比快，車廠更是樂於提供各式裝備、車型供消費者選擇，想藉此從中大撈一筆。",
      "py": "III dàjiā dōu xiǎng bǐqīng, bǐkuài, chēchǎng gèngshì lèyú tígōng gèshì zhuāngbèi, chēxíng gōng xiāofèizhě xuǎnzé, xiǎng jiècǐ cóngzhōng dà lāo yìbǐ.",
-     "en": "III Everyone wants to compare who's lighter and faster, and manufacturers are happy to offer all kinds of equipment and models for consumers to choose from, hoping to make a fortune out of it."
+     "en": "III Everyone wants to compare who's lighter and faster, and manufacturers are happy to offer all kinds of equipment and models for consumers to choose from, hoping to make a fortune out of it.",
+     "idn": "III Semua orang ingin bersaing siapa yang lebih ringan dan lebih cepat, dan produsen dengan senang hati menawarkan berbagai perlengkapan dan model untuk dipilih konsumen, berharap meraup untung besar."
     },
     {
      "zh": "IV",
      "py": "IV",
-     "en": "IV"
+     "en": "IV",
+     "idn": "IV"
     }
    ],
    "stem": {
     "zh": "根據第一段，作者認為騎單車的安全性在哪裡？",
     "py": "Gēnjù dìyíduàn, zuòzhě rènwéi qídānchē de Ānquánxìng zài nǎlǐ?",
-    "en": "According to the first paragraph, where does the author think the safety of cycling lies?"
+    "en": "According to the first paragraph, where does the author think the safety of cycling lies?",
+    "idn": "Menurut paragraf pertama, menurut penulis di mana letak keamanan bersepeda?"
    },
    "options": {
     "A": {
      "zh": "速度上有限制",
      "py": "Sùdù shàng yǒu xiànzhì",
-     "en": "(A) Its speed is limited."
+     "en": "(A) Its speed is limited.",
+     "idn": "(A) Kecepatannya terbatas."
     },
     "B": {
      "zh": "可以訓練平衡感",
      "py": "Kěyǐ xùnliàn pínghénggǎn",
-     "en": "(B) It can train your sense of balance."
+     "en": "(B) It can train your sense of balance.",
+     "idn": "(B) Bisa melatih keseimbangan."
     },
     "C": {
      "zh": "剎車後能馬上停止",
      "py": "Shāchē hòu néng mǎshàng tíngzhǐ",
-     "en": "(C) It stops immediately after braking."
+     "en": "(C) It stops immediately after braking.",
+     "idn": "(C) Langsung berhenti setelah direm."
     },
     "D": {
      "zh": "可以短時間內加速",
      "py": "Kěyǐ duǎnshíjiān nèi jiāsù",
-     "en": "(D) It can accelerate in a short time."
+     "en": "(D) It can accelerate in a short time.",
+     "idn": "(D) Bisa berakselerasi dalam waktu singkat."
     }
    }
   },
@@ -1254,28 +1474,33 @@
    "stem": {
     "zh": "第二段主要在說什麼？",
     "py": "Dì'èrduàn zhǔyào zài shuō shénme?",
-    "en": "What is the second paragraph mainly about?"
+    "en": "What is the second paragraph mainly about?",
+    "idn": "Apa yang terutama dibahas paragraf kedua?"
    },
    "options": {
     "A": {
      "zh": "騎車騎得慢不一定安全",
      "py": "Qíchē qí de mànbù yídìng ānquán",
-     "en": "(A) Riding slowly isn't necessarily safe."
+     "en": "(A) Riding slowly isn't necessarily safe.",
+     "idn": "(A) Bersepeda pelan belum tentu aman."
     },
     "B": {
      "zh": "單車的設計不利於高速行駛",
      "py": "Dānchē de shèjì búlìyú Gāosùxíngshǐ",
-     "en": "(B) The design of bicycles isn't suited to high speeds."
+     "en": "(B) The design of bicycles isn't suited to high speeds.",
+     "idn": "(B) Desain sepeda tidak cocok untuk kecepatan tinggi."
     },
     "C": {
      "zh": "騎單車的危險性沒有汽機車高",
      "py": "Qídānchē de wēixiǎnxìng méiyǒu qìjī Chēgāo",
-     "en": "(C) Cycling is less dangerous than cars and motorcycles."
+     "en": "(C) Cycling is less dangerous than cars and motorcycles.",
+     "idn": "(C) Bersepeda kurang berbahaya dibanding mobil dan sepeda motor."
     },
     "D": {
      "zh": "沒有安全裝備是意外發生的主因",
      "py": "Méiyǒu ānquán zhuāngbèi shì yìwài fāshēng de zhǔyīn",
-     "en": "(D) Lack of safety equipment is the main cause of accidents."
+     "en": "(D) Lack of safety equipment is the main cause of accidents.",
+     "idn": "(D) Kurangnya perlengkapan keselamatan adalah penyebab utama kecelakaan."
     }
    }
   },
@@ -1283,28 +1508,33 @@
    "stem": {
     "zh": "在第三段，作者指出目前的單車市場有什麼問題？",
     "py": "Zài dìsānduàn, zuòzhě zhǐchū mùqián de dānchē shìchǎng yǒu shénme wèntí?",
-    "en": "In the third paragraph, what problem with today's bicycle market does the author point out?"
+    "en": "In the third paragraph, what problem with today's bicycle market does the author point out?",
+    "idn": "Di paragraf ketiga, masalah apa pada pasar sepeda masa kini yang ditunjukkan penulis?"
    },
    "options": {
     "A": {
      "zh": "休閒性的單車不夠安全",
      "py": "Xiūxián xìng de dānchē búgòu ānquán",
-     "en": "(A) Leisure bicycles aren't safe enough."
+     "en": "(A) Leisure bicycles aren't safe enough.",
+     "idn": "(A) Sepeda rekreasi kurang aman."
     },
     "B": {
      "zh": "民眾騎休閒性單車來比賽",
      "py": "Mínzhòng qí xiūxián xìng dānchē lái bǐsài",
-     "en": "(B) People race on leisure bicycles."
+     "en": "(B) People race on leisure bicycles.",
+     "idn": "(B) Orang balapan dengan sepeda rekreasi."
     },
     "C": {
      "zh": "民眾偏好買競速型的單車",
      "py": "Mínzhòng piānhǎo mǎi jìngsù xíng de dānchē",
-     "en": "(C) People prefer to buy racing bicycles."
+     "en": "(C) People prefer to buy racing bicycles.",
+     "idn": "(C) Orang lebih suka membeli sepeda balap."
     },
     "D": {
      "zh": "只有休閒性的單車有市場",
      "py": "Zhǐyǒu xiūxián xìng de dānchē yǒu shìchǎng",
-     "en": "(D) Only leisure bicycles have a market."
+     "en": "(D) Only leisure bicycles have a market.",
+     "idn": "(D) Hanya sepeda rekreasi yang punya pasar."
     }
    }
   },
@@ -1312,7 +1542,8 @@
    "stem": {
     "zh": "如果要將「這種以比賽競速為目的的單車，設計上其實與安全原 則背道而馳。」這段話放入第三段，哪個位置最合適？",
     "py": "Rúguǒ yào jiāng “Zhèzhǒng yǐ bǐsài jìngsù wéi mùdì de dānchē, shèjì shàng qíshí yǔ ānquán yuán zé bèidào'érchí.” zhèduànhuà fàngrù dìsānduàn, nǎ ge wèizhì zuìhéshì?",
-    "en": "If the sentence \"The design of these bicycles built for racing actually runs counter to safety principles\" were to be put into the third paragraph, which position would be most suitable?"
+    "en": "If the sentence \"The design of these bicycles built for racing actually runs counter to safety principles\" were to be put into the third paragraph, which position would be most suitable?",
+    "idn": "Jika kalimat \"Desain sepeda yang dibuat untuk balapan ini sebenarnya bertentangan dengan prinsip keselamatan\" hendak dimasukkan ke paragraf ketiga, posisi mana yang paling cocok?"
    }
   },
   "36": {
@@ -1320,109 +1551,130 @@
     {
      "zh": "（七）",
      "py": "(Qī)",
-     "en": "(7)"
+     "en": "(7)",
+     "idn": "(7)"
     },
     {
      "zh": "我常想，住豪宅或是升職、加薪，真能讓人快樂嗎？",
      "py": "Wǒ cháng xiǎng, zhù háozhái huòshì shēngzhí, Jiāxīn, zhēn néng ràng rén kuàilè ma?",
-     "en": "I often wonder: can living in a mansion, getting promoted or getting a raise really make people happy?"
+     "en": "I often wonder: can living in a mansion, getting promoted or getting a raise really make people happy?",
+     "idn": "Saya sering bertanya-tanya: apakah tinggal di rumah mewah, naik jabatan, atau naik gaji benar-benar bisa membuat orang bahagia?"
     },
     {
      "zh": "讀完鮑教授新作《祝你今年快樂》後，便發覺那都只能算是一閃即逝的喜悅，並非真實而長久。",
      "py": "Dúwán Bào jiàoshòu xīnzuò «Zhù nǐ jīnnián kuàilè» hòu, biàn fājué nà dōu zhǐnéng suànshì yìshǎnjíshì de xǐyuè, bìngfēi zhēnshí ér chángjiǔ.",
-     "en": "After reading Professor Bao's new book \"Wishing You Happiness This Year,\" I realized those can only count as fleeting joy, not something real and lasting."
+     "en": "After reading Professor Bao's new book \"Wishing You Happiness This Year,\" I realized those can only count as fleeting joy, not something real and lasting.",
+     "idn": "Setelah membaca buku baru Profesor Bao, \"Semoga Tahun Ini Kamu Bahagia\", saya baru sadar bahwa hal-hal itu hanya bisa dianggap kesenangan sesaat, bukan sesuatu yang nyata dan abadi."
     },
     {
      "zh": "誠如書中所言：「快樂是一種遍布在生命之中，滿足和幸福的感受，而喜悅則像煙火，稍縱即逝。」",
      "py": "Chéngrú shū zhōng suǒ yán: “Kuàilè shì yìzhǒng biànbù zài shēngmìng zhīzhōng, mǎnzú hé xìngfú de gǎnshòu, ér xǐyuè zé xiàng yānhuǒ, shāozòngjíshì.”",
-     "en": "As the book says: \"Happiness is a feeling of contentment and well-being that pervades life, while joy is like fireworks—gone in an instant.\""
+     "en": "As the book says: \"Happiness is a feeling of contentment and well-being that pervades life, while joy is like fireworks—gone in an instant.\"",
+     "idn": "Seperti kata buku itu: \"Kebahagiaan adalah rasa cukup dan sejahtera yang meresapi hidup, sedangkan kesenangan seperti kembang api—lenyap dalam sekejap.\""
     },
     {
      "zh": "或許你認為這道理誰都懂，然想遠比做容易。",
      "py": "Huòxǔ nǐ rènwéi zhè dàolǐ shuí dōu dǒng, rán xiǎng yuǎn bǐzuò róngyì.",
-     "en": "Perhaps you think everyone understands this, but thinking is far easier than doing."
+     "en": "Perhaps you think everyone understands this, but thinking is far easier than doing.",
+     "idn": "Mungkin kamu merasa semua orang memahami hal ini, tetapi memikirkan jauh lebih mudah daripada melakukannya."
     },
     {
      "zh": "這本書告訴我們兩件事：快樂是需要練習的；",
      "py": "Zhè běnshū gàosù wǒmen liǎngjiànshì: Kuàilè shì xūyào liànxí de;",
-     "en": "This book tells us two things: happiness needs practice;"
+     "en": "This book tells us two things: happiness needs practice;",
+     "idn": "Buku ini memberi tahu kita dua hal: kebahagiaan perlu dilatih;"
     },
     {
      "zh": "再則，追兔子的狗，比躺在門廊上睡覺的狗更快樂！",
      "py": "Zàizé, zhuī tùzi de gǒu, bǐ tǎng zài ménláng shàng shuìjiào de gǒu gèng kuàilè!",
-     "en": "and secondly, a dog chasing a rabbit is happier than a dog sleeping on the porch!"
+     "en": "and secondly, a dog chasing a rabbit is happier than a dog sleeping on the porch!",
+     "idn": "dan kedua, anjing yang mengejar kelinci lebih bahagia daripada anjing yang tidur di teras!"
     },
     {
      "zh": "這原理並非為捉到兔子能令人快樂，而是當我們為突破挑戰與困境而忙碌時，往往能從中發現自己的才能，找出更多存在的價值。",
      "py": "Zhè yuánlǐ bìngfēi wèi zhuōdào tùzi néng Lìngrén kuàilè, érshì dāng wǒmen wèi tūpò tiǎozhàn yǔ kùnjìng ér mánglù shí, wǎngwǎng néng cóngzhōng fāxiànzìjǐ de cáinéng, zhǎochū gèng duō cúnzài de jiàzhí.",
-     "en": "The principle isn't that catching the rabbit makes us happy, but that when we're busy breaking through challenges and difficulties, we often discover our own talents and find more value in our existence."
+     "en": "The principle isn't that catching the rabbit makes us happy, but that when we're busy breaking through challenges and difficulties, we often discover our own talents and find more value in our existence.",
+     "idn": "Prinsipnya bukan bahwa menangkap kelinci membuat kita bahagia, melainkan bahwa ketika kita sibuk menembus tantangan dan kesulitan, kita sering menemukan bakat diri sendiri dan menemukan lebih banyak nilai keberadaan kita."
     },
     {
      "zh": "這也說明了為何許多不需要克服難題的有錢人，其實並不快樂。",
      "py": "Zhè yě shuōmíng le wèihé xǔduō bù xūyào kèfú nántí de yǒuqiánrén, qíshí bìng bú kuàilè.",
-     "en": "This also explains why many rich people who don't need to overcome difficulties aren't actually happy."
+     "en": "This also explains why many rich people who don't need to overcome difficulties aren't actually happy.",
+     "idn": "Hal ini juga menjelaskan mengapa banyak orang kaya yang tidak perlu mengatasi kesulitan justru tidak bahagia."
     },
     {
      "zh": "這讓我想起《國家科學院期刊》一項調查結果，他們發現 50％的快樂，由快樂的設定點決定，生活條件只佔 10％，剩下的 40％則取決於行動。",
      "py": "Zhè ràng wǒ xiǎngqǐ «Guójiā kēxuéyuàn qīkān» yíxiàng diàochájiéguǒ, tāmen fāxiàn 50 ％ de kuàilè, yóu kuàilè de shèdìng diǎn juédìng, shēnghuó tiáojiàn zhǐ zhàn 10 ％, shèngxià de 40 ％ zé qǔjuéyú xíngdòng.",
-     "en": "This reminds me of a survey result in the \"Proceedings of the National Academy of Sciences\": they found that 50% of happiness is determined by a happiness set point, living conditions account for only 10%, and the remaining 40% depends on action."
+     "en": "This reminds me of a survey result in the \"Proceedings of the National Academy of Sciences\": they found that 50% of happiness is determined by a happiness set point, living conditions account for only 10%, and the remaining 40% depends on action.",
+     "idn": "Ini mengingatkan saya pada hasil survei dalam \"Prosiding Akademi Ilmu Pengetahuan Nasional (PNAS)\": mereka menemukan bahwa 50% kebahagiaan ditentukan oleh titik setel kebahagiaan, kondisi hidup hanya menyumbang 10%, dan 40% sisanya bergantung pada tindakan."
     },
     {
      "zh": "換言之，快樂是由思維主導的。",
      "py": "Huànyánzhī, kuàilè shì yóu sīwéi zhǔdǎo de.",
-     "en": "In other words, happiness is led by thinking."
+     "en": "In other words, happiness is led by thinking.",
+     "idn": "Dengan kata lain, kebahagiaan dituntun oleh pikiran."
     },
     {
      "zh": "鮑教授也在書中舉例，大腦重僅 1.35 公斤，佔人體的比重很小，卻指引全身動作，進而導引人生的發展。",
      "py": "Bào jiàoshòu yě zài shū zhōng jǔlì, dànǎo zhòngjǐn 1.35 gōngjīn, zhàn réntǐ de bǐzhòng hěnxiǎo, què zhǐyǐn quánshēn dòngzuò, jìn'ér dǎoyǐn rénshēng de fāzhǎn.",
-     "en": "Professor Bao also gives an example in the book: the brain weighs only 1.35 kg, a small proportion of the body, yet it directs the body's every movement and in turn guides the course of life."
+     "en": "Professor Bao also gives an example in the book: the brain weighs only 1.35 kg, a small proportion of the body, yet it directs the body's every movement and in turn guides the course of life.",
+     "idn": "Profesor Bao juga memberi contoh dalam bukunya: otak hanya seberat 1,35 kg, porsi yang kecil dari tubuh, tetapi mengarahkan setiap gerakan tubuh dan pada gilirannya menuntun arah hidup."
     },
     {
      "zh": "就像體重數十公斤的飛行員，卻要駕駛重達數十萬公斤的飛機，飛機雖沉重、力量強大，但只按飛行員導引的方向飛行。",
      "py": "Jiù xiàng tǐzhòng shùshí gōngjīn de fēixíngyuán, què yào jiàshǐ zhòngdá shùshíwàn gōngjīn de fēijī, fēijī suī chénzhòng, Lìliàngqiángdà, dàn zhǐ àn fēixíngyuán dǎoyǐn de fāngxiàng fēixíng.",
-     "en": "It's like a pilot weighing a few dozen kilograms flying a plane weighing hundreds of thousands of kilograms: heavy and powerful as the plane is, it flies only in the direction the pilot guides it."
+     "en": "It's like a pilot weighing a few dozen kilograms flying a plane weighing hundreds of thousands of kilograms: heavy and powerful as the plane is, it flies only in the direction the pilot guides it.",
+     "idn": "Ibarat pilot seberat puluhan kilogram yang menerbangkan pesawat seberat ratusan ribu kilogram: seberat dan sekuat apa pun pesawat itu, ia hanya terbang ke arah yang dituntun pilot."
     },
     {
      "zh": "最近我依著鮑教授的建議，開始練習微笑，心中同時想著「我很快樂」，也似乎真找出了環境或生活中讓自己快樂的事，看來此法確實值得大家一試。",
      "py": "Zuìjìn wǒ yīzhe Bào jiàoshòu de jiànyì, kāishǐ liànxí wēixiào, xīnzhōng tóngshí xiǎngzhe “Wǒ hěn kuàilè”, yě sìhū zhēn zhǎochū le huánjìng huò shēnghuó zhōng ràng zìjǐ kuàilè de shì, kànlái cǐfǎ quèshí zhíde dàjiā yí shì.",
-     "en": "Recently, following Professor Bao's advice, I started practicing smiling while thinking \"I'm very happy,\" and I seem to have really found things in my surroundings and life that make me happy. It seems this method is indeed worth everyone trying."
+     "en": "Recently, following Professor Bao's advice, I started practicing smiling while thinking \"I'm very happy,\" and I seem to have really found things in my surroundings and life that make me happy. It seems this method is indeed worth everyone trying.",
+     "idn": "Belakangan, mengikuti saran Profesor Bao, saya mulai berlatih tersenyum sambil berpikir \"saya sangat bahagia\", dan sepertinya saya benar-benar menemukan hal-hal di sekitar dan dalam hidup yang membuat saya bahagia. Tampaknya cara ini memang patut dicoba semua orang."
     },
     {
      "zh": "不過據我的實作經驗顯示，有件事得注意，就是千萬別說出「我想要快樂」。",
      "py": "Búguò jù wǒ de shízuò jīngyàn xiǎnshì, yǒujiànshì děi zhùyì, jiùshì qiānwàn biéshuōchū “Wǒ xiǎngyào kuàilè”.",
-     "en": "But from my own practical experience, there's one thing to watch out for: never say \"I want to be happy.\""
+     "en": "But from my own practical experience, there's one thing to watch out for: never say \"I want to be happy.\"",
+     "idn": "Tetapi dari pengalaman praktik saya sendiri, ada satu hal yang perlu diperhatikan: jangan pernah berkata \"saya ingin bahagia\"."
     },
     {
      "zh": "一旦你這麼說，等於承認自己是在不快樂的狀態之下，反而容易弄巧成拙。",
      "py": "Yídàn nǐ zhème shuō, děngyú chéngrèn zìjǐ shì zài bú kuàilè de zhuàngtài zhīxià, fǎn'ér róngyì nòngqiǎochéngzhuō.",
-     "en": "Once you say that, it's like admitting you're in an unhappy state, which can easily backfire."
+     "en": "Once you say that, it's like admitting you're in an unhappy state, which can easily backfire.",
+     "idn": "Begitu kamu berkata demikian, seolah mengakui dirimu sedang dalam keadaan tidak bahagia, yang malah mudah berbalik merugikan."
     }
    ],
    "stem": {
     "zh": "作者在第一段中的「那」，指的是什麼？",
     "py": "Zuòzhě zài dìyíduàn zhōng de “Nà”, zhǐ de shì shénme?",
-    "en": "What does \"those\" in the first paragraph refer to?"
+    "en": "What does \"those\" in the first paragraph refer to?",
+    "idn": "\"Hal-hal itu\" di paragraf pertama merujuk pada apa?"
    },
    "options": {
     "A": {
      "zh": "真實、長久的快樂",
      "py": "Zhēnshí, chángjiǔ de kuàilè",
-     "en": "(A) Real, lasting happiness"
+     "en": "(A) Real, lasting happiness",
+     "idn": "(A) Kebahagiaan yang nyata dan abadi"
     },
     "B": {
      "zh": "心中感到滿足的狀態",
      "py": "Xīnzhōng gǎndào mǎnzú de zhuàngtài",
-     "en": "(B) A state of feeling content"
+     "en": "(B) A state of feeling content",
+     "idn": "(B) Keadaan merasa cukup"
     },
     "C": {
      "zh": "追求物質的生活目標",
      "py": "Zhuīqiú wùzhì de shēnghuó mùbiāo",
-     "en": "(C) Life goals of pursuing material things"
+     "en": "(C) Life goals of pursuing material things",
+     "idn": "(C) Tujuan hidup mengejar materi"
     },
     "D": {
      "zh": "《祝你今年快樂》這本書",
      "py": "«Zhù nǐ jīnnián kuàilè» zhè běnshū",
-     "en": "(D) The book \"Wishing You Happiness This Year\""
+     "en": "(D) The book \"Wishing You Happiness This Year\"",
+     "idn": "(D) Buku \"Semoga Tahun Ini Kamu Bahagia\""
     }
    }
   },
@@ -1430,28 +1682,33 @@
    "stem": {
     "zh": "為什麼鮑教授提到了追兔子的狗？",
     "py": "Wèishénme Bào jiàoshòu tídào le zhuī tùzi de gǒu?",
-    "en": "Why does Professor Bao mention the dog chasing a rabbit?"
+    "en": "Why does Professor Bao mention the dog chasing a rabbit?",
+    "idn": "Mengapa Profesor Bao menyebutkan anjing yang mengejar kelinci?"
    },
    "options": {
     "A": {
      "zh": "強調沒有勇氣就得不到快樂",
      "py": "Qiángdiào méiyǒuyǒngqì jiù débúdào kuàilè",
-     "en": "(A) To stress that without courage you can't be happy"
+     "en": "(A) To stress that without courage you can't be happy",
+     "idn": "(A) Untuk menekankan bahwa tanpa keberanian tidak bisa bahagia"
     },
     "B": {
      "zh": "指出快樂來自於追求的過程",
      "py": "Zhǐchū kuàilè láizì yú zhuīqiú de guòchéng",
-     "en": "(B) To point out that happiness comes from the process of pursuit"
+     "en": "(B) To point out that happiness comes from the process of pursuit",
+     "idn": "(B) Untuk menunjukkan bahwa kebahagiaan berasal dari proses mengejar"
     },
     "C": {
      "zh": "說明一般人分不清快樂與喜悅",
      "py": "Shuōmíng yìbān rén fēnbùqīng kuàilè yǔ xǐyuè",
-     "en": "(C) To explain that ordinary people can't tell happiness and joy apart"
+     "en": "(C) To explain that ordinary people can't tell happiness and joy apart",
+     "idn": "(C) Untuk menjelaskan bahwa orang biasa tidak bisa membedakan kebahagiaan dan kesenangan"
     },
     "D": {
      "zh": "透露多數現代人的生活漫無目標",
      "py": "Tòulù duōshù xiàndàirén de shēnghuó mànwú mùbiāo",
-     "en": "(D) To reveal that most modern people live aimlessly"
+     "en": "(D) To reveal that most modern people live aimlessly",
+     "idn": "(D) Untuk mengungkapkan bahwa kebanyakan orang modern hidup tanpa tujuan"
     }
    }
   },
@@ -1459,28 +1716,33 @@
    "stem": {
     "zh": "鮑教授利用飛行員的例子來說明哪件事？",
     "py": "Bào jiàoshòu lìyòng fēixíngyuán de lìzi lái shuōmíng nǎjiàn shì?",
-    "en": "What does Professor Bao use the example of the pilot to explain?"
+    "en": "What does Professor Bao use the example of the pilot to explain?",
+    "idn": "Profesor Bao memakai contoh pilot untuk menjelaskan apa?"
    },
    "options": {
     "A": {
      "zh": "快樂是有意識的選擇",
      "py": "Kuàilè shì yǒuyìshí de xuǎnzé",
-     "en": "(A) Happiness is a conscious choice."
+     "en": "(A) Happiness is a conscious choice.",
+     "idn": "(A) Kebahagiaan adalah pilihan yang disadari."
     },
     "B": {
      "zh": "快樂不應該分程度大小",
      "py": "Kuàilè bù yīnggāi fēn chéngdù dàxiǎo",
-     "en": "(B) Happiness shouldn't be divided by degree."
+     "en": "(B) Happiness shouldn't be divided by degree.",
+     "idn": "(B) Kebahagiaan tidak sebaiknya dibagi-bagi menurut tingkatan."
     },
     "C": {
      "zh": "快樂的來源有半數取決於行動",
      "py": "Kuàilè de láiyuán yǒu bànshù qǔjuéyú xíngdòng",
-     "en": "(C) Half of the sources of happiness depend on action."
+     "en": "(C) Half of the sources of happiness depend on action.",
+     "idn": "(C) Separuh sumber kebahagiaan bergantung pada tindakan."
     },
     "D": {
      "zh": "快樂所產生的力量是很強大的",
      "py": "Kuàilè suǒ chǎnshēng de lìliàng shì hěn qiángdà de",
-     "en": "(D) The power generated by happiness is very great."
+     "en": "(D) The power generated by happiness is very great.",
+     "idn": "(D) Kekuatan yang dihasilkan kebahagiaan sangat besar."
     }
    }
   },
@@ -1488,28 +1750,33 @@
    "stem": {
     "zh": "作者讀完《祝你今年快樂》以後有什麼心得？",
     "py": "Zuòzhě dúwán «Zhù nǐ jīnnián kuàilè» yǐhòu yǒu shénme xīndé?",
-    "en": "What did the author take away from reading \"Wishing You Happiness This Year\"?"
+    "en": "What did the author take away from reading \"Wishing You Happiness This Year\"?",
+    "idn": "Apa yang diperoleh penulis setelah membaca \"Semoga Tahun Ini Kamu Bahagia\"?"
    },
    "options": {
     "A": {
      "zh": "不應該將快樂當作一種獎賞",
      "py": "Bù yīnggāi jiāng kuàilè dàngzuò yìzhǒng jiǎngshǎng",
-     "en": "(A) Happiness shouldn't be treated as a reward."
+     "en": "(A) Happiness shouldn't be treated as a reward.",
+     "idn": "(A) Kebahagiaan tidak sebaiknya diperlakukan sebagai hadiah."
     },
     "B": {
      "zh": "得先承認自己不快樂的緣由",
      "py": "Děi xiān chéngrèn zìjǐ bú kuàilè de yuányóu",
-     "en": "(B) You must first admit the reasons you're unhappy."
+     "en": "(B) You must first admit the reasons you're unhappy.",
+     "idn": "(B) Harus lebih dulu mengakui alasan dirinya tidak bahagia."
     },
     "C": {
      "zh": "別把尋找快樂經常掛在嘴邊",
      "py": "Bié bǎ xúnzhǎo kuàilè jīngcháng guà zài zuǐbiān",
-     "en": "(C) Don't keep talking about looking for happiness."
+     "en": "(C) Don't keep talking about looking for happiness.",
+     "idn": "(C) Jangan terus-menerus bicara soal mencari kebahagiaan."
     },
     "D": {
      "zh": "練習微笑對自己起不了作用",
      "py": "Liànxí wēixiào duì zìjǐ qǐ bùliǎo zuòyòng",
-     "en": "(D) Practicing smiling doesn't work for him."
+     "en": "(D) Practicing smiling doesn't work for him.",
+     "idn": "(D) Berlatih tersenyum tidak berhasil baginya."
     }
    }
   },
@@ -1518,104 +1785,124 @@
     {
      "zh": "（八）",
      "py": "(Bā)",
-     "en": "(8)"
+     "en": "(8)",
+     "idn": "(8)"
     },
     {
      "zh": "2008 年的斯德哥爾摩水資源獎，頒給了提出「虛擬水」概念的東尼艾倫教授。",
      "py": "2008 nián de Sīdégē'ěrmó shuǐzīyuán jiǎng, bāngěi le tíchū “Xūnǐ shuǐ” gàiniàn de Dōngní Àilún jiàoshòu.",
-     "en": "The 2008 Stockholm Water Prize was awarded to Professor Tony Allan, who proposed the concept of \"virtual water.\""
+     "en": "The 2008 Stockholm Water Prize was awarded to Professor Tony Allan, who proposed the concept of \"virtual water.\"",
+     "idn": "Penghargaan Air Stockholm 2008 diberikan kepada Profesor Tony Allan, pencetus konsep \"air virtual\"."
     },
     {
      "zh": "所謂的「虛擬水」，是指食品或消費品在生產及銷售過程中所需要的用水量。",
      "py": "Suǒwèi de “Xūnǐ shuǐ”, shì zhǐ shípǐn huò xiāofèipǐn zài shēngchǎn jí xiāoshòu guòchéng zhōng suǒ xūyào de yòngshuǐliàng.",
-     "en": "\"Virtual water\" refers to the amount of water needed in producing and selling food or consumer goods."
+     "en": "\"Virtual water\" refers to the amount of water needed in producing and selling food or consumer goods.",
+     "idn": "\"Air virtual\" adalah jumlah air yang dibutuhkan dalam memproduksi dan menjual makanan atau barang konsumsi."
     },
     {
      "zh": "這概念指出，人們不僅在飲用和淋浴時需要水，在消費其他產品時也會消耗大量的水。",
      "py": "Zhè gàiniàn zhǐchū, rénmen bùjǐn zài yǐnyòng hé línyù shí xūyào shuǐ, zài xiāofèi qítā chǎnpǐn shí yě huì xiāohào dàliàng de shuǐ.",
-     "en": "The concept points out that people need water not only for drinking and showering, but also consume large amounts of water when they consume other products."
+     "en": "The concept points out that people need water not only for drinking and showering, but also consume large amounts of water when they consume other products.",
+     "idn": "Konsep ini menunjukkan bahwa manusia tidak hanya membutuhkan air untuk minum dan mandi, tetapi juga menghabiskan banyak air saat mengonsumsi produk lain."
     },
     {
      "zh": "例如，一杯咖啡在種植、生產、包裝和運輸的過程中，得消耗 140 升的水，這相當於一個英國人平均每天飲用和家庭生活的用水量。",
      "py": "Lìrú, yìbēi kāfēi zài zhòngzhí, shēngchǎn, bāozhuāng hé yùnshū de guòchéng zhōng, děi xiāohào 140 shēng de shuǐ, zhè xiāngdāngyú yí ge Yīngguórén píngjūn měitiān yǐnyòng hé jiātíng shēnghuó de yòngshuǐliàng.",
-     "en": "For example, a cup of coffee uses 140 liters of water during growing, production, packaging and transport—equivalent to the average daily water use of a British person for drinking and household life."
+     "en": "For example, a cup of coffee uses 140 liters of water during growing, production, packaging and transport—equivalent to the average daily water use of a British person for drinking and household life.",
+     "idn": "Misalnya, secangkir kopi memakai 140 liter air selama penanaman, produksi, pengemasan, dan pengangkutan—setara dengan rata-rata pemakaian air harian orang Inggris untuk minum dan kebutuhan rumah tangga."
     },
     {
      "zh": "「虛擬水」的概念進一步說明了「虛擬水」的交易模式，這對全球的貿易政策及水資源利用產生了重大影響。",
      "py": "“Xūnǐ shuǐ” de gàiniàn jìnyíbù shuōmíng le “Xūnǐ shuǐ” de jiāoyì móshì, zhè duì quánqiú de màoyì zhèngcè jí shuǐzīyuán lìyòng chǎnshēng le zhòngdà yǐngxiǎng.",
-     "en": "The concept of \"virtual water\" further explains the trading model of \"virtual water,\" which has had a major impact on global trade policy and water resource use."
+     "en": "The concept of \"virtual water\" further explains the trading model of \"virtual water,\" which has had a major impact on global trade policy and water resource use.",
+     "idn": "Konsep \"air virtual\" lebih lanjut menjelaskan model perdagangan \"air virtual\", yang berdampak besar pada kebijakan perdagangan global dan pemanfaatan sumber daya air."
     },
     {
      "zh": "這項理論指出，氣候潮濕地區的農業，多半會利用廉價的自然降雨，而非成本高昂的灌溉系統，因此能大幅降低農業的生產成本。",
      "py": "Zhèxiàng lǐlùn zhǐchū, qìhòu cháoshī dìqū de nóngyè, duōbànhuì lìyòng liánjià de zìrán jiàngyǔ, ér fēi chéngběn Gāo'áng de guàngàixìtǒng, yīncǐ néng dàfú jiàngdī nóngyè de shēngchǎnchéngběn.",
-     "en": "The theory points out that agriculture in humid regions mostly uses cheap natural rainfall rather than costly irrigation systems, and can therefore greatly reduce agricultural production costs."
+     "en": "The theory points out that agriculture in humid regions mostly uses cheap natural rainfall rather than costly irrigation systems, and can therefore greatly reduce agricultural production costs.",
+     "idn": "Teori ini menunjukkan bahwa pertanian di daerah lembap sebagian besar memanfaatkan curah hujan alami yang murah, bukan sistem irigasi yang mahal, sehingga bisa sangat menekan biaya produksi pertanian."
     },
     {
      "zh": "這些地區可以通過農作物，將水資源「出口」到較為炎熱乾旱的國家。",
      "py": "Zhèxiē dìqū kěyǐ tōngguò nóngzuòwù, jiāng shuǐzīyuán “Chūkǒu” dào jiàowéi yánrè gānhàn de guójiā.",
-     "en": "These regions can \"export\" water resources to hotter, drier countries through crops."
+     "en": "These regions can \"export\" water resources to hotter, drier countries through crops.",
+     "idn": "Daerah-daerah ini bisa \"mengekspor\" sumber daya air ke negara yang lebih panas dan kering melalui tanaman pangan."
     },
     {
      "zh": "而氣候向來乾旱的國家，則可以「進口」需水量很大的農作物，紓緩國內水資源不足的壓力。",
      "py": "Ér qìhòu xiànglái gānhàn de guójiā, zé kěyǐ “Jìnkǒu” xūshuǐliàng hěndà de nóngzuòwù, shū huǎn guónèi shuǐzīyuán bùzú de yālì.",
-     "en": "And countries with dry climates can \"import\" water-intensive crops, relieving the pressure of insufficient domestic water."
+     "en": "And countries with dry climates can \"import\" water-intensive crops, relieving the pressure of insufficient domestic water.",
+     "idn": "Dan negara beriklim kering bisa \"mengimpor\" tanaman yang membutuhkan banyak air, sehingga meringankan tekanan kekurangan air dalam negeri."
     },
     {
      "zh": "儘管檯面上的交易只看得到農產品，實際上卻包括了水資源的交換。",
      "py": "Jǐnguǎn tái miànshàng de jiāoyì zhǐ kàn dédào nóngchǎnpǐn, shíjìshàng què bāokuò le shuǐzīyuán de jiāohuàn.",
-     "en": "Although only agricultural products are visible in the trade, it actually includes an exchange of water resources."
+     "en": "Although only agricultural products are visible in the trade, it actually includes an exchange of water resources.",
+     "idn": "Meskipun dalam perdagangan hanya produk pertanian yang terlihat, sebenarnya di dalamnya terkandung pertukaran sumber daya air."
     },
     {
      "zh": "舉例來說，在埃及，已經有越來越多的傳統食品是由進口糧食所製造的，反而不是尼羅河所灌溉種植的小麥。",
      "py": "Jǔlìláishuō, zài Āijí, yǐjīng yǒu yuèláiyuè duō de chuántǒng shípǐn shì yóu jìnkǒu liángshí suǒ zhìzào de, fǎn'ér búshì Níluóhé suǒ guàngài zhòngzhí de xiǎomài.",
-     "en": "For example, in Egypt, more and more traditional foods are made from imported grain rather than from wheat irrigated by the Nile."
+     "en": "For example, in Egypt, more and more traditional foods are made from imported grain rather than from wheat irrigated by the Nile.",
+     "idn": "Misalnya di Mesir, makin banyak makanan tradisional yang dibuat dari biji-bijian impor, bukan dari gandum yang diairi Sungai Nil."
     },
     {
      "zh": "如果埃及堅持所有的穀物都由自己種植，很快就會面臨水資源不足的窘境。",
      "py": "Rúguǒ Āijí jiānchí suǒyǒu de gǔwù dōu yóu zìjǐ zhòngzhí, hěnkuài jiù huì miànlín shuǐzīyuán bùzú de jiǒngjìng.",
-     "en": "If Egypt insisted on growing all its grain itself, it would soon face a water shortage."
+     "en": "If Egypt insisted on growing all its grain itself, it would soon face a water shortage.",
+     "idn": "Kalau Mesir bersikeras menanam semua biji-bijiannya sendiri, negara itu akan segera menghadapi krisis air."
     },
     {
      "zh": "世界水資源週所提出的報告也使用了這一個概念，指出當前世界性的糧食危機在於過於浪費，而非生產不足。",
      "py": "Shìjiè shuǐzīyuán Zhōu suǒ tíchū de bàogào yě shǐyòng le zhè yí ge gàiniàn, zhǐchū dāngqián shìjièxìng de liángshí wēijī zàiyú guòyú làngfèi, ér fēishēngchǎn bùzú.",
-     "en": "A report from World Water Week also used this concept, pointing out that the current global food crisis lies in excessive waste rather than insufficient production."
+     "en": "A report from World Water Week also used this concept, pointing out that the current global food crisis lies in excessive waste rather than insufficient production.",
+     "idn": "Laporan Pekan Air Sedunia juga memakai konsep ini, menunjukkan bahwa krisis pangan global saat ini terletak pada pemborosan yang berlebihan, bukan produksi yang kurang."
     },
     {
      "zh": "因為一份糧食從生產、加工、運輸、儲存、販賣以至於烹煮，每一環節都要消耗水資源，要是消費者丟棄買回來的食物，也意味著浪費了生長、運送、貯存過程中所使用的水。",
      "py": "Yīnwèi yífèn liángshí cóng shēngchǎn, jiāgōng, yùnshū, chǔcún, fànmài yǐzhìyú pēngzhǔ, měiyī huánjié dōu yào xiāohào shuǐzīyuán, yàoshì xiāofèizhě diūqì mǎihuílái de shíwù, yě yìwèizhe làngfèi le shēngzhǎng, yùnsòng, zhùcún guòchéng zhōng suǒ shǐyòng de shuǐ.",
-     "en": "Because every step of a portion of food—production, processing, transport, storage, sale and cooking—consumes water, if consumers throw away food they've bought, it also means wasting the water used in growing, transporting and storing it."
+     "en": "Because every step of a portion of food—production, processing, transport, storage, sale and cooking—consumes water, if consumers throw away food they've bought, it also means wasting the water used in growing, transporting and storing it.",
+     "idn": "Karena setiap tahap sepiring makanan—produksi, pengolahan, pengangkutan, penyimpanan, penjualan, dan pemasakan—memakai air, kalau konsumen membuang makanan yang sudah dibeli, artinya juga membuang air yang dipakai untuk menanam, mengangkut, dan menyimpannya."
     },
     {
      "zh": "專家表示，唯有避免浪費食物，才能有效落實節水政策。",
      "py": "Zhuānjiā biǎoshì, wéiyǒu bìmiǎnlàngfèi shíwù, cáinéng yǒuxiào luòshí jiéshuǐ zhèngcè.",
-     "en": "Experts say only by avoiding food waste can water-saving policies be effectively implemented."
+     "en": "Experts say only by avoiding food waste can water-saving policies be effectively implemented.",
+     "idn": "Para ahli mengatakan hanya dengan menghindari pemborosan makanan, kebijakan penghematan air bisa dijalankan secara efektif."
     }
    ],
    "stem": {
     "zh": "根據第一段，虛擬水這個概念主要在說明什麼？",
     "py": "Gēnjù dìyíduàn, xūnǐ shuǐ zhè ge gàiniàn zhǔyào zài shuōmíng shénme?",
-    "en": "According to the first paragraph, what does the concept of virtual water mainly explain?"
+    "en": "According to the first paragraph, what does the concept of virtual water mainly explain?",
+    "idn": "Menurut paragraf pertama, konsep air virtual terutama menjelaskan apa?"
    },
    "options": {
     "A": {
      "zh": "被消耗的水可以再度回收利用",
      "py": "Bèi xiāohào de shuǐ kěyǐ zàidù huíshōu lìyòng",
-     "en": "(A) Water that's been used can be recycled again."
+     "en": "(A) Water that's been used can be recycled again.",
+     "idn": "(A) Air yang sudah dipakai bisa didaur ulang lagi."
     },
     "B": {
      "zh": "一般產品的製造過程也需要水",
      "py": "Yìbān chǎnpǐn de zhìzào guòchéng yě xūyào shuǐ",
-     "en": "(B) Making ordinary products also requires water."
+     "en": "(B) Making ordinary products also requires water.",
+     "idn": "(B) Membuat produk biasa juga membutuhkan air."
     },
     "C": {
      "zh": "人們實際使用的水比想像中少",
      "py": "Rénmen shíjì shǐyòng de shuǐbǐ xiǎngxiàngzhōng shǎo",
-     "en": "(C) People actually use less water than imagined."
+     "en": "(C) People actually use less water than imagined.",
+     "idn": "(C) Manusia sebenarnya memakai lebih sedikit air daripada yang dibayangkan."
     },
     "D": {
      "zh": "利用科技尋找水資源的替代品",
      "py": "Lìyòng kējì xúnzhǎo shuǐzīyuán de tìdàipǐn",
-     "en": "(D) Using technology to find substitutes for water."
+     "en": "(D) Using technology to find substitutes for water.",
+     "idn": "(D) Memakai teknologi untuk mencari pengganti air."
     }
    }
   },
@@ -1623,28 +1910,33 @@
    "stem": {
     "zh": "根據第二段，氣候潮濕的國家如何運用水資源？",
     "py": "Gēnjù dì'èrduàn, qìhòu cháoshī de guójiā rúhé yùnyòng shuǐzīyuán?",
-    "en": "According to the second paragraph, how do countries with humid climates use water resources?"
+    "en": "According to the second paragraph, how do countries with humid climates use water resources?",
+    "idn": "Menurut paragraf kedua, bagaimana negara beriklim lembap memanfaatkan sumber daya air?"
    },
    "options": {
     "A": {
      "zh": "販售農產品",
      "py": "Fànshòu nóngchǎnpǐn",
-     "en": "(A) By selling agricultural products"
+     "en": "(A) By selling agricultural products",
+     "idn": "(A) Dengan menjual produk pertanian"
     },
     "B": {
      "zh": "大量外銷飲用水",
      "py": "Dàliàng wàixiāo yǐnyòngshuǐ",
-     "en": "(B) By exporting large amounts of drinking water"
+     "en": "(B) By exporting large amounts of drinking water",
+     "idn": "(B) Dengan mengekspor air minum dalam jumlah besar"
     },
     "C": {
      "zh": "進口大量的農作物",
      "py": "Jìnkǒu dàliàng de nóngzuòwù",
-     "en": "(C) By importing large amounts of crops"
+     "en": "(C) By importing large amounts of crops",
+     "idn": "(C) Dengan mengimpor tanaman pangan dalam jumlah besar"
     },
     "D": {
      "zh": "建立完善的灌溉系統",
      "py": "Jiànlì wánshàn de guàngàixìtǒng",
-     "en": "(D) By building complete irrigation systems"
+     "en": "(D) By building complete irrigation systems",
+     "idn": "(D) Dengan membangun sistem irigasi yang lengkap"
     }
    }
   },
@@ -1652,28 +1944,33 @@
    "stem": {
     "zh": "根據第二段，關於虛擬水的交易模式，下面哪一個是對的？",
     "py": "Gēnjù dì'èrduàn, guānyú xūnǐ shuǐ de jiāoyì móshì, xiàmiàn nǎ yí ge shì duì de?",
-    "en": "According to the second paragraph, which of the following about the virtual water trading model is correct?"
+    "en": "According to the second paragraph, which of the following about the virtual water trading model is correct?",
+    "idn": "Menurut paragraf kedua, manakah pernyataan tentang model perdagangan air virtual yang benar?"
    },
    "options": {
     "A": {
      "zh": "販賣能開發水資源的科技",
      "py": "Fànmài néng kāifā shuǐzīyuán de kējì",
-     "en": "(A) It sells technology for developing water resources."
+     "en": "(A) It sells technology for developing water resources.",
+     "idn": "(A) Menjual teknologi pengembangan sumber daya air."
     },
     "B": {
      "zh": "以農產品為媒介進行交易",
      "py": "Yǐ nóngchǎnpǐn wéi méijiè jìnxíng jiāoyì",
-     "en": "(B) Trade is conducted through agricultural products."
+     "en": "(B) Trade is conducted through agricultural products.",
+     "idn": "(B) Perdagangan dilakukan melalui produk pertanian."
     },
     "C": {
      "zh": "主要透過電腦網路進行交易",
      "py": "Zhǔyào tòuguò diànnǎo wǎnglù jìnxíng jiāoyì",
-     "en": "(C) Trade is mainly conducted over computer networks."
+     "en": "(C) Trade is mainly conducted over computer networks.",
+     "idn": "(C) Perdagangan terutama dilakukan lewat jaringan komputer."
     },
     "D": {
      "zh": "不需藉由其他商品進行交易",
      "py": "Bù xūjiè yóu qítā shāngpǐn jìnxíng jiāoyì",
-     "en": "(D) Trade doesn't need other goods as a medium."
+     "en": "(D) Trade doesn't need other goods as a medium.",
+     "idn": "(D) Perdagangan tidak membutuhkan barang lain sebagai perantara."
     }
    }
   },
@@ -1681,28 +1978,33 @@
    "stem": {
     "zh": "根據第三段，埃及為什麼使用進口糧食？",
     "py": "Gēnjù dìsānduàn, Āijí wèishénme shǐyòng jìnkǒu liángshí?",
-    "en": "According to the third paragraph, why does Egypt use imported grain?"
+    "en": "According to the third paragraph, why does Egypt use imported grain?",
+    "idn": "Menurut paragraf ketiga, mengapa Mesir memakai biji-bijian impor?"
    },
    "options": {
     "A": {
      "zh": "當地無法生產小麥",
      "py": "Dāngdì wúfǎ shēngchǎn xiǎomài",
-     "en": "(A) Wheat can't be grown there."
+     "en": "(A) Wheat can't be grown there.",
+     "idn": "(A) Gandum tidak bisa ditanam di sana."
     },
     "B": {
      "zh": "節省境內的用水量",
      "py": "Jiéshěng jìngnèi de yòngshuǐliàng",
-     "en": "(B) To save water within the country"
+     "en": "(B) To save water within the country",
+     "idn": "(B) Untuk menghemat air di dalam negeri"
     },
     "C": {
      "zh": "受傳統飲食習慣影響",
      "py": "Shòu chuántǒng yǐnshíxíguàn yǐngxiǎng",
-     "en": "(C) Influenced by traditional eating habits"
+     "en": "(C) Influenced by traditional eating habits",
+     "idn": "(C) Dipengaruhi kebiasaan makan tradisional"
     },
     "D": {
      "zh": "有足夠的水資源來進行交換",
      "py": "Yǒu zúgòu de shuǐzīyuán lái jìnxíng jiāohuàn",
-     "en": "(D) It has enough water to exchange."
+     "en": "(D) It has enough water to exchange.",
+     "idn": "(D) Punya cukup air untuk ditukar."
     }
    }
   },
@@ -1710,28 +2012,33 @@
    "stem": {
     "zh": "最後一段主要在說明什麼？",
     "py": "Zuìhòu yíduàn zhǔyào zài shuōmíng shénme?",
-    "en": "What does the last paragraph mainly explain?"
+    "en": "What does the last paragraph mainly explain?",
+    "idn": "Apa yang terutama dijelaskan paragraf terakhir?"
    },
    "options": {
     "A": {
      "zh": "如何改進糧食的生產過程",
      "py": "Rúhé gǎijìn liángshí de shēngchǎn guòchéng",
-     "en": "(A) How to improve the food production process"
+     "en": "(A) How to improve the food production process",
+     "idn": "(A) Cara memperbaiki proses produksi pangan"
     },
     "B": {
      "zh": "生產糧食有助於節省水資源",
      "py": "Shēngchǎn liángshí yǒuzhùyú jiéshěng shuǐzīyuán",
-     "en": "(B) Producing food helps save water."
+     "en": "(B) Producing food helps save water.",
+     "idn": "(B) Memproduksi pangan membantu menghemat air."
     },
     "C": {
      "zh": "浪費食物也就是浪費水資源",
      "py": "Làngfèi shíwù yě jiùshì làngfèi shuǐzīyuán",
-     "en": "(C) Wasting food is wasting water."
+     "en": "(C) Wasting food is wasting water.",
+     "idn": "(C) Membuang makanan berarti membuang air."
     },
     "D": {
      "zh": "水資源不足導致世界糧食缺乏",
      "py": "Shuǐzīyuán bùzú dǎozhì shìjiè liángshí quēfá",
-     "en": "(D) Water shortages cause world food shortages."
+     "en": "(D) Water shortages cause world food shortages.",
+     "idn": "(D) Kekurangan air menyebabkan kekurangan pangan dunia."
     }
    }
   },
@@ -1740,94 +2047,112 @@
     {
      "zh": "（九）",
      "py": "(Jiǔ)",
-     "en": "(9)"
+     "en": "(9)",
+     "idn": "(9)"
     },
     {
      "zh": "我的朋友老張買了份終身壽險、附加手術醫療保險，希望在有生之年若患病、遭逢意外時，能獲得醫療補助或理賠。",
      "py": "Wǒ de péngyǒu lǎozhāng mǎi le fèn zhōngshēn shòuxiǎn, fùjiā shǒushù yīliáobǎoxiǎn, xīwàng zài yǒushēngzhīnián ruò huànbìng, zāoféng yìwài shí, néng huòdé yīliáo bǔzhù huò lǐpéi.",
-     "en": "My friend Lao Zhang bought a whole-life insurance policy with surgical medical cover, hoping that if he fell ill or had an accident during his lifetime, he could get medical subsidies or compensation."
+     "en": "My friend Lao Zhang bought a whole-life insurance policy with surgical medical cover, hoping that if he fell ill or had an accident during his lifetime, he could get medical subsidies or compensation.",
+     "idn": "Teman saya, Lao Zhang, membeli polis asuransi jiwa seumur hidup dengan tambahan perlindungan biaya operasi, berharap kalau selama hidupnya dia sakit atau mengalami kecelakaan, dia bisa mendapat subsidi atau ganti rugi biaya pengobatan."
     },
     {
      "zh": "然而，前年老張因白內障而動手術，事後向保險公司申請保險金，卻被擋在門外。",
      "py": "Rán'ér, qiánnián lǎozhāng yīn báinèizhàng ér dòngshǒushù, shìhòu xiàng bǎoxiǎngōngsī shēnqǐng bǎoxiǎnjīn, què bèi dǎng zài ménwài.",
-     "en": "However, the year before last Lao Zhang had an operation for cataracts, and when he later applied to the insurance company for the payout, he was turned away."
+     "en": "However, the year before last Lao Zhang had an operation for cataracts, and when he later applied to the insurance company for the payout, he was turned away.",
+     "idn": "Namun, dua tahun lalu Lao Zhang menjalani operasi katarak, dan ketika kemudian mengajukan klaim ke perusahaan asuransi, dia ditolak."
     },
     {
      "zh": "保險專員表示，手術醫療被保險人在接受手術治療後，必須住在醫院始能獲得保險金，而張先生治療白內障屬於當天完成的手術，無法提供任何補助。",
      "py": "Bǎoxiǎn zhuānyuán biǎoshì, shǒushù yīliáo bèibǎoxiǎnrén zài jiēshòu shǒushù zhìliáo hòu, bìxū zhù zài yīyuàn shǐ néng huòdé bǎoxiǎnjīn, ér Zhāng xiānsheng zhìliáo báinèizhàng shǔyú dàngtiān wánchéng de shǒushù, wúfǎ tígōng rènhé bǔzhù.",
-     "en": "The insurance agent said that, under the surgical medical cover, the insured must be admitted to hospital after surgery to receive the payout, and Mr. Zhang's cataract treatment was day surgery, so no subsidy could be provided."
+     "en": "The insurance agent said that, under the surgical medical cover, the insured must be admitted to hospital after surgery to receive the payout, and Mr. Zhang's cataract treatment was day surgery, so no subsidy could be provided.",
+     "idn": "Agen asuransi mengatakan bahwa menurut ketentuan perlindungan biaya operasi, tertanggung harus dirawat inap setelah operasi untuk bisa mendapat pembayaran, sedangkan pengobatan katarak Tuan Zhang adalah operasi sehari (rawat jalan), sehingga tidak bisa diberikan subsidi."
     },
     {
      "zh": "老張對此當然忿忿不平，他認為，以往白內障手術的確得住院，不過現今醫學發達，手術完後即可離開，根本不必住院、浪費醫療資源！",
      "py": "Lǎozhāng duìcǐ dāngrán fènfènbùpíng, tā rènwéi, yǐwǎng báinèizhàng shǒushù díquè děi zhùyuàn, búguò xiànjīn yīxué fādá, shǒushù wán hòu jíkě líkāi, gēnběn búbì zhùyuàn, làngfèi yīliáo zīyuán!",
-     "en": "Lao Zhang was naturally indignant. He argued that cataract surgery used to require hospitalization, but with today's advanced medicine you can leave right after the operation—there's no need to be admitted and waste medical resources!"
+     "en": "Lao Zhang was naturally indignant. He argued that cataract surgery used to require hospitalization, but with today's advanced medicine you can leave right after the operation—there's no need to be admitted and waste medical resources!",
+     "idn": "Lao Zhang tentu saja geram. Dia berargumen bahwa dulu operasi katarak memang harus rawat inap, tetapi dengan kemajuan medis sekarang bisa langsung pulang setelah operasi—tidak perlu dirawat inap dan membuang sumber daya medis!"
     },
     {
      "zh": "老張於是向保險事業發展中心提出申訴，希望透過合法途徑獲得理賠。",
      "py": "Lǎozhāng yúshì xiàng bǎoxiǎn shìyè fāzhǎn zhōngxīn tíchū shēnsù, xīwàng tòuguò héfǎ tújìng huòdé lǐpéi.",
-     "en": "So Lao Zhang filed a complaint with the Insurance Development Center, hoping to get compensation through legal channels."
+     "en": "So Lao Zhang filed a complaint with the Insurance Development Center, hoping to get compensation through legal channels.",
+     "idn": "Maka Lao Zhang mengajukan pengaduan ke Pusat Pengembangan Asuransi, berharap mendapat ganti rugi melalui jalur hukum."
     },
     {
      "zh": "保險事業發展中心認為，老張確實沒住院，也無需住院，手術實際狀況不符條款約定要件而未獲給付，依約保險公司並無推諉塞責的情況，老張在這場抗爭中其實站不住腳。",
      "py": "Bǎoxiǎn shìyè fāzhǎn zhōngxīn rènwéi, lǎozhāng quèshí méi zhùyuàn, yě wúxū zhùyuàn, shǒushù shíjì zhuàngkuàng bùfú tiáokuǎn yuēdìng yàojiàn ér wèihuò jǐfù, yīyuē bǎoxiǎngōngsī bìng wú tuīwěi sèzé de qíngkuàng, lǎozhāng zài zhèchǎng Kàngzhēng zhōng qíshí zhànbúzhùjiǎo.",
-     "en": "The Insurance Development Center found that Lao Zhang indeed wasn't hospitalized and didn't need to be, the actual circumstances of the surgery didn't meet the conditions in the policy, so no payment was made; under the contract the insurance company hadn't shirked responsibility, and Lao Zhang actually had no leg to stand on in this dispute."
+     "en": "The Insurance Development Center found that Lao Zhang indeed wasn't hospitalized and didn't need to be, the actual circumstances of the surgery didn't meet the conditions in the policy, so no payment was made; under the contract the insurance company hadn't shirked responsibility, and Lao Zhang actually had no leg to stand on in this dispute.",
+     "idn": "Pusat Pengembangan Asuransi menemukan bahwa Lao Zhang memang tidak dirawat inap dan tidak perlu dirawat inap, kondisi operasinya tidak sesuai dengan syarat dalam polis, sehingga tidak ada pembayaran; menurut kontrak, perusahaan asuransi tidak lepas tanggung jawab, dan Lao Zhang sebenarnya tidak punya dasar yang kuat dalam sengketa ini."
     },
     {
      "zh": "老張不服申訴結果，故透過網路散播不利於保險公司的評論。",
      "py": "Lǎozhāng bùfú shēnsù jiéguǒ, gù tòuguò wǎnglù sànbō búlìyú bǎoxiǎngōngsī de pínglùn.",
-     "en": "Lao Zhang didn't accept the result of the complaint, so he spread comments online unfavorable to the insurance company."
+     "en": "Lao Zhang didn't accept the result of the complaint, so he spread comments online unfavorable to the insurance company.",
+     "idn": "Lao Zhang tidak menerima hasil pengaduan itu, lalu menyebarkan komentar yang merugikan perusahaan asuransi di internet."
     },
     {
      "zh": "爾後，保險公司針對老張的這些言論提出惡意誹謗的控訴。",
      "py": "Ěrhòu, bǎoxiǎngōngsī zhēnduì lǎozhāng de zhèxiē yánlùn tíchū èyì fěibàng de kòngsù.",
-     "en": "Afterwards, the insurance company sued him for malicious defamation over these remarks."
+     "en": "Afterwards, the insurance company sued him for malicious defamation over these remarks.",
+     "idn": "Setelah itu, perusahaan asuransi menggugatnya atas pencemaran nama baik karena ucapan-ucapan tersebut."
     },
     {
      "zh": "如此一來一往，造成兩敗俱傷。",
      "py": "Rúcǐ yìláiyìwǎng, zàochéng liǎngbàijùshāng.",
-     "en": "This back and forth left both sides harmed."
+     "en": "This back and forth left both sides harmed.",
+     "idn": "Tarik-menarik ini membuat kedua pihak sama-sama dirugikan."
     },
     {
      "zh": "我認為保險公司堅守合約條款，對，也不對。",
      "py": "Wǒ rènwéi bǎoxiǎngōngsī jiānshǒu héyuē tiáokuǎn, duì, yě bú duì.",
-     "en": "I think the insurance company sticking to the terms of the contract is both right and wrong."
+     "en": "I think the insurance company sticking to the terms of the contract is both right and wrong.",
+     "idn": "Menurut saya, perusahaan asuransi yang berpegang teguh pada isi kontrak itu benar sekaligus salah."
     },
     {
      "zh": "也許在「理」方面確實站得住腳，然而，站在「情」方面未免有失人情味、過於冷血。",
      "py": "Yěxǔ zài “Lǐ” fāngmiàn quèshí zhàndézhùjiǎo, rán'ér, zhàn zài “Qíng” fāngmiàn wèimiǎn yǒushī rénqíngwèi, guòyú lěngxuè.",
-     "en": "Perhaps in terms of \"reason\" it's on solid ground, but in terms of \"human feeling\" it's rather lacking in warmth and too cold-blooded."
+     "en": "Perhaps in terms of \"reason\" it's on solid ground, but in terms of \"human feeling\" it's rather lacking in warmth and too cold-blooded.",
+     "idn": "Mungkin dari segi \"nalar\" posisinya kuat, tetapi dari segi \"rasa kemanusiaan\" kurang hangat dan terlalu dingin."
     },
     {
      "zh": "保險公司應該將眼光放遠，網開一面，與當事人溝通協調，最好能主動提供些微補助，如能不拘泥於明文規定，我相信定能提升自身形象，也能使人受惠、創造雙贏。",
      "py": "Bǎoxiǎngōngsī yīnggāi jiāng yǎnguāng Fàngyuǎn, wǎngkāiyímiàn, yǔ dāngshìrén gōutōng xiétiáo, zuìhǎo néng zhǔdòng tígōng xiēwēi bǔzhù, rú néng bù jūnìyú míngwénguīdìng, wǒ xiāngxìn dìng néng tíshēng zìshēn xíngxiàng, yě néng shǐ rén shòuhuì, chuàngzào Shuāngyíng.",
-     "en": "The insurance company should take the long view, show some leniency, communicate and negotiate with the person concerned, and ideally offer a small subsidy on its own initiative. If it didn't stick so rigidly to the written rules, I believe it would certainly improve its image, benefit people and create a win-win."
+     "en": "The insurance company should take the long view, show some leniency, communicate and negotiate with the person concerned, and ideally offer a small subsidy on its own initiative. If it didn't stick so rigidly to the written rules, I believe it would certainly improve its image, benefit people and create a win-win.",
+     "idn": "Perusahaan asuransi sebaiknya berpandangan jauh, sedikit melonggarkan, berkomunikasi dan bernegosiasi dengan yang bersangkutan, bahkan sebaiknya berinisiatif memberi sedikit subsidi. Kalau tidak terlalu kaku berpegang pada aturan tertulis, saya yakin hal itu pasti meningkatkan citranya, bermanfaat bagi orang, dan menciptakan situasi saling menguntungkan."
     }
    ],
    "stem": {
     "zh": "如果要在第一段的空格中插入一段話，下列何者最適合？",
     "py": "Rúguǒ yào zài dìyíduàn de kònggé zhōng chārù yíduànhuà, xiàliè hézhě zuì shìhé?",
-    "en": "If a sentence were to be inserted into the blank in the first paragraph, which would be most suitable?"
+    "en": "If a sentence were to be inserted into the blank in the first paragraph, which would be most suitable?",
+    "idn": "Jika sebuah kalimat hendak disisipkan ke bagian kosong di paragraf pertama, manakah yang paling cocok?"
    },
    "options": {
     "A": {
      "zh": "有些人不願意買保險，他們認為自己健康無虞。",
      "py": "Yǒuxiē rén bú yuànyì mǎi bǎoxiǎn, tāmen rènwéi zìjǐ jiànkāng Wúyú.",
-     "en": "(A) Some people don't want to buy insurance; they think they're perfectly healthy."
+     "en": "(A) Some people don't want to buy insurance; they think they're perfectly healthy.",
+     "idn": "(A) Ada orang yang tidak mau membeli asuransi; mereka merasa dirinya sehat walafiat."
     },
     "B": {
      "zh": "不過，保險公司事後總有一些推託之詞，拒絕理賠。",
      "py": "Búguò, bǎoxiǎngōngsī shìhòu zǒng yǒu yìxiē tuītuōzhīcí, jùjué lǐpéi.",
-     "en": "(B) However, insurance companies always have some excuse afterwards to refuse to pay."
+     "en": "(B) However, insurance companies always have some excuse afterwards to refuse to pay.",
+     "idn": "(B) Namun, perusahaan asuransi selalu punya alasan setelahnya untuk menolak membayar."
     },
     "C": {
      "zh": "這些保險條款在制定時，難免會有一些不可避免的缺失。",
      "py": "Zhèxiē bǎoxiǎntiáokuǎn zài zhìdìng shí, nánmiǎnhuì yǒu yìxiē bùkěbìmiǎn de quēshī.",
-     "en": "(C) When these policy terms are drawn up, some shortcomings are inevitable."
+     "en": "(C) When these policy terms are drawn up, some shortcomings are inevitable.",
+     "idn": "(C) Saat ketentuan polis ini disusun, beberapa kekurangan memang tak terhindarkan."
     },
     "D": {
      "zh": "保險人的想法其實大同小異，都希望買份保障、買份心安。",
      "py": "Bǎoxiǎnrén de xiǎngfǎ qíshí dàtóngxiǎoyì, dōu xīwàng mǎifèn bǎozhàng, mǎifèn xīn'ān.",
-     "en": "(D) Policyholders all think much the same: they want to buy protection and peace of mind."
+     "en": "(D) Policyholders all think much the same: they want to buy protection and peace of mind.",
+     "idn": "(D) Pemegang polis berpikiran kurang lebih sama: mereka ingin membeli perlindungan dan ketenangan."
     }
    }
   },
@@ -1835,28 +2160,33 @@
    "stem": {
     "zh": "根據第二段，老張的立場是什麼？",
     "py": "Gēnjù dì'èrduàn, lǎozhāng de lìchǎng shì shénme?",
-    "en": "According to the second paragraph, what is Lao Zhang's position?"
+    "en": "According to the second paragraph, what is Lao Zhang's position?",
+    "idn": "Menurut paragraf kedua, bagaimana posisi Lao Zhang?"
    },
    "options": {
     "A": {
      "zh": "院方不應省略關鍵的醫療過程",
      "py": "Yuànfāng bù yīng shěnglüè guānjiàn de yīliáo guòchéng",
-     "en": "(A) The hospital shouldn't skip key medical procedures."
+     "en": "(A) The hospital shouldn't skip key medical procedures.",
+     "idn": "(A) Rumah sakit tidak boleh menghilangkan prosedur medis yang penting."
     },
     "B": {
      "zh": "院方得如實告知病患住院費用",
      "py": "Yuànfāng děi rúshí gàozhī bìnghuàn zhùyuànfèiyòng",
-     "en": "(B) The hospital must truthfully tell patients the hospitalization costs."
+     "en": "(B) The hospital must truthfully tell patients the hospitalization costs.",
+     "idn": "(B) Rumah sakit harus memberi tahu pasien biaya rawat inap dengan jujur."
     },
     "C": {
      "zh": "保險公司不應只考量病患住院與否",
      "py": "Bǎoxiǎngōngsī bùyīng zhǐ kǎoliáng bìnghuàn zhùyuàn yǔfǒu",
-     "en": "(C) The insurance company shouldn't consider only whether the patient was hospitalized."
+     "en": "(C) The insurance company shouldn't consider only whether the patient was hospitalized.",
+     "idn": "(C) Perusahaan asuransi tidak seharusnya hanya mempertimbangkan apakah pasien dirawat inap."
     },
     "D": {
      "zh": "保險公司須依住院的天數提供補助",
      "py": "Bǎoxiǎngōngsī Xūyī zhùyuàn de tiānshù tígōng bǔzhù",
-     "en": "(D) The insurance company must provide subsidies according to the number of days in hospital."
+     "en": "(D) The insurance company must provide subsidies according to the number of days in hospital.",
+     "idn": "(D) Perusahaan asuransi harus memberi subsidi sesuai jumlah hari rawat inap."
     }
    }
   },
@@ -1864,28 +2194,33 @@
    "stem": {
     "zh": "第三段的「老張在這場抗爭中其實站不住腳」是什麼意思？",
     "py": "Dìsānduàn de “Lǎozhāng zài zhèchǎng Kàngzhēng zhōng qíshí zhànbúzhùjiǎo” shì shénme yìsi?",
-    "en": "What does \"Lao Zhang actually had no leg to stand on in this dispute\" in the third paragraph mean?"
+    "en": "What does \"Lao Zhang actually had no leg to stand on in this dispute\" in the third paragraph mean?",
+    "idn": "Apa arti \"Lao Zhang sebenarnya tidak punya dasar yang kuat dalam sengketa ini\" di paragraf ketiga?"
    },
    "options": {
     "A": {
      "zh": "老張失去了對抗此事的勇氣",
      "py": "Lǎozhāng shīqù le duìkàng cǐshì de yǒngqì",
-     "en": "(A) Lao Zhang lost the courage to fight this matter."
+     "en": "(A) Lao Zhang lost the courage to fight this matter.",
+     "idn": "(A) Lao Zhang kehilangan keberanian memperjuangkan hal ini."
     },
     "B": {
      "zh": "老張對此事早有萬全的準備",
      "py": "Lǎozhāng duì cǐshì zǎo yǒu Wànquán de zhǔnbèi",
-     "en": "(B) Lao Zhang had long been fully prepared for this."
+     "en": "(B) Lao Zhang had long been fully prepared for this.",
+     "idn": "(B) Lao Zhang sudah lama bersiap penuh untuk hal ini."
     },
     "C": {
      "zh": "老張沒有足夠的理由說服他人",
      "py": "Lǎozhāng méiyǒu zúgòu de lǐyóu shuōfú tārén",
-     "en": "(C) Lao Zhang didn't have enough grounds to convince others."
+     "en": "(C) Lao Zhang didn't have enough grounds to convince others.",
+     "idn": "(C) Lao Zhang tidak punya alasan yang cukup untuk meyakinkan orang lain."
     },
     "D": {
      "zh": "老張推卸了自己應負擔的責任",
      "py": "Lǎozhāng tuīxiè le zìjǐ yīng fùdān de zérèn",
-     "en": "(D) Lao Zhang shirked the responsibility he should have borne."
+     "en": "(D) Lao Zhang shirked the responsibility he should have borne.",
+     "idn": "(D) Lao Zhang lari dari tanggung jawab yang seharusnya dia tanggung."
     }
    }
   },
@@ -1893,28 +2228,33 @@
    "stem": {
     "zh": "保險公司的立場是什麼？",
     "py": "Bǎoxiǎngōngsī de lìchǎng shì shénme?",
-    "en": "What is the insurance company's position?"
+    "en": "What is the insurance company's position?",
+    "idn": "Bagaimana posisi perusahaan asuransi?"
    },
    "options": {
     "A": {
      "zh": "始終認為保險人浪費醫療資源",
      "py": "Shǐzhōngrènwéi bǎoxiǎnrén làngfèi yīliáo zīyuán",
-     "en": "(A) It always maintained that the policyholder wasted medical resources."
+     "en": "(A) It always maintained that the policyholder wasted medical resources.",
+     "idn": "(A) Selalu menganggap pemegang polis membuang sumber daya medis."
     },
     "B": {
      "zh": "始終堅持依循保險合約的內容",
      "py": "Shǐzhōng jiānchí yīxún bǎoxiǎn héyuē de nèiróng",
-     "en": "(B) It always insisted on following the contents of the insurance contract."
+     "en": "(B) It always insisted on following the contents of the insurance contract.",
+     "idn": "(B) Selalu bersikeras mengikuti isi kontrak asuransi."
     },
     "C": {
      "zh": "後來願意理賠部分條款的金額",
      "py": "Hòulái yuànyì lǐpéi bùfèn tiáokuǎn de jīn'é",
-     "en": "(C) It later agreed to pay the amount for some of the terms."
+     "en": "(C) It later agreed to pay the amount for some of the terms.",
+     "idn": "(C) Kemudian setuju membayar jumlah untuk sebagian ketentuan."
     },
     "D": {
      "zh": "後來同意保險合約確實不通人情",
      "py": "Hòulái tóngyì bǎoxiǎn héyuē quèshí bùtōngrénqíng",
-     "en": "(D) It later agreed that the insurance contract was indeed heartless."
+     "en": "(D) It later agreed that the insurance contract was indeed heartless.",
+     "idn": "(D) Kemudian mengakui bahwa kontrak asuransi memang tidak berperasaan."
     }
    }
   },
@@ -1922,28 +2262,33 @@
    "stem": {
     "zh": "根據最後一段，作者認為保險公司怎麼樣？",
     "py": "Gēnjù zuìhòu yíduàn, zuòzhě rènwéi bǎoxiǎngōngsī zěnmeyàng?",
-    "en": "According to the last paragraph, what does the author think of the insurance company?"
+    "en": "According to the last paragraph, what does the author think of the insurance company?",
+    "idn": "Menurut paragraf terakhir, bagaimana pendapat penulis tentang perusahaan asuransi?"
    },
    "options": {
     "A": {
      "zh": "太不留情面",
      "py": "Tài bùliúqíngmiàn",
-     "en": "(A) It's too unforgiving."
+     "en": "(A) It's too unforgiving.",
+     "idn": "(A) Terlalu tidak kenal ampun."
     },
     "B": {
      "zh": "不應避不見面",
      "py": "Bù yīng bìbújiànmiàn",
-     "en": "(B) It shouldn't avoid meeting people."
+     "en": "(B) It shouldn't avoid meeting people.",
+     "idn": "(B) Tidak seharusnya menghindar bertemu orang."
     },
     "C": {
      "zh": "應提供全額理賠",
      "py": "Yīng tígōng quán'é lǐpéi",
-     "en": "(C) It should pay the full amount."
+     "en": "(C) It should pay the full amount.",
+     "idn": "(C) Seharusnya membayar penuh."
     },
     "D": {
      "zh": "做法不合情、理",
      "py": "Zuòfǎ bùhé qíng, lǐ",
-     "en": "(D) Its approach is neither reasonable nor humane."
+     "en": "(D) Its approach is neither reasonable nor humane.",
+     "idn": "(D) Caranya tidak masuk akal dan tidak manusiawi."
     }
    }
   },
@@ -1951,28 +2296,33 @@
    "stem": {
     "zh": "下列哪一個最適合做為本文標題？",
     "py": "Xiàliè nǎ yí ge zuì shìhé zuò wèi běnwén biāotí?",
-    "en": "Which of the following is most suitable as the title of this article?"
+    "en": "Which of the following is most suitable as the title of this article?",
+    "idn": "Manakah yang paling cocok sebagai judul artikel ini?"
    },
    "options": {
     "A": {
      "zh": "白紙黑字外的彈性空間",
      "py": "Báizhǐhēizì wài de tánxìng kōngjiān",
-     "en": "(A) Room for flexibility beyond black and white"
+     "en": "(A) Room for flexibility beyond black and white",
+     "idn": "(A) Ruang kelonggaran di luar hitam dan putih"
     },
     "B": {
      "zh": "小蝦米吃大鯨魚的成功案例",
      "py": "Xiǎoxiāmǐ chīdà jīngyú de chénggōng ànlì",
-     "en": "(B) A success story of the little shrimp eating the big whale"
+     "en": "(B) A success story of the little shrimp eating the big whale",
+     "idn": "(B) Kisah sukses udang kecil menelan paus besar"
     },
     "C": {
      "zh": "上樑不正、下樑歪的實際案例",
      "py": "Shàngliángbúzhèng, xià liáng wāi de shíjì ànlì",
-     "en": "(C) A real case of \"when the upper beam is crooked, the lower ones are too\""
+     "en": "(C) A real case of \"when the upper beam is crooked, the lower ones are too\"",
+     "idn": "(C) Kasus nyata \"kalau atasan bengkok, bawahan pun bengkok\""
     },
     "D": {
      "zh": "第三者居中協調才能獲得雙贏",
      "py": "Dìsānzhě jūzhōng xiétiáo cáinéng huòdé Shuāngyíng",
-     "en": "(D) Only mediation by a third party can achieve a win-win"
+     "en": "(D) Only mediation by a third party can achieve a win-win",
+     "idn": "(D) Hanya mediasi pihak ketiga yang bisa menciptakan situasi saling menguntungkan"
     }
    }
   }
