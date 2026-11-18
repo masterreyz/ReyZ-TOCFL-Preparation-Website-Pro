@@ -104,7 +104,9 @@ def lines(sec, t, d):
         sub = it.get("subs", {}).get(str(q.get("sub", 1)), {})
         if sub.get("stem"):
             items.append((q["n"], "stem", None, sub["stem"]))
-        for L, z in sorted(sub.get("options", {}).items()):
+        opts = dict(it.get("subs", {}).get("*", {}).get("options", {}))
+        opts.update(sub.get("options", {}))
+        for L, z in sorted(opts.items()):
             items.append((q["n"], "option", L, z))
     return items
 
@@ -181,7 +183,7 @@ def apply(sec, tsv):
 
 def load_items(sec, path):
     """Transcription file: '@<item>' starts an item; 'P: zh' passage line; 'I: zh' text printed inside the picture; 'S<k>: zh' stem of sub-question k;
-    '<A-D><k>: zh' option of sub-question k. Replaces earlier entries for the same item."""
+    '<A-F><k>: zh' option of sub-question k ('<A-F>*' = shared by every sub-question). Replaces earlier entries for the same item."""
     d = load(sec)
     cur = None
     for ln in Path(path).read_text(encoding="utf-8").splitlines():
@@ -191,7 +193,7 @@ def load_items(sec, path):
         if ln.startswith("@"):
             cur = d["items"][ln[1:].strip()] = {"image": [], "passage": [], "subs": {}}
             continue
-        m = re.match(r"^(P|I|S\d+|[A-D]\d+):\s?(.*)$", ln)
+        m = re.match(r"^(P|I|S\d+|[A-F](?:\d+|\*)):\s?(.*)$", ln)
         if not m or cur is None:
             raise SystemExit(f"bad line: {ln}")
         tag, zh = m.groups()
