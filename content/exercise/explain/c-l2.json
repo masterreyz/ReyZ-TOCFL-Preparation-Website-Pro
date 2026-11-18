@@ -2,78 +2,91 @@
  "testId": "c-l2",
  "segments": 463,
  "englishComplete": true,
- "indonesianComplete": false,
+ "indonesianComplete": true,
  "questions": {
   "1": {
    "options": {
     "A": {
      "zh": "頗有微詞",
      "py": "Pǒ yǒu wēicí",
-     "en": "(A) Has some criticism"
+     "en": "(A) Has some criticism",
+     "idn": "(A) Punya sedikit kritik"
     },
     "B": {
      "zh": "非常贊同",
      "py": "Fēicháng zàntóng",
-     "en": "(B) Strongly agrees"
+     "en": "(B) Strongly agrees",
+     "idn": "(B) Sangat setuju"
     },
     "C": {
      "zh": "能夠理解",
      "py": "Nénggòu lǐjiě",
-     "en": "(C) Can understand"
+     "en": "(C) Can understand",
+     "idn": "(C) Bisa memahami"
     },
     "D": {
      "zh": "強烈反對",
      "py": "Qiángliè fǎnduì",
-     "en": "(D) Strongly opposes"
+     "en": "(D) Strongly opposes",
+     "idn": "(D) Sangat menentang"
     }
    },
    "intro": [
     {
      "zh": "請聽這段對話，然後回答下面兩個問題。",
      "py": "Qǐng tīng zhèduàn duìhuà, ránhòu huídá xiàmiàn liǎng ge wèntí.",
-     "en": "Listen to this conversation and then answer the two questions below."
+     "en": "Listen to this conversation and then answer the two questions below.",
+     "idn": "Dengarkan percakapan ini, lalu jawab dua pertanyaan di bawah."
     },
     {
      "zh": "男：咦，我聽說小王又換工作了？",
      "py": "Nán: Yí, wǒ tīngshuō Xiǎowáng yòu huàn gōngzuò le?",
-     "en": "Man: Hey, I heard Xiao Wang has changed jobs again?"
+     "en": "Man: Hey, I heard Xiao Wang has changed jobs again?",
+     "idn": "Pria: Hei, saya dengar Xiao Wang ganti kerja lagi?"
     },
     {
      "zh": "女：他啊！簡直把跳槽當成家常便飯。仗著自己學歷高，只要稍不如意，就把老",
      "py": "Nǚ: Tā a! Jiǎnzhí bǎ tiàocáo dàngchéng jiāchángbiànfàn. Zhàng zhe zìjǐ xuélì gāo, zhǐyào shāo bùrúyì, jiù bǎ lǎo",
-     "en": "Woman: Him! He treats job-hopping as an everyday thing. Relying on his high qualifications, the moment anything isn't to his liking, he fires his"
+     "en": "Woman: Him! He treats job-hopping as an everyday thing. Relying on his high qualifications, the moment anything isn't to his liking, he fires his",
+     "idn": "Wanita: Dia! Dia menganggap pindah kerja sebagai hal sehari-hari. Mengandalkan ijazahnya yang tinggi, begitu ada yang tidak berkenan, dia langsung \"memecat\""
     },
     {
      "zh": "闆炒魷魚。",
      "py": "Bǎn chǎoyóuyú.",
-     "en": "boss."
+     "en": "boss.",
+     "idn": "atasannya."
     },
     {
      "zh": "男：他是有一點自視甚高，但是，正所謂人往高處爬，水往低處流嘛，這也無可",
      "py": "Nán: Tā shì yǒu yìdiǎn zìshìshèngāo, dànshì, zhèng suǒwèi rén wǎng gāochù pá, shuǐ wǎng dīchù liú ma, zhè yě wúkě",
-     "en": "Man: He does think rather highly of himself, but as the saying goes, people climb upward and water flows downward—you can't really"
+     "en": "Man: He does think rather highly of himself, but as the saying goes, people climb upward and water flows downward—you can't really",
+     "idn": "Pria: Dia memang agak tinggi hati, tapi seperti kata pepatah, manusia naik ke atas dan air mengalir ke bawah—kamu tidak bisa sepenuhnya"
     },
     {
      "zh": "厚非吧！",
      "py": "Hòufēi ba!",
-     "en": "blame him!"
+     "en": "blame him!",
+     "idn": "menyalahkannya!"
     },
     {
      "zh": "女：幹我們這一行的，學歷和背景都不重要，經驗與人脈的經營才是最大的本錢。",
      "py": "Nǚ: Gàn wǒmen zhè yìxíng de, xuélì hé bèijǐng dōu bú zhòngyào, jīngyàn yǔ rénmài de jīngyíng cái shì zuìdà de běnqián.",
-     "en": "Woman: In our line of work, qualifications and background don't matter; experience and building connections are the biggest assets."
+     "en": "Woman: In our line of work, qualifications and background don't matter; experience and building connections are the biggest assets.",
+     "idn": "Wanita: Di bidang kita, ijazah dan latar belakang tidak penting; pengalaman dan membangun relasi adalah modal terbesar."
     },
     {
      "zh": "他再這樣下去，想出人頭地根本是痴人說夢。",
      "py": "Tā zài zhèyàng xiàqù, xiǎng chūréntóudì gēnběn shì chīrénshuōmèng.",
-     "en": "If he carries on like this, hoping to make his mark is just a pipe dream."
+     "en": "If he carries on like this, hoping to make his mark is just a pipe dream.",
+     "idn": "Kalau dia terus begini, berharap bisa menonjol hanyalah mimpi di siang bolong."
     }
    ],
    "transcript": [
     {
      "zh": "這位先生對小王換工作這件事有什麼看法？",
      "py": "Zhèwèi xiānsheng duì xiǎowáng huàn gōngzuò zhèjiàn shì yǒu shénme kànfǎ?",
-     "en": "What does the man think about Xiao Wang changing jobs?"
+     "en": "What does the man think about Xiao Wang changing jobs?",
+     "idn": "Bagaimana pendapat pria itu tentang Xiao Wang yang berganti kerja?"
     }
    ]
   },
@@ -82,29 +95,34 @@
     "A": {
      "zh": "沒有穩定收入",
      "py": "Méiyǒu wěndìng shōurù",
-     "en": "(A) No stable income"
+     "en": "(A) No stable income",
+     "idn": "(A) Tidak ada penghasilan tetap"
     },
     "B": {
      "zh": "無法累積經驗",
      "py": "Wúfǎ lěijī jīngyàn",
-     "en": "(B) He can't accumulate experience."
+     "en": "(B) He can't accumulate experience.",
+     "idn": "(B) Dia tidak bisa mengumpulkan pengalaman."
     },
     "C": {
      "zh": "沒有升遷的機會",
      "py": "Méiyǒu shēngqiān de jīhuì",
-     "en": "(C) No chance of promotion"
+     "en": "(C) No chance of promotion",
+     "idn": "(C) Tidak ada peluang naik jabatan"
     },
     "D": {
      "zh": "無法獲得老闆信任",
      "py": "Wúfǎ huòdé lǎobǎn xìnrèn",
-     "en": "(D) He can't win his boss's trust."
+     "en": "(D) He can't win his boss's trust.",
+     "idn": "(D) Dia tidak bisa mendapat kepercayaan atasan."
     }
    },
    "transcript": [
     {
      "zh": "這位小姐認為小王老是換工作的壞處是什麼？",
      "py": "Zhèwèi Xiǎojiě rènwéi Xiǎowáng lǎo shì huàn gōngzuò de huàichù shì shénme?",
-     "en": "What does the woman think is the downside of Xiao Wang always changing jobs?"
+     "en": "What does the woman think is the downside of Xiao Wang always changing jobs?",
+     "idn": "Menurut wanita itu, apa kerugian Xiao Wang yang selalu berganti kerja?"
     }
    ]
   },
@@ -113,76 +131,90 @@
     "A": {
      "zh": "他會多給一點報酬",
      "py": "Tā huì duō gěi yìdiǎn bàochóu",
-     "en": "(A) He'll pay a bit more."
+     "en": "(A) He'll pay a bit more.",
+     "idn": "(A) Dia akan membayar sedikit lebih banyak."
     },
     "B": {
      "zh": "能做這案子的大有人在",
      "py": "Néng zuò zhè ànzi de dàyǒurénzài",
-     "en": "(B) There are plenty of people who could do this project."
+     "en": "(B) There are plenty of people who could do this project.",
+     "idn": "(B) Banyak orang yang bisa mengerjakan proyek ini."
     },
     "C": {
      "zh": "能接他的工作是件體面的事",
      "py": "Néngjiē tā de gōngzuò shì jiàn tǐmiàn de shì",
-     "en": "(C) Taking on his work is something to be proud of."
+     "en": "(C) Taking on his work is something to be proud of.",
+     "idn": "(C) Mengerjakan pekerjaannya adalah hal yang patut dibanggakan."
     },
     "D": {
      "zh": "這位小姐應該推掉其他的案子",
      "py": "Zhèwèi Xiǎojiě yīnggāi tuīdiào qítā de ànzi",
-     "en": "(D) The woman should turn down her other projects."
+     "en": "(D) The woman should turn down her other projects.",
+     "idn": "(D) Wanita itu sebaiknya menolak proyek-proyeknya yang lain."
     }
    },
    "intro": [
     {
      "zh": "請聽這段對話，然後回答下面兩個問題。",
      "py": "Qǐng tīng zhèduàn duìhuà, ránhòu huídá xiàmiàn liǎng ge wèntí.",
-     "en": "Listen to this conversation and then answer the two questions below."
+     "en": "Listen to this conversation and then answer the two questions below.",
+     "idn": "Dengarkan percakapan ini, lalu jawab dua pertanyaan di bawah."
     },
     {
      "zh": "女：喂，林老闆，您好、您好。我先前提過，9 月和 10 月，這兩個月我們這兒",
      "py": "Nǚ: Wèi, lín lǎobǎn, nínhǎo, nínhǎo. Wǒ xiān qiántí guò, 9 yuè hé 10 yuè, zhè liǎng ge yuè wǒmen zhèr",
-     "en": "Woman: Hello, Mr. Lin, hello. As I mentioned before, in September and October we really can't spare anyone here"
+     "en": "Woman: Hello, Mr. Lin, hello. As I mentioned before, in September and October we really can't spare anyone here",
+     "idn": "Wanita: Halo, Pak Lin, halo. Seperti yang sudah saya sampaikan, pada bulan September dan Oktober kami benar-benar tidak punya orang"
     },
     {
      "zh": "真抽不開身處理您的案子。",
      "py": "Zhēn chōu bù kāishēn chǔlǐ nín de ànzi.",
-     "en": "to handle your project."
+     "en": "to handle your project.",
+     "idn": "untuk mengerjakan proyek Bapak."
     },
     {
      "zh": "男：我知道，可是能不能大家一起想個法子呢？我這案子不給你們做，你要我上",
      "py": "Nán: Wǒ zhīdào, kěshì néng bùnéng dàjiā yìqǐ xiǎng gè fǎzi ne? Wǒ zhè ànzi bù gěi nǐmen zuò, nǐ yào wǒ shàng",
-     "en": "Man: I know, but can't we all think of a way together? If I don't give this project to you, where am I supposed"
+     "en": "Man: I know, but can't we all think of a way together? If I don't give this project to you, where am I supposed",
+     "idn": "Pria: Saya tahu, tapi tidak bisakah kita sama-sama mencari jalan? Kalau proyek ini tidak saya serahkan kepada kalian, ke mana lagi saya harus"
     },
     {
      "zh": "哪兒找人啊！你放心，該給的，只會多不會少。",
      "py": "Nǎr zhǎo rén a! Nǐ fàngxīn, gāi gěi de, zhǐ huì duō búhuì shǎo.",
-     "en": "to find someone? Don't worry—you'll get what's due, more if anything, not less."
+     "en": "to find someone? Don't worry—you'll get what's due, more if anything, not less.",
+     "idn": "mencari orang? Jangan khawatir—yang menjadi hak kalian akan kalian terima, malah lebih, tidak kurang."
     },
     {
      "zh": "女：喔，林老闆，大家往來那麼久了，您的面子一定得給，這樣好不好，9 月、",
      "py": "Nǚ: Ō, lín lǎobǎn, dàjiā wǎnglái nàme jiǔ le, nín de miànzi yídìng dégěi, zhèyàng hǎobùhǎo, 9 yuè,",
-     "en": "Woman: Oh, Mr. Lin, we've worked together so long, I must give you face. How about this: in September"
+     "en": "Woman: Oh, Mr. Lin, we've worked together so long, I must give you face. How about this: in September",
+     "idn": "Wanita: Aduh, Pak Lin, kita sudah lama bekerja sama, saya harus memberi muka kepada Bapak. Begini saja: pada bulan September"
     },
     {
      "zh": "10 月這兩個月，我這邊做多少算多少，11 月起，一定給您趕工，緊趕慢趕",
      "py": "10 yuè zhè liǎng ge yuè, wǒ zhèbiān zuò duōshǎo suàn duōshǎo, 11 yuè qǐ, yídìng gěi nín gǎngōng, jǐn gǎnmàn gǎn",
-     "en": "and October we'll do as much as we can, and from November we'll definitely rush the work and get it done"
+     "en": "and October we'll do as much as we can, and from November we'll definitely rush the work and get it done",
+     "idn": "dan Oktober kami kerjakan semampu kami, dan mulai November kami pasti mengebut pekerjaannya dan menyelesaikannya"
     },
     {
      "zh": "給您，您覺得如何？",
      "py": "Gěi nín, nín juéde rúhé?",
-     "en": "for you as fast as possible. How does that sound?"
+     "en": "for you as fast as possible. How does that sound?",
+     "idn": "untuk Bapak secepat mungkin. Bagaimana?"
     },
     {
      "zh": "男：好好好，我就要你這句話，行！就這麼定吧。",
      "py": "Nán: Hǎohǎo hǎo, wǒ jiùyào nǐ zhè jù huà, xíng! Jiù zhème dìng ba.",
-     "en": "Man: Good, good, that's what I wanted to hear. OK! Let's settle it like that."
+     "en": "Man: Good, good, that's what I wanted to hear. OK! Let's settle it like that.",
+     "idn": "Pria: Bagus, bagus, itu yang ingin saya dengar. Baik! Kita sepakat begitu."
     }
    ],
    "transcript": [
     {
      "zh": "在對話中，林老闆說了什麼？",
      "py": "Zài duìhuà zhōng, lín lǎobǎn shuō le shénme?",
-     "en": "In the conversation, what did Mr. Lin say?"
+     "en": "In the conversation, what did Mr. Lin say?",
+     "idn": "Dalam percakapan, apa yang dikatakan Pak Lin?"
     }
    ]
   },
@@ -191,29 +223,34 @@
     "A": {
      "zh": "這位小姐想出了折衷的法子",
      "py": "Zhèwèi Xiǎojiě xiǎngchū le zhézhōng de fǎzi",
-     "en": "(A) The woman came up with a compromise."
+     "en": "(A) The woman came up with a compromise.",
+     "idn": "(A) Wanita itu menawarkan jalan tengah."
     },
     "B": {
      "zh": "這位小姐要林老闆付清貨款",
      "py": "Zhèwèi Xiǎojiě yào Lín lǎobǎn Fùqīng huòkuǎn",
-     "en": "(B) The woman wants Mr. Lin to pay for the goods in full."
+     "en": "(B) The woman wants Mr. Lin to pay for the goods in full.",
+     "idn": "(B) Wanita itu ingin Pak Lin membayar barangnya lunas."
     },
     "C": {
      "zh": "這位小姐要林老闆趕緊把貨給她",
      "py": "Zhèwèi Xiǎojiě yào Lín lǎobǎn gǎnjǐn bǎ huò gěi tā",
-     "en": "(C) The woman wants Mr. Lin to hurry up and give her the goods."
+     "en": "(C) The woman wants Mr. Lin to hurry up and give her the goods.",
+     "idn": "(C) Wanita itu ingin Pak Lin segera menyerahkan barangnya."
     },
     "D": {
      "zh": "這位小姐覺得林老闆不給她面子",
      "py": "Zhèwèi Xiǎojiě juéde lín lǎobǎn bù gěi tā miànzi",
-     "en": "(D) The woman feels Mr. Lin isn't giving her face."
+     "en": "(D) The woman feels Mr. Lin isn't giving her face.",
+     "idn": "(D) Wanita itu merasa Pak Lin tidak memberinya muka."
     }
    },
    "transcript": [
     {
      "zh": "關於這段對話，下面哪一個是對的？",
      "py": "Guānyú zhè duàn duìhuà, xiàmiàn nǎ yí ge shì duì de?",
-     "en": "About this conversation, which of the following is correct?"
+     "en": "About this conversation, which of the following is correct?",
+     "idn": "Mengenai percakapan ini, manakah pernyataan berikut yang benar?"
     }
    ]
   },
@@ -222,98 +259,116 @@
     {
      "zh": "以下是一段採訪的內容。請聽這段對話，然後回答下面三個問題。",
      "py": "Yǐxià shì yíduàn cǎifǎng de nèiróng. Qǐng tīng zhèduàn duìhuà, ránhòu huídá xiàmiàn sān ge wèntí.",
-     "en": "The following is part of an interview. Listen to this conversation and then answer the three questions below."
+     "en": "The following is part of an interview. Listen to this conversation and then answer the three questions below.",
+     "idn": "Berikut ini sebagian dari sebuah wawancara. Dengarkan percakapan ini, lalu jawab tiga pertanyaan di bawah."
     }
    ],
    "options": {
     "A": {
      "zh": "投資人的不信任",
      "py": "Tóuzīrén de bú xìnrèn",
-     "en": "(A) Investors' lack of trust"
+     "en": "(A) Investors' lack of trust",
+     "idn": "(A) Kurangnya kepercayaan investor"
     },
     "B": {
      "zh": "存款人的不信任",
      "py": "Cúnkuǎnrén de bú xìnrèn",
-     "en": "(B) Depositors' lack of trust"
+     "en": "(B) Depositors' lack of trust",
+     "idn": "(B) Kurangnya kepercayaan nasabah penabung"
     },
     "C": {
      "zh": "受金融風暴影響",
      "py": "Shòu jīnróngfēngbào yǐngxiǎng",
-     "en": "(C) The impact of the financial storm"
+     "en": "(C) The impact of the financial storm",
+     "idn": "(C) Dampak badai keuangan"
     },
     "D": {
      "zh": "受保險業的影響",
      "py": "Shòu bǎoxiǎnyè de yǐngxiǎng",
-     "en": "(D) The influence of the insurance industry"
+     "en": "(D) The influence of the insurance industry",
+     "idn": "(D) Pengaruh industri asuransi"
     }
    },
    "intro": [
     {
      "zh": "以下是一段採訪的內容。請聽這段對話，然後回答下面三個問題。",
      "py": "Yǐxià shì yíduàn cǎifǎng de nèiróng. Qǐng tīng zhèduàn duìhuà, ránhòu huídá xiàmiàn sān ge wèntí.",
-     "en": "The following is part of an interview. Listen to this conversation and then answer the three questions below."
+     "en": "The following is part of an interview. Listen to this conversation and then answer the three questions below.",
+     "idn": "Berikut ini sebagian dari sebuah wawancara. Dengarkan percakapan ini, lalu jawab tiga pertanyaan di bawah."
     },
     {
      "zh": "現在請聽對話。",
      "py": "Xiànzài qǐng tīng duìhuà.",
-     "en": "Now listen to the conversation."
+     "en": "Now listen to the conversation.",
+     "idn": "Sekarang dengarkan percakapannya."
     },
     {
      "zh": "女：這次金融海嘯使一些知名的金融集團陷入空前危機，好幾家銀行宣布倒閉，",
      "py": "Nǚ: Zhècì jīnróng hǎixiào shǐ yìxiē zhīmíng de jīnróng jítuán xiànrù kōngqián wēijī, hǎojǐjiā yínháng xuānbù dǎobì,",
-     "en": "Woman: This financial tsunami has plunged some well-known financial groups into an unprecedented crisis, and several banks have announced bankruptcy."
+     "en": "Woman: This financial tsunami has plunged some well-known financial groups into an unprecedented crisis, and several banks have announced bankruptcy.",
+     "idn": "Wanita: Tsunami keuangan kali ini menjerumuskan beberapa grup keuangan ternama ke dalam krisis yang belum pernah terjadi, dan beberapa bank mengumumkan bangkrut."
     },
     {
      "zh": "這樣惡劣的投資環境使投資者失去了信心，還有人醞釀集體控告銀行。想請",
      "py": "Zhèyàng èliè de tóuzī huánjìng shǐ tóuzīzhě shīqù le xìnxīn, háiyǒu rén yùnniàng jítǐ kònggào yínháng. Xiǎngqǐng",
-     "en": "Such a terrible investment climate has made investors lose confidence, and some are even planning a class action against the banks. I'd like to"
+     "en": "Such a terrible investment climate has made investors lose confidence, and some are even planning a class action against the banks. I'd like to",
+     "idn": "Iklim investasi yang begitu buruk membuat investor kehilangan kepercayaan, bahkan ada yang berencana mengajukan gugatan kelompok terhadap bank. Saya ingin"
     },
     {
      "zh": "問一下林經理，保險業會受到波及嗎？",
      "py": "Wèn yíxià lín jīnglǐ, bǎoxiǎnyè huì shòudào Bōjí ma?",
-     "en": "ask, Manager Lin, will the insurance industry be affected?"
+     "en": "ask, Manager Lin, will the insurance industry be affected?",
+     "idn": "bertanya, Manajer Lin, apakah industri asuransi akan terpengaruh?"
     },
     {
      "zh": "男：應該不會。保險業跟銀行不同，本來就不可以從事高報酬、高風險的投資。",
      "py": "Nán: Yīnggāi búhuì. Bǎoxiǎnyè gēn yínháng bùtóng, běnlái jiù bù kěyǐ cóngshì gāo bàochóu, gāofēngxiǎn de tóuzī.",
-     "en": "Man: It shouldn't be. Insurance is different from banking—it was never allowed to engage in high-return, high-risk investments."
+     "en": "Man: It shouldn't be. Insurance is different from banking—it was never allowed to engage in high-return, high-risk investments.",
+     "idn": "Pria: Seharusnya tidak. Asuransi berbeda dengan perbankan—sejak awal tidak diizinkan melakukan investasi berimbal tinggi dan berisiko tinggi."
     },
     {
      "zh": "藉著這次的金融危機，剛好可以讓保險市場回歸基本面。",
      "py": "Jí zhe zhècì de jīnróngwēijī, gānghǎo kěyǐ ràng bǎoxiǎnshìchǎng huíguī jīběnmiàn.",
-     "en": "This financial crisis is just the opportunity for the insurance market to return to fundamentals."
+     "en": "This financial crisis is just the opportunity for the insurance market to return to fundamentals.",
+     "idn": "Krisis keuangan ini justru kesempatan bagi pasar asuransi untuk kembali ke dasar-dasarnya."
     },
     {
      "zh": "女：回到基本面，真是發人深省的話。近年來保單的價值顛倒了，以投資為目的",
      "py": "Nǚ: Huídào jīběnmiàn, zhēnshì fārénshēnxǐng dehuà. Jìnniánlái bǎodān de jiàzhí diāndǎo le, yǐ tóuzī wéi mùdì",
-     "en": "Woman: Back to fundamentals—that's really thought-provoking. In recent years the values of insurance policies have been turned upside down: investment-oriented"
+     "en": "Woman: Back to fundamentals—that's really thought-provoking. In recent years the values of insurance policies have been turned upside down: investment-oriented",
+     "idn": "Wanita: Kembali ke dasar—sungguh menggugah pikiran. Beberapa tahun terakhir nilai-nilai polis asuransi terbalik: produk berorientasi investasi"
     },
     {
      "zh": "的商品大幅成長，以保障為目的的商品反而變少了，好像大家都忘了保險制",
      "py": "De shāngpǐn dàfú chéngzhǎng, yǐ bǎozhàng wéi mùdì de shāngpǐn fǎn'ér biànshǎo le, hǎoxiàng dàjiā dōu wàng le bǎoxiǎn zhì",
-     "en": "products have grown sharply, while protection-oriented products have declined, as if everyone has forgotten the original purpose and basic value of the insurance"
+     "en": "products have grown sharply, while protection-oriented products have declined, as if everyone has forgotten the original purpose and basic value of the insurance",
+     "idn": "tumbuh pesat, sedangkan produk berorientasi perlindungan justru menurun, seolah semua orang lupa tujuan awal dan nilai dasar sistem"
     },
     {
      "zh": "度最初的用意與基本的價值，為什麼會這樣呢？",
      "py": "Dù zuìchū de yòngyì yǔ jīběn de jiàzhí, wèishénme huì zhèyàng ne?",
-     "en": "system. Why is that?"
+     "en": "system. Why is that?",
+     "idn": "asuransi. Mengapa begitu?"
     },
     {
      "zh": "男：這幾年社會上瀰漫著一股急功近利的氣息，拼命鼓吹投資理財，還有奢華的",
      "py": "Nán: Zhè jǐnián shèhuì shàng mímàn zhe yìgǔ jígōngjìnlì de qìxī, pīnmìng gǔchuī tóuzī lǐcái, háiyǒu shēhuá de",
-     "en": "Man: In recent years society has been filled with a mood of seeking quick success and instant benefits, frantically promoting investment and wealth management, plus a luxurious"
+     "en": "Man: In recent years society has been filled with a mood of seeking quick success and instant benefits, frantically promoting investment and wealth management, plus a luxurious",
+     "idn": "Pria: Beberapa tahun terakhir masyarakat dipenuhi suasana ingin cepat sukses dan cepat untung, giat mempromosikan investasi dan pengelolaan kekayaan, ditambah gaya"
     },
     {
      "zh": "物質生活，使得人人都想一夜致富。所以才會這樣吧！",
      "py": "Wùzhì shēnghuó, shǐde rénrén dōu xiǎng yíyè zhìfù. Suǒyǐ cái huì zhèyàng ba!",
-     "en": "material life, so everyone wants to get rich overnight. That's probably why!"
+     "en": "material life, so everyone wants to get rich overnight. That's probably why!",
+     "idn": "hidup materi yang mewah, sehingga semua orang ingin kaya dalam semalam. Mungkin itulah sebabnya!"
     }
    ],
    "transcript": [
     {
      "zh": "銀行倒閉的主要原因是什麼？",
      "py": "Yínháng dǎobì de zhǔyào yuányīn shì shénme?",
-     "en": "What is the main reason banks went bankrupt?"
+     "en": "What is the main reason banks went bankrupt?",
+     "idn": "Apa alasan utama bank-bank itu bangkrut?"
     }
    ]
   },
@@ -322,29 +377,34 @@
     "A": {
      "zh": "應該順應潮流，力求改變",
      "py": "Yīnggāi shùnyìngcháoliú, lìqiú gǎibiàn",
-     "en": "(A) They should go with the trend and strive to change."
+     "en": "(A) They should go with the trend and strive to change.",
+     "idn": "(A) Sebaiknya mengikuti arus dan berusaha berubah."
     },
     "B": {
      "zh": "保險業可趁機推出投資保險",
      "py": "Bǎoxiǎnyè kě chènjī tuīchū tóuzī bǎoxiǎn",
-     "en": "(B) The insurance industry can take the chance to launch investment insurance."
+     "en": "(B) The insurance industry can take the chance to launch investment insurance.",
+     "idn": "(B) Industri asuransi bisa memanfaatkan kesempatan meluncurkan asuransi investasi."
     },
     "C": {
      "zh": "他對保險業的前景仍具信心",
      "py": "Tā duì bǎoxiǎnyè de qiánjǐng réng jù xìnxīn",
-     "en": "(C) He still has confidence in the future of the insurance industry."
+     "en": "(C) He still has confidence in the future of the insurance industry.",
+     "idn": "(C) Dia masih yakin pada masa depan industri asuransi."
     },
     "D": {
      "zh": "保險業應出面重整金融市場",
      "py": "Bǎoxiǎnyè yīng chūmiàn zhòngzhěng jīnróngshìchǎng",
-     "en": "(D) The insurance industry should step in to restructure the financial market."
+     "en": "(D) The insurance industry should step in to restructure the financial market.",
+     "idn": "(D) Industri asuransi sebaiknya turun tangan menata ulang pasar keuangan."
     }
    },
    "transcript": [
     {
      "zh": "針對這次的危機，這位先生有什麼看法？",
      "py": "Zhēnduì zhècì de wēijī, zhèwèi xiānsheng yǒu shénme kànfǎ?",
-     "en": "Regarding this crisis, what does the man think?"
+     "en": "Regarding this crisis, what does the man think?",
+     "idn": "Mengenai krisis ini, bagaimana pendapat pria itu?"
     }
    ]
   },
@@ -353,29 +413,34 @@
     "A": {
      "zh": "遭受波及，損失慘重",
      "py": "Zāoshòu Bōjí, sǔnshīcǎnzhòng",
-     "en": "(A) Affected, with heavy losses"
+     "en": "(A) Affected, with heavy losses",
+     "idn": "(A) Terdampak, rugi besar"
     },
     "B": {
      "zh": "堅守本分，穩定發展",
      "py": "Jiānshǒu běnfèn, wěndìng fāzhǎn",
-     "en": "(B) Sticking to its proper role, developing steadily"
+     "en": "(B) Sticking to its proper role, developing steadily",
+     "idn": "(B) Menjalankan peran semestinya, berkembang stabil"
     },
     "C": {
      "zh": "為求生存，縮減服務項目",
      "py": "Wèi qiúshēngcún, suōjiǎn fúwùxiàngmù",
-     "en": "(C) Cutting services in order to survive"
+     "en": "(C) Cutting services in order to survive",
+     "idn": "(C) Mengurangi layanan demi bertahan hidup"
     },
     "D": {
      "zh": "推出投資型商品，追求更大利益",
      "py": "Tuīchū tóuzī xíng shāngpǐn, zhuīqiú gèng dà lìyì",
-     "en": "(D) Launching investment-type products in pursuit of greater profit"
+     "en": "(D) Launching investment-type products in pursuit of greater profit",
+     "idn": "(D) Meluncurkan produk investasi demi keuntungan lebih besar"
     }
    },
    "transcript": [
     {
      "zh": "從對話可知，保險業過去這幾年的發展怎麼樣？",
      "py": "Cóng duìhuà kězhī, bǎoxiǎnyè guòqù zhè jǐnián de fāzhǎn zěnmeyàng?",
-     "en": "From the conversation, how has the insurance industry developed over the past few years?"
+     "en": "From the conversation, how has the insurance industry developed over the past few years?",
+     "idn": "Dari percakapan ini, bagaimana perkembangan industri asuransi beberapa tahun terakhir?"
     }
    ]
   },
@@ -384,108 +449,128 @@
     {
      "zh": "太空人克里斯‧哈德菲爾上校退役後，上節目分享他當太空人的心路歷程。",
      "py": "Tàikōng rén Kèlǐsī ‧ Hā Défēi'ěr shàngxiào tuìyì hòu, shàng jiémù fēnxiǎng tā dāng tàikōng rén de xīnlùlìchéng.",
-     "en": "After retiring, astronaut Colonel Chris Hadfield appeared on a show to share his experiences as an astronaut."
+     "en": "After retiring, astronaut Colonel Chris Hadfield appeared on a show to share his experiences as an astronaut.",
+     "idn": "Setelah pensiun, astronaut Kolonel Chris Hadfield tampil dalam sebuah acara untuk berbagi pengalamannya sebagai astronaut."
     },
     {
      "zh": "以下節錄部分訪談內容，請聽完後，回答三個問題。",
      "py": "Yǐxià jiélù bùfèn fǎngtán nèiróng, qǐng tīng wán hòu, huídá sān ge wèntí.",
-     "en": "Below are excerpts from the interview. After listening, answer the three questions."
+     "en": "Below are excerpts from the interview. After listening, answer the three questions.",
+     "idn": "Berikut ini cuplikan wawancaranya. Setelah mendengarkan, jawab tiga pertanyaan."
     }
    ],
    "options": {
     "A": {
      "zh": "裝腔作勢",
      "py": "Zhuāngqiāngzuòshì",
-     "en": "(A) Putting on airs"
+     "en": "(A) Putting on airs",
+     "idn": "(A) Berlagak penting"
     },
     "B": {
      "zh": "有備無患",
      "py": "Yǒubèiwúhuàn",
-     "en": "(B) Being prepared means no worries"
+     "en": "(B) Being prepared means no worries",
+     "idn": "(B) Sedia payung sebelum hujan"
     },
     "C": {
      "zh": "煞有介事",
      "py": "Shàyǒujièshì",
-     "en": "(C) Making a big show of it"
+     "en": "(C) Making a big show of it",
+     "idn": "(C) Membesar-besarkan sesuatu"
     },
     "D": {
      "zh": "大材小用",
      "py": "Dàcáixiǎoyòng",
-     "en": "(D) Using great talent for petty tasks"
+     "en": "(D) Using great talent for petty tasks",
+     "idn": "(D) Bakat besar dipakai untuk urusan kecil"
     }
    },
    "intro": [
     {
      "zh": "太空人克里斯‧哈德菲爾上校退役後，上節目分享他當太空人的心路歷程。以下",
      "py": "Tàikōng rén Kèlǐsī ‧ Hā Défēi'ěr shàngxiào tuìyì hòu, shàng jiémù fēnxiǎng tā dāng tàikōng rén de xīnlùlìchéng. Yǐxià",
-     "en": "After retiring, astronaut Colonel Chris Hadfield appeared on a show to share his experiences as an astronaut. Below are"
+     "en": "After retiring, astronaut Colonel Chris Hadfield appeared on a show to share his experiences as an astronaut. Below are",
+     "idn": "Setelah pensiun, astronaut Kolonel Chris Hadfield tampil dalam sebuah acara untuk berbagi pengalamannya sebagai astronaut. Berikut ini"
     },
     {
      "zh": "節錄部分訪談內容，請聽完後，回答三個問題。",
      "py": "Jiélù bùfèn fǎngtán nèiróng, qǐng tīng wán hòu, huídá sān ge wèntí.",
-     "en": "excerpts from the interview. After listening, answer the three questions."
+     "en": "excerpts from the interview. After listening, answer the three questions.",
+     "idn": "cuplikan wawancaranya. Setelah mendengarkan, jawab tiga pertanyaan."
     },
     {
      "zh": "現在請聽訪問。",
      "py": "Xiànzài qǐng tīng fǎngwèn.",
-     "en": "Now listen to the interview."
+     "en": "Now listen to the interview.",
+     "idn": "Sekarang dengarkan wawancaranya."
     },
     {
      "zh": "女：您剛剛提到，如果想減輕自己的壓力，最好的方式就是「小題大作」。「小題",
      "py": "Nǚ: Nín gānggāng tídào, rúguǒ xiǎng jiǎnqīng zìjǐ de yālì, zuìhǎo de fāngshì jiùshì “Xiǎotídàzuò”. “Xiǎo tí",
-     "en": "Woman: You just mentioned that the best way to reduce your stress is to \"make a mountain out of a molehill.\" In our minds, \"making a mountain out of a"
+     "en": "Woman: You just mentioned that the best way to reduce your stress is to \"make a mountain out of a molehill.\" In our minds, \"making a mountain out of a",
+     "idn": "Wanita: Anda baru saja menyebutkan bahwa cara terbaik mengurangi stres adalah \"membesar-besarkan masalah kecil\". Dalam benak kami, \"membesar-besarkan"
     },
     {
      "zh": "大作」在我們印象中正是製造紛爭的禍首，您怎麼會把它視為減輕壓力的方",
      "py": "Dàzuò” zài wǒmen yìnxiàng zhōng zhèngshì zhìzào fēnzhēng de huòshǒu, nín zěnme huì bǎ tā shìwèi jiǎnqīng yālì de fāng",
-     "en": "molehill\" is the very source of conflict—how can you see it as a way of reducing"
+     "en": "molehill\" is the very source of conflict—how can you see it as a way of reducing",
+     "idn": "masalah kecil\" justru sumber konflik—bagaimana Anda bisa menganggapnya sebagai cara mengurangi"
     },
     {
      "zh": "法呢？",
      "py": "Fǎ ne?",
-     "en": "stress?"
+     "en": "stress?",
+     "idn": "(lanjutan) stres?"
     },
     {
      "zh": "男：哈哈，我這麼說吧，看一件事，我會用最悲觀的態度來看，並且設想著所有",
      "py": "Nán: Hāhā, wǒ zhème shuō ba, kàn yíjiàn shì, wǒhuì yòng zuì bēiguān de tàidù láikàn, bìngqiě shèxiǎng zhe suǒyǒu",
-     "en": "Man: Ha ha, let me put it this way: when I look at something, I look at it in the most pessimistic way and imagine everything"
+     "en": "Man: Ha ha, let me put it this way: when I look at something, I look at it in the most pessimistic way and imagine everything",
+     "idn": "Pria: Haha, begini: saat melihat sesuatu, saya melihatnya dengan cara paling pesimis dan membayangkan segala"
     },
     {
      "zh": "可能發生的狀況。例如，開車上路時，我就想著後頭的車子可能會煞車不及",
      "py": "Kěnéng fāshēng de zhuàngkuàng. Lìrú, kāichē Shànglù shí, wǒ jiù xiǎngzhe hòutou de chēzi kěnéng huì shāchē bùjí",
-     "en": "that might happen. For example, when I'm driving, I think the car behind me might not brake in time"
+     "en": "that might happen. For example, when I'm driving, I think the car behind me might not brake in time",
+     "idn": "kemungkinan yang bisa terjadi. Misalnya, saat menyetir, saya berpikir mobil di belakang mungkin tidak sempat mengerem"
     },
     {
      "zh": "朝我撞過來，這樣我就會時時留心後頭車子的車況，降低可能發生的風險。",
      "py": "Cháo wǒ zhuàng guòlái, zhèyàng wǒ jiù huì shíshí liúxīn hòutou chēzi de chēkuàng, jiàngdī kěnéng fāshēng de fēngxiǎn.",
-     "en": "and crash into me, so I keep an eye on the cars behind me at all times, reducing the risk of something happening."
+     "en": "and crash into me, so I keep an eye on the cars behind me at all times, reducing the risk of something happening.",
+     "idn": "dan menabrak saya, jadi saya selalu memperhatikan mobil di belakang, mengurangi risiko terjadinya sesuatu."
     },
     {
      "zh": "女：您的意思是，設想所有最糟的情況，在危急時刻就能有效地反應嗎？",
      "py": "Nǚ: Nín de yìsi shì, shèxiǎng suǒyǒu zuìzāo de qíngkuàng, zài wēijí shíkè jiù néng yǒuxiào de fǎnyìng ma?",
-     "en": "Woman: You mean that by imagining all the worst cases, you can react effectively in a crisis?"
+     "en": "Woman: You mean that by imagining all the worst cases, you can react effectively in a crisis?",
+     "idn": "Wanita: Maksud Anda, dengan membayangkan semua kemungkinan terburuk, Anda bisa bereaksi efektif saat krisis?"
     },
     {
      "zh": "男：對，在我的工作中，這一點非常重要。因為我們面對太多未知的狀況。當狀",
      "py": "Nán: Duì, zài wǒ de gōngzuò zhōng, zhè yìdiǎn fēicháng zhòngyào. Yīnwèi wǒmen miànduì tài duō wèizhī de zhuàngkuàng. Dāng zhuàng",
-     "en": "Man: Yes, in my job this is very important, because we face so many unknown situations. When something"
+     "en": "Man: Yes, in my job this is very important, because we face so many unknown situations. When something",
+     "idn": "Pria: Ya, dalam pekerjaan saya ini sangat penting, karena kami menghadapi begitu banyak situasi yang tidak diketahui. Saat sesuatu"
     },
     {
      "zh": "況發生時，如果手足無措的話，會把自己陷入更糟糕的處境中。",
      "py": "Kuàng fāshēng shí, rúguǒ shǒuzúwúcuò dehuà, huì bǎ zìjǐ xiànrù gèng zāogāo de chǔjìng zhōng.",
-     "en": "happens, if you're at a loss what to do, you'll put yourself in an even worse situation."
+     "en": "happens, if you're at a loss what to do, you'll put yourself in an even worse situation.",
+     "idn": "terjadi, kalau kamu tidak tahu harus berbuat apa, kamu akan menempatkan diri dalam situasi yang lebih buruk."
     },
     {
      "zh": "女：嗯，太空人真是一個高風險的行業，確實有「居安思危」的必要性。",
      "py": "Nǚ: ń, tàikōng rén zhēnshì yí ge gāofēngxiǎn de hángyè, quèshí yǒu “Jū'ānsīwēi” de bìyàoxìng.",
-     "en": "Woman: Mm, being an astronaut really is a high-risk profession—you really do need to be prepared for danger in times of safety."
+     "en": "Woman: Mm, being an astronaut really is a high-risk profession—you really do need to be prepared for danger in times of safety.",
+     "idn": "Wanita: Hmm, menjadi astronaut memang profesi berisiko tinggi—memang perlu waspada terhadap bahaya di saat aman."
     }
    ],
    "transcript": [
     {
      "zh": "根據訪談，太空人哈德菲爾認知的「小題大作」是什麼？",
      "py": "Gēnjù fǎngtán, tàikōng rén hā Défēi'ěr rènzhī de “Xiǎotídàzuò” shì shénme?",
-     "en": "According to the interview, what does astronaut Hadfield understand by \"making a mountain out of a molehill\"?"
+     "en": "According to the interview, what does astronaut Hadfield understand by \"making a mountain out of a molehill\"?",
+     "idn": "Menurut wawancara ini, apa yang dipahami astronaut Hadfield tentang \"membesar-besarkan masalah kecil\"?"
     }
    ]
   },
@@ -494,29 +579,34 @@
     "A": {
      "zh": "因為可以防患未然",
      "py": "Yīnwèi kěyǐ fánghuànwèirán",
-     "en": "(A) Because it can prevent problems before they happen"
+     "en": "(A) Because it can prevent problems before they happen",
+     "idn": "(A) Karena bisa mencegah masalah sebelum terjadi"
     },
     "B": {
      "zh": "因為生活壓力很大",
      "py": "Yīnwèi shēnghuó yālì hěndà",
-     "en": "(B) Because life is very stressful"
+     "en": "(B) Because life is very stressful",
+     "idn": "(B) Karena hidup penuh tekanan"
     },
     "C": {
      "zh": "因為人生充滿憾事",
      "py": "Yīnwèi rénshēng chōngmǎn hànshì",
-     "en": "(C) Because life is full of regrets"
+     "en": "(C) Because life is full of regrets",
+     "idn": "(C) Karena hidup penuh penyesalan"
     },
     "D": {
      "zh": "因為事事難以預料",
      "py": "Yīnwèi shìshì nányǐyùliào",
-     "en": "(D) Because everything is hard to predict"
+     "en": "(D) Because everything is hard to predict",
+     "idn": "(D) Karena segala sesuatu sulit diprediksi"
     }
    },
    "transcript": [
     {
      "zh": "在訪談中，哈德菲爾為何提到悲觀的態度？",
      "py": "Zài fǎngtán zhōng, Hā Défēi'ěr wèihé tídào bēiguān de tàidù?",
-     "en": "In the interview, why does Hadfield mention a pessimistic attitude?"
+     "en": "In the interview, why does Hadfield mention a pessimistic attitude?",
+     "idn": "Dalam wawancara, mengapa Hadfield menyebutkan sikap pesimis?"
     }
    ]
   },
@@ -525,29 +615,34 @@
     "A": {
      "zh": "強調冷靜的重要性",
      "py": "Qiángdiào lěngjìng de zhòngyàoxìng",
-     "en": "(A) To stress the importance of staying calm"
+     "en": "(A) To stress the importance of staying calm",
+     "idn": "(A) Untuk menekankan pentingnya tetap tenang"
     },
     "B": {
      "zh": "說明太空人面對的風險",
      "py": "Shuōmíng tàikōng rén miànduì de fēngxiǎn",
-     "en": "(B) To explain the risks astronauts face"
+     "en": "(B) To explain the risks astronauts face",
+     "idn": "(B) Untuk menjelaskan risiko yang dihadapi astronaut"
     },
     "C": {
      "zh": "指出太空人對未知的看法",
      "py": "Zhǐchū tàikōng rén duì wèizhī de kànfǎ",
-     "en": "(C) To point out astronauts' view of the unknown"
+     "en": "(C) To point out astronauts' view of the unknown",
+     "idn": "(C) Untuk menunjukkan pandangan astronaut tentang hal yang tidak diketahui"
     },
     "D": {
      "zh": "強調工作不如大眾想像風光",
      "py": "Qiángdiào gōngzuò bùrú dàzhòng xiǎngxiàng fēngguāng",
-     "en": "(D) To stress that the job isn't as glamorous as the public imagines"
+     "en": "(D) To stress that the job isn't as glamorous as the public imagines",
+     "idn": "(D) Untuk menekankan bahwa pekerjaan itu tidak segemerlap yang dibayangkan orang"
     }
    },
    "transcript": [
     {
      "zh": "哈德菲爾在訪談最後所說的話是什麼意思？",
      "py": "Hā Défēi'ěr zài fǎngtán zuìhòu suǒshuō dehuà shì shénme yìsi?",
-     "en": "What does Hadfield mean by what he says at the end of the interview?"
+     "en": "What does Hadfield mean by what he says at the end of the interview?",
+     "idn": "Apa maksud ucapan Hadfield di akhir wawancara?"
     }
    ]
   },
@@ -556,123 +651,146 @@
     {
      "zh": "「標準作業程序」是指在有限的時間和資源內，為了完成複雜的事務而設計的內部程序。",
      "py": "“Biāozhǔn zuòyè chéngxù” shì zhǐ zài yǒuxiàn de shíjiān hé zīyuán nèi, wèile wánchéng fùzá de shìwù ér shèjì de nèibù chéngxù.",
-     "en": "\"Standard operating procedures\" are internal procedures designed to complete complex tasks within limited time and resources."
+     "en": "\"Standard operating procedures\" are internal procedures designed to complete complex tasks within limited time and resources.",
+     "idn": "\"Prosedur operasi standar\" adalah prosedur internal yang dirancang untuk menyelesaikan tugas kompleks dengan waktu dan sumber daya terbatas."
     },
     {
      "zh": "以下兩位同事正在討論「標準作業程序」對工作效率的幫助，請聽討論然後回答三個問題。",
      "py": "Yǐxià liǎngwèi tóngshì zhèngzài tǎolùn “Biāozhǔn zuòyè chéngxù” duì gōngzuòxiàolǜ de bāngzhù, qǐng tīng tǎolùn ránhòu huídá sān ge wèntí.",
-     "en": "The two colleagues below are discussing how standard operating procedures help work efficiency. Listen to the discussion and then answer the three questions."
+     "en": "The two colleagues below are discussing how standard operating procedures help work efficiency. Listen to the discussion and then answer the three questions.",
+     "idn": "Dua rekan kerja berikut membahas bagaimana prosedur operasi standar membantu efisiensi kerja. Dengarkan diskusinya, lalu jawab tiga pertanyaan."
     }
    ],
    "options": {
     "A": {
      "zh": "無法有效提升績效",
      "py": "Wúfǎ yǒuxiào tíshēng jìxiào",
-     "en": "(A) They can't effectively improve performance."
+     "en": "(A) They can't effectively improve performance.",
+     "idn": "(A) Tidak bisa efektif meningkatkan kinerja."
     },
     "B": {
      "zh": "可能僵化工作內容",
      "py": "Kěnéng jiānghuà gōngzuò nèiróng",
-     "en": "(B) They may make work rigid."
+     "en": "(B) They may make work rigid.",
+     "idn": "(B) Bisa membuat pekerjaan menjadi kaku."
     },
     "C": {
      "zh": "難以看出企業成長",
      "py": "Nányǐ kànchū qǐyè chéngzhǎng",
-     "en": "(C) It's hard to see the company's growth."
+     "en": "(C) It's hard to see the company's growth.",
+     "idn": "(C) Sulit melihat pertumbuhan perusahaan."
     },
     "D": {
      "zh": "不易了解員工表現",
      "py": "Búyì liǎojiě yuángōng biǎoxiàn",
-     "en": "(D) It's hard to know how employees are performing."
+     "en": "(D) It's hard to know how employees are performing.",
+     "idn": "(D) Sulit mengetahui kinerja karyawan."
     }
    },
    "intro": [
     {
      "zh": "「標準作業程序」是指在有限的時間和資源內，為了完成複雜的事務而設計的內",
      "py": "“Biāozhǔn zuòyè chéngxù” shì zhǐ zài yǒuxiàn de shíjiān hé zīyuán nèi, wèile wánchéng fùzá de shìwù ér shèjì de nèi",
-     "en": "\"Standard operating procedures\" are internal procedures designed to complete complex tasks within limited time and resources."
+     "en": "\"Standard operating procedures\" are internal procedures designed to complete complex tasks within limited time and resources.",
+     "idn": "\"Prosedur operasi standar\" adalah prosedur internal yang dirancang untuk menyelesaikan tugas kompleks dengan waktu dan sumber daya terbatas."
     },
     {
      "zh": "部程序。以下兩位同事正在討論「標準作業程序」對工作效率的幫助，請聽討論",
      "py": "Bù chéngxù. Yǐxià liǎngwèi tóngshì zhèngzài tǎolùn “Biāozhǔn zuòyè chéngxù” duì gōngzuòxiàolǜ de bāngzhù, qǐng tīng tǎolùn",
-     "en": "The two colleagues below are discussing how standard operating procedures help work efficiency. Listen to the discussion"
+     "en": "The two colleagues below are discussing how standard operating procedures help work efficiency. Listen to the discussion",
+     "idn": "Dua rekan kerja berikut membahas bagaimana prosedur operasi standar membantu efisiensi kerja. Dengarkan diskusinya,"
     },
     {
      "zh": "然後回答三個問題。",
      "py": "Ránhòu huídá sān ge wèntí.",
-     "en": "and then answer the three questions."
+     "en": "and then answer the three questions.",
+     "idn": "lalu jawab tiga pertanyaan."
     },
     {
      "zh": "現在請聽討論。",
      "py": "Xiànzài qǐng tīng tǎolùn.",
-     "en": "Now listen to the discussion."
+     "en": "Now listen to the discussion.",
+     "idn": "Sekarang dengarkan diskusinya."
     },
     {
      "zh": "女：真累啊！公司居然要我們每個人根據自己的工作內容寫出「標準作業程序」。",
      "py": "Nǚ: Zhēnlèi a! Gōngsī jūrán yào wǒmen měi ge rén gēnjù zìjǐ de gōngzuò nèiróng xiěchū “Biāozhǔn zuòyè chéngxù”.",
-     "en": "Woman: So tiring! The company actually wants each of us to write \"standard operating procedures\" for our own job."
+     "en": "Woman: So tiring! The company actually wants each of us to write \"standard operating procedures\" for our own job.",
+     "idn": "Wanita: Melelahkan sekali! Perusahaan ternyata meminta kita masing-masing menulis \"prosedur operasi standar\" untuk pekerjaan sendiri."
     },
     {
      "zh": "男：嗯，雖然這是項煩人的差事，但從管理學的角度來看，只要訂出「標準作業",
      "py": "Nán: ń, suīrán zhè shì xiàng fánrén de chāishì, dàn cóng guǎnlǐxué de jiǎodù láikàn, zhǐyào dìngchū “Biāozhǔn zuòyè",
-     "en": "Man: Mm, although it's an annoying chore, from a management point of view, once \"standard operating procedures\""
+     "en": "Man: Mm, although it's an annoying chore, from a management point of view, once \"standard operating procedures\"",
+     "idn": "Pria: Hmm, meskipun merepotkan, dari sudut pandang manajemen, begitu \"prosedur operasi standar\""
     },
     {
      "zh": "程序」就能縮短新進人員摸索和學習的時間，他們只要按著步驟和指示就能",
      "py": "Chéngxù” jiù néng suōduǎn xīnjìnrényuán mōsuǒ hé xuéxí de shíjiān, tāmen zhǐyào ànzhe bùzhòu hé zhǐshì jiù néng",
-     "en": "are set, new staff spend less time figuring things out and learning; they just follow the steps and instructions to"
+     "en": "are set, new staff spend less time figuring things out and learning; they just follow the steps and instructions to",
+     "idn": "ditetapkan, staf baru lebih sedikit menghabiskan waktu untuk meraba-raba dan belajar; mereka cukup mengikuti langkah dan petunjuk untuk"
     },
     {
      "zh": "執行工作，而且能降低失誤的產生。對於想提升員工工作效率的企業來說，",
      "py": "Zhíxíng gōngzuò, érqiě néng jiàngdī shīwù de chǎnshēng. Duìyú xiǎng tíshēng yuángōng gōngzuòxiàolǜ de qǐyè láishuō,",
-     "en": "do the work, and mistakes are reduced. For companies that want to improve employee efficiency,"
+     "en": "do the work, and mistakes are reduced. For companies that want to improve employee efficiency,",
+     "idn": "bekerja, dan kesalahan pun berkurang. Bagi perusahaan yang ingin meningkatkan efisiensi karyawan,"
     },
     {
      "zh": "這的確是個好方法。",
      "py": "Zhè díquè shì gè hǎo fāngfǎ.",
-     "en": "it really is a good method."
+     "en": "it really is a good method.",
+     "idn": "ini memang cara yang baik."
     },
     {
      "zh": "女：你說的是沒錯，但我認為太過重視效率和這些程序，員工很容易被制約而墨",
      "py": "Nǚ: Nǐ shuō de shì méicuò, dàn wǒ rènwéi tài guò zhòngshì xiàolǜ hé zhèxiē chéngxù, yuángōng hěn róngyì bèi zhìyuē ér Mò",
-     "en": "Woman: You're right, but I think if efficiency and procedures are overemphasized, employees easily become conditioned and stick"
+     "en": "Woman: You're right, but I think if efficiency and procedures are overemphasized, employees easily become conditioned and stick",
+     "idn": "Wanita: Kamu benar, tapi menurut saya kalau efisiensi dan prosedur terlalu ditekankan, karyawan mudah menjadi terbiasa dan kaku"
     },
     {
      "zh": "守成規，無法展現差異化的價值。",
      "py": "Shǒu chéngguī, wúfǎ zhǎnxiàn chāyìhuà de jiàzhí.",
-     "en": "rigidly to the rules, unable to show their distinctive value."
+     "en": "rigidly to the rules, unable to show their distinctive value.",
+     "idn": "berpegang pada aturan, tidak bisa menunjukkan nilai khasnya."
     },
     {
      "zh": "男：這麼說吧，對於重視創意的產業來說，可能存在妳說的問題，但對於某些產",
      "py": "Nán: Zhème shuō ba, duìyú zhòngshì chuàngyì de chǎnyè láishuō, kěnéng cúnzài nǐ shuō de wèntí, dàn duìyú mǒuxiē chǎn",
-     "en": "Man: Let me put it this way: in creativity-driven industries the problem you describe may exist, but in some"
+     "en": "Man: Let me put it this way: in creativity-driven industries the problem you describe may exist, but in some",
+     "idn": "Pria: Begini: di industri yang mengandalkan kreativitas, masalah yang kamu sebutkan mungkin ada, tetapi di beberapa"
     },
     {
      "zh": "業來講，提高生產量可能是主要的工作目標，因此就不能沒有「標準作業程",
      "py": "Yè láijiǎng, tígāo shēngchǎnliàng kěnéng shì zhǔyào de gōngzuò mùbiāo, yīncǐ jiù bùnéng méiyǒu “Biāozhǔn zuòyè chéng",
-     "en": "industries raising output may be the main goal, so they can't do without \"standard operating"
+     "en": "industries raising output may be the main goal, so they can't do without \"standard operating",
+     "idn": "industri, meningkatkan produksi mungkin menjadi tujuan utama, sehingga mereka tidak bisa lepas dari \"prosedur operasi"
     },
     {
      "zh": "序」。其實，這些「一個口令，一個動作」的「標準作業程序」就像企業的",
      "py": "Xù”. Qíshí, zhèxiē “Yí ge kǒulìng, yí ge dòngzuò” de “Biāozhǔn zuòyè chéngxù” jiù xiàng qǐyè de",
-     "en": "procedures.\" In fact, these \"one command, one action\" standard operating procedures are like a company's"
+     "en": "procedures.\" In fact, these \"one command, one action\" standard operating procedures are like a company's",
+     "idn": "standar\". Sebenarnya, prosedur operasi standar yang \"satu perintah, satu gerakan\" ini ibarat"
     },
     {
      "zh": "骨架，而「反應速度」和「應變能力」等等則像是企業的靈魂，兩者兼備才",
      "py": "Gǔjià, ér “Fǎnyìngsùdù” hé “Yìngbiànnénglì” děngděng zé xiàngshì qǐyè de línghún, liǎngzhě jiānbèi cái",
-     "en": "skeleton, while \"reaction speed\" and \"adaptability\" are like its soul; having both is"
+     "en": "skeleton, while \"reaction speed\" and \"adaptability\" are like its soul; having both is",
+     "idn": "kerangka perusahaan, sedangkan \"kecepatan reaksi\" dan \"kemampuan beradaptasi\" ibarat jiwanya; memiliki keduanya adalah"
     },
     {
      "zh": "是企業能維持競爭力的關鍵。",
      "py": "Shì qǐyè néng wéichí jìngzhēnglì de guānjiàn.",
-     "en": "the key to a company staying competitive."
+     "en": "the key to a company staying competitive.",
+     "idn": "kunci perusahaan tetap kompetitif."
     }
    ],
    "transcript": [
     {
      "zh": "這位小姐對「標準作業程序」的看法是什麼？",
      "py": "Zhèwèi Xiǎojiě duì “Biāozhǔn zuòyè chéngxù” de kànfǎ shì shénme?",
-     "en": "What does the woman think of \"standard operating procedures\"?"
+     "en": "What does the woman think of \"standard operating procedures\"?",
+     "idn": "Bagaimana pendapat wanita itu tentang \"prosedur operasi standar\"?"
     }
    ]
   },
@@ -681,29 +799,34 @@
     "A": {
      "zh": "設計業",
      "py": "Shèjìyè",
-     "en": "(A) Design"
+     "en": "(A) Design",
+     "idn": "(A) Desain"
     },
     "B": {
      "zh": "娛樂業",
      "py": "Yúlèyè",
-     "en": "(B) Entertainment"
+     "en": "(B) Entertainment",
+     "idn": "(B) Hiburan"
     },
     "C": {
      "zh": "製造業",
      "py": "Zhìzàoyè",
-     "en": "(C) Manufacturing"
+     "en": "(C) Manufacturing",
+     "idn": "(C) Manufaktur"
     },
     "D": {
      "zh": "文創業",
      "py": "Wén chuàngyè",
-     "en": "(D) Cultural and creative industries"
+     "en": "(D) Cultural and creative industries",
+     "idn": "(D) Industri budaya dan kreatif"
     }
    },
    "transcript": [
     {
      "zh": "根據討論，哪一個行業對「標準作業程序」的需求較高？",
      "py": "Gēnjù tǎolùn, nǎ yí ge hángyè duì “Biāozhǔn zuòyè chéngxù” de xūqiú jiào gāo?",
-     "en": "According to the discussion, which industry has a greater need for standard operating procedures?"
+     "en": "According to the discussion, which industry has a greater need for standard operating procedures?",
+     "idn": "Menurut diskusi ini, industri mana yang lebih membutuhkan prosedur operasi standar?"
     }
    ]
   },
@@ -712,29 +835,34 @@
     "A": {
      "zh": "制定詳細指令的能力",
      "py": "Zhìdìng xiángxì zhǐlìng de nénglì",
-     "en": "(A) The ability to set detailed instructions"
+     "en": "(A) The ability to set detailed instructions",
+     "idn": "(A) Kemampuan menetapkan petunjuk yang rinci"
     },
     "B": {
      "zh": "遵循流程運作的能力",
      "py": "Zūnxún liúchéng yùnzuò de nénglì",
-     "en": "(B) The ability to follow processes"
+     "en": "(B) The ability to follow processes",
+     "idn": "(B) Kemampuan mengikuti alur kerja"
     },
     "C": {
      "zh": "達成預設目標的能力",
      "py": "Dáchéng yùshè mùbiāo de nénglì",
-     "en": "(C) The ability to achieve preset goals"
+     "en": "(C) The ability to achieve preset goals",
+     "idn": "(C) Kemampuan mencapai target yang ditetapkan"
     },
     "D": {
      "zh": "依原則而變通的能力",
      "py": "Yī yuánzé ér biàntōng de nénglì",
-     "en": "(D) The ability to adapt flexibly according to principles"
+     "en": "(D) The ability to adapt flexibly according to principles",
+     "idn": "(D) Kemampuan beradaptasi secara luwes sesuai prinsip"
     }
    },
    "transcript": [
     {
      "zh": "這位先生認為，有競爭力的企業應具備什麼能力？",
      "py": "Zhèwèi xiānsheng rènwéi, yǒu jìngzhēnglì de qǐyè yīng jùbèi shénme nénglì?",
-     "en": "What ability does the man think a competitive company should have?"
+     "en": "What ability does the man think a competitive company should have?",
+     "idn": "Menurut pria itu, kemampuan apa yang sebaiknya dimiliki perusahaan yang kompetitif?"
     }
    ]
   },
@@ -743,123 +871,146 @@
     {
      "zh": "以下兩人正在討論一部電影，請聽這段談話，然後回答四個問題。",
      "py": "Yǐxià liǎng rén zhèngzài tǎolùn yíbù diànyǐng, qǐng tīng zhèduàn tánhuà, ránhòu huídá sì ge wèntí.",
-     "en": "Two people are discussing a film. Listen to this conversation and then answer four questions."
+     "en": "Two people are discussing a film. Listen to this conversation and then answer four questions.",
+     "idn": "Dua orang sedang membahas sebuah film. Dengarkan percakapan ini, lalu jawab empat pertanyaan."
     }
    ],
    "options": {
     "A": {
      "zh": "配樂通俗",
      "py": "Pèiyuè tōngsú",
-     "en": "(A) The soundtrack is commonplace."
+     "en": "(A) The soundtrack is commonplace.",
+     "idn": "(A) Musik latarnya biasa saja."
     },
     "B": {
      "zh": "故事淺白",
      "py": "Gùshì qiǎnbái",
-     "en": "(B) The story is easy to follow."
+     "en": "(B) The story is easy to follow.",
+     "idn": "(B) Ceritanya mudah diikuti."
     },
     "C": {
      "zh": "編劇參與演出",
      "py": "Biānjù cānyù yǎnchū",
-     "en": "(C) The screenwriter acted in it."
+     "en": "(C) The screenwriter acted in it.",
+     "idn": "(C) Penulis naskahnya ikut berakting."
     },
     "D": {
      "zh": "是上部電影的續集",
      "py": "Shì shàngbù diànyǐng de xùjí",
-     "en": "(D) It's a sequel to the previous film."
+     "en": "(D) It's a sequel to the previous film.",
+     "idn": "(D) Film ini sekuel dari film sebelumnya."
     }
    },
    "intro": [
     {
      "zh": "以下兩人正在討論一部電影，請聽這段談話，然後回答四個問題。",
      "py": "Yǐxià liǎng rén zhèngzài tǎolùn yíbù diànyǐng, qǐng tīng zhèduàn tánhuà, ránhòu huídá sì ge wèntí.",
-     "en": "Two people are discussing a film. Listen to this conversation and then answer four questions."
+     "en": "Two people are discussing a film. Listen to this conversation and then answer four questions.",
+     "idn": "Dua orang sedang membahas sebuah film. Dengarkan percakapan ini, lalu jawab empat pertanyaan."
     },
     {
      "zh": "現在請聽對話。",
      "py": "Xiànzài qǐng tīng duìhuà.",
-     "en": "Now listen to the conversation."
+     "en": "Now listen to the conversation.",
+     "idn": "Sekarang dengarkan percakapannya."
     },
     {
      "zh": "男：我昨天看了你說的那部電影，嗯…我覺得在美術、攝影和配樂方面，都維持",
      "py": "Nán: Wǒ zuótiān kàn le nǐ shuō de nàbù diànyǐng, ń… wǒ juéde zài měishù, shèyǐng hé pèiyuè fāngmiàn, dōu wéichí",
-     "en": "Man: Yesterday I saw the film you mentioned. Hmm… I think the art direction, cinematography and music all maintain"
+     "en": "Man: Yesterday I saw the film you mentioned. Hmm… I think the art direction, cinematography and music all maintain",
+     "idn": "Pria: Kemarin saya menonton film yang kamu sebutkan. Hmm… menurut saya tata artistik, sinematografi, dan musiknya semua mempertahankan"
     },
     {
      "zh": "著李導演一貫的高水準。劇情的話，通俗易懂，如果把這部電影跟李導演的",
      "py": "Zhe Lǐ dǎoyǎn yíguàn de gāo shuǐzhǔn. Jùqíng dehuà, tōngsúyìdǒng, rúguǒ bǎ zhèbù diànyǐng gēn Lǐ dǎoyǎn de",
-     "en": "Director Li's usual high standard. As for the plot, it's easy to understand. If you compare this film with Director Li's"
+     "en": "Director Li's usual high standard. As for the plot, it's easy to understand. If you compare this film with Director Li's",
+     "idn": "standar tinggi Sutradara Li seperti biasa. Soal alur, mudah dipahami. Kalau kamu membandingkan film ini dengan"
     },
     {
      "zh": "上一部作品做個對照，不難發現情節安排上有許多相似之處。",
      "py": "Shàng yíbù zuòpǐn zuò gè duìzhào, bùnán fāxiàn qíngjié ānpái shàng yǒu xǔduō xiāngsìzhīchù.",
-     "en": "previous work, it's not hard to see many similarities in how the plot is arranged."
+     "en": "previous work, it's not hard to see many similarities in how the plot is arranged.",
+     "idn": "karya Sutradara Li sebelumnya, tidak sulit melihat banyak kesamaan dalam penataan alurnya."
     },
     {
      "zh": "女：哇，很專業嘛！但大部分人在欣賞電影時，常常是先注意到演員的演技，你",
      "py": "Nǚ: Wa, hěn zhuānyè ma! Dàn dàbùfèn rén zài xīnshǎng diànyǐng shí, chángcháng shì xiān zhùyì dào yǎnyuán de yǎnjì, nǐ",
-     "en": "Woman: Wow, very professional! But when watching films, most people notice the actors' performances first. What do you"
+     "en": "Woman: Wow, very professional! But when watching films, most people notice the actors' performances first. What do you",
+     "idn": "Wanita: Wah, profesional sekali! Tapi saat menonton film, kebanyakan orang lebih dulu memperhatikan akting pemainnya. Bagaimana"
     },
     {
      "zh": "覺得幾位主角…",
      "py": "Juéde jǐwèi zhǔjué…",
-     "en": "think of the leads…"
+     "en": "think of the leads…",
+     "idn": "menurutmu para pemeran utamanya…"
     },
     {
      "zh": "男：哈，我正想接著說，演員們精湛的演技可以說是這部片的賣點之一，像飾演",
      "py": "Nán: Hā, wǒ zhèng xiǎng jiēzhe shuō, yǎnyuán men jīngzhàn de yǎnjì kěyǐ shuō shì zhèbù piàn de màidiǎn zhīyī, xiàng shìyǎn",
-     "en": "Man: Ha, I was just about to say—the actors' superb performances are one of the film's selling points. For example, as the"
+     "en": "Man: Ha, I was just about to say—the actors' superb performances are one of the film's selling points. For example, as the",
+     "idn": "Pria: Ha, baru mau saya bilang—akting para pemain yang luar biasa adalah salah satu daya jual film ini. Misalnya, sebagai"
     },
     {
      "zh": "男：主角的李文，在面對女主角來訪時，那種強裝鎮定，但其實手足無措的神",
      "py": "Nán: Zhǔjué de Lǐwén, zài miànduì nǚzhǔjué láifǎng shí, nàzhǒng qiángzhuāng zhèndìng, dàn qíshí shǒuzúwúcuò de shén",
-     "en": "male lead, Li Wen, when the heroine comes to visit, shows a forced calm while actually being at a complete loss,"
+     "en": "male lead, Li Wen, when the heroine comes to visit, shows a forced calm while actually being at a complete loss,",
+     "idn": "pemeran utama pria, Li Wen, ketika pemeran utama wanita datang berkunjung, menampilkan ketenangan yang dipaksakan padahal sebenarnya kebingungan,"
     },
     {
      "zh": "態，演活了這個角色如孩子般純真的一面。如果比對一下他這幾年參與演出",
      "py": "Tài, yǎnhuó le zhè ge juésè rú háizi bān chúnzhēn de yímiàn. Rúguǒ bǐ duì yíxià tā zhè jǐnián cānyù yǎnchū",
-     "en": "bringing to life the childlike innocence of the character. If you compare the films he's appeared in over the past few years,"
+     "en": "bringing to life the childlike innocence of the character. If you compare the films he's appeared in over the past few years,",
+     "idn": "sehingga kepolosan tokoh itu tampil begitu hidup. Kalau kamu membandingkan film-film yang dia bintangi beberapa tahun terakhir,"
     },
     {
      "zh": "的電影，其實就能看出他的演技已經越趨成熟了。",
      "py": "De diànyǐng, qíshí jiù néng kànchū tā de yǎnjì yǐjīng yuèqū chéngshú le.",
-     "en": "you can see his acting has become more and more mature."
+     "en": "you can see his acting has become more and more mature.",
+     "idn": "terlihat aktingnya makin matang."
     },
     {
      "zh": "女：嗯，我也聽說了，不僅男主角演技到位，飾演女主角的王雪在火候的拿捏上",
      "py": "Nǚ: ń, wǒ yě tīngshuō le, bùjǐn nánzhǔjué yǎnjì dàowèi, shìyǎn nǚzhǔjué de wángxuě zài huǒhòu de nániē shàng",
-     "en": "Woman: Mm, I heard that too. Not only is the male lead's acting spot on, Wang Xue, playing the heroine, also judges it"
+     "en": "Woman: Mm, I heard that too. Not only is the male lead's acting spot on, Wang Xue, playing the heroine, also judges it",
+     "idn": "Wanita: Hmm, saya juga dengar begitu. Bukan hanya akting pemeran utama pria yang pas, Wang Xue yang memerankan tokoh utama wanita juga membawakannya"
     },
     {
      "zh": "也極為恰當，讓觀眾在恨透女主角的同時，又情不自禁地悲憫著她。",
      "py": "Yě jíwéi qiàdàng, ràng guānzhòng zài hèntòu nǚzhǔjué de tóngshí, yòu qíngbúzìjīn de bēimǐn zhe tā.",
-     "en": "just right, so that while the audience hates the heroine, they can't help pitying her at the same time."
+     "en": "just right, so that while the audience hates the heroine, they can't help pitying her at the same time.",
+     "idn": "dengan takaran yang tepat, sehingga meskipun penonton membenci tokoh wanita itu, mereka tak kuasa sekaligus merasa iba padanya."
     },
     {
      "zh": "男：哈哈，看來妳也喜歡琢磨演員的演技啊。",
      "py": "Nán: Hāhā, kànlái nǐ yě xǐhuān zhuómó yǎnyuán de yǎnjì a.",
-     "en": "Man: Ha ha, looks like you like analyzing actors' performances too."
+     "en": "Man: Ha ha, looks like you like analyzing actors' performances too.",
+     "idn": "Pria: Haha, sepertinya kamu juga suka menganalisis akting para pemain."
     },
     {
      "zh": "女：這是網路上的影評啦。其實，我比較想知道導演運鏡的手法和詮釋劇情的方",
      "py": "Nǚ: Zhè shì wǎnglùshàng de yǐngpíng la. Qíshí, wǒ bǐjiào xiǎng zhīdào dǎoyǎn yùnjìng de shǒufǎ hé quánshì jùqíng de fāng",
-     "en": "Woman: That's from online reviews. Actually, I'd rather know about the director's camera work and how he"
+     "en": "Woman: That's from online reviews. Actually, I'd rather know about the director's camera work and how he",
+     "idn": "Wanita: Itu dari ulasan daring. Sebenarnya saya lebih ingin tahu tentang teknik kamera sutradara dan cara dia"
     },
     {
      "zh": "式，我覺得這才是一部電影的精髓，但網路影評卻對此少有著墨。所以，即",
      "py": "Shì, wǒ juéde zhè cái shì yíbù diànyǐng de jīngsuǐ, dàn wǎnglù yǐngpíng què duìcǐ shǎoyǒu zhuómò. Suǒyǐ, jí",
-     "en": "interprets the plot—I think that's the essence of a film—but online reviews hardly touch on it. So even"
+     "en": "interprets the plot—I think that's the essence of a film—but online reviews hardly touch on it. So even",
+     "idn": "menafsirkan alur—menurut saya itulah inti sebuah film—tetapi ulasan daring hampir tidak menyinggungnya. Jadi meskipun"
     },
     {
      "zh": "使看完評論，還是有些不著邊際的感覺！",
      "py": "Shǐkàn wán pínglùn, háishì yǒuxiē bùzháo biānjì de gǎnjué!",
-     "en": "after reading the reviews, I still feel they miss the point!"
+     "en": "after reading the reviews, I still feel they miss the point!",
+     "idn": "sudah membaca ulasan, saya tetap merasa ulasannya tidak kena sasaran!"
     }
    ],
    "transcript": [
     {
      "zh": "關於這部電影，下面哪一個是對的？",
      "py": "Guānyú zhèbù diànyǐng, xiàmiàn nǎ yí ge shì duì de?",
-     "en": "About this film, which of the following is correct?"
+     "en": "About this film, which of the following is correct?",
+     "idn": "Mengenai film ini, manakah pernyataan berikut yang benar?"
     }
    ]
   },
@@ -868,29 +1019,34 @@
     "A": {
      "zh": "演技生澀",
      "py": "Yǎnjì shēngsè",
-     "en": "(A) Inexperienced acting"
+     "en": "(A) Inexperienced acting",
+     "idn": "(A) Akting yang belum berpengalaman"
     },
     "B": {
      "zh": "漸入佳境",
      "py": "Jiànrùjiājìng",
-     "en": "(B) Getting better and better"
+     "en": "(B) Getting better and better",
+     "idn": "(B) Makin lama makin bagus"
     },
     "C": {
      "zh": "真誠自然",
      "py": "Zhēnchéng zìrán",
-     "en": "(C) Sincere and natural"
+     "en": "(C) Sincere and natural",
+     "idn": "(C) Tulus dan alami"
     },
     "D": {
      "zh": "過於浮誇",
      "py": "Guòyú fúkuā",
-     "en": "(D) Overly exaggerated"
+     "en": "(D) Overly exaggerated",
+     "idn": "(D) Terlalu berlebihan"
     }
    },
    "transcript": [
     {
      "zh": "這位先生覺得男主角的表現如何？",
      "py": "Zhèwèi xiānsheng juéde nánzhǔjué de biǎoxiàn rúhé?",
-     "en": "What does the man think of the male lead's performance?"
+     "en": "What does the man think of the male lead's performance?",
+     "idn": "Bagaimana pendapat pria itu tentang akting pemeran utama pria?"
     }
    ]
   },
@@ -899,29 +1055,34 @@
     "A": {
      "zh": "流於俗套",
      "py": "Liú yú sútào",
-     "en": "(A) Clichéd"
+     "en": "(A) Clichéd",
+     "idn": "(A) Klise"
     },
     "B": {
      "zh": "恰如其分",
      "py": "Qiàrúqífèn",
-     "en": "(B) Just right"
+     "en": "(B) Just right",
+     "idn": "(B) Takarannya pas"
     },
     "C": {
      "zh": "矯揉造作",
      "py": "Jiǎoróuzàozuò",
-     "en": "(C) Affected"
+     "en": "(C) Affected",
+     "idn": "(C) Dibuat-buat"
     },
     "D": {
      "zh": "空有其表",
      "py": "Kōng yǒu qí biǎo",
-     "en": "(D) All show, no substance"
+     "en": "(D) All show, no substance",
+     "idn": "(D) Indah di luar, kosong di dalam"
     }
    },
    "transcript": [
     {
      "zh": "對於女主角演技的評論，以下何者正確？",
      "py": "Duìyú nǚzhǔjué yǎnjì de pínglùn, yǐxià hézhě zhèngquè?",
-     "en": "About the comments on the heroine's acting, which is correct?"
+     "en": "About the comments on the heroine's acting, which is correct?",
+     "idn": "Mengenai komentar tentang akting pemeran utama wanita, mana yang benar?"
     }
    ]
   },
@@ -930,29 +1091,34 @@
     "A": {
      "zh": "面面俱到",
      "py": "Miànmiànjùdào",
-     "en": "(A) Comprehensive"
+     "en": "(A) Comprehensive",
+     "idn": "(A) Menyeluruh"
     },
     "B": {
      "zh": "鞭辟入裡",
      "py": "Biānpìrùlǐ",
-     "en": "(B) Incisive"
+     "en": "(B) Incisive",
+     "idn": "(B) Tajam"
     },
     "C": {
      "zh": "陳腔濫調",
      "py": "Chénqiānglàndiào",
-     "en": "(C) Clichés"
+     "en": "(C) Clichés",
+     "idn": "(C) Kata-kata klise"
     },
     "D": {
      "zh": "隔靴搔癢",
      "py": "Géxuēsāoyǎng",
-     "en": "(D) Scratching an itch through a boot (missing the point)"
+     "en": "(D) Scratching an itch through a boot (missing the point)",
+     "idn": "(D) Menggaruk kaki dari luar sepatu (tidak kena sasaran)"
     }
    },
    "transcript": [
     {
      "zh": "這位小姐對網路影評的看法是什麼？",
      "py": "Zhèwèi Xiǎojiě duì wǎnglù yǐngpíng de kànfǎ shì shénme?",
-     "en": "What does the woman think of online film reviews?"
+     "en": "What does the woman think of online film reviews?",
+     "idn": "Bagaimana pendapat wanita itu tentang ulasan film daring?"
     }
    ]
   },
@@ -961,118 +1127,140 @@
     {
      "zh": "閱讀文章時，讀者的理解與作者想傳達的意思是否相同，一直是個有趣的問題。",
      "py": "Yuèdúwénzhāng shí, dúzhě de lǐjiě yǔ zuòzhě xiǎng chuándá de yìsi shìfǒu xiāngtóng, yìzhí shì gè yǒuqù de wèntí.",
-     "en": "When reading, whether the reader's understanding matches what the author wanted to convey has always been an interesting question."
+     "en": "When reading, whether the reader's understanding matches what the author wanted to convey has always been an interesting question.",
+     "idn": "Saat membaca, apakah pemahaman pembaca sesuai dengan yang ingin disampaikan penulis selalu menjadi pertanyaan yang menarik."
     },
     {
      "zh": "以下是一段針對這個話題的討論，請在聽完對話後回答四個問題。",
      "py": "Yǐxià shì yíduàn zhēnduì zhè ge huàtí de tǎolùn, qǐng zài tīngwán duìhuà hòu huídá sì ge wèntí.",
-     "en": "The following is a discussion on this topic. After listening, answer the four questions."
+     "en": "The following is a discussion on this topic. After listening, answer the four questions.",
+     "idn": "Berikut ini diskusi tentang topik ini. Setelah mendengarkan, jawab empat pertanyaan."
     }
    ],
    "options": {
     "A": {
      "zh": "樂不可支",
      "py": "Lèbùkězhī",
-     "en": "(A) Overjoyed"
+     "en": "(A) Overjoyed",
+     "idn": "(A) Sangat gembira"
     },
     "B": {
      "zh": "不足為奇",
      "py": "Bùzúwéiqí",
-     "en": "(B) Not surprising"
+     "en": "(B) Not surprising",
+     "idn": "(B) Tidak mengherankan"
     },
     "C": {
      "zh": "不以為然",
      "py": "Bùyǐwéirán",
-     "en": "(C) Disapproving"
+     "en": "(C) Disapproving",
+     "idn": "(C) Tidak setuju"
     },
     "D": {
      "zh": "悶悶不樂",
      "py": "Mènmènbúlè",
-     "en": "(D) Unhappy"
+     "en": "(D) Unhappy",
+     "idn": "(D) Tidak senang"
     }
    },
    "intro": [
     {
      "zh": "以下是一段針對這個話題的討論，請在聽完對話後回答四個問題。",
      "py": "Yǐxià shì yíduàn zhēnduì zhè ge huàtí de tǎolùn, qǐng zài tīngwán duìhuà hòu huídá sì ge wèntí.",
-     "en": "The following is a discussion on this topic. After listening, answer the four questions."
+     "en": "The following is a discussion on this topic. After listening, answer the four questions.",
+     "idn": "Berikut ini diskusi tentang topik ini. Setelah mendengarkan, jawab empat pertanyaan."
     },
     {
      "zh": "現在請聽討論。",
      "py": "Xiànzài qǐng tīng tǎolùn.",
-     "en": "Now listen to the discussion."
+     "en": "Now listen to the discussion.",
+     "idn": "Sekarang dengarkan diskusinya."
     },
     {
      "zh": "男：最近許多讀者來信說，我剛出版的新書雖然淺顯易懂，但卻蘊含人生哲理。",
      "py": "Nán: Zuìjìn xǔduō dúzhěláixìn shuō, wǒ gāng chūbǎn de xīnshū suīrán qiǎnxiǎnyìdǒng, dàn què yùnhán rénshēngzhélǐ.",
-     "en": "Man: Recently many readers have written to say that although my new book is easy to understand, it contains life wisdom."
+     "en": "Man: Recently many readers have written to say that although my new book is easy to understand, it contains life wisdom.",
+     "idn": "Pria: Belakangan banyak pembaca menulis surat yang mengatakan bahwa meskipun buku baru saya mudah dipahami, isinya mengandung kebijaksanaan hidup."
     },
     {
      "zh": "其實，讀者領悟出的這些「哲理」是我在寫作時從沒想過的，他們能從我的",
      "py": "Qíshí, dúzhě lǐngwùchū de zhèxiē “Zhélǐ” shì wǒ zài xiězuò shí cóngméi xiǎng guò de, tāmen néng cóng wǒ de",
-     "en": "Actually, the \"wisdom\" readers have taken from it is something I never thought of while writing. That they can read another meaning into my"
+     "en": "Actually, the \"wisdom\" readers have taken from it is something I never thought of while writing. That they can read another meaning into my",
+     "idn": "Sebenarnya, \"kebijaksanaan\" yang diambil pembaca dari buku itu sama sekali tidak terpikir oleh saya saat menulis. Bahwa mereka bisa membaca makna lain dari"
     },
     {
      "zh": "文章中解讀出另一番心得，甚至延伸出更精彩的人生道理來，實在是孺子可",
      "py": "Wénzhāng zhōng jiědú chū lìngyìfān xīndé, shènzhì yánshēn chūgèng jīngcǎi de rénshēng dàolǐ lái, shízài shì rúzi kě",
-     "en": "writing and even extend it into more wonderful life lessons—they really are promising"
+     "en": "writing and even extend it into more wonderful life lessons—they really are promising",
+     "idn": "tulisan saya, bahkan mengembangkannya menjadi pelajaran hidup yang lebih indah—mereka sungguh murid yang bisa"
     },
     {
      "zh": "教也啊！",
      "py": "Jiāo yě a!",
-     "en": "students!"
+     "en": "students!",
+     "idn": "(lanjutan) diajari!"
     },
     {
      "zh": "女：讀者又不是你的學生，還可教也呢！羅蘭‧巴特曾說：作者在完成作品後，",
      "py": "Nǚ: Dúzhě yòu búshì nǐ de xuéshēng, hái kějiào yěne! Luólán ‧ Bātè céng shuō: Zuòzhě zài wánchéng zuòpǐn hòu,",
-     "en": "Woman: Readers aren't your students—\"promising\" indeed! Roland Barthes once said that once the author finishes a work,"
+     "en": "Woman: Readers aren't your students—\"promising\" indeed! Roland Barthes once said that once the author finishes a work,",
+     "idn": "Wanita: Pembaca bukan muridmu—\"bisa diajari\" segala! Roland Barthes pernah berkata bahwa begitu penulis menyelesaikan karyanya,"
     },
     {
      "zh": "作者和作品間的關係就結束了。哪有像你這麼自滿的作者啊！",
      "py": "Zuòzhě hé zuòpǐn jiān de guānxì jiù jiéshù le. Nǎ yǒu xiàng nǐ zhème zìmǎn de zuòzhě a!",
-     "en": "the relationship between author and work is over. What author is as smug as you!"
+     "en": "the relationship between author and work is over. What author is as smug as you!",
+     "idn": "hubungan antara penulis dan karyanya pun berakhir. Penulis mana yang sesombong kamu!"
     },
     {
      "zh": "男：話是這樣說的嗎？雖然對於文章的解讀可能多少因人而異，但是，我認為好",
      "py": "Nán: Huà shì zhèyàng shuō de ma? Suīrán duìyú wénzhāng de jiědú kěnéng duōshǎo yīnrén'éryì, dànshì, wǒ rènwéi hǎo",
-     "en": "Man: Is that really so? Although interpretations of a text may differ from person to person, I think a good"
+     "en": "Man: Is that really so? Although interpretations of a text may differ from person to person, I think a good",
+     "idn": "Pria: Benarkah begitu? Meskipun tafsiran teks bisa berbeda-beda tiap orang, menurut saya teks yang"
     },
     {
      "zh": "的文章是能～是能，嗯，共鳴！作者和讀者之間是有共鳴的。什麼「書寫完",
      "py": "De wénzhāng shì néng~ shì néng, ń, gòngmíng! Zuòzhě hé dúzhě zhījiān shì yǒu gòngmíng de. Shénme “Shūxiě wán",
-     "en": "text can—can, um, resonate! There's resonance between author and reader. This \"the author is dead"
+     "en": "text can—can, um, resonate! There's resonance between author and reader. This \"the author is dead",
+     "idn": "baik bisa—bisa, hmm, beresonansi! Ada resonansi antara penulis dan pembaca. \"Penulis mati"
     },
     {
      "zh": "後作者已死」，我覺得那是不負責任的說法。再說了，寫書都不用負點社會",
      "py": "Hòu zuòzhě yǐ sǐ”, wǒ juéde nà shì búfùzérèn de shuōfǎ. Zàishuō le, xiě shū dōu búyòng fùdiǎn shèhuì",
-     "en": "once the writing is done\"—I think that's an irresponsible view. Besides, doesn't writing a book carry some social"
+     "en": "once the writing is done\"—I think that's an irresponsible view. Besides, doesn't writing a book carry some social",
+     "idn": "begitu tulisannya selesai\" ini—menurut saya itu pandangan yang tidak bertanggung jawab. Lagi pula, bukankah menulis buku membawa tanggung jawab"
     },
     {
      "zh": "責任啊？想寫啥就寫啥啊？",
      "py": "Zérèn a? Xiǎng xiě shá jiù xiě shá a?",
-     "en": "responsibility? Can you just write whatever you like?"
+     "en": "responsibility? Can you just write whatever you like?",
+     "idn": "sosial? Masa boleh menulis sesukanya?"
     },
     {
      "zh": "女：呦～臉紅脖子粗的！我年輕時，把經典的中國文學小說《紅樓夢》，讀成言",
      "py": "Nǚ: Yōu~ liǎnhóngbózicū de! Wǒ niánqīng shí, bǎ jīngdiǎn de Zhōngguó wénxué xiǎoshuō «Hónglóumèng», dúchéng yán",
-     "en": "Woman: Ooh, getting all red in the face! When I was young, I read the classic Chinese novel \"Dream of the Red Chamber\" as a"
+     "en": "Woman: Ooh, getting all red in the face! When I was young, I read the classic Chinese novel \"Dream of the Red Chamber\" as a",
+     "idn": "Wanita: Wah, sampai merah padam! Waktu muda, saya membaca novel klasik Tiongkok \"Impian di Paviliun Merah\" sebagai"
     },
     {
      "zh": "情小說。然而在有了一些人生歷練後，重新讀起舊書，卻有讀盡人生百態的",
      "py": "Qíng xiǎoshuō. Rán'ér zài yǒu le yìxiē rénshēng lìliàn hòu, chóngxīn dú qǐ jiùshū, què yǒu dú jǐn rénshēng bǎitài de",
-     "en": "romance. But after some life experience, rereading the old book, I felt it captured all the varieties of human"
+     "en": "romance. But after some life experience, rereading the old book, I felt it captured all the varieties of human",
+     "idn": "kisah cinta. Tetapi setelah punya pengalaman hidup, membaca kembali buku lama itu, saya merasa buku itu memuat segala ragam"
     },
     {
      "zh": "感慨。所以我想啊，一部作品永遠有被再詮釋的可能。",
      "py": "Gǎnkǎi. Suǒyǐ wǒ xiǎng a, yíbù zuòpǐn yǒngyuǎn yǒu bèi zài quánshì de kěnéng.",
-     "en": "life. So I think a work can always be reinterpreted."
+     "en": "life. So I think a work can always be reinterpreted.",
+     "idn": "kehidupan manusia. Jadi menurut saya sebuah karya selalu bisa ditafsirkan ulang."
     }
    ],
    "transcript": [
     {
      "zh": "這位先生對於讀者從他的書中領悟出心得，覺得如何？",
      "py": "Zhèwèi xiānsheng duìyú dúzhě cóng tā de shū zhōng lǐngwùchū xīndé, juéde rúhé?",
-     "en": "How does the man feel about readers gaining insights from his book?"
+     "en": "How does the man feel about readers gaining insights from his book?",
+     "idn": "Bagaimana perasaan pria itu tentang pembaca yang mendapat pencerahan dari bukunya?"
     }
    ]
   },
@@ -1081,29 +1269,34 @@
     "A": {
      "zh": "她想剖析讀者的心態",
      "py": "Tā xiǎng pōuxī dúzhě de xīntài",
-     "en": "(A) She wants to analyze readers' mindset."
+     "en": "(A) She wants to analyze readers' mindset.",
+     "idn": "(A) Dia ingin menganalisis pola pikir pembaca."
     },
     "B": {
      "zh": "她想探討作者的想法",
      "py": "Tā xiǎng tàntǎo zuòzhě de xiǎngfǎ",
-     "en": "(B) She wants to explore the author's thinking."
+     "en": "(B) She wants to explore the author's thinking.",
+     "idn": "(B) Dia ingin menggali pemikiran penulis."
     },
     "C": {
      "zh": "她想說明作者對讀者的影響力",
      "py": "Tā xiǎng shuōmíng zuòzhě duì dúzhě de yǐngxiǎnglì",
-     "en": "(C) She wants to explain the author's influence on readers."
+     "en": "(C) She wants to explain the author's influence on readers.",
+     "idn": "(C) Dia ingin menjelaskan pengaruh penulis terhadap pembaca."
     },
     "D": {
      "zh": "她想分析作者對文章的操控性",
      "py": "Tā xiǎng fēnxī zuòzhě duì wénzhāng de cāokòngxìng",
-     "en": "(D) She wants to analyze the author's control over the text."
+     "en": "(D) She wants to analyze the author's control over the text.",
+     "idn": "(D) Dia ingin menganalisis kendali penulis atas teks."
     }
    },
    "transcript": [
     {
      "zh": "這位小姐為什麼提到羅蘭‧巴特的論點？",
      "py": "Zhèwèi Xiǎojiě wèishénme tídào Luólán ‧ Bātè de lùndiǎn?",
-     "en": "Why does the woman mention Roland Barthes's argument?"
+     "en": "Why does the woman mention Roland Barthes's argument?",
+     "idn": "Mengapa wanita itu menyebutkan argumen Roland Barthes?"
     }
    ]
   },
@@ -1112,29 +1305,34 @@
     "A": {
      "zh": "讀者可以任意詮釋作品",
      "py": "Dúzhě kěyǐ rènyì quánshì zuòpǐn",
-     "en": "(A) Readers can interpret works however they like."
+     "en": "(A) Readers can interpret works however they like.",
+     "idn": "(A) Pembaca boleh menafsirkan karya sesukanya."
     },
     "B": {
      "zh": "讀者要能充分理解作者創作理念",
      "py": "Dúzhě yào néng chōngfèn lǐjiě zuòzhě chuàngzuò lǐniàn",
-     "en": "(B) Readers should fully understand the author's creative ideas."
+     "en": "(B) Readers should fully understand the author's creative ideas.",
+     "idn": "(B) Pembaca sebaiknya memahami sepenuhnya gagasan kreatif penulis."
     },
     "C": {
      "zh": "作者應避免讓讀者產生錯誤理解",
      "py": "Zuòzhě yīng bìmiǎn ràng dúzhě chǎnshēng cuòwù lǐjiě",
-     "en": "(C) Authors should avoid readers misunderstanding."
+     "en": "(C) Authors should avoid readers misunderstanding.",
+     "idn": "(C) Penulis sebaiknya menghindari salah paham pembaca."
     },
     "D": {
      "zh": "作者應該朝讀者能理解方向創作",
      "py": "Zuòzhě yīnggāi Cháo dúzhě néng lǐjiě fāngxiàng chuàngzuò",
-     "en": "(D) Authors should write in a way readers can understand."
+     "en": "(D) Authors should write in a way readers can understand.",
+     "idn": "(D) Penulis sebaiknya menulis dengan cara yang bisa dipahami pembaca."
     }
    },
    "transcript": [
     {
      "zh": "這位先生對於「解讀文本意義」的看法為何？",
      "py": "Zhèwèi xiānsheng duìyú “Jiědú wénběn yìyì” de kànfǎ wèihé?",
-     "en": "What is the man's view on \"interpreting the meaning of texts\"?"
+     "en": "What is the man's view on \"interpreting the meaning of texts\"?",
+     "idn": "Bagaimana pandangan pria itu tentang \"menafsirkan makna teks\"?"
     }
    ]
   },
@@ -1143,29 +1341,34 @@
     "A": {
      "zh": "從對生活的觀察反對巴特的見解",
      "py": "Cóngduì shēnghuó de guānchá fǎnduì Bātè de jiànjiě",
-     "en": "(A) Opposing Barthes's view from observations of life"
+     "en": "(A) Opposing Barthes's view from observations of life",
+     "idn": "(A) Menentang pandangan Barthes berdasarkan pengamatan kehidupan"
     },
     "B": {
      "zh": "從閱讀習慣的角度質疑巴特的看法",
      "py": "Cóng yuèdú xíguàn de jiǎodù zhìyí Bātè de kànfǎ",
-     "en": "(B) Questioning Barthes's view from the angle of reading habits"
+     "en": "(B) Questioning Barthes's view from the angle of reading habits",
+     "idn": "(B) Mempertanyakan pandangan Barthes dari sudut kebiasaan membaca"
     },
     "C": {
      "zh": "以中國文學的內容支持巴特的論點",
      "py": "Yǐ Zhōngguó wénxué de nèiróng zhīchí Bātè de lùndiǎn",
-     "en": "(C) Supporting Barthes's argument with the content of Chinese literature"
+     "en": "(C) Supporting Barthes's argument with the content of Chinese literature",
+     "idn": "(C) Mendukung argumen Barthes dengan isi sastra Tiongkok"
     },
     "D": {
      "zh": "以自身經驗為例間接贊同巴特的觀點",
      "py": "Yǐ zìshēn jīngyàn wéi lì jiànjiē zàntóng Bātè de guāndiǎn",
-     "en": "(D) Indirectly agreeing with Barthes's view using her own experience as an example"
+     "en": "(D) Indirectly agreeing with Barthes's view using her own experience as an example",
+     "idn": "(D) Secara tidak langsung menyetujui pandangan Barthes dengan pengalamannya sendiri sebagai contoh"
     }
    },
    "transcript": [
     {
      "zh": "這位小姐最後以什麼方式表達她的看法？",
      "py": "Zhèwèi Xiǎojiě zuìhòu yǐ shénme fāngshì biǎodá tā de kànfǎ?",
-     "en": "How does the woman express her view at the end?"
+     "en": "How does the woman express her view at the end?",
+     "idn": "Bagaimana wanita itu menyampaikan pandangannya di akhir?"
     }
    ]
   },
@@ -1174,128 +1377,152 @@
     {
      "zh": "「基因治療」是指將正常、健康的基因移植到病患有缺失或是功能不全的基因中，藉此治癒癌症或遺傳疾病等重大疾病。",
      "py": "“Jīyīnzhìliáo” shì zhǐ jiāng zhèngcháng, jiànkāng de jīyīn yízhí dào bìnghuàn yǒu quēshī huòshì gōngnéng bù quán de jīyīn zhōng, jiècǐ zhìyù áizhèng huò yíchuánjíbìng děng zhòngdà jíbìng.",
-     "en": "\"Gene therapy\" means transplanting normal, healthy genes into a patient's defective or malfunctioning genes in order to cure major diseases such as cancer or hereditary diseases."
+     "en": "\"Gene therapy\" means transplanting normal, healthy genes into a patient's defective or malfunctioning genes in order to cure major diseases such as cancer or hereditary diseases.",
+     "idn": "\"Terapi gen\" adalah menanamkan gen normal yang sehat ke dalam gen pasien yang cacat atau tidak berfungsi, untuk menyembuhkan penyakit berat seperti kanker atau penyakit keturunan."
     },
     {
      "zh": "以下是一段關於基因治療的討論，請聽完後回答四個問題。",
      "py": "Yǐxià shì yíduàn guānyú jīyīnzhìliáo de tǎolùn, qǐng tīng wán hòu huídá sì ge wèntí.",
-     "en": "The following is a discussion about gene therapy. After listening, answer the four questions."
+     "en": "The following is a discussion about gene therapy. After listening, answer the four questions.",
+     "idn": "Berikut ini diskusi tentang terapi gen. Setelah mendengarkan, jawab empat pertanyaan."
     }
    ],
    "options": {
     "A": {
      "zh": "沾沾自喜",
      "py": "Zhānzhānzìxǐ",
-     "en": "(A) Smugly pleased"
+     "en": "(A) Smugly pleased",
+     "idn": "(A) Puas diri"
     },
     "B": {
      "zh": "樂觀其成",
      "py": "Lèguānqíchéng",
-     "en": "(B) Hoping for its success"
+     "en": "(B) Hoping for its success",
+     "idn": "(B) Berharap terapi itu berhasil"
     },
     "C": {
      "zh": "憂心忡忡",
      "py": "Yōuxīnchōngchōng",
-     "en": "(C) Deeply worried"
+     "en": "(C) Deeply worried",
+     "idn": "(C) Sangat khawatir"
     },
     "D": {
      "zh": "不太贊同",
      "py": "Bú tài zàntóng",
-     "en": "(D) Not really in favor"
+     "en": "(D) Not really in favor",
+     "idn": "(D) Kurang setuju"
     }
    },
    "intro": [
     {
      "zh": "「基因治療」是指將正常、健康的基因移植到病患有缺失或是功能不全的基因中，",
      "py": "“Jīyīnzhìliáo” shì zhǐ jiāng zhèngcháng, jiànkāng de jīyīn yízhí dào bìnghuàn yǒu quēshī huòshì gōngnéng bù quán de jīyīn zhōng,",
-     "en": "\"Gene therapy\" means transplanting normal, healthy genes into a patient's defective or malfunctioning genes,"
+     "en": "\"Gene therapy\" means transplanting normal, healthy genes into a patient's defective or malfunctioning genes,",
+     "idn": "\"Terapi gen\" adalah menanamkan gen normal yang sehat ke dalam gen pasien yang cacat atau tidak berfungsi,"
     },
     {
      "zh": "藉此治癒癌症或遺傳疾病等重大疾病。以下是一段關於基因治療的討論，請聽完",
      "py": "Jiècǐ zhìyù áizhèng huò yíchuánjíbìng děng zhòngdà jíbìng. Yǐxià shì yíduàn guānyú jīyīnzhìliáo de tǎolùn, qǐng tīng wán",
-     "en": "in order to cure major diseases such as cancer or hereditary diseases. The following is a discussion about gene therapy. After listening,"
+     "en": "in order to cure major diseases such as cancer or hereditary diseases. The following is a discussion about gene therapy. After listening,",
+     "idn": "untuk menyembuhkan penyakit berat seperti kanker atau penyakit keturunan. Berikut ini diskusi tentang terapi gen. Setelah mendengarkan,"
     },
     {
      "zh": "後回答四個問題。",
      "py": "Hòu huídá sì ge wèntí.",
-     "en": "answer the four questions."
+     "en": "answer the four questions.",
+     "idn": "jawab empat pertanyaan."
     },
     {
      "zh": "現在請聽對話。",
      "py": "Xiànzài qǐng tīng duìhuà.",
-     "en": "Now listen to the conversation."
+     "en": "Now listen to the conversation.",
+     "idn": "Sekarang dengarkan percakapannya."
     },
     {
      "zh": "男：跟妳說個振奮人心的消息，新的基因療法正準備進入臨床試驗！哎，等了這",
      "py": "Nán: Gēn nǐ shuō gè zhènfènrénxīn de xiāoxī, xīn de jīyīn liáofǎ zhèng zhǔnbèi jìnrù línchuángshìyàn! Āi, děng le zhè",
-     "en": "Man: Here's some exciting news: a new gene therapy is about to enter clinical trials! Ah, after waiting so"
+     "en": "Man: Here's some exciting news: a new gene therapy is about to enter clinical trials! Ah, after waiting so",
+     "idn": "Pria: Ada kabar menggembirakan: terapi gen baru akan segera memasuki uji klinis! Ah, setelah menunggu"
     },
     {
      "zh": "麼多年，歷經了多少的研究，基因治療總算要成為革命性的醫學療法了！",
      "py": "Me duōnián, lìjīng le duōshǎo de yánjiū, jīyīnzhìliáo zǒngsuàn yào chéngwéi gémìngxìng de yīxué liáofǎ le!",
-     "en": "many years and so much research, gene therapy is finally going to become a revolutionary medical treatment!"
+     "en": "many years and so much research, gene therapy is finally going to become a revolutionary medical treatment!",
+     "idn": "bertahun-tahun dan begitu banyak penelitian, terapi gen akhirnya akan menjadi pengobatan medis yang revolusioner!"
     },
     {
      "zh": "女：嗯…這個消息對人類而言算不算是則福音還有待商榷吧，畢竟治療後的基因",
      "py": "Nǚ: ń… zhè ge xiāoxī duì rénlèi éryán suànbúsuàn shì zé fúyīn háiyǒu dài shāngquè ba, bìjìng zhìliáo hòu de jīyīn",
-     "en": "Woman: Hmm… whether this news is good news for humanity remains to be seen. After all, what effect treated genes will have"
+     "en": "Woman: Hmm… whether this news is good news for humanity remains to be seen. After all, what effect treated genes will have",
+     "idn": "Wanita: Hmm… apakah kabar ini kabar baik bagi umat manusia masih perlu dilihat. Bagaimanapun, apa dampak gen yang sudah diobati"
     },
     {
      "zh": "在演化上會起什麼作用，無人可知！貝格博士就說了，基因治療的同時，也",
      "py": "Zài yǎnhuà shànghuì qǐ shénme zuòyòng, wúrén kězhī! Bèigé bóshì jiù shuō le, jīyīnzhìliáo de tóngshí, yě",
-     "en": "in evolution, no one knows! Dr. Berg said that gene therapy might at the same time"
+     "en": "in evolution, no one knows! Dr. Berg said that gene therapy might at the same time",
+     "idn": "dalam evolusi, tidak ada yang tahu! Dr. Berg mengatakan bahwa terapi gen mungkin sekaligus"
     },
     {
      "zh": "可能剔除掉一些對人類而言重要的基因，像是鐮刀型貧血的基因缺陷其實對",
      "py": "Kěnéng tīchú diào yìxiē duì rénlèi éryán zhòngyào de jīyīn, xiàngshì liándāo xíng pínxuè de jīyīn quēxiàn qíshí duì",
-     "en": "eliminate some genes important to humans—for example, the genetic defect behind sickle-cell anemia actually gives"
+     "en": "eliminate some genes important to humans—for example, the genetic defect behind sickle-cell anemia actually gives",
+     "idn": "menghilangkan beberapa gen yang penting bagi manusia—misalnya, cacat genetik penyebab anemia sel sabit justru memberi"
     },
     {
      "zh": "瘧疾就具有免疫力。所以，執行基因療法前實在得謹慎思考：一旦改變了人",
      "py": "Nüèjí jiù jùyǒu miǎnyìlì. Suǒyǐ, zhíxíng jīyīn liáofǎ qián shízài de jǐnshèn sīkǎo: Yídàn gǎibiàn le rén",
-     "en": "immunity to malaria. So before carrying out gene therapy we really must think carefully: once we change human"
+     "en": "immunity to malaria. So before carrying out gene therapy we really must think carefully: once we change human",
+     "idn": "kekebalan terhadap malaria. Jadi sebelum melakukan terapi gen kita sungguh harus berpikir matang: begitu kita mengubah gen"
     },
     {
      "zh": "類的基因，會不會對未來世代造成其他傷害？",
      "py": "Lèi de jīyīn, huì búhuì duì wèilái shìdài zàochéng qítā shānghài?",
-     "en": "genes, will it cause other harm to future generations?"
+     "en": "genes, will it cause other harm to future generations?",
+     "idn": "manusia, apakah akan menimbulkan kerugian lain bagi generasi mendatang?"
     },
     {
      "zh": "男：你太杞人憂天了吧，不論是父母本身患有重症需要接受基因治療，或是帶有",
      "py": "Nán: Nǐ tài qǐrényōutiān le ba, búlùnshì fùmǔ běnshēn huànyǒu zhòngzhèng xūyào jiēshòu jīyīnzhìliáo, huòshì dàiyǒu",
-     "en": "Man: You worry too much. Whether it's parents with serious illnesses who need gene therapy, or parents carrying"
+     "en": "Man: You worry too much. Whether it's parents with serious illnesses who need gene therapy, or parents carrying",
+     "idn": "Pria: Kamu terlalu khawatir. Baik orang tua dengan penyakit berat yang membutuhkan terapi gen, maupun orang tua pembawa"
     },
     {
      "zh": "基因缺陷的父母，為了後代著想而選擇了基因治療，都是一種「不得不」的",
      "py": "Jīyīn quēxiàn de fùmǔ, wèile hòudài zhuóxiǎng ér xuǎnzé le jīyīnzhìliáo, dōu shì yìzhǒng “Bùdébù” de",
-     "en": "genetic defects who choose gene therapy for their children's sake, it's a choice they \"have no choice\" but to"
+     "en": "genetic defects who choose gene therapy for their children's sake, it's a choice they \"have no choice\" but to",
+     "idn": "cacat genetik yang memilih terapi gen demi anak-anaknya, itu adalah pilihan yang \"terpaksa\""
     },
     {
      "zh": "選擇啊。更何況如果這一代人不健康又如何生養下一代？又怎麼可能對未來",
      "py": "Xuǎnzé a. Gènghékuàng rúguǒ zhè yídàirén bú jiànkāng yòu rúhé shēngyǎng xiàyídài? Yòu zěnme kěnéng duì wèilái",
-     "en": "make. Besides, if this generation isn't healthy, how can it raise the next? And how could it possibly take responsibility for the survival of future"
+     "en": "make. Besides, if this generation isn't healthy, how can it raise the next? And how could it possibly take responsibility for the survival of future",
+     "idn": "mereka ambil. Lagi pula, kalau generasi ini tidak sehat, bagaimana bisa membesarkan generasi berikutnya? Dan mana mungkin bertanggung jawab atas kelangsungan hidup generasi"
     },
     {
      "zh": "世代的生存負起責任呢？",
      "py": "Shìdài de shēngcún fù qǐ zérèn ne?",
-     "en": "generations?"
+     "en": "generations?",
+     "idn": "mendatang?"
     },
     {
      "zh": "女：話是這麼說沒錯，但基因治療的相關決策關乎了人類生命的演變，我認為還",
      "py": "Nǚ: Huà shì zhème shuō méicuò, dàn jīyīnzhìliáo de xiāngguān juécè guānhū le rénlèi shēngmìng de yǎnbiàn, wǒ rènwéi hái",
-     "en": "Woman: That's true, but decisions about gene therapy concern the evolution of human life. I still think"
+     "en": "Woman: That's true, but decisions about gene therapy concern the evolution of human life. I still think",
+     "idn": "Wanita: Memang benar, tapi keputusan tentang terapi gen menyangkut evolusi kehidupan manusia. Saya tetap merasa"
     },
     {
      "zh": "是不能不預先設想它的流弊，防微杜漸啊！",
      "py": "Shì bùnéngbú yùxiān shèxiǎng tā de liúbì, fángwēidùjiàn a!",
-     "en": "we have to anticipate its drawbacks in advance and nip problems in the bud!"
+     "en": "we have to anticipate its drawbacks in advance and nip problems in the bud!",
+     "idn": "kita harus mengantisipasi kekurangannya sejak awal dan mencegah masalah sejak dini!"
     }
    ],
    "transcript": [
     {
      "zh": "這位先生對於將要進行的臨床試驗態度為何？",
      "py": "Zhèwèi xiānsheng duìyú jiāngyào jìnxíng de línchuángshìyàn tàidù wèihé?",
-     "en": "What is the man's attitude toward the upcoming clinical trials?"
+     "en": "What is the man's attitude toward the upcoming clinical trials?",
+     "idn": "Bagaimana sikap pria itu terhadap uji klinis yang akan datang?"
     }
    ]
   },
@@ -1304,29 +1531,34 @@
     "A": {
      "zh": "說明它可靠基因療法治癒",
      "py": "Shuōmíng tā kěkào jīyīn liáofǎ zhìyù",
-     "en": "(A) To show it can be cured by gene therapy"
+     "en": "(A) To show it can be cured by gene therapy",
+     "idn": "(A) Untuk menunjukkan bahwa penyakit itu bisa disembuhkan dengan terapi gen"
     },
     "B": {
      "zh": "指出瘧疾患者不易得此病",
      "py": "Zhǐchū nüèjí huànzhě búyì dé cǐbìng",
-     "en": "(B) To point out that malaria patients rarely get it"
+     "en": "(B) To point out that malaria patients rarely get it",
+     "idn": "(B) Untuk menunjukkan bahwa pasien malaria jarang mengidapnya"
     },
     "C": {
      "zh": "說明缺陷基因仍有些用處",
      "py": "Shuōmíng quēxiàn jīyīn réng yǒuxiē yòngchǔ",
-     "en": "(C) To show that defective genes still have some uses"
+     "en": "(C) To show that defective genes still have some uses",
+     "idn": "(C) Untuk menunjukkan bahwa gen yang cacat pun masih ada gunanya"
     },
     "D": {
      "zh": "解釋得病者免疫力會降低",
      "py": "Jiěshì dé bìngzhě miǎnyìlì huì jiàngdī",
-     "en": "(D) To explain that sufferers' immunity is lowered"
+     "en": "(D) To explain that sufferers' immunity is lowered",
+     "idn": "(D) Untuk menjelaskan bahwa kekebalan penderitanya menurun"
     }
    },
    "transcript": [
     {
      "zh": "對話中，為什麼提到鐮刀型貧血這個疾病？",
      "py": "Duìhuà zhōng, wèishénme tídào liándāo xíng pínxuè zhè ge jíbìng?",
-     "en": "In the conversation, why is sickle-cell anemia mentioned?"
+     "en": "In the conversation, why is sickle-cell anemia mentioned?",
+     "idn": "Dalam percakapan, mengapa anemia sel sabit disebutkan?"
     }
    ]
   },
@@ -1335,29 +1567,34 @@
     "A": {
      "zh": "因為他對於基因療法有絕對的信心",
      "py": "Yīnwèi tā duìyú jīyīn liáofǎ yǒu juéduì de xìnxīn",
-     "en": "(A) Because he has absolute confidence in gene therapy"
+     "en": "(A) Because he has absolute confidence in gene therapy",
+     "idn": "(A) Karena dia sangat yakin pada terapi gen"
     },
     "B": {
      "zh": "因為他認為病患康復才是當務之急",
      "py": "Yīnwèi tā rènwéi bìnghuàn Kāngfù cái shì dāngwùzhījí",
-     "en": "(B) Because he thinks the patients' recovery is the top priority"
+     "en": "(B) Because he thinks the patients' recovery is the top priority",
+     "idn": "(B) Karena dia merasa kesembuhan pasien adalah prioritas utama"
     },
     "C": {
      "zh": "因為基因療法目前的運用相當有限",
      "py": "Yīnwèi jīyīn liáofǎ mùqián de yùnyòng xiāngdāng yǒuxiàn",
-     "en": "(C) Because gene therapy's current applications are quite limited"
+     "en": "(C) Because gene therapy's current applications are quite limited",
+     "idn": "(C) Karena penerapan terapi gen saat ini cukup terbatas"
     },
     "D": {
      "zh": "因為後代的健康問題與這代人無關",
      "py": "Yīnwèi hòudài de jiànkāng wèntí yǔ zhè dàirén wúguān",
-     "en": "(D) Because the next generation's health has nothing to do with this one"
+     "en": "(D) Because the next generation's health has nothing to do with this one",
+     "idn": "(D) Karena kesehatan generasi berikutnya tidak ada hubungannya dengan generasi ini"
     }
    },
    "transcript": [
     {
      "zh": "這位先生為什麼說這位小姐的說法杞人憂天？",
      "py": "Zhèwèi xiānsheng wèishénme shuō zhèwèi Xiǎojiě de shuōfǎ qǐrényōutiān?",
-     "en": "Why does the man say the woman is worrying needlessly?"
+     "en": "Why does the man say the woman is worrying needlessly?",
+     "idn": "Mengapa pria itu berkata wanita itu terlalu khawatir?"
     }
    ]
   },
@@ -1366,29 +1603,34 @@
     "A": {
      "zh": "基因治療涉及了生命的源頭",
      "py": "Jīyīnzhìliáo shèjí le shēngmìng de yuántóu",
-     "en": "(A) Gene therapy involves the very source of life."
+     "en": "(A) Gene therapy involves the very source of life.",
+     "idn": "(A) Terapi gen menyangkut sumber kehidupan itu sendiri."
     },
     "B": {
      "zh": "醫學的發展通常不受到控制",
      "py": "Yīxué de fāzhǎn tōngcháng bú shòudào kòngzhì",
-     "en": "(B) Medical developments are usually uncontrolled."
+     "en": "(B) Medical developments are usually uncontrolled.",
+     "idn": "(B) Perkembangan medis biasanya tidak terkendali."
     },
     "C": {
      "zh": "相關決策可能改變研究走向",
      "py": "Xiāngguān juécè kěnéng gǎibiàn yánjiū zǒuxiàng",
-     "en": "(C) Related decisions may change the direction of research."
+     "en": "(C) Related decisions may change the direction of research.",
+     "idn": "(C) Keputusan terkait mungkin mengubah arah penelitian."
     },
     "D": {
      "zh": "人類對此療法的了解還太少",
      "py": "Rénlèi duìcǐ liáofǎ de liǎojiě hái tài shǎo",
-     "en": "(D) Humans still know too little about this therapy."
+     "en": "(D) Humans still know too little about this therapy.",
+     "idn": "(D) Manusia masih terlalu sedikit mengetahui terapi ini."
     }
    },
    "transcript": [
     {
      "zh": "這位小姐為什麼認為必須預先設想基因療法的流弊？",
      "py": "Zhèwèi Xiǎojiě wèishénme rènwéi bìxū yùxiān shèxiǎng jīyīn liáofǎ de liúbì?",
-     "en": "Why does the woman think the drawbacks of gene therapy must be anticipated in advance?"
+     "en": "Why does the woman think the drawbacks of gene therapy must be anticipated in advance?",
+     "idn": "Menurut wanita itu, mengapa kekurangan terapi gen harus diantisipasi sejak awal?"
     }
    ]
   },
@@ -1397,76 +1639,90 @@
     "A": {
      "zh": "社會成本太高",
      "py": "Shèhuì chéngběn tài gāo",
-     "en": "(A) The social cost is too high."
+     "en": "(A) The social cost is too high.",
+     "idn": "(A) Biaya sosialnya terlalu tinggi."
     },
     "B": {
      "zh": "投資報酬率過低",
      "py": "Tóuzī bàochóulǜ guò dī",
-     "en": "(B) The return on investment is too low."
+     "en": "(B) The return on investment is too low.",
+     "idn": "(B) Imbal hasil investasinya terlalu rendah."
     },
     "C": {
      "zh": "病患生活不見起色",
      "py": "Bìnghuàn shēnghuó bújiàn qǐsè",
-     "en": "(C) Patients' lives haven't improved."
+     "en": "(C) Patients' lives haven't improved.",
+     "idn": "(C) Kehidupan pasien tidak membaik."
     },
     "D": {
      "zh": "健康保險受益不大",
      "py": "Jiànkāng bǎoxiǎn shòuyì bú dà",
-     "en": "(D) Health insurance benefits little."
+     "en": "(D) Health insurance benefits little.",
+     "idn": "(D) Manfaat bagi asuransi kesehatan kecil."
     }
    },
    "intro": [
     {
      "zh": "請聽這一段和腦部疾病有關的報導，然後回答兩個問題。",
      "py": "Qǐng tīng zhè yíduàn hé nǎobù jíbìng yǒuguān de bàodǎo, ránhòu huídá liǎng ge wèntí.",
-     "en": "Listen to this report about brain diseases and then answer the two questions."
+     "en": "Listen to this report about brain diseases and then answer the two questions.",
+     "idn": "Dengarkan laporan tentang penyakit otak ini, lalu jawab dua pertanyaan."
     },
     {
      "zh": "目前在歐美國家因腦脊髓問題而傷殘的人數約有六十萬，腦部受創傷的病人",
      "py": "Mùqián zài Ōuměiguójiā yīn nǎojísuǐ wèntí ér shāngcán de rénshù yuē yǒu liùshíwàn, nǎobù shòu chuāngshāng de bìngrén",
-     "en": "Currently about 600,000 people in Europe and America are disabled by brain and spinal cord problems, and patients with brain injuries"
+     "en": "Currently about 600,000 people in Europe and America are disabled by brain and spinal cord problems, and patients with brain injuries",
+     "idn": "Saat ini sekitar 600.000 orang di Eropa dan Amerika menjadi penyandang disabilitas akibat masalah otak dan sumsum tulang belakang, dan pasien cedera otak"
     },
     {
      "zh": "更有此十倍之多。研發相關療法及藥品所能帶來的經濟效益，對藥商和健康保險",
      "py": "Gèng yǒu cǐ shíbèi zhī duō. Yánfā xiāngguān liáofǎ jí yàopǐn suǒ néng dàilái de jīngjìxiàoyì, duì yàoshāng hé jiànkāng bǎoxiǎn",
-     "en": "number ten times more. The economic benefits of developing related treatments and drugs offer huge potential profits"
+     "en": "number ten times more. The economic benefits of developing related treatments and drugs offer huge potential profits",
+     "idn": "jumlahnya sepuluh kali lipat. Manfaat ekonomi dari mengembangkan pengobatan dan obat terkait menawarkan potensi keuntungan yang sangat besar"
     },
     {
      "zh": "業而言是有龐大利益可圖的。但即使如此，許多藥商卻陸陸續續從神經疾病藥物",
      "py": "Yè éryán shì yǒu pángdà lìyì kětú de. Dàn jíshǐrúcǐ, xǔduō yàoshāng què lùlùxùxù cóng shénjīng jíbìng yàowù",
-     "en": "for drug companies and health insurers. Even so, many drug companies have one after another withdrawn from developing drugs for neurological"
+     "en": "for drug companies and health insurers. Even so, many drug companies have one after another withdrawn from developing drugs for neurological",
+     "idn": "bagi perusahaan farmasi dan perusahaan asuransi kesehatan. Meski begitu, banyak perusahaan farmasi satu demi satu mundur dari pengembangan obat untuk penyakit"
     },
     {
      "zh": "的開發中退場。",
      "py": "De kāifā zhōng tuìchǎng.",
-     "en": "diseases."
+     "en": "diseases.",
+     "idn": "saraf."
     },
     {
      "zh": "這個原因十分簡單，先前的投資還未回收，過去十到十五年的臨床試驗都以",
      "py": "Zhè ge yuányīn shífēn jiǎndān, xiānqián de tóuzī hái wèi huíshōu, guòqù shí dào shíwǔnián de línchuángshìyàn dōu yǐ",
-     "en": "The reason is very simple: previous investments haven't been recouped, and clinical trials over the past ten to fifteen years have all"
+     "en": "The reason is very simple: previous investments haven't been recouped, and clinical trials over the past ten to fifteen years have all",
+     "idn": "Alasannya sangat sederhana: investasi sebelumnya belum kembali, dan uji klinis selama sepuluh sampai lima belas tahun terakhir semuanya"
     },
     {
      "zh": "失敗收場，要重拾藥物開發，不但得先克服過去遇到的問題，還須藉由跨領域的",
      "py": "Shībài shōuchǎng, yào zhòngshí yàowù kāifā, búdàn děi xiān kèfú guòqù yùdào de wèntí, hái xū jiè yóu kuà lǐngyù de",
-     "en": "ended in failure. To restart drug development, they must not only overcome past problems but also, through cross-disciplinary"
+     "en": "ended in failure. To restart drug development, they must not only overcome past problems but also, through cross-disciplinary",
+     "idn": "berakhir gagal. Untuk memulai kembali pengembangan obat, mereka tidak hanya harus mengatasi masalah masa lalu, tetapi juga melalui"
     },
     {
      "zh": "交流，找出具有潛力的化合物、確定雙方研發時所能投入的資金，再針對這些化",
      "py": "Jiāoliú, zhǎochū jùyǒu qiánlì de huàhéwù, quèdìng shuāngfāng yánfā shí suǒ néng tóurù de zījīn, zài zhēnduì zhèxiē huà",
-     "en": "exchange, find promising compounds, determine how much funding both sides can put into development, and then carry out"
+     "en": "exchange, find promising compounds, determine how much funding both sides can put into development, and then carry out",
+     "idn": "pertukaran lintas disiplin menemukan senyawa yang menjanjikan, menentukan berapa banyak dana yang bisa dikeluarkan kedua pihak untuk pengembangan, lalu melakukan"
     },
     {
      "zh": "合物進行妥善的小型臨床研究。如此，在藥物開發上才可能跨出一步。",
      "py": "Héwù jìnxíng tuǒshàn de xiǎoxíng línchuáng yánjiū. Rúcǐ, zài yàowù kāifā shàngcái kěnéng kuà chū yíbù.",
-     "en": "proper small-scale clinical studies on these compounds. Only then can a step forward be taken in drug development."
+     "en": "proper small-scale clinical studies on these compounds. Only then can a step forward be taken in drug development.",
+     "idn": "studi klinis skala kecil yang tepat terhadap senyawa itu. Barulah pengembangan obat bisa maju selangkah."
     }
    ],
    "transcript": [
     {
      "zh": "為什麼藥商不願意繼續開發神經疾病的藥物？",
      "py": "Wèishénme yàoshāng bú yuànyì jìxù kāifā shénjīng jíbìng de yàowù?",
-     "en": "Why are drug companies unwilling to keep developing drugs for neurological diseases?"
+     "en": "Why are drug companies unwilling to keep developing drugs for neurological diseases?",
+     "idn": "Mengapa perusahaan farmasi enggan terus mengembangkan obat untuk penyakit saraf?"
     }
    ]
   },
@@ -1475,29 +1731,34 @@
     "A": {
      "zh": "擴大施藥對象",
      "py": "Kuòdà shīyào duìxiàng",
-     "en": "(A) Expanding the range of patients treated"
+     "en": "(A) Expanding the range of patients treated",
+     "idn": "(A) Memperluas cakupan pasien yang diobati"
     },
     "B": {
      "zh": "籌措研發資金",
      "py": "Chóucuò yánfā zījīn",
-     "en": "(B) Raising funds for research"
+     "en": "(B) Raising funds for research",
+     "idn": "(B) Menggalang dana untuk penelitian"
     },
     "C": {
      "zh": "結合跨領域的創新",
      "py": "Jiéhé kuà lǐngyù de chuàngxīn",
-     "en": "(C) Combining cross-disciplinary innovation"
+     "en": "(C) Combining cross-disciplinary innovation",
+     "idn": "(C) Memadukan inovasi lintas disiplin"
     },
     "D": {
      "zh": "大規模的臨床實驗",
      "py": "Dàguīmó de línchuángshíyàn",
-     "en": "(D) Large-scale clinical trials"
+     "en": "(D) Large-scale clinical trials",
+     "idn": "(D) Uji klinis skala besar"
     }
    },
    "transcript": [
     {
      "zh": "藥商若要重新開發藥物，必須怎麼做？",
      "py": "Yàoshāng ruò yào chóngxīn kāifā yàowù, bìxū zěnme zuò?",
-     "en": "If drug companies want to restart drug development, what must they do?"
+     "en": "If drug companies want to restart drug development, what must they do?",
+     "idn": "Jika perusahaan farmasi ingin memulai kembali pengembangan obat, apa yang harus mereka lakukan?"
     }
    ]
   },
@@ -1506,108 +1767,128 @@
     {
      "zh": "物理學家在研究了蜂蜜的「繩捲效應」後，提出了目前的發現，請聽這段研究報告，然後回答以下三個問題。",
      "py": "Wùlǐxuéjiā zài yánjiū le fēngmì de “Shéngjuǎn xiàoyìng” hòu, tíchū le mùqián de fāxiàn, qǐng tīng zhèduàn yánjiū bàogào, ránhòu huídá yǐxià sān ge wèntí.",
-     "en": "After studying the \"rope coiling effect\" of honey, physicists presented their current findings. Listen to this research report and then answer the three questions below."
+     "en": "After studying the \"rope coiling effect\" of honey, physicists presented their current findings. Listen to this research report and then answer the three questions below.",
+     "idn": "Setelah meneliti \"efek gulungan tali\" pada madu, para fisikawan memaparkan temuan mereka saat ini. Dengarkan laporan penelitian ini, lalu jawab tiga pertanyaan di bawah."
     }
    ],
    "options": {
     "A": {
      "zh": "適用於解釋各類流體落下的情形",
      "py": "Shìyòng yú jiěshì gèlèi liútǐ làxià de qíngxíng",
-     "en": "(A) It applies to explaining how all kinds of fluids fall."
+     "en": "(A) It applies to explaining how all kinds of fluids fall.",
+     "idn": "(A) Berlaku untuk menjelaskan cara jatuh semua jenis cairan."
     },
     "B": {
      "zh": "早在 1950 年代就有相關研究成果",
      "py": "Zǎo zài 1950 niándài jiù yǒu xiāngguān yánjiūchéngguǒ",
-     "en": "(B) There were related research results as early as the 1950s."
+     "en": "(B) There were related research results as early as the 1950s.",
+     "idn": "(B) Sudah ada hasil penelitian terkait sejak tahun 1950-an."
     },
     "C": {
      "zh": "由命名的物理學家完成理論的建立",
      "py": "Yóu mìngmíng de wùlǐxuéjiā wánchéng lǐlùn de jiànlì",
-     "en": "(C) The physicist it was named after established the theory."
+     "en": "(C) The physicist it was named after established the theory.",
+     "idn": "(C) Fisikawan yang namanya dipakai adalah yang membangun teorinya."
     },
     "D": {
      "zh": "命名的方式與流體落下的形式有關",
      "py": "Mìngmíng de fāngshì yǔ liútǐ làxià de xíngshì yǒuguān",
-     "en": "(D) The way it was named relates to how the fluid falls."
+     "en": "(D) The way it was named relates to how the fluid falls.",
+     "idn": "(D) Cara penamaannya berkaitan dengan cara cairan itu jatuh."
     }
    },
    "intro": [
     {
      "zh": "物理學家在研究了蜂蜜的「繩捲效應」後，提出了目前的發現，請聽這段",
      "py": "Wùlǐxuéjiā zài yánjiū le fēngmì de “Shéngjuǎn xiàoyìng” hòu, tíchū le mùqián de fāxiàn, qǐng tīng zhèduàn",
-     "en": "After studying the \"rope coiling effect\" of honey, physicists presented their current findings. Listen to this"
+     "en": "After studying the \"rope coiling effect\" of honey, physicists presented their current findings. Listen to this",
+     "idn": "Setelah meneliti \"efek gulungan tali\" pada madu, para fisikawan memaparkan temuan mereka saat ini. Dengarkan"
     },
     {
      "zh": "研究報告，然後回答以下三個問題。",
      "py": "Yánjiū bàogào, ránhòu huídá yǐxià sān ge wèntí.",
-     "en": "research report and then answer the three questions below."
+     "en": "research report and then answer the three questions below.",
+     "idn": "laporan penelitian ini, lalu jawab tiga pertanyaan di bawah."
     },
     {
      "zh": "現在請聽報告。",
      "py": "Xiànzài qǐng tīng bàogào.",
-     "en": "Now listen to the report."
+     "en": "Now listen to the report.",
+     "idn": "Sekarang dengarkan laporannya."
     },
     {
      "zh": "當蜂蜜垂直落到吐司表面時，並不會均勻地往各個方向流散開來，而是轉啊",
      "py": "Dāng fēngmì chuízhí luòdào tǔsī biǎomiàn shí, bìng búhuì jūnyún de wǎng gè ge fāngxiàng liúsàn kāilái, érshì zhuǎn a",
-     "en": "When honey falls vertically onto the surface of toast, it doesn't spread out evenly in all directions; instead it turns"
+     "en": "When honey falls vertically onto the surface of toast, it doesn't spread out evenly in all directions; instead it turns",
+     "idn": "Ketika madu jatuh tegak lurus ke permukaan roti panggang, madu tidak menyebar merata ke segala arah; justru berputar"
     },
     {
      "zh": "轉地，像繩子般盤繞落下。這個有趣的現象早在 1950 年代就已有物理學家開始",
      "py": "Zhuǎndì, xiàng shéngzi bān pánrào làxià. Zhè ge yǒuqù de xiànxiàng zǎo zài 1950 niándài jiù yǐyǒu wùlǐxuéjiā kāishǐ",
-     "en": "and turns, coiling down like a rope. Physicists began investigating this interesting phenomenon as early as the 1950s"
+     "en": "and turns, coiling down like a rope. Physicists began investigating this interesting phenomenon as early as the 1950s",
+     "idn": "dan berputar, menggulung turun seperti tali. Para fisikawan sudah mulai menyelidiki fenomena menarik ini sejak tahun 1950-an"
     },
     {
      "zh": "探究，並把它稱為液體的「繩捲效應」，但直到最近，我們對這個現象才有進一",
      "py": "Tànjiū, bìng bǎ tā chēngwéi yètǐ de “Shéngjuǎn xiàoyìng”, dàn zhídào zuìjìn, wǒmen duì zhè ge xiànxiàng cái yǒu jìn yī",
-     "en": "and called it the \"rope coiling effect\" of liquids, but only recently have we gained a deeper"
+     "en": "and called it the \"rope coiling effect\" of liquids, but only recently have we gained a deeper",
+     "idn": "dan menyebutnya \"efek gulungan tali\" pada cairan, tetapi baru belakangan ini kita memperoleh pemahaman yang lebih"
     },
     {
      "zh": "步的認識。",
      "py": "Bù de rènshi.",
-     "en": "understanding of it."
+     "en": "understanding of it.",
+     "idn": "mendalam tentangnya."
     },
     {
      "zh": "在系統性的實驗後，我們發現，不同的液體在落下時可能有幾種不同的形式，",
      "py": "Zài xìtǒngxìng de shíyàn hòu, wǒmen fāxiàn, bùtóng de yètǐ zài làxià shí kěnéng yǒu jǐzhǒng bùtóng de xíngshì,",
-     "en": "After systematic experiments, we found that different liquids may fall in several different ways,"
+     "en": "After systematic experiments, we found that different liquids may fall in several different ways,",
+     "idn": "Setelah eksperimen yang sistematis, kami menemukan bahwa cairan yang berbeda bisa jatuh dengan beberapa cara berbeda,"
     },
     {
      "zh": "像是延長、彎曲或扭轉。而決定液體變形的主要關鍵在於往下拉的重力以及液體",
      "py": "Xiàngshì yáncháng, wānqū huò niǔzhuǎn. Ér juédìng yètǐ biànxíng de zhǔyào guānjiànzàiyú wǎngxiàlā de zhònglì yǐjí yètǐ",
-     "en": "such as stretching, bending or twisting. The main factors determining how a liquid deforms are the downward pull of gravity and the friction between the liquid"
+     "en": "such as stretching, bending or twisting. The main factors determining how a liquid deforms are the downward pull of gravity and the friction between the liquid",
+     "idn": "seperti meregang, melengkung, atau memuntir. Faktor utama yang menentukan bagaimana cairan berubah bentuk adalah tarikan gravitasi ke bawah dan gesekan antara cairan"
     },
     {
      "zh": "與空氣間的摩擦力，也就是液體內部的黏度。因此，雖然流體力學中常以歐拉方",
      "py": "Yǔ kōngqì jiān de mócālì, yě jiùshì yètǐ nèibù de niándù. Yīncǐ, suīrán liútǐlìxué zhōngcháng yǐ Ōulā fāng",
-     "en": "and the air, that is, the liquid's internal viscosity. So although fluid dynamics often uses the Euler equations"
+     "en": "and the air, that is, the liquid's internal viscosity. So although fluid dynamics often uses the Euler equations",
+     "idn": "dan udara, yaitu kekentalan internal cairan. Jadi meskipun dinamika fluida sering memakai persamaan Euler"
     },
     {
      "zh": "程式來解釋各類流體現象，但由於它定義的流體通常黏性極低，所以當面對像蜂",
      "py": "Chéngshì lái jiěshì gèlèi liútǐ xiànxiàng, dàn yóuyú tā dìngyì de liútǐ tōngcháng niánxìng jí dī, suǒyǐ dāng miànduì xiàng fēng",
-     "en": "to explain all kinds of fluid phenomena, because the fluids they define usually have extremely low viscosity, they are helpless when faced with sticky fluids like"
+     "en": "to explain all kinds of fluid phenomena, because the fluids they define usually have extremely low viscosity, they are helpless when faced with sticky fluids like",
+     "idn": "untuk menjelaskan berbagai fenomena fluida, karena fluida yang didefinisikannya biasanya berkekentalan sangat rendah, persamaan itu tidak berdaya menghadapi fluida lengket seperti"
     },
     {
      "zh": "蜜這類黏答答的流體時，便束手無策了。",
      "py": "Mì zhèlèi nián dádá de liútǐ shí, biàn shùshǒuwúcè le.",
-     "en": "honey."
+     "en": "honey.",
+     "idn": "madu."
     },
     {
      "zh": "最後，我們參照了牛頓運動定律，希望根據實驗，發展出一套能說明繩捲效",
      "py": "Zuìhòu, wǒmen cānzhào le Niúdùn yùndòngdìnglǜ, xīwàng gēnjù shíyàn, fāzhǎn chū yítào néng shuōmíng shéngjuǎn xiào",
-     "en": "Finally, with reference to Newton's laws of motion, we hope to develop from the experiments a set of mathematical equations that can explain the rope coiling"
+     "en": "Finally, with reference to Newton's laws of motion, we hope to develop from the experiments a set of mathematical equations that can explain the rope coiling",
+     "idn": "Akhirnya, dengan merujuk hukum gerak Newton, kami berharap dari eksperimen bisa mengembangkan seperangkat persamaan matematika yang bisa menjelaskan efek gulungan"
     },
     {
      "zh": "應的數學方程式，來證明繩捲現象可以由不同的模式產生。",
      "py": "Yìng de shùxué fāngchéngshì, lái zhèngmíng shéngjuǎn xiànxiàng kěyǐ yóu bùtóng de móshì chǎnshēng.",
-     "en": "effect, to prove that rope coiling can arise from different modes."
+     "en": "effect, to prove that rope coiling can arise from different modes.",
+     "idn": "tali, untuk membuktikan bahwa gulungan tali bisa muncul dari berbagai mode."
     }
    ],
    "transcript": [
     {
      "zh": "關於「繩捲效應」，下面哪一個是對的？",
      "py": "Guānyú “Shéngjuǎn xiàoyìng”, xiàmiàn nǎ yí ge shì duì de?",
-     "en": "About the \"rope coiling effect,\" which of the following is correct?"
+     "en": "About the \"rope coiling effect,\" which of the following is correct?",
+     "idn": "Mengenai \"efek gulungan tali\", manakah pernyataan berikut yang benar?"
     }
    ]
   },
@@ -1616,29 +1897,34 @@
     "A": {
      "zh": "說明不能解釋繩捲效應的原因",
      "py": "Shuōmíng bùnéng jiěshì shéngjuǎn xiàoyìng de yuányīn",
-     "en": "(A) To explain why they can't explain the rope coiling effect"
+     "en": "(A) To explain why they can't explain the rope coiling effect",
+     "idn": "(A) Untuk menjelaskan mengapa persamaan itu tidak bisa menjelaskan efek gulungan tali"
     },
     "B": {
      "zh": "強調使用的頻率低於牛頓定律",
      "py": "Qiángdiào shǐyòng de pínlǜ dīyú niúdùndìnglǜ",
-     "en": "(B) To stress that they are used less often than Newton's laws"
+     "en": "(B) To stress that they are used less often than Newton's laws",
+     "idn": "(B) Untuk menekankan bahwa persamaan itu lebih jarang dipakai daripada hukum Newton"
     },
     "C": {
      "zh": "表示能應用於各種流體類型上",
      "py": "Biǎoshì néng yìngyòng yú gèzhǒng liútǐ lèixíng shàng",
-     "en": "(C) To show they can be applied to all types of fluids"
+     "en": "(C) To show they can be applied to all types of fluids",
+     "idn": "(C) Untuk menunjukkan bahwa persamaan itu bisa diterapkan pada semua jenis fluida"
     },
     "D": {
      "zh": "歸納影響流體落下情形的因素",
      "py": "Guīnà yǐngxiǎng liútǐ làxià qíngxíng de yīnsù",
-     "en": "(D) To summarize the factors affecting how fluids fall"
+     "en": "(D) To summarize the factors affecting how fluids fall",
+     "idn": "(D) Untuk merangkum faktor yang memengaruhi cara fluida jatuh"
     }
    },
    "transcript": [
     {
      "zh": "報告中為什麼提到歐拉方程式？",
      "py": "Bàogào zhōng wèishénme tídào Ōulā fāngchéngshì?",
-     "en": "Why does the report mention the Euler equations?"
+     "en": "Why does the report mention the Euler equations?",
+     "idn": "Mengapa laporan ini menyebutkan persamaan Euler?"
     }
    ]
   },
@@ -1647,29 +1933,34 @@
     "A": {
      "zh": "比對不同流體間的受力表現",
      "py": "Bǐ duì bùtóng liútǐ jiān de shòulì biǎoxiàn",
-     "en": "(A) Comparing how forces act on different fluids"
+     "en": "(A) Comparing how forces act on different fluids",
+     "idn": "(A) Membandingkan cara gaya bekerja pada fluida yang berbeda"
     },
     "B": {
      "zh": "羅列能反映繩捲效應的流體",
      "py": "Luóliè néng fǎnyìng shéngjuǎn xiàoyìng de liútǐ",
-     "en": "(B) Listing fluids that show the rope coiling effect"
+     "en": "(B) Listing fluids that show the rope coiling effect",
+     "idn": "(B) Mendaftar fluida yang menunjukkan efek gulungan tali"
     },
     "C": {
      "zh": "建立能證明實驗結果的方程式",
      "py": "Jiànlì néng zhèngmíng shíyàn jiéguǒ de fāngchéngshì",
-     "en": "(C) Establishing equations that can prove the experimental results"
+     "en": "(C) Establishing equations that can prove the experimental results",
+     "idn": "(C) Membangun persamaan yang bisa membuktikan hasil eksperimen"
     },
     "D": {
      "zh": "藉由實驗證實既有理論的錯誤",
      "py": "Jièyóu shíyàn zhèngshí jìyǒu lǐlùn de cuòwù",
-     "en": "(D) Using experiments to prove existing theories wrong"
+     "en": "(D) Using experiments to prove existing theories wrong",
+     "idn": "(D) Memakai eksperimen untuk membuktikan teori yang ada salah"
     }
    },
    "transcript": [
     {
      "zh": "對於這項研究，物理學家期望能達成什麼目標？",
      "py": "Duìyú zhèxiàng yánjiū, wùlǐxuéjiā qīwàng néng dáchéng shénme mùbiāo?",
-     "en": "What do the physicists hope to achieve with this research?"
+     "en": "What do the physicists hope to achieve with this research?",
+     "idn": "Apa yang ingin dicapai para fisikawan dengan penelitian ini?"
     }
    ]
   },
@@ -1678,108 +1969,128 @@
     {
      "zh": "螳螂蝦是一種水中生物，牠眼睛的特殊構造引起科學家的興趣。",
      "py": "Tángláng xiā shì yìzhǒng shuǐzhōng shēngwù, tā yǎnjīng de tèshū gòuzào yǐnqǐ kēxuéjiā de xìngqù.",
-     "en": "The mantis shrimp is an aquatic creature; the special structure of its eyes has aroused scientists' interest."
+     "en": "The mantis shrimp is an aquatic creature; the special structure of its eyes has aroused scientists' interest.",
+     "idn": "Udang mantis adalah makhluk air; struktur matanya yang istimewa membangkitkan minat para ilmuwan."
     },
     {
      "zh": "請聽這段關於螳螂蝦的介紹，然後回答三個問題。",
      "py": "Qǐng tīng zhèduàn guānyú tángláng xiā de jièshào, ránhòu huídá sān ge wèntí.",
-     "en": "Listen to this introduction to the mantis shrimp and then answer three questions."
+     "en": "Listen to this introduction to the mantis shrimp and then answer three questions.",
+     "idn": "Dengarkan perkenalan tentang udang mantis ini, lalu jawab tiga pertanyaan."
     }
    ],
    "options": {
     "A": {
      "zh": "手臂",
      "py": "Shǒubì",
-     "en": "(A) Arms"
+     "en": "(A) Arms",
+     "idn": "(A) Lengan"
     },
     "B": {
      "zh": "觸角",
      "py": "Chùjiǎo",
-     "en": "(B) Antennae"
+     "en": "(B) Antennae",
+     "idn": "(B) Antena"
     },
     "C": {
      "zh": "眼睛",
      "py": "Yǎnjīng",
-     "en": "(C) Eyes"
+     "en": "(C) Eyes",
+     "idn": "(C) Mata"
     },
     "D": {
      "zh": "大腦",
      "py": "Dànǎo",
-     "en": "(D) Brain"
+     "en": "(D) Brain",
+     "idn": "(D) Otak"
     }
    },
    "intro": [
     {
      "zh": "螳螂蝦是一種水中生物，牠眼睛的特殊構造引起科學家的興趣。請聽這段關於螳",
      "py": "Tángláng xiā shì yìzhǒng shuǐzhōng shēngwù, tā yǎnjīng de tèshū gòuzào yǐnqǐ kēxuéjiā de xìngqù. Qǐng tīng zhèduàn guānyú Táng",
-     "en": "The mantis shrimp is an aquatic creature; the special structure of its eyes has aroused scientists' interest. Listen to this introduction to the"
+     "en": "The mantis shrimp is an aquatic creature; the special structure of its eyes has aroused scientists' interest. Listen to this introduction to the",
+     "idn": "Udang mantis adalah makhluk air; struktur matanya yang istimewa membangkitkan minat para ilmuwan. Dengarkan perkenalan tentang"
     },
     {
      "zh": "螂蝦的介紹，然後回答三個問題。",
      "py": "Láng xiā de jièshào, ránhòu huídá sān ge wèntí.",
-     "en": "mantis shrimp and then answer three questions."
+     "en": "mantis shrimp and then answer three questions.",
+     "idn": "udang mantis ini, lalu jawab tiga pertanyaan."
     },
     {
      "zh": "現在請聽介紹。",
      "py": "Xiànzài qǐng tīng jièshào.",
-     "en": "Now listen to the introduction."
+     "en": "Now listen to the introduction.",
+     "idn": "Sekarang dengarkan perkenalannya."
     },
     {
      "zh": "全世界的螳螂蝦約有 400 種，根據手臂型態可分為鐮刀型和垂直型兩類。為",
      "py": "Quánshìjiè de tángláng xiā yuē yǒu 400 zhǒng, gēnjù shǒubì xíngtài kě fēnwéi liándāo xíng hé chuízhí xíng liǎnglèi. Wèi",
-     "en": "There are about 400 species of mantis shrimp worldwide; based on the shape of their arms they can be divided into two types, spearers and smashers."
+     "en": "There are about 400 species of mantis shrimp worldwide; based on the shape of their arms they can be divided into two types, spearers and smashers.",
+     "idn": "Di seluruh dunia ada sekitar 400 spesies udang mantis; berdasarkan bentuk lengannya, mereka bisa dibagi menjadi dua tipe, penusuk dan penghantam."
     },
     {
      "zh": "了能夠精確攻擊獵物，牠們也具備快速判斷物體距離的能力。螳螂蝦最特別的地",
      "py": "Le nénggòu jīngquè gōngjī lièwù, tā men yě jùbèi kuàisù pànduàn wùtǐ jùlí de nénglì. Tángláng xiā zuì tèbié de dì",
-     "en": "To attack prey precisely, they can also judge the distance of objects quickly. The most special"
+     "en": "To attack prey precisely, they can also judge the distance of objects quickly. The most special",
+     "idn": "Untuk menyerang mangsa dengan tepat, mereka juga bisa dengan cepat menilai jarak benda. Yang paling istimewa"
     },
     {
      "zh": "方是眼睛，一般生物的視網膜上只有幾個感受不同波長光線的細胞，例如人的眼",
      "py": "Fāngshì yǎnjīng, yìbān shēngwù de shìwǎngmó shàng zhǐyǒu jǐ ge gǎnshòu bùtóng bōcháng guāngxiàn de xìbāo, lìrú rén de yǎn",
-     "en": "thing about mantis shrimp is their eyes. Most animals' retinas have only a few kinds of cells sensitive to different wavelengths of light; for example, the human eye"
+     "en": "thing about mantis shrimp is their eyes. Most animals' retinas have only a few kinds of cells sensitive to different wavelengths of light; for example, the human eye",
+     "idn": "dari udang mantis adalah matanya. Retina kebanyakan hewan hanya punya beberapa jenis sel yang peka terhadap panjang gelombang cahaya yang berbeda; misalnya mata manusia"
     },
     {
      "zh": "睛只有感受紅、綠、藍 3 個波段的感光細胞，透過比較 3 個波段的亮度來偵測成",
      "py": "Jīng zhǐyǒu gǎnshòu hóng, lǜ, Lán 3 gè bōduàn de gǎnguāng xìbāo, tòuguò bǐjiào 3 gè bōduàn de liàngdù lái zhēncè chéng",
-     "en": "has photoreceptor cells for only three bands—red, green and blue—and detects thousands of"
+     "en": "has photoreceptor cells for only three bands—red, green and blue—and detects thousands of",
+     "idn": "hanya punya sel fotoreseptor untuk tiga pita—merah, hijau, dan biru—dan mendeteksi ribuan"
     },
     {
      "zh": "千上萬的色彩。而螳螂蝦是目前已知的生物中，擁有最多種感光細胞的生物。",
      "py": "Qiānshàngwàn de sècǎi. Ér tángláng xiā shì mùqián yǐzhī de shēngwù zhōng, yōngyǒu zuì duōzhǒng gǎnguāng xìbāo de shēngwù.",
-     "en": "colors by comparing the brightness of these three bands. The mantis shrimp has more kinds of photoreceptor cells than any other known creature."
+     "en": "colors by comparing the brightness of these three bands. The mantis shrimp has more kinds of photoreceptor cells than any other known creature.",
+     "idn": "warna dengan membandingkan kecerahan ketiga pita ini. Udang mantis punya jenis sel fotoreseptor lebih banyak daripada makhluk lain yang diketahui."
     },
     {
      "zh": "螳螂蝦的眼睛能偵測到 12 種不同波段的色彩，而由於這 12 種感光細胞獨立",
      "py": "Tángláng xiā de yǎnjīng néng zhēncè dào 12 zhǒng bùtóng bōduàn de sècǎi, ér yóuyú zhè 12 zhǒng gǎnguāng xìbāo dúlì",
-     "en": "Mantis shrimp eyes can detect colors in 12 different bands, and because these 12 kinds of photoreceptor cells work independently,"
+     "en": "Mantis shrimp eyes can detect colors in 12 different bands, and because these 12 kinds of photoreceptor cells work independently,",
+     "idn": "Mata udang mantis bisa mendeteksi warna dalam 12 pita yang berbeda, dan karena 12 jenis sel fotoreseptor ini bekerja secara mandiri,"
     },
     {
      "zh": "運作，平行處理各波段的光線，使得螳螂蝦的彩色視覺系統有著極高的效率。",
      "py": "Yùnzuò, píngxíng chǔlǐ gè bōduàn de guāngxiàn, shǐde tángláng xiā de cǎisè shìjué xìtǒng yǒuzhe jígāo de xiàolǜ.",
-     "en": "processing light in each band in parallel, the mantis shrimp's color vision system is extremely efficient."
+     "en": "processing light in each band in parallel, the mantis shrimp's color vision system is extremely efficient.",
+     "idn": "memproses cahaya di setiap pita secara paralel, sistem penglihatan warna udang mantis sangat efisien."
     },
     {
      "zh": "這種平行運作的視覺系統還有個獨門技巧。例如，當人類看到黃色時，紅色",
      "py": "Zhèzhǒng píngxíng yùnzuò de shìjué xìtǒng háiyǒu gè dúmén jìqiǎo. Lìrú, dāng rénlèi kàndào huángsè shí, hóngsè",
-     "en": "This parallel visual system also has a special trick. For example, when humans see yellow, the red"
+     "en": "This parallel visual system also has a special trick. For example, when humans see yellow, the red",
+     "idn": "Sistem penglihatan paralel ini juga punya keistimewaan. Misalnya, ketika manusia melihat warna kuning, sel fotoreseptor merah"
     },
     {
      "zh": "與綠色感光細胞同時受到刺激，因此紅光加綠光與單一波長的黃光在人類的眼中",
      "py": "Yǔ lǜsè gǎnguāng xìbāo tóngshí shòudào cìjī, yīncǐ Hóngguāng jiā lǜguāng yǔ dānyī bōcháng de huángguāng zài rénlèi de yǎnzhōng",
-     "en": "and green photoreceptor cells are stimulated at the same time, so red light plus green light looks no different to the human eye from"
+     "en": "and green photoreceptor cells are stimulated at the same time, so red light plus green light looks no different to the human eye from",
+     "idn": "dan hijau terangsang bersamaan, sehingga cahaya merah ditambah cahaya hijau tampak tidak berbeda bagi mata manusia dari"
     },
     {
      "zh": "並無不同，而螳螂蝦則能區分兩者的差異。",
      "py": "Bìng wú bùtóng, ér tángláng xiā zé néng qūfēn liǎngzhě de chāyì.",
-     "en": "single-wavelength yellow light, whereas the mantis shrimp can tell the difference."
+     "en": "single-wavelength yellow light, whereas the mantis shrimp can tell the difference.",
+     "idn": "cahaya kuning gelombang tunggal, sedangkan udang mantis bisa membedakannya."
     }
    ],
    "transcript": [
     {
      "zh": "根據介紹，螳螂蝦是依身體的哪一個部位決定牠的分類？",
      "py": "Gēnjù jièshào, tángláng xiā shì yī shēntǐ de nǎ yí ge bùwèi juédìng tā de fēnlèi?",
-     "en": "According to the introduction, which body part determines how mantis shrimp are classified?"
+     "en": "According to the introduction, which body part determines how mantis shrimp are classified?",
+     "idn": "Menurut perkenalan ini, bagian tubuh mana yang menentukan cara udang mantis diklasifikasikan?"
     }
    ]
   },
@@ -1788,29 +2099,34 @@
     "A": {
      "zh": "螳螂蝦的感光細胞呈現退化狀態",
      "py": "Tángláng xiā de gǎnguāng xìbāo chéngxiàn tuìhuà zhuàngtài",
-     "en": "(A) The mantis shrimp's photoreceptor cells are degenerating."
+     "en": "(A) The mantis shrimp's photoreceptor cells are degenerating.",
+     "idn": "(A) Sel fotoreseptor udang mantis sedang mengalami kemunduran."
     },
     "B": {
      "zh": "人的感光細胞只能偵測三種顏色",
      "py": "Rén de gǎnguāng xìbāo zhǐnéng zhēncè sānzhǒng yánsè",
-     "en": "(B) Human photoreceptor cells can only detect three colors."
+     "en": "(B) Human photoreceptor cells can only detect three colors.",
+     "idn": "(B) Sel fotoreseptor manusia hanya bisa mendeteksi tiga warna."
     },
     "C": {
      "zh": "感光細胞的數量和辨色能力成正比",
      "py": "Gǎnguāng xìbāo de shùliàng hé biànsè nénglì Chéngzhèngbǐ",
-     "en": "(C) The number of photoreceptor cells is proportional to the ability to distinguish colors."
+     "en": "(C) The number of photoreceptor cells is proportional to the ability to distinguish colors.",
+     "idn": "(C) Jumlah sel fotoreseptor sebanding dengan kemampuan membedakan warna."
     },
     "D": {
      "zh": "人的感光細胞種類不及螳螂蝦的多",
      "py": "Rén de gǎnguāng xìbāo zhǒnglèi bùjí tángláng xiā de duō",
-     "en": "(D) Humans have fewer kinds of photoreceptor cells than the mantis shrimp."
+     "en": "(D) Humans have fewer kinds of photoreceptor cells than the mantis shrimp.",
+     "idn": "(D) Jenis sel fotoreseptor manusia lebih sedikit daripada udang mantis."
     }
    },
    "transcript": [
     {
      "zh": "關於顏色的辨析，由人與螳螂蝦的比較可以知道什麼？",
      "py": "Guānyú yánsè de biànxī, yóu rén yǔ tángláng xiā de bǐjiào kěyǐ zhīdào shénme?",
-     "en": "About distinguishing colors, what can we learn from comparing humans and the mantis shrimp?"
+     "en": "About distinguishing colors, what can we learn from comparing humans and the mantis shrimp?",
+     "idn": "Mengenai membedakan warna, apa yang bisa kita ketahui dari membandingkan manusia dan udang mantis?"
     }
    ]
   },
@@ -1819,29 +2135,34 @@
     "A": {
      "zh": "牠的感光細胞在生物界不算多",
      "py": "Tā de gǎnguāng xìbāo zài shēngwùjiè búsuàn duō",
-     "en": "(A) Its photoreceptor cells aren't many by the standards of the living world."
+     "en": "(A) Its photoreceptor cells aren't many by the standards of the living world.",
+     "idn": "(A) Sel fotoreseptornya tidak banyak menurut ukuran dunia makhluk hidup."
     },
     "B": {
      "zh": "能分辨單一色與合成色的不同",
      "py": "Néng fēnbiàn dānyī sè yǔ héchéng sè de bùtóng",
-     "en": "(B) It can distinguish single colors from mixed colors."
+     "en": "(B) It can distinguish single colors from mixed colors.",
+     "idn": "(B) Bisa membedakan warna tunggal dari warna campuran."
     },
     "C": {
      "zh": "腦部的色彩分析機能非常發達",
      "py": "Nǎobù de sècǎi fēnxī jīnéng fēicháng fādá",
-     "en": "(C) Its brain's color-analysis function is highly developed."
+     "en": "(C) Its brain's color-analysis function is highly developed.",
+     "idn": "(C) Fungsi analisis warna di otaknya sangat berkembang."
     },
     "D": {
      "zh": "色彩訊息過多使處理效能不彰",
      "py": "Sècǎi xùnxī guò duō shǐ chǔlǐ xiàonéng bùzhāng",
-     "en": "(D) Too much color information makes processing inefficient."
+     "en": "(D) Too much color information makes processing inefficient.",
+     "idn": "(D) Informasi warna yang terlalu banyak membuat pemrosesan tidak efisien."
     }
    },
    "transcript": [
     {
      "zh": "這段介紹裡說螳螂蝦的視覺系統怎麼樣？",
      "py": "Zhè duàn jièshào lǐ shuō tángláng xiā de shìjué xìtǒng zěnmeyàng?",
-     "en": "What does this introduction say about the mantis shrimp's visual system?"
+     "en": "What does this introduction say about the mantis shrimp's visual system?",
+     "idn": "Apa yang dikatakan perkenalan ini tentang sistem penglihatan udang mantis?"
     }
    ]
   },
@@ -1850,113 +2171,134 @@
     {
      "zh": "晚間的新聞報導提到一則有趣的實驗，請聽這段報導，然後回答四個問題。",
      "py": "Wǎnjiān de xīnwénbàodǎo tídào yìzé yǒuqù de shíyàn, qǐng tīng zhèduàn bàodǎo, ránhòu huídá sì ge wèntí.",
-     "en": "The evening news reported an interesting experiment. Listen to this report and then answer four questions."
+     "en": "The evening news reported an interesting experiment. Listen to this report and then answer four questions.",
+     "idn": "Berita malam melaporkan sebuah eksperimen yang menarik. Dengarkan laporan ini, lalu jawab empat pertanyaan."
     }
    ],
    "options": {
     "A": {
      "zh": "電影不賣座",
      "py": "Diànyǐng bú màizuò",
-     "en": "(A) The film won't do well at the box office."
+     "en": "(A) The film won't do well at the box office.",
+     "idn": "(A) Film itu tidak akan laris di pasaran."
     },
     "B": {
      "zh": "電影比小說好看",
      "py": "Diànyǐng bǐ xiǎoshuō hǎokàn",
-     "en": "(B) The film is better than the novel."
+     "en": "(B) The film is better than the novel.",
+     "idn": "(B) Filmnya lebih bagus daripada novelnya."
     },
     "C": {
      "zh": "電影宣傳做得不好",
      "py": "Diànyǐng xuānchuán zuò de bùhǎo",
-     "en": "(C) The film's promotion was poor."
+     "en": "(C) The film's promotion was poor.",
+     "idn": "(C) Promosi filmnya buruk."
     },
     "D": {
      "zh": "觀眾看不懂電影結局",
      "py": "Guānzhòng kànbùdǒng diànyǐng jiéjú",
-     "en": "(D) Audiences won't understand the film's ending."
+     "en": "(D) Audiences won't understand the film's ending.",
+     "idn": "(D) Penonton tidak akan memahami akhir film itu."
     }
    },
    "intro": [
     {
      "zh": "晚間的新聞報導提到一則有趣的實驗，請聽這段報導，然後回答四個問題。",
      "py": "Wǎnjiān de xīnwénbàodǎo tídào yìzé yǒuqù de shíyàn, qǐng tīng zhèduàn bàodǎo, ránhòu huídá sì ge wèntí.",
-     "en": "The evening news reported an interesting experiment. Listen to this report and then answer four questions."
+     "en": "The evening news reported an interesting experiment. Listen to this report and then answer four questions.",
+     "idn": "Berita malam melaporkan sebuah eksperimen yang menarik. Dengarkan laporan ini, lalu jawab empat pertanyaan."
     },
     {
      "zh": "現在請聽報導。",
      "py": "Xiànzài qǐng tīng bàodǎo.",
-     "en": "Now listen to the report."
+     "en": "Now listen to the report.",
+     "idn": "Sekarang dengarkan laporannya."
     },
     {
      "zh": "知名作家兼導演九把刀的新片即將上映。他很擔心一旦電影的結局外洩，",
      "py": "Zhīmíng zuòjiā jiān dǎoyǎn jiǔbǎdāo de xīnpiàn jíjiāng shàngyìng. Tā hěn dānxīn yídàn diànyǐng de jiéjú wàixiè,",
-     "en": "Famous writer and director Giddens Ko's new film is about to be released. He's very worried that if the film's ending leaks,"
+     "en": "Famous writer and director Giddens Ko's new film is about to be released. He's very worried that if the film's ending leaks,",
+     "idn": "Penulis dan sutradara terkenal Giddens Ko akan segera merilis film barunya. Dia sangat khawatir kalau akhir filmnya bocor,"
     },
     {
      "zh": "會嚴重影響票房，因此他特別拜託已經看過電影的觀眾，千萬不要把結局告訴親",
      "py": "Huì yánzhòng yǐngxiǎng piàofáng, yīncǐ tā tèbié Bàituō yǐjīng kànguò diànyǐng de guānzhòng, qiānwàn búyào bǎ jiéjú gàosù qīn",
-     "en": "it will seriously hurt the box office, so he has specially asked audiences who've seen the film not to tell relatives"
+     "en": "it will seriously hurt the box office, so he has specially asked audiences who've seen the film not to tell relatives",
+     "idn": "pendapatan box office akan sangat terpukul, jadi dia secara khusus meminta penonton yang sudah menonton agar tidak menceritakan akhir film kepada kerabat"
     },
     {
      "zh": "朋好友，也不要在網路上到處宣傳。",
      "py": "Péng hǎoyǒu, yě búyào zài wǎnglùshàng dàochù xuānchuán.",
-     "en": "and friends the ending, and not to spread it online."
+     "en": "and friends the ending, and not to spread it online.",
+     "idn": "dan teman, dan tidak menyebarkannya di internet."
     },
     {
      "zh": "不過，這位導演的擔心可能是多餘的。美國研究人員進行了一項實驗，邀",
      "py": "Búguò, zhèwèi dǎoyǎn de dānxīn kěnéng shì duōyú de. Měiguó yánjiū rényuán jìnxíng le yíxiàng shíyàn, yāo",
-     "en": "However, this director's worry may be unnecessary. American researchers carried out an experiment, inviting"
+     "en": "However, this director's worry may be unnecessary. American researchers carried out an experiment, inviting",
+     "idn": "Namun, kekhawatiran sutradara ini mungkin tidak perlu. Para peneliti Amerika melakukan eksperimen, mengundang"
     },
     {
      "zh": "請三百位喜歡懸疑、推理、神秘故事的受試者閱讀這一類的小說，再請他們由 1",
      "py": "Qǐng sānbǎi wèi xǐhuān xuányí, tuīlǐ, shénmì gùshì de shòushìzhě yuèdú zhè yílèi de xiǎoshuō, zài qǐng tāmen yóu 1",
-     "en": "three hundred subjects who like suspense, detective and mystery stories to read novels of this kind and then rate them from 1"
+     "en": "three hundred subjects who like suspense, detective and mystery stories to read novels of this kind and then rate them from 1",
+     "idn": "tiga ratus subjek yang menyukai cerita ketegangan, detektif, dan misteri untuk membaca novel jenis ini lalu memberi nilai dari 1"
     },
     {
      "zh": "到 10 給予評分。研究結果顯示，即使研究人員一開始就把曲折的結局告訴讀者，",
      "py": "Dào 10 jǐyǔ píngfēn. Yánjiū jiéguǒxiǎnshì, jíshǐ yánjiū rényuán yì kāishǐ jiù bǎ qūzhé de jiéjú gàosù dúzhě,",
-     "en": "to 10. The results showed that even when the researchers told readers the twist ending at the start,"
+     "en": "to 10. The results showed that even when the researchers told readers the twist ending at the start,",
+     "idn": "sampai 10. Hasilnya menunjukkan bahwa meskipun peneliti memberi tahu pembaca akhir yang mengejutkan sejak awal,"
     },
     {
      "zh": "讀者在閱讀完後給的平均分數仍然趨近於滿分。",
      "py": "Dúzhě zài yuèdú wán hòu gěi de píngjūn fēnshù réngrán qūjìn yú mǎnfēn.",
-     "en": "the average score readers gave after reading was still close to full marks."
+     "en": "the average score readers gave after reading was still close to full marks.",
+     "idn": "nilai rata-rata yang diberikan pembaca setelah membaca tetap mendekati nilai sempurna."
     },
     {
      "zh": "換句話說，讀者先知道結局，並不會減少他閱讀的樂趣，事先了解劇情走",
      "py": "Huànjùhuàshuō, dúzhě xiān zhīdào jiéjú, bìng búhuì jiǎnshǎo tā yuèdú de lèqù, shìxiān liǎojiě jùqíng zǒu",
-     "en": "In other words, knowing the ending first doesn't reduce readers' enjoyment; knowing where the plot is going in advance"
+     "en": "In other words, knowing the ending first doesn't reduce readers' enjoyment; knowing where the plot is going in advance",
+     "idn": "Dengan kata lain, mengetahui akhir cerita lebih dulu tidak mengurangi kenikmatan pembaca; mengetahui arah alur sebelumnya"
     },
     {
      "zh": "向，反而更有參與感。「這或許代表人們對過程比結局更有興趣。」研究人員趙",
      "py": "Xiàng, fǎn'ér gèng yǒu cānyùgǎn. “Zhè huòxǔ dàibiǎo rénmen duì guòchéng bǐ jiéjú gèng yǒu xìngqù.” yánjiū rényuán Zhào",
-     "en": "actually gives a greater sense of involvement. \"This may mean people are more interested in the process than the ending,\" said researcher"
+     "en": "actually gives a greater sense of involvement. \"This may mean people are more interested in the process than the ending,\" said researcher",
+     "idn": "justru memberi rasa keterlibatan yang lebih besar. \"Ini mungkin berarti orang lebih tertarik pada prosesnya daripada akhirnya,\" kata peneliti"
     },
     {
      "zh": "先生說：「就拿莎士比亞的作品『哈姆雷特』來說好了，雖然每個人都知道這是",
      "py": "Xiānsheng shuō: “Jiù ná Shāshìbǐyà de zuòpǐn ‘Hāmǔléitè’ láishuō hǎo le, suīrán měi ge rén dōu zhīdào zhè shì",
-     "en": "Mr. Zhao. \"Take Shakespeare's 'Hamlet': although everyone knows it's"
+     "en": "Mr. Zhao. \"Take Shakespeare's 'Hamlet': although everyone knows it's",
+     "idn": "Tuan Zhao. \"Ambil contoh 'Hamlet' karya Shakespeare: meskipun semua orang tahu itu"
     },
     {
      "zh": "一個悲劇故事，也知道結局，但不影響讀者對它的喜愛，『哈姆雷特』依然流芳",
      "py": "Yí ge bēijù gùshì, yě zhīdào jiéjú, dàn bù yǐngxiǎng dúzhě duì tā de xǐ'ài, ‘Hāmǔléitè’ yīrán liúfāng",
-     "en": "a tragedy and knows the ending, that doesn't affect readers' love for it; 'Hamlet' still lives on through"
+     "en": "a tragedy and knows the ending, that doesn't affect readers' love for it; 'Hamlet' still lives on through",
+     "idn": "tragedi dan tahu akhirnya, hal itu tidak memengaruhi kecintaan pembaca; 'Hamlet' tetap hidup sepanjang"
     },
     {
      "zh": "千古。」過去，大家都認為保持電影或小說結局的神祕感很重要，但是根據研究，",
      "py": "Qiāngǔ.” guòqù, dàjiā dōu rènwéi bǎochí diànyǐng huò xiǎoshuō jiéjú de shénmìgǎn hěn zhòngyào, dànshì gēnjù yánjiū,",
-     "en": "the ages.\" In the past, everyone thought keeping the ending of a film or novel a mystery was important, but according to the research,"
+     "en": "the ages.\" In the past, everyone thought keeping the ending of a film or novel a mystery was important, but according to the research,",
+     "idn": "zaman.\" Dulu, semua orang mengira merahasiakan akhir film atau novel itu penting, tetapi menurut penelitian ini,"
     },
     {
      "zh": "這種神祕感很可能被高估了。",
      "py": "Zhèzhǒng shénmìgǎn hěn kěnéng bèi gāogū le.",
-     "en": "this sense of mystery is probably overrated."
+     "en": "this sense of mystery is probably overrated.",
+     "idn": "rasa misteri ini mungkin dinilai terlalu tinggi."
     }
    ],
    "transcript": [
     {
      "zh": "報導中提到的導演擔心什麼事？",
      "py": "Bàodǎo zhōng tídào de dǎoyǎn dānxīn shénme shì?",
-     "en": "What is the director in the report worried about?"
+     "en": "What is the director in the report worried about?",
+     "idn": "Apa yang dikhawatirkan sutradara dalam laporan ini?"
     }
    ]
   },
@@ -1965,29 +2307,34 @@
     "A": {
      "zh": "讓讀者自己閱讀、找出結局",
      "py": "Ràng dúzhě zìjǐ yuèdú, zhǎochū jiéjú",
-     "en": "(A) Letting readers read on their own and find the ending"
+     "en": "(A) Letting readers read on their own and find the ending",
+     "idn": "(A) Membiarkan pembaca membaca sendiri dan menemukan akhirnya"
     },
     "B": {
      "zh": "讓讀者知道結局後進行改寫",
      "py": "Ràng dúzhě zhīdào jiéjú hòu jìnxíng gǎixiě",
-     "en": "(B) Having readers rewrite it after knowing the ending"
+     "en": "(B) Having readers rewrite it after knowing the ending",
+     "idn": "(B) Meminta pembaca menulis ulang setelah tahu akhirnya"
     },
     "C": {
      "zh": "讓讀者先知道結局再繼續閱讀",
      "py": "Ràng dúzhě xiān zhīdào jiéjú zài jìxù yuèdú",
-     "en": "(C) Letting readers know the ending first and then keep reading"
+     "en": "(C) Letting readers know the ending first and then keep reading",
+     "idn": "(C) Membiarkan pembaca tahu akhirnya dulu lalu terus membaca"
     },
     "D": {
      "zh": "請讀者知道結局前先進行評分",
      "py": "Qǐng dúzhě zhīdào jiéjú qián xiān jìnxíng píngfēn",
-     "en": "(D) Asking readers to give a score before knowing the ending"
+     "en": "(D) Asking readers to give a score before knowing the ending",
+     "idn": "(D) Meminta pembaca memberi nilai sebelum tahu akhirnya"
     }
    },
    "transcript": [
     {
      "zh": "報導中提到的實驗如何進行？",
      "py": "Bàodǎo zhōng tídào de shíyàn rúhé jìnxíng?",
-     "en": "How was the experiment in the report carried out?"
+     "en": "How was the experiment in the report carried out?",
+     "idn": "Bagaimana eksperimen dalam laporan ini dilakukan?"
     }
    ]
   },
@@ -1996,29 +2343,34 @@
     "A": {
      "zh": "故事的情節越曲折越好",
      "py": "Gùshì de qíngjié yuè qūzhé yuè hǎo",
-     "en": "(A) The more twists in the plot, the better."
+     "en": "(A) The more twists in the plot, the better.",
+     "idn": "(A) Makin banyak liku-liku alur, makin baik."
     },
     "B": {
      "zh": "沒有結局的小說最吸引人",
      "py": "Méiyǒu jiéjú de xiǎoshuō zuì xīyǐn rén",
-     "en": "(B) Novels without endings are the most attractive."
+     "en": "(B) Novels without endings are the most attractive.",
+     "idn": "(B) Novel tanpa akhir paling menarik."
     },
     "C": {
      "zh": "不知道結局才能引起閱讀動機",
      "py": "Bù zhīdào jiéjú cáinéng yǐnqǐ yuèdú dòngjī",
-     "en": "(C) Only not knowing the ending motivates reading."
+     "en": "(C) Only not knowing the ending motivates reading.",
+     "idn": "(C) Hanya ketidaktahuan akan akhir cerita yang memotivasi membaca."
     },
     "D": {
      "zh": "知道結局能讓讀者更投入故事的情節",
      "py": "Zhīdào jiéjú néng ràng dúzhě gèng tóurù gùshì de qíngjié",
-     "en": "(D) Knowing the ending lets readers get more involved in the plot."
+     "en": "(D) Knowing the ending lets readers get more involved in the plot.",
+     "idn": "(D) Mengetahui akhir cerita membuat pembaca lebih terlibat dalam alur."
     }
    },
    "transcript": [
     {
      "zh": "實驗結果說明了什麼？",
      "py": "Shíyàn jiéguǒ shuōmíng le shénme?",
-     "en": "What do the experiment results show?"
+     "en": "What do the experiment results show?",
+     "idn": "Apa yang ditunjukkan hasil eksperimen ini?"
     }
    ]
   },
@@ -2027,29 +2379,34 @@
     "A": {
      "zh": "說明故事結局應儘可能保持神秘性",
      "py": "Shuōmíng gùshì jiéjú yīng jǐnkěnéng bǎochí shénmìxìng",
-     "en": "(A) To show that story endings should be kept as mysterious as possible"
+     "en": "(A) To show that story endings should be kept as mysterious as possible",
+     "idn": "(A) Untuk menunjukkan bahwa akhir cerita sebaiknya dibuat semisterius mungkin"
     },
     "B": {
      "zh": "說明好作品可以不斷改寫為新的故事",
      "py": "Shuōmíng hǎo zuòpǐn kěyǐ búduàn gǎixiě wèi xīn de gùshì",
-     "en": "(B) To show that good works can be endlessly rewritten as new stories"
+     "en": "(B) To show that good works can be endlessly rewritten as new stories",
+     "idn": "(B) Untuk menunjukkan bahwa karya yang baik bisa terus ditulis ulang menjadi cerita baru"
     },
     "C": {
      "zh": "說明寫作的過程可以參考讀者的意見",
      "py": "Shuōmíng xiězuò de guòchéng kěyǐ cānkǎo dúzhě de yìjiàn",
-     "en": "(C) To show that the writing process can draw on readers' opinions"
+     "en": "(C) To show that the writing process can draw on readers' opinions",
+     "idn": "(C) Untuk menunjukkan bahwa proses menulis bisa mengacu pada pendapat pembaca"
     },
     "D": {
      "zh": "說明作品的價值不會因結局曝光而下降",
      "py": "Shuōmíng zuòpǐn de jiàzhí búhuì yīn jiéjú Bàoguāng ér xiàjiàng",
-     "en": "(D) To show that a work's value doesn't fall because its ending is revealed"
+     "en": "(D) To show that a work's value doesn't fall because its ending is revealed",
+     "idn": "(D) Untuk menunjukkan bahwa nilai sebuah karya tidak turun karena akhirnya terungkap"
     }
    },
    "transcript": [
     {
      "zh": "研究人員趙先生為什麼提到莎士比亞的作品？",
      "py": "Yánjiū rényuán Zhàoxiānsheng wèishénme tídào Shāshìbǐyà de zuòpǐn?",
-     "en": "Why does researcher Mr. Zhao mention Shakespeare's work?"
+     "en": "Why does researcher Mr. Zhao mention Shakespeare's work?",
+     "idn": "Mengapa peneliti Tuan Zhao menyebutkan karya Shakespeare?"
     }
    ]
   },
@@ -2058,118 +2415,140 @@
     {
      "zh": "下面的報導提到了一個新興的行業。請聽這段報導，然後回答四個問題。",
      "py": "Xiàmiàn de bàodǎo tídào le yí ge xīnxīng de hángyè. Qǐng tīng zhèduàn bàodǎo, ránhòu huídá sì ge wèntí.",
-     "en": "The following report mentions a new industry. Listen to this report and then answer four questions."
+     "en": "The following report mentions a new industry. Listen to this report and then answer four questions.",
+     "idn": "Laporan berikut menyinggung sebuah industri baru. Dengarkan laporan ini, lalu jawab empat pertanyaan."
     }
    ],
    "options": {
     "A": {
      "zh": "幫企業刊登徵才廣告",
      "py": "Bāng qǐyè kāndēng zhēng cái guǎnggào",
-     "en": "(A) Placing job ads for companies"
+     "en": "(A) Placing job ads for companies",
+     "idn": "(A) Memasang iklan lowongan untuk perusahaan"
     },
     "B": {
      "zh": "幫企業管理內部的網路資訊",
      "py": "Bāng qǐyè guǎnlǐ nèibù de wǎnglù zīxùn",
-     "en": "(B) Managing companies' internal online information"
+     "en": "(B) Managing companies' internal online information",
+     "idn": "(B) Mengelola informasi daring internal perusahaan"
     },
     "C": {
      "zh": "幫企業蒐集求職者的社交動態",
      "py": "Bāng qǐyè sōují qiúzhízhě de shèjiāo dòngtài",
-     "en": "(C) Collecting job seekers' social media activity for companies"
+     "en": "(C) Collecting job seekers' social media activity for companies",
+     "idn": "(C) Mengumpulkan aktivitas media sosial pencari kerja untuk perusahaan"
     },
     "D": {
      "zh": "幫企業員工在網路上尋找另一半",
      "py": "Bāng qǐyè yuángōng zài wǎnglùshàng xúnzhǎo lìngyíbàn",
-     "en": "(D) Finding partners online for company employees"
+     "en": "(D) Finding partners online for company employees",
+     "idn": "(D) Mencarikan pasangan secara daring bagi karyawan perusahaan"
     }
    },
    "intro": [
     {
      "zh": "下面的報導提到了一個新興的行業。請聽這段報導，然後回答四個問題。",
      "py": "Xiàmiàn de bàodǎo tídào le yí ge xīnxīng de hángyè. Qǐng tīng zhèduàn bàodǎo, ránhòu huídá sì ge wèntí.",
-     "en": "The following report mentions a new industry. Listen to this report and then answer four questions."
+     "en": "The following report mentions a new industry. Listen to this report and then answer four questions.",
+     "idn": "Laporan berikut menyinggung sebuah industri baru. Dengarkan laporan ini, lalu jawab empat pertanyaan."
     },
     {
      "zh": "現在請聽這段報導。",
      "py": "Xiànzài qǐng tīng zhèduàn bàodǎo.",
-     "en": "Now listen to this report."
+     "en": "Now listen to this report.",
+     "idn": "Sekarang dengarkan laporannya."
     },
     {
      "zh": "過去一般公司企業在徵才時，會先了解求職者是否有犯罪前科，並且調查",
      "py": "Guòqù yìbān gōngsī qǐyè zài zhēngcái shí, huì xiān liǎojiě qiúzhízhě shìfǒu yǒu fànzuì qiánkē, bìngqiě diàochá",
-     "en": "In the past, when hiring, companies would first check whether job seekers had criminal records and look into"
+     "en": "In the past, when hiring, companies would first check whether job seekers had criminal records and look into",
+     "idn": "Dulu, saat merekrut, perusahaan lebih dulu memeriksa apakah pencari kerja punya catatan kriminal dan menelusuri"
     },
     {
      "zh": "他們信用貸款的紀錄。如今，隨著網路發達，某些企業表示，了解求職者在社群",
      "py": "Tāmen xìnyòngdàikuǎn de jìlù. Rújīn, suízhe wǎnglù fādá, mǒuxiē qǐyè biǎoshì, liǎojiě qiúzhízhě zài shèqún",
-     "en": "their credit history. Now, with the growth of the internet, some companies say it's necessary to know what job seekers do on social"
+     "en": "their credit history. Now, with the growth of the internet, some companies say it's necessary to know what job seekers do on social",
+     "idn": "riwayat kreditnya. Kini, seiring berkembangnya internet, beberapa perusahaan merasa perlu mengetahui apa yang dilakukan pencari kerja di situs"
     },
     {
      "zh": "網站上的一舉一動是必要的。國內一家著名企業的人事主管就表示，你知道，我",
      "py": "Wǎngzhàn shàng de yìjǔyídòng shì bìyào de. Guónèi yìjiā zhùmíng qǐyè de rénshìzhǔguǎn jiù biǎoshì, nǐ zhīdào, wǒ",
-     "en": "networking sites. The personnel manager of a well-known domestic company said: you know, we"
+     "en": "networking sites. The personnel manager of a well-known domestic company said: you know, we",
+     "idn": "jejaring sosial. Manajer personalia sebuah perusahaan ternama dalam negeri mengatakan: begini, kami"
     },
     {
      "zh": "們總是不希望招募進來的人有種族歧視或性別歧視。藉著觀察這些求職者在網路",
      "py": "Men zǒngshì bù xīwàng zhāomù jìnlái de rén yǒu zhǒngzúqíshì huò xìngbiéqíshì. Jí zhe guānchá zhèxiē qiúzhízhě zài wǎnglù",
-     "en": "never want to hire people who are racist or sexist. By looking at what these job seekers post online,"
+     "en": "never want to hire people who are racist or sexist. By looking at what these job seekers post online,",
+     "idn": "tidak pernah ingin mempekerjakan orang yang rasis atau seksis. Dengan melihat apa yang diunggah para pencari kerja ini secara daring,"
     },
     {
      "zh": "上的發言，我們可以知道傳統求職履歷上看不到的事。如果有人經常發表憤怒、",
      "py": "Shàng de fāyán, wǒmen kěyǐ zhīdào chuántǒng qiúzhí lǚlì shàng kànbúdào de shì. Rúguǒ yǒurén jīngcháng fābiǎo fènnù,",
-     "en": "we can learn things that can't be seen on a traditional CV. If someone often posts angry,"
+     "en": "we can learn things that can't be seen on a traditional CV. If someone often posts angry,",
+     "idn": "kami bisa mengetahui hal-hal yang tidak terlihat di riwayat hidup tradisional. Kalau seseorang sering mengunggah ucapan marah,"
     },
     {
      "zh": "仇視或是猥褻的言論，當然會讓我們對他的人格大打折扣。",
      "py": "Chóushì huòshì wěixiè de yánlùn, dāngrán huì ràng wǒmen duì tā de réngé dàdǎzhékòu.",
-     "en": "hateful or obscene remarks, of course it greatly lowers our opinion of their character."
+     "en": "hateful or obscene remarks, of course it greatly lowers our opinion of their character.",
+     "idn": "penuh kebencian, atau cabul, tentu penilaian kami terhadap karakternya sangat turun."
     },
     {
      "zh": "因為有這樣的需求，蒐集這類資訊的公司便應運而生。這些公司被稱為「社",
      "py": "Yīnwèi yǒu zhèyàng de xūqiú, sōují zhè lèi zīxùn de gōngsī biàn yìngyùn'érshēng. Zhèxiē gōngsī bèi chēngwéi “Shè",
-     "en": "Because of this demand, companies that collect this kind of information have emerged. These companies are called \"social"
+     "en": "Because of this demand, companies that collect this kind of information have emerged. These companies are called \"social",
+     "idn": "Karena kebutuhan ini, muncullah perusahaan yang mengumpulkan informasi semacam ini. Perusahaan-perusahaan ini disebut \"perusahaan"
     },
     {
      "zh": "交情報公司」，專門為各大企業調查面試者過去七年來在各大社群網站的種種發",
      "py": "Jiāo qíngbào gōngsī”, zhuānmén wèi gè dà qǐyè diàochá miànshì zhě guòqù qīnián lái zài gè dà shèqún wǎngzhàn de zhǒngzhǒng fā",
-     "en": "intelligence companies\"; they specialize in investigating, for major companies, everything interviewees have posted and done on major social networking sites over the past seven years,"
+     "en": "intelligence companies\"; they specialize in investigating, for major companies, everything interviewees have posted and done on major social networking sites over the past seven years,",
+     "idn": "intelijen sosial\"; mereka khusus menyelidiki, untuk perusahaan-perusahaan besar, segala yang diunggah dan dilakukan calon karyawan di berbagai situs jejaring sosial selama tujuh tahun terakhir,"
     },
     {
      "zh": "言及動態，提供企業是否錄用這些人員的參考。不管是涉及暴力、毒品或猥褻等",
      "py": "Yánjí dòngtài, tígōng qǐyè shìfǒu lùyòng zhèxiē rényuán de cānkǎo. Bùguǎn shì shèjí bàolì, dúpǐn huò wěixiè děng",
-     "en": "as a reference for whether to hire them. Whether it's posts involving violence, drugs or obscenity,"
+     "en": "as a reference for whether to hire them. Whether it's posts involving violence, drugs or obscenity,",
+     "idn": "sebagai bahan pertimbangan apakah akan merekrut mereka. Baik unggahan yang melibatkan kekerasan, narkoba, atau kecabulan,"
     },
     {
      "zh": "留言，還是曾經張貼過色情照片或影片，都會彙整到「社交情報公司」的資料庫",
      "py": "Liúyán, háishì céngjīng Zhāngtiē guò sèqíng zhàopiān huò yǐngpiàn, dōu huì huì zhěngdào “Shèjiāo qíngbào gōngsī” de zīliàokù",
-     "en": "or having posted pornographic photos or videos, it all gets compiled into the \"social intelligence company's\" database"
+     "en": "or having posted pornographic photos or videos, it all gets compiled into the \"social intelligence company's\" database",
+     "idn": "maupun pernah mengunggah foto atau video porno, semuanya dihimpun ke dalam basis data \"perusahaan intelijen sosial\""
     },
     {
      "zh": "中。",
      "py": "Zhōng.",
-     "en": "(continuation of the line above)"
+     "en": "(continuation of the line above)",
+     "idn": "(lanjutan baris di atas)"
     },
     {
      "zh": "不少人質疑，這樣的作法很可能涉及侵犯隱私。但「社交情報公司」表示，",
      "py": "Bùshǎo rén zhìyí, zhèyàng de zuòfǎ hěn kěnéng shèjí qīnfàn yǐnsī. Dàn “Shèjiāo qíngbào gōngsī” biǎoshì,",
-     "en": "Many people question whether this kind of practice may invade privacy. But the \"social intelligence company\" says"
+     "en": "Many people question whether this kind of practice may invade privacy. But the \"social intelligence company\" says",
+     "idn": "Banyak orang mempertanyakan apakah praktik seperti ini bisa melanggar privasi. Tetapi \"perusahaan intelijen sosial\" itu mengatakan"
     },
     {
      "zh": "他們並不是偵探，他們所做的只是彙整資料，而這些資料都公開在網路上，是可",
      "py": "Tāmen bìng búshì zhēntàn, tāmen suǒ zuò de zhǐshì huìzhěng zīliào, ér zhèxiē zīliào dōu gōngkāi zài wǎnglùshàng, shì kě",
-     "en": "they aren't detectives; all they do is compile data, and this data is all public online and can"
+     "en": "they aren't detectives; all they do is compile data, and this data is all public online and can",
+     "idn": "mereka bukan detektif; yang mereka lakukan hanyalah menghimpun data, dan data ini semuanya terbuka di internet dan bisa"
     },
     {
      "zh": "以自由取得的。",
      "py": "Yǐ zìyóu qǔdé de.",
-     "en": "be freely obtained."
+     "en": "be freely obtained.",
+     "idn": "diperoleh bebas."
     }
    ],
    "transcript": [
     {
      "zh": "報導中提到的情報公司，提供什麼樣的服務？",
      "py": "Bàodǎo zhōng tídào de qíngbào gōngsī, tígōng shénmeyàng de fúwù?",
-     "en": "What service does the intelligence company in the report provide?"
+     "en": "What service does the intelligence company in the report provide?",
+     "idn": "Layanan apa yang disediakan perusahaan intelijen dalam laporan ini?"
     }
    ]
   },
@@ -2178,29 +2557,34 @@
     "A": {
      "zh": "有些人才太搶手，不容易爭取",
      "py": "Yǒuxiē réncái tài qiǎngshǒu, bù róngyì zhēngqǔ",
-     "en": "(A) Some talent is too much in demand and hard to win."
+     "en": "(A) Some talent is too much in demand and hard to win.",
+     "idn": "(A) Sebagian bakat terlalu dicari sehingga sulit didapat."
     },
     "B": {
      "zh": "求職者太多，主管沒時間面試",
      "py": "Qiúzhízhě tài duō, zhǔguǎn méi shíjiān miànshì",
-     "en": "(B) There are too many applicants and managers have no time to interview."
+     "en": "(B) There are too many applicants and managers have no time to interview.",
+     "idn": "(B) Pelamar terlalu banyak sehingga manajer tidak sempat mewawancarai."
     },
     "C": {
      "zh": "主管想進一步掌握求職者的背景",
      "py": "Zhǔguǎn xiǎng jìnyíbù zhǎngwò qiúzhízhě de bèijǐng",
-     "en": "(C) Managers want to know more about applicants' backgrounds."
+     "en": "(C) Managers want to know more about applicants' backgrounds.",
+     "idn": "(C) Manajer ingin lebih mengetahui latar belakang pelamar."
     },
     "D": {
      "zh": "主管想給有犯罪前科的人一個機會",
      "py": "Zhǔguǎn xiǎng gěi yǒu fànzuì qiánkē de rén yí ge jīhuì",
-     "en": "(D) Managers want to give people with criminal records a chance."
+     "en": "(D) Managers want to give people with criminal records a chance.",
+     "idn": "(D) Manajer ingin memberi kesempatan kepada orang yang punya catatan kriminal."
     }
    },
    "transcript": [
     {
      "zh": "一般企業為什麼需要這種情報公司的服務？",
      "py": "Yìbān qǐyè wèishénme xūyào zhèzhǒng qíngbào gōngsī de fúwù?",
-     "en": "Why do companies need this kind of intelligence company's service?"
+     "en": "Why do companies need this kind of intelligence company's service?",
+     "idn": "Mengapa perusahaan membutuhkan layanan perusahaan intelijen seperti ini?"
     }
    ]
   },
@@ -2209,29 +2593,34 @@
     "A": {
      "zh": "履歷表",
      "py": "Lǚlìbiǎo",
-     "en": "(A) CV"
+     "en": "(A) CV",
+     "idn": "(A) Riwayat hidup"
     },
     "B": {
      "zh": "人格特質",
      "py": "Réngétèzhì",
-     "en": "(B) Personality traits"
+     "en": "(B) Personality traits",
+     "idn": "(B) Ciri kepribadian"
     },
     "C": {
      "zh": "溝通技巧",
      "py": "Gōutōng jìqiǎo",
-     "en": "(C) Communication skills"
+     "en": "(C) Communication skills",
+     "idn": "(C) Kemampuan berkomunikasi"
     },
     "D": {
      "zh": "電腦資訊能力",
      "py": "Diànnǎo zīxùn nénglì",
-     "en": "(D) Computer skills"
+     "en": "(D) Computer skills",
+     "idn": "(D) Keterampilan komputer"
     }
    },
    "transcript": [
     {
      "zh": "跟過去相比，現在企業在徵才時，重視員工哪一方面？",
      "py": "Gēn guòqù xiāngbǐ, xiànzài qǐyè zài zhēngcái shí, zhòngshì yuángōng nǎyìfāngmiàn?",
-     "en": "Compared with the past, which aspect of employees do companies now value when hiring?"
+     "en": "Compared with the past, which aspect of employees do companies now value when hiring?",
+     "idn": "Dibanding dulu, aspek apa dari karyawan yang kini dipentingkan perusahaan saat merekrut?"
     }
    ]
   },
@@ -2240,29 +2629,34 @@
     "A": {
      "zh": "他們會公布整個調查結果",
      "py": "Tāmen huì gōngbù zhěng ge diàochájiéguǒ",
-     "en": "(A) They publish the full results of their investigations."
+     "en": "(A) They publish the full results of their investigations.",
+     "idn": "(A) Mereka mengumumkan seluruh hasil penyelidikannya."
     },
     "B": {
      "zh": "他們會請偵探進一步調查",
      "py": "Tāmen huì qǐng zhēntàn jìnyíbù diàochá",
-     "en": "(B) They ask detectives to investigate further."
+     "en": "(B) They ask detectives to investigate further.",
+     "idn": "(B) Mereka meminta detektif menyelidiki lebih lanjut."
     },
     "C": {
      "zh": "他們蒐集的資料都是公開的",
      "py": "Tāmen sōují de zīliào dōu shì gōngkāi de",
-     "en": "(C) The data they collect is all public."
+     "en": "(C) The data they collect is all public.",
+     "idn": "(C) Data yang mereka kumpulkan semuanya terbuka untuk umum."
     },
     "D": {
      "zh": "網路上的資訊本來就不可信",
      "py": "Wǎnglùshàng de zīxùn běnlái jiù bùkě xìn",
-     "en": "(D) Information online is unreliable anyway."
+     "en": "(D) Information online is unreliable anyway.",
+     "idn": "(D) Informasi di internet memang tidak bisa dipercaya."
     }
    },
    "transcript": [
     {
      "zh": "面對外界的質疑及批評，情報公司如何回應？",
      "py": "Miànduì wàijiè de zhìyí jí pīpíng, qíngbào gōngsī rúhé huíyìng?",
-     "en": "How does the intelligence company respond to outside doubts and criticism?"
+     "en": "How does the intelligence company respond to outside doubts and criticism?",
+     "idn": "Bagaimana perusahaan intelijen menanggapi keraguan dan kritik dari luar?"
     }
    ]
   },
@@ -2271,133 +2665,158 @@
     {
      "zh": "日前教育學院的李教授表示，他很擔憂年輕人閱讀太簡單的文章，而喪失邏輯思考的能力，然而網路作家們卻有不同的看法。",
      "py": "Rìqián jiàoyù xuéyuàn de Lǐjiàoshòu biǎoshì, tā hěn dānyōu niánqīngrén yuèdú tài jiǎndān de wénzhāng, ér sàngshī luójí sīkǎo de nénglì, rán'ér wǎnglù zuòjiā men què yǒu bùtóng de kànfǎ.",
-     "en": "Professor Li of the College of Education recently said he is worried that young people who read overly simple writing will lose the ability to think logically, but online writers see it differently."
+     "en": "Professor Li of the College of Education recently said he is worried that young people who read overly simple writing will lose the ability to think logically, but online writers see it differently.",
+     "idn": "Profesor Li dari Fakultas Pendidikan belakangan mengatakan dia khawatir anak muda yang membaca tulisan yang terlalu sederhana akan kehilangan kemampuan berpikir logis, tetapi para penulis daring berpendapat lain."
     },
     {
      "zh": "以下是一段綜合兩方觀點所作的評論，請聽完後回答四個問題。",
      "py": "Yǐxià shì yíduàn zōnghé liǎngfāng guāndiǎn suǒzuò de pínglùn, qǐng tīng wán hòu huídá sì ge wèntí.",
-     "en": "The following is a commentary combining both views. After listening, answer the four questions."
+     "en": "The following is a commentary combining both views. After listening, answer the four questions.",
+     "idn": "Berikut ini komentar yang memadukan kedua pandangan. Setelah mendengarkan, jawab empat pertanyaan."
     }
    ],
    "options": {
     "A": {
      "zh": "新世代的文章更具創造力",
      "py": "Xīn shìdài de wénzhāng gèngjù chuàngzàolì",
-     "en": "(A) The new generation's writing is more creative."
+     "en": "(A) The new generation's writing is more creative.",
+     "idn": "(A) Tulisan generasi baru lebih kreatif."
     },
     "B": {
      "zh": "文學的核心價值是不變的",
      "py": "Wénxué de héxīn jiàzhí shì búbiàn de",
-     "en": "(B) The core values of literature don't change."
+     "en": "(B) The core values of literature don't change.",
+     "idn": "(B) Nilai inti sastra tidak berubah."
     },
     "C": {
      "zh": "感謝李教授的包容與尊重",
      "py": "Gǎnxiè Lǐjiàoshòu de bāoróng yǔ zūnzhòng",
-     "en": "(C) Thanks for Professor Li's tolerance and respect."
+     "en": "(C) Thanks for Professor Li's tolerance and respect.",
+     "idn": "(C) Berterima kasih atas toleransi dan penghargaan Profesor Li."
     },
     "D": {
      "zh": "簡單的文章更具有表現力",
      "py": "Jiǎndān de wénzhāng gèng jùyǒu biǎoxiànlì",
-     "en": "(D) Simple writing is more expressive."
+     "en": "(D) Simple writing is more expressive.",
+     "idn": "(D) Tulisan sederhana lebih ekspresif."
     }
    },
    "intro": [
     {
      "zh": "日前教育學院的李教授表示，他很擔憂年輕人閱讀太簡單的文章，而喪失邏輯思",
      "py": "Rìqián jiàoyù xuéyuàn de Lǐjiàoshòu biǎoshì, tā hěn dānyōu niánqīngrén yuèdú tài jiǎndān de wénzhāng, ér sàngshī luójí sī",
-     "en": "Professor Li of the College of Education recently said he is worried that young people who read overly simple writing will lose the ability to think"
+     "en": "Professor Li of the College of Education recently said he is worried that young people who read overly simple writing will lose the ability to think",
+     "idn": "Profesor Li dari Fakultas Pendidikan belakangan mengatakan dia khawatir anak muda yang membaca tulisan yang terlalu sederhana akan kehilangan kemampuan berpikir"
     },
     {
      "zh": "考的能力，然而網路作家們卻有不同的看法。以下是一段綜合兩方觀點所作的評",
      "py": "Kǎo de nénglì, rán'ér wǎnglù zuòjiā men què yǒu bùtóng de kànfǎ. Yǐxià shì yíduàn zōnghé liǎngfāng guāndiǎn suǒzuò de píng",
-     "en": "logically, but online writers see it differently. The following is a commentary combining both"
+     "en": "logically, but online writers see it differently. The following is a commentary combining both",
+     "idn": "logis, tetapi para penulis daring berpendapat lain. Berikut ini komentar yang memadukan kedua"
     },
     {
      "zh": "論，請聽完後回答四個問題。",
      "py": "Lùn, qǐng tīng wán hòu huídá sì ge wèntí.",
-     "en": "views. After listening, answer the four questions."
+     "en": "views. After listening, answer the four questions.",
+     "idn": "pandangan. Setelah mendengarkan, jawab empat pertanyaan."
     },
     {
      "zh": "現在請聽評論。",
      "py": "Xiànzài qǐng tīng pínglùn.",
-     "en": "Now listen to the commentary."
+     "en": "Now listen to the commentary.",
+     "idn": "Sekarang dengarkan komentarnya."
     },
     {
      "zh": "李教授認為，網路文章的思考邏輯通常不清楚，看網路文章不如讀法院判決",
      "py": "Lǐjiàoshòu rènwéi, wǎnglù wénzhāng de sīkǎo luójí tōngcháng bù qīngchǔ, kàn wǎnglù wénzhāng bùrú dú fǎyuàn pànjué",
-     "en": "Professor Li believes the logic of online writing is usually unclear, and that it's better to read court judgments than online articles"
+     "en": "Professor Li believes the logic of online writing is usually unclear, and that it's better to read court judgments than online articles",
+     "idn": "Profesor Li berpendapat bahwa logika tulisan daring biasanya tidak jelas, dan lebih baik membaca putusan pengadilan daripada artikel daring"
     },
     {
      "zh": "文來學習思路的表達。對於這一點，網路作家們表示，這樣的想法其實代表著不",
      "py": "Wén lái xuéxí sīlù de biǎodá. Duìyú zhè yìdiǎn, wǎnglù zuòjiā men biǎoshì, zhèyàng de xiǎngfǎ qíshí dàibiǎo zhe bù",
-     "en": "to learn how to express a line of thought. On this point, online writers say this view actually reflects how different"
+     "en": "to learn how to express a line of thought. On this point, online writers say this view actually reflects how different",
+     "idn": "untuk belajar mengungkapkan alur pikiran. Mengenai hal ini, para penulis daring mengatakan bahwa pandangan ini sebenarnya mencerminkan perbedaan pemahaman"
     },
     {
      "zh": "同世代對於新事物有不同的理解，然而在面對世代交替帶來的轉變時，應抱持一",
      "py": "Tóng shìdài duìyú xīn shìwù yǒu bùtóng de lǐjiě, rán'ér zài miànduì Shìdàijiāotì dàilái de zhuǎnbiàn shí, yīng bàochí yī",
-     "en": "generations understand new things differently, and that when facing the changes generational turnover brings, one should be"
+     "en": "generations understand new things differently, and that when facing the changes generational turnover brings, one should be",
+     "idn": "antargenerasi terhadap hal baru, dan bahwa saat menghadapi perubahan akibat pergantian generasi, orang sebaiknya"
     },
     {
      "zh": "份寬容，因為文學的價值在於它所表達的內容，而不在於文字本身。網路作家代",
      "py": "Fèn kuānróng, yīnwèi wénxué de jiàzhí zàiyú tā suǒ biǎodá de nèiróng, ér bú zàiyú wénzì běnshēn. Wǎnglù zuòjiā dài",
-     "en": "tolerant, because the value of literature lies in what it expresses, not in the words themselves. A representative of the online writers"
+     "en": "tolerant, because the value of literature lies in what it expresses, not in the words themselves. A representative of the online writers",
+     "idn": "toleran, karena nilai sastra terletak pada apa yang diungkapkan, bukan pada kata-katanya. Perwakilan para penulis daring"
     },
     {
      "zh": "表也提出了他們的主要觀點：每一個時代的經典文學，它們的核心價值都是一樣",
      "py": "Biǎo yě tíchū le tāmen de zhǔyào guāndiǎn: Měi yí ge shídài de jīngdiǎn wénxué, tāmen de héxīn jiàzhí dōu shì yíyàng",
-     "en": "also put forward their main view: the core values of the classic literature of every era are the"
+     "en": "also put forward their main view: the core values of the classic literature of every era are the",
+     "idn": "juga mengemukakan pandangan utama mereka: nilai inti karya sastra klasik setiap zaman adalah"
     },
     {
      "zh": "的。",
      "py": "De.",
-     "en": "same."
+     "en": "same.",
+     "idn": "(lanjutan) sama."
     },
     {
      "zh": "綜觀兩方看法，我認為，判決文書固然邏輯清晰、條理分明，但有些法律用",
      "py": "Zōngguān liǎngfāng kànfǎ, wǒ rènwéi, pànjué wénshū gùrán luójí qīngxī, tiáolǐfēnmíng, dàn yǒuxiē fǎlǜ yòng",
-     "en": "Looking at both views, I think that although court judgments are clear in logic and well organized, some legal"
+     "en": "Looking at both views, I think that although court judgments are clear in logic and well organized, some legal",
+     "idn": "Melihat kedua pandangan ini, menurut saya meskipun putusan pengadilan jelas logikanya dan tertata, sebagian bahasa"
     },
     {
      "zh": "語太過生硬，還有些詭辯論述。年輕人讀了，未必能從中獲益。不管是文言文、",
      "py": "Yǔ tài guò shēngyìng, hái yǒuxiē guǐbiàn lùnshù. Niánqīngrén dú le, wèibì néng cóngzhōng huòyì. Bùguǎn shì wényánwén,",
-     "en": "language is too stiff, and some arguments are sophistry. Young people reading them won't necessarily benefit. Whether it's classical Chinese,"
+     "en": "language is too stiff, and some arguments are sophistry. Young people reading them won't necessarily benefit. Whether it's classical Chinese,",
+     "idn": "hukumnya terlalu kaku, dan sebagian argumennya adalah dalih. Anak muda yang membacanya belum tentu mendapat manfaat. Baik bahasa Tionghoa klasik,"
     },
     {
      "zh": "白話文、法院判決文或是網路文章，都只是一種表達工具，不應有上下之分，重",
      "py": "Báihuàwén, fǎyuàn pànjué wén huòshì wǎnglù wénzhāng, dōu zhǐshì yìzhǒng biǎodá gōngjù, bù yīngyǒu shàngxià zhī fēn, zhòng",
-     "en": "vernacular Chinese, court judgments or online articles, they're all just tools of expression and shouldn't be ranked; what"
+     "en": "vernacular Chinese, court judgments or online articles, they're all just tools of expression and shouldn't be ranked; what",
+     "idn": "bahasa Tionghoa modern, putusan pengadilan, maupun artikel daring, semuanya hanyalah alat ekspresi dan tidak sepatutnya diberi peringkat; yang"
     },
     {
      "zh": "要的是文章內涵的價值。",
      "py": "Yào de shì wénzhāng nèihán de jiàzhí.",
-     "en": "matters is the value of the content."
+     "en": "matters is the value of the content.",
+     "idn": "penting adalah nilai isinya."
     },
     {
      "zh": "李教授或許只是想鼓勵年輕人，多看些有深度的文學作品或是經典之作。對",
      "py": "Lǐjiàoshòu huòxǔ zhǐshì xiǎng gǔlì niánqīngrén, duō kàn xiē yǒu Shēndù de wénxuézuòpǐn huòshì jīngdiǎnzhīzuò. Duì",
-     "en": "Perhaps Professor Li just wants to encourage young people to read more profound literary works or classics."
+     "en": "Perhaps Professor Li just wants to encourage young people to read more profound literary works or classics.",
+     "idn": "Mungkin Profesor Li hanya ingin mendorong anak muda lebih banyak membaca karya sastra atau klasik yang lebih mendalam."
     },
     {
      "zh": "於這點，我想大家是不會意見相左的，因為多涉獵總是好的，好的作品才能開闊",
      "py": "Yú zhèdiǎn, wǒ xiǎng dàjiā shì búhuì yìjiàn xiāngzuǒ de, yīnwèi duō shèliè zǒngshì hǎo de, hǎo de zuòpǐn cáinéng kāikuò",
-     "en": "On that point I think no one will disagree, because reading widely is always good, and good works broaden"
+     "en": "On that point I think no one will disagree, because reading widely is always good, and good works broaden",
+     "idn": "Dalam hal itu saya rasa tidak ada yang akan menentang, karena membaca secara luas selalu baik, dan karya yang baik memperluas"
     },
     {
      "zh": "人的視野和胸襟。就像是本校的劉校長勸年輕人：「不要畫地自限，要有廣泛的",
      "py": "Rén de shìyě hé xiōngjīn. Jiù xiàngshì běnxiào de Liúxiàozhǎng quàn niánqīngrén: “Búyào huàdìzìxiàn, yào yǒu guǎngfàn de",
-     "en": "people's horizons and minds. Just as our university's President Liu advises young people: \"Don't limit yourselves; have a wide range of"
+     "en": "people's horizons and minds. Just as our university's President Liu advises young people: \"Don't limit yourselves; have a wide range of",
+     "idn": "wawasan dan pikiran orang. Seperti nasihat Rektor Liu dari universitas kami kepada anak muda: \"Jangan membatasi diri; milikilah"
     },
     {
      "zh": "嗜好，培養專業以外的興趣，感受世界的美好。」",
      "py": "Shìhào, péiyǎng zhuānyè yǐwài de xìngqù, gǎnshòu shìjiè de měihǎo.”",
-     "en": "hobbies, cultivate interests beyond your specialty, and feel the beauty of the world.\""
+     "en": "hobbies, cultivate interests beyond your specialty, and feel the beauty of the world.\"",
+     "idn": "hobi yang luas, kembangkan minat di luar bidang keahlian, dan rasakan keindahan dunia.\""
     }
    ],
    "transcript": [
     {
      "zh": "網路作家們對李教授的說法有什麼回應？",
      "py": "Wǎnglù zuòjiā men duì Lǐjiàoshòu de shuōfǎ yǒu shénme huíyìng?",
-     "en": "How do online writers respond to Professor Li's statement?"
+     "en": "How do online writers respond to Professor Li's statement?",
+     "idn": "Bagaimana para penulis daring menanggapi pernyataan Profesor Li?"
     }
    ]
   },
@@ -2406,29 +2825,34 @@
     "A": {
      "zh": "內容方面沒有意義可言",
      "py": "Nèiróng fāngmiàn méiyǒu yìyì kěyán",
-     "en": "(A) The content is meaningless."
+     "en": "(A) The content is meaningless.",
+     "idn": "(A) Isinya tidak bermakna."
     },
     "B": {
      "zh": "有邏輯的文章有益思考",
      "py": "Yǒu luójí de wénzhāng yǒuyì sīkǎo",
-     "en": "(B) Logical writing benefits thinking."
+     "en": "(B) Logical writing benefits thinking.",
+     "idn": "(B) Tulisan yang logis bermanfaat bagi cara berpikir."
     },
     "C": {
      "zh": "年輕人的文章毫無深度",
      "py": "Niánqīngrén de wénzhāng háowú Shēndù",
-     "en": "(C) Young people's writing has no depth at all."
+     "en": "(C) Young people's writing has no depth at all.",
+     "idn": "(C) Tulisan anak muda sama sekali tidak punya kedalaman."
     },
     "D": {
      "zh": "閱讀難度高於任何文章",
      "py": "Yuèdú nándù gāoyú rènhé wénzhāng",
-     "en": "(D) It's harder to read than any other writing."
+     "en": "(D) It's harder to read than any other writing.",
+     "idn": "(D) Lebih sulit dibaca daripada tulisan lain mana pun."
     }
    },
    "transcript": [
     {
      "zh": "李教授舉判決文書的例子想說明什麼？",
      "py": "Lǐjiàoshòu jǔ pànjué wénshū de lìzi xiǎng shuōmíng shénme?",
-     "en": "What does Professor Li want to show with the example of court judgments?"
+     "en": "What does Professor Li want to show with the example of court judgments?",
+     "idn": "Apa yang ingin ditunjukkan Profesor Li dengan contoh putusan pengadilan?"
     }
    ]
   },
@@ -2437,29 +2861,34 @@
     "A": {
      "zh": "文體間不應有優劣之分",
      "py": "Wéntǐ jiān bù yīngyǒu yōuliè zhī fēn",
-     "en": "(A) Styles of writing shouldn't be ranked as better or worse."
+     "en": "(A) Styles of writing shouldn't be ranked as better or worse.",
+     "idn": "(A) Gaya tulisan tidak sepatutnya diperingkat lebih baik atau lebih buruk."
     },
     "B": {
      "zh": "文體的使用應區分場合",
      "py": "Wéntǐ de shǐyòng yīng qūfēn chǎnghé",
-     "en": "(B) Writing styles should be used according to the occasion."
+     "en": "(B) Writing styles should be used according to the occasion.",
+     "idn": "(B) Gaya tulisan sebaiknya dipakai sesuai situasinya."
     },
     "C": {
      "zh": "舊思維終究被時代淘汰",
      "py": "Jiù sīwéi zhōngjiū bèi shídài táotài",
-     "en": "(C) Old thinking will eventually be eliminated by the times."
+     "en": "(C) Old thinking will eventually be eliminated by the times.",
+     "idn": "(C) Pemikiran lama pada akhirnya akan tersingkir oleh zaman."
     },
     "D": {
      "zh": "讀書與內涵的養成無關",
      "py": "Dúshū yǔ nèihán de yǎngchéng wúguān",
-     "en": "(D) Reading has nothing to do with developing inner depth."
+     "en": "(D) Reading has nothing to do with developing inner depth.",
+     "idn": "(D) Membaca tidak ada hubungannya dengan membangun kedalaman batin."
     }
    },
    "transcript": [
     {
      "zh": "說話者的立場是什麼？",
      "py": "Shuōhuà zhě de lìchǎng shì shénme?",
-     "en": "What is the speaker's position?"
+     "en": "What is the speaker's position?",
+     "idn": "Bagaimana posisi pembicara?"
     }
    ]
   },
@@ -2468,29 +2897,34 @@
     "A": {
      "zh": "說明為什麼否定李教授的觀點",
      "py": "Shuōmíng wèishénme fǒudìng Lǐjiàoshòu de guāndiǎn",
-     "en": "(A) To explain why she rejects Professor Li's view"
+     "en": "(A) To explain why she rejects Professor Li's view",
+     "idn": "(A) Untuk menjelaskan mengapa dia menolak pandangan Profesor Li"
     },
     "B": {
      "zh": "舉相同意見支持網路作家們的看法",
      "py": "Jǔ xiāngtóng yìjiàn zhīchí wǎnglù zuòjiā men de kànfǎ",
-     "en": "(B) To support the online writers' view with a similar opinion"
+     "en": "(B) To support the online writers' view with a similar opinion",
+     "idn": "(B) Untuk mendukung pandangan penulis daring dengan pendapat serupa"
     },
     "C": {
      "zh": "表示只有劉校長的看法與自己近似",
      "py": "Biǎoshì zhǐyǒu Liúxiàozhǎng de kànfǎ yǔ zìjǐ jìnsì",
-     "en": "(C) To show that only President Liu's view is close to her own"
+     "en": "(C) To show that only President Liu's view is close to her own",
+     "idn": "(C) Untuk menunjukkan bahwa hanya pandangan Rektor Liu yang dekat dengan pandangannya"
     },
     "D": {
      "zh": "為李教授的看法提出可接受的解釋",
      "py": "Wèi Lǐjiàoshòu de kànfǎ tíchū kě jiēshòu de jiěshì",
-     "en": "(D) To offer an acceptable explanation of Professor Li's view"
+     "en": "(D) To offer an acceptable explanation of Professor Li's view",
+     "idn": "(D) Untuk memberikan penjelasan yang bisa diterima tentang pandangan Profesor Li"
     }
    },
    "transcript": [
     {
      "zh": "說話者引用劉校長的話，用意是什麼？",
      "py": "Shuōhuà zhě yǐnyòng Liúxiàozhǎng dehuà, yòngyì shì shénme?",
-     "en": "What is the speaker's purpose in quoting President Liu?"
+     "en": "What is the speaker's purpose in quoting President Liu?",
+     "idn": "Apa tujuan pembicara mengutip Rektor Liu?"
     }
    ]
   },
@@ -2499,108 +2933,128 @@
     {
      "zh": "下面是一段關於安提基瑟拉儀的介紹，請聽完後，回答五個問題。",
      "py": "Xiàmiàn shì yíduàn guānyú Āntíjīsèlā yí de jièshào, qǐng tīng wán hòu, huídá wǔ ge wèntí.",
-     "en": "The following is an introduction to the Antikythera mechanism. After listening, answer the five questions."
+     "en": "The following is an introduction to the Antikythera mechanism. After listening, answer the five questions.",
+     "idn": "Berikut ini perkenalan tentang mekanisme Antikythera. Setelah mendengarkan, jawab lima pertanyaan."
     }
    ],
    "options": {
     "A": {
      "zh": "經多年的探勘才被發現",
      "py": "Jīng duōnián de tànkān cái bèi fāxiàn",
-     "en": "(A) It was discovered after years of exploration."
+     "en": "(A) It was discovered after years of exploration.",
+     "idn": "(A) Ditemukan setelah bertahun-tahun penjelajahan."
     },
     "B": {
      "zh": "儀器是以發現者命名的",
      "py": "Yíqì shì yǐ fāxiànzhě mìngmíng de",
-     "en": "(B) The device is named after its discoverer."
+     "en": "(B) The device is named after its discoverer.",
+     "idn": "(B) Alat ini dinamai menurut penemunya."
     },
     "C": {
      "zh": "發現前被封存於箱子中",
      "py": "Fāxiàn qián bèi fēngcún yú xiāngzi zhōng",
-     "en": "(C) Before its discovery it was sealed in a box."
+     "en": "(C) Before its discovery it was sealed in a box.",
+     "idn": "(C) Sebelum ditemukan, alat ini tersegel di dalam kotak."
     },
     "D": {
      "zh": "發現時儀器仍完好無缺",
      "py": "Fāxiàn shí yíqì réng wánhǎowúquē",
-     "en": "(D) When discovered, the device was intact."
+     "en": "(D) When discovered, the device was intact.",
+     "idn": "(D) Saat ditemukan, alat ini masih utuh."
     }
    },
    "intro": [
     {
      "zh": "下面是一段關於安提基瑟拉儀的介紹，請聽完後，回答五個問題。",
      "py": "Xiàmiàn shì yíduàn guānyú Āntíjīsèlā yí de jièshào, qǐng tīng wán hòu, huídá wǔ ge wèntí.",
-     "en": "The following is an introduction to the Antikythera mechanism. After listening, answer the five questions."
+     "en": "The following is an introduction to the Antikythera mechanism. After listening, answer the five questions.",
+     "idn": "Berikut ini perkenalan tentang mekanisme Antikythera. Setelah mendengarkan, jawab lima pertanyaan."
     },
     {
      "zh": "現在請聽介紹。",
      "py": "Xiànzài qǐng tīng jièshào.",
-     "en": "Now listen to the introduction."
+     "en": "Now listen to the introduction.",
+     "idn": "Sekarang dengarkan perkenalannya."
     },
     {
      "zh": "20 世紀初期，漁工在探查海底世界時，無意間發現了一個木箱，暗藏在箱",
      "py": "20 shìjì chūqī, yúgōng zài tànchá hǎidǐ shìjiè shí, wúyìjiān fāxiàn le yí ge mùxiāng, àncáng zài xiāng",
-     "en": "In the early 20th century, fishermen exploring the seabed accidentally discovered a wooden box. What was hidden"
+     "en": "In the early 20th century, fishermen exploring the seabed accidentally discovered a wooden box. What was hidden",
+     "idn": "Pada awal abad ke-20, nelayan yang menjelajahi dasar laut secara tidak sengaja menemukan sebuah kotak kayu. Isi"
     },
     {
      "zh": "子裡的東西，震撼了百年來的科學史，這個東西以它的發現地命名，稱做安提基",
      "py": "Zi lǐ de Dōngxi, zhènhàn le bǎinián lái de kēxuéshǐ, zhè ge Dōngxi yǐ tā de fāxiàn de mìngmíng, chēngzuò Āntíjī",
-     "en": "inside shook the history of science for the next hundred years. Named after the place it was found, it is called the Antikythera"
+     "en": "inside shook the history of science for the next hundred years. Named after the place it was found, it is called the Antikythera",
+     "idn": "di dalamnya mengguncang sejarah ilmu pengetahuan selama seratus tahun berikutnya. Dinamai menurut tempat ditemukannya, alat ini disebut mekanisme Antikythera."
     },
     {
      "zh": "瑟拉儀。它被取出時已斷裂成多塊。這個儀器上的齒輪以及刻印在它上頭的銘文，",
      "py": "Sèlā yí. Tā bèi qǔchū shí yǐ duànliè chéng duōkuài. Zhè ge yíqì shàng de chǐlún yǐjí kèyìn zài tā shàngtou de míngwén,",
-     "en": "mechanism. When it was taken out it had already broken into many pieces. The gears on this device and the inscriptions engraved on it"
+     "en": "mechanism. When it was taken out it had already broken into many pieces. The gears on this device and the inscriptions engraved on it",
+     "idn": "Saat dikeluarkan, alat itu sudah pecah menjadi banyak bagian. Roda gigi pada alat ini dan tulisan yang terukir padanya"
     },
     {
      "zh": "讓許多學者認為它與天文有關，但也有人認為是航海儀器。經多方研究後，確定",
      "py": "Ràng xǔduō xuézhě rènwéi tā yǔ Tiānwén yǒuguān, dàn yě yǒurén rènwéi shì hánghǎi yíqì. Jīng duōfāng yánjiū hòu, quèdìng",
-     "en": "led many scholars to think it was related to astronomy, while others thought it was a navigational instrument. After much research, it was confirmed"
+     "en": "led many scholars to think it was related to astronomy, while others thought it was a navigational instrument. After much research, it was confirmed",
+     "idn": "membuat banyak akademisi menganggapnya berkaitan dengan astronomi, sedangkan yang lain menganggapnya alat navigasi. Setelah banyak penelitian, alat ini dipastikan"
     },
     {
      "zh": "它是西元前 2 世紀左右的天文儀器，於西元前 1 世紀時，隨著一艘商船沉沒大海。",
      "py": "Tā shì xīyuánqián 2 shìjì zuǒyòu de Tiānwén yíqì, yú xīyuánqián 1 shìjì shí, suízhe yìsōu shāngchuán chénmò Dàhǎi.",
-     "en": "to be an astronomical instrument from around the 2nd century BC that sank into the sea with a merchant ship in the 1st century BC."
+     "en": "to be an astronomical instrument from around the 2nd century BC that sank into the sea with a merchant ship in the 1st century BC.",
+     "idn": "sebagai instrumen astronomi dari sekitar abad ke-2 SM yang tenggelam ke laut bersama sebuah kapal dagang pada abad ke-1 SM."
     },
     {
      "zh": "歷史記載中最早的天文儀器是日晷，在中國、古埃及、希臘等地都有記錄，",
      "py": "Lìshǐ jìzǎi zhōng zuìzǎo de Tiānwén yíqì shì rìguǐ, zài Zhōngguó, Gǔ'āijí, Xīlà děng de dōu yǒu jìlù,",
-     "en": "The earliest astronomical instrument in historical records is the sundial, recorded in China, ancient Egypt, Greece and elsewhere,"
+     "en": "The earliest astronomical instrument in historical records is the sundial, recorded in China, ancient Egypt, Greece and elsewhere,",
+     "idn": "Instrumen astronomi paling awal dalam catatan sejarah adalah jam matahari, yang tercatat di Tiongkok, Mesir kuno, Yunani, dan tempat lain,"
     },
     {
      "zh": "但這些千年儀器都沒有齒輪。安提基瑟拉儀算是目前西方發現最早「有齒輪」的",
      "py": "Dàn zhèxiē qiānnián yíqì dōu méiyǒu chǐlún. Āntíjīsèlā yí suànshì mùqián xīfāng fāxiàn zuìzǎo “Yǒu chǐlún” de",
-     "en": "but none of these thousand-year-old instruments had gears. The Antikythera mechanism is the earliest astronomical instrument \"with gears\" found in the West so far;"
+     "en": "but none of these thousand-year-old instruments had gears. The Antikythera mechanism is the earliest astronomical instrument \"with gears\" found in the West so far;",
+     "idn": "tetapi tidak ada satu pun instrumen berusia ribuan tahun itu yang punya roda gigi. Mekanisme Antikythera adalah instrumen astronomi \"bergigi\" paling awal yang ditemukan di Barat sejauh ini;"
     },
     {
      "zh": "天文儀器，次早的是拜占庭的日晷儀，再來是伊斯蘭文化中的齒輪日曆。",
      "py": "Tiānwén yíqì, cìzǎo de shì Bàizhàntíng de rìguǐyí, zàilái shì Yīsīlán wénhuà zhōng de chǐlún rìlì.",
-     "en": "the next earliest is a Byzantine sundial, followed by the geared calendars of Islamic culture."
+     "en": "the next earliest is a Byzantine sundial, followed by the geared calendars of Islamic culture.",
+     "idn": "berikutnya adalah jam matahari Bizantium, disusul kalender bergigi dari budaya Islam."
     },
     {
      "zh": "安提基瑟拉儀共有 30 個齒輪，再搭配 5 個被認為已遺失的齒輪，科學家發",
      "py": "Āntíjīsèlā yí gòngyǒu 30 gè chǐlún, zài dāpèi 5 gè bèi rènwéi yǐ yíshī de chǐlún, kēxuéjiā fā",
-     "en": "The Antikythera mechanism has 30 gears in total, plus 5 gears believed to have been lost. Scientists found"
+     "en": "The Antikythera mechanism has 30 gears in total, plus 5 gears believed to have been lost. Scientists found",
+     "idn": "Mekanisme Antikythera punya total 30 roda gigi, ditambah 5 roda gigi yang diduga hilang. Para ilmuwan menemukan"
     },
     {
      "zh": "現它不僅能說明天體的運行、預測日蝕、月蝕的日期，還能進行加、減、乘、除",
      "py": "Xiàn tā bùjǐn néng shuōmíng tiāntǐ de yùnxíng, yùcè Rìshí, yuèshí de rìqī, hái néng jìnxíng jiā, jiǎn, chéng, chú",
-     "en": "that it could not only show the movements of celestial bodies and predict the dates of solar and lunar eclipses, but also perform addition, subtraction, multiplication and division."
+     "en": "that it could not only show the movements of celestial bodies and predict the dates of solar and lunar eclipses, but also perform addition, subtraction, multiplication and division.",
+     "idn": "bahwa alat ini tidak hanya bisa menunjukkan pergerakan benda langit dan memprediksi tanggal gerhana matahari dan bulan, tetapi juga bisa melakukan penjumlahan, pengurangan, perkalian, dan pembagian."
     },
     {
      "zh": "的運算。它的精巧程度，和目前已知的西方科學史有至少千年的落差，所以這個",
      "py": "De yùnsuàn. Tā de jīngqiǎo chéngdù, hé mùqián yǐzhī de xīfāng kēxuéshǐ yǒu zhìshǎo qiānnián de luòchà, suǒyǐ zhè ge",
-     "en": "Its sophistication is at least a thousand years ahead of the known history of Western science, so this"
+     "en": "Its sophistication is at least a thousand years ahead of the known history of Western science, so this",
+     "idn": "Kecanggihannya setidaknya seribu tahun lebih maju daripada sejarah ilmu pengetahuan Barat yang diketahui, sehingga"
     },
     {
      "zh": "發現令相關領域的專家感到無比興奮，也重新開啟了古文明的天文知識之窗。",
      "py": "Fāxiàn lìng xiāngguān lǐngyù de zhuānjiā gǎndào wúbǐ xīngfèn, yě chóngxīn kāiqǐ le Gǔwénmíng de Tiānwén zhīshí zhī chuāng.",
-     "en": "discovery thrilled experts in related fields and reopened a window onto the astronomical knowledge of ancient civilizations."
+     "en": "discovery thrilled experts in related fields and reopened a window onto the astronomical knowledge of ancient civilizations.",
+     "idn": "penemuan ini menggemparkan para ahli di bidang terkait dan membuka kembali jendela menuju pengetahuan astronomi peradaban kuno."
     }
    ],
    "transcript": [
     {
      "zh": "關於安提基瑟拉儀，以下哪一個是對的？",
      "py": "Guānyú Āntíjīsèlā yí, yǐxià nǎ yí ge shì duì de?",
-     "en": "About the Antikythera mechanism, which of the following is correct?"
+     "en": "About the Antikythera mechanism, which of the following is correct?",
+     "idn": "Mengenai mekanisme Antikythera, manakah pernyataan berikut yang benar?"
     }
    ]
   },
@@ -2609,29 +3063,34 @@
     "A": {
      "zh": "辨認方向",
      "py": "Biànrèn fāngxiàng",
-     "en": "(A) Finding directions"
+     "en": "(A) Finding directions",
+     "idn": "(A) Menentukan arah"
     },
     "B": {
      "zh": "偵測氣溫",
      "py": "Zhēncè qìwēn",
-     "en": "(B) Measuring temperature"
+     "en": "(B) Measuring temperature",
+     "idn": "(B) Mengukur suhu"
     },
     "C": {
      "zh": "數字運算",
      "py": "Shùzì yùnsuàn",
-     "en": "(C) Arithmetic calculations"
+     "en": "(C) Arithmetic calculations",
+     "idn": "(C) Perhitungan aritmetika"
     },
     "D": {
      "zh": "測量經緯",
      "py": "Cèliáng jīngwěi",
-     "en": "(D) Measuring longitude and latitude"
+     "en": "(D) Measuring longitude and latitude",
+     "idn": "(D) Mengukur garis bujur dan lintang"
     }
    },
    "transcript": [
     {
      "zh": "經研究，科學家發現安提基瑟拉儀有什麼特別的功能？",
      "py": "Jīng yánjiū, kēxuéjiā fāxiàn Āntíjīsèlā yí yǒu shénme tèbié de gōngnéng?",
-     "en": "After research, what special function did scientists find the Antikythera mechanism has?"
+     "en": "After research, what special function did scientists find the Antikythera mechanism has?",
+     "idn": "Setelah diteliti, fungsi istimewa apa yang ditemukan para ilmuwan pada mekanisme Antikythera?"
     }
    ]
   },
@@ -2640,29 +3099,34 @@
     "A": {
      "zh": "現存最精簡的日晷儀",
      "py": "Xiàncún zuì jīngjiǎn de rìguǐyí",
-     "en": "(A) The most compact surviving sundial"
+     "en": "(A) The most compact surviving sundial",
+     "idn": "(A) Jam matahari paling ringkas yang masih ada"
     },
     "B": {
      "zh": "現存最原始的航海儀",
      "py": "Xiàncún zuì yuánshǐ de hánghǎi yí",
-     "en": "(B) The most primitive surviving navigational instrument"
+     "en": "(B) The most primitive surviving navigational instrument",
+     "idn": "(B) Alat navigasi paling primitif yang masih ada"
     },
     "C": {
      "zh": "現存最完整的行星觀測儀",
      "py": "Xiàncún zuì wánzhěng de xíngxīng guāncèyí",
-     "en": "(C) The most complete surviving planetary observation instrument"
+     "en": "(C) The most complete surviving planetary observation instrument",
+     "idn": "(C) Instrumen pengamatan planet paling lengkap yang masih ada"
     },
     "D": {
      "zh": "現存最古老的齒輪天文儀器",
      "py": "Xiàncún zuì Gǔlǎo de chǐlún Tiānwén yíqì",
-     "en": "(D) The oldest surviving geared astronomical instrument"
+     "en": "(D) The oldest surviving geared astronomical instrument",
+     "idn": "(D) Instrumen astronomi bergigi tertua yang masih ada"
     }
    },
    "transcript": [
     {
      "zh": "安提基瑟拉儀被發現的意義是什麼？",
      "py": "Āntíjīsèlā yí bèi fāxiàn de yìyì shì shénme?",
-     "en": "What is the significance of the discovery of the Antikythera mechanism?"
+     "en": "What is the significance of the discovery of the Antikythera mechanism?",
+     "idn": "Apa makna penemuan mekanisme Antikythera?"
     }
    ]
   },
@@ -2671,29 +3135,34 @@
     "A": {
      "zh": "說明安提基瑟拉儀的歷史價值不高",
      "py": "Shuōmíng Āntíjīsèlā yí de lìshǐ jiàzhí bù gāo",
-     "en": "(A) To show the Antikythera mechanism has little historical value"
+     "en": "(A) To show the Antikythera mechanism has little historical value",
+     "idn": "(A) Untuk menunjukkan bahwa mekanisme Antikythera kurang bernilai sejarah"
     },
     "B": {
      "zh": "強調安提基瑟拉儀的發現時間很晚",
      "py": "Qiángdiào Āntíjīsèlā yí de fāxiàn shíjiān hěn wǎn",
-     "en": "(B) To stress that the Antikythera mechanism was discovered very late"
+     "en": "(B) To stress that the Antikythera mechanism was discovered very late",
+     "idn": "(B) Untuk menekankan bahwa mekanisme Antikythera ditemukan sangat terlambat"
     },
     "C": {
      "zh": "突出安提基瑟拉儀與它們不同之處",
      "py": "Tūchū Āntíjīsèlā yí yǔ tāmen bùtóngzhīchù",
-     "en": "(C) To highlight how the Antikythera mechanism differs from them"
+     "en": "(C) To highlight how the Antikythera mechanism differs from them",
+     "idn": "(C) Untuk menonjolkan perbedaan mekanisme Antikythera dengan instrumen-instrumen itu"
     },
     "D": {
      "zh": "表示安提基瑟拉儀的發現不令人期待",
      "py": "Biǎoshì Āntíjīsèlā yí de fāxiàn bú Lìngrén qīdài",
-     "en": "(D) To show that the discovery of the Antikythera mechanism was not anticipated"
+     "en": "(D) To show that the discovery of the Antikythera mechanism was not anticipated",
+     "idn": "(D) Untuk menunjukkan bahwa penemuan mekanisme Antikythera tidak terduga"
     }
    },
    "transcript": [
     {
      "zh": "為什麼提到中國等地早已有類似儀器的記載？",
      "py": "Wèishénme tídào Zhōngguó děng de zǎoyǐ yǒu lèisì yíqì de jìzǎi?",
-     "en": "Why does it mention that places such as China had records of similar instruments long ago?"
+     "en": "Why does it mention that places such as China had records of similar instruments long ago?",
+     "idn": "Mengapa disebutkan bahwa tempat seperti Tiongkok sudah sejak lama mencatat instrumen serupa?"
     }
    ]
   },
@@ -2702,29 +3171,34 @@
     "A": {
      "zh": "對古文明的科技發展需重新評價",
      "py": "Duì Gǔwénmíng de kējì fāzhǎn xū chóngxīn píngjià",
-     "en": "(A) The technological development of ancient civilizations needs to be reassessed."
+     "en": "(A) The technological development of ancient civilizations needs to be reassessed.",
+     "idn": "(A) Perkembangan teknologi peradaban kuno perlu dinilai ulang."
     },
     "B": {
      "zh": "古代天文知識已經超越現代水平",
      "py": "Gǔdài Tiānwén zhīshí yǐjīng chāoyuè xiàndài shuǐpíng",
-     "en": "(B) Ancient astronomical knowledge surpassed modern levels."
+     "en": "(B) Ancient astronomical knowledge surpassed modern levels.",
+     "idn": "(B) Pengetahuan astronomi kuno melampaui tingkat modern."
     },
     "C": {
      "zh": "天文史與數學史的發展息息相關",
      "py": "Tiān wénshǐ yǔ shùxuéshǐ de fāzhǎn xīxīxiāngguān",
-     "en": "(C) The history of astronomy and the history of mathematics are closely linked."
+     "en": "(C) The history of astronomy and the history of mathematics are closely linked.",
+     "idn": "(C) Sejarah astronomi dan sejarah matematika berkaitan erat."
     },
     "D": {
      "zh": "因無類似文物可比較而表示懷疑",
      "py": "Yīn wú lèisì wénwù kě bǐjiào ér biǎoshì huáiyí",
-     "en": "(D) They expressed doubt because there were no similar artifacts to compare."
+     "en": "(D) They expressed doubt because there were no similar artifacts to compare.",
+     "idn": "(D) Mereka meragukan karena tidak ada artefak serupa untuk dibandingkan."
     }
    },
    "transcript": [
     {
      "zh": "最後科學家做出什麼結論？",
      "py": "Zuìhòu kēxuéjiā zuòchū shénme jiélùn?",
-     "en": "What conclusion did the scientists finally reach?"
+     "en": "What conclusion did the scientists finally reach?",
+     "idn": "Kesimpulan apa yang akhirnya dicapai para ilmuwan?"
     }
    ]
   }
