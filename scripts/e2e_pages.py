@@ -308,6 +308,18 @@ with sync_playwright() as p:
     page.wait_for_selector(".search-results li")
     check("search finds WoL3 content", page.locator(".search-results a[href='#/lesson/a1-wo-l03']").count() >= 1)
 
+    # ---- A1 Workbook L4 (original mode)
+    page.goto(BASE + "#/lesson/a1-wo-l04")
+    page.wait_for_selector("#h8-x")
+    check("WoL4 renders all sections", all(page.locator(f"#{i}").count() == 1 for i in ["h1-tab", "h2a-x", "h2b-tab", "h2c-x", "h3-x", "h4a-x", "h4b-x", "h5-x", "h6-x", "h7a-x", "h7b-x", "h8-x"]))
+    page.evaluate("window.__spoken.length = 0")
+    page.click("#h5-x .tts-mini >> nth=0")
+    page.wait_for_timeout(300)
+    check("WoL4 exercise item speak", page.evaluate("window.__spoken.map(s=>s.text).join('')").startswith("這支"))
+    page.goto(BASE + "#/search?q=我要三個包子，一杯烏龍茶")
+    page.wait_for_selector(".search-results li")
+    check("search finds WoL4 content", page.locator(".search-results a[href='#/lesson/a1-wo-l04']").count() >= 1)
+
     page.goto(BASE + "#/lesson/a2-te-l03")
     page.wait_for_selector("figure.page img")
     page.locator("figure.page img").first.scroll_into_view_if_needed()

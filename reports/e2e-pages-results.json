@@ -325,6 +325,21 @@
   "detail": ""
  },
  {
+  "test": "WoL4 renders all sections",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "WoL4 exercise item speak",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "search finds WoL4 content",
+  "ok": true,
+  "detail": ""
+ },
+ {
   "test": "book page image loads",
   "ok": true,
   "detail": ""
