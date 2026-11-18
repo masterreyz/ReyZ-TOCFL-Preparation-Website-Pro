@@ -2,46 +2,53 @@
  "testId": "b-l5",
  "segments": 446,
  "englishComplete": true,
- "indonesianComplete": false,
+ "indonesianComplete": true,
  "questions": {
   "1": {
    "options": {
     "A": {
      "zh": "他們要去山上看花",
      "py": "Tāmen yào qù shānshàng kàn huā",
-     "en": "(A) They're going to the mountains to see the flowers."
+     "en": "(A) They're going to the mountains to see the flowers.",
+     "idn": "(A) Mereka akan ke gunung untuk melihat bunga."
     },
     "B": {
      "zh": "這位先生不想上山",
      "py": "Zhèwèi xiānsheng bùxiǎng Shàngshān",
-     "en": "(B) The man doesn't want to go up the mountain."
+     "en": "(B) The man doesn't want to go up the mountain.",
+     "idn": "(B) Pria itu tidak mau naik gunung."
     },
     "C": {
      "zh": "小芳忘了照相機放在哪裡",
      "py": "Xiǎofāng wàng le zhàoxiàngjī fàngzài nǎlǐ",
-     "en": "(C) Xiaofang forgot where the camera is."
+     "en": "(C) Xiaofang forgot where the camera is.",
+     "idn": "(C) Xiaofang lupa kameranya di mana."
     },
     "D": {
      "zh": "小芳只想看花，不想照相",
      "py": "Xiǎofāng zhǐ xiǎng kàn huā, bùxiǎng zhàoxiàng",
-     "en": "(D) Xiaofang only wants to see the flowers, not take photos."
+     "en": "(D) Xiaofang only wants to see the flowers, not take photos.",
+     "idn": "(D) Xiaofang hanya ingin melihat bunga, tidak ingin memotret."
     }
    },
    "transcript": [
     {
      "zh": "男：春天到了，山上的花都開了。小芳，我們一起去看花，好不好？",
      "py": "Nán: Chūntiān dào le, shānshàng de Huādōu kāi le. Xiǎofāng, wǒmen yìqǐ qù kàn huā, hǎobùhǎo?",
-     "en": "Man: Spring is here and the flowers on the mountain are all in bloom. Xiaofang, shall we go see the flowers together?"
+     "en": "Man: Spring is here and the flowers on the mountain are all in bloom. Xiaofang, shall we go see the flowers together?",
+     "idn": "Pria: Musim semi sudah tiba dan bunga-bunga di gunung sedang mekar semua. Xiaofang, kita lihat bunga bersama, yuk?"
     },
     {
      "zh": "女：嗯，好啊，別忘了帶照相機去。",
      "py": "Nǚ: ń, hǎo a, biéwàngle dài zhàoxiàngjī qù.",
-     "en": "Woman: Mm, sure—don't forget to bring the camera."
+     "en": "Woman: Mm, sure—don't forget to bring the camera.",
+     "idn": "Wanita: Hmm, boleh—jangan lupa bawa kamera."
     },
     {
      "zh": "男：從這兩個人說的話，可以知道什麼？",
      "py": "Nán: Cóng zhè liǎng ge rén shuō dehuà, kěyǐ zhīdào shénme?",
-     "en": "Man: What can we learn from what these two people said?"
+     "en": "Man: What can we learn from what these two people said?",
+     "idn": "Pria: Apa yang bisa kita ketahui dari ucapan kedua orang ini?"
     }
    ]
   },
@@ -50,39 +57,46 @@
     "A": {
      "zh": "她擔心會買不到牛肉",
      "py": "Tā dānxīn huì mǎibúdào niúròu",
-     "en": "(A) She's worried they won't be able to buy beef."
+     "en": "(A) She's worried they won't be able to buy beef.",
+     "idn": "(A) Dia khawatir tidak bisa membeli daging sapi."
     },
     "B": {
      "zh": "她覺得兩斤牛肉太多",
      "py": "Tā juéde liǎngjīn niúròu tài duō",
-     "en": "(B) She thinks two catties of beef is too much."
+     "en": "(B) She thinks two catties of beef is too much.",
+     "idn": "(B) Dia merasa dua kati daging sapi terlalu banyak."
     },
     "C": {
      "zh": "她記得牛肉還沒吃完",
      "py": "Tā jìde niúròu hái méi chī wán",
-     "en": "(C) She remembers the beef hasn't been finished yet."
+     "en": "(C) She remembers the beef hasn't been finished yet.",
+     "idn": "(C) Dia ingat daging sapinya belum habis."
     },
     "D": {
      "zh": "她不確定家裡有沒有牛肉",
      "py": "Tā bú quèdìng jiālǐ yǒuméiyǒu niúròu",
-     "en": "(D) She's not sure whether there's beef at home."
+     "en": "(D) She's not sure whether there's beef at home.",
+     "idn": "(D) Dia tidak yakin di rumah ada daging sapi atau tidak."
     }
    },
    "transcript": [
     {
      "zh": "男：小美，請幫我買兩斤牛肉和一些青菜回來。",
      "py": "Nán: Xiǎoměi, qǐng bāng wǒ mǎi liǎngjīn niúròu hé yìxiē qīngcài huílái.",
-     "en": "Man: Xiaomei, please buy two catties of beef and some vegetables for me."
+     "en": "Man: Xiaomei, please buy two catties of beef and some vegetables for me.",
+     "idn": "Pria: Xiaomei, tolong belikan saya dua kati daging sapi dan sedikit sayuran."
     },
     {
      "zh": "女：牛肉？我印象中上次買的還有吧！還需要買嗎？",
      "py": "Nǚ: Niúròu? Wǒ yìnxiàng zhōng shàngcì mǎi de háiyǒu ba! Hái xūyào mǎi ma?",
-     "en": "Woman: Beef? I have the impression there's still some from last time! Do we still need to buy more?"
+     "en": "Woman: Beef? I have the impression there's still some from last time! Do we still need to buy more?",
+     "idn": "Wanita: Daging sapi? Seingat saya yang dari waktu itu masih ada! Masih perlu beli lagi?"
     },
     {
      "zh": "男：這位小姐的意思是什麼？",
      "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?",
-     "en": "Man: What does the woman mean?"
+     "en": "Man: What does the woman mean?",
+     "idn": "Pria: Apa maksud wanita itu?"
     }
    ]
   },
@@ -91,39 +105,46 @@
     "A": {
      "zh": "讓小新決定要買什麼禮物",
      "py": "Ràng xiǎo xīn juédìng yào mǎi shénme lǐwù",
-     "en": "(A) Let Xiaoxin decide what present to buy."
+     "en": "(A) Let Xiaoxin decide what present to buy.",
+     "idn": "(A) Biarkan Xiaoxin memutuskan hadiah apa yang dibeli."
     },
     "B": {
      "zh": "她不願意送小新生日禮物",
      "py": "Tā bú yuànyì sòng xiǎo xīn shēngrìlǐwù",
-     "en": "(B) She doesn't want to give Xiaoxin a birthday present."
+     "en": "(B) She doesn't want to give Xiaoxin a birthday present.",
+     "idn": "(B) Dia tidak ingin memberi Xiaoxin hadiah ulang tahun."
     },
     "C": {
      "zh": "送小新的禮物已經決定了",
      "py": "Sòng xiǎo xīn de lǐwù yǐjīng juédìng le",
-     "en": "(C) The present for Xiaoxin has already been decided."
+     "en": "(C) The present for Xiaoxin has already been decided.",
+     "idn": "(C) Hadiah untuk Xiaoxin sudah ditentukan."
     },
     "D": {
      "zh": "送小新什麼禮物都沒關係",
      "py": "Sòng xiǎo xīn shénme lǐwù dōu méiguānxì",
-     "en": "(D) Whatever present they give Xiaoxin is fine."
+     "en": "(D) Whatever present they give Xiaoxin is fine.",
+     "idn": "(D) Hadiah apa pun untuk Xiaoxin tidak masalah."
     }
    },
    "transcript": [
     {
      "zh": "男：明天是小新的生日，妳覺得送他什麼禮物比較好？",
      "py": "Nán: Míngtiān shì xiǎo xīn de shēngrì, nǐ juéde sòng tā shénme lǐwù bǐjiào hǎo?",
-     "en": "Man: Tomorrow is Xiaoxin's birthday. What do you think would be a good present for him?"
+     "en": "Man: Tomorrow is Xiaoxin's birthday. What do you think would be a good present for him?",
+     "idn": "Pria: Besok ulang tahun Xiaoxin. Menurutmu hadiah apa yang bagus untuknya?"
     },
     {
      "zh": "女：我沒意見，你們決定就可以了。",
      "py": "Nǚ: Wǒ méi yìjiàn, nǐmen juédìng jiù kěyǐ le.",
-     "en": "Woman: I have no opinion—you all decide."
+     "en": "Woman: I have no opinion—you all decide.",
+     "idn": "Wanita: Saya tidak punya pendapat—kalian saja yang memutuskan."
     },
     {
      "zh": "男：這位小姐的意思是什麼？",
      "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?",
-     "en": "Man: What does the woman mean?"
+     "en": "Man: What does the woman mean?",
+     "idn": "Pria: Apa maksud wanita itu?"
     }
    ]
   },
@@ -132,44 +153,52 @@
     "A": {
      "zh": "使用網路看病非常方便",
      "py": "Shǐyòng wǎnglù kànbìng fēicháng fāngbiàn",
-     "en": "(A) Seeing a doctor online is very convenient."
+     "en": "(A) Seeing a doctor online is very convenient.",
+     "idn": "(A) Berobat secara daring sangat praktis."
     },
     "B": {
      "zh": "病人需要付很多錢看病",
      "py": "Bìngrén xūyào fù hěnduō qián kànbìng",
-     "en": "(B) Patients have to pay a lot to see a doctor."
+     "en": "(B) Patients have to pay a lot to see a doctor.",
+     "idn": "(B) Pasien harus membayar mahal untuk berobat."
     },
     "C": {
      "zh": "看病的結果可能不正確",
      "py": "Kànbìng de jiéguǒ kěnéng bú zhèngquè",
-     "en": "(C) The diagnosis may not be correct."
+     "en": "(C) The diagnosis may not be correct.",
+     "idn": "(C) Diagnosisnya belum tentu benar."
     },
     "D": {
      "zh": "病人不能很快知道結果",
      "py": "Bìngrén bùnéng hěnkuài zhīdào jiéguǒ",
-     "en": "(D) Patients can't get results quickly."
+     "en": "(D) Patients can't get results quickly.",
+     "idn": "(D) Pasien tidak bisa cepat mendapat hasil."
     }
    },
    "transcript": [
     {
      "zh": "男：從明年起生病的人都能透過網路看病，不但能很快知道結果，也不需要付看",
      "py": "Nán: Cóngmíngniánqǐ shēngbìng de rén dōu néng tòuguò wǎnglù kànbìng, búdàn néng hěnkuài zhīdào jiéguǒ, yě bù xūyào fùkàn",
-     "en": "Man: From next year, sick people can see a doctor online—not only get results quickly, but also not have to pay"
+     "en": "Man: From next year, sick people can see a doctor online—not only get results quickly, but also not have to pay",
+     "idn": "Pria: Mulai tahun depan, orang sakit bisa berobat secara daring—tidak hanya cepat mendapat hasil, tetapi juga tidak perlu membayar"
     },
     {
      "zh": "病的錢，真是一個好消息！",
      "py": "Bìng de qián, zhēnshì yí ge hǎoxiāoxī!",
-     "en": "for the consultation. That's great news!"
+     "en": "for the consultation. That's great news!",
+     "idn": "biaya konsultasi. Kabar baik sekali!"
     },
     {
      "zh": "女：是嗎？我不認為這是一個好消息。再說，看病的結果可靠嗎？",
      "py": "Nǚ: Shì ma? Wǒ bú rènwéi zhè shì yí ge hǎoxiāoxī. Zàishuō, kànbìng de jiéguǒ kěkào ma?",
-     "en": "Woman: Is it? I don't think it's good news. Besides, are the diagnoses reliable?"
+     "en": "Woman: Is it? I don't think it's good news. Besides, are the diagnoses reliable?",
+     "idn": "Wanita: Masa? Menurut saya itu bukan kabar baik. Lagi pula, apakah diagnosisnya bisa dipercaya?"
     },
     {
      "zh": "男：這位小姐對使用網路看病的想法是什麼？",
      "py": "Nán: Zhèwèi Xiǎojiě duì shǐyòng wǎnglù kànbìng de xiǎngfǎ shì shénme?",
-     "en": "Man: What does the woman think about seeing a doctor online?"
+     "en": "Man: What does the woman think about seeing a doctor online?",
+     "idn": "Pria: Bagaimana pendapat wanita itu tentang berobat secara daring?"
     }
    ]
   },
@@ -178,44 +207,52 @@
     "A": {
      "zh": "她也幫不了這位先生的忙",
      "py": "Tā yě bāngbùliǎo zhèwèi xiānsheng demáng",
-     "en": "(A) She can't help the man either."
+     "en": "(A) She can't help the man either.",
+     "idn": "(A) Dia juga tidak bisa membantu pria itu."
     },
     "B": {
      "zh": "她今天得整理資料給老闆",
      "py": "Tā jīntiān děi zhěnglǐ zīliào gěi lǎobǎn",
-     "en": "(B) She has to sort out materials for the boss today."
+     "en": "(B) She has to sort out materials for the boss today.",
+     "idn": "(B) Hari ini dia harus merapikan bahan untuk atasan."
     },
     "C": {
      "zh": "她覺得這位先生一定來不及",
      "py": "Tā juéde zhèwèi xiānsheng yídìng láibùjí",
-     "en": "(C) She thinks the man definitely won't make it in time."
+     "en": "(C) She thinks the man definitely won't make it in time.",
+     "idn": "(C) Dia merasa pria itu pasti tidak akan sempat."
     },
     "D": {
      "zh": "她要這位先生找小陳做決定",
      "py": "Tā yào zhèwèi xiānsheng zhǎo xiǎo Chén zuò juédìng",
-     "en": "(D) She wants the man to have Xiao Chen decide."
+     "en": "(D) She wants the man to have Xiao Chen decide.",
+     "idn": "(D) Dia ingin pria itu menyerahkan keputusannya kepada Xiao Chen."
     }
    },
    "transcript": [
     {
      "zh": "男：我今天必須趕快把這些資料整理好交給老闆，他要看過這些資料才能做決",
      "py": "Nán: Wǒ jīntiān bìxū gǎnkuài bǎ zhèxiē zīliào zhěnglǐ hǎo jiāogěi lǎobǎn, tā yào kànguò zhèxiē zīliào cáinéng zuòjué",
-     "en": "Man: I have to quickly sort out these materials today and hand them to the boss—he needs to see them before he can make a"
+     "en": "Man: I have to quickly sort out these materials today and hand them to the boss—he needs to see them before he can make a",
+     "idn": "Pria: Hari ini saya harus segera merapikan bahan-bahan ini dan menyerahkannya kepada atasan—dia perlu melihatnya dulu sebelum bisa"
     },
     {
      "zh": "定。你可以幫我嗎？",
      "py": "Dìng. Nǐ kěyǐ bāng wǒ ma?",
-     "en": "decision. Can you help me?"
+     "en": "decision. Can you help me?",
+     "idn": "memutuskan. Bisa bantu saya?"
     },
     {
      "zh": "女：可是我今天一整天都要開會，不如你找小陳幫你吧!",
      "py": "Nǚ: Kěshì wǒ jīntiān yìzhěngtiān dōu yào kāihuì, bùrú nǐ zhǎo xiǎo Chén bāng nǐ ba!",
-     "en": "Woman: But I have meetings all day today. Why don't you ask Xiao Chen to help you!"
+     "en": "Woman: But I have meetings all day today. Why don't you ask Xiao Chen to help you!",
+     "idn": "Wanita: Tapi hari ini saya rapat seharian. Bagaimana kalau kamu minta bantuan Xiao Chen!"
     },
     {
      "zh": "男：這位小姐的意思是什麼？",
      "py": "Nán: Zhèwèi Xiǎojiě de yìsi shì shénme?",
-     "en": "Man: What does the woman mean?"
+     "en": "Man: What does the woman mean?",
+     "idn": "Pria: Apa maksud wanita itu?"
     }
    ]
   },
@@ -224,39 +261,46 @@
     "A": {
      "zh": "餐點的價格",
      "py": "Cāndiǎn de jiàgé",
-     "en": "(A) The price of the food"
+     "en": "(A) The price of the food",
+     "idn": "(A) Harga makanan"
     },
     "B": {
      "zh": "食物的味道",
      "py": "Shíwù de wèidào",
-     "en": "(B) The taste of the food"
+     "en": "(B) The taste of the food",
+     "idn": "(B) Rasa makanan"
     },
     "C": {
      "zh": "用餐的環境",
      "py": "Yòngcān de huánjìng",
-     "en": "(C) The dining environment"
+     "en": "(C) The dining environment",
+     "idn": "(C) Suasana tempat makan"
     },
     "D": {
      "zh": "服務的品質",
      "py": "Fúwù de pǐnzhì",
-     "en": "(D) The quality of service"
+     "en": "(D) The quality of service",
+     "idn": "(D) Mutu layanan"
     }
    },
    "transcript": [
     {
      "zh": "男：餐廳老闆應該重視店內的設計，否則顧客是不會來消費的。",
      "py": "Nán: Cāntīng lǎobǎn yīnggāi zhòngshì diàn nèi de shèjì, fǒuzé Gùkè shì búhuì lái xiāofèi de.",
-     "en": "Man: Restaurant owners should pay attention to the interior design, or customers won't come."
+     "en": "Man: Restaurant owners should pay attention to the interior design, or customers won't come.",
+     "idn": "Pria: Pemilik restoran sebaiknya memperhatikan desain interior, kalau tidak pelanggan tidak akan datang."
     },
     {
      "zh": "女：我倒是比較重視廚師的能力。店內的布置有點老舊，也許顧客反而覺得更自在。",
      "py": "Nǚ: Wǒ dào shì bǐjiào zhòngshì chúshī de nénglì. Diàn nèi de bùzhì yǒudiǎn lǎo jiù, yěxǔ Gùkè fǎn'ér juéde gèngzì zài.",
-     "en": "Woman: I care more about the chef's skill. The decor being a bit old might actually make customers feel more at ease."
+     "en": "Woman: I care more about the chef's skill. The decor being a bit old might actually make customers feel more at ease.",
+     "idn": "Wanita: Saya lebih memperhatikan keterampilan juru masaknya. Dekorasi yang agak tua malah mungkin membuat pelanggan merasa lebih tenang."
     },
     {
      "zh": "男：關於餐廳，這位小姐注重的是什麼？",
      "py": "Nán: Guānyú cāntīng, zhèwèi Xiǎojiě zhùzhòng de shì shénme?",
-     "en": "Man: About restaurants, what does the woman care about?"
+     "en": "Man: About restaurants, what does the woman care about?",
+     "idn": "Pria: Mengenai restoran, apa yang diperhatikan wanita itu?"
     }
    ]
   },
@@ -265,49 +309,58 @@
     "A": {
      "zh": "書店寄錯地址了",
      "py": "Shūdiàn jìcuò dìzhǐ le",
-     "en": "(A) The bookstore sent it to the wrong address."
+     "en": "(A) The bookstore sent it to the wrong address.",
+     "idn": "(A) Toko buku salah mengirim alamat."
     },
     "B": {
      "zh": "李大年忘了提供名字",
      "py": "Lǐdànián wàng le tígōng míngzi",
-     "en": "(B) Li Danian forgot to give his name."
+     "en": "(B) Li Danian forgot to give his name.",
+     "idn": "(B) Li Danian lupa menyebutkan namanya."
     },
     "C": {
      "zh": "李大年快要收到書了",
      "py": "Lǐdànián kuàiyào shōudào shū le",
-     "en": "(C) Li Danian will receive the books soon."
+     "en": "(C) Li Danian will receive the books soon.",
+     "idn": "(C) Li Danian akan segera menerima bukunya."
     },
     "D": {
      "zh": "書店弄錯李大年買的書",
      "py": "Shūdiàn nòngcuò Lǐdànián mǎi de shū",
-     "en": "(D) The bookstore got Li Danian's books wrong."
+     "en": "(D) The bookstore got Li Danian's books wrong.",
+     "idn": "(D) Toko buku salah mengirim buku Li Danian."
     }
    },
    "transcript": [
     {
      "zh": "男：喂，你好。我上個星期在你們的網站上買了幾本書，為什麼還沒收到？",
      "py": "Nán: Wèi, nǐhǎo. Wǒ shànggèxīngqī zài nǐmen de wǎngzhàn shàngmǎi le jǐběnshū, wèishénme hái mòshōu dào?",
-     "en": "Man: Hello. I bought some books on your website last week. Why haven't I received them yet?"
+     "en": "Man: Hello. I bought some books on your website last week. Why haven't I received them yet?",
+     "idn": "Pria: Halo. Minggu lalu saya membeli beberapa buku di situs web Anda. Kenapa belum saya terima?"
     },
     {
      "zh": "女：我幫你查一查，請問姓名、地址是…",
      "py": "Nǚ: Wǒ bāng nǐ chá yì chá, qǐngwèn xìngmíng, dìzhǐ shì…",
-     "en": "Woman: Let me check for you. May I have your name and address…"
+     "en": "Woman: Let me check for you. May I have your name and address…",
+     "idn": "Wanita: Saya cek dulu. Boleh tahu nama dan alamat Anda…"
     },
     {
      "zh": "男：我是李大年，地址是青山路一號。",
      "py": "Nán: Wǒ shì Lǐdànián, dìzhǐ shì Qīngshān lù yíhào.",
-     "en": "Man: I'm Li Danian, and my address is No. 1, Qingshan Road."
+     "en": "Man: I'm Li Danian, and my address is No. 1, Qingshan Road.",
+     "idn": "Pria: Saya Li Danian, alamat saya Jalan Qingshan No. 1."
     },
     {
      "zh": "女：李先生，書已經寄出了，應該下午就會到。",
      "py": "Nǚ: Lǐxiānsheng, shū yǐjīng jìchū le, yīnggāi xiàwǔ jiù huì dào.",
-     "en": "Woman: Mr. Li, the books have already been sent; they should arrive this afternoon."
+     "en": "Woman: Mr. Li, the books have already been sent; they should arrive this afternoon.",
+     "idn": "Wanita: Tuan Li, bukunya sudah dikirim; seharusnya sampai sore ini."
     },
     {
      "zh": "男：從這段對話可以知道什麼？",
      "py": "Nán: Cóng zhèduàn duìhuà kěyǐ zhīdào shénme?",
-     "en": "Man: What can we learn from this conversation?"
+     "en": "Man: What can we learn from this conversation?",
+     "idn": "Pria: Apa yang bisa kita ketahui dari percakapan ini?"
     }
    ]
   },
@@ -316,54 +369,64 @@
     "A": {
      "zh": "她堅持每天都要逛街",
      "py": "Tā jiānchí měitiān dōu yào guàngjiē",
-     "en": "(A) She insists on going shopping every day."
+     "en": "(A) She insists on going shopping every day.",
+     "idn": "(A) Dia bersikeras berbelanja setiap hari."
     },
     "B": {
      "zh": "她的朋友想去博物館",
      "py": "Tā de péngyǒu xiǎng qù bówùguǎn",
-     "en": "(B) Her friend wanted to go to the museum."
+     "en": "(B) Her friend wanted to go to the museum.",
+     "idn": "(B) Temannya ingin pergi ke museum."
     },
     "C": {
      "zh": "她跟朋友對旅行有不同的期待",
      "py": "Tā gēn péngyǒu duì lǚxíng yǒu bùtóng de qīdài",
-     "en": "(C) She and her friend had different expectations of the trip."
+     "en": "(C) She and her friend had different expectations of the trip.",
+     "idn": "(C) Dia dan temannya punya harapan yang berbeda tentang perjalanan itu."
     },
     "D": {
      "zh": "旅行加深了她和朋友間的感情",
      "py": "Lǚxíng jiāshēn le tā hé péngyǒu jiān de gǎnqíng",
-     "en": "(D) The trip deepened her friendship with her friend."
+     "en": "(D) The trip deepened her friendship with her friend.",
+     "idn": "(D) Perjalanan itu mempererat persahabatannya dengan temannya."
     }
    },
    "transcript": [
     {
      "zh": "男：你上次跟朋友去自助旅行，怎麼鬧得不開心？",
      "py": "Nán: Nǐ shàngcì gēn péngyǒu qù zìzhù lǚxíng, zěnme nào de bù kāixīn?",
-     "en": "Man: Last time you went backpacking with your friend, how did it end so badly?"
+     "en": "Man: Last time you went backpacking with your friend, how did it end so badly?",
+     "idn": "Pria: Waktu itu kamu backpacking bersama temanmu, kok berakhir buruk sekali?"
     },
     {
      "zh": "女：他堅持每天都要逛街，但我沒興趣。我希望去當地最有名的博物館看看，他",
      "py": "Nǚ: Tā jiānchí měitiān dōu yào guàngjiē, dàn wǒ méi xìngqù. Wǒ xīwàng qù dāngdì zuì yǒumíng de bówùguǎn kànkàn, tā",
-     "en": "Woman: He insisted on going shopping every day, but I wasn't interested. I wanted to visit the most famous local museum, but"
+     "en": "Woman: He insisted on going shopping every day, but I wasn't interested. I wanted to visit the most famous local museum, but",
+     "idn": "Wanita: Dia bersikeras berbelanja setiap hari, tapi saya tidak tertarik. Saya ingin mengunjungi museum paling terkenal di sana, tapi"
     },
     {
      "zh": "卻不要。",
      "py": "Què búyào.",
-     "en": "he didn't."
+     "en": "he didn't.",
+     "idn": "dia tidak mau."
     },
     {
      "zh": "男：聽起來你們習慣的旅行方式不太一樣啊！",
      "py": "Nán: Tīng qǐlái nǐmen xíguàn de lǚxíng fāngshì bú tài yíyàng a!",
-     "en": "Man: Sounds like you have different travel styles!"
+     "en": "Man: Sounds like you have different travel styles!",
+     "idn": "Pria: Sepertinya gaya bepergian kalian berbeda!"
     },
     {
      "zh": "女：是啊，兩個人鬧得很不愉快，回來後連朋友都做不成。",
      "py": "Nǚ: Shì a, liǎng ge rén nào de hěn bù yúkuài, huílái hòu lián péngyǒu dōu zuò bùchéng.",
-     "en": "Woman: Yes, we fell out badly—after we got back we couldn't even stay friends."
+     "en": "Woman: Yes, we fell out badly—after we got back we couldn't even stay friends.",
+     "idn": "Wanita: Ya, kami bertengkar hebat—setelah pulang kami bahkan tidak bisa berteman lagi."
     },
     {
      "zh": "男：關於這位小姐的旅行，下面哪個是對的？",
      "py": "Nán: Guānyú zhèwèi Xiǎojiě de lǚxíng, xiàmiàn nǎ ge shì duì de?",
-     "en": "Man: About the woman's trip, which of the following is correct?"
+     "en": "Man: About the woman's trip, which of the following is correct?",
+     "idn": "Pria: Mengenai perjalanan wanita itu, manakah pernyataan berikut yang benar?"
     }
    ]
   },
@@ -372,49 +435,58 @@
     "A": {
      "zh": "沒有特別的想法",
      "py": "Méiyǒu tèbié de xiǎngfǎ",
-     "en": "(A) She has no particular view."
+     "en": "(A) She has no particular view.",
+     "idn": "(A) Dia tidak punya pandangan khusus."
     },
     "B": {
      "zh": "抱著肯定的態度",
      "py": "Bàozhe kěndìng de tàidù",
-     "en": "(B) She's positive about it."
+     "en": "(B) She's positive about it.",
+     "idn": "(B) Dia bersikap positif terhadapnya."
     },
     "C": {
      "zh": "十分渴望有人陪伴",
      "py": "Shífēn kěwàng yǒurén péibàn",
-     "en": "(C) She longs for company."
+     "en": "(C) She longs for company.",
+     "idn": "(C) Dia mendambakan pendamping."
     },
     "D": {
      "zh": "偏向維持目前狀態",
      "py": "Piānxiàng wéichí mùqián zhuàngtài",
-     "en": "(D) She leans toward keeping things as they are."
+     "en": "(D) She leans toward keeping things as they are.",
+     "idn": "(D) Dia cenderung mempertahankan keadaan sekarang."
     }
    },
    "transcript": [
     {
      "zh": "男：我們的朋友都已經結婚、生孩子了，只有我們還單身，真是孤單。",
      "py": "Nán: Wǒmen de péngyǒu dōu yǐjīng jiéhūn, shēng háizi le, zhǐyǒu wǒmen hái dānshēn, zhēnshì gūdān.",
-     "en": "Man: All our friends are married with kids—only we are still single. It's really lonely."
+     "en": "Man: All our friends are married with kids—only we are still single. It's really lonely.",
+     "idn": "Pria: Teman-teman kita sudah menikah dan punya anak—hanya kita yang masih lajang. Sungguh kesepian."
     },
     {
      "zh": "女：有什麼好孤單？我們現在的生活也很好啊！想做什麼就做什麼，多自由啊！",
      "py": "Nǚ: Yǒu shénme hǎogūdān? Wǒmen xiànzài de shēnghuó yě hěn hǎo a! Xiǎng zuò shénme jiù zuò shénme, duō zìyóu a!",
-     "en": "Woman: What's lonely about it? Our lives now are great! We can do whatever we want—so much freedom!"
+     "en": "Woman: What's lonely about it? Our lives now are great! We can do whatever we want—so much freedom!",
+     "idn": "Wanita: Apanya yang kesepian? Hidup kita sekarang bagus sekali! Mau melakukan apa saja bisa—bebas sekali!"
     },
     {
      "zh": "再說，有了家庭以後，生活上所有的花費也會跟著增加，可是薪水卻不會跟",
      "py": "Zàishuō, yǒu le jiātíng yǐhòu, shēnghuó shàng suǒyǒu de huāfèi yě huì gēnzhe zēngjiā, kěshì xīnshuǐ què búhuì gēn",
-     "en": "Besides, once you have a family, all your living expenses go up too, but your salary doesn't"
+     "en": "Besides, once you have a family, all your living expenses go up too, but your salary doesn't",
+     "idn": "Lagi pula, setelah berkeluarga, semua pengeluaran hidup ikut naik, tetapi gaji tidak"
     },
     {
      "zh": "著增加。你要過這種生活嗎？",
      "py": "Zhù zēngjiā. Nǐ yào guò zhèzhǒng shēnghuó ma?",
-     "en": "go up. Do you want that kind of life?"
+     "en": "go up. Do you want that kind of life?",
+     "idn": "ikut naik. Kamu mau hidup seperti itu?"
     },
     {
      "zh": "男：這位小姐對結婚組成家庭的看法怎麼樣？",
      "py": "Nán: Zhèwèi Xiǎojiě duì jiéhūn zǔchéng jiātíng de kànfǎ zěnmeyàng?",
-     "en": "Man: What is the woman's view of marrying and starting a family?"
+     "en": "Man: What is the woman's view of marrying and starting a family?",
+     "idn": "Pria: Bagaimana pandangan wanita itu tentang menikah dan berkeluarga?"
     }
    ]
   },
@@ -423,49 +495,58 @@
     "A": {
      "zh": "她很想當弟弟的榜樣",
      "py": "Tā hěn xiǎng dāng dìdi de bǎngyàng",
-     "en": "(A) She really wants to be a role model for her brother."
+     "en": "(A) She really wants to be a role model for her brother.",
+     "idn": "(A) Dia sangat ingin menjadi teladan bagi adiknya."
     },
     "B": {
      "zh": "她想幫弟弟複習功課",
      "py": "Tā xiǎng bāng dìdi fùxígōngkè",
-     "en": "(B) She wants to help her brother review his lessons."
+     "en": "(B) She wants to help her brother review his lessons.",
+     "idn": "(B) Dia ingin membantu adiknya mengulang pelajaran."
     },
     "C": {
      "zh": "她跟弟弟一樣都很用功",
      "py": "Tā gēn dìdi yíyàng dōu hěn yònggōng",
-     "en": "(C) She works as hard as her brother."
+     "en": "(C) She works as hard as her brother.",
+     "idn": "(C) Dia sama rajinnya dengan adiknya."
     },
     "D": {
      "zh": "她的生活方式比弟弟好",
      "py": "Tā de shēnghuó fāngshì bǐ dìdi hǎo",
-     "en": "(D) Her way of life is better than her brother's."
+     "en": "(D) Her way of life is better than her brother's.",
+     "idn": "(D) Cara hidupnya lebih baik daripada adiknya."
     }
    },
    "transcript": [
     {
      "zh": "男：考試不是快到了嗎？你怎麼還想著吃喝玩樂？以為自己很聰明就不複習了",
      "py": "Nán: Kǎoshì búshì kuài dào le ma? Nǐ zěnme hái xiǎngzhe chīhēwánlè? Yǐwéi zìjǐ hěn cōngmíng jiù bú fùxí le",
-     "en": "Man: Isn't the exam coming up? Why are you still thinking about having fun? Do you think you're so smart you don't need to review?"
+     "en": "Man: Isn't the exam coming up? Why are you still thinking about having fun? Do you think you're so smart you don't need to review?",
+     "idn": "Pria: Bukankah ujian sudah dekat? Kenapa masih memikirkan bersenang-senang? Kamu kira kamu begitu pintar sampai tidak perlu belajar?"
     },
     {
      "zh": "嗎？你弟弟成績那麼好，都可以當你的榜樣了。",
      "py": "Ma? Nǐ dìdi chéngjì nàme hǎo, dōu kěyǐ dāng nǐ de bǎngyàng le.",
-     "en": "Your brother's grades are so good—he could be your role model."
+     "en": "Your brother's grades are so good—he could be your role model.",
+     "idn": "Nilai adikmu begitu bagus—dia bisa jadi teladanmu."
     },
     {
      "zh": "女：我的成績也挺不錯的，好嗎！我這樣才是過日子。弟弟每天除了讀書還是讀",
      "py": "Nǚ: Wǒ de chéngjì yě tǐngbúcuò de, hǎo ma! Wǒ zhèyàng cái shì guòrìzi. Dìdi měitiān chúle dúshū háishì dú",
-     "en": "Woman: My grades are pretty good too, OK! This is what living is. All my brother does every day is study and"
+     "en": "Woman: My grades are pretty good too, OK! This is what living is. All my brother does every day is study and",
+     "idn": "Wanita: Nilai saya juga lumayan bagus, kok! Beginilah yang namanya hidup. Setiap hari adik saya hanya belajar dan"
     },
     {
      "zh": "書，他根本不懂生活，怎麼當我的榜樣？",
      "py": "Shū, tā gēnběn bù dǒng shēnghuó, zěnme dāng wǒ de bǎngyàng?",
-     "en": "study—he has no idea how to live. How can he be my role model?"
+     "en": "study—he has no idea how to live. How can he be my role model?",
+     "idn": "belajar—dia sama sekali tidak tahu cara menikmati hidup. Bagaimana dia bisa jadi teladan saya?"
     },
     {
      "zh": "男：這位女生的意思是什麼？",
      "py": "Nán: Zhèwèi nǚshēng de yìsi shì shénme?",
-     "en": "Man: What does the girl mean?"
+     "en": "Man: What does the girl mean?",
+     "idn": "Pria: Apa maksud gadis itu?"
     }
    ]
   },
@@ -474,44 +555,52 @@
     "A": {
      "zh": "她不會放棄提這個計畫案",
      "py": "Tā búhuì fàngqì tí zhè ge jìhuà'àn",
-     "en": "(A) She won't give up on proposing this plan."
+     "en": "(A) She won't give up on proposing this plan.",
+     "idn": "(A) Dia tidak akan menyerah mengajukan rencana ini."
     },
     "B": {
      "zh": "她和這位先生的看法一樣",
      "py": "Tā hé zhèwèi xiānsheng de kànfǎ yíyàng",
-     "en": "(B) She has the same view as the man."
+     "en": "(B) She has the same view as the man.",
+     "idn": "(B) Pandangannya sama dengan pria itu."
     },
     "C": {
      "zh": "她覺得這個計畫案無法通過",
      "py": "Tā juéde zhè ge jìhuà'àn wúfǎ tōngguò",
-     "en": "(C) She thinks this plan won't be approved."
+     "en": "(C) She thinks this plan won't be approved.",
+     "idn": "(C) Dia merasa rencana ini tidak akan disetujui."
     },
     "D": {
      "zh": "她希望這位先生不要太樂觀",
      "py": "Tā xīwàng zhèwèi xiānsheng búyào tài lèguān",
-     "en": "(D) She hopes the man won't be too optimistic."
+     "en": "(D) She hopes the man won't be too optimistic.",
+     "idn": "(D) Dia berharap pria itu tidak terlalu optimis."
     }
    },
    "transcript": [
     {
      "zh": "男：我們提的計畫案，被公司退回了，這個計畫案大概是沒希望了。",
      "py": "Nán: Wǒmen tí de jìhuà'àn, bèi gōngsī tuìhuí le, zhè ge jìhuà'àn dàgài shì méi xīwàng le.",
-     "en": "Man: The plan we proposed was sent back by the company. There's probably no hope for this plan."
+     "en": "Man: The plan we proposed was sent back by the company. There's probably no hope for this plan.",
+     "idn": "Pria: Rencana yang kita ajukan dikembalikan perusahaan. Rencana ini mungkin sudah tidak ada harapan."
     },
     {
      "zh": "女：別灰心，才被退一次而已。不管被退回幾次，反正只要有機會我們還是要繼",
      "py": "Nǚ: Bié huīxīn, cái bèi tuì yícì éryǐ. Bùguǎn bèi tuìhuí jǐcì, fǎnzhèng zhǐyào yǒu jīhuì wǒmen háishì yào jì",
-     "en": "Woman: Don't lose heart—it's only been rejected once. However many times it's sent back, as long as there's a chance we'll keep"
+     "en": "Woman: Don't lose heart—it's only been rejected once. However many times it's sent back, as long as there's a chance we'll keep",
+     "idn": "Wanita: Jangan patah semangat—baru ditolak sekali. Berapa kali pun dikembalikan, selama masih ada kesempatan kita akan terus"
     },
     {
      "zh": "續提。",
      "py": "Xùtí.",
-     "en": "submitting it."
+     "en": "submitting it.",
+     "idn": "(lanjutan) mengajukannya."
     },
     {
      "zh": "男：請問這位小姐的意思是什麼？",
      "py": "Nán: Qǐngwèn zhèwèi Xiǎojiě de yìsi shì shénme?",
-     "en": "Man: What does the woman mean?"
+     "en": "Man: What does the woman mean?",
+     "idn": "Pria: Apa maksud wanita itu?"
     }
    ]
   },
@@ -520,49 +609,58 @@
     "A": {
      "zh": "明天一定要來醫院",
      "py": "Míngtiān yídìng yào lái yīyuàn",
-     "en": "(A) He must come to the hospital tomorrow."
+     "en": "(A) He must come to the hospital tomorrow.",
+     "idn": "(A) Besok dia harus datang ke rumah sakit."
     },
     "B": {
      "zh": "擦藥眼睛變紅很常見",
      "py": "Cāyào yǎnjīng biànhóng hěn chángjiàn",
-     "en": "(B) It's common for eyes to turn red after applying the medicine."
+     "en": "(B) It's common for eyes to turn red after applying the medicine.",
+     "idn": "(B) Mata menjadi merah setelah dioles obat adalah hal biasa."
     },
     "C": {
      "zh": "藥擦完了，再來醫院",
      "py": "Yào cā wán le, zài lái yīyuàn",
-     "en": "(C) Come back to the hospital when the medicine is used up."
+     "en": "(C) Come back to the hospital when the medicine is used up.",
+     "idn": "(C) Datang lagi ke rumah sakit kalau obatnya sudah habis."
     },
     "D": {
      "zh": "病人不能自己擦這種藥",
      "py": "Bìngrén bùnéngzìjǐ cā zhèzhǒng yào",
-     "en": "(D) Patients can't apply this medicine themselves."
+     "en": "(D) Patients can't apply this medicine themselves.",
+     "idn": "(D) Pasien tidak boleh mengoleskan obat ini sendiri."
     }
    },
    "transcript": [
     {
      "zh": "男：喂，你好，我是昨天來看病的李健生，請問林醫生在嗎？",
      "py": "Nán: Wèi, nǐhǎo, wǒ shì zuótiān lái kànbìng de Lǐjiànshēng, qǐngwèn lín yīshēng zài ma?",
-     "en": "Man: Hello, I'm Li Jiansheng, who came to see the doctor yesterday. Is Dr. Lin there?"
+     "en": "Man: Hello, I'm Li Jiansheng, who came to see the doctor yesterday. Is Dr. Lin there?",
+     "idn": "Pria: Halo, saya Li Jiansheng yang kemarin berobat. Apakah Dokter Lin ada?"
     },
     {
      "zh": "女：我就是，李先生怎麼了嗎？",
      "py": "Nǚ: Wǒ jiùshì, Lǐxiānsheng zěnme le ma?",
-     "en": "Woman: Speaking. What's the matter, Mr. Li?"
+     "en": "Woman: Speaking. What's the matter, Mr. Li?",
+     "idn": "Wanita: Saya sendiri. Ada apa, Tuan Li?"
     },
     {
      "zh": "男：我回家擦了你們的藥，眼睛就變得紅紅的。",
      "py": "Nán: Wǒ huíjiā cā le nǐmen de yào, yǎnjīng jiù biàn de hónghóngde.",
-     "en": "Man: When I got home and put on your medicine, my eyes turned red."
+     "en": "Man: When I got home and put on your medicine, my eyes turned red.",
+     "idn": "Pria: Setelah pulang dan mengoleskan obat dari Anda, mata saya jadi merah."
     },
     {
      "zh": "女：擦這種藥都會這樣的。不放心的話，請你明天來醫院讓我看看。",
      "py": "Nǚ: Cā zhèzhǒng yàodōu huì zhèyàng de. Bú fàngxīn dehuà, qǐng nǐ míngtiān lái yīyuàn ràng wǒ kànkàn.",
-     "en": "Woman: That always happens with this medicine. If you're worried, come to the hospital tomorrow and let me take a look."
+     "en": "Woman: That always happens with this medicine. If you're worried, come to the hospital tomorrow and let me take a look.",
+     "idn": "Wanita: Obat ini memang selalu begitu. Kalau Anda khawatir, besok datang ke rumah sakit biar saya periksa."
     },
     {
      "zh": "男：醫生跟病人說了什麼？",
      "py": "Nán: Yīshēng gēn bìngrén shuō le shénme?",
-     "en": "Man: What did the doctor tell the patient?"
+     "en": "Man: What did the doctor tell the patient?",
+     "idn": "Pria: Apa yang dikatakan dokter kepada pasien?"
     }
    ]
   },
@@ -571,49 +669,58 @@
     "A": {
      "zh": "這位先生想貸款買房子",
      "py": "Zhèwèi xiānsheng xiǎng dàikuǎn mǎifángzi",
-     "en": "(A) The man wants to take out a loan to buy a house."
+     "en": "(A) The man wants to take out a loan to buy a house.",
+     "idn": "(A) Pria itu ingin mengambil pinjaman untuk membeli rumah."
     },
     "B": {
      "zh": "這位小姐覺得這位先生很消極",
      "py": "Zhèwèi Xiǎojiě juéde zhèwèi xiānsheng hěn xiāojí",
-     "en": "(B) The woman thinks the man is very negative."
+     "en": "(B) The woman thinks the man is very negative.",
+     "idn": "(B) Wanita itu merasa pria itu sangat negatif."
     },
     "C": {
      "zh": "這位先生的媽媽覺得買房不如租房",
      "py": "Zhèwèi xiānsheng de māma juéde mǎifáng bùrú zūfáng",
-     "en": "(C) The man's mother thinks renting is better than buying."
+     "en": "(C) The man's mother thinks renting is better than buying.",
+     "idn": "(C) Ibu pria itu merasa menyewa lebih baik daripada membeli."
     },
     "D": {
      "zh": "這位小姐不想負擔太大的經濟壓力",
      "py": "Zhèwèi Xiǎojiě bùxiǎng fùdān tài dà de jīngjì yālì",
-     "en": "(D) The woman doesn't want to bear too much financial pressure."
+     "en": "(D) The woman doesn't want to bear too much financial pressure.",
+     "idn": "(D) Wanita itu tidak ingin menanggung tekanan keuangan yang terlalu besar."
     }
    },
    "transcript": [
     {
      "zh": "男：我媽媽一天到晚嘮叨我面對未來太消極，沒給自己規劃一個目標，像是買房",
      "py": "Nán: Wǒ māma yìtiāndàowǎn láodāo wǒ miànduì wèilái tài xiāojí, méi gěi zìjǐ guīhuà yí ge mùbiāo, xiàngshì mǎifáng",
-     "en": "Man: My mom nags me all day that I'm too passive about the future and haven't set myself goals, like buying a house"
+     "en": "Man: My mom nags me all day that I'm too passive about the future and haven't set myself goals, like buying a house",
+     "idn": "Pria: Ibu saya seharian mengomeli saya terlalu pasif soal masa depan dan tidak menetapkan tujuan, seperti membeli rumah"
     },
     {
      "zh": "買車等等。",
      "py": "Mǎichē děngděng.",
-     "en": "or a car."
+     "en": "or a car.",
+     "idn": "atau mobil."
     },
     {
      "zh": "女：我認為與其辛苦貸款買房子，還不如當租屋族，沒有那麼大的貸款壓力，生",
      "py": "Nǚ: Wǒ rènwéi yǔqí xīnkǔ dàikuǎn mǎifángzi, hái bùrú dāng zūwū zú, méiyǒu nàme dà de dàikuǎn yālì, shēng",
-     "en": "Woman: I think rather than struggling with a mortgage to buy a house, it's better to rent—no huge loan pressure, and"
+     "en": "Woman: I think rather than struggling with a mortgage to buy a house, it's better to rent—no huge loan pressure, and",
+     "idn": "Wanita: Menurut saya, daripada susah payah mencicil rumah, lebih baik menyewa—tanpa tekanan pinjaman yang besar, dan"
     },
     {
      "zh": "活能更輕鬆自在。",
      "py": "Huónéng gèng qīngsōngzìzài.",
-     "en": "life is more relaxed and carefree."
+     "en": "life is more relaxed and carefree.",
+     "idn": "hidup lebih santai dan bebas."
     },
     {
      "zh": "男：下面哪一個是對的？",
      "py": "Nán: Xiàmiàn nǎ yí ge shì duì de?",
-     "en": "Man: Which of the following is correct?"
+     "en": "Man: Which of the following is correct?",
+     "idn": "Pria: Manakah pernyataan berikut yang benar?"
     }
    ]
   },
@@ -622,56 +729,66 @@
     "A": {
      "zh": "相當無助",
      "py": "Xiāngdāng wúzhù",
-     "en": "(A) Quite helpless"
+     "en": "(A) Quite helpless",
+     "idn": "(A) Cukup tak berdaya"
     },
     "B": {
      "zh": "非常逃避",
      "py": "Fēicháng táobì",
-     "en": "(B) Very avoidant"
+     "en": "(B) Very avoidant",
+     "idn": "(B) Sangat menghindar"
     },
     "C": {
      "zh": "有點猶豫",
      "py": "Yǒudiǎn yóuyù",
-     "en": "(C) A bit hesitant"
+     "en": "(C) A bit hesitant",
+     "idn": "(C) Agak ragu-ragu"
     },
     "D": {
      "zh": "無可奈何",
      "py": "Wúkěnàihé",
-     "en": "(D) Resigned; it can't be helped"
+     "en": "(D) Resigned; it can't be helped",
+     "idn": "(D) Pasrah; mau bagaimana lagi"
     }
    },
    "intro": [
     {
      "zh": "請聽這一段和打掃家裡有關的對話，然後回答兩個問題。",
      "py": "Qǐng tīng zhè yíduàn hé dǎsǎo jiālǐ yǒuguān de duìhuà, ránhòu huídá liǎng ge wèntí.",
-     "en": "Listen to this conversation about cleaning the house and then answer the two questions."
+     "en": "Listen to this conversation about cleaning the house and then answer the two questions.",
+     "idn": "Dengarkan percakapan tentang membersihkan rumah ini, lalu jawab dua pertanyaan."
     },
     {
      "zh": "男：唉！今天下班後又得先打掃家裡才能休息。",
      "py": "Nán: Āi! Jīntiān xiàbān hòu yòu děi xiān dǎsǎo jiālǐ cáinéng xiūxí.",
-     "en": "Man: Sigh! After work today I have to clean the house again before I can rest."
+     "en": "Man: Sigh! After work today I have to clean the house again before I can rest.",
+     "idn": "Pria: Aduh! Hari ini sepulang kerja saya harus membersihkan rumah lagi sebelum bisa beristirahat."
     },
     {
      "zh": "女：你打掃的頻率還真高，我大約一週才打掃一次。",
      "py": "Nǚ: Nǐ dǎsǎo de pínlǜ hái zhēn gāo, wǒ dàyuē yìzhōu cái dǎsǎo yícì.",
-     "en": "Woman: You clean really often. I only clean about once a week."
+     "en": "Woman: You clean really often. I only clean about once a week.",
+     "idn": "Wanita: Kamu sering sekali bersih-bersih. Saya hanya sekitar seminggu sekali."
     },
     {
      "zh": "男：打掃既花時間又耗體力，要不是小孩容易過敏，我怎麼可能天天做呢？",
      "py": "Nán: Dǎsǎo jì huā shíjiān yòu hàotǐlì, yàobúshì xiǎohái róngyì Guòmǐn, wǒ zěnme kěnéng tiāntiān zuò ne?",
-     "en": "Man: Cleaning takes time and energy. If my kids weren't prone to allergies, how could I possibly do it every day?"
+     "en": "Man: Cleaning takes time and energy. If my kids weren't prone to allergies, how could I possibly do it every day?",
+     "idn": "Pria: Bersih-bersih makan waktu dan tenaga. Kalau anak saya tidak mudah alergi, mana mungkin saya melakukannya setiap hari?"
     },
     {
      "zh": "女：要不然買個掃地機器人怎麼樣？只要設定好時間，它就會自動開始掃地。",
      "py": "Nǚ: Yàobùrán mǎi gè sǎodì jīqìrén zěnmeyàng? Zhǐyào shèdìng hǎo shíjiān, tā jiù huì zìdòng kāishǐ sǎodì.",
-     "en": "Woman: Then how about buying a robot vacuum? Just set the time and it'll start cleaning automatically."
+     "en": "Woman: Then how about buying a robot vacuum? Just set the time and it'll start cleaning automatically.",
+     "idn": "Wanita: Kalau begitu bagaimana kalau beli robot penyedot debu? Cukup atur waktunya, dia akan mulai membersihkan otomatis."
     }
    ],
    "transcript": [
     {
      "zh": "這位先生對於打掃的態度是什麼？",
      "py": "Zhèwèi xiānsheng duìyú dǎsǎo de tàidù shì shénme?",
-     "en": "What is the man's attitude toward cleaning?"
+     "en": "What is the man's attitude toward cleaning?",
+     "idn": "Bagaimana sikap pria itu terhadap bersih-bersih?"
     }
    ]
   },
@@ -680,29 +797,34 @@
     "A": {
      "zh": "使用工具讓掃地更輕鬆",
      "py": "Shǐyòng gōngjù ràng sǎodì gèng qīngsōng",
-     "en": "(A) Use a tool to make cleaning easier."
+     "en": "(A) Use a tool to make cleaning easier.",
+     "idn": "(A) Memakai alat agar bersih-bersih lebih mudah."
     },
     "B": {
      "zh": "計畫好固定的打掃時間",
      "py": "Jìhuà hǎo gùdìng de dǎsǎo shíjiān",
-     "en": "(B) Plan a fixed cleaning time."
+     "en": "(B) Plan a fixed cleaning time.",
+     "idn": "(B) Merencanakan waktu bersih-bersih yang tetap."
     },
     "C": {
      "zh": "減少每週打掃環境的次數",
      "py": "Jiǎnshǎo měizhōu dǎsǎo huánjìng de cìshù",
-     "en": "(C) Clean less often each week."
+     "en": "(C) Clean less often each week.",
+     "idn": "(C) Mengurangi frekuensi bersih-bersih setiap minggu."
     },
     "D": {
      "zh": "購買能掃得更乾淨的工具",
      "py": "Gòumǎi néng sǎo de gèng gānjìng de gōngjù",
-     "en": "(D) Buy a tool that cleans more thoroughly."
+     "en": "(D) Buy a tool that cleans more thoroughly.",
+     "idn": "(D) Membeli alat yang membersihkan lebih menyeluruh."
     }
    },
    "transcript": [
     {
      "zh": "這位小姐給這位先生什麼建議？",
      "py": "Zhèwèi Xiǎojiě gěi zhèwèi xiānsheng shénme jiànyì?",
-     "en": "What does the woman suggest to the man?"
+     "en": "What does the woman suggest to the man?",
+     "idn": "Apa saran wanita itu kepada pria itu?"
     }
    ]
   },
@@ -711,76 +833,90 @@
     "A": {
      "zh": "李義的女朋友反應過度了",
      "py": "Lǐyì de nǚpéngyǒu fǎnyìng guòdù le",
-     "en": "(A) Li Yi's girlfriend overreacted."
+     "en": "(A) Li Yi's girlfriend overreacted.",
+     "idn": "(A) Pacar Li Yi bereaksi berlebihan."
     },
     "B": {
      "zh": "男女朋友之間吵架沒什麼",
      "py": "Nánnǚpéngyǒu zhījiān chǎojià méishénme",
-     "en": "(B) Quarrels between boyfriends and girlfriends are no big deal."
+     "en": "(B) Quarrels between boyfriends and girlfriends are no big deal.",
+     "idn": "(B) Pertengkaran antara pasangan kekasih bukan masalah besar."
     },
     "C": {
      "zh": "就算動手打人也解決不了問題",
      "py": "Jiùsuàn dòngshǒu dǎrén yě jiějuébùliǎo wèntí",
-     "en": "(C) Even hitting someone doesn't solve the problem."
+     "en": "(C) Even hitting someone doesn't solve the problem.",
+     "idn": "(C) Memukul orang pun tidak menyelesaikan masalah."
     },
     "D": {
      "zh": "也許李義沒想到情況有多嚴重",
      "py": "Yěxǔ Lǐyì méixiǎngdào qíngkuàng yǒu duō yánzhòng",
-     "en": "(D) Perhaps Li Yi didn't realize how serious the situation was."
+     "en": "(D) Perhaps Li Yi didn't realize how serious the situation was.",
+     "idn": "(D) Mungkin Li Yi tidak menyadari betapa seriusnya situasi itu."
     }
    },
    "intro": [
     {
      "zh": "請聽這一段有關歌星說明他動手打人的訪問，然後回答兩個問題。",
      "py": "Qǐng tīng zhè yíduàn yǒuguān gēxīng shuōmíng tā dòngshǒu dǎrén de fǎngwèn, ránhòu huídá liǎng ge wèntí.",
-     "en": "Listen to this interview in which a singer explains hitting someone, and then answer the two questions."
+     "en": "Listen to this interview in which a singer explains hitting someone, and then answer the two questions.",
+     "idn": "Dengarkan wawancara seorang penyanyi yang menjelaskan insiden kekerasan ini, lalu jawab dua pertanyaan."
     },
     {
      "zh": "女：今天節目中請到歌星李義來談一談最近的打人事件。李義，對於你的女朋友",
      "py": "Nǚ: Jīntiān jiémù zhōng qǐngdào gēxīng Lǐyì lái tányìtán zuìjìn de dǎrén shìjiàn. Lǐyì, duìyú nǐ de nǚpéngyǒu",
-     "en": "Woman: On today's show we've invited singer Li Yi to talk about the recent assault incident. Li Yi, about your girlfriend"
+     "en": "Woman: On today's show we've invited singer Li Yi to talk about the recent assault incident. Li Yi, about your girlfriend",
+     "idn": "Wanita: Dalam acara hari ini kami mengundang penyanyi Li Yi untuk membicarakan insiden kekerasan baru-baru ini. Li Yi, mengenai pacarmu"
     },
     {
      "zh": "說你常對她動手，你想做點說明嗎？",
      "py": "Shuō nǐ cháng duì tā dòngshǒu, nǐ xiǎng zuò diǎn shuōmíng ma?",
-     "en": "saying you often get physical with her, would you like to explain?"
+     "en": "saying you often get physical with her, would you like to explain?",
+     "idn": "yang bilang kamu sering main tangan kepadanya, apakah kamu ingin menjelaskan?"
     },
     {
      "zh": "男：我跟她是吵過幾次架，過程中的確很生氣，兩人有些拉拉扯扯，但我絕對沒",
      "py": "Nán: Wǒ gēn tā shì chǎoguò jǐcì jià, guòchéng zhōng díquè hěn shēngqì, liǎng rén yǒuxiē lālāchěchě, dàn wǒ juéduì méi",
-     "en": "Man: We did argue a few times, and I was really angry during them; there was some pushing and pulling between us, but I absolutely had no"
+     "en": "Man: We did argue a few times, and I was really angry during them; there was some pushing and pulling between us, but I absolutely had no",
+     "idn": "Pria: Kami memang beberapa kali bertengkar, dan saat itu saya sangat marah; ada saling dorong di antara kami, tetapi saya sama sekali tidak"
     },
     {
      "zh": "有要弄傷她的意思。",
      "py": "Yǒuyào nòngshāng tā de yìsi.",
-     "en": "intention of hurting her."
+     "en": "intention of hurting her.",
+     "idn": "berniat menyakitinya."
     },
     {
      "zh": "女：其實人激動時常常難以控制自己，有時候自己以為沒什麼，可是對方已經覺",
      "py": "Nǚ: Qíshí rén jīdòng shí chángcháng nányǐ kòngzhì zìjǐ, yǒushíhòu zìjǐ yǐwéi méishénme, kěshì duìfāng yǐjīng jué",
-     "en": "Woman: Actually, when people are worked up they often find it hard to control themselves. Sometimes you think it's nothing, but the other person already"
+     "en": "Woman: Actually, when people are worked up they often find it hard to control themselves. Sometimes you think it's nothing, but the other person already",
+     "idn": "Wanita: Sebenarnya, saat emosi orang sering sulit mengendalikan diri. Kadang kamu merasa tidak apa-apa, tetapi pihak lain sudah"
     },
     {
      "zh": "得無法接受了。",
      "py": "De wúfǎ jiēshòu le.",
-     "en": "finds it unacceptable."
+     "en": "finds it unacceptable.",
+     "idn": "merasa tidak bisa menerimanya."
     },
     {
      "zh": "男：你說的對，無論如何我都要保持冷靜，不應該動手。很抱歉讓對方受到傷害，",
      "py": "Nán: Nǐ shuō de duì, wúlùnrúhé wǒ dōu yào bǎochí lěngjìng, bù yīnggāi dòngshǒu. Hěn bàoqiàn ràng duìfāng shòudào shānghài,",
-     "en": "Man: You're right. Whatever happens I must stay calm and not get physical. I'm very sorry for hurting her,"
+     "en": "Man: You're right. Whatever happens I must stay calm and not get physical. I'm very sorry for hurting her,",
+     "idn": "Pria: Anda benar. Apa pun yang terjadi saya harus tetap tenang dan tidak main tangan. Saya sangat menyesal telah menyakitinya,"
     },
     {
      "zh": "以後絕對不會再發生這樣的事。",
      "py": "Yǐhòu juéduì búhuì zài fāshēng zhèyàng de shì.",
-     "en": "and it will never happen again."
+     "en": "and it will never happen again.",
+     "idn": "dan hal itu tidak akan terjadi lagi."
     }
    ],
    "transcript": [
     {
      "zh": "這位女主持人對李義跟女朋友之間的問題有什麼想法？",
      "py": "Zhèwèi nǚ zhǔchírén duì Lǐyì gēn nǚpéngyǒu zhījiān de wèntí yǒu shénme xiǎngfǎ?",
-     "en": "What does the female host think about the problem between Li Yi and his girlfriend?"
+     "en": "What does the female host think about the problem between Li Yi and his girlfriend?",
+     "idn": "Bagaimana pendapat pembawa acara wanita tentang masalah antara Li Yi dan pacarnya?"
     }
    ]
   },
@@ -789,29 +925,34 @@
     "A": {
      "zh": "他很害怕女朋友想跟他分手",
      "py": "Tā hěn hàipà nǚpéngyǒu xiǎng gēn tā fēnshǒu",
-     "en": "(A) He's afraid his girlfriend wants to break up with him."
+     "en": "(A) He's afraid his girlfriend wants to break up with him.",
+     "idn": "(A) Dia takut pacarnya ingin putus dengannya."
     },
     "B": {
      "zh": "他很後悔不小心傷了女朋友",
      "py": "Tā hěn hòuhuǐ bù xiǎoxīn shāng le nǚpéngyǒu",
-     "en": "(B) He deeply regrets accidentally hurting his girlfriend."
+     "en": "(B) He deeply regrets accidentally hurting his girlfriend.",
+     "idn": "(B) Dia sangat menyesal tidak sengaja menyakiti pacarnya."
     },
     "C": {
      "zh": "他沒辦法認同女朋友的說法",
      "py": "Tā méi bànfǎ rèntóng nǚpéngyǒu de shuōfǎ",
-     "en": "(C) He can't agree with his girlfriend's account."
+     "en": "(C) He can't agree with his girlfriend's account.",
+     "idn": "(C) Dia tidak bisa menerima pernyataan pacarnya."
     },
     "D": {
      "zh": "他覺得自己嘗試控制情緒了",
      "py": "Tā juéde zìjǐ chángshì kòngzhìqíngxù le",
-     "en": "(D) He feels he tried to control his emotions."
+     "en": "(D) He feels he tried to control his emotions.",
+     "idn": "(D) Dia merasa sudah berusaha mengendalikan emosinya."
     }
    },
    "transcript": [
     {
      "zh": "對於打人事件，李義現在有什麼想法？",
      "py": "Duìyú dǎrén shìjiàn, Lǐyì xiànzài yǒu shénme xiǎngfǎ?",
-     "en": "What does Li Yi think now about the assault incident?"
+     "en": "What does Li Yi think now about the assault incident?",
+     "idn": "Bagaimana pandangan Li Yi sekarang tentang insiden kekerasan itu?"
     }
    ]
   },
@@ -820,61 +961,72 @@
     "A": {
      "zh": "工作做得好比較重要",
      "py": "Gōngzuò zuòdéhǎo bǐjiào zhòngyào",
-     "en": "(A) Doing the job well is more important."
+     "en": "(A) Doing the job well is more important.",
+     "idn": "(A) Mengerjakan pekerjaan dengan baik lebih penting."
     },
     "B": {
      "zh": "應該尋求其他的幫助",
      "py": "Yīnggāi xúnqiú qítā de bāngzhù",
-     "en": "(B) He should seek other help."
+     "en": "(B) He should seek other help.",
+     "idn": "(B) Dia sebaiknya mencari bantuan lain."
     },
     "C": {
      "zh": "再忍受一次也不要緊",
      "py": "Zài rěnshòu yícì yě búyàojǐn",
-     "en": "(C) It's OK to put up with it once more."
+     "en": "(C) It's OK to put up with it once more.",
+     "idn": "(C) Bersabar sekali lagi tidak apa-apa."
     },
     "D": {
      "zh": "沒什麼好覺得驚訝的",
      "py": "Méishénme hǎo juéde jīngyà de",
-     "en": "(D) There's nothing surprising about it."
+     "en": "(D) There's nothing surprising about it.",
+     "idn": "(D) Tidak ada yang aneh dengan hal itu."
     }
    },
    "intro": [
     {
      "zh": "請聽這一段同事間的對話，然後回答兩個問題。",
      "py": "Qǐng tīng zhè yíduàn tóngshì jiān de duìhuà, ránhòu huídá liǎng ge wèntí.",
-     "en": "Listen to this conversation between colleagues and then answer the two questions."
+     "en": "Listen to this conversation between colleagues and then answer the two questions.",
+     "idn": "Dengarkan percakapan antar-rekan kerja ini, lalu jawab dua pertanyaan."
     },
     {
      "zh": "男：今天主管又故意在辦公室說話諷刺我，你都看見了吧！",
      "py": "Nán: Jīntiān zhǔguǎn yòu gùyì zài bàngōngshì shuōhuà fěngcì wǒ, nǐ dōu kànjiàn le ba!",
-     "en": "Man: Today the supervisor deliberately made sarcastic remarks about me in the office again—you saw it, right!"
+     "en": "Man: Today the supervisor deliberately made sarcastic remarks about me in the office again—you saw it, right!",
+     "idn": "Pria: Hari ini atasan sengaja menyindir saya lagi di kantor—kamu lihat, kan!"
     },
     {
      "zh": "女：主管這麼做的確很過分，但為了繼續在公司待下去，你還是別跟他計較了。",
      "py": "Nǚ: Zhǔguǎn zhème zuò díquè hěn guòfèn, dàn wèile jìxù zài gōngsī dài xiàqù, nǐ háishì bié gēn tā jìjiào le.",
-     "en": "Woman: It's really going too far, but if you want to keep working at the company, you'd better not make an issue of it."
+     "en": "Woman: It's really going too far, but if you want to keep working at the company, you'd better not make an issue of it.",
+     "idn": "Wanita: Memang keterlaluan, tapi kalau kamu masih ingin bekerja di perusahaan ini, sebaiknya jangan diperpanjang."
     },
     {
      "zh": "男：忍耐只會使同樣的情況再發生，對受害者造成更嚴重的傷害。這次我堅持告",
      "py": "Nán: Rěnnài zhǐ huì shǐ tóngyàng de qíngkuàng zài fāshēng, duì shòuhàizhě zàochéng gèng yánzhòng de shānghài. Zhècì wǒ jiānchí gào",
-     "en": "Man: Putting up with it only lets the same thing happen again and hurts the victim even more. This time I'm determined to sue"
+     "en": "Man: Putting up with it only lets the same thing happen again and hurts the victim even more. This time I'm determined to sue",
+     "idn": "Pria: Diam saja hanya membuat hal yang sama terulang dan makin menyakiti korbannya. Kali ini saya bertekad menggugat"
     },
     {
      "zh": "上法院，一定要讓他為自己的行為付出代價。",
      "py": "Shàng fǎyuàn, yídìng yào ràng tā wèi zìjǐ de xíngwéi fùchūdàijià.",
-     "en": "and make him pay for his behavior."
+     "en": "and make him pay for his behavior.",
+     "idn": "dan membuatnya bertanggung jawab atas perbuatannya."
     },
     {
      "zh": "女：好吧，既然你這麼堅持，希望你能獲得勝利，得到應有的賠償。",
      "py": "Nǚ: Hǎo ba, jìrán nǐ zhème jiānchí, xīwàng nǐ néng huòdéshènglì, dédào yīngyǒu de péicháng.",
-     "en": "Woman: All right—since you're so determined, I hope you win and get the compensation you deserve."
+     "en": "Woman: All right—since you're so determined, I hope you win and get the compensation you deserve.",
+     "idn": "Wanita: Baiklah—karena kamu begitu bertekad, semoga kamu menang dan mendapat ganti rugi yang layak."
     }
    ],
    "transcript": [
     {
      "zh": "這位小姐一開始對這件事情有什麼看法？",
      "py": "Zhèwèi Xiǎojiě yì kāishǐ duì zhèjiàn shìqing yǒu shénme kànfǎ?",
-     "en": "What does the woman think about this at first?"
+     "en": "What does the woman think about this at first?",
+     "idn": "Bagaimana pendapat wanita itu tentang hal ini pada awalnya?"
     }
    ]
   },
@@ -883,29 +1035,34 @@
     "A": {
      "zh": "在公司才能有好的發展",
      "py": "Zài gōngsī cáinéng yǒuhǎo de fāzhǎn",
-     "en": "(A) Only at the company can he develop well."
+     "en": "(A) Only at the company can he develop well.",
+     "idn": "(A) Hanya di perusahaan itu dia bisa berkembang dengan baik."
     },
     "B": {
      "zh": "有把握能讓主管都滿意",
      "py": "Yǒubǎwò néng ràng zhǔguǎn dōu mǎnyì",
-     "en": "(B) He's sure he can satisfy all the supervisors."
+     "en": "(B) He's sure he can satisfy all the supervisors.",
+     "idn": "(B) Dia yakin bisa memuaskan semua atasan."
     },
     "C": {
      "zh": "請教過有類似經驗的同事",
      "py": "Qǐngjiào guòyǒu lèisì jīngyàn de tóngshì",
-     "en": "(C) He consulted colleagues with similar experiences."
+     "en": "(C) He consulted colleagues with similar experiences.",
+     "idn": "(C) Dia berkonsultasi dengan rekan kerja yang pengalamannya serupa."
     },
     "D": {
      "zh": "讓主管知道事情的嚴重性",
      "py": "Ràng zhǔguǎn zhīdào shìqing de Yánzhòngxìng",
-     "en": "(D) To let the supervisor know how serious the matter is"
+     "en": "(D) To let the supervisor know how serious the matter is",
+     "idn": "(D) Agar atasan tahu betapa seriusnya masalah ini"
     }
    },
    "transcript": [
     {
      "zh": "這位先生為什麼堅持自己的做法？",
      "py": "Zhèwèi xiānsheng wèishénme jiānchí zìjǐ de zuòfǎ?",
-     "en": "Why does the man insist on his approach?"
+     "en": "Why does the man insist on his approach?",
+     "idn": "Mengapa pria itu bersikeras dengan caranya?"
     }
    ]
   },
@@ -914,81 +1071,96 @@
     "A": {
      "zh": "在裡面才能安靜地看電影",
      "py": "Zài lǐmiàn cáinéng Ānjìng de kàn diànyǐng",
-     "en": "(A) Inside you can watch the movie quietly."
+     "en": "(A) Inside you can watch the movie quietly.",
+     "idn": "(A) Di dalam bisa menonton film dengan tenang."
     },
     "B": {
      "zh": "孩子一哭鬧，就會被帶進去",
      "py": "Háizi yì kūnào, jiù huì bèi dàijìnqù",
-     "en": "(B) As soon as children cry, they get taken inside."
+     "en": "(B) As soon as children cry, they get taken inside.",
+     "idn": "(B) Begitu anak menangis, langsung dibawa masuk."
     },
     "C": {
      "zh": "任何人都可以使用這個房間",
      "py": "Rènhérén dōu kěyǐ shǐyòng zhè ge fángjiān",
-     "en": "(C) Anyone can use this room."
+     "en": "(C) Anyone can use this room.",
+     "idn": "(C) Siapa pun boleh memakai ruangan ini."
     },
     "D": {
      "zh": "可以自由選擇自己想看的影片",
      "py": "Kěyǐ zìyóuxuǎnzé zìjǐ xiǎngkàn de yǐngpiàn",
-     "en": "(D) You can choose whatever film you want to watch."
+     "en": "(D) You can choose whatever film you want to watch.",
+     "idn": "(D) Bisa memilih film apa saja yang ingin ditonton."
     }
    },
    "intro": [
     {
      "zh": "請聽這一段有關看電影的對話，然後回答兩個問題。",
      "py": "Qǐng tīng zhè yíduàn yǒuguān kàn diànyǐng de duìhuà, ránhòu huídá liǎng ge wèntí.",
-     "en": "Listen to this conversation about going to the movies and then answer the two questions."
+     "en": "Listen to this conversation about going to the movies and then answer the two questions.",
+     "idn": "Dengarkan percakapan tentang menonton film ini, lalu jawab dua pertanyaan."
     },
     {
      "zh": "男：我很想帶孩子去看電影，但一想到孩子可能會在電影院裡大吵大鬧，還是算",
      "py": "Nán: Wǒ hěn xiǎng dài háizi qù kàn diànyǐng, dànyī xiǎngdào háizi kěnéng huì zài diànyǐngyuàn lǐ dàchǎodànào, háishì suàn",
-     "en": "Man: I'd love to take the kids to a movie, but when I think they might make a big fuss in the cinema, I give"
+     "en": "Man: I'd love to take the kids to a movie, but when I think they might make a big fuss in the cinema, I give",
+     "idn": "Pria: Saya ingin sekali mengajak anak-anak menonton film, tapi begitu membayangkan mereka mungkin ribut besar di bioskop, saya"
     },
     {
      "zh": "了。",
      "py": "Le.",
-     "en": "up."
+     "en": "up.",
+     "idn": "(lanjutan) mengurungkannya."
     },
     {
      "zh": "女：在澳洲有些電影院設計了「哭泣的房間」。這個房間有四面透明、隔音良好",
      "py": "Nǚ: Zài Àozhōu yǒuxiē diànyǐngyuàn shèjì le “Kūqì de fángjiān”. Zhè ge fángjiān yǒu sìmiàn tòumíng, géyīn liánghǎo",
-     "en": "Woman: In Australia some cinemas have designed a \"crying room.\" It has four transparent, well-soundproofed"
+     "en": "Woman: In Australia some cinemas have designed a \"crying room.\" It has four transparent, well-soundproofed",
+     "idn": "Wanita: Di Australia ada bioskop yang merancang \"ruang tangis\". Ruangan itu punya empat dinding transparan yang kedap suara"
     },
     {
      "zh": "的牆，還有獨立的音效設備。父母和孩子坐在裡面跟大家一起觀賞電影，就",
      "py": "De qiáng, háiyǒu dúlì de yīnxiào shèbèi. Fùmǔ hé háizi zuòzài lǐmiàn gēn dàjiā yìqǐ guānshǎng diànyǐng, jiù",
-     "en": "walls and its own sound system. Parents and children sit inside and watch the movie with everyone else, and"
+     "en": "walls and its own sound system. Parents and children sit inside and watch the movie with everyone else, and",
+     "idn": "dan sistem suaranya sendiri. Orang tua dan anak duduk di dalam dan menonton film bersama semua orang, dan"
     },
     {
      "zh": "算孩子哭鬧也不會影響別人。",
      "py": "Suàn háizi kūnào yě búhuì yǐngxiǎng biérén.",
-     "en": "even if the kids cry and fuss it doesn't disturb anyone."
+     "en": "even if the kids cry and fuss it doesn't disturb anyone.",
+     "idn": "meskipun anak-anak menangis dan rewel tidak mengganggu siapa pun."
     },
     {
      "zh": "男：這個設計跟教堂裡給親子專用的房間，有一樣的功能，讓父母能安心帶著孩",
      "py": "Nán: Zhè ge shèjì gēn jiàotáng lǐ gěi qīnzǐ zhuānyòng de fángjiān, yǒu yíyàng de gōngnéng, ràng fùmǔ néng ānxīn dàizhe hái",
-     "en": "Man: That design has the same function as the parent-and-child rooms in churches—it lets parents bring their kids to activities"
+     "en": "Man: That design has the same function as the parent-and-child rooms in churches—it lets parents bring their kids to activities",
+     "idn": "Pria: Desain itu fungsinya sama dengan ruang orang tua-anak di gereja—membuat orang tua bisa membawa anak mengikuti kegiatan"
     },
     {
      "zh": "子參加活動。",
      "py": "Zi cānjiā huódòng.",
-     "en": "without worrying."
+     "en": "without worrying.",
+     "idn": "tanpa khawatir."
     },
     {
      "zh": "女：沒錯！其實這個房間大家都能使用，這樣看電影的時候想尖叫、想大哭，一",
      "py": "Nǚ: Méicuò! Qíshí zhè ge fángjiān dàjiā dōu néng shǐyòng, zhèyàng kàn diànyǐng de shíhòu xiǎng jiānjiào, xiǎng dàkū, yī",
-     "en": "Woman: Exactly! In fact anyone can use the room, so if you want to scream or cry during a movie, you don't"
+     "en": "Woman: Exactly! In fact anyone can use the room, so if you want to scream or cry during a movie, you don't",
+     "idn": "Wanita: Tepat sekali! Sebenarnya siapa pun boleh memakai ruangan itu, jadi kalau kamu ingin berteriak atau menangis saat menonton film, kamu tidak"
     },
     {
      "zh": "點都不用覺得尷尬。",
      "py": "Diǎn dōu búyòng juéde gāngà.",
-     "en": "need to feel embarrassed at all."
+     "en": "need to feel embarrassed at all.",
+     "idn": "perlu merasa malu sama sekali."
     }
    ],
    "transcript": [
     {
      "zh": "關於「哭泣的房間」，下面哪一個是對的？",
      "py": "Guānyú “Kūqì de fángjiān”, xiàmiàn nǎ yí ge shì duì de?",
-     "en": "About the \"crying room,\" which of the following is correct?"
+     "en": "About the \"crying room,\" which of the following is correct?",
+     "idn": "Mengenai \"ruang tangis\", manakah pernyataan berikut yang benar?"
     }
    ]
   },
@@ -997,29 +1169,34 @@
     "A": {
      "zh": "因為房間的設計源自於教堂",
      "py": "Yīnwèi fángjiān de shèjì yuánzì yú jiàotáng",
-     "en": "(A) Because the room's design came from churches"
+     "en": "(A) Because the room's design came from churches",
+     "idn": "(A) Karena desain ruangan itu berasal dari gereja"
     },
     "B": {
      "zh": "因為教堂也提供這樣的房間",
      "py": "Yīnwèi jiàotáng yě tígōng zhèyàng de fángjiān",
-     "en": "(B) Because churches also provide such rooms"
+     "en": "(B) Because churches also provide such rooms",
+     "idn": "(B) Karena gereja juga menyediakan ruangan seperti itu"
     },
     "C": {
      "zh": "因為教堂有照顧孩子的服務",
      "py": "Yīnwèi jiàotáng yǒu zhàogù háizi de fúwù",
-     "en": "(C) Because churches have childcare services"
+     "en": "(C) Because churches have childcare services",
+     "idn": "(C) Karena gereja punya layanan penitipan anak"
     },
     "D": {
      "zh": "因為教堂能接受小孩子哭鬧",
      "py": "Yīnwèi jiàotáng néng jiēshòu xiǎoháizi kūnào",
-     "en": "(D) Because churches can accept children crying"
+     "en": "(D) Because churches can accept children crying",
+     "idn": "(D) Karena gereja bisa menerima tangisan anak"
     }
    },
    "transcript": [
     {
      "zh": "為什麼這位先生提到「教堂」？",
      "py": "Wèishénme zhèwèi xiānsheng tídào “Jiàotáng”?",
-     "en": "Why does the man mention \"churches\"?"
+     "en": "Why does the man mention \"churches\"?",
+     "idn": "Mengapa pria itu menyebutkan \"gereja\"?"
     }
    ]
   },
@@ -1028,71 +1205,84 @@
     "A": {
      "zh": "每天建議的咖啡量",
      "py": "Měitiān jiànyì de kāfēi liàng",
-     "en": "(A) The recommended amount of coffee per day"
+     "en": "(A) The recommended amount of coffee per day",
+     "idn": "(A) Jumlah kopi yang disarankan per hari"
     },
     "B": {
      "zh": "和咖啡相關的廣告",
      "py": "Hé kāfēi xiāngguān de guǎnggào",
-     "en": "(B) Coffee-related advertising"
+     "en": "(B) Coffee-related advertising",
+     "idn": "(B) Iklan yang berkaitan dengan kopi"
     },
     "C": {
      "zh": "有關咖啡的研究結果",
      "py": "Yǒuguān kāfēi de yánjiū jiéguǒ",
-     "en": "(C) Research results about coffee"
+     "en": "(C) Research results about coffee",
+     "idn": "(C) Hasil penelitian tentang kopi"
     },
     "D": {
      "zh": "咖啡作為藥物的原料",
      "py": "Kāfēi zuòwéi yàowù de yuánliào",
-     "en": "(D) Coffee as a raw material for medicine"
+     "en": "(D) Coffee as a raw material for medicine",
+     "idn": "(D) Kopi sebagai bahan baku obat"
     }
    },
    "intro": [
     {
      "zh": "請聽這一段有關喝咖啡的對話，然後回答兩個問題。",
      "py": "Qǐng tīng zhè yíduàn yǒuguān Hēkāfēi de duìhuà, ránhòu huídá liǎng ge wèntí.",
-     "en": "Listen to this conversation about drinking coffee and then answer the two questions."
+     "en": "Listen to this conversation about drinking coffee and then answer the two questions.",
+     "idn": "Dengarkan percakapan tentang minum kopi ini, lalu jawab dua pertanyaan."
     },
     {
      "zh": "男：你每天喝那麼多咖啡，對身體不好吧！",
      "py": "Nán: Nǐ měitiān hē nàme duō kāfēi, duì shēntǐ bùhǎo ba!",
-     "en": "Man: You drink so much coffee every day—that can't be good for you!"
+     "en": "Man: You drink so much coffee every day—that can't be good for you!",
+     "idn": "Pria: Kamu minum kopi banyak sekali setiap hari—itu pasti tidak baik untukmu!"
     },
     {
      "zh": "女：你對咖啡的印象已經落伍了，其實喝咖啡的好處不少呢！",
      "py": "Nǚ: Nǐ duì kāfēi de yìnxiàng yǐjīng luòwǔ le, qíshí Hēkāfēi de hǎochù bùshǎo ne!",
-     "en": "Woman: Your idea of coffee is out of date. Actually coffee has quite a few benefits!"
+     "en": "Woman: Your idea of coffee is out of date. Actually coffee has quite a few benefits!",
+     "idn": "Wanita: Pemahamanmu tentang kopi sudah ketinggalan zaman. Sebenarnya kopi punya cukup banyak manfaat!"
     },
     {
      "zh": "男：除了讓精神好一點，咖啡還能有什麼好處？",
      "py": "Nán: Chúle ràng jīngshén hǎo yìdiǎn, kāfēi hái néng yǒu shénme hǎochù?",
-     "en": "Man: Apart from perking you up, what other benefits can coffee have?"
+     "en": "Man: Apart from perking you up, what other benefits can coffee have?",
+     "idn": "Pria: Selain membuat segar, manfaat apa lagi yang bisa diberikan kopi?"
     },
     {
      "zh": "女：根據這兩年一些已發表的研究結果，喝咖啡能減輕疼痛，還能降低得到心臟",
      "py": "Nǚ: Gēnjù zhè liǎngnián yìxiē yǐ fābiǎo de yánjiū jiéguǒ, Hēkāfēi néng jiǎnqīng téngtòng, hái néng jiàngdī dédào xīnzàng",
-     "en": "Woman: According to some research published in the past two years, drinking coffee can relieve pain and lower the risk of heart"
+     "en": "Woman: According to some research published in the past two years, drinking coffee can relieve pain and lower the risk of heart",
+     "idn": "Wanita: Menurut beberapa penelitian yang terbit dua tahun terakhir, minum kopi bisa meredakan nyeri dan menurunkan risiko penyakit"
     },
     {
      "zh": "疾病的風險。",
      "py": "Jíbìng de fēngxiǎn.",
-     "en": "disease."
+     "en": "disease.",
+     "idn": "jantung."
     },
     {
      "zh": "男：那都是廠商行銷的手段。我不反對你喝咖啡，但像你這樣把咖啡當水喝，一",
      "py": "Nán: Nà dōu shì chǎngshāng xíngxiāo de shǒuduàn. Wǒ bù fǎnduì nǐ Hēkāfēi, dàn xiàng nǐ zhèyàng bǎ kāfēi dàng shuǐ hē, yī",
-     "en": "Man: That's all manufacturers' marketing. I'm not against you drinking coffee, but drinking it like water the way you do"
+     "en": "Man: That's all manufacturers' marketing. I'm not against you drinking coffee, but drinking it like water the way you do",
+     "idn": "Pria: Itu semua pemasaran produsen. Saya tidak menentang kamu minum kopi, tapi minum kopi seperti minum air seperti kamu ini"
     },
     {
      "zh": "定對身體不好，你啊！早晚得去看醫生。",
      "py": "Dìngduì shēntǐ bùhǎo, nǐ a! Zǎowǎn děi qù kàn yīshēng.",
-     "en": "must be bad for you. You! Sooner or later you'll have to see a doctor."
+     "en": "must be bad for you. You! Sooner or later you'll have to see a doctor.",
+     "idn": "pasti tidak baik. Kamu ini! Cepat atau lambat kamu harus ke dokter."
     }
    ],
    "transcript": [
     {
      "zh": "關於咖啡，他們說了什麼？",
      "py": "Guānyú kāfēi, tāmen shuō le shénme?",
-     "en": "What do they say about coffee?"
+     "en": "What do they say about coffee?",
+     "idn": "Apa yang mereka katakan tentang kopi?"
     }
    ]
   },
@@ -1101,29 +1291,34 @@
     "A": {
      "zh": "得喝很多才會有精神",
      "py": "Déhē hěnduō cái huì yǒu jīngshén",
-     "en": "(A) You have to drink a lot to feel alert."
+     "en": "(A) You have to drink a lot to feel alert.",
+     "idn": "(A) Harus minum banyak baru terasa segar."
     },
     "B": {
      "zh": "可降低得心臟疾病的風險",
      "py": "Kě jiàngdī de xīnzàng jíbìng de fēngxiǎn",
-     "en": "(B) It can lower the risk of heart disease."
+     "en": "(B) It can lower the risk of heart disease.",
+     "idn": "(B) Bisa menurunkan risiko penyakit jantung."
     },
     "C": {
      "zh": "不管喝多喝少都會造成身體傷害",
      "py": "Bùguǎn hē duō hē shǎo dōu huì zàochéng shēntǐ shānghài",
-     "en": "(C) Whether you drink a lot or a little, it harms the body."
+     "en": "(C) Whether you drink a lot or a little, it harms the body.",
+     "idn": "(C) Minum banyak atau sedikit sama-sama merusak tubuh."
     },
     "D": {
      "zh": "他不相信這位小姐提到的那些好處",
      "py": "Tā bù xiāngxìn zhèwèi Xiǎojiě tídào de nàxiē hǎochù",
-     "en": "(D) He doesn't believe the benefits the woman mentioned."
+     "en": "(D) He doesn't believe the benefits the woman mentioned.",
+     "idn": "(D) Dia tidak percaya manfaat yang disebutkan wanita itu."
     }
    },
    "transcript": [
     {
      "zh": "這位先生對咖啡的看法是什麼？",
      "py": "Zhèwèi xiānsheng duì kāfēi de kànfǎ shì shénme?",
-     "en": "What does the man think of coffee?"
+     "en": "What does the man think of coffee?",
+     "idn": "Bagaimana pendapat pria itu tentang kopi?"
     }
    ]
   },
@@ -1132,76 +1327,90 @@
     "A": {
      "zh": "火車提早了發車時間",
      "py": "Huǒchē tízǎo le fāchē shíjiān",
-     "en": "(A) The train left earlier than scheduled."
+     "en": "(A) The train left earlier than scheduled.",
+     "idn": "(A) Kereta berangkat lebih awal dari jadwal."
     },
     "B": {
      "zh": "高速公路最近不塞車",
      "py": "Gāosùgōnglù zuìjìn bù Sāichē",
-     "en": "(B) The highway hasn't been jammed lately."
+     "en": "(B) The highway hasn't been jammed lately.",
+     "idn": "(B) Jalan tol belakangan tidak macet."
     },
     "C": {
      "zh": "她換了交通工具上班",
      "py": "Tā huàn le jiāotōnggōngjù shàngbān",
-     "en": "(C) She changed how she gets to work."
+     "en": "(C) She changed how she gets to work.",
+     "idn": "(C) Dia mengubah cara berangkat kerja."
     },
     "D": {
      "zh": "老闆希望她不要遲到",
      "py": "Lǎobǎn xīwàng tā búyào chídào",
-     "en": "(D) The boss wants her not to be late."
+     "en": "(D) The boss wants her not to be late.",
+     "idn": "(D) Atasan ingin dia tidak terlambat."
     }
    },
    "intro": [
     {
      "zh": "請聽這一段同事間的對話，然後回答兩個問題。",
      "py": "Qǐng tīng zhè yíduàn tóngshì jiān de duìhuà, ránhòu huídá liǎng ge wèntí.",
-     "en": "Listen to this conversation between colleagues and then answer the two questions."
+     "en": "Listen to this conversation between colleagues and then answer the two questions.",
+     "idn": "Dengarkan percakapan antar-rekan kerja ini, lalu jawab dua pertanyaan."
     },
     {
      "zh": "男：你最近怎麼都這麼早到公司？你搭的火車班次，又改時間了啊？",
      "py": "Nán: Nǐ zuìjìn zěnme dōu zhème zǎo dào gōngsī? Nǐ dā de huǒchē bāncì, yòu gǎi shíjiān le a?",
-     "en": "Man: How come you've been getting to the office so early lately? Has the schedule of your train changed again?"
+     "en": "Man: How come you've been getting to the office so early lately? Has the schedule of your train changed again?",
+     "idn": "Pria: Kenapa belakangan kamu tiba di kantor pagi sekali? Apakah jadwal keretamu berubah lagi?"
     },
     {
      "zh": "女：不是改時間，而是「停駛」，我搭的那班車，因為司機罷工，停開了。所以，",
      "py": "Nǚ: Búshì gǎi shíjiān, érshì “Tíngshǐ”, wǒ dā de nà bānchē, yīnwèi sījī bàgōng, tíngkāi le. Suǒyǐ,",
-     "en": "Woman: Not changed—\"suspended.\" The train I take has stopped running because the drivers are on strike. So"
+     "en": "Woman: Not changed—\"suspended.\" The train I take has stopped running because the drivers are on strike. So",
+     "idn": "Wanita: Bukan berubah—\"berhenti beroperasi\". Kereta yang biasa saya naiki berhenti karena masinisnya mogok kerja. Jadi"
     },
     {
      "zh": "我只好搭公車來公司，但是害怕車子塞在高速公路上，上班會遲到，不得不",
      "py": "Wǒ zhǐhǎo dāgōngchē lái gōngsī, dànshì hàipà chēzi sāi zài gāosùgōnglù shàng, shàngbān huì chídào, bùdébù",
-     "en": "I have to take the bus to work, but I'm afraid of getting stuck on the highway and being late, so I have"
+     "en": "I have to take the bus to work, but I'm afraid of getting stuck on the highway and being late, so I have",
+     "idn": "saya harus naik bus ke kantor, tapi saya takut terjebak macet di jalan tol dan terlambat, jadi saya"
     },
     {
      "zh": "提早出發。",
      "py": "Tízǎo chūfā.",
-     "en": "to set off early."
+     "en": "to set off early.",
+     "idn": "harus berangkat lebih awal."
     },
     {
      "zh": "男：哇，這不是前兩個月才剛罷過工嗎？說是薪水太少、福利太差，所以火車公",
      "py": "Nán: Wa, zhè búshì qián liǎng ge yuè cáigāng bà guò gōng ma? Shuō shì xīnshuǐ tài shǎo, Fúlì tài chà, suǒyǐ huǒchē gōng",
-     "en": "Man: Wow, didn't they just strike two months ago? They said the pay was too low and the benefits too poor, so the railway company"
+     "en": "Man: Wow, didn't they just strike two months ago? They said the pay was too low and the benefits too poor, so the railway company",
+     "idn": "Pria: Wah, bukankah dua bulan lalu mereka baru mogok? Katanya gajinya terlalu rendah dan tunjangannya terlalu buruk, sehingga perusahaan kereta"
     },
     {
      "zh": "司才剛調整過他們的薪水，這次又為了什麼？",
      "py": "Sī cáigāng tiáozhěng guò tāmen de xīnshuǐ, zhècì yòu wèile shénme?",
-     "en": "had just adjusted their pay. What is it this time?"
+     "en": "had just adjusted their pay. What is it this time?",
+     "idn": "baru saja menyesuaikan gaji mereka. Kali ini kenapa lagi?"
     },
     {
      "zh": "女：這次好像是火車公司想要調整公司結構，但是沒有跟員工好好溝通，所以，",
      "py": "Nǚ: Zhècì hǎoxiàng shì huǒchē gōngsī xiǎngyào tiáozhěng gōngsī jiégòu, dànshì méiyǒu gēn yuángōng hǎohǎo gōutōng, suǒyǐ,",
-     "en": "Woman: This time it seems the railway company wants to restructure, but didn't communicate properly with the staff, so"
+     "en": "Woman: This time it seems the railway company wants to restructure, but didn't communicate properly with the staff, so",
+     "idn": "Wanita: Kali ini sepertinya perusahaan kereta ingin melakukan restrukturisasi, tetapi tidak berkomunikasi dengan baik dengan karyawan, sehingga"
     },
     {
      "zh": "又罷工了。",
      "py": "Yòu bàgōng le.",
-     "en": "they went on strike again."
+     "en": "they went on strike again.",
+     "idn": "mereka mogok lagi."
     }
    ],
    "transcript": [
     {
      "zh": "這位小姐為什麼早到公司？",
      "py": "Zhèwèi Xiǎojiě wèishénme zǎo dào gōngsī?",
-     "en": "Why does the woman get to the office early?"
+     "en": "Why does the woman get to the office early?",
+     "idn": "Mengapa wanita itu tiba di kantor lebih awal?"
     }
    ]
   },
@@ -1210,29 +1419,34 @@
     "A": {
      "zh": "最近經營的狀況",
      "py": "Zuìjìn jīngyíng de zhuàngkuàng",
-     "en": "(A) Its recent business performance"
+     "en": "(A) Its recent business performance",
+     "idn": "(A) Kinerja usahanya belakangan ini"
     },
     "B": {
      "zh": "公司有哪些福利",
      "py": "Gōngsī yǒu nǎxiē Fúlì",
-     "en": "(B) What benefits the company offers"
+     "en": "(B) What benefits the company offers",
+     "idn": "(B) Tunjangan apa yang diberikan perusahaan"
     },
     "C": {
      "zh": "火車司機的平均收入",
      "py": "Huǒchē sījī de píngjūnshōurù",
-     "en": "(C) Train drivers' average income"
+     "en": "(C) Train drivers' average income",
+     "idn": "(C) Penghasilan rata-rata masinis kereta"
     },
     "D": {
      "zh": "公司結構的組成方式",
      "py": "Gōngsī jiégòu de zǔchéng fāngshì",
-     "en": "(D) How the company is structured"
+     "en": "(D) How the company is structured",
+     "idn": "(D) Bagaimana perusahaan itu disusun"
     }
    },
    "transcript": [
     {
      "zh": "他們提到火車公司什麼事？",
      "py": "Tāmen tídào huǒchē gōngsī shénme shì?",
-     "en": "What do they mention about the railway company?"
+     "en": "What do they mention about the railway company?",
+     "idn": "Apa yang mereka sebutkan tentang perusahaan kereta itu?"
     }
    ]
   },
@@ -1241,81 +1455,96 @@
     "A": {
      "zh": "她以為慢跑很簡單",
      "py": "Tā yǐwéi mànpǎo hěn jiǎndān",
-     "en": "(A) She thought jogging was easy."
+     "en": "(A) She thought jogging was easy.",
+     "idn": "(A) Dia mengira joging itu mudah."
     },
     "B": {
      "zh": "她再也不想跑步了",
      "py": "Tā zàiyě bùxiǎng pǎobù le",
-     "en": "(B) She never wants to run again."
+     "en": "(B) She never wants to run again.",
+     "idn": "(B) Dia tidak ingin berlari lagi."
     },
     "C": {
      "zh": "慢跑是她最喜歡的運動",
      "py": "Mànpǎo shì tā zuì xǐhuān de yùndòng",
-     "en": "(C) Jogging is her favorite sport."
+     "en": "(C) Jogging is her favorite sport.",
+     "idn": "(C) Joging adalah olahraga favoritnya."
     },
     "D": {
      "zh": "慢跑讓她的身體變得更好",
      "py": "Mànpǎo ràng tā de shēntǐ biàn de gènghǎo",
-     "en": "(D) Jogging has made her healthier."
+     "en": "(D) Jogging has made her healthier.",
+     "idn": "(D) Joging membuatnya lebih sehat."
     }
    },
    "intro": [
     {
      "zh": "請聽這段和跑步有關的對話，然後回答兩個問題。",
      "py": "Qǐng tīng zhè duàn hé pǎobù yǒuguān de duìhuà, ránhòu huídá liǎng ge wèntí.",
-     "en": "Listen to this conversation about running and then answer the two questions."
+     "en": "Listen to this conversation about running and then answer the two questions.",
+     "idn": "Dengarkan percakapan tentang berlari ini, lalu jawab dua pertanyaan."
     },
     {
      "zh": "男：你的臉色怎麼這麼難看，感冒了嗎？",
      "py": "Nán: Nǐ de liǎnsè zěnme zhème nánkàn, gǎnmào le ma?",
-     "en": "Man: You look awful—have you caught a cold?"
+     "en": "Man: You look awful—have you caught a cold?",
+     "idn": "Pria: Wajahmu pucat sekali—kamu masuk angin?"
     },
     {
      "zh": "女：我昨天慢跑了三公里，現在腿痛得不得了。",
      "py": "Nǚ: Wǒ zuótiān mànpǎo le sān gōnglǐ, xiànzài tuǐ tòng de bùdéliǎo.",
-     "en": "Woman: I jogged three kilometers yesterday and now my legs really hurt."
+     "en": "Woman: I jogged three kilometers yesterday and now my legs really hurt.",
+     "idn": "Wanita: Kemarin saya joging tiga kilometer dan sekarang kaki saya sakit sekali."
     },
     {
      "zh": "男：我不知道你這麼喜歡運動，你常跑步嗎？",
      "py": "Nán: Wǒ bù zhīdào nǐ zhème xǐhuān yùndòng, nǐ cháng pǎobù ma?",
-     "en": "Man: I didn't know you liked exercise so much. Do you run often?"
+     "en": "Man: I didn't know you liked exercise so much. Do you run often?",
+     "idn": "Pria: Saya tidak tahu kamu suka olahraga sebegitunya. Kamu sering berlari?"
     },
     {
      "zh": "女：我最近剛開始練習跑步，我以為慢跑很輕鬆，沒想到我不但跑不了那麼遠，",
      "py": "Nǚ: Wǒ zuìjìn gāng kāishǐ liànxí pǎobù, wǒ yǐwéi mànpǎo hěn qīngsōng, méixiǎngdào wǒ búdàn pǎobùliǎo nàme yuǎn,",
-     "en": "Woman: I've only just started practicing running. I thought jogging was easy, but I couldn't run that far, and"
+     "en": "Woman: I've only just started practicing running. I thought jogging was easy, but I couldn't run that far, and",
+     "idn": "Wanita: Saya baru mulai berlatih lari. Saya kira joging itu mudah, tapi ternyata tidak sanggup berlari sejauh itu, dan"
     },
     {
      "zh": "還這麼累。",
      "py": "Hái zhème lèi.",
-     "en": "I'm so tired."
+     "en": "I'm so tired.",
+     "idn": "saya capek sekali."
     },
     {
      "zh": "男：妳沒有慢跑的經驗，先不管跑步的速度怎麼樣，一開始最好不要跑長距離，",
      "py": "Nán: Nǐ méiyǒu mànpǎo de jīngyàn, xiān bùguǎn pǎobù de sùdù zěnmeyàng, yì kāishǐ zuìhǎo búyào pǎo zhǎngjùlí,",
-     "en": "Man: You've no jogging experience. Never mind your speed for now—at the start it's best not to run long distances,"
+     "en": "Man: You've no jogging experience. Never mind your speed for now—at the start it's best not to run long distances,",
+     "idn": "Pria: Kamu belum berpengalaman joging. Jangan pikirkan kecepatan dulu—di awal sebaiknya jangan berlari jarak jauh,"
     },
     {
      "zh": "否則對健康有不好的影響。你等身體適應了以後，再跑三公里吧！",
      "py": "Fǒuzé duì jiànkāng yǒu bùhǎo de yǐngxiǎng. Nǐ děng shēntǐ shìyìng le yǐhòu, zài pǎo sān gōnglǐ ba!",
-     "en": "or it's bad for your health. Wait until your body has adapted, then run three kilometers!"
+     "en": "or it's bad for your health. Wait until your body has adapted, then run three kilometers!",
+     "idn": "kalau tidak malah buruk bagi kesehatan. Tunggu tubuhmu menyesuaikan diri, baru lari tiga kilometer!"
     },
     {
      "zh": "女：你說的好像滿有道理的，因為運動讓自己受傷，太不值得了，下次我會更小",
      "py": "Nǚ: Nǐ shuō de hǎoxiàng mǎn yǒu dàolǐ de, yīnwèi yùndòng ràng zìjǐ shòushāng, tài bù zhíde le, xiàcì wǒhuì gèng xiǎo",
-     "en": "Woman: That sounds quite sensible. Getting injured from exercising isn't worth it at all. Next time I'll be more"
+     "en": "Woman: That sounds quite sensible. Getting injured from exercising isn't worth it at all. Next time I'll be more",
+     "idn": "Wanita: Masuk akal juga. Cedera karena olahraga sama sekali tidak sepadan. Lain kali saya akan lebih"
     },
     {
      "zh": "心。",
      "py": "Xīn.",
-     "en": "careful."
+     "en": "careful.",
+     "idn": "(lanjutan) hati-hati."
     }
    ],
    "transcript": [
     {
      "zh": "這位小姐對慢跑的看法是什麼？",
      "py": "Zhèwèi Xiǎojiě duì mànpǎo de kànfǎ shì shénme?",
-     "en": "What does the woman think about jogging?"
+     "en": "What does the woman think about jogging?",
+     "idn": "Bagaimana pendapat wanita itu tentang joging?"
     }
    ]
   },
@@ -1324,29 +1553,34 @@
     "A": {
      "zh": "跑步的速度",
      "py": "Pǎobù de sùdù",
-     "en": "(A) Running speed"
+     "en": "(A) Running speed",
+     "idn": "(A) Kecepatan lari"
     },
     "B": {
      "zh": "跑步的距離",
      "py": "Pǎobù de jùlí",
-     "en": "(B) Running distance"
+     "en": "(B) Running distance",
+     "idn": "(B) Jarak lari"
     },
     "C": {
      "zh": "跑步的次數",
      "py": "Pǎobù de cìshù",
-     "en": "(C) How often to run"
+     "en": "(C) How often to run",
+     "idn": "(C) Seberapa sering berlari"
     },
     "D": {
      "zh": "跑步的地點",
      "py": "Pǎobù de dìdiǎn",
-     "en": "(D) Where to run"
+     "en": "(D) Where to run",
+     "idn": "(D) Tempat berlari"
     }
    },
    "transcript": [
     {
      "zh": "這位先生從哪方面給這位小姐建議？",
      "py": "Zhèwèi xiānsheng cóng nǎ fāngmiàn gěi zhèwèi Xiǎojiě jiànyì?",
-     "en": "In what respect does the man give the woman advice?"
+     "en": "In what respect does the man give the woman advice?",
+     "idn": "Dalam hal apa pria itu memberi saran kepada wanita itu?"
     }
    ]
   },
@@ -1355,116 +1589,138 @@
     "A": {
      "zh": "缺乏足夠的燃料",
      "py": "Quēfá zúgòu de ránliào",
-     "en": "(A) It lacks enough fuel."
+     "en": "(A) It lacks enough fuel.",
+     "idn": "(A) Kekurangan bahan bakar."
     },
     "B": {
      "zh": "想增加國家的收入",
      "py": "Xiǎng zēngjiā guójiā de shōurù",
-     "en": "(B) It wants to increase national income."
+     "en": "(B) It wants to increase national income.",
+     "idn": "(B) Ingin meningkatkan pendapatan negara."
     },
     "C": {
      "zh": "協助其他國家處理垃圾",
      "py": "Xiézhù qítā guójiā chǔlǐ lājī",
-     "en": "(C) To help other countries deal with their garbage"
+     "en": "(C) To help other countries deal with their garbage",
+     "idn": "(C) Untuk membantu negara lain mengatasi sampahnya"
     },
     "D": {
      "zh": "需要製作再生商品的原料",
      "py": "Xūyào zhìzuò zàishēng shāngpǐn de yuánliào",
-     "en": "(D) It needs raw materials for recycled products."
+     "en": "(D) It needs raw materials for recycled products.",
+     "idn": "(D) Membutuhkan bahan baku untuk produk daur ulang."
     }
    },
    "intro": [
     {
      "zh": "請聽這段有關「瑞典向挪威進口垃圾」的討論，然後回答三個問題。",
      "py": "Qǐng tīng zhèduàn yǒuguān “Ruìdiǎn xiàng Nuówēi jìnkǒu lājī” de tǎolùn, ránhòu huídá sān ge wèntí.",
-     "en": "Listen to this discussion about \"Sweden importing garbage from Norway\" and then answer the three questions."
+     "en": "Listen to this discussion about \"Sweden importing garbage from Norway\" and then answer the three questions.",
+     "idn": "Dengarkan diskusi tentang \"Swedia mengimpor sampah dari Norwegia\" ini, lalu jawab tiga pertanyaan."
     },
     {
      "zh": "Ⅰ. 為什麼瑞典需要進口垃圾？",
      "py": "Ⅰ. Wèishénme Ruìdiǎn xūyào jìnkǒu lājī?",
-     "en": "I. Why does Sweden need to import garbage?"
+     "en": "I. Why does Sweden need to import garbage?",
+     "idn": "I. Mengapa Swedia perlu mengimpor sampah?"
     },
     {
      "zh": "Ⅱ. 為什麼這位先生覺得這個合作方案對挪威沒有好處？",
      "py": "Ⅱ. Wèishénme zhèwèi xiānsheng juéde zhè ge hézuò fāng'àn duì Nuówēi méiyǒu hǎochù?",
-     "en": "II. Why does the man think this arrangement does Norway no good?"
+     "en": "II. Why does the man think this arrangement does Norway no good?",
+     "idn": "II. Mengapa pria itu merasa cara ini tidak menguntungkan Norwegia?"
     },
     {
      "zh": "Ⅲ. 這位小姐對瑞典的發電方式，有什麼看法？",
      "py": "Ⅲ. Zhèwèi Xiǎojiě duì Ruìdiǎn de fādiàn fāngshì, yǒu shénme kànfǎ?",
-     "en": "III. What does the woman think about Sweden's way of generating electricity?"
+     "en": "III. What does the woman think about Sweden's way of generating electricity?",
+     "idn": "III. Bagaimana pendapat wanita itu tentang cara Swedia membangkitkan listrik?"
     },
     {
      "zh": "現在請聽討論。",
      "py": "Xiànzài qǐng tīng tǎolùn.",
-     "en": "Now listen to the discussion."
+     "en": "Now listen to the discussion.",
+     "idn": "Sekarang dengarkan diskusinya."
     },
     {
      "zh": "男：我沒看錯吧？垃圾也可以是商品。瑞典竟然向挪威進口垃圾！",
      "py": "Nán: Wǒ méi kàn cuò ba? Lājī yě kěyǐ shì shāngpǐn. Ruìdiǎn jìngrán xiàng Nuówēi jìnkǒu lājī!",
-     "en": "Man: Am I reading this right? Garbage can be a commodity. Sweden is actually importing garbage from Norway!"
+     "en": "Man: Am I reading this right? Garbage can be a commodity. Sweden is actually importing garbage from Norway!",
+     "idn": "Pria: Apa saya tidak salah baca? Sampah bisa jadi komoditas. Swedia ternyata mengimpor sampah dari Norwegia!"
     },
     {
      "zh": "女：這是因為瑞典垃圾分類做得太好了，回收再利用的比例很高，所以能作為燃",
      "py": "Nǚ: Zhè shìyīnwèi Ruìdiǎn lājī fēnlèi zuò de tàihǎole, huíshōu zài lìyòng de bǐlì hěn gāo, suǒyǐ néng zuòwéi rán",
-     "en": "Woman: It's because Sweden sorts its garbage so well and recycles such a high proportion that there isn't enough garbage to burn as fuel"
+     "en": "Woman: It's because Sweden sorts its garbage so well and recycles such a high proportion that there isn't enough garbage to burn as fuel",
+     "idn": "Wanita: Itu karena Swedia memilah sampahnya dengan sangat baik dan tingkat daur ulangnya sangat tinggi, sehingga sampah yang bisa dibakar sebagai bahan bakar"
     },
     {
      "zh": "料的垃圾不夠用來發電。",
      "py": "Liào de lājī búgòu yònglái fādiàn.",
-     "en": "to generate electricity."
+     "en": "to generate electricity.",
+     "idn": "untuk membangkitkan listrik tidak cukup."
     },
     {
      "zh": "男：但是挪威把垃圾出口到瑞典還得先付一筆垃圾處理費，此外，燒完垃圾剩下",
      "py": "Nán: Dànshì Nuówēi bǎ lājī chūkǒu dào Ruìdiǎn hái děi xiānfù yìbǐ lājīchǔlǐ fèi, cǐwài, shāowán lājī shèngxià",
-     "en": "Man: But Norway has to pay a garbage-handling fee to export its garbage to Sweden, and the residue left after burning"
+     "en": "Man: But Norway has to pay a garbage-handling fee to export its garbage to Sweden, and the residue left after burning",
+     "idn": "Pria: Tapi Norwegia harus membayar biaya pengolahan sampah untuk mengekspor sampahnya ke Swedia, dan sisa pembakarannya"
     },
     {
      "zh": "的東西也得自己運回國，這樣對挪威來說好像沒什麼好處。",
      "py": "De Dōngxi yě děi zìjǐ yùn Huíguó, zhèyàng duì Nuówēi láishuō hǎoxiàng méishénme hǎochù.",
-     "en": "has to be shipped back home too. It doesn't seem to do Norway much good."
+     "en": "has to be shipped back home too. It doesn't seem to do Norway much good.",
+     "idn": "juga harus diangkut kembali ke negaranya. Sepertinya tidak terlalu menguntungkan Norwegia."
     },
     {
      "zh": "女：其實瑞典燃燒垃圾的效率是全球第一，如果在挪威處理，費用只會更高。",
      "py": "Nǚ: Qíshí Ruìdiǎn ránshāo lājī de xiàolǜ shì quánqiú dìyī, rúguǒ zài Nuówēi chǔlǐ, fèiyòng zhǐ huì gèng gāo.",
-     "en": "Woman: Actually Sweden's efficiency at burning garbage is the best in the world—handling it in Norway would only cost more."
+     "en": "Woman: Actually Sweden's efficiency at burning garbage is the best in the world—handling it in Norway would only cost more.",
+     "idn": "Wanita: Sebenarnya efisiensi Swedia dalam membakar sampah adalah yang terbaik di dunia—mengolahnya di Norwegia justru lebih mahal."
     },
     {
      "zh": "男：原來如此。不過，我們都知道燃燒垃圾會產生多種有害的物質，利用燃燒垃",
      "py": "Nán: Yuánláirúcǐ. Búguò, wǒmen dōu zhīdào ránshāo lājī huì chǎnshēng duōzhǒng yǒuhài de wùzhì, lìyòng ránshāo lā",
-     "en": "Man: I see. But we all know burning garbage produces many harmful substances. Isn't using burning garbage"
+     "en": "Man: I see. But we all know burning garbage produces many harmful substances. Isn't using burning garbage",
+     "idn": "Pria: Oh begitu. Tapi kita semua tahu membakar sampah menghasilkan banyak zat berbahaya. Bukankah memakai pembakaran sampah"
     },
     {
      "zh": "圾來生產能源，是不是太不環保了？",
      "py": "Jī lái shēngchǎn néngyuán, shìbúshì tài bù huánbǎo le?",
-     "en": "to produce energy rather bad for the environment?"
+     "en": "to produce energy rather bad for the environment?",
+     "idn": "untuk menghasilkan energi agak buruk bagi lingkungan?"
     },
     {
      "zh": "女：這你就不用擔心了。燃燒垃圾後所排放的廢氣，會經過科技方法處理，清除",
      "py": "Nǚ: Zhè nǐ jiù búyòng dānxīn le. Ránshāo lājī hòu suǒ páifàng de fèiqì, huì jīngguò kējì fāngfǎ chǔlǐ, qīngchú",
-     "en": "Woman: You needn't worry about that. The exhaust from burning garbage is treated with technology that removes"
+     "en": "Woman: You needn't worry about that. The exhaust from burning garbage is treated with technology that removes",
+     "idn": "Wanita: Soal itu tidak perlu khawatir. Asap dari pembakaran sampah diolah dengan teknologi yang menghilangkan"
     },
     {
      "zh": "大部分有害的物質，比廚房、烤肉所產生的汙染還要低。況且透過燃燒垃圾",
      "py": "Dàbùfèn yǒuhài de wùzhì, bǐ chúfáng, kǎoròu suǒ chǎnshēng de wūrǎn háiyào dī. Kuàngqiě tòuguò ránshāo lājī",
-     "en": "most of the harmful substances—it's even less polluting than cooking or barbecuing. Besides, electricity from burning garbage"
+     "en": "most of the harmful substances—it's even less polluting than cooking or barbecuing. Besides, electricity from burning garbage",
+     "idn": "sebagian besar zat berbahaya—bahkan lebih sedikit polusinya daripada memasak atau memanggang. Lagi pula, listrik dari pembakaran sampah"
     },
     {
      "zh": "產生的電力屬於再生能源，能有效降低對石油的依賴，這是一個聰明的方",
      "py": "Chǎnshēng de diànlì shǔyú zàishēngnéngyuán, néng yǒuxiào jiàngdī duì shíyóu de yīlài, zhè shì yí ge cōngmíng de fāng",
-     "en": "is renewable energy and can effectively reduce dependence on oil. It's a clever"
+     "en": "is renewable energy and can effectively reduce dependence on oil. It's a clever",
+     "idn": "adalah energi terbarukan dan bisa efektif mengurangi ketergantungan pada minyak bumi. Ini rencana yang"
     },
     {
      "zh": "案。",
      "py": "Àn.",
-     "en": "plan."
+     "en": "plan.",
+     "idn": "(lanjutan) cerdas."
     }
    ],
    "transcript": [
     {
      "zh": "為什麼瑞典需要進口垃圾？",
      "py": "Wèishénme Ruìdiǎn xūyào jìnkǒu lājī?",
-     "en": "Why does Sweden need to import garbage?"
+     "en": "Why does Sweden need to import garbage?",
+     "idn": "Mengapa Swedia perlu mengimpor sampah?"
     }
    ]
   },
@@ -1473,29 +1729,34 @@
     "A": {
      "zh": "因為垃圾賣不了多少錢",
      "py": "Yīnwèi lājī mài bùliǎo duōshǎo qián",
-     "en": "(A) Because garbage doesn't sell for much"
+     "en": "(A) Because garbage doesn't sell for much",
+     "idn": "(A) Karena sampah tidak laku dijual mahal"
     },
     "B": {
      "zh": "因為得負責相關費用及運送",
      "py": "Yīnwèi děi fùzé xiāngguān fèiyòng jí yùnsòng",
-     "en": "(B) Because it has to bear the related fees and transport"
+     "en": "(B) Because it has to bear the related fees and transport",
+     "idn": "(B) Karena harus menanggung biaya terkait dan pengangkutan"
     },
     "C": {
      "zh": "因為垃圾處理費太貴不合理",
      "py": "Yīnwèi lājīchǔlǐ fèi Tàiguì bùhélǐ",
-     "en": "(C) Because the garbage-handling fee is unreasonably high"
+     "en": "(C) Because the garbage-handling fee is unreasonably high",
+     "idn": "(C) Karena biaya pengolahan sampah terlalu tinggi"
     },
     "D": {
      "zh": "因為對方只進口特定的垃圾",
      "py": "Yīnwèi duìfāng zhǐ jìnkǒu tèdìng de lājī",
-     "en": "(D) Because the other side only imports certain garbage"
+     "en": "(D) Because the other side only imports certain garbage",
+     "idn": "(D) Karena pihak lain hanya mengimpor sampah tertentu"
     }
    },
    "transcript": [
     {
      "zh": "為什麼這位先生覺得這個合作方案對挪威沒有好處？",
      "py": "Wèishénme zhèwèi xiānsheng juéde zhè ge hézuò fāng'àn duì Nuówēi méiyǒu hǎochù?",
-     "en": "Why does the man think this arrangement does Norway no good?"
+     "en": "Why does the man think this arrangement does Norway no good?",
+     "idn": "Mengapa pria itu merasa cara ini tidak menguntungkan Norwegia?"
     }
    ]
   },
@@ -1504,29 +1765,34 @@
     "A": {
      "zh": "處理廢氣的技術相當完善",
      "py": "Chǔlǐ fèiqì de jìshù xiāngdāng wánshàn",
-     "en": "(A) The technology for treating exhaust is quite advanced."
+     "en": "(A) The technology for treating exhaust is quite advanced.",
+     "idn": "(A) Teknologi pengolahan asapnya cukup maju."
     },
     "B": {
      "zh": "認為石油更適合用來發電",
      "py": "Rènwéi shíyóu gèng shìhé yònglái fādiàn",
-     "en": "(B) She thinks oil is better for generating electricity."
+     "en": "(B) She thinks oil is better for generating electricity.",
+     "idn": "(B) Dia merasa minyak bumi lebih baik untuk membangkitkan listrik."
     },
     "C": {
      "zh": "反而會製造出更多汙染物質",
      "py": "Fǎn'ér huì zhìzào chū gèng duō wūrǎn wùzhì",
-     "en": "(C) It actually creates more pollutants."
+     "en": "(C) It actually creates more pollutants.",
+     "idn": "(C) Justru menghasilkan lebih banyak polutan."
     },
     "D": {
      "zh": "應該尋找更乾淨的發電方法",
      "py": "Yīnggāi xúnzhǎo gèng gānjìng de fādiàn fāngfǎ",
-     "en": "(D) A cleaner way of generating electricity should be found."
+     "en": "(D) A cleaner way of generating electricity should be found.",
+     "idn": "(D) Sebaiknya dicari cara membangkitkan listrik yang lebih bersih."
     }
    },
    "transcript": [
     {
      "zh": "這位小姐對瑞典的發電方式，有什麼看法？",
      "py": "Zhèwèi Xiǎojiě duì Ruìdiǎn de fādiàn fāngshì, yǒu shénme kànfǎ?",
-     "en": "What does the woman think about Sweden's way of generating electricity?"
+     "en": "What does the woman think about Sweden's way of generating electricity?",
+     "idn": "Bagaimana pendapat wanita itu tentang cara Swedia membangkitkan listrik?"
     }
    ]
   },
@@ -1535,56 +1801,66 @@
     "A": {
      "zh": "找石頭",
      "py": "Zhǎo shítou",
-     "en": "(A) Looking for stones"
+     "en": "(A) Looking for stones",
+     "idn": "(A) Mencari batu"
     },
     "B": {
      "zh": "算數學",
      "py": "Suàn shùxué",
-     "en": "(B) Doing math"
+     "en": "(B) Doing math",
+     "idn": "(B) Mengerjakan matematika"
     },
     "C": {
      "zh": "做運動",
      "py": "Zuò yùndòng",
-     "en": "(C) Doing sports"
+     "en": "(C) Doing sports",
+     "idn": "(C) Berolahraga"
     },
     "D": {
      "zh": "打電動",
      "py": "Dǎ diàndòng",
-     "en": "(D) Playing video games"
+     "en": "(D) Playing video games",
+     "idn": "(D) Bermain gim"
     }
    },
    "intro": [
     {
      "zh": "請聽李大華的自我介紹，然後回答兩個問題。",
      "py": "Qǐng tīng Lǐ Dàhuá de zìwǒjièshào, ránhòu huídá liǎng ge wèntí.",
-     "en": "Listen to Li Dahua introducing himself and then answer the two questions."
+     "en": "Listen to Li Dahua introducing himself and then answer the two questions.",
+     "idn": "Dengarkan perkenalan diri Li Dahua ini, lalu jawab dua pertanyaan."
     },
     {
      "zh": "各位同學大家好，我叫李大華，我原本住在臺南，後來由於父親工作的緣故，",
      "py": "Gèwèi tóngxué dàjiā hǎo, wǒ jiào Lǐ Dàhuá, wǒ yuánběn zhù zài Táinán, hòulái yóuyú fùqīn gōngzuò de yuángù,",
-     "en": "Hello, everyone. My name is Li Dahua. I originally lived in Tainan; later, because of my father's work,"
+     "en": "Hello, everyone. My name is Li Dahua. I originally lived in Tainan; later, because of my father's work,",
+     "idn": "Halo semuanya. Nama saya Li Dahua. Awalnya saya tinggal di Tainan; kemudian karena pekerjaan ayah saya,"
     },
     {
      "zh": "搬到高雄跟臺北，之後才從臺北搬到臺中來上課。我的興趣是運動，除了運動還",
      "py": "Bāndào gāoxióng gēn Táiběi, zhīhòu cái cóng Táiběi bāndào táizhōng lái shàngkè. Wǒ de xìngqù shì yùndòng, chúle yùndòng hái",
-     "en": "we moved to Kaohsiung and Taipei, and then from Taipei to Taichung, where I'm now going to school. My hobby is sports; besides sports I also"
+     "en": "we moved to Kaohsiung and Taipei, and then from Taipei to Taichung, where I'm now going to school. My hobby is sports; besides sports I also",
+     "idn": "kami pindah ke Kaohsiung dan Taipei, lalu dari Taipei ke Taichung, tempat saya sekarang bersekolah. Hobi saya olahraga; selain olahraga saya juga"
     },
     {
      "zh": "喜歡收藏石頭，對玩電腦遊戲也很有興趣，但數學就讓我很頭痛了。我剛到這個",
      "py": "Xǐhuān shōucáng shítou, duì wán diànnǎoyóuxì yě hěn yǒu xìngqù, dàn shùxué jiùràng wǒ hěn tóutòng le. Wǒ gāng dào zhè ge",
-     "en": "like collecting stones and I'm very interested in computer games, but math gives me a real headache. I've just come to this"
+     "en": "like collecting stones and I'm very interested in computer games, but math gives me a real headache. I've just come to this",
+     "idn": "suka mengoleksi batu dan sangat tertarik pada permainan komputer, tapi matematika membuat saya pusing. Saya baru masuk ke"
     },
     {
      "zh": "學校來，很多事都不了解，請大家多跟我分享。",
      "py": "Xuéxiào lái, hěnduō shì dōu bù liǎojiě, qǐng dàjiā duō gēn wǒ fēnxiǎng.",
-     "en": "school and don't know a lot of things, so please share with me."
+     "en": "school and don't know a lot of things, so please share with me.",
+     "idn": "sekolah ini dan belum tahu banyak hal, jadi mohon bimbingannya."
     }
    ],
    "transcript": [
     {
      "zh": "李大華覺得什麼事情對他來說很困難？",
      "py": "Lǐ Dàhuá juéde shénme shìqing duì tā láishuō hěn kùnnán?",
-     "en": "What does Li Dahua find difficult?"
+     "en": "What does Li Dahua find difficult?",
+     "idn": "Apa yang dianggap sulit oleh Li Dahua?"
     }
    ]
   },
@@ -1593,29 +1869,34 @@
     "A": {
      "zh": "李大華是這個班的新學生",
      "py": "Lǐ Dàhuá shì zhè ge bān de xīn xuéshēng",
-     "en": "(A) Li Dahua is a new student in this class."
+     "en": "(A) Li Dahua is a new student in this class.",
+     "idn": "(A) Li Dahua murid baru di kelas ini."
     },
     "B": {
      "zh": "李大華身體不好，常常頭痛",
      "py": "Lǐ Dàhuá shēntǐ bùhǎo, chángcháng tóutòng",
-     "en": "(B) Li Dahua is in poor health and often has headaches."
+     "en": "(B) Li Dahua is in poor health and often has headaches.",
+     "idn": "(B) Kesehatan Li Dahua kurang baik dan dia sering sakit kepala."
     },
     "C": {
      "zh": "李大華希望大家教他寫作業",
      "py": "Lǐ Dàhuá xīwàng dàjiā jiāo tā xiě zuòyè",
-     "en": "(C) Li Dahua hopes everyone will teach him to do homework."
+     "en": "(C) Li Dahua hopes everyone will teach him to do homework.",
+     "idn": "(C) Li Dahua berharap semua orang mengajarinya mengerjakan PR."
     },
     "D": {
      "zh": "李大華的爸爸為了他而搬家",
      "py": "Lǐ Dàhuá de bàba wèile tā ér bānjiā",
-     "en": "(D) Li Dahua's father moved house for his sake."
+     "en": "(D) Li Dahua's father moved house for his sake.",
+     "idn": "(D) Ayah Li Dahua pindah rumah demi dia."
     }
    },
    "transcript": [
     {
      "zh": "下面哪一句話是對的？",
      "py": "Xiàmiàn nǎ yíjù huà shì duì de?",
-     "en": "Which of the following is correct?"
+     "en": "Which of the following is correct?",
+     "idn": "Manakah pernyataan berikut yang benar?"
     }
    ]
   },
@@ -1624,71 +1905,84 @@
     "A": {
      "zh": "電子票券",
      "py": "Diànzi piàoquàn",
-     "en": "(A) E-tickets"
+     "en": "(A) E-tickets",
+     "idn": "(A) Tiket elektronik"
     },
     "B": {
      "zh": "親子票券",
      "py": "Qīnzǐ piàoquàn",
-     "en": "(B) Parent-and-child tickets"
+     "en": "(B) Parent-and-child tickets",
+     "idn": "(B) Tiket orang tua-anak"
     },
     "C": {
      "zh": "紙本站票",
      "py": "Zhǐběn zhànpiào",
-     "en": "(C) Paper standing tickets"
+     "en": "(C) Paper standing tickets",
+     "idn": "(C) Tiket berdiri kertas"
     },
     "D": {
      "zh": "團體票券",
      "py": "Tuántǐ piàoquàn",
-     "en": "(D) Group tickets"
+     "en": "(D) Group tickets",
+     "idn": "(D) Tiket rombongan"
     }
    },
    "intro": [
     {
      "zh": "請聽這一段火車開車前的廣播，然後回答兩個問題。",
      "py": "Qǐng tīng zhè yíduàn huǒchē kāichē qián de guǎngbō, ránhòu huídá liǎng ge wèntí.",
-     "en": "Listen to this announcement before a train departs and then answer the two questions."
+     "en": "Listen to this announcement before a train departs and then answer the two questions.",
+     "idn": "Dengarkan pengumuman sebelum kereta berangkat ini, lalu jawab dua pertanyaan."
     },
     {
      "zh": "各位旅客您好，這是車長廣播。本班車為第 74 號班車，本班車開車後，直",
      "py": "Gèwèi lǚkè nínhǎo, zhè shì chēzhǎng guǎngbō. Běn bānchē wéi dì 74 hào bānchē, běn bānchē kāichē hòu, zhí",
-     "en": "Good day, passengers. This is the conductor speaking. This is train No. 74. After departure, this train goes directly"
+     "en": "Good day, passengers. This is the conductor speaking. This is train No. 74. After departure, this train goes directly",
+     "idn": "Selamat siang, para penumpang. Di sini kondektur yang berbicara. Ini kereta nomor 74. Setelah berangkat, kereta ini langsung"
     },
     {
      "zh": "接到達終點站，中間不停靠其他車站。",
      "py": "Jiēdào dá zhōngdiǎnzhàn, zhōngjiān bù tíngkào qítā chēzhàn.",
-     "en": "to the terminal without stopping at any other stations."
+     "en": "to the terminal without stopping at any other stations.",
+     "idn": "menuju stasiun akhir tanpa berhenti di stasiun lain."
     },
     {
      "zh": "本班車僅開放個人座位訂票，不接受站票，也不接受電子票，購買親子座位",
      "py": "Běn bānchē jǐn kāifàng gèrén zuòwèi dìngpiào, bù jiēshòu zhànpiào, yě bù jiēshòu diànzi piào, gòumǎi qīnzǐ zuòwèi",
-     "en": "This train only accepts reserved individual seats; standing tickets and e-tickets are not accepted. Passengers who bought parent-and-child"
+     "en": "This train only accepts reserved individual seats; standing tickets and e-tickets are not accepted. Passengers who bought parent-and-child",
+     "idn": "Kereta ini hanya menerima tiket kursi perorangan yang sudah dipesan; tiket berdiri dan tiket elektronik tidak diterima. Penumpang yang membeli tiket kursi"
     },
     {
      "zh": "的遊客，請至第一節車廂上車。如果您沒有購買本班車的坐票，請您不要上車，",
      "py": "De yóukè, qǐng zhì dìyìjié chēxiāng shàngchē. Rúguǒ nín méiyǒu gòumǎi běn bānchē de zuòpiào, qǐng nín búyào shàngchē,",
-     "en": "seats, please board car 1. If you haven't bought a seat ticket for this train, please don't board,"
+     "en": "seats, please board car 1. If you haven't bought a seat ticket for this train, please don't board,",
+     "idn": "orang tua-anak, silakan naik ke gerbong 1. Jika Anda belum membeli tiket kursi kereta ini, mohon jangan naik,"
     },
     {
      "zh": "否則列車長將按照規定，加收百分之五十的費用。",
      "py": "Fǒuzé lièchēzhǎng jiāng ànzhào guīdìng, jiāshōu bǎifēnzhīwǔshí de fèiyòng.",
-     "en": "or the conductor will charge an extra 50% according to the regulations."
+     "en": "or the conductor will charge an extra 50% according to the regulations.",
+     "idn": "kalau tidak kondektur akan menagih tambahan 50% sesuai peraturan."
     },
     {
      "zh": "本班車不提供免費網路。此外，各車廂附有飲水機和洗手間，服務人員將在",
      "py": "Běn bānchē bù tígōng miǎnfèi wǎnglù. Cǐwài, gèchēxiāng fùyǒu yǐnshuǐjī hé xǐshǒujiān, fúwù rényuán jiāng zài",
-     "en": "This train doesn't provide free internet. In addition, each car has a water dispenser and restroom, and staff will"
+     "en": "This train doesn't provide free internet. In addition, each car has a water dispenser and restroom, and staff will",
+     "idn": "Kereta ini tidak menyediakan internet gratis. Selain itu, setiap gerbong ada dispenser air minum dan toilet, dan petugas akan"
     },
     {
      "zh": "第九節車廂販賣點心、飲料和紀念品，歡迎各位旅客前往購買。",
      "py": "Dìjiǔjié chēxiāng fànmài diǎnxīn, yǐnliào hé jìniànpǐn, huānyíng gèwèi lǚkè qiánwǎng gòumǎi.",
-     "en": "sell snacks, drinks and souvenirs in car 9. You're welcome to go and buy them."
+     "en": "sell snacks, drinks and souvenirs in car 9. You're welcome to go and buy them.",
+     "idn": "menjual camilan, minuman, dan suvenir di gerbong 9. Silakan membeli."
     }
    ],
    "transcript": [
     {
      "zh": "乘客使用下列哪種票券可以搭乘第 74 號班車？",
      "py": "Chéngkè shǐyòng xiàliè nǎ zhǒng piàoquàn kěyǐ dāchéng dì 74 hào bānchē?",
-     "en": "Which ticket allows a passenger to take train No. 74?"
+     "en": "Which ticket allows a passenger to take train No. 74?",
+     "idn": "Tiket mana yang memungkinkan penumpang naik kereta nomor 74?"
     }
    ]
   },
@@ -1697,29 +1991,34 @@
     "A": {
      "zh": "在座位上購買餐點",
      "py": "Zài zuòwèi shàng gòumǎi cāndiǎn",
-     "en": "(A) Buy meals at their seat"
+     "en": "(A) Buy meals at their seat",
+     "idn": "(A) Membeli makanan di tempat duduk"
     },
     "B": {
      "zh": "使用機器購買紀念品",
      "py": "Shǐyòng jīqì gòumǎi jìniànpǐn",
-     "en": "(B) Buy souvenirs from a machine"
+     "en": "(B) Buy souvenirs from a machine",
+     "idn": "(B) Membeli suvenir dari mesin"
     },
     "C": {
      "zh": "享用火車上提供的水",
      "py": "Xiǎngyòng huǒchē shàng tígōng de shuǐ",
-     "en": "(C) Have water provided on the train"
+     "en": "(C) Have water provided on the train",
+     "idn": "(C) Mendapat air minum di kereta"
     },
     "D": {
      "zh": "免費使用車上的網路",
      "py": "Miǎnfèi shǐyòng chēshàng de wǎnglù",
-     "en": "(D) Use the onboard internet for free"
+     "en": "(D) Use the onboard internet for free",
+     "idn": "(D) Memakai internet di kereta secara gratis"
     }
    },
    "transcript": [
     {
      "zh": "搭乘此班車，旅客能做哪件事？",
      "py": "Dāchéng cǐ bānchē, lǚkè néng zuò nǎjiàn shì?",
-     "en": "What can passengers do on this train?"
+     "en": "What can passengers do on this train?",
+     "idn": "Apa yang bisa dilakukan penumpang di kereta ini?"
     }
    ]
   },
@@ -1728,71 +2027,84 @@
     "A": {
      "zh": "旅行費用有一點高",
      "py": "Lǚxíng fèiyòng yǒu yìdiǎn gāo",
-     "en": "(A) The trip was a bit expensive."
+     "en": "(A) The trip was a bit expensive.",
+     "idn": "(A) Perjalanannya agak mahal."
     },
     "B": {
      "zh": "旅行的過程需要轉機",
      "py": "Lǚxíng de guòchéng xūyào zhuǎnjī",
-     "en": "(B) The trip required changing flights."
+     "en": "(B) The trip required changing flights.",
+     "idn": "(B) Perjalanannya harus berganti pesawat."
     },
     "C": {
      "zh": "說話者原本十分期待",
      "py": "Shuōhuà zhě yuánběn shífēn qīdài",
-     "en": "(C) The speaker was originally really looking forward to it."
+     "en": "(C) The speaker was originally really looking forward to it.",
+     "idn": "(C) Pembicara awalnya sangat menantikannya."
     },
     "D": {
      "zh": "說話者和家人一起參加",
      "py": "Shuōhuà zhě hé jiārén yìqǐ cānjiā",
-     "en": "(D) The speaker went with family."
+     "en": "(D) The speaker went with family.",
+     "idn": "(D) Pembicara pergi bersama keluarga."
     }
    },
    "intro": [
     {
      "zh": "請聽這一段出國旅遊的心得，然後回答兩個問題。",
      "py": "Qǐng tīng zhè yíduàn chūguó lǚyóu de xīndé, ránhòu huídá liǎng ge wèntí.",
-     "en": "Listen to these reflections on a trip abroad and then answer the two questions."
+     "en": "Listen to these reflections on a trip abroad and then answer the two questions.",
+     "idn": "Dengarkan kesan perjalanan ke luar negeri ini, lalu jawab dua pertanyaan."
     },
     {
      "zh": "上個月五號是我這輩子第一次自己出國玩。我會參加這個旅行團，是因為除",
      "py": "Shànggèyuè wǔhào shì wǒ zhèbèizi dìyícì zìjǐ chūguó wán. Wǒhuì cānjiā zhè ge lǚxíngtuán, shìyīnwèi chú",
-     "en": "On the fifth of last month I traveled abroad on my own for the first time in my life. I joined this tour because,"
+     "en": "On the fifth of last month I traveled abroad on my own for the first time in my life. I joined this tour because,",
+     "idn": "Tanggal lima bulan lalu untuk pertama kalinya dalam hidup saya berwisata ke luar negeri sendirian. Saya ikut tur ini karena,"
     },
     {
      "zh": "了能一次去兩個國家玩，還能在船上吃喝玩樂和欣賞精彩的表演。另外，旅遊行",
      "py": "Lenéng yícì qù liǎng ge guójiā wán, hái néng zài chuánshàng chīhēwánlè hé xīnshǎng jīngcǎi de biǎoyǎn. Lìngwài, lǚyóu xíng",
-     "en": "besides visiting two countries in one trip, I could eat, drink, have fun and watch great shows on the ship. Also, the itinerary"
+     "en": "besides visiting two countries in one trip, I could eat, drink, have fun and watch great shows on the ship. Also, the itinerary",
+     "idn": "selain mengunjungi dua negara dalam satu perjalanan, saya bisa makan, minum, bersenang-senang, dan menonton pertunjukan seru di kapal. Selain itu, rencana perjalanannya"
     },
     {
      "zh": "程豐富，所有的費用也只要一萬多，讓我還沒上船就非常興奮。",
      "py": "Chéng fēngfù, suǒyǒu de fèiyòng yě zhǐyào yíwànduō, ràng wǒ hái méi shàngchuán jiù fēicháng xīngfèn.",
-     "en": "was rich and the whole thing cost only a bit over ten thousand, so I was very excited even before boarding."
+     "en": "was rich and the whole thing cost only a bit over ten thousand, so I was very excited even before boarding.",
+     "idn": "padat dan seluruh biayanya hanya sedikit di atas sepuluh ribu, jadi sebelum naik kapal pun saya sudah sangat bersemangat."
     },
     {
      "zh": "上船後，我發現船上房間小但很舒適。不過，旅客和工作人員共有兩千多個",
      "py": "Shàngchuán hòu, wǒ fāxiàn chuánshàng fángjiān xiǎo dàn hěn shūshì. Búguò, lǚkè hé gōngzuòrényuán gòngyǒu liǎngqiānduō ge",
-     "en": "Once on board, I found the cabins small but comfortable. But there were over two thousand passengers and crew,"
+     "en": "Once on board, I found the cabins small but comfortable. But there were over two thousand passengers and crew,",
+     "idn": "Begitu naik kapal, saya mendapati kabinnya kecil tetapi nyaman. Tapi penumpang dan awak kapalnya lebih dari dua ribu orang,"
     },
     {
      "zh": "人，不管要吃飯還是看表演，都要排隊搶位子；船上的游泳池更總是擠滿了愛玩",
      "py": "Rén, bùguǎn yào chīfàn háishì kàn biǎoyǎn, dōu yào páiduì qiǎng wèizi; chuánshàng de yóuyǒngchí gèng zǒngshì jǐmǎn le àiwán",
-     "en": "so whether eating or watching a show, you had to queue and fight for seats; the ship's swimming pool was always packed with kids"
+     "en": "so whether eating or watching a show, you had to queue and fight for seats; the ship's swimming pool was always packed with kids",
+     "idn": "jadi baik makan maupun menonton pertunjukan, harus mengantre dan berebut tempat duduk; kolam renang kapal selalu penuh anak-anak"
     },
     {
      "zh": "水的孩子，害我不能游泳；連下船去玩也要先排隊，而且下船後能參觀的時間也",
      "py": "Shuǐ de háizi, hài wǒ bùnéng yóuyǒng; Lián xiàchuán qù wán yě yào xiān páiduì, érqiě xiàchuán hòu néng cānguān de shíjiān yě",
-     "en": "playing in the water, so I couldn't swim; even getting off the ship to sightsee meant queuing first, and once off there wasn't"
+     "en": "playing in the water, so I couldn't swim; even getting off the ship to sightsee meant queuing first, and once off there wasn't",
+     "idn": "bermain air, sehingga saya tidak bisa berenang; bahkan turun kapal untuk bertamasya pun harus mengantre dulu, dan setelah turun tidak ada"
     },
     {
      "zh": "不多。我真的覺得這個錢花得不值得啊。",
      "py": "Bù duō. Wǒ zhēnde juéde zhè ge qián huā de bù zhíde a.",
-     "en": "much time to look around. I really feel the money wasn't well spent."
+     "en": "much time to look around. I really feel the money wasn't well spent.",
+     "idn": "banyak waktu untuk melihat-lihat. Saya benar-benar merasa uangnya tidak sepadan."
     }
    ],
    "transcript": [
     {
      "zh": "關於這次的旅行，下面哪個是對的？",
      "py": "Guānyú zhècì de lǚxíng, xiàmiàn nǎ ge shì duì de?",
-     "en": "About this trip, which of the following is correct?"
+     "en": "About this trip, which of the following is correct?",
+     "idn": "Mengenai perjalanan ini, manakah pernyataan berikut yang benar?"
     }
    ]
   },
@@ -1801,29 +2113,34 @@
     "A": {
      "zh": "他的房間太小",
      "py": "Tā de fángjiān tàixiǎo",
-     "en": "(A) His cabin was too small."
+     "en": "(A) His cabin was too small.",
+     "idn": "(A) Kabinnya terlalu kecil."
     },
     "B": {
      "zh": "必須一直排隊",
      "py": "Bìxū yìzhí páiduì",
-     "en": "(B) He had to queue constantly."
+     "en": "(B) He had to queue constantly.",
+     "idn": "(B) Dia harus terus-menerus mengantre."
     },
     "C": {
      "zh": "游泳池的水很髒",
      "py": "Yóuyǒngchí de shuǐ hěnzāng",
-     "en": "(C) The pool water was dirty."
+     "en": "(C) The pool water was dirty.",
+     "idn": "(C) Air kolam renangnya kotor."
     },
     "D": {
      "zh": "搭船的時間太短",
      "py": "Dāchuán de shíjiān tàiduǎn",
-     "en": "(D) The voyage was too short."
+     "en": "(D) The voyage was too short.",
+     "idn": "(D) Pelayarannya terlalu singkat."
     }
    },
    "transcript": [
     {
      "zh": "說話的人因為哪一件事覺得不開心？",
      "py": "Shuōhuà de rén yīnwèi nǎ yíjiàn shì juéde bù kāixīn?",
-     "en": "What made the speaker unhappy?"
+     "en": "What made the speaker unhappy?",
+     "idn": "Apa yang membuat pembicara tidak senang?"
     }
    ]
   },
@@ -1832,61 +2149,72 @@
     "A": {
      "zh": "到地下一樓玩遊戲",
      "py": "Dào dìxià yìlóu wányóuxì",
-     "en": "(A) Go to the basement to play games."
+     "en": "(A) Go to the basement to play games.",
+     "idn": "(A) Pergi ke lantai basemen untuk bermain gim."
     },
     "B": {
      "zh": "到五樓輸入手機號碼",
      "py": "Dào wǔ lóu shūrù shǒujīhàomǎ",
-     "en": "(B) Go to the fifth floor and enter your phone number."
+     "en": "(B) Go to the fifth floor and enter your phone number.",
+     "idn": "(B) Pergi ke lantai lima dan memasukkan nomor telepon."
     },
     "C": {
      "zh": "報名參加商店舉辦的活動",
      "py": "Bàomíng cānjiā shāngdiàn jǔbàn de huódòng",
-     "en": "(C) Sign up for the store's event."
+     "en": "(C) Sign up for the store's event.",
+     "idn": "(C) Mendaftar acara toko."
     },
     "D": {
      "zh": "拿今天的消費證明到櫃臺",
      "py": "Ná jīntiān de xiāofèi zhèngmíng dào guìtái",
-     "en": "(D) Take proof of today's purchase to the counter."
+     "en": "(D) Take proof of today's purchase to the counter.",
+     "idn": "(D) Membawa bukti belanja hari ini ke loket."
     }
    },
    "intro": [
     {
      "zh": "請聽這段有關商店慶祝周年慶的廣播，然後回答兩個問題。",
      "py": "Qǐng tīng zhèduàn yǒuguān shāngdiàn qìngzhù zhōunián qìng de guǎngbō, ránhòu huídá liǎng ge wèntí.",
-     "en": "Listen to this store announcement celebrating its anniversary and then answer the two questions."
+     "en": "Listen to this store announcement celebrating its anniversary and then answer the two questions.",
+     "idn": "Dengarkan pengumuman toko yang merayakan hari jadinya ini, lalu jawab dua pertanyaan."
     },
     {
      "zh": "感謝各位光臨本店，今天為慶祝本店營業滿十年，每位顧客只要消費，不論",
      "py": "Gǎnxiè gèwèi guānglín běndiàn, jīntiān wèi qìngzhù běndiàn yíngyè mǎn shínián, měiwèi Gùkè zhǐyào xiāofèi, búlùn",
-     "en": "Thank you for visiting our store. Today, to celebrate our tenth anniversary, every customer who makes a purchase, whatever"
+     "en": "Thank you for visiting our store. Today, to celebrate our tenth anniversary, every customer who makes a purchase, whatever",
+     "idn": "Terima kasih telah berkunjung ke toko kami. Hari ini, untuk merayakan ulang tahun kesepuluh kami, setiap pelanggan yang berbelanja, berapa pun"
     },
     {
      "zh": "金額多少，憑本日收據到五樓服務櫃臺，就能獲得本店贈送的紀念杯組。前一百",
      "py": "Jīn'é duōshǎo, píng běnrì shōujù dào wǔ lóu fúwù guìtái, jiù néng huòdé běndiàn zèngsòng de jìniàn bēizǔ. Qián yìbǎi",
-     "en": "the amount, can bring today's receipt to the service counter on the fifth floor to receive a commemorative cup set. The first hundred"
+     "en": "the amount, can bring today's receipt to the service counter on the fifth floor to receive a commemorative cup set. The first hundred",
+     "idn": "jumlahnya, bisa membawa struk hari ini ke loket layanan di lantai lima untuk menerima satu set cangkir peringatan. Seratus pelanggan"
     },
     {
      "zh": "名顧客還有機會抽到電腦、手機等大獎。地下一樓也有額外的慶祝活動，「玩遊",
      "py": "Míng Gùkè háiyǒu jīhuì chōudào diànnǎo, shǒujī děng Dàjiǎng. Dìxià yìlóu yě yǒu éwài de qìngzhù huódòng, “Wányóu",
-     "en": "customers also have a chance to win big prizes such as computers and mobile phones. There's also an extra celebration in the basement, \"Play games,"
+     "en": "customers also have a chance to win big prizes such as computers and mobile phones. There's also an extra celebration in the basement, \"Play games,",
+     "idn": "pertama juga berkesempatan memenangkan hadiah besar seperti komputer dan ponsel. Ada juga perayaan tambahan di lantai basemen, \"Main gim,"
     },
     {
      "zh": "戲，贏現金」，不管您是否消費，都歡迎參與。另外，本店各樓都有折扣活動，",
      "py": "Xì, yíng xiànjīn”, bùguǎn nín shìfǒu xiāofèi, dōu huānyíng cānyù. Lìngwài, běndiàn gè lóu dōu yǒu zhékòu huódòng,",
-     "en": "win cash\"—everyone is welcome to take part whether or not you've made a purchase. In addition, there are discounts on every floor,"
+     "en": "win cash\"—everyone is welcome to take part whether or not you've made a purchase. In addition, there are discounts on every floor,",
+     "idn": "menangkan uang tunai\"—semua orang boleh ikut baik sudah berbelanja maupun belum. Selain itu, ada diskon di setiap lantai,"
     },
     {
      "zh": "歡迎參觀購買，祝您購物愉快。",
      "py": "Huānyíng cānguān gòumǎi, Zhùnín gòuwù yúkuài.",
-     "en": "so please browse and buy. Happy shopping!"
+     "en": "so please browse and buy. Happy shopping!",
+     "idn": "silakan melihat-lihat dan berbelanja. Selamat berbelanja!"
     }
    ],
    "transcript": [
     {
      "zh": "根據廣播，怎麼樣可以拿到「紀念杯組」？",
      "py": "Gēnjù guǎngbō, zěnmeyàng kěyǐ nádào “Jìniàn bēizǔ”?",
-     "en": "According to the announcement, how can you get the \"commemorative cup set\"?"
+     "en": "According to the announcement, how can you get the \"commemorative cup set\"?",
+     "idn": "Menurut pengumuman ini, bagaimana cara mendapatkan \"set cangkir peringatan\"?"
     }
    ]
   },
@@ -1895,29 +2223,34 @@
     "A": {
      "zh": "今天來店消費就送現金",
      "py": "Jīntiān lái diàn xiāofèi jiù sòng xiànjīn",
-     "en": "(A) Shopping at the store today gets you cash."
+     "en": "(A) Shopping at the store today gets you cash.",
+     "idn": "(A) Berbelanja di toko hari ini mendapat uang tunai."
     },
     "B": {
      "zh": "今天的大獎已經送完了",
      "py": "Jīntiān de Dàjiǎng yǐjīng sòngwán le",
-     "en": "(B) Today's big prizes have all been given out."
+     "en": "(B) Today's big prizes have all been given out.",
+     "idn": "(B) Hadiah besar hari ini sudah habis dibagikan."
     },
     "C": {
      "zh": "來店的顧客都能參加遊戲",
      "py": "Láidiàn de Gùkè dōu néng cānjiā yóuxì",
-     "en": "(C) All customers in the store can take part in the games."
+     "en": "(C) All customers in the store can take part in the games.",
+     "idn": "(C) Semua pelanggan di toko boleh ikut permainan."
     },
     "D": {
      "zh": "只有部分樓層有特別折扣",
      "py": "Zhǐyǒu bùfèn lóucéng yǒu tèbié zhékòu",
-     "en": "(D) Only some floors have special discounts."
+     "en": "(D) Only some floors have special discounts.",
+     "idn": "(D) Hanya beberapa lantai yang ada diskon khusus."
     }
    },
    "transcript": [
     {
      "zh": "根據廣播，下面哪一個是對的？",
      "py": "Gēnjù guǎngbō, xiàmiàn nǎ yí ge shì duì de?",
-     "en": "According to the announcement, which of the following is correct?"
+     "en": "According to the announcement, which of the following is correct?",
+     "idn": "Menurut pengumuman ini, manakah pernyataan berikut yang benar?"
     }
    ]
   },
@@ -1926,66 +2259,78 @@
     "A": {
      "zh": "讓等待變有趣",
      "py": "Ràng děngdài biàn yǒuqù",
-     "en": "(A) To make waiting fun"
+     "en": "(A) To make waiting fun",
+     "idn": "(A) Agar menunggu jadi menyenangkan"
     },
     "B": {
      "zh": "增加車站的收入",
      "py": "Zēngjiā chēzhàn de shōurù",
-     "en": "(B) To increase the station's income"
+     "en": "(B) To increase the station's income",
+     "idn": "(B) Untuk menambah pendapatan stasiun"
     },
     "C": {
      "zh": "希望提高閱讀風氣",
      "py": "Xīwàng tígāo yuèdú fēngqì",
-     "en": "(C) To promote reading"
+     "en": "(C) To promote reading",
+     "idn": "(C) Untuk menggalakkan membaca"
     },
     "D": {
      "zh": "請讀者選出最有意思的故事",
      "py": "Qǐng dúzhě xuǎnchū zuì yǒuyìsi de gùshì",
-     "en": "(D) To ask readers to choose the most interesting story"
+     "en": "(D) To ask readers to choose the most interesting story",
+     "idn": "(D) Untuk meminta pembaca memilih cerita paling menarik"
     }
    },
    "intro": [
     {
      "zh": "請聽這段與地鐵站有關的介紹，然後回答兩個問題。",
      "py": "Qǐng tīng zhèduàn yǔ dìtiězhàn yǒuguān de jièshào, ránhòu huídá liǎng ge wèntí.",
-     "en": "Listen to this introduction about subway stations and then answer the two questions."
+     "en": "Listen to this introduction about subway stations and then answer the two questions.",
+     "idn": "Dengarkan perkenalan tentang stasiun kereta bawah tanah ini, lalu jawab dua pertanyaan."
     },
     {
      "zh": "大家對自動販賣機應該不陌生，是一台專門賣飲料、零食的機器，只要投下",
      "py": "Dàjiā duì zìdòng fànmàijī yīnggāi bú mòshēng, shì yìtái zhuānmén mài yǐnliào, língshí de jīqì, zhǐyào tóu xià",
-     "en": "Everyone should be familiar with vending machines—machines that sell drinks and snacks. Just put in"
+     "en": "Everyone should be familiar with vending machines—machines that sell drinks and snacks. Just put in",
+     "idn": "Semua orang pasti sudah akrab dengan mesin penjual otomatis—mesin yang menjual minuman dan camilan. Cukup masukkan"
     },
     {
      "zh": "零錢，按下按鍵，就能買到你想要的東西。最近英國的地鐵站設置了一部特別的",
      "py": "Língqián, àn xià ànjiàn, jiù néng mǎidào nǐ xiǎngyào de Dōngxi. Zuìjìn Yīngguó de dìtiězhàn shèzhì le yíbù tèbié de",
-     "en": "coins, press a button, and you get what you want. Recently a British subway station installed a special"
+     "en": "coins, press a button, and you get what you want. Recently a British subway station installed a special",
+     "idn": "koin, tekan tombol, dan kamu mendapat yang kamu inginkan. Belakangan sebuah stasiun kereta bawah tanah di Inggris memasang mesin penjual"
     },
     {
      "zh": "自動販賣機，不需要投錢，只要按下按鍵，乘客就能得到一則免費的小故事。這",
      "py": "Zìdòng fànmàijī, bù xūyào tóuqián, zhǐyào àn xià ànjiàn, chéngkè jiù néng dédào yìzé miǎnfèi de xiǎo gùshì. Zhè",
-     "en": "vending machine: you don't need to put in money; just press a button and passengers get a free short story. This"
+     "en": "vending machine: you don't need to put in money; just press a button and passengers get a free short story. This",
+     "idn": "otomatis yang istimewa: tidak perlu memasukkan uang; cukup tekan tombol dan penumpang mendapat sebuah cerita pendek gratis. \"Mesin"
     },
     {
      "zh": "個「故事販賣機」提供三種長度的故事，分別有一分鐘、三分鐘和五分鐘，總共",
      "py": "Gè “Gùshì fànmàijī” tígōng sānzhǒng Chángdù de gùshì, fēnbié yǒu yìfēnzhōng, sānfēnzhōng hé wǔfēnzhōng, zǒnggòng",
-     "en": "\"story vending machine\" offers stories of three lengths—one minute, three minutes and five minutes—with a total of"
+     "en": "\"story vending machine\" offers stories of three lengths—one minute, three minutes and five minutes—with a total of",
+     "idn": "penjual cerita\" ini menyediakan cerita dengan tiga panjang—satu menit, tiga menit, dan lima menit—dengan total"
     },
     {
      "zh": "有五萬多則故事，就算提早到車站也不無聊。有腦筋動得快的人，建議這款自動",
      "py": "Yǒu wǔwànduō zé gùshì, jiùsuàn tízǎodào chēzhàn yě bù wúliáo. Yǒu nǎojīn dòng de kuài de rén, jiànyì zhè kuǎn zìdòng",
-     "en": "over fifty thousand stories, so even if you arrive at the station early you won't be bored. Some quick thinkers have suggested this vending"
+     "en": "over fifty thousand stories, so even if you arrive at the station early you won't be bored. Some quick thinkers have suggested this vending",
+     "idn": "lebih dari lima puluh ribu cerita, jadi meskipun tiba di stasiun terlalu cepat kamu tidak akan bosan. Ada orang yang cepat tanggap menyarankan agar mesin"
     },
     {
      "zh": "販賣機也放在公共廁所裡，幫助培養上廁所的情緒。",
      "py": "Fànmàijī yě fàngzài gōnggòngcèsuǒ lǐ, bāngzhù péiyǎng shàng cèsuǒ de qíngxù.",
-     "en": "machine also be put in public restrooms to help get people in the mood."
+     "en": "machine also be put in public restrooms to help get people in the mood.",
+     "idn": "ini juga dipasang di toilet umum untuk membantu orang lebih \"rileks\"."
     }
    ],
    "transcript": [
     {
      "zh": "為什麼地鐵站要設置故事販賣機？",
      "py": "Wèishénme dìtiězhàn yào shèzhì gùshì fànmàijī?",
-     "en": "Why did the subway station install a story vending machine?"
+     "en": "Why did the subway station install a story vending machine?",
+     "idn": "Mengapa stasiun kereta bawah tanah memasang mesin penjual cerita?"
     }
    ]
   },
@@ -1994,29 +2339,34 @@
     "A": {
      "zh": "銷售的狀況",
      "py": "Xiāoshòu de zhuàngkuàng",
-     "en": "(A) Sales figures"
+     "en": "(A) Sales figures",
+     "idn": "(A) Angka penjualan"
     },
     "B": {
      "zh": "內容的長短",
      "py": "Nèiróng de chángduǎn",
-     "en": "(B) The length of the content"
+     "en": "(B) The length of the content",
+     "idn": "(B) Panjang isi cerita"
     },
     "C": {
      "zh": "閱讀後的感想",
      "py": "Yuèdú hòu de gǎnxiǎng",
-     "en": "(C) Thoughts after reading"
+     "en": "(C) Thoughts after reading",
+     "idn": "(C) Kesan setelah membaca"
     },
     "D": {
      "zh": "受歡迎的程度",
      "py": "Shòuhuānyíng de chéngdù",
-     "en": "(D) How popular it is"
+     "en": "(D) How popular it is",
+     "idn": "(D) Seberapa populer"
     }
    },
    "transcript": [
     {
      "zh": "關於故事販賣機，這段介紹提到什麼？",
      "py": "Guānyú gùshì fànmàijī, zhè duàn jièshào tídào shénme?",
-     "en": "About the story vending machine, what does this introduction mention?"
+     "en": "About the story vending machine, what does this introduction mention?",
+     "idn": "Mengenai mesin penjual cerita, apa yang disebutkan dalam perkenalan ini?"
     }
    ]
   },
@@ -2025,66 +2375,78 @@
     "A": {
      "zh": "放煙火影響環境的程度",
      "py": "Fàngyānhuǒ yǐngxiǎng huánjìng de chéngdù",
-     "en": "(A) How much fireworks affect the environment"
+     "en": "(A) How much fireworks affect the environment",
+     "idn": "(A) Seberapa besar dampak kembang api terhadap lingkungan"
     },
     "B": {
      "zh": "支持放煙火民眾的人數",
      "py": "Zhīchí fàngyānhuǒ mínzhòng de rénshù",
-     "en": "(B) The number of people who support fireworks"
+     "en": "(B) The number of people who support fireworks",
+     "idn": "(B) Jumlah orang yang mendukung kembang api"
     },
     "C": {
      "zh": "這個活動在經濟方面的效應",
      "py": "Zhè ge huódòng zài jīngjì fāngmiàn de xiàoyìng",
-     "en": "(C) The economic effects of this event"
+     "en": "(C) The economic effects of this event",
+     "idn": "(C) Dampak ekonomi acara ini"
     },
     "D": {
      "zh": "跨年煙火被停辦的主要原因",
      "py": "Kuà nián yānhuǒ bèi tíngbàn de zhǔyào yuányīn",
-     "en": "(D) The main reason New Year fireworks were canceled"
+     "en": "(D) The main reason New Year fireworks were canceled",
+     "idn": "(D) Alasan utama kembang api Tahun Baru dibatalkan"
     }
    },
    "intro": [
     {
      "zh": "請聽這一段有關新年煙火的演講，然後回答兩個問題。",
      "py": "Qǐng tīng zhè yíduàn yǒuguān xīnnián yānhuǒ de yǎnjiǎng, ránhòu huídá liǎng ge wèntí.",
-     "en": "Listen to this speech about New Year fireworks and then answer the two questions."
+     "en": "Listen to this speech about New Year fireworks and then answer the two questions.",
+     "idn": "Dengarkan pidato tentang kembang api Tahun Baru ini, lalu jawab dua pertanyaan."
     },
     {
      "zh": "每年國內各著名景點的新年煙火都吸引不少遊客，人數可達數十萬人，極具",
      "py": "Měinián guónèi gè zhùmíngjǐngdiǎn de xīnnián yānhuǒ dōu xīyǐn bùshǎo yóukè, rénshù kě dá shùshíwàn rén, jíjù",
-     "en": "Every year the New Year fireworks at famous sites around the country attract many tourists—up to hundreds of thousands—so they have great"
+     "en": "Every year the New Year fireworks at famous sites around the country attract many tourists—up to hundreds of thousands—so they have great",
+     "idn": "Setiap tahun kembang api Tahun Baru di tempat-tempat terkenal di seluruh negeri menarik banyak wisatawan—hingga ratusan ribu orang—sehingga punya nilai"
     },
     {
      "zh": "觀光價值。然而近日卻有少部分的人民認為，放煙火就是造成空氣品質變差的主",
      "py": "Guānguāng jiàzhí. Rán'ér jìnrì què yǒu shǎobùfèn de rénmín rènwéi, fàngyānhuǒ jiùshì zàochéng kōngqì pǐnzhì biànchà de zhǔ",
-     "en": "tourism value. Recently, however, a small number of people have argued that fireworks are the main cause of worsening air"
+     "en": "tourism value. Recently, however, a small number of people have argued that fireworks are the main cause of worsening air",
+     "idn": "pariwisata yang besar. Namun belakangan, segelintir orang berpendapat bahwa kembang api adalah penyebab utama memburuknya kualitas"
     },
     {
      "zh": "要原因，因此向有關部門提出建議，禁止這項活動。",
      "py": "Yào yuányīn, yīncǐ xiàng yǒuguān bùmén tíchū jiànyì, jìnzhǐ zhèxiàng huódòng.",
-     "en": "quality and have suggested to the relevant authorities that the event be banned."
+     "en": "quality and have suggested to the relevant authorities that the event be banned.",
+     "idn": "udara dan mengusulkan kepada instansi terkait agar acara ini dilarang."
     },
     {
      "zh": "事實上，煙火並不是造成空氣汙染的主因，交通工具排放的廢氣比煙火多更",
      "py": "Shìshíshàng, yānhuǒ bìng búshì zàochéng kōngqìwūrǎn de zhǔyīn, jiāotōnggōngjù páifàng de fèiqì bǐ yānhuǒ duō gèng",
-     "en": "In fact, fireworks are not the main cause of air pollution; vehicle exhaust produces far more than"
+     "en": "In fact, fireworks are not the main cause of air pollution; vehicle exhaust produces far more than",
+     "idn": "Sebenarnya kembang api bukan penyebab utama polusi udara; asap kendaraan menghasilkan polusi jauh lebih banyak daripada"
     },
     {
      "zh": "多。況且，新年煙火除了極具觀光價值、為周圍店家帶來收入外，多數的國民認",
      "py": "Duō. Kuàngqiě, xīnnián yānhuǒ chúle jíjù guānguāng jiàzhí, wèi zhōuwéi diànjiā dàilái shōurù wài, duōshù de guómín rèn",
-     "en": "fireworks. Moreover, besides their great tourism value and the income they bring to nearby shops, most citizens"
+     "en": "fireworks. Moreover, besides their great tourism value and the income they bring to nearby shops, most citizens",
+     "idn": "kembang api. Selain itu, di samping nilai pariwisatanya yang besar dan pendapatan bagi toko-toko sekitar, kebanyakan warga"
     },
     {
      "zh": "為，煙火象徵著新的開始，令人十分感動，實在沒理由停辦。",
      "py": "Wéi, yānhuǒ xiàngzhēng zhe xīn de kāishǐ, Lìngrén shífēn gǎndòng, shízài méilǐyóu tíngbàn.",
-     "en": "feel fireworks symbolize a new beginning and are very moving. There's really no reason to cancel them."
+     "en": "feel fireworks symbolize a new beginning and are very moving. There's really no reason to cancel them.",
+     "idn": "merasa kembang api melambangkan awal yang baru dan sangat mengharukan. Sungguh tidak ada alasan untuk membatalkannya."
     }
    ],
    "transcript": [
     {
      "zh": "關於新年煙火，說話的人提到什麼？",
      "py": "Guānyú xīnnián yānhuǒ, shuōhuà de rén tídào shénme?",
-     "en": "About New Year fireworks, what does the speaker mention?"
+     "en": "About New Year fireworks, what does the speaker mention?",
+     "idn": "Mengenai kembang api Tahun Baru, apa yang disebutkan pembicara?"
     }
    ]
   },
@@ -2093,29 +2455,34 @@
     "A": {
      "zh": "十分贊成",
      "py": "Shífēn zànchéng",
-     "en": "(A) Strongly in favor"
+     "en": "(A) Strongly in favor",
+     "idn": "(A) Sangat mendukung"
     },
     "B": {
      "zh": "不想評論",
      "py": "Bùxiǎng pínglùn",
-     "en": "(B) Doesn't want to comment"
+     "en": "(B) Doesn't want to comment",
+     "idn": "(B) Tidak ingin berkomentar"
     },
     "C": {
      "zh": "無法理解",
      "py": "Wúfǎ lǐjiě",
-     "en": "(C) Can't understand"
+     "en": "(C) Can't understand",
+     "idn": "(C) Tidak bisa memahami"
     },
     "D": {
      "zh": "沒有想法",
      "py": "Méiyǒu xiǎngfǎ",
-     "en": "(D) Has no opinion"
+     "en": "(D) Has no opinion",
+     "idn": "(D) Tidak punya pendapat"
     }
    },
    "transcript": [
     {
      "zh": "說話的人對舉辦新年煙火的態度是什麼？",
      "py": "Shuōhuà de rén duì jǔbàn xīnnián yānhuǒ de tàidù shì shénme?",
-     "en": "What is the speaker's attitude toward holding New Year fireworks?"
+     "en": "What is the speaker's attitude toward holding New Year fireworks?",
+     "idn": "Bagaimana sikap pembicara terhadap penyelenggaraan kembang api Tahun Baru?"
     }
    ]
   },
@@ -2124,76 +2491,90 @@
     "A": {
      "zh": "電視台的人力與預算安排",
      "py": "Diànshìtái de rénlì yǔ yùsuàn ānpái",
-     "en": "(A) TV stations' staffing and budget arrangements"
+     "en": "(A) TV stations' staffing and budget arrangements",
+     "idn": "(A) Pengaturan staf dan anggaran stasiun TV"
     },
     "B": {
      "zh": "觀眾如何培養正確的國際觀",
      "py": "Guānzhòng rúhé péiyǎng zhèngquè de guójìguān",
-     "en": "(B) How viewers can develop a correct international outlook"
+     "en": "(B) How viewers can develop a correct international outlook",
+     "idn": "(B) Bagaimana penonton bisa membangun wawasan internasional yang benar"
     },
     "C": {
      "zh": "媒體受到全球化的影響很大",
      "py": "Méitǐ shòudào quánqiúhuà de yǐngxiǎng hěndà",
-     "en": "(C) The media are greatly affected by globalization."
+     "en": "(C) The media are greatly affected by globalization.",
+     "idn": "(C) Media sangat terpengaruh oleh globalisasi."
     },
     "D": {
      "zh": "非自製的國際新聞對觀眾的影響",
      "py": "Fēi zìzhì de guójì xīnwén duì guānzhòng de yǐngxiǎng",
-     "en": "(D) The influence on viewers of international news not produced in-house"
+     "en": "(D) The influence on viewers of international news not produced in-house",
+     "idn": "(D) Pengaruh berita internasional yang bukan buatan sendiri terhadap penonton"
     }
    },
    "intro": [
     {
      "zh": "請聽這則有關現代傳播媒體的報導，然後回答兩個問題。",
      "py": "Qǐng tīng zhè zé yǒuguān xiàndài chuánbōméitǐ de bàodǎo, ránhòu huídá liǎng ge wèntí.",
-     "en": "Listen to this report about modern media and then answer the two questions."
+     "en": "Listen to this report about modern media and then answer the two questions.",
+     "idn": "Dengarkan laporan tentang media modern ini, lalu jawab dua pertanyaan."
     },
     {
      "zh": "從飲食消費到金融經濟，日常生活各方面都深受全球化的影響。然而，新聞",
      "py": "Cóng yǐnshí xiāofèi dào jīnróng jīngjì, rìchángshēnghuó gè fāngmiàn dōu shēnshòu quánqiúhuà de yǐngxiǎng. Rán'ér, xīnwén",
-     "en": "From food consumption to finance, every aspect of daily life is deeply affected by globalization. Yet the news"
+     "en": "From food consumption to finance, every aspect of daily life is deeply affected by globalization. Yet the news",
+     "idn": "Dari konsumsi makanan sampai keuangan, setiap aspek kehidupan sehari-hari sangat terpengaruh oleh globalisasi. Namun media"
     },
     {
      "zh": "媒體卻未跟上全球化的腳步。",
      "py": "Méitǐ quèwèi gēnshàng quánqiúhuà de jiǎobù.",
-     "en": "media haven't kept pace with globalization."
+     "en": "media haven't kept pace with globalization.",
+     "idn": "berita belum mengikuti laju globalisasi."
     },
     {
      "zh": "由於設立國外辦公室的成本高，自行製作國際新聞的費用龐大，許多電視台",
      "py": "Yóuyú shèlì guówài bàngōngshì de chéngběn gāo, zìxíng zhìzuò guójì xīnwén de fèiyòng pángdà, xǔduō diànshìtái",
-     "en": "Because setting up overseas offices is costly and producing international news in-house is very expensive, many TV stations"
+     "en": "Because setting up overseas offices is costly and producing international news in-house is very expensive, many TV stations",
+     "idn": "Karena membuka kantor di luar negeri butuh biaya besar dan memproduksi berita internasional sendiri sangat mahal, banyak stasiun TV"
     },
     {
      "zh": "減少在國外的人力。但是觀眾仍有收看國際新聞的需求，因此現在所看到的國際",
      "py": "Jiǎnshǎo zài guówài de rénlì. Dànshì guānzhòng réng yǒu shōukàn guójì xīnwén de xūqiú, yīncǐ xiànzài suǒ kàndào de guójì",
-     "en": "have cut staff abroad. But viewers still want to watch international news, so most of the international"
+     "en": "have cut staff abroad. But viewers still want to watch international news, so most of the international",
+     "idn": "mengurangi staf di luar negeri. Tetapi penonton tetap ingin menonton berita internasional, sehingga sebagian besar berita"
     },
     {
      "zh": "新聞，大多都是向幾個西方的主要國家所購買的，造成觀眾往往只能接收到片面",
      "py": "Xīnwén, dàduō dōu shì xiàng jǐ ge xīfāng de zhǔyào guójiā suǒ gòumǎi de, zàochéng guānzhòng wǎngwǎng zhǐnéng jiēshōu dào piànmiàn",
-     "en": "news we see now is bought from a few major Western countries, which means viewers often only get a one-sided"
+     "en": "news we see now is bought from a few major Western countries, which means viewers often only get a one-sided",
+     "idn": "internasional yang kita lihat sekarang dibeli dari beberapa negara Barat besar, yang berarti penonton sering hanya mendapat pandangan"
     },
     {
      "zh": "的觀點。",
      "py": "De guāndiǎn.",
-     "en": "view."
+     "en": "view.",
+     "idn": "yang sepihak."
     },
     {
      "zh": "如果電視台並未針對購買而來的新聞作出平衡報導，反而容易造成錯誤訊息",
      "py": "Rúguǒ diànshìtái bìngwèi zhēnduì gòumǎi érlái de xīnwén zuòchū pínghéng bàodǎo, fǎn'ér róngyì zàochéng cuòwù xùnxī",
-     "en": "If TV stations don't balance the news they buy, it easily leads to the spread of wrong information,"
+     "en": "If TV stations don't balance the news they buy, it easily leads to the spread of wrong information,",
+     "idn": "Kalau stasiun TV tidak menyeimbangkan berita yang mereka beli, hal ini mudah menyebabkan tersebarnya informasi yang keliru,"
     },
     {
      "zh": "的傳播，讓觀眾掉入自以為的「國際觀」。",
      "py": "De chuánbō, ràng guānzhòng diàorù zì yǐwéi de “Guójìguān”.",
-     "en": "and viewers fall into what they think is an \"international outlook.\""
+     "en": "and viewers fall into what they think is an \"international outlook.\"",
+     "idn": "dan penonton terjebak dalam apa yang mereka kira sebagai \"wawasan internasional\"."
     }
    ],
    "transcript": [
     {
      "zh": "這則報導主要在說明什麼？",
      "py": "Zhè zé bàodǎo zhǔyào zài shuōmíng shénme?",
-     "en": "What does this report mainly explain?"
+     "en": "What does this report mainly explain?",
+     "idn": "Apa yang terutama dijelaskan laporan ini?"
     }
    ]
   },
@@ -2202,29 +2583,34 @@
     "A": {
      "zh": "新聞媒體專業人才不足",
      "py": "Xīnwénméitǐ zhuānyèréncái bùzú",
-     "en": "(A) A shortage of news media professionals"
+     "en": "(A) A shortage of news media professionals",
+     "idn": "(A) Kekurangan tenaga profesional media berita"
     },
     "B": {
      "zh": "觀眾比較喜歡收看網路新聞",
      "py": "Guānzhòng bǐjiào xǐhuān shōukàn wǎnglù xīnwén",
-     "en": "(B) Viewers prefer watching news online."
+     "en": "(B) Viewers prefer watching news online.",
+     "idn": "(B) Penonton lebih suka menonton berita secara daring."
     },
     "C": {
      "zh": "難以負擔製作國際新聞的成本",
      "py": "Nányǐ fùdān zhìzuò guójì xīnwén de chéngběn",
-     "en": "(C) It's hard to afford the cost of producing international news."
+     "en": "(C) It's hard to afford the cost of producing international news.",
+     "idn": "(C) Sulit menanggung biaya produksi berita internasional."
     },
     "D": {
      "zh": "觀眾偏好直接從國外接收資訊",
      "py": "Guānzhòng piānhǎo zhíjiē cóng guówài jiēshōu zīxùn",
-     "en": "(D) Viewers prefer to get information directly from abroad."
+     "en": "(D) Viewers prefer to get information directly from abroad.",
+     "idn": "(D) Penonton lebih suka mendapat informasi langsung dari luar negeri."
     }
    },
    "transcript": [
     {
      "zh": "根據這則報導，電視台面臨什麼問題？",
      "py": "Gēnjù zhè zé bàodǎo, diànshìtái miànlín shénme wèntí?",
-     "en": "According to this report, what problem do TV stations face?"
+     "en": "According to this report, what problem do TV stations face?",
+     "idn": "Menurut laporan ini, masalah apa yang dihadapi stasiun TV?"
     }
    ]
   },
@@ -2233,116 +2619,138 @@
     "A": {
      "zh": "賣自己設計的衣服",
      "py": "Mài zìjǐ shèjì de yīfú",
-     "en": "(A) To sell clothes they designed themselves"
+     "en": "(A) To sell clothes they designed themselves",
+     "idn": "(A) Untuk menjual pakaian rancangan sendiri"
     },
     "B": {
      "zh": "提供多元購物管道",
      "py": "Tígōng duōyuán gòuwù guǎndào",
-     "en": "(B) To offer more shopping channels"
+     "en": "(B) To offer more shopping channels",
+     "idn": "(B) Untuk menyediakan lebih banyak saluran belanja"
     },
     "C": {
      "zh": "幫助需要幫助的人",
      "py": "Bāngzhù xūyào bāngzhù de rén",
-     "en": "(C) To help people in need"
+     "en": "(C) To help people in need",
+     "idn": "(C) Untuk membantu orang yang membutuhkan"
     },
     "D": {
      "zh": "為了避免資源浪費",
      "py": "Wèile bìmiǎn zīyuán làngfèi",
-     "en": "(D) To avoid wasting resources"
+     "en": "(D) To avoid wasting resources",
+     "idn": "(D) Untuk menghindari pemborosan sumber daya"
     }
    },
    "intro": [
     {
      "zh": "在荷蘭有一間專門租借衣服的「衣服圖書館」，只要辦一張「借衣證」，就能把",
      "py": "Zài Hélán yǒu yìjiān zhuānmén zūjiè yīfú de “Yīfú túshūguǎn”, zhǐyào bàn yìzhāng “Jièyī zhèng”, jiù néng bǎ",
-     "en": "In the Netherlands there is a \"clothing library\" that lends clothes: just get a \"clothes-borrowing card,\" and you can take home"
+     "en": "In the Netherlands there is a \"clothing library\" that lends clothes: just get a \"clothes-borrowing card,\" and you can take home",
+     "idn": "Di Belanda ada \"perpustakaan pakaian\" yang meminjamkan pakaian: cukup membuat \"kartu pinjam pakaian\", kamu bisa membawa pulang"
     },
     {
      "zh": "自己喜歡的衣服借回家。請聽這段介紹，然後回答三個問題：",
      "py": "Zìjǐ xǐhuān de yīfú jiè huíjiā. Qǐng tīng zhèduàn jièshào, ránhòu huídá sān ge wèntí:",
-     "en": "clothes you like. Listen to this introduction and then answer three questions:"
+     "en": "clothes you like. Listen to this introduction and then answer three questions:",
+     "idn": "pakaian yang kamu sukai. Dengarkan perkenalan ini, lalu jawab tiga pertanyaan:"
     },
     {
      "zh": "Ⅰ. 為什麼負責人想要成立這間「衣服圖書館」？",
      "py": "Ⅰ. Wèishénme fùzérén xiǎngyào chénglì zhè jiān “Yīfú túshūguǎn”?",
-     "en": "I. Why did the person in charge want to set up this \"clothing library\"?"
+     "en": "I. Why did the person in charge want to set up this \"clothing library\"?",
+     "idn": "I. Mengapa penanggung jawabnya ingin mendirikan \"perpustakaan pakaian\" ini?"
     },
     {
      "zh": "Ⅱ. 關於租借衣服，下面哪一個是對的？",
      "py": "Ⅱ. Guānyú zūjiè yīfú, xiàmiàn nǎ yí ge shì duì de?",
-     "en": "II. About borrowing clothes, which of the following is correct?"
+     "en": "II. About borrowing clothes, which of the following is correct?",
+     "idn": "II. Mengenai meminjam pakaian, manakah pernyataan berikut yang benar?"
     },
     {
      "zh": "Ⅲ. 這間「衣服圖書館」未來有什麼規劃？",
      "py": "Ⅲ. Zhè jiān “Yīfú túshūguǎn” wèilái yǒu shénme guīhuà?",
-     "en": "III. What are the future plans for this \"clothing library\"?"
+     "en": "III. What are the future plans for this \"clothing library\"?",
+     "idn": "III. Apa rencana ke depan \"perpustakaan pakaian\" ini?"
     },
     {
      "zh": "現在請聽這段介紹。",
      "py": "Xiànzài qǐng tīng zhèduàn jièshào.",
-     "en": "Now listen to the introduction."
+     "en": "Now listen to the introduction.",
+     "idn": "Sekarang dengarkan perkenalannya."
     },
     {
      "zh": "「衣服圖書館」的負責人表示，由於購物越來越方便，過度消費的現象也越",
      "py": "“Yīfú túshūguǎn” de fùzérén biǎoshì, yóuyú gòuwù yuèláiyuè fāngbiàn, guòdù xiāofèi de xiànxiàng yě yuè",
-     "en": "The person in charge of the \"clothing library\" says that because shopping is getting more and more convenient, overconsumption is getting"
+     "en": "The person in charge of the \"clothing library\" says that because shopping is getting more and more convenient, overconsumption is getting",
+     "idn": "Penanggung jawab \"perpustakaan pakaian\" mengatakan bahwa karena berbelanja makin praktis, konsumsi berlebihan makin"
     },
     {
      "zh": "來越嚴重，而且人們買得多，丟得也多。因此負責人就把這些衣服集中起來，提",
      "py": "Lái yuè yánzhòng, érqiě rénmen mǎi de duō, diū de yě duō. Yīncǐ fùzérén jiù bǎ zhèxiē yīfú jízhōng qǐlái, tí",
-     "en": "more and more serious, and people buy a lot and throw away a lot. So the person in charge collected these clothes and"
+     "en": "more and more serious, and people buy a lot and throw away a lot. So the person in charge collected these clothes and",
+     "idn": "parah, dan orang banyak membeli sekaligus banyak membuang. Maka penanggung jawab mengumpulkan pakaian-pakaian ini dan"
     },
     {
      "zh": "供衣服租借的服務，將這些衣服再次利用。",
      "py": "Gōng yīfú zūjiè de fúwù, jiāng zhèxiē yīfú zàicì lìyòng.",
-     "en": "started a clothes-lending service, putting them to use again."
+     "en": "started a clothes-lending service, putting them to use again.",
+     "idn": "memulai layanan peminjaman pakaian, sehingga pakaian itu bisa dimanfaatkan kembali."
     },
     {
      "zh": "雖然「衣服圖書館」租的是別人不要的衣服，但是架上的每一件衣服都經過",
      "py": "Suīrán “Yīfú túshūguǎn” zū de shì biérén búyào de yīfú, dànshì jiàshàng de měiyíjiàn yīfú dōu jīngguò",
-     "en": "Although the \"clothing library\" lends clothes others didn't want, every item on the racks has been"
+     "en": "Although the \"clothing library\" lends clothes others didn't want, every item on the racks has been",
+     "idn": "Meskipun \"perpustakaan pakaian\" meminjamkan pakaian yang tidak diinginkan orang lain, setiap pakaian di rak sudah"
     },
     {
      "zh": "嚴格檢查，這些衣服沒有一點臭味或是破損。店內乾淨整齊，看起來就像是一間",
      "py": "Yángé jiǎnchá, zhèxiē yīfú méiyǒu yìdiǎn chòuwèi huòshì pòsǔn. Diàn nèi gānjìng zhěngqí, kànqǐlái jiù xiàngshì yìjiān",
-     "en": "strictly inspected—none smells or is damaged. The shop is clean and tidy and looks like an"
+     "en": "strictly inspected—none smells or is damaged. The shop is clean and tidy and looks like an",
+     "idn": "diperiksa dengan ketat—tidak ada yang berbau atau rusak. Tokonya bersih dan rapi, tampak seperti"
     },
     {
      "zh": "高級服飾店。加入會員以後，每個月只要 700 元，就能租一到四件衣服，而且沒",
      "py": "Gāojí fúshìdiàn. Jiārù huìyuán yǐhòu, měi ge yuè zhǐyào 700 yuán, jiù néng zū yí dào sìjiàn yīfú, érqiě méi",
-     "en": "upscale boutique. After joining as a member, for just 700 a month you can borrow one to four items, with no"
+     "en": "upscale boutique. After joining as a member, for just 700 a month you can borrow one to four items, with no",
+     "idn": "butik kelas atas. Setelah menjadi anggota, cukup 700 per bulan kamu bisa meminjam satu sampai empat potong, tanpa"
     },
     {
      "zh": "有歸還期限，等客人穿膩了再來交換。如果真的很喜愛某件衣服，還可以用折扣",
      "py": "Yǒu guīhuán qīxiàn, děng kèrén chuān nì le zài lái jiāohuàn. Rúguǒ zhēnde hěn xǐ'ài mǒu jiàn yīfú, hái kěyǐ yòng zhékòu",
-     "en": "return deadline—customers come and swap when they're tired of them. If you really love an item, you can also buy it at a discount"
+     "en": "return deadline—customers come and swap when they're tired of them. If you really love an item, you can also buy it at a discount",
+     "idn": "batas waktu pengembalian—pelanggan datang menukar kalau sudah bosan. Kalau benar-benar suka satu pakaian, kamu juga bisa membelinya dengan harga diskon"
     },
     {
      "zh": "價購買。",
      "py": "Jià gòumǎi.",
-     "en": "(continuation of the line above)"
+     "en": "(continuation of the line above)",
+     "idn": "(lanjutan baris di atas)"
     },
     {
      "zh": "這間「衣服圖書館」還有個遠大的目標，就是在全世界各大城市開設分店，",
      "py": "Zhè jiān “Yīfú túshūguǎn” háiyǒu gè yuǎndà de mùbiāo, jiùshì zài quánshìjiè gè Dàchéngshì kāishè fēndiàn,",
-     "en": "This \"clothing library\" also has an ambitious goal: to open branches in major cities around the world,"
+     "en": "This \"clothing library\" also has an ambitious goal: to open branches in major cities around the world,",
+     "idn": "\"Perpustakaan pakaian\" ini juga punya tujuan ambisius: membuka cabang di kota-kota besar di seluruh dunia,"
     },
     {
      "zh": "讓所有會員在出國時，不需要帶太多衣物，只需要有一張衣服圖書館的借衣卡，",
      "py": "Ràng suǒyǒu huìyuán zài chūguóshí, bù xūyào dài tài duō yīwù, zhǐ xūyào yǒu yìzhāng yīfú túshūguǎn de jièyīkǎ,",
-     "en": "so that members don't need to bring many clothes when they go abroad—just a clothing library card—"
+     "en": "so that members don't need to bring many clothes when they go abroad—just a clothing library card—",
+     "idn": "sehingga anggota tidak perlu membawa banyak pakaian saat ke luar negeri—cukup membawa kartu perpustakaan pakaian—"
     },
     {
      "zh": "在國外也能享受如此方便的服務。",
      "py": "Zài guówài yě néng xiǎngshòu rúcǐ fāngbiàn de fúwù.",
-     "en": "and can enjoy such a convenient service overseas too."
+     "en": "and can enjoy such a convenient service overseas too.",
+     "idn": "dan tetap bisa menikmati layanan yang begitu praktis di luar negeri."
     }
    ],
    "transcript": [
     {
      "zh": "為什麼負責人想要成立這間「衣服圖書館」？",
      "py": "Wèishénme fùzérén xiǎngyào chénglì zhè jiān “Yīfú túshūguǎn”?",
-     "en": "Why did the person in charge want to set up this \"clothing library\"?"
+     "en": "Why did the person in charge want to set up this \"clothing library\"?",
+     "idn": "Mengapa penanggung jawabnya ingin mendirikan \"perpustakaan pakaian\" ini?"
     }
    ]
   },
@@ -2351,29 +2759,34 @@
     "A": {
      "zh": "所有的衣服只租不賣",
      "py": "Suǒyǒu de yīfú zhǐzūbúmài",
-     "en": "(A) All clothes are only for rent, not for sale."
+     "en": "(A) All clothes are only for rent, not for sale.",
+     "idn": "(A) Semua pakaian hanya disewakan, tidak dijual."
     },
     "B": {
      "zh": "衣服想租多久就租多久",
      "py": "Yīfú xiǎng zū duōjiǔ jiù zū duōjiǔ",
-     "en": "(B) You can borrow clothes for as long as you like."
+     "en": "(B) You can borrow clothes for as long as you like.",
+     "idn": "(B) Pakaian boleh dipinjam selama yang kamu mau."
     },
     "C": {
      "zh": "破損的衣服將免費贈送",
      "py": "Pòsǔn de yīfú jiāng miǎnfèi zèngsòng",
-     "en": "(C) Damaged clothes will be given away free."
+     "en": "(C) Damaged clothes will be given away free.",
+     "idn": "(C) Pakaian yang rusak akan diberikan secara gratis."
     },
     "D": {
      "zh": "任何人都可以租借衣服",
      "py": "Rènhérén dōu kěyǐ zūjiè yīfú",
-     "en": "(D) Anyone can borrow clothes."
+     "en": "(D) Anyone can borrow clothes.",
+     "idn": "(D) Siapa pun boleh meminjam pakaian."
     }
    },
    "transcript": [
     {
      "zh": "關於租借衣服，下面哪一個是對的？",
      "py": "Guānyú zūjiè yīfú, xiàmiàn nǎ yí ge shì duì de?",
-     "en": "About borrowing clothes, which of the following is correct?"
+     "en": "About borrowing clothes, which of the following is correct?",
+     "idn": "Mengenai meminjam pakaian, manakah pernyataan berikut yang benar?"
     }
    ]
   },
@@ -2382,29 +2795,34 @@
     "A": {
      "zh": "擴大服務地區",
      "py": "Kuòdà fúwù dìqū",
-     "en": "(A) Expanding the service area"
+     "en": "(A) Expanding the service area",
+     "idn": "(A) Memperluas wilayah layanan"
     },
     "B": {
      "zh": "增加衣服款式",
      "py": "Zēngjiā yīfú kuǎnshì",
-     "en": "(B) Adding more clothing styles"
+     "en": "(B) Adding more clothing styles",
+     "idn": "(B) Menambah ragam model pakaian"
     },
     "C": {
      "zh": "經營方式多元化",
      "py": "Jīngyíngfāngshì duōyuánhuà",
-     "en": "(C) Diversifying the business model"
+     "en": "(C) Diversifying the business model",
+     "idn": "(C) Menganekaragamkan model bisnis"
     },
     "D": {
      "zh": "將舊衣捐到國外",
      "py": "Jiāng jiùyī juāndào guówài",
-     "en": "(D) Donating old clothes abroad"
+     "en": "(D) Donating old clothes abroad",
+     "idn": "(D) Menyumbangkan pakaian bekas ke luar negeri"
     }
    },
    "transcript": [
     {
      "zh": "這間「衣服圖書館」未來有什麼規劃？",
      "py": "Zhè jiān “Yīfú túshūguǎn” wèilái yǒu shénme guīhuà?",
-     "en": "What are the future plans for this \"clothing library\"?"
+     "en": "What are the future plans for this \"clothing library\"?",
+     "idn": "Apa rencana ke depan \"perpustakaan pakaian\" ini?"
     }
    ]
   },
@@ -2413,111 +2831,132 @@
     "A": {
      "zh": "運動產品種類增加的因素",
      "py": "Yùndòng chǎnpǐnzhǒnglèi zēngjiā de yīnsù",
-     "en": "(A) Factors behind the increasing variety of sports products"
+     "en": "(A) Factors behind the increasing variety of sports products",
+     "idn": "(A) Faktor yang membuat produk olahraga makin beragam"
     },
     "B": {
      "zh": "運動成為流行活動的原因",
      "py": "Yùndòng chéngwéi liúxíng huódòng de yuányīn",
-     "en": "(B) Why exercise has become a popular activity"
+     "en": "(B) Why exercise has become a popular activity",
+     "idn": "(B) Alasan olahraga menjadi kegiatan populer"
     },
     "C": {
      "zh": "運動中心經營管理的方式",
      "py": "Yùndòng zhōngxīn jīngyíng guǎnlǐ de fāngshì",
-     "en": "(C) How sports centers are managed"
+     "en": "(C) How sports centers are managed",
+     "idn": "(C) Cara pengelolaan pusat olahraga"
     },
     "D": {
      "zh": "政府舉辦運動比賽的動機",
      "py": "Zhèngfǔ jǔbàn yùndòng bǐsài de dòngjī",
-     "en": "(D) The government's motives for holding sports competitions"
+     "en": "(D) The government's motives for holding sports competitions",
+     "idn": "(D) Motif pemerintah mengadakan pertandingan olahraga"
     }
    },
    "intro": [
     {
      "zh": "下面是一則有關運動的報導。請聽這則報導，然後回答三個問題：",
      "py": "Xiàmiàn shì yìzé yǒuguān yùndòng de bàodǎo. Qǐng tīng zhè zé bàodǎo, ránhòu huídá sān ge wèntí:",
-     "en": "The following is a report about exercise. Listen to it and then answer three questions:"
+     "en": "The following is a report about exercise. Listen to it and then answer three questions:",
+     "idn": "Berikut ini laporan tentang olahraga. Dengarkan, lalu jawab tiga pertanyaan:"
     },
     {
      "zh": "Ⅰ. 這則報導主要說明什麼？",
      "py": "Ⅰ. Zhè zé bàodǎo zhǔyào shuōmíng shénme?",
-     "en": "I. What does this report mainly explain?"
+     "en": "I. What does this report mainly explain?",
+     "idn": "I. Apa yang terutama dijelaskan laporan ini?"
     },
     {
      "zh": "Ⅱ. 臺灣政府怎麼鼓勵大家多運動？",
      "py": "Ⅱ. Táiwān zhèngfǔ zěnme gǔlì dàjiā duō yùndòng?",
-     "en": "II. How does the Taiwanese government encourage people to exercise more?"
+     "en": "II. How does the Taiwanese government encourage people to exercise more?",
+     "idn": "II. Bagaimana pemerintah Taiwan mendorong masyarakat lebih banyak berolahraga?"
     },
     {
      "zh": "Ⅲ. 為什麼越來越多公司願意支持路跑活動？",
      "py": "Ⅲ. Wèishénme yuèláiyuè duō gōngsī yuànyì zhīchí lù pǎo huódòng?",
-     "en": "III. Why are more and more companies willing to support road running events?"
+     "en": "III. Why are more and more companies willing to support road running events?",
+     "idn": "III. Mengapa makin banyak perusahaan bersedia mendukung acara lari jalanan?"
     },
     {
      "zh": "現在請聽報導。",
      "py": "Xiànzài qǐng tīng bàodǎo.",
-     "en": "Now listen to the report."
+     "en": "Now listen to the report.",
+     "idn": "Sekarang dengarkan laporannya."
     },
     {
      "zh": "現代人越來越重視運動，以臺灣為例，每年有許多大小不同的路跑活動。不",
      "py": "Xiàndàirén yuèláiyuè zhòngshì yùndòng, yǐ Táiwān wéi lì, měinián yǒu xǔduō dàxiǎo bùtóng de lù pǎo huódòng. Bù",
-     "en": "People today care more and more about exercise. In Taiwan, for example, there are many road running events of all sizes every year. Not"
+     "en": "People today care more and more about exercise. In Taiwan, for example, there are many road running events of all sizes every year. Not",
+     "idn": "Masyarakat masa kini makin memperhatikan olahraga. Di Taiwan, misalnya, setiap tahun ada banyak acara lari jalanan besar dan kecil. Bukan"
     },
     {
      "zh": "僅如此，原本只出現在大都市的大型健身房和運動中心，經過十幾年發展後，在",
      "py": "Jǐn rúcǐ, yuánběn zhǐ chūxiàn zài Dàdūshì de dàxíng jiànshēnfáng hé yùndòng zhōngxīn, jīngguò shíjǐnián fāzhǎn hòu, zài",
-     "en": "only that, large gyms and sports centers, which used to be found only in big cities, can now after a decade or so of development"
+     "en": "only that, large gyms and sports centers, which used to be found only in big cities, can now after a decade or so of development",
+     "idn": "hanya itu, pusat kebugaran dan pusat olahraga besar, yang dulu hanya ada di kota besar, kini setelah sepuluh tahun lebih berkembang"
     },
     {
      "zh": "其他城市裡都可看到。",
      "py": "Qítā Chéngshì lǐ dōu kě kàndào.",
-     "en": "be seen in other cities too."
+     "en": "be seen in other cities too.",
+     "idn": "juga bisa dijumpai di kota-kota lain."
     },
     {
      "zh": "運動風氣的形成，剛開始大多是由運動產品公司先提供經費支持大型活動和",
      "py": "Yùndòng fēngqì de xíngchéng, gāng kāishǐ dàduō shì yóu yùndòng chǎnpǐn gōngsī xiān tígōng jīngfèi zhīchí dàxíng huódòng hé",
-     "en": "The exercise trend at first mostly came from sports product companies funding large events and"
+     "en": "The exercise trend at first mostly came from sports product companies funding large events and",
+     "idn": "Tren olahraga awalnya kebanyakan berasal dari perusahaan produk olahraga yang mendanai acara dan"
     },
     {
      "zh": "比賽，培養運動人口成長，接著是政府鼓勵，然後慢慢地成為全民運動。以臺灣",
      "py": "Bǐsài, péiyǎng yùndòng rénkǒu chéngzhǎng, jiēzhe shì zhèngfǔ gǔlì, ránhòu mànmàn de chéngwéi Quánmínyùndòng. Yǐ Táiwān",
-     "en": "competitions to grow the exercising population; then came government encouragement, and gradually it became exercise for all. In Taiwan's"
+     "en": "competitions to grow the exercising population; then came government encouragement, and gradually it became exercise for all. In Taiwan's",
+     "idn": "pertandingan besar untuk menumbuhkan populasi yang berolahraga; kemudian datang dorongan pemerintah, dan perlahan menjadi olahraga untuk semua. Dalam kasus"
     },
     {
      "zh": "來說，臺北市政府多年前先在各個區建立運動中心，培養市民的運動習慣，後來",
      "py": "Láishuō, Táiběishì zhèngfǔ duōnián qián xiān zài gè ge qū jiànlì yùndòng zhōngxīn, péiyǎng shìmín de yùndòng xíguàn, hòulái",
-     "en": "case, the Taipei city government years ago first built sports centers in every district to cultivate citizens' exercise habits; later"
+     "en": "case, the Taipei city government years ago first built sports centers in every district to cultivate citizens' exercise habits; later",
+     "idn": "Taiwan, bertahun-tahun lalu pemerintah Kota Taipei lebih dulu membangun pusat olahraga di setiap distrik untuk membina kebiasaan berolahraga warga; kemudian"
     },
     {
      "zh": "其他城市也開始建設這樣的運動中心。",
      "py": "Qítā Chéngshì yě kāishǐ jiànshè zhèyàng de yùndòng zhōngxīn.",
-     "en": "other cities also started building such sports centers."
+     "en": "other cities also started building such sports centers.",
+     "idn": "kota-kota lain juga mulai membangun pusat olahraga serupa."
     },
     {
      "zh": "路跑運動也一樣，十年前臺北市每年大概只有幾場路跑活動，現在全臺每年",
      "py": "Lù pǎo yùndòng yě yíyàng, shínián qián Táiběishì měinián dàgài zhǐyǒu jǐchǎng lù pǎo huódòng, xiànzài quán tái měinián",
-     "en": "Road running is the same: ten years ago Taipei had only a few road races a year; now all of Taiwan has"
+     "en": "Road running is the same: ten years ago Taipei had only a few road races a year; now all of Taiwan has",
+     "idn": "Lari jalanan juga begitu: sepuluh tahun lalu Taipei hanya punya beberapa lomba lari jalanan setahun; kini seluruh Taiwan punya"
     },
     {
      "zh": "有好幾百場不同類型的路跑活動，舉辦路跑活動的公司也早就不只是跟運動有關",
      "py": "Yǒu hǎojǐbǎi chǎng bùtóng lèixíng de lù pǎo huódòng, jǔbàn lù pǎo huódòng de gōngsī yě zǎojiù bù zhǐshì gēn yùndòng yǒuguān",
-     "en": "several hundred road races of different types each year, and the companies organizing them are no longer just sports-related—"
+     "en": "several hundred road races of different types each year, and the companies organizing them are no longer just sports-related—",
+     "idn": "beberapa ratus lomba lari jalanan berbagai jenis setiap tahun, dan perusahaan penyelenggaranya bukan lagi hanya yang berkaitan dengan olahraga—"
     },
     {
      "zh": "的，而是認為有商業機會的都會出錢支持，也讓戶外運動休閒事業慢慢地發展起",
      "py": "De, érshì rènwéi yǒu Shāngyèjīhuì de dōu huì chūqián zhīchí, yě ràng Hùwàiyùndòng xiūxián shìyè mànmàn de fāzhǎn qǐ",
-     "en": "anyone who sees a business opportunity will put up money, which has also gradually developed the outdoor sports and leisure industry"
+     "en": "anyone who sees a business opportunity will put up money, which has also gradually developed the outdoor sports and leisure industry",
+     "idn": "siapa pun yang melihat peluang bisnis akan menanam modal, yang juga perlahan mengembangkan industri olahraga dan rekreasi luar ruangan"
     },
     {
      "zh": "來。",
      "py": "Lái.",
-     "en": "(continuation of the line above)"
+     "en": "(continuation of the line above)",
+     "idn": "(lanjutan baris di atas)"
     }
    ],
    "transcript": [
     {
      "zh": "這則報導主要說明什麼？",
      "py": "Zhè zé bàodǎo zhǔyào shuōmíng shénme?",
-     "en": "What does this report mainly explain?"
+     "en": "What does this report mainly explain?",
+     "idn": "Apa yang terutama dijelaskan laporan ini?"
     }
    ]
   },
@@ -2526,29 +2965,34 @@
     "A": {
      "zh": "舉辦大型路跑活動",
      "py": "Jǔbàn dàxíng lù pǎo huódòng",
-     "en": "(A) Holding large road running events"
+     "en": "(A) Holding large road running events",
+     "idn": "(A) Mengadakan acara lari jalanan besar"
     },
     "B": {
      "zh": "發展戶外休閒事業",
      "py": "Fāzhǎn hùwài xiūxián shìyè",
-     "en": "(B) Developing the outdoor leisure industry"
+     "en": "(B) Developing the outdoor leisure industry",
+     "idn": "(B) Mengembangkan industri rekreasi luar ruangan"
     },
     "C": {
      "zh": "提供運動比賽經費",
      "py": "Tígōng yùndòng bǐsài jīngfèi",
-     "en": "(C) Funding sports competitions"
+     "en": "(C) Funding sports competitions",
+     "idn": "(C) Mendanai pertandingan olahraga"
     },
     "D": {
      "zh": "在各地蓋運動中心",
      "py": "Zài gèdì gài yùndòng zhōngxīn",
-     "en": "(D) Building sports centers everywhere"
+     "en": "(D) Building sports centers everywhere",
+     "idn": "(D) Membangun pusat olahraga di mana-mana"
     }
    },
    "transcript": [
     {
      "zh": "臺灣政府怎麼鼓勵大家多運動？",
      "py": "Táiwān zhèngfǔ zěnme gǔlì dàjiā duō yùndòng?",
-     "en": "How does the Taiwanese government encourage people to exercise more?"
+     "en": "How does the Taiwanese government encourage people to exercise more?",
+     "idn": "Bagaimana pemerintah Taiwan mendorong masyarakat lebih banyak berolahraga?"
     }
    ]
   },
@@ -2557,29 +3001,34 @@
     "A": {
      "zh": "具商業利益",
      "py": "Jù shāngyèlìyì",
-     "en": "(A) There are commercial benefits."
+     "en": "(A) There are commercial benefits.",
+     "idn": "(A) Ada keuntungan komersial."
     },
     "B": {
      "zh": "配合政府政策",
      "py": "Pèihé zhèngfǔ zhèngcè",
-     "en": "(B) To go along with government policy"
+     "en": "(B) To go along with government policy",
+     "idn": "(B) Untuk mengikuti kebijakan pemerintah"
     },
     "C": {
      "zh": "提升公司的形象",
      "py": "Tíshēng gōngsī de xíngxiàng",
-     "en": "(C) To improve the company's image"
+     "en": "(C) To improve the company's image",
+     "idn": "(C) Untuk meningkatkan citra perusahaan"
     },
     "D": {
      "zh": "要大家更重視運動",
      "py": "Yào dàjiā gèng zhòngshì yùndòng",
-     "en": "(D) To make people value exercise more"
+     "en": "(D) To make people value exercise more",
+     "idn": "(D) Agar masyarakat lebih menghargai olahraga"
     }
    },
    "transcript": [
     {
      "zh": "為什麼越來越多公司願意支持路跑活動？",
      "py": "Wèishénme yuèláiyuè duō gōngsī yuànyì zhīchí lù pǎo huódòng?",
-     "en": "Why are more and more companies willing to support road running events?"
+     "en": "Why are more and more companies willing to support road running events?",
+     "idn": "Mengapa makin banyak perusahaan bersedia mendukung acara lari jalanan?"
     }
    ]
   }
