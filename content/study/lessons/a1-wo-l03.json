@@ -1,0 +1,618 @@
+{
+ "id": "a1-wo-l03",
+ "title": "週末做什麼？ What Are You Doing Over the Weekend?",
+ "status": "complete",
+ "mode": "original",
+ "statusDetail": "Materi ini ditulis ulang secara orisinal untuk situs ini berdasarkan topik dan kosakata Pelajaran 3 buku kerja (hlm. buku 17–24): soal latihan, kalimat contoh, bacaan, dan kunci memakai kata-kata sendiri. Soal bergambar asli ada di buku; audio trek asli tetap ditautkan.",
+ "transcribedBy": "Ditulis ulang secara orisinal berdasarkan isi buku, diperiksa terhadap halaman asli, 2026-11-18",
+ "blocks": [
+  {
+   "type": "heading",
+   "id": "h-obj",
+   "en": "Learning Objectives",
+   "zh": "學習目標",
+   "source": {
+    "pages": [
+     17
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "obj",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Topic: 週末活動 Weekend Activities"
+    },
+    {
+     "lang": "en",
+     "text": "• Practicing tone recognition for Lesson 3 vocabulary."
+    },
+    {
+     "lang": "en",
+     "text": "• Practicing listening/reading comprehension about hobbies and weekend routines."
+    },
+    {
+     "lang": "en",
+     "text": "• Practicing 也/都/常 and writing a short paragraph about one's own weekend."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h1",
+   "en": "I. Differentiating Tones",
+   "zh": "一、辨別聲調",
+   "level": 3,
+   "source": {
+    "pages": [
+     17
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "h1-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Practice exercise written for this site using Lesson 3 vocabulary. The book's own tone-marking exercise is on book p. 17; its recording is track 03-01."
+    }
+   ],
+   "track": "03-01"
+  },
+  {
+   "type": "table",
+   "id": "h1-tab",
+   "head": [
+    "中文",
+    "Pinyin (fill in the tone marks)"
+   ],
+   "rows": [
+    [
+     "週末",
+     "zhoumo"
+    ],
+    [
+     "網球",
+     "wangqiu"
+    ],
+    [
+     "游泳",
+     "youyong"
+    ],
+    [
+     "喜歡",
+     "xihuan"
+    ],
+    [
+     "好玩",
+     "haowan"
+    ],
+    [
+     "電影",
+     "dianying"
+    ],
+    [
+     "籃球",
+     "lanqiu"
+    ],
+    [
+     "晚飯",
+     "wanfan"
+    ],
+    [
+     "一起",
+     "yiqi"
+    ],
+    [
+     "覺得",
+     "juede"
+    ]
+   ],
+   "source": {
+    "pages": [
+     17
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "h2",
+   "en": "II. Listen and Respond: What Are They Doing?",
+   "zh": "二、請聽並回答：他們在做什麼",
+   "level": 3,
+   "source": {
+    "pages": [
+     17,
+     18
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "h2-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Practice exercise written for this site using Lesson 3 vocabulary. The book's own listening exercises are on book pp. 17–18; their recordings are tracks 03-02, 03-03 and 03-04."
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "h2a-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "A. Read about each person and choose what they like to do. (track 03-02)"
+    }
+   ],
+   "track": "03-02"
+  },
+  {
+   "type": "exercise",
+   "id": "h2a-x",
+   "title": "A. 他們喜歡做什麼",
+   "instruction": "Choose the correct answer for each question.",
+   "items": [
+    {
+     "prompt": "林先生喜歡做什麼？ a. 聽音樂　b. 彈鋼琴",
+     "hint": ""
+    },
+    {
+     "prompt": "王小姐喜歡做什麼？ a. 上網　b. 打網球",
+     "hint": ""
+    },
+    {
+     "prompt": "李先生喜歡做什麼？ a. 看電影　b. 看電視",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "h2b-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "B. Read about Miss Chen's weekend and number the activities below in the order she mentions them (1–4). (track 03-03)"
+    },
+    {
+     "lang": "en",
+     "text": "我週末常常先去游泳，游泳以後跟家人吃飯，吃飯以後和哥哥打籃球，最後看足球比賽。"
+    }
+   ],
+   "track": "03-03"
+  },
+  {
+   "type": "exercise",
+   "id": "h2b-x",
+   "title": "B. 陳小姐的週末",
+   "instruction": "Write the correct order (1–4) in front of each activity.",
+   "items": [
+    {
+     "prompt": "（　）打籃球",
+     "hint": ""
+    },
+    {
+     "prompt": "（　）游泳",
+     "hint": ""
+    },
+    {
+     "prompt": "（　）看足球比賽",
+     "hint": ""
+    },
+    {
+     "prompt": "（　）吃飯",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "h2c-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "C. Listen to the questions below and choose an appropriate answer for each. (track 03-04)"
+    }
+   ],
+   "track": "03-04"
+  },
+  {
+   "type": "exercise",
+   "id": "h2c-x",
+   "title": "C. 問答",
+   "instruction": "Choose the most appropriate answer for each question.",
+   "items": [
+    {
+     "prompt": "你週末想做什麼？ a. 我想去游泳。　b. 我常打網球。　c. 我不喜歡看電影。",
+     "hint": ""
+    },
+    {
+     "prompt": "你覺得打籃球好玩嗎？ a. 我想學中文。　b. 好玩！　c. 好啊！",
+     "hint": ""
+    },
+    {
+     "prompt": "我們去吃晚飯，好不好？ a. 我也要去。　b. 歡迎你來。　c. 我也喜歡。",
+     "hint": ""
+    },
+    {
+     "prompt": "你喜不喜歡看電影？ a. 我不想看電影。　b. 我想看電影。　c. 電影，我覺得很好看。",
+     "hint": ""
+    },
+    {
+     "prompt": "我們去打網球，怎麼樣？ a. 我們打網球吧！　b. 我們打網球呢！　c. 我們打網球嗎？",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h3",
+   "en": "III. Create Dialogue Pairs",
+   "zh": "三、對話配對",
+   "level": 3,
+   "source": {
+    "pages": [
+     18,
+     19
+    ]
+   }
+  },
+  {
+   "type": "exercise",
+   "id": "h3-x",
+   "title": "句子配對",
+   "instruction": "Match the sentence on the left with the appropriate reply on the right; write the matching letter in each blank.",
+   "items": [
+    {
+     "prompt": "（　）他週末常做什麼？　　　(C) 我也喜歡。",
+     "hint": ""
+    },
+    {
+     "prompt": "（　）你是臺灣人，他呢？　　(F) 他也是臺灣人。",
+     "hint": ""
+    },
+    {
+     "prompt": "（　）你喜歡聽音樂嗎？　　　(A) 他常去游泳。",
+     "hint": ""
+    },
+    {
+     "prompt": "（　）今天晚上你想看書還是上網？　(E) 看書。",
+     "hint": ""
+    },
+    {
+     "prompt": "（　）你喜歡做什麼？　　　　(B) 我想學中文。",
+     "hint": ""
+    },
+    {
+     "prompt": "（　）我想吃臺灣菜。　　　　(H) 我們吃日本菜吧！",
+     "hint": ""
+    },
+    {
+     "prompt": "（　）我們看臺灣電影吧！　　(D) 好啊！",
+     "hint": ""
+    },
+    {
+     "prompt": "（　）你覺得打籃球好玩嗎？　(G) 打網球，我覺得很好玩。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h4",
+   "en": "IV. Reading Comprehension",
+   "zh": "四、閱讀理解",
+   "level": 3,
+   "source": {
+    "pages": [
+     19
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "h4a-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Read the paragraph and complete the table below."
+    },
+    {
+     "lang": "en",
+     "text": "我家有五個人，爸爸、媽媽、姐姐、弟弟和我。爸爸喜歡上網和照相，他週末常去照相。媽媽很喜歡看電視。我家有很多CD，都是姐姐的CD，她很喜歡聽音樂。弟弟喜歡看電影，也喜歡打籃球。我呢？我喜歡游泳和打網球，我和姐姐週末常常一起去打網球。"
+    }
+   ]
+  },
+  {
+   "type": "table",
+   "id": "h4a-tab",
+   "head": [
+    "我的家",
+    "喜歡做的事"
+   ],
+   "rows": [
+    [
+     "1. 爸爸",
+     "＿＿＿＿＿＿＿＿＿＿"
+    ],
+    [
+     "2. 媽媽",
+     "＿＿＿＿＿＿＿＿＿＿"
+    ],
+    [
+     "3. 姐姐",
+     "＿＿＿＿＿＿＿＿＿＿"
+    ],
+    [
+     "4. 我",
+     "＿＿＿＿＿＿＿＿＿＿"
+    ],
+    [
+     "5. 弟弟",
+     "＿＿＿＿＿＿＿＿＿＿"
+    ]
+   ],
+   "source": {
+    "pages": [
+     19
+    ]
+   }
+  },
+  {
+   "type": "heading",
+   "id": "h5",
+   "en": "V. Fill in the Blanks",
+   "zh": "五、填空",
+   "level": 3,
+   "source": {
+    "pages": [
+     20
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "h5a-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "A. Fill in the blanks with the appropriate character: 都, 吧, 也, 也都, or 去 to complete the dialogue."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "h5a-x",
+   "title": "A. 完成對話",
+   "instruction": "Fill in each blank to complete the dialogue.",
+   "items": [
+    {
+     "prompt": "A：你是臺灣人，她呢？　B：她＿＿＿＿＿＿是臺灣人。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：你們喜歡游泳嗎？　B：我們＿＿＿＿＿＿很喜歡游泳。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：明天我們去看電影，好不好？　B：我們＿＿＿＿＿＿看電視＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：我喜歡聽音樂和看電影。　B：音樂、電影，我＿＿＿＿＿＿喜歡。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：週末你常做什麼？　B：我常＿＿＿＿＿＿打籃球。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h6",
+   "en": "VI. Rearrange the Characters Below to Make Good Sentences",
+   "zh": "六、重組句子",
+   "level": 3,
+   "source": {
+    "pages": [
+     20
+    ]
+   }
+  },
+  {
+   "type": "exercise",
+   "id": "h6-x",
+   "title": "練習 Exercise",
+   "instruction": "Rearrange the given characters into a correct sentence.",
+   "items": [
+    {
+     "prompt": "弟弟　也　很　聰明　→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "也　聽　音樂　常　我　→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "我們　都　常　上網　很　→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "他們　臺灣菜　去　要　吃　週末　→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "我　下午　明天　不　想　去　游泳　→ ＿＿＿＿＿＿。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h7",
+   "en": "VII. Write Out in Chinese Characters",
+   "zh": "七、聽寫漢字",
+   "level": 3,
+   "source": {
+    "pages": [
+     20,
+     21
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "h7-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "Practice exercise written for this site using Lesson 3 vocabulary. The book's own dictation exercise is on book p. 20; its recording is track 03-05."
+    }
+   ],
+   "track": "03-05"
+  },
+  {
+   "type": "exercise",
+   "id": "h7-x",
+   "title": "練習 Exercise",
+   "instruction": "Listen to the recording and write out the sentences below in Chinese characters.",
+   "items": [
+    {
+     "prompt": "Wǒ cháng kàn diànyǐng yě cháng shàngwǎng.　→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "Tā bù xǐhuān dǎ bàngqiú.　→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "Tāmen dōu xiǎng xué Zhōngwén.　→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "Tā cháng dǎ lánqiú hàn yóuyǒng.　→ ＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "Wǎnshàng yìqǐ chī wǎnfàn, hǎo ma?　→ ＿＿＿＿＿＿？",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h8",
+   "en": "VIII. Complete the Dialogue",
+   "zh": "八、完成對話",
+   "level": 3,
+   "source": {
+    "pages": [
+     21
+    ]
+   }
+  },
+  {
+   "type": "exercise",
+   "id": "h8-x",
+   "title": "練習 Exercise",
+   "instruction": "Fill in the missing line of each short dialogue.",
+   "items": [
+    {
+     "prompt": "A：＿＿＿＿＿＿＿＿＿＿＿＿？　B：週末我想去打網球。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：你覺得游泳好玩嗎？　B：＿＿＿＿＿＿＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：你想今天還是明天去看電影？　B：＿＿＿＿＿＿＿＿＿＿＿＿。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：＿＿＿＿＿＿＿＿＿＿＿＿？　B：籃球、網球，我都想打。",
+     "hint": ""
+    },
+    {
+     "prompt": "A：我們明天去游泳，怎麼樣？　B：＿＿＿＿＿＿＿＿＿＿＿＿。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "id": "h9",
+   "en": "IX. Writing Exercises",
+   "zh": "九、寫作練習",
+   "level": 3,
+   "source": {
+    "pages": [
+     22,
+     23
+    ]
+   }
+  },
+  {
+   "type": "text",
+   "id": "h9a-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "A. Read the information about each family member below and complete the paragraph."
+    },
+    {
+     "lang": "en",
+     "text": "家人與他們喜歡做的事：爸爸——游泳；媽媽——看電影；姐姐——打網球；妹妹——聽音樂；我——打籃球；哥哥——覺得打棒球很好玩。"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "h9a-x",
+   "title": "A. 完成短文",
+   "instruction": "Complete the paragraph below using the information above.",
+   "items": [
+    {
+     "prompt": "這是我的家人。週末我爸爸常＿＿＿＿＿＿＿＿＿＿，媽媽喜歡＿＿＿＿＿＿＿＿＿＿，姐姐喜歡＿＿＿＿＿＿＿＿＿＿，妹妹喜歡＿＿＿＿＿＿＿＿＿＿，我常去＿＿＿＿＿＿＿＿＿＿，哥哥覺得＿＿＿＿＿＿＿＿＿＿很好玩。我家人都喜歡＿＿＿＿＿＿＿＿＿＿。",
+     "hint": ""
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "h9b-t",
+   "paras": [
+    {
+     "lang": "en",
+     "text": "B. Composition (about 50 characters)."
+    },
+    {
+     "lang": "en",
+     "text": "寫一篇短文，介紹你自己，也要說有空的時候你常做什麼？週末你常做什麼？ (Write a short paragraph about yourself. Talk about what you usually do in your free time and on weekends.)"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "id": "h9b-x",
+   "title": "B. 短文寫作",
+   "instruction": "Write your own short composition using the prompt above.",
+   "items": [
+    {
+     "prompt": "你有空的時候常做什麼？",
+     "hint": ""
+    },
+    {
+     "prompt": "你週末常做什麼？",
+     "hint": ""
+    }
+   ]
+  }
+ ]
+}

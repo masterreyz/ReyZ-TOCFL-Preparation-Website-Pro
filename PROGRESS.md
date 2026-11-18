@@ -1,6 +1,6 @@
 # Progress — ReyZ TOCFL Preparation Website
 
-_Last updated: 2026-11-18 (A1 Workbook L2 added)_
+_Last updated: 2026-11-18 (A1 Workbook L3 added)_
 
 ## Done
 - Inventory of `TOCFL Study` and `TOCFL Exercise` (see `reports/COMPLETENESS.md` §1).
@@ -47,7 +47,8 @@ Chosen 2026-11-16. Order: A1 Textbook L1→L15, A1 Workbook L1→L15, then A2, B
 | A1 Textbook L15 我很不舒服 | 351–377 (book p. 324–350) | ✅ complete — original mode (7 grammar points: non-committal stance with question words, 把 disposal construction, V了…就…, 一點, 得-complement action comparison, complements of degree in comparison, separable verbs) — **last lesson of the A1 Textbook** |
 | A1 Workbook L1 歡迎你來臺灣！ | 2–10 (book p. 1–8) | ✅ complete — original mode (exercise worksheet: tone-marking, listening comprehension recast as reading-comprehension MC/T-F, dialogue matching/completion, reading passage + table, A-not-A pattern, sentence reordering, pinyin dictation, self-introduction) |
 | A1 Workbook L2 我的家人 | 11–17 (book p. 9–15) | ✅ complete — original mode (9 sections: tone-marking, listening comprehension recast as reading MC/T-F, dialogue matching, reading passage + T-F, fill-in-the-blank ×2, sentence reordering, pinyin dictation, open dialogue completion, picture-story writing prompt) |
-| A1 Workbook L3 | — | ⏭ next (original mode) |
+| A1 Workbook L3 週末做什麼？ | 19–26 (book p. 17–24) | ✅ complete — original mode (9 sections: tone-marking, listening comprehension recast as reading MC/ordering/MC (3 parts A/B/C), dialogue matching, reading passage + 5-row table, fill-in-the-blank, sentence reordering, pinyin dictation, open dialogue completion, two-part writing exercise: fill-in paragraph + free composition prompt) |
+| A1 Workbook L4 | — | ⏭ next (original mode) |
 | all other lessons | — | page images until migrated |
 
 ### Original mode (from A1 L6 onward, chosen 2026-11-17)

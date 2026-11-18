@@ -296,6 +296,18 @@ with sync_playwright() as p:
     page.wait_for_selector(".search-results li")
     check("search finds WoL2 content", page.locator(".search-results a[href='#/lesson/a1-wo-l02']").count() >= 1)
 
+    # ---- A1 Workbook L3 (original mode)
+    page.goto(BASE + "#/lesson/a1-wo-l03")
+    page.wait_for_selector("#h9b-x")
+    check("WoL3 renders all sections", all(page.locator(f"#{i}").count() == 1 for i in ["h1-tab", "h2a-x", "h3-x", "h4a-tab", "h5a-x", "h6-x", "h7-x", "h8-x", "h9a-x", "h9b-x"]))
+    page.evaluate("window.__spoken.length = 0")
+    page.click("#h6-x .tts-mini >> nth=0")
+    page.wait_for_timeout(300)
+    check("WoL3 exercise item speak", page.evaluate("window.__spoken.map(s=>s.text).join('')").startswith("弟弟"))
+    page.goto(BASE + "#/search?q=游泳以後跟家人吃飯")
+    page.wait_for_selector(".search-results li")
+    check("search finds WoL3 content", page.locator(".search-results a[href='#/lesson/a1-wo-l03']").count() >= 1)
+
     page.goto(BASE + "#/lesson/a2-te-l03")
     page.wait_for_selector("figure.page img")
     page.locator("figure.page img").first.scroll_into_view_if_needed()

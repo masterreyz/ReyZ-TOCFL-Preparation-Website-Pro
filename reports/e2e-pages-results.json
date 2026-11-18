@@ -310,6 +310,21 @@
   "detail": ""
  },
  {
+  "test": "WoL3 renders all sections",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "WoL3 exercise item speak",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "test": "search finds WoL3 content",
+  "ok": true,
+  "detail": ""
+ },
+ {
   "test": "book page image loads",
   "ok": true,
   "detail": ""
