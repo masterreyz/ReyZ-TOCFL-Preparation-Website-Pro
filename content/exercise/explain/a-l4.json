@@ -294,7 +294,7 @@
     },
     {
      "zh": "女：不用了，我吃飽了，麻煩算算一共多少錢。",
-     "py": "Nǚ: Búyòng le, wǒ chībǎo le, máfán suànsuàn yígòng duōshǎo qián.",
+     "py": "Nǚ: Búyòng le, wǒ chībǎo le, máfán suànsuàn yígòng Duōshǎoqián.",
      "en": "Woman: No, thanks, I'm full. Please add up how much it is altogether.",
      "idn": "Wanita: Tidak, terima kasih, saya sudah kenyang. Tolong hitungkan totalnya berapa."
     }
@@ -636,7 +636,7 @@
     },
     {
      "zh": "女：老師，同學們比較想去游泳，他們要我問問您。",
-     "py": "Nǚ: Lǎoshī, tóngxué men bǐjiào xiǎng qù yóuyǒng, tāmen yào wǒ wènwèn nín.",
+     "py": "Nǚ: Lǎoshī, tóngxuémen bǐjiào xiǎng qù yóuyǒng, tāmen yào wǒ wènwèn nín.",
      "en": "Woman: Teacher, the students would rather go swimming; they asked me to ask you.",
      "idn": "Wanita: Pak Guru, para siswa lebih ingin berenang; mereka menyuruh saya menanyakan kepada Bapak."
     },
@@ -654,7 +654,7 @@
     },
     {
      "zh": "女：",
-     "py": "Nǚ:",
+     "py": "nǚ:",
      "en": "Woman: (speaker label for the line above)",
      "idn": "Wanita: (label pembicara untuk baris di atas)"
     },
@@ -666,7 +666,7 @@
     },
     {
      "zh": "男：請問學生們什麼時候可以上游泳課？",
-     "py": "Nán: Qǐngwèn xuéshēng men shénme shíhòu kěyǐ shàng yóuyǒng kè?",
+     "py": "Nán: Qǐngwèn xuéshēngmen shénme shíhòu kěyǐ shàng yóuyǒng kè?",
      "en": "Man: When can the students have swimming class?",
      "idn": "Pria: Kapan para siswa bisa mengikuti pelajaran renang?"
     }
@@ -742,7 +742,7 @@
     },
     {
      "zh": "男：請問老師要同學們做什麼？",
-     "py": "Nán: Qǐngwèn lǎoshī yào tóngxué men zuò shénme?",
+     "py": "Nán: Qǐngwèn lǎoshī yào tóngxuémen zuò shénme?",
      "en": "Man: What does the teacher want the students to do?",
      "idn": "Pria: Apa yang diminta guru kepada para siswa?"
     }
@@ -1624,7 +1624,7 @@
    "transcript": [
     {
      "zh": "男：老王的年紀比他太太大20歲啊！",
-     "py": "Nán: Lǎowáng de niánjì bǐ tā tàitai dà 20 suì a!",
+     "py": "Nán: Lǎo Wáng de niánjì bǐ tā tàitai dà 20 suì a!",
      "en": "Man: Lao Wang is 20 years older than his wife!",
      "idn": "Pria: Lao Wang 20 tahun lebih tua daripada istrinya!"
     },

@@ -107,8 +107,9 @@ def merge(tid):
     img_keys = [f"{k}:{j}" for k, v in src.items() if k.startswith("img:") for j in range(len(v or []))]
     id_missing = [i for i in list(map(str, range(1, len(order) + 1))) + img_keys if not ind.get(i, "").strip()]
 
-    def seg(zh):
-        d = dict(zh=zh, py=to_pinyin(zh))
+    def seg(zh, prev=None):
+        cont = bool(prev and len(prev.strip()) >= 15 and prev.strip()[-1] not in "。？！?!…」』”：:）)＃#0123456789")
+        d = dict(zh=zh, py=to_pinyin(zh, cont))
         if src.get(ids[zh], "").strip():
             d["en"] = src[ids[zh]].strip()
         if ind.get(ids[zh], "").strip():
@@ -122,7 +123,8 @@ def merge(tid):
         elif field == "option":
             e.setdefault("options", {})[key] = seg(zh)
         else:
-            e.setdefault(field, []).append(seg(zh))
+            lst = e.setdefault(field, [])
+            lst.append(seg(zh, lst[-1]["zh"] if lst else None))
     for k, v in src.items():
         if k.startswith("img:") and v:
             out.setdefault(k[4:], {})["image"] = [dict(zh=zh, py=to_pinyin(zh), en=en, **({"idn": ind[f"{k}:{j}"].strip()} if ind.get(f"{k}:{j}", "").strip() else {}))

@@ -201,7 +201,16 @@ def _erhua(toks):
             t[2] = []
 
 
-def to_pinyin(text):
+# 小/老 + surname as a familiar form of address: 小張 Xiǎo Zhāng, 老王 Lǎo Wáng
+FAMILIAR_SURNAMES = set("張王李陳林黃吳劉趙楊徐孫朱胡郭何羅鄭謝蔡曾彭許蕭葉宋鄧潘杜蘇丁魏")
+for _p in "小老":
+    for _s in FAMILIAR_SURNAMES:
+        jieba.add_word(_t2s.convert(_p + _s), freq=50000, tag="nr")
+jieba.add_word("老公", tag="n")
+
+
+def to_pinyin(text, cont=False):
+    """cont=True: the text continues a sentence from the previous line, so its first letter is not capitalised."""
     if not text:
         return ""
     simp = _t2s.convert(text)
@@ -247,6 +256,15 @@ def to_pinyin(text):
             syls[-1] = " ge"
         if not syls:
             continue
+        if len(orig) == 2 and orig[0] in "小老" and orig[1] in FAMILIAR_SURNAMES and len(syls) == 2:
+            out.append(" " + syls[0][0].upper() + syls[0][1:] + " " + syls[1][0].upper() + syls[1][1:])
+            continue
+        if syls[0] == "zhe " and len(syls) > 1 and out and out[-1].strip() and out[-1][-1].isalpha():
+            out[-1] += "zhe"
+            syls = syls[1:]
+        if (orig in ("們", "们") or (orig in ("著", "着") and syls == ["zhe"])) and out and out[-1].strip() and out[-1][-1].isalpha():
+            out[-1] += syls[0]
+            continue
         word = syls[0] + "".join(("'" if re.match(r"[aoeāáǎàōóǒòēéěè]", x) else "") + x for x in syls[1:])
         if flag in ("nr", "ns", "nt", "nz", "nrt", "nrfg") and word:
             word = word[0].upper() + word[1:]
@@ -257,7 +275,7 @@ def to_pinyin(text):
     s = re.sub(r"(?<=[^\s“‘(«])([“‘(«])", r" \1", s)
     s = re.sub(r"\s{2,}", " ", s).strip()
     # capitalise the first letter of each sentence, as in pinyin teaching texts
-    s = re.sub(r"(^|[.?!:]\s+|[“‘(«])([a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜü])", lambda m: m.group(1) + m.group(2).upper(), s)
+    s = re.sub(r"(^|[.?!:]\s+|[“‘(«])([a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜü])", lambda m: m.group(1) + m.group(2).upper() if (m.group(1) or not cont) else m.group(0), s)
     return s
 
 

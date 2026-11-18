@@ -737,14 +737,14 @@
   "20": {
    "stem": {
     "zh": "小趙出車禍昏迷，他太太秀如想為他申請一份病歷影本，請問 秀如要準備哪些文件？",
-    "py": "Xiǎozhào chūchēhuò hūnmí, tā tàitai xiù rú xiǎng wèi tā shēnqǐng yífèn bìnglì yǐngběn, qǐngwèn xiù rúyào zhǔnbèi nǎxiē wénjiàn?",
+    "py": "Xiǎo Zhào chūchēhuò hūnmí, tā tàitai xiù rú xiǎng wèi tā shēnqǐng yífèn bìnglì yǐngběn, qǐngwèn xiù rúyào zhǔnbèi nǎxiē wénjiàn?",
     "en": "Xiao Zhao is in a coma after a car accident. His wife Xiuru wants to apply for a copy of his medical records. Which documents does Xiuru need to prepare?",
     "idn": "Xiao Zhao koma setelah kecelakaan mobil. Istrinya, Xiuru, ingin mengajukan salinan rekam medisnya. Dokumen apa yang perlu disiapkan Xiuru?"
    },
    "options": {
     "A": {
      "zh": "小趙的身分證、圖章及簽名文件",
-     "py": "Xiǎozhào de shēnfènzhèng, túzhāng jí qiānmíngwénjiàn",
+     "py": "Xiǎo Zhào de shēnfènzhèng, túzhāng jí qiānmíngwénjiàn",
      "en": "(A) Xiao Zhao's ID card, seal and signed documents",
      "idn": "(A) KTP, stempel, dan dokumen bertanda tangan Xiao Zhao"
     },
@@ -756,13 +756,13 @@
     },
     "C": {
      "zh": "小趙父母和秀如的身分證、圖章及小趙簽名的同意書",
-     "py": "Xiǎozhào fùmǔ Héxiùrú de shēnfènzhèng, túzhāng jí xiǎo Zhào qiānmíng de tóngyìshū",
+     "py": "Xiǎo Zhào fùmǔ Héxiùrú de shēnfènzhèng, túzhāng jí Xiǎo Zhào qiānmíng de tóngyìshū",
      "en": "(C) The ID cards and seals of Xiao Zhao's parents and Xiuru, and a consent form signed by Xiao Zhao",
      "idn": "(C) KTP dan stempel orang tua Xiao Zhao dan Xiuru, serta formulir persetujuan yang ditandatangani Xiao Zhao"
     },
     "D": {
      "zh": "小趙家的戶口名簿、小趙和秀如的圖章及委託同意書",
-     "py": "Xiǎo Zhàojiā de hùkǒumíngbù, xiǎo Zhàohéxiù rú de túzhāng jí wěituō tóngyìshū",
+     "py": "Xiǎo Zhào jiā de hùkǒumíngbù, Xiǎo Zhào Héxiùrú de túzhāng jí wěituō tóngyìshū",
      "en": "(D) Xiao Zhao's household register, Xiao Zhao's and Xiuru's seals, and an authorization and consent form",
      "idn": "(D) Kartu keluarga Xiao Zhao, stempel Xiao Zhao dan Xiuru, serta formulir kuasa dan persetujuan"
     }
@@ -1220,7 +1220,7 @@
     },
     {
      "zh": "另外，辦公室常見的盆栽也是改變運勢的好幫手，能夠扭轉乾坤並帶來好運的盆栽如金錢竹、蘭花等，當這些植物的花謝了、葉枯了，一定得立即更換，好運才能延續。",
-     "py": "Lìngwài, bàngōngshì chángjiàn de pénzāi yě shì gǎibiàn yùnshì de hǎobāngshǒu, nénggòu niǔzhuǎnqiánkūn bìng dàilái hǎoyùn de pénzāi rú jīnqián zhú, Lánhuā děng, dāng zhèxiē zhíwù de huāxiè le, yè kū le, yídìng děi lìjí gēnghuàn, hǎoyùn cáinéng yánxù.",
+     "py": "lìngwài, bàngōngshì chángjiàn de pénzāi yě shì gǎibiàn yùnshì de hǎobāngshǒu, nénggòu niǔzhuǎnqiánkūn bìng dàilái hǎoyùn de pénzāi rú jīnqián zhú, Lánhuā děng, dāng zhèxiē zhíwù de huāxiè le, yè kū le, yídìng děi lìjí gēnghuàn, hǎoyùn cáinéng yánxù.",
      "en": "in addition, the potted plants common in offices are also good helpers for changing your fortune. Plants that can turn things around and bring good luck include lucky bamboo and orchids; when these plants' flowers fade or leaves wither, they must be replaced immediately for the good luck to continue.",
      "idn": "selain itu, tanaman pot yang umum di kantor juga merupakan penolong yang baik untuk mengubah peruntungan. Tanaman yang bisa membalikkan keadaan dan membawa keberuntungan antara lain bambu hoki dan anggrek; ketika bunga tanaman ini layu atau daunnya mengering, harus segera diganti agar keberuntungan terus berlanjut."
     }
@@ -1554,19 +1554,19 @@
     },
     {
      "zh": "正因為噴灑藥劑會使病媒蚊產生抗藥性，防治效果不佳，不少科學家便嘗試以基因重組的方式來改變蚊子的生理構造，如改變蚊子的嗅覺受器，讓牠們聞不到人類的氣味；",
-     "py": "Zhèng yīnwèi pēnsǎ yàojì huì shǐ bìngméi wén chǎnshēng Kàngyàoxìng, fángzhìxiàoguǒ bù jiā, bùshǎo kēxuéjiā biàn chángshì yǐ jīyīn chóngzǔ de fāngshì lái gǎibiàn wénzi de shēnglǐ gòuzào, rú gǎibiàn wénzi de xiùjué shòuqì, ràng tā men wén búdào rénlèi de qìwèi;",
+     "py": "Zhèng yīnwèi pēnsǎ yàojì huì shǐ bìngméi wén chǎnshēng Kàngyàoxìng, fángzhìxiàoguǒ bù jiā, bùshǎo kēxuéjiā biàn chángshì yǐ jīyīn chóngzǔ de fāngshì lái gǎibiàn wénzi de shēnglǐ gòuzào, rú gǎibiàn wénzi de xiùjué shòuqì, ràng tāmen wén búdào rénlèi de qìwèi;",
      "en": "Precisely because spraying insecticide makes vector mosquitoes resistant and control is ineffective, many scientists have tried using genetic recombination to change mosquitoes' physiology, for example changing their olfactory receptors so they can't smell humans;",
      "idn": "Justru karena penyemprotan insektisida membuat nyamuk vektor kebal dan pengendaliannya tidak efektif, banyak ilmuwan mencoba memakai rekombinasi genetik untuk mengubah fisiologi nyamuk, misalnya mengubah reseptor penciumannya sehingga tidak bisa mencium bau manusia;"
     },
     {
      "zh": "或是在實驗室中培育出抵抗力弱的蚊蟲，再將牠們釋放到野外，當牠們與野外蚊蟲交配，便會生下缺乏抵抗力、死亡率高的後代；",
-     "py": "Huòshì zài shíyànshì zhōng péiyùchū dǐkànglì ruò de wénchóng, zài jiāng tā men shìfàng dào yěwài, dāng tā men yǔ yěwài wénchóng jiāopèi, biàn huì shēngxià quēfá dǐkànglì, sǐwánglǜ gāo de hòudài;",
+     "py": "huòshì zài shíyànshì zhōng péiyùchū dǐkànglì ruò de wénchóng, zài jiāng tāmen shìfàng dào yěwài, dāng tāmen yǔ yěwài wénchóng jiāopèi, biàn huì shēngxià quēfá dǐkànglì, sǐwánglǜ gāo de hòudài;",
      "en": "or breeding mosquitoes with weak resistance in the lab and releasing them into the wild, so that when they mate with wild mosquitoes they produce offspring that lack resistance and have high death rates;",
      "idn": "atau membiakkan nyamuk dengan daya tahan lemah di laboratorium lalu melepasnya ke alam liar, sehingga saat kawin dengan nyamuk liar menghasilkan keturunan yang tidak kebal dan tingkat kematiannya tinggi;"
     },
     {
      "zh": "甚至還可以透過基因改造，使雌蚊的翅膀肌肉退化，一旦雌蚊無法飛行，便容易死亡，降低散播病毒的機率。",
-     "py": "Shènzhì hái kěyǐ tòuguò jīyīn gǎizào, shǐ cí wén de chìbǎng jīròu tuìhuà, yídàn cí wén wúfǎ fēixíng, biàn róngyì sǐwáng, jiàngdī sànbō bìngdú de jīlǜ.",
+     "py": "shènzhì hái kěyǐ tòuguò jīyīn gǎizào, shǐ cí wén de chìbǎng jīròu tuìhuà, yídàn cí wén wúfǎ fēixíng, biàn róngyì sǐwáng, jiàngdī sànbō bìngdú de jīlǜ.",
      "en": "genetic modification can even make female mosquitoes' wing muscles degenerate; once females can't fly they die easily, lowering the chance of spreading the virus.",
      "idn": "rekayasa genetik bahkan bisa membuat otot sayap nyamuk betina mengalami kemunduran; begitu betina tidak bisa terbang, mereka mudah mati, sehingga peluang menyebarkan virus menurun."
     },
@@ -1584,7 +1584,7 @@
     },
     {
      "zh": "不過，當蝌蚪長成青蛙後，會引來牠們的天敵──蛇。",
-     "py": "Búguò, dāng kēdǒu zhǎngchéng qīngwā hòu, huì yǐnlái tā men de tiāndí ─ ─ shé.",
+     "py": "búguò, dāng kēdǒu zhǎngchéng qīngwā hòu, huì yǐnlái tāmen de tiāndí ─ ─ shé.",
      "en": "but when tadpoles grow into frogs, they attract their natural enemy—snakes.",
      "idn": "tetapi ketika berudu tumbuh menjadi katak, mereka menarik musuh alaminya—ular."
     },
@@ -1602,7 +1602,7 @@
     },
     {
      "zh": "但美中不足的是，大肚魚只能存活在較清潔的水域，且乾燥、缺氧、食物不足皆可導致其死亡，要花較多人力照顧。",
-     "py": "Dàn měizhōngbùzú de shì, dàdù yú zhǐnéng cúnhuó zài jiào qīngjié de shuǐyù, qiě gānzào, quēyǎng, shíwù bùzú jiē kě dǎozhì qí sǐwáng, yào huā jiào duō rénlì zhàogù.",
+     "py": "dàn měizhōngbùzú de shì, dàdù yú zhǐnéng cúnhuó zài jiào qīngjié de shuǐyù, qiě gānzào, quēyǎng, shíwù bùzú jiē kě dǎozhì qí sǐwáng, yào huā jiào duō rénlì zhàogù.",
      "en": "but the drawback is that mosquitofish can only survive in fairly clean water, and dryness, lack of oxygen and insufficient food can all kill them, so they take more manpower to look after.",
      "idn": "tetapi kelemahannya, ikan ini hanya bisa bertahan di air yang cukup bersih, dan kekeringan, kekurangan oksigen, serta kurangnya makanan semuanya bisa membuatnya mati, sehingga perlu lebih banyak tenaga untuk merawatnya."
     }
@@ -1766,7 +1766,7 @@
     },
     {
      "zh": "除了個人喜好及飲食習慣使然，根據以下實驗我們還將知道，心理因素也扮演著味覺選擇上的要角。",
-     "py": "Chúle gèrén xǐhào jí yǐnshíxíguàn shǐrán, gēnjù yǐxià shíyàn wǒmen hái jiāng zhīdào, xīnlǐyīnsù yě bànyǎn zhe wèijué xuǎnzé shàng de yàojiǎo.",
+     "py": "Chúle gèrén xǐhào jí yǐnshíxíguàn shǐrán, gēnjù yǐxià shíyàn wǒmen hái jiāng zhīdào, xīnlǐyīnsù yě bànyǎnzhe wèijué xuǎnzé shàng de yàojiǎo.",
      "en": "Besides personal taste and eating habits, the following experiments show that psychological factors also play a key role in taste choices.",
      "idn": "Selain selera dan kebiasaan makan pribadi, eksperimen-eksperimen berikut menunjukkan bahwa faktor psikologis juga berperan penting dalam pilihan rasa."
     },
@@ -1858,7 +1858,7 @@
     },
     "C": {
      "zh": "認知訓練法是新興的飲食風潮",
-     "py": "Rènzhī xùnliàn fǎ shì xīnxīng de yǐnshí fēngcháo",
+     "py": "Rènzhī xùnliànfǎ shì xīnxīng de yǐnshí fēngcháo",
      "en": "(C) Cognitive training is a new food trend.",
      "idn": "(C) Pelatihan kognitif adalah tren makanan baru."
     },
@@ -1968,7 +1968,7 @@
     },
     "C": {
      "zh": "探究行為及心理活動的交互效應",
-     "py": "Tànjiūxíngwéi jí xīnlǐ huódòng de jiāohù xiàoyìng",
+     "py": "Tànjiūxíngwéi jí xīnlǐhuódòng de jiāohù xiàoyìng",
      "en": "(C) Exploring the interaction between behavior and mental activity",
      "idn": "(C) Mengkaji interaksi antara perilaku dan aktivitas mental"
     },
@@ -2075,7 +2075,7 @@
    ],
    "stem": {
     "zh": "本文指出，中國勞工階級對教育抱持著什麼樣的態度？",
-    "py": "Běnwén zhǐchū, Zhōngguó láogōngjiējí duì jiàoyù bàochí zhe shénmeyàng de tàidù?",
+    "py": "Běnwén zhǐchū, Zhōngguó láogōngjiējí duì jiàoyù bàochízhe shénmeyàng de tàidù?",
     "en": "According to the article, what attitude do China's working class hold toward education?",
     "idn": "Menurut artikel ini, bagaimana sikap kelas pekerja Tiongkok terhadap pendidikan?"
    },

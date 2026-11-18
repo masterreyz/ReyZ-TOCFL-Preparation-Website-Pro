@@ -152,7 +152,7 @@
    "options": {
     "A": {
      "zh": "小張今天請假了",
-     "py": "Xiǎozhāng jīntiān qǐngjià le",
+     "py": "Xiǎo Zhāng jīntiān qǐngjià le",
      "en": "(A) Xiao Zhang took the day off today.",
      "idn": "(A) Xiao Zhang hari ini izin."
     },
@@ -164,13 +164,13 @@
     },
     "C": {
      "zh": "她剛剛打給小張了",
-     "py": "Tā gānggāng dǎgěi xiǎozhāng le",
+     "py": "Tā gānggāng dǎgěi Xiǎo Zhāng le",
      "en": "(C) She just called Xiao Zhang.",
      "idn": "(C) Dia baru saja menelepon Xiao Zhang."
     },
     "D": {
      "zh": "小張應該打電話給她",
-     "py": "Xiǎozhāng yīnggāi dǎdiànhuà gěi tā",
+     "py": "Xiǎo Zhāng yīnggāi dǎdiànhuà gěi tā",
      "en": "(D) Xiao Zhang should call her.",
      "idn": "(D) Xiao Zhang seharusnya meneleponnya."
     }
@@ -178,7 +178,7 @@
    "transcript": [
     {
      "zh": "男：小張怎麼還沒來上班？",
-     "py": "Nán: Xiǎozhāng zěnme hái méilái shàngbān?",
+     "py": "Nán: Xiǎo Zhāng zěnme hái méilái shàngbān?",
      "en": "Man: Why hasn't Xiao Zhang come to work yet?",
      "idn": "Pria: Kenapa Xiao Zhang belum datang bekerja?"
     },
@@ -478,7 +478,7 @@
     },
     {
      "zh": "外出吃飯、看電影，放鬆一下。",
-     "py": "Wàichū chīfàn, kàn diànyǐng, fàngsōng yíxià.",
+     "py": "wàichū chīfàn, kàn diànyǐng, fàngsōng yíxià.",
      "en": "go out for dinner and a movie and relax.",
      "idn": "(lanjutan) pergi makan malam dan menonton film untuk bersantai."
     },
@@ -532,7 +532,7 @@
     },
     {
      "zh": "男：那青菜水果呢？我們不是說好要買些青菜水果的…",
-     "py": "Nán: Nà qīngcài shuǐguǒ ne? Wǒmen búshì shuōhǎo yào mǎi xiē qīngcài shuǐguǒ de…",
+     "py": "Nán: Nà qīngcài shuǐguǒ ne? Wǒmen búshì shuōhǎo yào Mǎixiē qīngcài shuǐguǒ de…",
      "en": "Man: What about vegetables and fruit? Didn't we agree to buy some vegetables and fruit…",
      "idn": "Pria: Sayur dan buahnya? Bukankah kita sudah sepakat membeli sayur dan buah…"
     },
@@ -734,25 +734,25 @@
    "options": {
     "A": {
      "zh": "她要小林陪她喝飲料",
-     "py": "Tā yào Xiǎolín péi tā hē yǐnliào",
+     "py": "Tā yào Xiǎo Lín péi tā hē yǐnliào",
      "en": "(A) She wants Xiao Lin to have a drink with her.",
      "idn": "(A) Dia ingin Xiao Lin minum bersamanya."
     },
     "B": {
      "zh": "她要小林喝一點飲料",
-     "py": "Tā yào Xiǎolín hē yìdiǎn yǐnliào",
+     "py": "Tā yào Xiǎo Lín hē yìdiǎn yǐnliào",
      "en": "(B) She wants Xiao Lin to drink a little.",
      "idn": "(B) Dia ingin Xiao Lin minum sedikit."
     },
     "C": {
      "zh": "她不好意思讓小林請客",
-     "py": "Tā bùhǎoyìsī ràng Xiǎolín qǐngkè",
+     "py": "Tā bùhǎoyìsī ràng Xiǎo Lín qǐngkè",
      "en": "(C) She feels bad letting Xiao Lin pay.",
      "idn": "(C) Dia merasa tidak enak membiarkan Xiao Lin membayar."
     },
     "D": {
      "zh": "她點跟小林一樣的飲料",
-     "py": "Tā diǎn gēn Xiǎolín yíyàng de yǐnliào",
+     "py": "Tā diǎn gēn Xiǎo Lín yíyàng de yǐnliào",
      "en": "(D) She'll order the same drink as Xiao Lin.",
      "idn": "(D) Dia akan memesan minuman yang sama dengan Xiao Lin."
     }
@@ -766,7 +766,7 @@
     },
     {
      "zh": "女：啊！小林，不好意思，我來晚了！",
-     "py": "Nǚ: A! Xiǎolín, bùhǎoyìsī, wǒ lái wǎn le!",
+     "py": "Nǚ: A! Xiǎo Lín, bùhǎoyìsī, wǒ lái wǎn le!",
      "en": "Woman: Ah! Xiao Lin, sorry I'm late!",
      "idn": "Wanita: Ah! Xiao Lin, maaf saya terlambat!"
     },
@@ -1156,7 +1156,7 @@
     },
     {
      "zh": "女：我馬上找老王、小陳來支援。",
-     "py": "Nǚ: Wǒ mǎshàng zhǎo Lǎowáng, xiǎo Chén lái zhīyuán.",
+     "py": "Nǚ: Wǒ mǎshàng zhǎo Lǎo Wáng, Xiǎo Chén lái zhīyuán.",
      "en": "Woman: I'll get Lao Wang and Xiao Chen to help right away.",
      "idn": "Wanita: Saya akan segera minta Lao Wang dan Xiao Chen membantu."
     }
@@ -1260,7 +1260,7 @@
     },
     {
      "zh": "加入了會傷害人體健康的化學品。",
-     "py": "Jiārù lehuì shānghài réntǐ jiànkāng de huàxuépǐn.",
+     "py": "jiārù lehuì shānghài réntǐ jiànkāng de huàxuépǐn.",
      "en": "added chemicals harmful to health during processing.",
      "idn": "menambahkan bahan kimia berbahaya bagi kesehatan saat pengolahan."
     },
@@ -1272,7 +1272,7 @@
     },
     {
      "zh": "呢？",
-     "py": "Ne?",
+     "py": "ne?",
      "en": "(continuation of the line above)",
      "idn": "(lanjutan baris di atas)"
     },
@@ -1364,7 +1364,7 @@
     },
     "C": {
      "zh": "成績太差，讓母親生氣",
-     "py": "Chéngjì tài chà, ràng mǔqīn shēngqì",
+     "py": "Chéngjì tàichà, ràng mǔqīn shēngqì",
      "en": "(C) His grades are too poor, making his mother angry.",
      "idn": "(C) Nilainya terlalu buruk sehingga ibunya marah."
     },
@@ -1506,7 +1506,7 @@
     },
     "C": {
      "zh": "如何回應同事們的祝福",
-     "py": "Rúhé huíyìng tóngshì men de Zhùfú",
+     "py": "Rúhé huíyìng tóngshìmen de Zhùfú",
      "en": "(C) How to respond to colleagues' good wishes",
      "idn": "(C) Cara menanggapi ucapan selamat rekan kerja"
     },
@@ -1660,19 +1660,19 @@
     },
     {
      "zh": "有很多人在那裡散步、騎腳踏車。有段時間，大家聽說這片空地要賣給建設公司，",
-     "py": "Yǒu hěnduō rén zài nàlǐ sànbù, qí jiǎotàchē. Yǒu Duànshíjiān, dàjiā tīngshuō zhè piàn kòngdì yào mài gěi jiànshè gōngsī,",
+     "py": "yǒu hěnduō rén zài nàlǐ sànbù, qí jiǎotàchē. Yǒu Duànshíjiān, dàjiā tīngshuō zhè piàn kòngdì yào mài gěi jiànshè gōngsī,",
      "en": "many people walked and cycled there. For a while, everyone heard the land was going to be sold to a construction company",
      "idn": "banyak orang berjalan-jalan dan bersepeda di sana. Sempat beredar kabar bahwa tanah itu akan dijual kepada perusahaan konstruksi"
     },
     {
      "zh": "變成辦公大樓。不過，在大家的爭取下，這片空地現在成了公園，讓住在這附近",
-     "py": "Biànchéng bàngōngdàlóu. Búguò, zài dàjiā de zhēngqǔ xià, zhè piàn kòngdì xiànzài chéng le gōngyuán, ràng zhù zài zhè fùjìn",
+     "py": "biànchéng bàngōngdàlóu. Búguò, zài dàjiā de zhēngqǔ xià, zhè piàn kòngdì xiànzài chéng le gōngyuán, ràng zhù zài zhè fùjìn",
      "en": "and turned into office buildings. But thanks to everyone's efforts, the land has now become a park, giving people living nearby",
      "idn": "untuk dijadikan gedung perkantoran. Tetapi berkat usaha semua orang, tanah itu kini menjadi taman, sehingga warga sekitar"
     },
     {
      "zh": "的人有地方運動，這真是一件讓人開心的事。",
-     "py": "De rén yǒu dìfāng yùndòng, zhè zhēnshì yíjiàn ràng rén kāixīn de shì.",
+     "py": "de rén yǒu dìfāng yùndòng, zhè zhēnshì yíjiàn ràng rén kāixīn de shì.",
      "en": "a place to exercise. This is really something to be happy about.",
      "idn": "punya tempat untuk berolahraga. Ini sungguh hal yang menggembirakan."
     }
@@ -1764,19 +1764,19 @@
     },
     {
      "zh": "是這樣就一定能把語言學好嗎？很多孩子到了當地，連話都不敢說，也交不到當",
-     "py": "Shì zhèyàng jiù yídìng néng bǎ yǔyánxué hǎo ma? Hěnduō háizi dào le dāngdì, liánhuàdōu bùgǎn shuō, yě jiāo búdào dāng",
+     "py": "shì zhèyàng jiù yídìng néng bǎ yǔyánxué hǎo ma? Hěnduō háizi dào le dāngdì, liánhuàdōu bùgǎn shuō, yě jiāo búdào dāng",
      "en": "does that guarantee learning the language well? Many children, once there, don't even dare to speak and can't make local",
      "idn": "apakah itu menjamin bahasanya terkuasai dengan baik? Banyak anak, begitu sampai di sana, bahkan tidak berani berbicara dan tidak bisa berteman dengan orang"
     },
     {
      "zh": "地的朋友，到最後還是只和自己國家的人走在一起，這樣出國不出國有什麼不",
-     "py": "Dì de péngyǒu, dào zuìhòu háishì zhǐ hé zìjǐ guójiā de rén zǒu zài yìqǐ, zhèyàng chūguó bù chūguó yǒu shénme bù",
+     "py": "dì de péngyǒu, dào zuìhòu háishì zhǐ hé zìjǐ guójiā de rén zǒu zài yìqǐ, zhèyàng chūguó bù chūguó yǒu shénme bù",
      "en": "friends; in the end they still only hang out with people from their own country. Then what difference is there between going abroad and not",
      "idn": "setempat; akhirnya mereka tetap hanya bergaul dengan orang dari negaranya sendiri. Lalu apa bedanya pergi ke luar negeri dengan tidak"
     },
     {
      "zh": "同！",
-     "py": "Tóng!",
+     "py": "tóng!",
      "en": "going!",
      "idn": "(lanjutan) pergi!"
     }
@@ -1836,7 +1836,7 @@
     },
     "B": {
      "zh": "想花多少錢",
-     "py": "Xiǎng huā duōshǎo qián",
+     "py": "Xiǎng huā Duōshǎoqián",
      "en": "(B) How much they want to spend",
      "idn": "(B) Berapa banyak yang ingin mereka belanjakan"
     },
@@ -1868,7 +1868,7 @@
     },
     {
      "zh": "我幫您種花，還是想來店裡喝一杯花茶，請先留下聯絡方式，我會再和您確認。",
-     "py": "Wǒ bāng nín zhònghuā, háishì xiǎnglái diànlǐ hēyìbēi huāchá, qǐng xiān liúxià liánluò fāngshì, wǒhuì zài hé nín quèrèn.",
+     "py": "wǒ bāng nín zhònghuā, háishì xiǎnglái diànlǐ hēyìbēi huāchá, qǐng xiān liúxià liánluò fāngshì, wǒhuì zài hé nín quèrèn.",
      "en": "me plant flowers for you, or come to the shop for a cup of flower tea, please leave your contact details first and I'll get back to you to confirm.",
      "idn": "meminta saya menanamkan bunga, atau datang ke toko untuk minum teh bunga, silakan tinggalkan kontak Anda dulu, nanti saya hubungi kembali untuk konfirmasi."
     }
@@ -1960,13 +1960,13 @@
     },
     {
      "zh": "從來不會忘記幫我們準備飯菜，冰箱裡總是有水果和點心，生日的時候一定有禮",
-     "py": "Cóngláibú huì wàngjì bāng wǒmen zhǔnbèi fàncài, bīngxiāng lǐ zǒngshì yǒu shuǐguǒ hé diǎnxīn, shēngrì de shíhòu yídìng yǒu lǐ",
+     "py": "cóngláibú huì wàngjì bāng wǒmen zhǔnbèi fàncài, bīngxiāng lǐ zǒngshì yǒu shuǐguǒ hé diǎnxīn, shēngrì de shíhòu yídìng yǒu lǐ",
      "en": "she never forgets to prepare meals for us; there's always fruit and snacks in the fridge, and there's always a present on our",
      "idn": "dia tidak pernah lupa menyiapkan makanan untuk kami; di kulkas selalu ada buah dan camilan, dan setiap kali kami"
     },
     {
      "zh": "物。只是，平常她總在公司工作到很晚，放了假在家裡，她還是在工作，我和她",
-     "py": "Wù. Zhǐshì, píngcháng tā zǒng zài gōngsī gōngzuò dào hěn wǎn, fàng le jiǎzài jiālǐ, tā háishì zài gōngzuò, wǒ hé tā",
+     "py": "wù. Zhǐshì, píngcháng tā zǒng zài gōngsī gōngzuò dào hěn wǎn, fàng le jiǎzài jiālǐ, tā háishì zài gōngzuò, wǒ hé tā",
      "en": "birthdays. It's just that she usually works late at the office, and even on holidays at home she's still working, so I",
      "idn": "berulang tahun selalu ada hadiah. Hanya saja biasanya dia bekerja sampai larut di kantor, dan bahkan saat libur di rumah dia tetap bekerja, jadi saya"
     },
@@ -2064,13 +2064,13 @@
     },
     {
      "zh": "辦公室就這麼大，一進來，右手邊有一間小廚房，可以煮咖啡喝，還有冰箱可以",
-     "py": "Bàngōngshì jiù zhème dà, yí jìnlái, yòushǒubiān yǒu yìjiān xiǎochúfáng, kěyǐ zhǔ kāfēi hē, háiyǒu bīngxiāng kěyǐ",
+     "py": "bàngōngshì jiù zhème dà, yí jìnlái, yòushǒubiān yǒu yìjiān xiǎochúfáng, kěyǐ zhǔ kāfēi hē, háiyǒu bīngxiāng kěyǐ",
      "en": "office is just this size. As you come in, on the right there's a small kitchen where you can make coffee, and there's a fridge you can",
      "idn": "kami hanya sebesar ini. Begitu masuk, di sebelah kanan ada dapur kecil tempat kamu bisa membuat kopi, dan ada kulkas yang bisa kamu"
     },
     {
      "zh": "使用，廚房的旁邊是洗手間。我的位子在窗戶旁邊，你如果有事可以隨時來找我。",
-     "py": "Shǐyòng, chúfáng de pángbiān shì xǐshǒujiān. Wǒ de wèizi zài chuānghù pángbiān, nǐ rúguǒ yǒushì kěyǐ suíshí lái zhǎo wǒ.",
+     "py": "shǐyòng, chúfáng de pángbiān shì xǐshǒujiān. Wǒ de wèizi zài chuānghù pángbiān, nǐ rúguǒ yǒushì kěyǐ suíshí lái zhǎo wǒ.",
      "en": "use; next to the kitchen is the restroom. My desk is by the window—if you need anything, come find me anytime.",
      "idn": "pakai; di sebelah dapur ada toilet. Meja saya di dekat jendela—kalau perlu apa-apa, silakan temui saya kapan saja."
     }
@@ -2168,7 +2168,7 @@
     },
     {
      "zh": "請輸入乘車日期，如 7 月 4 號，請輸入 0704",
-     "py": "Qǐng shūrù chéngchē rìqī, rú 7 yuè 4 hào, qǐng shūrù 0704",
+     "py": "qǐng shūrù chéngchē rìqī, rú 7 yuè 4 hào, qǐng shūrù 0704",
      "en": "Please enter your travel date; for example, for July 4, enter 0704.",
      "idn": "Silakan masukkan tanggal keberangkatan; misalnya untuk 4 Juli, masukkan 0704."
     },
@@ -2296,13 +2296,13 @@
     },
     {
      "zh": "來的。因為今天有客人到家裡來，所以她一早就出門買菜了。她問我客人來了沒",
-     "py": "Lái de. Yīnwèi jīntiān yǒu kèrén dào jiālǐ lái, suǒyǐ tā yì zǎojiù chūmén mǎicài le. Tā wèn wǒ kèrén lái le méi",
+     "py": "lái de. Yīnwèi jīntiān yǒu kèrén dào jiālǐ lái, suǒyǐ tā yì zǎojiù chūmén mǎicài le. Tā wèn wǒ kèrén lái le méi",
      "en": "calling. Because we have guests coming today, she went out early to buy groceries. She asked me whether the guests had arrived yet,",
      "idn": "yang menelepon. Karena hari ini ada tamu datang, dia keluar pagi-pagi untuk berbelanja bahan makanan. Dia bertanya apakah tamunya sudah datang,"
     },
     {
      "zh": "有？要我把客廳整理乾淨，我告訴她，客人來了我會招待，請她不要擔心。",
-     "py": "Yǒu? Yào wǒ bǎ kètīng zhěnglǐ gānjìng, wǒ gàosù tā, kèrén lái le wǒhuì zhāodài, qǐng tā búyào dānxīn.",
+     "py": "yǒu? Yào wǒ bǎ kètīng zhěnglǐ gānjìng, wǒ gàosù tā, kèrén lái le wǒhuì zhāodài, qǐng tā búyào dānxīn.",
      "en": "and told me to tidy up the living room. I told her I'd look after the guests when they came, and asked her not to worry.",
      "idn": "dan menyuruh saya merapikan ruang tamu. Saya bilang saya akan melayani tamu kalau mereka datang, dan memintanya tidak khawatir."
     }

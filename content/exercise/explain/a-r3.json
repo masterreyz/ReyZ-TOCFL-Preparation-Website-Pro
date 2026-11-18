@@ -23,7 +23,7 @@
   "3": {
    "stem": {
     "zh": "這杯飲料太甜了，小林想加一點水。",
-    "py": "Zhè bēi yǐnliào tài tián le, Xiǎolín xiǎng jiāyìdiǎn shuǐ.",
+    "py": "Zhè bēi yǐnliào tài tián le, Xiǎo Lín xiǎng jiāyìdiǎn shuǐ.",
     "en": "This drink is too sweet; Xiao Lin wants to add a little water.",
     "idn": "Minuman ini terlalu manis; Xiao Lin ingin menambahkan sedikit air."
    }
@@ -438,7 +438,7 @@
    "options": {
     "A": {
      "zh": "每個人都戴著帽子。",
-     "py": "Měi ge rén dōu dài zhe màozi.",
+     "py": "Měi ge rén dōu dàizhe màozi.",
      "en": "Everyone is wearing a hat.",
      "idn": "Semua orang memakai topi."
     },
@@ -472,7 +472,7 @@
     },
     "C": {
      "zh": "她戴著一頂漂亮的帽子。",
-     "py": "Tā dài zhe yìdǐng piàoliang de màozi.",
+     "py": "Tā dàizhe yìdǐng piàoliang de màozi.",
      "en": "She is wearing a pretty hat.",
      "idn": "Dia memakai topi yang cantik."
     }
@@ -1588,13 +1588,13 @@
     },
     {
      "zh": "但是每次做菜的時候，都聞到鄰居家的香味，聞起來比自己煮的香。",
-     "py": "Dànshì měicì zuòcài de shíhòu, dōu wéndào línjūjiā de xiāngwèi, wén qǐlái bǐ zìjǐ zhǔ de xiāng.",
+     "py": "Dànshì měicì zuòcài de shíhòu, dōu wéndào línjūjiā de xiāngwèi, wénqǐlái bǐ zìjǐ zhǔ de xiāng.",
      "en": "But every time they cooked, they smelled the delicious aromas from the neighbors' homes, which smelled better than what they cooked.",
      "idn": "Tetapi setiap kali memasak, mereka mencium aroma lezat dari rumah tetangga, yang lebih harum daripada masakan mereka."
     },
     {
      "zh": "所以他們決定開一家網路廚房公司，讓學生可以和會做菜的媽媽們買美食，這家公司負責把食物送到學生宿舍。",
-     "py": "Suǒyǐ tāmen juédìng kāi yìjiā wǎnglù chúfáng gōngsī, ràng xuéshēng kěyǐ hé huì zuòcài de māma men mǎi měishí, zhèjiā gōngsī fùzé bǎ shíwù sòngdào xuéshēngsùshè.",
+     "py": "Suǒyǐ tāmen juédìng kāi yìjiā wǎnglù chúfáng gōngsī, ràng xuéshēng kěyǐ hé huì zuòcài de māmamen mǎi měishí, zhèjiā gōngsī fùzé bǎ shíwù sòngdào xuéshēngsùshè.",
      "en": "So they decided to open an online kitchen company that lets students buy good food from moms who can cook; the company is responsible for delivering the food to the student dormitories.",
      "idn": "Maka mereka memutuskan membuka perusahaan dapur daring yang memungkinkan mahasiswa membeli masakan enak dari para ibu yang pandai memasak; perusahaan bertugas mengantarkan makanan ke asrama mahasiswa."
     },
@@ -1620,7 +1620,7 @@
     },
     "B": {
      "zh": "請媽媽們教學生做菜",
-     "py": "Qǐng māma men jiāo xuéshēng zuòcài",
+     "py": "Qǐng māmamen jiāo xuéshēng zuòcài",
      "en": "Inviting moms to teach students to cook",
      "idn": "Mengundang para ibu untuk mengajari mahasiswa memasak"
     },

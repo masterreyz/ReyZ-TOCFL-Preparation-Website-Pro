@@ -65,7 +65,7 @@ The book's dialogues, exercises, explanations and illustrations are **not** copi
 
 Pinyin is generated for every Chinese text. English is written per test in `pipeline/explain_src/<testId>.json` (see README §4). Order of work: Novice → A → B Reading → C Reading → B Listening → C Listening.
 Indonesian is written per test in `pipeline/explain_src_id/<testId>.json` (keyed by segment id; `img:<n>:<k>` for text inside pictures), written from the Chinese and checked against the English; `python3 pipeline/explain_tool.py idsheet <tid>` prints the sheet, `merge <tid>` writes `idn` + `indonesianComplete`. In the panel each line shows Chinese, a ▶ button (TTS), pinyin, EN and ID.
-Pinyin rules live in `pipeline/pinyin_util.py`: context rules for 得 (de/děi/dé), 著 (zhe/zháo/zhuó), 地 → de, 了 → liǎo after V得, other polyphones (長 教 當 應 種 量 重 數 乾 調 假 還 好 中 為), 一/不 sandhi across word boundaries, erhua, syllable apostrophes, ○ → líng.
+Pinyin rules live in `pipeline/pinyin_util.py`: context rules for 得 (de/děi/dé), 著 (zhe/zháo/zhuó), 地 → de, 了 → liǎo after V得, other polyphones (長 教 當 應 種 量 重 數 乾 調 假 還 好 中 為), 一/不 sandhi across word boundaries, erhua, syllable apostrophes, ○ → líng, 們 and aspect 著 joined to the word (tóngshìmen, mángzhe), 小/老 + surname written as a name (Xiǎo Zhāng, Lǎo Wáng). A line that continues a sentence from the line above (transcripts wrapped mid-sentence) starts in lowercase.
 
 | Test | Segments | English | Indonesian |
 |---|---|---|---|
